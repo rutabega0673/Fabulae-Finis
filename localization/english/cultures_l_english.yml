@@ -55,10 +55,55 @@
  minnesotan:0 "Minnesotan"
  yooper:0 "Yooper"
  cheesehead:0 "Cheesehead"
+ northlander:0 "Northlander"
 
  ## Midwestern ##
-  midwestern:0 "Midwestern"
- 	gatewayan:0 "Gatewayan"
-	heartlander:0 "Heartlander" 
-	grangelander:0 "Grangelander"
-	okie:0 "Okie" 
+ midwestern:0 "Midwestern"
+ gatewayan:0 "Gatewayan"
+ heartlander:0 "Heartlander" 
+ grangelander:0 "Grangelander"
+ okie:0 "Okie" 
+
+ ## Laurentian ##
+ laurentian:0 "Laurentian"
+ sixer:0 "Sixer"
+ shieldshorer:0 "Shieldshorer"
+ ontarian:0 "Ontarian"
+
+ ## Canayen ##
+ canayen:0 "Canayen"
+ montrealais:0 "Montrealais"
+ pierrais:0 "Pierrais"
+ acadien:0 "Acadien"
+ francontarien:0 "Francontarien"
+ quebecois:0 "Quebecois"
+
+ ## Amish ##
+ amish:0 "Amish"
+ deitsch:0 "Deitsch"
+
+ ## Lakelander ##
+ lakelander:0 "Steelfolk"
+ motowner:0 "Motowner"
+ michigander:0 "Michigander"
+ buckeye:0 "Buckeye"
+ chicagoan:0 "Chicagoan"
+ hoosier:0 "Hoosier"
+
+ ## Upland ##
+ upland:0 "Upland"
+ appalachian:0 "Appalachian"
+ ozark:0 "Ozark"
+ butternutter:0 "Butternutter"
+ yinzic:0 "Yinzer"
+ riverlander:0 "Riverlander"
+
+ ## Missourien ##
+ missourien:0 "Missourien"
+ paw_paw:0 "Paw Paw"
+
+ ## Texan ##
+ texan:0 "Texan"
+ tejano:0 "Tejano"
+ texaner:0 "Texaner"
+ estacadan:0 "Estacadan"
