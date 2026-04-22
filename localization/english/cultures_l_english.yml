@@ -16,3 +16,7 @@
  NAVY_NAME_mayan:0 "$NUM$$ORDER$ Aj K'ab'"
  COHORT_NAME_mayan:0 "$NUM$$ORDER$ Ch'akb'al $HOME$"
  LEGION_NAME_mayan:0 "$NUM$$ORDER$ Tz'akb'al of $HOME$"
+
+ ## Louisianais ##
+ louisianais:0 "Louisianais"
+ nolan:0 "Nolan"
