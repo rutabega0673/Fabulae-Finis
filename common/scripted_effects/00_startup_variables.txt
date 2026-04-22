@@ -1,0 +1,9 @@
+﻿
+startup_variables_unique_mechanics_effect = {
+}
+
+startup_variables_unique_deities_effect = {
+}
+
+startup_cultural_decisions_effect = {
+}

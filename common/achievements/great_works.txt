@@ -1,0 +1,48 @@
+﻿###########################
+## Achievements for 1.6 and the associated dlc
+#############################
+
+ach_unexpected_turn = {
+	possible = {
+		always = no
+	}
+	
+	happened = {
+	}
+}
+
+ach_wonder_builder = {
+	possible = {
+		always = no
+	}
+	
+	happened = {
+	}
+}
+
+ach_the_great_destroyer = {
+	possible = {
+		always = no
+	}
+	
+	happened = {
+	}
+}
+
+ach_measure_earth = {
+	possible = {
+		always = no
+	}
+	
+	happened = {
+	}
+}
+
+ach_corners_of_the_world = {
+	possible = {
+		always = no
+	}
+	
+	happened = {
+	}
+}

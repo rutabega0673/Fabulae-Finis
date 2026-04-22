@@ -1,0 +1,68 @@
+﻿on_great_battle_won_country = { #root = country scope of the main unit on the winning side, scope:actor = main unit on the winning side, scope:target = main unit on the losing side
+	effect = {
+		if = {
+			limit = {
+				scope:actor = {
+					exists = commander
+				}
+			}
+			scope:actor.commander = {
+				set_variable = {
+					name = great_battle_won_flag
+					days = 720
+				}
+				trigger_event = {
+					on_action = custom_on_great_battle_commander
+				}
+			}
+		}
+		if = {
+			limit = {
+				scope:actor = { has_legion_trigger = yes }
+			}
+			if = {
+				limit = { exists = scope:actor.commander }
+				scope:actor.legion = {
+					add_legion_history = {
+						key = great_battle_won_history
+						commander = scope:actor.commander
+						province = scope:actor.unit_location
+					}
+				}
+			}
+			else = {
+				scope:actor.legion = {
+					add_legion_history = {
+						key = great_battle_won_history
+						commander = scope:actor.unit_owner.current_ruler
+						province = scope:actor.unit_location
+					}
+				}
+			}
+		}
+	}
+	random_events = {
+		90 = 0
+		50 = ip_monarchy.60
+		50 = ip_monarchy.61
+		10 = distinction.1
+		10 = distinction.2
+		10 = distinction.3
+		10 = distinction.4
+		10 = distinction.5
+		10 = distinction.8
+		10 = distinction.9
+		5 = distinction.13
+		10 = distinction.14
+		10 = distinction.15
+		15 = distinction.16
+		10 = distinction.18
+		5 = distinction.20
+		10 = inv_distinction.1
+	}
+}
+
+#on_battle_won_country = { #root = country scope of the main unit on the winning side, scope:actor = main unit on the winning side, scope:target = main unit on the losing side
+#	events = {
+#	}
+#}

@@ -1,0 +1,35 @@
+﻿city_is_in_hurricane_zone_trigger = {
+	OR = {
+		
+	}
+}
+is_in_caribbean_trigger = {
+	OR = {
+		
+	}
+}
+is_in_gulf_of_mexico_trigger = {
+	OR = {
+		
+	}
+}
+is_in_central_america_trigger = {
+	OR = {
+		
+	}
+}
+is_in_atlantic_coast_trigger = {
+	OR = {
+		
+	}
+}
+is_in_pacific_coast_trigger = {
+	OR = {
+		
+	}
+}
+is_in_north_south_america_trigger = {
+	OR = {
+
+	}
+}

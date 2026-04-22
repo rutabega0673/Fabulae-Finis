@@ -1,0 +1,69 @@
+﻿## All Bloodline passdown effects are in this file and this file only.
+## Each new bloodline has to be added to the bloodline_on_born_effect and bloodline_setup_effect scripted effects
+
+bloodline_on_born_effect = {
+    pass_down_bloodline_character_effect = { BLOODLINE = "yax_ehb_xok_blood"}
+    pass_down_bloodline_character_effect = { BLOODLINE = "snake_dynasty_blood"}
+}
+
+bloodline_setup_effect = {
+    pass_down_bloodline_effect = { BLOODLINE = "yax_ehb_xok_blood"}
+    pass_down_bloodline_effect = { BLOODLINE = "snake_dynasty_blood"}
+}
+
+pass_down_bloodline_effect = {
+    every_character = {
+        if = {
+            limit = {
+                exists = father
+                father = {
+                    has_trait = $BLOODLINE$
+                }                
+                NOT = {
+                    has_trait = $BLOODLINE$
+                }
+            }
+            force_add_trait = $BLOODLINE$
+        }
+        if = {
+            limit = {
+                exists = mother
+                mother = {
+                    has_trait = $BLOODLINE$
+                }
+                NOT = {
+                    has_trait = $BLOODLINE$
+                }
+            }
+            force_add_trait = $BLOODLINE$
+        }
+    }
+}
+
+# Same as above but for an individual character
+pass_down_bloodline_character_effect = {
+    if = {
+        limit = {
+            exists = father
+            father = {
+                has_trait = $BLOODLINE$
+            }                
+            NOT = {
+                has_trait = $BLOODLINE$
+            }
+        }
+        force_add_trait = $BLOODLINE$
+    }
+    if = {
+        limit = {
+            exists = mother
+            mother = {
+                has_trait = $BLOODLINE$
+            }
+            NOT = {
+                has_trait = $BLOODLINE$
+            }
+        }
+        force_add_trait = $BLOODLINE$
+    }
+}

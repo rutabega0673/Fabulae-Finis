@@ -1,0 +1,90 @@
+﻿# Achievements for 2.0 and Heirs of Alexander DLC #
+ach_rising_sun = {
+	possible = {
+		always = no
+	}
+	
+	happened = {
+	}
+}
+
+ach_gazophylax = {
+	possible = {
+		always = no
+	}
+	
+	happened = {
+	}
+}
+
+ach_king_blind = {
+	possible = {
+		always = no
+	}
+	
+	happened = {
+	}
+}
+
+ach_periplus_seas = {
+	possible = {
+		always = no
+	}
+	
+	happened = {
+	}
+}
+
+ach_legio_augusta = {
+	possible = {
+		always = no
+	}
+	
+	happened = {
+	}
+}
+
+ach_nikator = {
+	possible = {
+		always = no
+	}
+	
+	happened = {
+	}
+}
+
+ach_mountain_king = {
+	possible = {
+		always = no
+	}
+	
+	happened = {
+	}
+}
+
+ach_ktistes = {
+	possible = {
+		always = no
+	}
+	
+	happened = {
+	}
+}
+
+ach_proclamation_tyre = {
+	possible = {
+		always = no
+	}
+	
+	happened = {
+	}
+}
+
+ach_eumenes_footsteps = {
+	possible = {
+		always = no
+	}
+	
+	happened = {
+	}
+}

@@ -1,0 +1,63 @@
+﻿
+ach_pentecontaetia = {
+	possible = {
+		always = no
+	}
+	
+	happened = {
+	}
+}
+
+ach_laconic_if = {
+	possible = {
+		always = no
+	}
+	
+	happened = {
+	}
+}
+
+ach_tyrant_to_king = {
+	possible = {
+		always = no
+	}
+	
+	happened = {
+	}
+}
+
+ach_pytheas_legacy = {
+	possible = {
+		always = no
+	}
+	
+	happened = {
+	}
+}
+
+ach_brennus_revenge = {
+	possible = {
+		always = no
+	}
+	
+	happened = {
+	}
+}
+
+ach_holy_pilgrim = {
+	possible = {
+		always = no
+	}
+	
+	happened = {
+	}
+}
+
+ach_gotta_catch_them_all = {
+	possible = {
+		always = no
+	}
+	
+	happened = {
+	}
+}

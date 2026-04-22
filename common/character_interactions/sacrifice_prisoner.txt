@@ -1,0 +1,71 @@
+﻿sacrifice_prisoner = {
+
+	on_other_nation = no
+	on_own_nation = yes
+	
+	sound = "event:/SFX/UI/Character/Generic/sfx_ui_character_war"
+	
+	potential_trigger = {
+		hidden:scope:actor = {
+			is_tribal = yes
+		}
+		hidden:scope:target = {
+			employer = scope:actor
+			is_alive = yes
+			prisoner_valid_for_country_events_trigger = yes
+		}
+	}
+	
+	allowed_trigger = {
+		scope:actor = {
+			has_law = adopt_human_sacrifice_law_tribal
+			can_pay_price = price_sacrifice
+		}
+		scope:target = {
+			is_adult = yes
+			prisoner = yes
+			NOT = { has_same_culture_as = scope:actor.current_ruler }
+		}
+	}
+	
+	effect = {
+		trigger_event = {
+			on_action = custom_on_action_sacrifice
+		}
+		scope:actor = {
+			pay_price = price_sacrifice
+			if = {
+				limit = { scope:target.martial > 0 }
+				add_centralization = {
+					value = 0
+					subtract = {
+						value = scope:target.martial
+						divide = 10
+					}
+				}
+				custom_tooltip = "sacrifice_tooltip"
+			}
+			add_country_modifier = {
+				name = sacrifice_interaction_modifier
+				duration = 1825
+			}
+		}
+		scope:target = {
+			death = { 
+				death_reason = death_sacrifice
+				killer = scope:actor.current_ruler
+			}
+		}
+	}
+	
+	ai_will_do = {
+		modifier = {
+			add = 10
+			trigger = {
+				employer = {
+					centralization < -20
+				}
+			}
+		}
+	}
+}	

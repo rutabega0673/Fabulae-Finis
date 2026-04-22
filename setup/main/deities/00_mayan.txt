@@ -1,0 +1,8 @@
+deity_manager = {
+    deities_database = { ### KEYS 1 - 199 ###
+		1 = {
+			key = omen_acan
+			deity = deity_acan
+		}
+	}
+}

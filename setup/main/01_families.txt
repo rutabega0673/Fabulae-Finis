@@ -1,0 +1,18 @@
+family={
+	families={
+		#Numbers do not have to appear in numerical order but do have to be unique:
+		0={
+			key="Xokid"
+			owner=TIK
+			culture = highland
+			prestige=300
+			color = 0
+		}
+		1={
+			key="Kanul"
+			owner=CAL
+			culture = highland
+			prestige=100
+		}
+	}
+}

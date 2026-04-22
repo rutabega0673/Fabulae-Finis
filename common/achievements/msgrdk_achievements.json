@@ -1,0 +1,224 @@
+{
+	"mapping": [
+		{
+			"pdx_id": "ach_cincinattus",
+			"xbla_id": "1"
+		},
+		{
+			"pdx_id": "ach_tribal_concord",
+			"xbla_id": "2"
+		},
+		{
+			"pdx_id": "ach_render_unto_caesar",
+			"xbla_id": "3"
+		},
+		{
+			"pdx_id": "ach_a_new_home",
+			"xbla_id": "4"
+		},
+		{
+			"pdx_id": "ach_alea_iacta_est",
+			"xbla_id": "5"
+		},
+		{
+			"pdx_id": "ach_soldier_of_fortune",
+			"xbla_id": "6"
+		},
+		{
+			"pdx_id": "ach_panem_et_circenses",
+			"xbla_id": "7"
+		},
+		{
+			"pdx_id": "ach_international_relations",
+			"xbla_id": "8"
+		},
+		{
+			"pdx_id": "ach_strategic_reserve",
+			"xbla_id": "9"
+		},
+		{
+			"pdx_id": "ach_triumvir",
+			"xbla_id": "10"
+		},
+		{
+			"pdx_id": "ach_aristotle",
+			"xbla_id": "11"
+		},
+		{
+			"pdx_id": "ach_circles",
+			"xbla_id": "12"
+		},
+		{
+			"pdx_id": "ach_tribal_assembly",
+			"xbla_id": "13"
+		},
+		{
+			"pdx_id": "ach_hispania_universalis",
+			"xbla_id": "14"
+		},
+		{
+			"pdx_id": "ach_romans_done_for_us",
+			"xbla_id": "15"
+		},
+		{
+			"pdx_id": "ach_punic_ascendance",
+			"xbla_id": "16"
+		},
+		{
+			"pdx_id": "ach_times_new_roman",
+			"xbla_id": "17"
+		},
+		{
+			"pdx_id": "ach_antipaters_dream",
+			"xbla_id": "18"
+		},
+		{
+			"pdx_id": "ach_the_besieger",
+			"xbla_id": "19"
+		},
+		{
+			"pdx_id": "ach_over_9000",
+			"xbla_id": "20"
+		},
+		{
+			"pdx_id": "ach_romans_are_crazy",
+			"xbla_id": "21"
+		},
+		{
+			"pdx_id": "ach_carthago_delenda_est",
+			"xbla_id": "22"
+		},
+		{
+			"pdx_id": "ach_new_kingdom",
+			"xbla_id": "23"
+		},
+		{
+			"pdx_id": "ach_pyrrhic_victory",
+			"xbla_id": "24"
+		},
+		{
+			"pdx_id": "ach_perfidious_albion",
+			"xbla_id": "25"
+		},
+		{
+			"pdx_id": "ach_imperial_ambition",
+			"xbla_id": "26"
+		},
+		{
+			"pdx_id": "ach_envy_of_the_world",
+			"xbla_id": "27"
+		},
+		{
+			"pdx_id": "ach_pan_hellenic_league",
+			"xbla_id": "28"
+		},
+		{
+			"pdx_id": "ach_stonehenge",
+			"xbla_id": "29"
+		},
+		{
+			"pdx_id": "ach_soter",
+			"xbla_id": "30"
+		},
+		{
+			"pdx_id": "ach_end_of_world",
+			"xbla_id": "31"
+		},
+		{
+			"pdx_id": "ach_three_great_fires",
+			"xbla_id": "32"
+		},
+		{
+			"pdx_id": "ach_holy_fire",
+			"xbla_id": "33"
+		},
+		{
+			"pdx_id": "ach_alexanders_empire",
+			"xbla_id": "34"
+		},
+		{
+			"pdx_id": "ach_garum_nobile",
+			"xbla_id": "35"
+		},
+		{
+			"pdx_id": "ach_true_vandal",
+			"xbla_id": "36"
+		},
+		{
+			"pdx_id": "ach_germania_magna",
+			"xbla_id": "37"
+		},
+		{
+			"pdx_id": "ach_man_who_would_be_king",
+			"xbla_id": "38"
+		},
+		{
+			"pdx_id": "ach_ashokas_pillars",
+			"xbla_id": "39"
+		},
+		{
+			"pdx_id": "ach_mare_nostrum",
+			"xbla_id": "40"
+		},
+		{
+			"pdx_id": "ach_megalopolis",
+			"xbla_id": "41"
+		},
+		{
+			"pdx_id": "ach_boiiiiiiiiiiii",
+			"xbla_id": "42"
+		},
+		{
+			"pdx_id": "ach_molon_labe",
+			"xbla_id": "43"
+		},
+		{
+			"pdx_id": "ach_spice_must_flow",
+			"xbla_id": "44"
+		},
+		{
+			"pdx_id": "ach_kingdom_of_david",
+			"xbla_id": "45"
+		},
+		{
+			"pdx_id": "ach_rednaxela",
+			"xbla_id": "46"
+		},
+		{
+			"pdx_id": "ach_heraclea_persica",
+			"xbla_id": "47"
+		},
+		{
+			"pdx_id": "ach_tyrian_purple",
+			"xbla_id": "48"
+		},
+		{
+			"pdx_id": "ach_pax_aeterna",
+			"xbla_id": "49"
+		},
+		{
+			"pdx_id": "ach_worlds_desire",
+			"xbla_id": "50"
+		},
+		{
+			"pdx_id": "ach_unexpected_turn",
+			"xbla_id": "51"
+		},
+		{
+			"pdx_id": "ach_wonder_builder",
+			"xbla_id": "52"
+		},
+		{
+			"pdx_id": "ach_the_great_destroyer",
+			"xbla_id": "53"
+		},
+		{
+			"pdx_id": "ach_measure_earth",
+			"xbla_id": "54"
+		},
+		{
+			"pdx_id": "ach_corners_of_the_world",
+			"xbla_id": "55"
+		}
+	]
+}

@@ -1,0 +1,173 @@
+﻿namespace = comet
+
+comet.1 = {
+	type = country_event
+	title = "comet.1.t"
+	desc = "comet.1.desc"
+	
+	left_portrait = current_ruler
+	right_portrait = scope:priest
+	
+	picture = natural_disaster
+	
+	trigger = {
+		has_land = yes
+		any_neighbour_country = {
+			has_land = yes
+		}
+		NOT = {
+			has_variable = comet_sighted
+		}
+		any_character = {
+			OR = {
+				has_office = office_high_priest_monarchy
+				has_office = office_augur
+				has_office = office_pontifex
+				has_office = office_high_priest
+			}
+		}
+	}
+	
+	fire_only_once = yes
+	
+	immediate = {
+		random_neighbour_country = {
+			limit = {
+				has_land = yes
+			} 
+			random_owned_province = {
+				save_scope_as = target
+			}
+		}
+		set_variable = {
+			name = comet_sighted
+			value = scope:target
+		}
+		random_character = {
+			limit = {
+				OR = {
+					has_office = office_high_priest_monarchy
+					has_office = office_augur
+					has_office = office_pontifex
+					has_office = office_high_priest
+				}
+			}
+			save_scope_as = priest
+		}
+		every_neighbour_country = {
+			limit = {
+				has_land = yes
+				any_neighbour_country = {
+					has_land = yes
+				}
+				NOT = {
+					has_variable = comet_sighted
+				}
+				any_character = {
+					OR = {
+						has_office = office_high_priest_monarchy
+						has_office = office_augur
+						has_office = office_pontifex
+						has_office = office_high_priest
+					}
+				}
+			}
+			trigger_event = {
+				id = comet.1
+				days = 2
+			}
+		}
+	}
+	
+	option = { 
+		name = "comet.1.a"
+		add_stability = 10
+		custom_tooltip = "comet_sighted_1_tt"
+	}
+	 
+}
+
+comet.2 = {
+	type = province_event
+	hidden = yes
+	
+	trigger = {
+		exists = owner
+		owner = {
+			has_variable = comet_sighted
+			var:comet_sighted = root
+		}
+	}
+	
+	immediate = {
+		save_scope_as = target
+		owner = {
+			trigger_event = {
+				id = comet.3
+			}
+		}
+	}
+	
+}
+
+comet.3 = {
+	type = country_event
+	title = "comet.3.t"
+	desc = "comet.3.desc"
+	
+	picture = farming
+	
+	option = {
+		name = "comet.3.a"
+		add_country_modifier = {
+			name = comet_sighted_modifier
+			duration = -1
+		}
+	}
+	
+}
+
+comet.4 = {
+	type = country_event
+	title = "comet.4.t"
+	desc = "comet.4.desc"
+	
+	picture = city_country
+	
+	trigger = {
+		has_country_modifier = comet_sighted_modifier
+		has_variable = comet_sighted
+		var:comet_sighted = {
+			has_owner = yes
+			owner = root
+			is_capital = no
+		}
+		war = yes
+		manpower >= 10
+		NOT = {
+			has_variable = comet_moved_toggle
+		}
+	}
+	
+	immediate = {
+		var:comet_sighted = {
+			save_scope_as = target
+		}
+		set_variable = {
+			name = comet_moved_toggle
+		}
+	}
+	
+	option = {
+		name = "comet.4.a"
+		add_manpower = -10
+		add_war_exhaustion = 4
+		add_stability = 20
+	}
+	
+	option = {
+		name = "comet.4.b"
+		remove_country_modifier = comet_sighted_modifier
+	}
+	
+}

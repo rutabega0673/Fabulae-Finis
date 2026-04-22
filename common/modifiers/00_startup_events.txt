@@ -1,0 +1,8 @@
+﻿startup_events_1_modifier = { #Shadow of the Giants
+	global_commerce_modifier = -0.03
+	global_population_growth = -0.01
+	land_morale_modifier = -0.05
+	agressive_expansion_impact = 0.03
+	war_score_cost = 0.05
+	country_civilization_value = -2.5
+}

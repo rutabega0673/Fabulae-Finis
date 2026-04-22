@@ -1,0 +1,25 @@
+provinces = { #Any entry must contain a comment with city name.
+	### TREASURES ###
+#	XXXX = { #NAME
+#		treasure_slots = { treasures = { XX } }
+#	}
+
+	### BUILDINGS
+#	XXXX = { #NAME
+#		commerce_building = 1
+#		court_building = 1
+#		town_hall_building = 1
+#		military_building = 2
+#		fortress_building = 1
+#		library_building = 1
+#		modifier = { modifier = MODIFIER always = yes }
+#	}
+	
+	#### PIRATES
+#	XXXX = { modifier = { modifier = pirate_haven_modifier always = yes } } #NAME
+
+	### BARBARIANS
+#	XXXX = {
+#		modifier = { modifier = generic_barbarian_spawn_place }
+#	}
+}

@@ -1,0 +1,472 @@
+﻿###########################
+## 1 VERY EASY ACHIEVEMENTS 
+#############################
+
+ach_cincinattus = {
+	possible = {
+		always = no
+	}
+	
+	happened = {
+	}
+}
+
+ach_tribal_concord = {
+	possible = {
+		always = no
+	}
+	
+	happened = {
+	}
+}
+
+ach_render_unto_caesar = {
+	possible = {
+		always = no
+	}
+	
+	happened = {
+	}
+}
+
+ach_a_new_home = {
+	possible = {
+		always = no
+	}
+	
+	happened = {
+	}
+}
+
+ach_alea_iacta_est = {
+	possible = {
+		always = no
+	}
+	
+	happened = {
+	}
+}
+
+ach_soldier_of_fortune = {
+	possible = {
+		always = no
+	}
+	
+	happened = {
+	}
+}
+
+ach_panem_et_circenses = {
+	possible = {
+		always = no
+	}
+	
+	happened = {
+	}
+}
+
+ach_international_relations = {
+	possible = {
+		always = no
+	}
+	
+	happened = {
+	}
+}
+
+ach_strategic_reserve = {
+	possible = {
+		always = no
+	}
+	
+	happened = {
+	}
+}
+
+#####
+# Easy
+#####
+
+ach_triumvir = {
+	possible = {
+		always = no
+	}
+	
+	happened = {
+	}
+}
+
+ach_aristotle = {
+	possible = {
+		always = no
+	}
+	
+	happened = {
+	}
+}
+
+ach_circles = {
+	possible = {
+		always = no
+	}
+	
+	happened = {
+	}
+}
+
+ach_tribal_assembly = {
+	possible = {
+		always = no
+	}
+	
+	happened = {
+	}
+}
+
+ach_hispania_universalis = {
+	possible = {
+		always = no
+	}
+	
+	happened = {
+	}
+}
+
+ach_romans_done_for_us = {
+	possible = {
+		always = no
+	}
+	
+	happened = {
+	}
+}
+
+ach_punic_ascendance = {
+	possible = {
+		always = no
+	}
+	
+	happened = {
+	}
+}
+
+ach_times_new_roman = {
+	possible = {
+		always = no
+	}
+	
+	happened = {
+	}
+}
+
+ach_antipaters_dream = {
+	possible = {
+		always = no
+	}
+	
+	happened = {
+	}
+}
+
+ach_the_besieger = {
+	possible = {
+		always = no
+	}
+	
+	happened = {
+	}
+}
+
+#####
+# Medium
+#####
+
+ach_over_9000 = {
+	possible = {
+		always = no
+	}
+	
+	happened = {
+	}
+}
+
+ach_romans_are_crazy = {
+	possible = {
+		always = no
+	}
+	
+	happened = {
+	}
+}
+
+ach_carthago_delenda_est = {
+	possible = {
+		always = no
+	}
+	
+	happened = {
+	}
+}
+
+ach_new_kingdom = {
+	possible = {
+		always = no
+	}
+	
+	happened = {
+	}
+}
+
+ach_pyrrhic_victory = {
+	possible = {
+		always = no
+	}
+	
+	happened = {
+	}
+}
+
+ach_perfidious_albion = {
+	possible = {
+		always = no
+	}
+	
+	happened = {
+	}
+}
+
+ach_imperial_ambition = {
+	possible = {
+		always = no
+	}
+	
+	happened = {
+	}
+}
+
+ach_envy_of_the_world = {
+	possible = {
+		always = no
+	}
+	
+	happened = {
+	}
+}
+
+ach_pan_hellenic_league = {
+	possible = {
+		always = no
+	}
+	
+	happened = {
+	}
+}
+
+ach_stonehenge = {
+	possible = {
+		always = no
+	}
+	
+	happened = {
+	}
+}
+
+ach_soter = {
+	possible = {
+		always = no
+	}
+	
+	happened = {
+	}
+}
+
+ach_end_of_world = {
+	possible = {
+		always = no
+	}
+	
+	happened = {
+	}
+}
+
+ach_three_great_fires = {
+	possible = {
+		always = no
+	}
+	
+	happened = {
+	}
+}
+
+ach_holy_fire = {
+	possible = {
+		always = no
+	}
+	
+	happened = {
+	}
+}
+
+#####
+# Hard
+#####
+
+ach_alexanders_empire = {
+	possible = {
+		always = no
+	}
+	
+	happened = {
+	}
+}
+
+ach_garum_nobile = {
+	possible = {
+		always = no
+	}
+	
+	happened = {
+	}
+}
+
+ach_true_vandal = {
+	possible = {
+		always = no
+	}
+	
+	happened = {
+	}
+}
+
+ach_germania_magna = {
+	possible = {
+		always = no
+	}
+	
+	happened = {
+	}
+}
+
+ach_man_who_would_be_king = {
+	possible = {
+		always = no
+	}
+	
+	happened = {
+	}
+}
+
+ach_ashokas_pillars = {
+	possible = {
+		always = no
+	}
+	
+	happened = {
+	}
+}
+
+ach_mare_nostrum = {
+	possible = {
+		always = no
+	}
+	
+	happened = {
+	}
+}
+
+ach_megalopolis = {
+	possible = {
+		always = no
+	}
+	
+	happened = {
+	}
+}
+
+ach_boiiiiiiiiiiii = {
+	possible = {
+		always = no
+	}
+	
+	happened = {
+	}
+}
+
+ach_molon_labe = {
+	possible = {
+		always = no
+	}
+	
+	happened = {
+	}
+}
+
+#####
+# Very Hard
+#####
+
+ach_spice_must_flow = {
+	possible = {
+		always = no
+	}
+	
+	happened = {
+	}
+}
+
+ach_kingdom_of_david = {
+	possible = {
+		always = no
+	}
+	
+	happened = {
+	}
+}
+
+ach_rednaxela = {
+	possible = {
+		always = no
+	}
+	
+	happened = {
+	}
+}
+
+ach_heraclea_persica = {
+	possible = {
+		always = no
+	}
+	
+	happened = {
+	}
+}
+
+ach_tyrian_purple = {
+	possible = {
+		always = no
+	}
+	
+	happened = {
+	}
+}
+
+
+
+ach_pax_aeterna = {
+	possible = {
+		always = no
+	}
+	
+	happened = {
+	}
+}
+
+ach_worlds_desire = {
+	possible = {
+		always = no
+	}
+	
+	happened = {
+	}
+}
+

@@ -1,0 +1,20 @@
+﻿yax_ehb_xok_blood = { # Blood of First Step Shark
+	type = status
+    prominence = 20
+    province = {
+        local_tax_modifier = 0.05
+    }
+    unit = {
+        heavy_infantry_offensive = 0.10
+    }
+}
+snake_dynasty_blood = { # Blood of Snake Dynasty
+    type = status
+    prominence = 20
+    province = {
+        local_tax_modifier = 0.05
+    }
+    unit = {
+        heavy_infantry_offensive = 0.10
+    }
+}

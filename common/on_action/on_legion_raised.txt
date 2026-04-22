@@ -1,0 +1,49 @@
+﻿on_legion_raised = {
+	# what: on the end of the day after a legion is created
+	# scope: legion
+	effect = {
+		if = {
+			limit = {
+				owner = {
+					NOT = {
+						any_legion = { has_distinction = distinction_legio_primagena }
+					}
+				}
+			}
+		}
+		if = {
+			limit = {
+				owner = {
+					is_ai = yes
+					has_civil_war = yes
+				}
+			}
+			owner = {
+				save_scope_as = mutineer_revolting_country
+				trigger_event = distinction.40
+			}
+		}
+		else_if = {
+			limit = {
+				NOT = { has_distinction = distinction_legio_primagena }
+			}
+			save_scope_as = primagena_legion
+			owner = { trigger_event = distinction.7 }
+		}
+		else = {
+			add_legion_history = {
+				key = legion_raised_history
+				commander = owner.current_ruler
+				province = owner.capital_scope
+			}
+		}
+		if = {
+			limit = {
+				NOT = {
+					has_distinction = distinction_legion_default
+				}
+			}
+			add_distinction = distinction_legion_default
+		}
+	}
+}

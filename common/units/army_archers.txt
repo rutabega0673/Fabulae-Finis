@@ -1,0 +1,37 @@
+﻿archers = {
+	army = yes
+	assault = yes
+
+	levy_tier = medium
+
+	maneuver = 2
+	movement_speed = 2.5
+
+	build_time = 45
+	spearmen = 1.25
+	axemen = 1.25
+	swordsmen = 1.15
+	clubmen = 1.3
+	macebearers = 1.25
+	archers = 1.0
+	atlatlist = 1.15
+	slingers = 1.0
+	blowgunners = 1.05
+	wardogs = 0.9
+
+	supply_train = 2.0
+	
+	attrition_weight = 0.9
+	
+	morale_damage_taken = 1.2
+
+	
+	attrition_loss = 0.05
+	ai_max_percentage = 15
+	build_cost = {
+		gold = 12
+		manpower = 1
+	}
+	food_consumption = 0.1
+	food_storage = 2.4
+}

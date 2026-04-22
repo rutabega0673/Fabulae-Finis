@@ -1,0 +1,84 @@
+﻿popotecan = {
+	#Popoluca/Mixtec/Zapotec
+	color = hsv { 0 0.54 0.98 }
+	
+	primary = archers
+	second = chariots
+	flank = light_cavalry
+
+	primary_navy = tetrere
+	secondary_navy = octere
+	flank_navy = liburnian
+	
+	levy_template = levy_mayan
+
+	male_names = {
+	     Chak Yik_in Chan Pacal Yopaat Ahk K_awiil Bahlam Ich_aak Janaab Itzamnaaj Tatb_u Yo_nal Muwaan Tuun Uaxaclajuun K_an Nuun Yaxun Bolon Ajaw B_alam K_uhul Yax Waxaklajuun Ak Sihyaj Tutum K_ak_ Uk_ab Te_ Toob_il Ek_ Hix Bahlam_Tzam Winik Tz_ayaj Ha_K_in Uxman Chanal Mat Tum_Yohl Aj Tz_ikin Wak Ox Nuun_Ujol Tahil Kinich Bolu_ Mih_Toh Tutuum Aj_Ho_ Joy Ti_ Tzih Tzayal Ajun Akul Akta_ Tzi Ixkun
+	}
+
+	female_names = {
+	     Lady_Xoc Lady_Shield_Skull Lady_Pacal Lady_Green_Rabbit Lady_Star_Shell Lady_Eveningstar Lady_Muyal_Chan_K_awiil Yohl_Ik_nal Wak_Chanil Lady_Unen_Bahlam Lady_Itzan Lady_Bulu_ Lady_K_al Lady_Chuwen Lady_Hand Lady_Bird_Headdress Lady_White_Bird Lady_Mut_Bahlam Lady_Chab_Ahab Ixchel Ixtab Lady_Batz_Ek_ Lady_Tzutz_Nik Lady_Great_Skull Lady_K_awill_Chan Lady_Sak_B_iyaan Lady_Akna Lady_Kan_Ik Lady_Kinuw Lady_Tum_Bahlam Ajaw_B_ot
+	}
+
+
+
+	family = {
+		Aguateca.Aguateca.Aguateci.Aguatecan
+		Bonampak.Bonampak.Bonampaki.Bonampakan
+		Calakmul.Calakmul.Calakmuli.Calakmulan
+		Cancuen.Cancuen.Cancueni.Cancuenan
+		Caracol.Caracol.Caracoli.Caracolan
+		El_Cayo.El_Cayo.El_Cayi.El_Cayan
+		Chinikiha.Chinikiha.Chinikihi.Chinikihan
+		Coba.Coba.Cobai.Coban
+		Copan.Copan.Copani.Copanan
+		La_Corona.La_Corona.La_Coroni.La_Coronan
+		Dos_Pilas.Dos_Pilas.Dos_Pili.Dos_Pilan
+		Ek_balam.Ek_balam.Ek_balami.Ek_balaman
+		Edzna.Edzna.Edznai.Edznan
+		Holmul.Holmul.Holmuli.Holmulan
+		Ixkun.Ixkun.Ixkuni.Ixkunan
+		Ixtutz.Ixtutz.Ixtutzi.Ixtutzan
+		Lacanha.Lacanha.Lacanhai.Lacanhan
+		Machaquila.Machaquila.Machaquili.Machaquilan
+		Motul_de_San_Jose.Motul_de_San_Jose.Motul_de_San_Josei.Motul_de_San_Josean
+		Naranjo.Naranjo.Naranji.Naranjan
+		Palenque.Palenque.Palenqui.Palenquan
+		El_Palma.El_Palma.El_Palmi.El_Palman
+		El_peru.El_peru.El_perui.El_peruan
+		Piedras_Negras.Piedras_Negras.Piedras_Negri.Piedras_Negran
+		Pomona.Pomona.Pomonai.Pomonan
+		Pusilha.Pusilha.Pusilhi.Pusilhan
+		Quirigua.Quirigua.Quiriguai.Quiriguan
+		Sak_tzi.Sak_tzi.Sak_tzii.Sak_tzian
+		Seibal.Seibal.Seibali.Seibalan
+		Tamarindito.Tamarindito.Tamarinditi.Tamarinditan
+		Tikal.Tikal.Tikali.Tikalan
+		Tonina.Tonina.Toninai.Toninan
+		Ucanal.Ucanal.Ucanali.Ucanalan
+		Xultun.Xultun.Xultuni.Xultunan
+		Yaxchilan.Yaxchilan.Yaxchilani.Yaxchilanan
+		Yaxha.Yaxha.Yaxhai.Yaxhaan
+		Yo_okop.Yo_okop.Yo_okopi.Yo_okopan
+		Yootz.Yootz.Yootzi.Yootzan
+	}
+	
+	culture = {
+		zapotec = {}
+		mixtec = {}
+		cuicatec = {}
+		popoloca = {}
+		chatino = {}
+		amuzgo = {}
+		mazatec = {}
+	}
+	
+	barbarian_names = {
+		SALOBRIASAI ASANGAI BOLINGAI DIMOUROI VARETATAI HORATAI GALLIATALOUTAI RARAOUNGAI ORATOURAI CHARMAI SETAI KAISOI MEGALLAI OUBERAI ABALOI 
+	}
+	
+	graphical_culture = south_indian_gfx
+	ethnicities = {
+		10 = mayan
+	}
+}

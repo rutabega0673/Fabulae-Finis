@@ -1,0 +1,54 @@
+﻿object={
+	name="rock_red_generator_1_0"
+	clamp_to_water_level=no
+	render_under_water=no
+	generated_content=yes
+	layer="rock_layer"
+	pdxmesh="rock_Lshape_red_mesh"
+	count=0
+}
+object={
+	name="rock_red_generator_1_1"
+	clamp_to_water_level=no
+	render_under_water=no
+	generated_content=yes
+	layer="rock_layer"
+	pdxmesh="rock_jagged_red_mesh"
+	count=0
+}
+object={
+	name="rock_red_generator_1_2"
+	clamp_to_water_level=no
+	render_under_water=no
+	generated_content=yes
+	layer="rock_layer"
+	pdxmesh="rock_jagged_2_red_mesh"
+	count=0
+}
+object={
+	name="rock_red_generator_1_3"
+	clamp_to_water_level=no
+	render_under_water=no
+	generated_content=yes
+	layer="rock_layer"
+	pdxmesh="rock_S_red_mesh"
+	count=0
+}
+object={
+	name="rock_red_generator_1_4"
+	clamp_to_water_level=no
+	render_under_water=no
+	generated_content=yes
+	layer="rock_layer"
+	pdxmesh="rock_M_red_mesh"
+	count=0
+}
+object={
+	name="rock_red_generator_1_5"
+	clamp_to_water_level=no
+	render_under_water=no
+	generated_content=yes
+	layer="rock_layer"
+	pdxmesh="rock_L_red_mesh"
+	count=0
+}

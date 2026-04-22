@@ -1,0 +1,8 @@
+﻿l_english:
+
+ fix_volcanic_area_ilopango:0 "Ilopango Restoration"
+ fix_volcanic_area_ilopango_desc:0 "Huge swaths of land around Vesuvius was destroyed as the volcano erupted. It is time we set aside the funds to start restoring the land so we can use it more effectively yet again."
+ natural_disaster_events.1.t:0 "The Fury of Mount Ilopango"
+ natural_disaster_events.1.d:0 "While the fires of Mount Ilopanga never sleeps fully the eruption of [GetDateString] has been greater than any in living memory.\nFor 3 days the skies over Chalchuapa has been black, with a plume of ash clouds and lightening covering the skies. The violent eruption that followed have destroyed buildings and fields all around the city and pulverized pumice now cover the ground of the entire area.\nNow that the eruption is finally over we must look to restore the region."
+ natural_disaster_events.1.a:0 "Offer a 10 year Tax Exemption."
+ natural_disaster_events.1.b:0 "They will use local resources to rebuild."

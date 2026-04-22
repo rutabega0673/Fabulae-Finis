@@ -1,0 +1,333 @@
+﻿namespace = tribal_raid
+
+tribal_raid.31 = {
+    type = country_event
+
+    title = tribal_raid.31_title
+    desc = tribal_raid.31_desc
+    picture = war_chest
+    left_portrait = current_ruler
+    right_portrait = scope:aggressive_neighbor.current_ruler
+
+    immediate = {
+        random_neighbour_country = {
+            limit = {
+                has_land = yes
+                is_subject = no
+                NOT = { alliance_with = root }
+                in_diplomatic_range = root
+            }
+            save_scope_as = aggressive_neighbor
+        }
+        root = { save_scope_as = nomadic_raid_country }
+    }
+
+    option = {
+        name = "tribal_raid.31.a"
+        custom_tooltip = tribal_raid.31_tooltip1
+        trigger_event = { id = tribal_raid.32 days = 7 }
+        
+    }
+    option = {
+        name = "tribal_raid.31.b"
+        custom_tooltip = tribal_raid.31_tooltip2
+        
+    }
+}
+
+tribal_raid.32 = {
+    type = country_event
+
+    title = tribal_raid.32_title
+    desc = {
+        first_valid = {
+            triggered_desc = {  
+                trigger = {
+                    has_variable = going_on_a_raid_1_32
+                }
+                desc = "tribal_raid.32_desc_1"
+            }
+            triggered_desc = {  
+                trigger = {
+                    has_variable = going_on_a_raid_2_32
+                }
+                desc = "tribal_raid.32_desc_2"
+            }
+            triggered_desc = {  
+                trigger = {
+                    has_variable = going_on_a_raid_3_32
+                }
+                desc = "tribal_raid.32_desc_3"
+            }
+            triggered_desc = {  
+                trigger = {
+                    has_variable = going_on_a_raid_4_32
+                }
+                desc = "tribal_raid.32_desc_4"
+            }
+            triggered_desc = {  
+                trigger = {
+                    has_variable = going_on_a_raid_5_32
+                }
+                desc = "tribal_raid.32_desc_5"
+            }
+            triggered_desc = {  
+                trigger = {
+                    has_variable = going_on_a_raid_6_32
+                }
+                desc = "tribal_raid.32_desc_6"
+            }
+            triggered_desc = {  
+                trigger = {
+                    has_variable = going_on_a_raid_7_32
+                }
+                desc = "tribal_raid.32_desc_7"
+            }
+            triggered_desc = {  
+                trigger = {
+                    has_variable = going_on_a_raid_8_32
+                }
+                desc = "tribal_raid.32_desc_8"
+            }
+            triggered_desc = {  
+                trigger = {
+                    has_variable = going_on_a_raid_9_32
+                }
+                desc = "tribal_raid.32_desc_9"
+            }
+            triggered_desc = {  
+                trigger = {
+                    has_variable = going_on_a_raid_10_32
+                }
+                desc = "tribal_raid.32_desc_10"
+            }
+        }
+    }
+    picture = steppe_cavalry_honor
+    left_portrait = current_ruler
+    right_portrait = scope:aggressive_neighbor.current_ruler
+
+    immediate = {
+        hidden_effect = {
+            random_list = {
+                20 = {
+                    set_variable = {
+                        name = going_on_a_raid_1_32
+                    }
+                }
+                20 = {
+                    set_variable = {
+                        name = going_on_a_raid_2_32
+                    }
+                }
+                20 = {
+                    set_variable = {
+                        name = going_on_a_raid_3_32
+                    }
+                }
+                20 = {
+                    set_variable = {
+                        name = going_on_a_raid_4_32
+                    }
+                }
+                10 = {
+                    set_variable = {
+                        name = going_on_a_raid_5_32
+                    }
+                }
+                2 = {
+                    set_variable = {
+                        name = going_on_a_raid_6_32
+                    }
+                }
+                2 = {
+                    set_variable = {
+                        name = going_on_a_raid_7_32
+                    }
+                }
+                2 = {
+                    set_variable = {
+                        name = going_on_a_raid_8_32
+                    }
+                }
+                2 = {
+                    set_variable = {
+                        name = going_on_a_raid_9_32
+                    }
+                }
+                2 = {
+                    set_variable = {
+                        name = going_on_a_raid_10_32
+                    }
+                }
+            }
+        }
+    }
+
+    option = {
+        trigger = { has_variable = going_on_a_raid_1_32 }
+        name = "tribal_raid.32.a"
+        remove_variable = going_on_a_raid_1_32
+        scope:aggressive_neighbor = {
+            trigger_event = { id = tribal_raid.33 days = 2 }
+        }
+        custom_tooltip = tribal_raid.32_tooltip
+        add_treasury = {
+            add = root.has_monthly_income
+            multiply = 12
+        }
+        capital_scope = {
+            create_pop = slaves
+        } 
+    }
+    option = {
+        trigger = { has_variable = going_on_a_raid_2_32 }
+        name = "tribal_raid.32.b"
+        remove_variable = going_on_a_raid_2_32
+        scope:aggressive_neighbor = {
+            trigger_event = { id = tribal_raid.33 days = 2 }
+        }
+        custom_tooltip = tribal_raid.32_tooltip
+        add_treasury = {
+            add = root.has_monthly_income
+            multiply = 9
+        } 
+    }
+    option = {
+        trigger = { has_variable = going_on_a_raid_3_32 }
+        name = "tribal_raid.32.c"
+        remove_variable = going_on_a_raid_3_32
+        scope:aggressive_neighbor = {
+            trigger_event = { id = tribal_raid.33 days = 2 }
+        }
+        custom_tooltip = tribal_raid.32_tooltip
+        add_treasury = {
+            add = root.has_monthly_income
+            multiply = 6
+        } 
+    }
+    option = {
+        trigger = { has_variable = going_on_a_raid_4_32 }
+        name = "tribal_raid.32.d"
+        remove_variable = going_on_a_raid_4_32
+        scope:aggressive_neighbor = {
+            trigger_event = { id = tribal_raid.33 days = 2 }
+        }
+        custom_tooltip = tribal_raid.32_tooltip
+        add_treasury = {
+            add = root.has_monthly_income
+            multiply = 3
+        } 
+    }
+    option = {
+        trigger = { has_variable = going_on_a_raid_5_32 }
+        name = "tribal_raid.32.e"
+        remove_variable = going_on_a_raid_5_32
+        scope:aggressive_neighbor = {
+            trigger_event = { id = tribal_raid.33 days = 2 }
+        }
+        custom_tooltip = tribal_raid.32_tooltip
+        add_treasury = {
+            add = root.has_monthly_income
+            multiply = 3
+        } 
+    }
+    option = {
+        trigger = { has_variable = going_on_a_raid_6_32 }
+        name = "tribal_raid.32.f"
+        remove_variable = going_on_a_raid_6_32
+        scope:aggressive_neighbor = {
+            trigger_event = { id = tribal_raid.33 days = 2 }
+        }
+        custom_tooltip = tribal_raid.32_tooltip 
+    }
+    option = {
+        trigger = { has_variable = going_on_a_raid_7_32 }
+        name = "tribal_raid.32.g"
+        remove_variable = going_on_a_raid_7_32
+        scope:aggressive_neighbor = {
+            trigger_event = { id = tribal_raid.33 days = 2 }
+        }
+        current_ruler = {
+            add_martial = 1
+        }
+        custom_tooltip = tribal_raid.32_tooltip 
+    }
+    option = {
+        trigger = { has_variable = going_on_a_raid_8_32 }
+        name = "tribal_raid.32.h"
+        remove_variable = going_on_a_raid_8_32
+        scope:aggressive_neighbor = {
+            trigger_event = { id = tribal_raid.33 days = 2 }
+        }
+        current_ruler = {
+            add_trait = wounded
+        }
+        custom_tooltip = tribal_raid.32_tooltip 
+    }
+    option = {
+        trigger = { has_variable = going_on_a_raid_9_32 }
+        name = "tribal_raid.32.i"
+        remove_variable = going_on_a_raid_9_32
+        scope:aggressive_neighbor = {
+            trigger_event = { id = tribal_raid.33 days = 2 }
+        }
+         current_ruler = {
+            add_trait = maimed
+            add_trait = wounded
+        }
+        custom_tooltip = tribal_raid.32_tooltip 
+    }
+    option = {
+        trigger = { has_variable = going_on_a_raid_10_32 }
+        name = "tribal_raid.32.j"
+        remove_variable = going_on_a_raid_10_32
+        scope:aggressive_neighbor = {
+            trigger_event = { id = tribal_raid.33 days = 2 }
+        }
+        add_stability = -5
+        current_ruler = {
+            death = {
+                death_reason = death_decapitated
+            }
+        }
+        custom_tooltip = tribal_raid.32_tooltip 
+    }
+}
+
+tribal_raid.33 = {
+    type = country_event
+
+    immediate = {
+        random_owned_province = {
+            limit = {
+                total_population >= 1 
+            }
+            save_scope_as = raided_settlement
+        }
+    }
+
+    title = tribal_raid.33_title
+    desc = tribal_raid.33_desc
+    picture = steppe_cavalry
+    left_portrait = current_ruler
+    right_portrait = scope:nomadic_raid_country.current_ruler
+
+    option = {
+        name = "tribal_raid.33.a"
+        custom_tooltip = tribal_raid.33_tooltip
+        scope:raided_settlement = {
+            add_province_modifier = {
+                name = looted_by_enemies
+                duration = 1825
+            }
+            random_pops_in_province = { kill_pop = yes }
+        }
+        reverse_add_opinion = { target = scope:nomadic_raid_country modifier = unfriendly_neighbors }
+        scope:nomadic_raid_country = {
+            random_owned_province = {
+                add_claim = ROOT
+            }
+        }
+    }
+}

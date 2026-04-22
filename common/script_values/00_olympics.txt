@@ -1,0 +1,68 @@
+﻿olympiad_svalue = {
+	value = global_var:olympic_counter_global_var
+}
+
+olympiad_divided_svalue = {
+	value = global_var:olympic_counter_global_var
+	divide = 10
+}
+
+olympiad_divided_floor_svalue = {
+	value = global_var:olympic_counter_global_var
+	divide = 10
+	floor = yes
+}
+
+olympiad_divided_1_svalue = {
+	value = global_var:olympic_counter_global_var
+	subtract = 1
+	divide = 10
+}
+
+olympiad_divided_2_svalue = {
+	value = global_var:olympic_counter_global_var
+	subtract = 2 
+	divide = 10
+}
+
+olympiad_divided_3_svalue = {
+	value = global_var:olympic_counter_global_var
+	subtract = 3
+	divide = 10
+}
+
+olympiad_divided_4_svalue = {
+	value = global_var:olympic_counter_global_var
+	subtract = 4
+	divide = 10
+}
+
+olympiad_divided_5_svalue = {
+	value = global_var:olympic_counter_global_var
+	subtract = 5
+	divide = 10
+}
+
+olympiad_divided_6_svalue = {
+	value = global_var:olympic_counter_global_var
+	subtract = 6
+	divide = 10
+}
+
+olympiad_divided_7_svalue = {
+	value = global_var:olympic_counter_global_var
+	subtract = 7
+	divide = 10
+}
+
+olympiad_divided_8_svalue = {
+	value = global_var:olympic_counter_global_var
+	subtract = 8
+	divide = 10
+}
+
+olympiad_divided_9_svalue = {
+	value = global_var:olympic_counter_global_var
+	subtract = 9
+	divide = 10
+}

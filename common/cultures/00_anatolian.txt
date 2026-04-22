@@ -1,0 +1,68 @@
+﻿anatolian = {
+	
+	levy_template = levy_anatolian
+	
+	primary = light_infantry
+	second = heavy_cavalry
+	flank = horse_archers
+
+	primary_navy = tetrere
+	secondary_navy = octere
+	flank_navy = liburnian
+	
+	color = hsv { 0.32 0.45 0.9 }
+	
+	male_names = {
+		Morzios Gaizatorix Pylaemenes Mithridates Datames Ariobarzanes Ariamnes Ariarathes Croesus Gyges Ardys Sadyattes Atys Adrastus Gordias Midas
+		Hecatomnus Hyssaldomus Mausolus Idrieus Pixodarus Lygdamis Kybernis Kuprilli
+		Arppakhu Arbinas Kheriga Kherei Abistamenes Syennesis Appuasu Oromedon
+		Zipoetes Bas Ziaelas Prusias Arcathias Xiphares Dareios
+	}
+	female_names = {
+		Nysa Aryenis Ada Glaphyra Pythodorida Etazeta Drypetina Orsabaris Hypsicratea Boa
+	} 
+	family = {
+		
+		Aramid.Aramid.Aramids.Aramid
+		Arid.Arid.Arids.Arid
+		Arkhid.Arkhid.Arkhids.Arkhid
+		Asinid.Asinid.Asinids.Asinid
+		Arsacid.Arsacid.Arsacids.Arsacid
+		Deiocid.Deiocid.Deiocids.Deiocid
+		Menid.Menid.Menids.Menid
+		Pacorid.Pacorid.Pacorids.Pacorid
+		Savacid.Savacid.Savacids.Savacid
+		Vardanid.Vardanid.Vardanids.Vardanid
+		Suren.Suren.Surenids.Surenid
+		Karin.Karin.Karinids.Karinid
+		Gaumatid.Gaumatid.Gaumatids.Gaumatid
+		Gobryasid.Gobryasid.Gobryasids.Gobryasid
+		Hydarnid.Hydarnid.Hydarnids.Hydarnid
+		Smerdid.Smerdid.Smerdids.Smerdid
+		Vivanid.Vivanid.Vivanids.Vivanid
+		Xerxid.Xerxid.Xerxids.Xerxid
+		Abadanid.Abadanid.Abadanids.Abadanid
+		Orontid.Orontid.Orontids.Orontid
+		Atropatid.Atropatid.Atropatids.Atropatid
+		Mithridatid.Mithridatid.Mithridatids.Mithridatid
+		Artiaxid.Artiaxid.Artiaxids.Artiaxid
+		Sassanid.Sassanid.Sassanids.Sassanid
+		Mihranid.Mihranid.Mihranids.Mihranid
+		Chosroid.Chosroid.Chosroids.Chosroid
+		Artashid.Artashid.Artashids.Artashid
+		Bagabignid.Bagabignid.Bagabignids.Bagabignid
+		Cambysid.Cambysid.Cambysids.Cambysid
+		Frataraka.Frataraka.Frataraka.Frataraka
+	}
+
+	culture = {
+		phrygian = {}
+	}
+	
+	barbarian_names = { AMARDI ANARIACAE AUGASII CASPII CHORASMII CYRTII DAHAE DERBICII ISSEDONES LEGAE MATIANI MASSAGETAE PARNI SACAE SARMATAE SOANES VITII }
+	
+	graphical_culture = persian_gfx
+	ethnicities = {
+		10 = persian
+	}
+}

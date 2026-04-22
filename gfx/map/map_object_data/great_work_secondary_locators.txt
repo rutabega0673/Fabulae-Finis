@@ -1,0 +1,9 @@
+﻿game_object_locator={
+	name="great_work_secondary"
+	clamp_to_water_level=no
+	render_under_water=no
+	generated_content=no
+	layer="monument_layer"
+	instances={
+	}
+}

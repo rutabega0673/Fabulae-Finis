@@ -1,0 +1,810 @@
+﻿namespace = hurricane
+
+hurricane.1 = {	#Caribbean
+	type = country_event
+	hidden = yes
+
+	trigger = {
+		current_date > 951.1.1	
+		NOT = { has_global_variable = is_hurricane_season }
+		any_owned_province = { 
+			city_is_in_hurricane_zone_trigger = yes
+		}
+	}
+
+	immediate = {
+		set_global_variable = {
+			name = is_hurricane_season
+			days = 365
+		}
+		switch = {
+		trigger = has_variable
+			destructive_hurricane_flag = {
+				remove_variable = destructive_hurricane_flag
+			}
+			good_hurricane_flag = {
+				remove_variable = good_hurricane_flag
+			}
+			blessed_hurricane_flag = {
+				remove_variable = blessed_hurricane_flag
+			}
+			bad_hurricane_flag = {
+				remove_variable = bad_hurricane_flag
+			}
+			terrible_hurricane_flag = {
+				remove_variable = terrible_hurricane_flag
+			}
+		}		
+		random_list = {
+			30 = { # Good hurricane
+				trigger = {
+					NOT = { has_variable = good_hurricane_flag }
+				}				
+				set_variable = {
+					name = good_hurricane_flag
+					days = 120
+				}
+			}
+			15 = { # Blessed hurricane
+				trigger = {
+					NOT = { has_variable = blessed_hurricane_flag }
+				}				
+				set_variable = {
+					name = blessed_hurricane_flag
+					days = 120
+				}
+			}
+			30 = { # Bad hurricane
+				trigger = {
+					NOT = { has_variable = bad_hurricane_flag }
+				}				
+				set_variable = {
+					name = bad_hurricane_flag
+					days = 120
+				}
+			}
+			15 = { # Terrible hurricane
+				trigger = {
+					NOT = { has_variable = terrible_hurricane_flag }
+				}				
+				set_variable = {
+					name = terrible_hurricane_flag
+					days = 120
+				}
+			}
+			5 = { # Destructive hurricane (Really Bad)
+				trigger = {
+					NOT = { has_variable = destructive_hurricane_flag }
+				}				
+				set_variable = {
+					name = destructive_hurricane_flag
+					days = 120
+				}
+			}
+		}
+		switch = {
+			trigger = has_variable
+			destructive_hurricane_flag = {
+				every_province = {
+					limit = {
+						is_in_caribbean_trigger = yes
+					}
+					add_province_modifier = {
+						name = destructive_hurricane
+						duration = 95
+					}
+				}				
+			}
+			good_hurricane_flag = {
+				every_province = {
+					limit = {
+						is_in_caribbean_trigger = yes
+					}
+					add_province_modifier = {
+						name = good_hurricane
+						duration = 95
+					}
+				}
+			}
+			blessed_hurricane_flag = {
+				every_province = {
+					limit = {
+						is_in_caribbean_trigger = yes
+					}
+					add_province_modifier = {
+						name = blessed_hurricane
+						duration = 95
+					}
+				}
+			}
+			bad_hurricane_flag = {
+				every_province = {
+					limit = {
+						is_in_caribbean_trigger = yes
+					}
+					add_province_modifier = {
+						name = bad_hurricane
+						duration = 95
+					}
+				}
+			}
+			terrible_hurricane_flag = {
+				every_province = {
+					limit = {
+						is_in_caribbean_trigger = yes
+					}
+					add_province_modifier = {
+						name = terrible_hurricane
+						duration = 95
+					}
+				}
+			}				
+		}
+		trigger_event = {
+			id = hurricane.2
+		}			
+	}
+}
+hurricane.2 = {	#Gulf of Mexico
+	type = country_event
+	hidden = yes
+
+	immediate = {
+		switch = {
+		trigger = has_variable
+			destructive_hurricane_flag = {
+				remove_variable = destructive_hurricane_flag
+			}
+			good_hurricane_flag = {
+				remove_variable = good_hurricane_flag
+			}
+			blessed_hurricane_flag = {
+				remove_variable = blessed_hurricane_flag
+			}
+			bad_hurricane_flag = {
+				remove_variable = bad_hurricane_flag
+			}
+			terrible_hurricane_flag = {
+				remove_variable = terrible_hurricane_flag
+			}
+		}
+		random_list = {
+			30 = { # Good hurricane
+				trigger = {
+					NOT = { has_variable = good_hurricane_flag }
+				}				
+				set_variable = {
+					name = good_hurricane_flag
+					days = 120
+				}
+			}
+			15 = { # Blessed hurricane
+				trigger = {
+					NOT = { has_variable = blessed_hurricane_flag }
+				}				
+				set_variable = {
+					name = blessed_hurricane_flag
+					days = 120
+				}
+			}
+			30 = { # Bad hurricane
+				trigger = {
+					NOT = { has_variable = bad_hurricane_flag }
+				}				
+				set_variable = {
+					name = bad_hurricane_flag
+					days = 120
+				}
+			}
+			15 = { # Terrible hurricane
+				trigger = {
+					NOT = { has_variable = terrible_hurricane_flag }
+				}				
+				set_variable = {
+					name = terrible_hurricane_flag
+					days = 120
+				}
+			}
+			5 = { # Destructive hurricane (Really Bad) (5.8% Chance of happening)
+				trigger = {
+					NOT = { has_variable = destructive_hurricane_flag }
+				}				
+				set_variable = {
+					name = destructive_hurricane_flag
+					days = 120
+				}
+			}								
+		}
+		switch = {
+			trigger = has_variable
+			destructive_hurricane_flag = {
+				every_province = {
+					limit = {
+						is_in_gulf_of_mexico_trigger = yes
+					}
+					add_province_modifier = {
+						name = destructive_hurricane
+						duration = 95
+					}
+				}				
+			}
+			good_hurricane_flag = {
+				every_province = {
+					limit = {
+						is_in_gulf_of_mexico_trigger = yes
+					}
+					add_province_modifier = {
+						name = good_hurricane
+						duration = 95
+					}
+				}
+			}
+			blessed_hurricane_flag = {
+				every_province = {
+					limit = {
+						is_in_gulf_of_mexico_trigger = yes
+					}
+					add_province_modifier = {
+						name = blessed_hurricane
+						duration = 95
+					}
+				}
+			}
+			bad_hurricane_flag = {
+				every_province = {
+					limit = {
+						is_in_gulf_of_mexico_trigger = yes
+					}
+					add_province_modifier = {
+						name = bad_hurricane
+						duration = 95
+					}
+				}
+			}
+			terrible_hurricane_flag = {
+				every_province = {
+					limit = {
+						is_in_gulf_of_mexico_trigger = yes
+					}
+					add_province_modifier = {
+						name = terrible_hurricane
+						duration = 95
+					}
+				}
+			}				
+		}
+		trigger_event = {
+			id = hurricane.3
+		}			
+	}
+}
+
+hurricane.3 = {	#Central America
+	type = country_event
+	hidden = yes
+
+	immediate = {
+		switch = {
+		trigger = has_variable
+			destructive_hurricane_flag = {
+				remove_variable = destructive_hurricane_flag
+			}
+			good_hurricane_flag = {
+				remove_variable = good_hurricane_flag
+			}
+			blessed_hurricane_flag = {
+				remove_variable = blessed_hurricane_flag
+			}
+			bad_hurricane_flag = {
+				remove_variable = bad_hurricane_flag
+			}
+			terrible_hurricane_flag = {
+				remove_variable = terrible_hurricane_flag
+			}
+		}		
+		random_list = {
+			30 = { #	Good hurricane
+				trigger = {
+					NOT = { has_variable = good_hurricane_flag }
+				}				
+				set_variable = {
+					name = good_hurricane_flag
+					days = 120
+				}
+			}
+			15 = { # Blessed hurricane
+				trigger = {
+					NOT = { has_variable = blessed_hurricane_flag }
+				}				
+				set_variable = {
+					name = blessed_hurricane_flag
+					days = 120
+				}
+			}
+			30 = { #	Bad hurricane
+				trigger = {
+					NOT = { has_variable = bad_hurricane_flag }
+				}				
+				set_variable = {
+					name = bad_hurricane_flag
+					days = 120
+				}
+			}
+			15 = { #	Terrible hurricane
+				trigger = {
+					NOT = { has_variable = terrible_hurricane_flag }
+				}				
+				set_variable = {
+					name = terrible_hurricane_flag
+					days = 120
+				}
+			}
+			5 = { # Destructive hurricane (Really Bad)
+				trigger = {
+					NOT = { has_variable = destructive_hurricane_flag }
+				}				
+				set_variable = {
+					name = destructive_hurricane_flag
+					days = 120
+				}
+			}								
+		}
+		switch = {
+			trigger = has_variable
+			destructive_hurricane_flag = {
+				every_province = {
+					limit = {
+						is_in_central_america_trigger = yes
+					}
+					add_province_modifier = {
+						name = destructive_hurricane
+						duration = 95
+					}
+				}				
+			}
+			good_hurricane_flag = {
+				every_province = {
+					limit = {
+						is_in_central_america_trigger = yes
+					}
+					add_province_modifier = {
+						name = good_hurricane
+						duration = 95
+					}
+				}
+			}
+			blessed_hurricane_flag = {
+				every_province = {
+					limit = {
+						is_in_central_america_trigger = yes
+					}
+					add_province_modifier = {
+						name = blessed_hurricane
+						duration = 95
+					}
+				}
+			}
+			bad_hurricane_flag = {
+				every_province = {
+					limit = {
+						is_in_central_america_trigger = yes
+					}
+					add_province_modifier = {
+						name = bad_hurricane
+						duration = 95
+					}
+				}
+			}
+			terrible_hurricane_flag = {
+				every_province = {
+					limit = {
+						is_in_central_america_trigger = yes
+					}
+					add_province_modifier = {
+						name = terrible_hurricane
+						duration = 95
+					}
+				}
+			}				
+		}
+		trigger_event = {
+			id = hurricane.4
+		}			
+	}
+}
+
+hurricane.4 = {	#Atlantic Coast
+	type = country_event
+	hidden = yes
+
+	immediate = {
+		switch = {
+		trigger = has_variable
+			destructive_hurricane_flag = {
+				remove_variable = destructive_hurricane_flag
+			}
+			good_hurricane_flag = {
+				remove_variable = good_hurricane_flag
+			}
+			blessed_hurricane_flag = {
+				remove_variable = blessed_hurricane_flag
+			}
+			bad_hurricane_flag = {
+				remove_variable = bad_hurricane_flag
+			}
+			terrible_hurricane_flag = {
+				remove_variable = terrible_hurricane_flag
+			}
+		}		
+		random_list = {
+			30 = { # Good hurricane
+				trigger = {
+					NOT = { has_variable = good_hurricane_flag }
+				}				
+				set_variable = {
+					name = good_hurricane_flag
+					days = 120
+				}
+			}
+			15 = { # Blessed hurricane
+				trigger = {
+					NOT = { has_variable = blessed_hurricane_flag }
+				}				
+				set_variable = {
+					name = blessed_hurricane_flag
+					days = 120
+				}
+			}
+			30 = { # Bad hurricane
+				trigger = {
+					NOT = { has_variable = bad_hurricane_flag }
+				}				
+				set_variable = {
+					name = bad_hurricane_flag
+					days = 120
+				}
+			}
+			15 = { # Terrible hurricane
+				trigger = {
+					NOT = { has_variable = terrible_hurricane_flag }
+				}				
+				set_variable = {
+					name = terrible_hurricane_flag
+					days = 120
+				}
+			}
+			5 = { # Destructive hurricane (Really Bad)
+				trigger = {
+					NOT = { has_variable = destructive_hurricane_flag }
+				}				
+				set_variable = {
+					name = destructive_hurricane_flag
+					days = 120
+				}
+			}								
+		}
+		switch = {
+			trigger = has_variable
+			destructive_hurricane_flag = {
+				every_province = {
+					limit = {
+						is_in_atlantic_coast_trigger = yes
+					}
+					add_province_modifier = {
+						name = destructive_hurricane
+						duration = 95
+					}
+				}				
+			}
+			good_hurricane_flag = {
+				every_province = {
+					limit = {
+						is_in_atlantic_coast_trigger = yes
+					}
+					add_province_modifier = {
+						name = good_hurricane
+						duration = 95
+					}
+				}
+			}
+			blessed_hurricane_flag = {
+				every_province = {
+					limit = {
+						is_in_atlantic_coast_trigger = yes
+					}
+					add_province_modifier = {
+						name = blessed_hurricane
+						duration = 95
+					}
+				}
+			}
+			bad_hurricane_flag = {
+				every_province = {
+					limit = {
+						is_in_atlantic_coast_trigger = yes
+					}
+					add_province_modifier = {
+						name = bad_hurricane
+						duration = 95
+					}
+				}
+			}
+			terrible_hurricane_flag = {
+				every_province = {
+					limit = {
+						is_in_atlantic_coast_trigger = yes
+					}
+					add_province_modifier = {
+						name = terrible_hurricane
+						duration = 95
+					}
+				}
+			}				
+		}
+		trigger_event = {
+			id = hurricane.5
+		}			
+	}
+}
+
+hurricane.5 = {	#Pacific Coast
+	type = country_event
+	hidden = yes
+
+	immediate = {
+		switch = {
+		trigger = has_variable
+			destructive_hurricane_flag = {
+				remove_variable = destructive_hurricane_flag
+			}
+			good_hurricane_flag = {
+				remove_variable = good_hurricane_flag
+			}
+			blessed_hurricane_flag = {
+				remove_variable = blessed_hurricane_flag
+			}
+			bad_hurricane_flag = {
+				remove_variable = bad_hurricane_flag
+			}
+			terrible_hurricane_flag = {
+				remove_variable = terrible_hurricane_flag
+			}
+		}		
+		random_list = {
+			30 = { # Good hurricane
+				trigger = {
+					NOT = { has_variable = good_hurricane_flag }
+				}				
+				set_variable = {
+					name = good_hurricane_flag
+					days = 120
+				}
+			}
+			15 = { # Blessed hurricane
+				trigger = {
+					NOT = { has_variable = blessed_hurricane_flag }
+				}				
+				set_variable = {
+					name = blessed_hurricane_flag
+					days = 120
+				}
+			}
+			30 = { # Bad hurricane
+				trigger = {
+					NOT = { has_variable = bad_hurricane_flag }
+				}				
+				set_variable = {
+					name = bad_hurricane_flag
+					days = 120
+				}
+			}
+			15 = { # Terrible hurricane
+				trigger = {
+					NOT = { has_variable = terrible_hurricane_flag }
+				}				
+				set_variable = {
+					name = terrible_hurricane_flag
+					days = 120
+				}
+			}
+			5 = { # Destructive hurricane (Really Bad)
+				trigger = {
+					NOT = { has_variable = destructive_hurricane_flag }
+				}				
+				set_variable = {
+					name = destructive_hurricane_flag
+					days = 120
+				}
+			}								
+		}
+		switch = {
+			trigger = has_variable
+			destructive_hurricane_flag = {
+				every_province = {
+					limit = {
+						is_in_pacific_coast_trigger = yes
+					}
+					add_province_modifier = {
+						name = destructive_hurricane
+						duration = 95
+					}
+				}				
+			}
+			good_hurricane_flag = {
+				every_province = {
+					limit = {
+						is_in_pacific_coast_trigger = yes
+					}
+					add_province_modifier = {
+						name = good_hurricane
+						duration = 95
+					}
+				}
+			}
+			blessed_hurricane_flag = {
+				every_province = {
+					limit = {
+						is_in_pacific_coast_trigger = yes
+					}
+					add_province_modifier = {
+						name = blessed_hurricane
+						duration = 95
+					}
+				}
+			}
+			bad_hurricane_flag = {
+				every_province = {
+					limit = {
+						is_in_pacific_coast_trigger = yes
+					}
+					add_province_modifier = {
+						name = bad_hurricane
+						duration = 95
+					}
+				}
+			}
+			terrible_hurricane_flag = {
+				every_province = {
+					limit = {
+						is_in_pacific_coast_trigger = yes
+					}
+					add_province_modifier = {
+						name = terrible_hurricane
+						duration = 95
+					}
+				}
+			}				
+		}			
+	}
+}
+
+hurricane.6 = {	#North South America
+	type = country_event
+	hidden = yes
+
+	immediate = {
+		switch = {
+		trigger = has_variable
+			destructive_hurricane_flag = {
+				remove_variable = destructive_hurricane_flag
+			}
+			good_hurricane_flag = {
+				remove_variable = good_hurricane_flag
+			}
+			blessed_hurricane_flag = {
+				remove_variable = blessed_hurricane_flag
+			}
+			bad_hurricane_flag = {
+				remove_variable = bad_hurricane_flag
+			}
+			terrible_hurricane_flag = {
+				remove_variable = terrible_hurricane_flag
+			}
+		}		
+		random_list = {
+			30 = { # Good hurricane
+				trigger = {
+					NOT = { has_variable = good_hurricane_flag }
+				}				
+				set_variable = {
+					name = good_hurricane_flag
+					days = 120
+				}
+			}
+			15 = { # Blessed hurricane
+				trigger = {
+					NOT = { has_variable = blessed_hurricane_flag }
+				}				
+				set_variable = {
+					name = blessed_hurricane_flag
+					days = 120
+				}
+			}
+			30 = { # Bad hurricane
+				trigger = {
+					NOT = { has_variable = bad_hurricane_flag }
+				}				
+				set_variable = {
+					name = bad_hurricane_flag
+					days = 120
+				}
+			}
+			15 = { # Terrible hurricane
+				trigger = {
+					NOT = { has_variable = terrible_hurricane_flag }
+				}				
+				set_variable = {
+					name = terrible_hurricane_flag
+					days = 120
+				}
+			}
+			5 = { # Destructive hurricane (Really Bad)
+				trigger = {
+					NOT = { has_variable = destructive_hurricane_flag }
+				}				
+				set_variable = {
+					name = destructive_hurricane_flag
+					days = 120
+				}
+			}								
+		}
+		switch = {
+			trigger = has_variable
+			destructive_hurricane_flag = {
+				every_province = {
+					limit = {
+						is_in_north_south_america_trigger = yes
+					}
+					add_province_modifier = {
+						name = destructive_hurricane
+						duration = 95
+					}
+				}				
+			}
+			good_hurricane_flag = {
+				every_province = {
+					limit = {
+						is_in_north_south_america_trigger = yes
+					}
+					add_province_modifier = {
+						name = good_hurricane
+						duration = 95
+					}
+				}
+			}
+			blessed_hurricane_flag = {
+				every_province = {
+					limit = {
+						is_in_north_south_america_trigger = yes
+					}
+					add_province_modifier = {
+						name = blessed_hurricane
+						duration = 95
+					}
+				}
+			}
+			bad_hurricane_flag = {
+				every_province = {
+					limit = {
+						is_in_north_south_america_trigger = yes
+					}
+					add_province_modifier = {
+						name = bad_hurricane
+						duration = 95
+					}
+				}
+			}
+			terrible_hurricane_flag = {
+				every_province = {
+					limit = {
+						is_in_north_south_america_trigger = yes
+					}
+					add_province_modifier = {
+						name = terrible_hurricane
+						duration = 95
+					}
+				}
+			}				
+		}			
+	}
+}

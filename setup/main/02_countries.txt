@@ -1,0 +1,69 @@
+country = {
+	countries = {
+		TIK = {
+			family = 0
+			government = aristocratic_monarchy
+			primary_culture = peten
+			religion = mayan_pantheon
+			capital = 1
+
+			own_countrol_core =  {
+				1
+			}
+		}
+	}
+#	countries = {
+#		CAL = {
+#			family = 1
+#			government = aristocratic_monarchy
+#			primary_culture = peten
+#			religion = mayan_pantheon
+#			capital = 2591 #Calacmul
+#
+#			technology={
+#				military_tech={ level=1 progress=0 }
+#				civic_tech={ level=1 progress=0 }
+#				oratory_tech={ level=1 progress=0 }
+#				religious_tech= { level=1 progress=0  }
+#			}
+#
+#			own_control_core = {
+#				2591
+#			}
+#		}
+#		TIK = {
+#			government = aristocratic_monarchy
+#			primary_culture = peten
+#			religion = mayan_pantheon
+#			capital = 1701 #Yax Mutal / Tikal
+#
+#			technology={
+#				military_tech={ level=1 progress=0 }
+#				civic_tech={ level=1 progress=0 }
+#				oratory_tech={ level=1 progress=0 }
+#				religious_tech= { level=1 progress=0  }
+#			}
+#
+#			own_control_core = {
+#				1701
+#			}
+#		}
+#		KJA = {
+#			government = aristocratic_monarchy
+#			primary_culture = peten
+#			religion = mayan_pantheon
+#			capital = 8912 #Kooja / Tak'alik Ab'aj
+#
+#			technology={
+#				military_tech={ level=1 progress=0 }
+#				civic_tech={ level=1 progress=0 }
+#				oratory_tech={ level=1 progress=0 }
+#				religious_tech= { level=1 progress=0  }
+#			}
+#
+#			own_control_core = {
+#				8912
+#			}
+#		}
+#	}
+}

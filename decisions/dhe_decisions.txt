@@ -1,0 +1,56 @@
+﻿country_decisions = {
+
+	### Volcano Related Decisions ###
+	fix_volcanic_area_ilopango = {
+		potential = {
+			num_of_cities >= 1
+			any_owned_province = {
+				city_borders_vesuvius_trigger = yes
+				OR = {
+					has_province_modifier = province_diminishment_destroyed_volcano
+					has_province_modifier = province_diminishment_ravaged_volcano
+				}
+			}
+		}
+		highlight = {
+			scope:province = {
+				city_borders_vesuvius_trigger = yes
+				OR = {
+					has_province_modifier = province_diminishment_destroyed_volcano
+					has_province_modifier = province_diminishment_ravaged_volcano
+				}
+			}
+		}
+		allow = {
+			treasury >= 200
+		}
+		effect = {
+			add_treasury = -200
+			every_owned_province = {
+				limit = {
+					city_borders_vesuvius_trigger = yes 
+				}
+				if = {
+					limit = {
+						has_province_modifier = province_diminishment_destroyed_volcano
+					}
+					remove_province_modifier = province_diminishment_destroyed_volcano
+					add_province_modifier = {
+						name = province_improvement_volcanic_ash
+						duration = 18250
+					}
+				}
+				if = {
+					limit = {
+						has_province_modifier = province_diminishment_ravaged_volcano
+					}
+					remove_province_modifier = province_diminishment_ravaged_volcano
+					add_province_modifier = {
+						name = province_improvement_volcanic_ash
+						duration = 7300
+					}
+				}
+			}
+		}
+	}
+}

@@ -1,0 +1,9 @@
+﻿object={
+	name="volcanoes"
+	clamp_to_water_level=no
+	render_under_water=yes
+	generated_content=no
+	layer="monument_layer"
+	pdxmesh="volcanic_caldera_01_mesh"
+	count=0
+}

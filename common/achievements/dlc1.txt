@@ -1,0 +1,8 @@
+﻿time_is_on_our_side = {
+	possible = {
+		always = no
+	}
+	
+	happened = {
+	}
+}

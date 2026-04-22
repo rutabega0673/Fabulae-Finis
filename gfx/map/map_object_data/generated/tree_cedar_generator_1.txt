@@ -1,0 +1,10 @@
+﻿object={
+	name="tree_cedar_generator_1_0"
+	clamp_to_water_level=no
+	render_under_water=no
+	generated_content=yes
+	layer="tree_layer"
+	pdxmesh="tree_cedar_01_mesh"
+	count=0
+	transform=""
+}

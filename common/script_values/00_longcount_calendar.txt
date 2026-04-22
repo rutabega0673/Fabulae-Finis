@@ -1,0 +1,80 @@
+﻿days_from_start_date = {
+	value = global_var:kin_tick # Total Number of Days Passed
+	add = 1208880 # Total Number at Start
+}
+
+mayan_longcount_script = {
+    # Step 1: Calculate Baktuns (integer only)
+    calc_baktun_svalue = {
+        value = days_from_start_date
+        divide = 144000
+    }
+
+    # Step 2: Calculate Remaining Days After Baktuns
+    remaining_days_after_baktun_svalue = {
+        value = days_from_start_date
+        subtract = {
+            value = calc_baktun_svalue
+            multiply = 144000
+        }
+    }
+
+    # Step 3: Calculate Katuns (integer only)
+    calc_katun_svalue = {
+        value = remaining_days_after_baktun_svalue
+        divide = 7200
+    }
+
+    # Step 4: Remaining Days After Katuns
+    remaining_days_after_katun_svalue = {
+        value = remaining_days_after_baktun_svalue
+        subtract = {
+            value = calc_katun_svalue
+            multiply = 7200
+        }
+    }
+
+    # Step 5: Calculate Tuns (integer only)
+    calc_tun_svalue = {
+        value = remaining_days_after_katun_svalue
+        divide = 360
+    }
+
+    # Step 6: Remaining Days After Tuns
+    remaining_days_after_tun_svalue = {
+        value = remaining_days_after_katun_svalue
+        subtract = {
+            value = calc_tun_svalue
+            multiply = 360
+        }
+    }
+
+    # Step 7: Calculate Uinals (integer only)
+    calc_uinal_svalue = {
+        value = remaining_days_after_tun_svalue
+        divide = 20
+    }
+
+    # Step 8: Remaining Days After Uinals
+    remaining_days_after_uinal_svalue = {
+        value = remaining_days_after_tun_svalue
+        subtract = {
+            value = calc_uinal_svalue
+            multiply = 20
+        }
+    }
+
+    # Step 9: Calculate Kins (remaining days)
+    calc_kin_svalue = {
+        value = remaining_days_after_uinal_svalue
+    }
+
+    # Step 10: Finalized Values for Localization
+    baktun_final = { value = calc_baktun_svalue }
+    katun_final = { value = calc_katun_svalue }
+    tun_final = { value = calc_tun_svalue }
+    uinal_final = { value = calc_uinal_svalue }
+    kin_final = { value = calc_kin_svalue }
+
+    # Use $mayan_long_count_display$ for Localization
+}

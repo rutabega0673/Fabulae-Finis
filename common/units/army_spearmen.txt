@@ -1,0 +1,37 @@
+﻿spearmen = {
+	army = yes
+	assault = yes
+	enable = yes
+
+	levy_tier = medium
+
+	maneuver = 1
+	movement_speed = 2.5
+	build_time = 45
+	
+	spearmen = 1.0
+	axemen = 1.0
+	swordsmen = 1.25
+	clubmen = 1.25
+	macebearers = 1.15
+	archers = 0.8
+	atlatlist = 1.05
+	slingers = 1.0
+	blowgunners = 1.0
+	wardogs = 1.3
+
+	build_cost = {
+		gold = 10
+		manpower = 1
+	}
+
+	supply_train = 2.0
+
+	attrition_weight = 1.25
+	morale_damage_taken = 1.0
+	
+	attrition_loss = 0.05
+	
+	food_consumption = 0.25
+	food_storage = 2.4
+}

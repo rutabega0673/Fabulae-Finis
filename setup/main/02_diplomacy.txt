@@ -1,0 +1,19 @@
+diplomacy = {
+
+	#alliance = { first = Tag1 second = Tag2 }
+
+	#guarantee = { first = Tag1 second = Tag2 }
+
+	#defensive_league = {
+	#	member = Tag1
+	#	member = Tag2
+	#}
+	
+	#dependency = { first = Tag1 second = Tag2 subject_type = tributary }
+
+	#Tag1 = {
+	#	Tag2 = {
+	#		trade_access=yes
+	#	}
+	#}
+}

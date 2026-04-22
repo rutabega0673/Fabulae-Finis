@@ -1,0 +1,25 @@
+﻿tetrere = {
+	#Spirit Canoes
+	army = no
+	category = medium
+	port_level = 1
+	
+	maneuver = 4
+	movement_speed = 12
+	outside_of_naval_range_attrition = 1.2
+
+	allow = {
+		trade_good_surplus = { target = halucinagenics value > 0 }
+	}
+
+	build_time = 180
+
+	morale_damage_done = 1.5
+
+	liburnian = 1.0
+	trireme = 1.0
+	tetrere = 1.0
+	build_cost = {
+		gold = 7
+	}
+}

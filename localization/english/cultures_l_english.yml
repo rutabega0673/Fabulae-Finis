@@ -1,0 +1,18 @@
+﻿l_english:
+
+ ## MAYA
+ #Group
+ mayan:0 "Maya"
+ #Cultures
+ peten:0 "Peten"
+ yucatan:0 "Mayab"
+ huastec:0 "Huastec"
+ highland:0 "Witzil"
+ #Names
+ mayan_malename:0 "$NAME_MALE$ $REGNALNUMBER$ $FAMILY_MALE$ $NICKNAME$"
+ mayan_femalename:0 "$NAME_MALE$ $REGNALNUMBER$ $FAMILY_MALE$ $NICKNAME$"
+ #Military
+ ARMY_NAME_mayan:0 "$NUM$$ORDER$ Ko'h"
+ NAVY_NAME_mayan:0 "$NUM$$ORDER$ Aj K'ab'"
+ COHORT_NAME_mayan:0 "$NUM$$ORDER$ Ch'akb'al $HOME$"
+ LEGION_NAME_mayan:0 "$NUM$$ORDER$ Tz'akb'al of $HOME$"

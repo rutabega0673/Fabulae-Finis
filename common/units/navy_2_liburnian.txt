@@ -1,0 +1,25 @@
+﻿liburnian = {
+	#Transport Canoes
+	army = no
+	category = light
+	port_level = 1
+	
+	maneuver = 4
+	movement_speed = 13
+
+
+
+
+
+
+	build_time = 120
+	
+	morale_damage_done = 1.0
+	
+	liburnian = 1.0
+	trireme = 1.0
+	tetrere = 1.0
+	build_cost = {
+		gold = 5
+	}
+}

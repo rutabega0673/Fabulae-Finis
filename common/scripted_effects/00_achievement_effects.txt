@@ -1,0 +1,2 @@
+﻿ach_holy_fire_effect = {
+}

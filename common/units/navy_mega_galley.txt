@@ -1,0 +1,28 @@
+﻿mega_galley = {
+	#Tens and up
+	army = no
+	enable = no
+	category = heavy
+	port_level = 5
+
+	allow = {
+		trade_good_surplus = { target = wood value > 0 }
+	}
+
+	maneuver = 0
+	movement_speed = 7
+	build_time = 365
+
+	strength_damage_done = 1.2
+	strength_damage_taken = 0.85
+	morale_damage_taken = 0.85
+	outside_of_naval_range_attrition = 2
+
+	liburnian = 2.0
+	tetrere = 1.5
+	mega_galley = 1.0
+
+	build_cost = {
+		gold = 20
+	}
+}

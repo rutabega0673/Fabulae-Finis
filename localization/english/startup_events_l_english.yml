@@ -1,0 +1,6 @@
+﻿l_english:
+ startup_events_1_title:0 "Maya Preclassic Collapse"
+ startup_events_1_desc:0 "Sometime, as early as the #E 8th Baktun, 3rd Katun#! (27th October 100CE), the age of brilliant Maya culture known as the #E Preclassic#!, severe decline took hold. The greatest of Maya cities, El Mirador, Nakbe, and Kaminaljuyu among others, have fallen into disrepair after spending centuries producing a masterclass of cultural works. Maya civilization has yet to produce cities as great.\n\nYet followed by darkness is a new light. Cities such as Yax Mutal (Tikal) have begun to rise, and the powerful Puh (Teotihuacan) have started to influence the Maya world. A new age of prosperity will soon be upon us, should we only survive the final shadows of the giants who fell before us. Our priests and wisemen believe this will take approximately 2.5 Katuns (50 years)"
+ startup_events_1.a:0 "We will endure hardship before harnessing greatness."
+ startup_events_1_modifier:0 "Shadow of the Giants" #50 Years
+ mayan_long_count_display:0 "[SCOPE.ScriptValue('baktun_final')|0].[SCOPE.ScriptValue('katun_final')|0].[SCOPE.ScriptValue('tun_final')|0].[SCOPE.ScriptValue('uinal_final')|0].[SCOPE.ScriptValue('kin_final')|0]"

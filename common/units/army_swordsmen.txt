@@ -1,0 +1,34 @@
+﻿swordsmen = {
+	default = yes	
+	army = yes
+	assault = yes
+	
+	levy_tier = basic	
+	
+	maneuver = 2
+	movement_speed = 2.5
+	build_time = 45
+
+	spearmen = 0.9
+	axemen = 1.15
+	swordsmen = 1.0
+	clubmen = 1.1
+	macebearers = 0.8
+	archers = 1.0
+	atlatlist = 1.1
+	slingers = 1.3
+	blowgunners = 0.95
+	wardogs = 1.3
+	
+	attrition_weight = 1.25
+	attrition_loss = 0.05
+	
+	food_consumption = 0.15
+	food_storage = 2.4
+	
+	morale_damage_taken = 1.15
+	build_cost = {
+		gold = 8
+		manpower = 1
+	}
+}

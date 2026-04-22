@@ -1,0 +1,11 @@
+treasure_manager = {
+    database = {
+#    	1 = { # Thebes
+#			key = "treasure_tomb_of_semele"
+#			icon = "treasure_sarcophagus"
+#			state_modifier = {
+#				local_population_growth = 0.05
+#			}
+#		}
+	}
+}

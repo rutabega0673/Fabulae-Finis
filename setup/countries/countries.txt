@@ -1,0 +1,8 @@
+﻿REB = "setup/countries/rebels.txt"
+PIR = "setup/countries/pirates.txt"
+BAR = "setup/countries/barbarians.txt"
+MER = "setup/countries/mercenaries.txt"
+
+TIK = "setup/countries/mesoamerica/tikal.txt"
+#KJA = "setup/countries/mesoamerica/kooja.txt"
+#CAL = "setup/countries/mesoamerica/calacmul.txt"
