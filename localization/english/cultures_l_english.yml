@@ -20,3 +20,45 @@
  ## Louisianais ##
  louisianais:0 "Louisianais"
  nolan:0 "Nolan"
+ 
+ ## Yankee ##
+ yankee:0 "Yankee"
+ gothamite:0 "Gothamite"
+ youser:0 "Youser"
+ upstater:0 "Upstater"
+ hudsonian:0 "Hudsonian"
+ beltway:0 "Beltway"
+ pocono:0 "Pocono"
+ 
+ ## Deep Southern ##
+ deep_southern:0 "Deep Southern"
+ arkalatexan:0 "Arkalatexan"
+ atlantean:0 "Atlantean"
+ deltaic:0 "Deltaic"
+ dixie:0 "Dixie"
+ gulfard:0 "Gulfard"
+ tuskegean:0 "Tuskegean"
+
+ ## Old Southern ##
+ hoi_toider:0 "Hoi Toider"
+ southron:0 "Southron"
+ piedmontese:0 "Piedmontese"
+ sandlapper:0 "Sandlapper"
+ 
+ ## Floridian ##
+ floridian:0 "Floridian"
+ sunshiner:0 "Sunshiner"
+ sofloano:0 "Sofloano"
+
+ ## Northlake ##
+ northlake:0 "Northlake"
+ minnesotan:0 "Minnesotan"
+ yooper:0 "Yooper"
+ cheesehead:0 "Cheesehead"
+
+ ## Midwestern ##
+  midwestern:0 "Midwestern"
+ 	gatewayan:0 "Gatewayan"
+	heartlander:0 "Heartlander" 
+	grangelander:0 "Grangelander"
+	okie:0 "Okie" 

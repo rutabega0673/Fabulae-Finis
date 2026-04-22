@@ -1,0 +1,54 @@
+﻿midwestern = {
+	color = rgb { 168 77 109 }
+
+	levy_template = levy_central_asia
+	
+	primary = light_infantry
+	second = heavy_cavalry
+	flank = horse_archers
+
+	primary_navy = tetrere
+	secondary_navy = octere
+	flank_navy = liburnian
+
+	male_names = {
+		Tarxun Ramch Axak Maxak Uxuchan Shaow Wanxanak Awekat Baxuman Chukshek Ratsh Ramtish Ayus Katch Arxata Exak Sheshch Oxyartes Spitamenes Artaxerxes Burz Orzek Samtish Bexak Arzun Shaw Entysh Anxach Wius Bharzun Bharxuman 
+	}
+	female_names = {
+		Roxana Rayun Roshanak Baxunash Roshan Saryash Zunesh Mayara Koshana Hephta Hashchana Ixeni Oniya Wyara Awxa Oshan Riyun 
+	}
+	family = {
+		Tarixanian.Tarixanian.Tarixanian.Tarixanian
+		Arzakanian.Arzakanian.Arzakanian.Arzakanian
+		Axumenian.Axumenian.Axumenian.Axumenian
+		Wanxanian.Wanxanian.Wanxanian.Wanxanian
+		Rachnian.Rachnian.Rachnian.Rachnian
+		Burzen.Burzen.Burzen.Burzenid
+		Semshan.Semshan.Semshan.Semshanian
+		Orzan.Orzan.Orzan.Orzan
+		Bharzunian.Bharzunian.Bharzunian.Bharzunian
+		Wyaran.Wyaran.Wyaran.Wyaran
+		Oxian.Oxian.Oxian.Oxian
+		Arxatan.Arxatan.Arxatan.Arxatan
+		Spitamenian.Spitamenian.Spitamenian.Spitamenian
+		Artaxian.Artaxian.Artaxian.Artaxian
+		Orxenian.Orxenian.Orxenian.Orxenian
+		Arzunian.Arzunian.Arzunian.Arzunian
+		Aynian.Aynian.Aynian.Aynian
+	}
+	culture = {
+		gatewayan = {}
+		heartlander = {}
+		grangelander = {}
+		okie = {}
+	}
+	
+	barbarian_names = { 
+		DREPSIANOI CHORASMIOI OUARNOI SKORDAI MAROUKAIOI TOCHAROI KOMOI CHOMAROI SALATARAE TAMBYZOI ZARIASPAEA
+	}
+	
+	graphical_culture = hellenic_gfx
+	ethnicities = {
+		10 = greek
+	}
+}

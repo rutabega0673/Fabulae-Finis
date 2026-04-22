@@ -1,6 +1,6 @@
 ﻿NGame = {
-	START_DATE = "450.10.1" #公元前304年
-	END_DATE = "1229.9.4" # Fall of Rome - from timeline extender
+	#START_DATE = "450.10.1" #公元前304年
+	#END_DATE = "1229.9.4" # Fall of Rome - from timeline extender
 	GAME_SPEED_TICKS = {	 #how many seconds should a day take in every game speed
 		1
 		0.75
