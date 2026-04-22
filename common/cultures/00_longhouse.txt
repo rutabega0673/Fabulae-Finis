@@ -1,5 +1,5 @@
-﻿northlake = {
-	color = { 77 65 135 }
+﻿longhouse = {
+	color = rgb { 168 140 229 }
 
 	levy_template = levy_central_asia
 	
@@ -37,19 +37,15 @@
 		Aynian.Aynian.Aynian.Aynian
 	}
 	culture = {
-		minnesotan = {}
-		cheesehead = {}
-		yooper = {}
-		northlander = {}
-		upnorther = {}
+		haudenosaunee = {}
 	}
 	
 	barbarian_names = { 
 		DREPSIANOI CHORASMIOI OUARNOI SKORDAI MAROUKAIOI TOCHAROI KOMOI CHOMAROI SALATARAE TAMBYZOI ZARIASPAEA
 	}
 	
-	graphical_culture = german_gfx
+	graphical_culture = hellenic_gfx
 	ethnicities = {
-		10 = germanic
+		10 = greek
 	}
 }

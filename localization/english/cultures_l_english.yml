@@ -21,8 +21,8 @@
  louisianais:0 "Louisianais"
  nolan:0 "Nolan"
  
- ## Yankee ##
- yankee:0 "Yankee"
+ ## Mid-Atlantic ##
+ yankee:0 "Mid-Atlantic"
  gothamite:0 "Gothamite"
  youser:0 "Youser"
  upstater:0 "Upstater"
@@ -56,6 +56,7 @@
  yooper:0 "Yooper"
  cheesehead:0 "Cheesehead"
  northlander:0 "Northlander"
+ upnorther:0 "Upnorther"
 
  ## Midwestern ##
  midwestern:0 "Midwestern"
@@ -107,3 +108,46 @@
  tejano:0 "Tejano"
  texaner:0 "Texaner"
  estacadan:0 "Estacadan"
+
+ ## Longhouse ##
+ longhouse:0 "Longhouse"
+ haudenosaunee:0 "Haudenosaunee"
+
+ ## Anishinaabe ##
+ anishinaabe:0 "Anishinaabe"
+ algonquin:0 "Algonquin " 
+ chippewa:0 "Chippewa" 
+ menominee:0 "Menominee"
+ odawa:0 "Odawa"
+ ojibwe:0 "Ojibwe" 
+ potowatomi:0 "Potowatomi" 
+ anisininew:0 "Anisininew"
+
+ ## Maritime Canadian ##
+ maritime_canadian:0 "Maritime"
+ maritimer:0 "Maritimer"
+ newfie:0 "Newfie"
+ gaidheal:0 "Gaidheal"
+
+ ## Sioux ##
+ sioux:0 "Sioux"
+ dakota:0 "Dakota"
+ lakota:0 "Lakota" 
+ nakota:0 "Nakota"
+ dhegihan:0 "Dhegihan"
+
+ ## Yankee ##
+ new_englander:0 "Yankee"
+ vermonter:0 "Vermonter"
+ bayfolk:0 "Bayfolk"
+ shorehugger:0 "Shorehugger"
+
+ ## Seminole ##
+ seminole:0 "Seminole"
+
+ ## Sequoyan ##
+ caddo:0 "Caddo"
+ cherokee:0 "Cherokee" 
+ choctaw:0 "Choctaw" 
+ chickasaw:0 "Chickasaw" 
+ muscogee:0 "Muscogee" 

@@ -17,6 +17,12 @@
  old_order:0 "Old Order"
  desc_old_order:0 "The Old Order are a collection of groups of Conservative Amish, Mennonites, and Brethren, focused on separation from the outside or 'English' world, a principle of nonviolence, and plain living. These tenets make life after the apocalypse difficult and often quite short. Due to the religious violence and general chaos inherent to the post-Deluge social order, the Old Order has abandoned its former practice of absolute pacifism, but members still strive to avoid violent conflict whenever possible. Using violence in any context - even self-defense - is highly discouraged."
 
+ united_church:0 "United Church"
+ desc_united_church:0 "Originally one of the many offshoots of Protestant Christianity in Toronto, the United Church differs from its fellows by its belief that the Holy Spirit acts through all faiths, and that God's will therefore is best understood through dialogue with other creeds. Through inter-faith services, adherents invite members of other faiths into their holy spaces to perform their own rituals, so as to open new pathways to the divine. The Church retains many elements of traditional Protestant Christianity, believing that the Bible is God's most direct revelation to humankind, and that Communion is a holy act."
+
+ unitarian_universialism:0 "Unitarian Universialism"
+ desc_unitarian_universialism:0 "Unitarian Universalists assert no creed, but instead, are united behind a shared search for spiritual growth. Unitarians are guided by their 'living tradition' - that is, by a number of documents open to reading, reinterpretation and reworking. These various traditions give way to inspiration and insight taken from all religions, although special regard for intellectual freedom and inclusive love above other elements of theology."
+
  ## Industrialist ##
  promethean:0 "Promethean"
  desc_promethean:0 "One of the first faiths to emerge after the Great Rusting, the Prometheans seek to restore the Gilded Age through the powers of the Titan Kings. They believe that during that time, the world was divided amongst the titans, who served as intermediaries between Industry and the workers. They channeled the labor of the people to Industry and the prosperity of Industry back to the workers. Now that responsibility falls to their descendants, who seek to recreate the ancient society in all its forms and usher in a new Gilded Age."
@@ -69,3 +75,8 @@
 
  gothic:0 "Gothic"
  desc_gothic:0 "In the heart of ancient New England woods, where shadows dance like moonlit specters, Gothic Occultery unfolds in the hidden clearings and burnt-out hearths where winds whisper secrets that only the gifted and chosen can fully comprehend. The faithful find solace in the haunted echoes of elder tales, where the lines between good and evil become invisible in the darkness. Madness, a mantle worn by the outside world, finds no place here; for the faithful, clarity and protection is found through communion with the strange forces that govern the universe. The Ageless Stranger, the enigmatic link between mortals and the Old Ones, is the conduit through which the influence of these powers are felt and utilized. Though... always at a price."
+
+ ## Woodlands ##
+ 
+ midewiwin:0 "Midewiwin"
+ desc_midewiwin:0 "Midewiwin, or the "Spiritual Mystery", is the traditional religion of many Native American groups in the Great Lakes area and beyond. Followers of Midewiwin believe that the Event, or the "Seventh Fire", marked the start of a new era for Native Americans across North America, a time for reclamation of both land and spirituality. The center of Midewiwin practice is the "medicine lodge", where initiated priests conduct rites of ceremony and passage for their people."
