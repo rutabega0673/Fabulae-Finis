@@ -3,8 +3,9 @@ country = {
 		BAR = {
 			government = tribal_chiefdom
 		}
+
 		PRI = {
-			government = tribal_chiefdom
+			government = theocratic_republic
 			primary_culture = youser
 			religion = americanist
 			capital = 4077
@@ -16,7 +17,24 @@ country = {
 			}
 
 			own_control_core = {
-				4077
+				4077 1708 3710 3709 9588 8639 3708 1706 8638 8637 1704 1707 7136 3241 3239 7135 1705 
+			}
+		}
+
+		NYC = {
+			government = plutocratic_republic
+			primary_culture = gothamite
+			religion = americanist
+			capital = 4381 
+
+			technology={
+				military_tech={ level=2 progress=0 }
+				civic_tech={ level=2 progress=0 }
+				religious_tech= { level=2 progress=0  }
+			}
+
+			own_control_core = {
+				4381 2440 2441 2441 2622 2442
 			}
 		}
 	}

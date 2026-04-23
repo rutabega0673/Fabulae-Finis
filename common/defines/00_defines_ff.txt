@@ -1,6 +1,6 @@
 ﻿NGame = {
-	START_DATE = "3053.1.1" #2300 CE
-	END_DATE = "3419.4.13" #2666 CE (start date of AtE CK3)
+	START_DATE = "2300.1.1" #2300 CE
+	END_DATE = "2666.4.13" #2666 CE (start date of AtE CK3)
 	TAG_LIMIT = 4096
 }
 

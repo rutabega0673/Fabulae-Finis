@@ -1,7 +1,7 @@
-﻿PRE = { #presidency
-	pattern = "pattern_solid.dds"
-	color1 = "ck2_blue"
-	color2 = "ck2_blue"
+﻿PRI = { #presidency
+	pattern = "pattern_solid.tga"
+	color1 = "navy_blue"
+	color2 = "navy_blue"
 	colored_emblem = {
 		texture = "ce_branch.dds"
 		color1 = "ck2_green"
@@ -18,29 +18,28 @@
 	}
 	colored_emblem = {
 		texture = "ce_eagle_american_bald.dds"
-		color1 = "ck2_brown"
-		color2 = "ck2_yellow"
-		color3 = "ck2_white"
+		color1 = "dark_rust"
+		color2 = "roman_gold"
+		color3 = "offwhite"
 		instance = { position = { 0.5 0.48 } scale = { 0.8 0.8 }  }
 	}
-		colored_emblem = {
-			texture = "ce_circle_01.dds"
-			color1 = "ck2_yellow"
-			color2 = "ck2_yellow"
-			instance = { position = { 0.5 0.13 } scale = { 0.2 0.2 }  }
-		}
-		colored_emblem = {
-			texture = "ce_circle_01.dds"
-			color1 = "ck2_blue"
-			color2 = "ck2_blue"
-			instance = { position = { 0.5 0.10 } scale = { 0.08 0.08 }  }
-			instance = { position = { 0.47 0.115 } scale = { 0.08 0.08 }  }
-			instance = { position = { 0.53 0.115 } scale = { 0.08 0.08 }  }
-			instance = { position = { 0.5 0.13 } scale = { 0.08 0.08 }  }
-			instance = { position = { 0.47 0.145 } scale = { 0.08 0.08 }  }
-			instance = { position = { 0.53 0.145 } scale = { 0.08 0.08 }  }
-			instance = { position = { 0.5 0.16 } scale = { 0.08 0.08 }  }
-		}
+	colored_emblem = {
+		texture = "ce_circle_03.dds"
+		color1 = "roman_gold"
+		instance = { position = { 0.5 0.13 } scale = { 0.2 0.2 }  }
+	}
+	colored_emblem = {
+		texture = "ce_circle_03.dds"
+		color1 = "ck2_blue"
+		color2 = "ck2_blue"
+		instance = { position = { 0.5 0.10 } scale = { 0.08 0.08 }  }
+		instance = { position = { 0.47 0.115 } scale = { 0.08 0.08 }  }
+		instance = { position = { 0.53 0.115 } scale = { 0.08 0.08 }  }
+		instance = { position = { 0.5 0.13 } scale = { 0.08 0.08 }  }
+		instance = { position = { 0.47 0.145 } scale = { 0.08 0.08 }  }
+		instance = { position = { 0.53 0.145 } scale = { 0.08 0.08 }  }
+		instance = { position = { 0.5 0.16 } scale = { 0.08 0.08 }  }
+	}
 	colored_emblem = {
 		texture = "ce_star_05.dds"
 		color1 = "offwhite"
@@ -63,5 +62,38 @@
 		instance = { position = { 0.539 0.15 } scale = { 0.035 0.035 }  }
 		#5th row
 		instance = { position = { 0.5 0.169 } scale = { 0.035 0.035 }  }
+	}
+}
+
+NYC = { #New York
+	pattern = "pattern_vertical_split_02.tga"
+	color1 = "offwhite"
+	color2 = "offwhite"
+	
+	#colored_emblem = {
+	#	texture = "ce_beaver.dds"
+	#	color1 = "blue"
+	#	color2 = "blue"
+	#	instance = { position = { 0.5 0.225 } scale = { 0.3 0.3 }  }
+	#	instance = { position = { 0.5 0.775 } scale = { 0.3 0.3 }  }
+	#}
+	colored_emblem = {
+		texture = "ce_barrel.dds"
+		color1 = rgb { 28 94 164 }
+		color2 = rgb { 28 94 164 }
+		instance = { position = { 0.225 0.5 } scale = { 0.2 0.2 }  }
+		instance = { position = { 0.775 0.5 } scale = { 0.2 0.2 }  }
+	}
+	colored_emblem = {
+		texture = "ce_ordinary_saltire_5.dds"
+		color1 = hsv {		0.064 	0.75 	0.8 	}
+		color2 = hsv {		0.064 	0.75 	0.8 	}
+		instance = { position = { 0.5 0.5 } scale = { 1.0 1.0 }  }
+	}
+	colored_emblem = {
+		texture = "ce_windmill_02.dds"
+		color1 = "offwhite"
+		color2 = "offwhite"
+		instance = { position = { 0.5 0.5 } scale = { 0.6 0.6 } }
 	}
 }
