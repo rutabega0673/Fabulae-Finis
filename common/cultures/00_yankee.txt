@@ -49,7 +49,7 @@
 		DREPSIANOI CHORASMIOI OUARNOI SKORDAI MAROUKAIOI TOCHAROI KOMOI CHOMAROI SALATARAE TAMBYZOI ZARIASPAEA
 	}
 	
-	graphical_culture = hellenic_gfx
+	graphical_culture = roman_gfx
 	ethnicities = {
 		10 = greek
 	}
