@@ -776,3 +776,14 @@ clay = { #Clay
 	}
 	color = hsv { 0.4 0.2 0.6 }
 }
+maize = { #Maize
+	category = 1
+	gold = 0.3
+	province = {
+		local_monthly_food = 6
+	}
+	country = {
+		pop_growth_modifier = 0.02
+	}
+	color = hsv { 0.16 0.8 0.5 }
+}
