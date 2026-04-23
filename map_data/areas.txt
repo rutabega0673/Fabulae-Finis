@@ -19,3 +19,105 @@ new_york_area = { #12
 baltimore_area = { #11
 	provinces = { 3183 3670 3668 3669 3186 3185 3184 5766 5855 5854 5853 }
 }
+connecticut_area = { #14
+	provinces = { 82 84 3507 3506 3425 3426 5420 5239 5237 3505 6113 4628 5238 5240 }
+}
+rhode_island_area = { #7
+	provinces = { 4627 6112 6114 6222 6223 6224 6225 }
+}
+boston_area = { #8
+	provinces = { 6535 1467 6536 6534 1465 1466 7224 5186 }
+}
+plymouth_area = { #7
+	provinces = { 2171 2170 2169 2178 2179 8883 1904 }
+}
+massachusets_area = { #7
+	provinces = { 7222 7223 3485 2905 1073 1072 1071 2906 7032 3486 2907 }
+}
+catskills_area = { #7
+	provinces = { 7969 7970 7968 7971 9420 9421 6681 1691 1692  }
+}
+vermont_area = { #14
+	provinces = { 1011 6540 997 1010 4179 4180 4178 985 986 2782 1053 2781 2780 998 }
+}
+poughkeepsie_area = { #14
+	provinces = { 2698 2699 7031 4923 4921 4922 }
+}
+chicago_area = { 
+	provinces = { 7317 2513 2512 2514 2229 2234 2233 8806 226 2232 2231 8758  }
+}
+rockford_area = { 
+	provinces = { 8755 8756 2230 8757 9514 9513 9512 9511 }
+}
+peoria_area = { 
+	provinces = { 2797 2798 2799 6035 6034 6033 }
+}
+quincy_area = { 
+	provinces = { 7925 2796 2800 7924 7923 9205 9204 9203 }
+}
+centralia_area = { 
+	provinces = { 4048 4046 5127 4050 320 322 321 323 6429 6432 4049 5126 }
+}
+springfield_il_area = { 
+	provinces = { 6430 6431 2733 2736 6433 8337 8335 2734 2735 4682 4683 4685 11651 4193 8336 }
+}
+champaign_area = { 
+	provinces = { 11649 5128 8338 8334 5125 433 431 432 434 9483 }
+}
+limestone_area = { 
+	provinces = { 223 225 224 9481 9484 }
+}
+bloomington_area = { 
+	provinces = { 4195 4684 7547 7546 7548 7547 9482 4194 7545 }
+}
+saint_louis_area = { 
+	provinces = { 4206 3651 3650 3652 6338 6336 4207 4308 2957 4208 }
+}
+bootheel_area = { 
+	provinces = { 4000 2959 2958 9509 4002 5537 4001 5538 5536 9510 }
+}
+kansas_city_area = { 
+	provinces = { 7369 8495 7371 3873 6622 6621 8498 8494 6620 5601 }
+}
+ellington_area = { 
+	provinces = { 7613 6337 5600 5602 5250 7611 7612 1089 1088 1090 9508 }
+}
+como_area = { 
+	provinces = { 8644 8645 8646 3875 6799 3874 6800 5446 6798 }
+}
+quad_cities_area = { 
+	provinces = { 8219 8218 8220 8165 8166 7558 7557 7559 }
+}
+joplin_area = { 
+	provinces = { 9346 9345 8493 5953 5951 5952 1491 1490 1492 5252 5251 }
+}
+terre_haute_area = { 
+	provinces = { 7373 9451 9452 802 800 5447 5445 9450 }
+}
+des_moines_area = { 
+	provinces = { 1945 1946 1855 1857 801 9369 1856 1855 1947 }
+}
+dubuque_area = { 
+	provinces = { 4520 8167 6427 6428 1182 4521 8568 }
+}
+waterloo_area = { 
+	provinces = { 8569 4519 8172 8173 8171 4591 6399 8567  }
+}
+council_bluffs_area = { 
+	provinces = { 9368 9367 8330 8331 8332 8329 }
+}
+fort_dodge_area = { 
+	provinces = { 4592 6398 5627 5626 868 869 5628 4593 867 866 }
+}
+new_hampshire_area = { 
+	provinces = { 3447 7764 7763 7767 7766 7765 6124 6125 2384 2383 3377 3378 3446 }
+}
+portland_maine_area = { 
+	provinces = { 5185 5184 5296 5293 5295 4295 4294 5294 4296 1408 2742 }
+}
+rockland_area = { 
+	provinces = { 9629 2741 2740 1406 1407 3 1 9627 9628 }
+}
+ellsworth_area = { 
+	provinces = { 8772 9568 9567 9569 2040 2041 7162 7163 7161 8773 8774 9570 }
+}

@@ -86060,7 +86060,7 @@
 
 6621={ #
 	terrain="plains"
-	culture="heartlander"
+	culture="hermannsdeutch"
 	religion="catholic"
 	trade_goods=""
 	civilization_value=10

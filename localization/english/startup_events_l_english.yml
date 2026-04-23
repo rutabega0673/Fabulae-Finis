@@ -4,3 +4,5 @@
  startup_events_1.a:0 "We will endure hardship before harnessing greatness."
  startup_events_1_modifier:0 "Shadow of the Giants" #50 Years
  mayan_long_count_display:0 "[SCOPE.ScriptValue('baktun_final')|0].[SCOPE.ScriptValue('katun_final')|0].[SCOPE.ScriptValue('tun_final')|0].[SCOPE.ScriptValue('uinal_final')|0].[SCOPE.ScriptValue('kin_final')|0]"
+
+ CURRENT_DATE_TOOLTIP:2 "#T Current Date#!\nThe game counts using the Gregorian calendar, which was commonly used by the great empires before The Event.\n\n#TF Pythagoras, when he was asked what time was, answered that it was the soul of this world.#!"
