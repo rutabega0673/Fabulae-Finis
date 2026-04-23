@@ -1,1 +1,13 @@
-﻿
+﻿## ATLANTICA REGION ##
+4077={ #Philadelphia
+	terrain="farmland"
+	culture="youser"
+	religion="americanist"
+	trade_goods="marble"
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}

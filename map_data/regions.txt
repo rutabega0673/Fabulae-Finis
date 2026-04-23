@@ -1,1 +1,6 @@
-﻿
+﻿africa_region = { #9 areas
+	color = rgb { 167 130 93 }
+	areas = {
+		philadelphia_area lancaster_area south_jersey_area delaware_area north_jersey_area new_york_area baltimore_area
+	}
+}

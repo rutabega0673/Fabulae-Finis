@@ -42122,12 +42122,12 @@
 	terrain="plains"
 	culture="deitsch"
 	religion="old_order"
-	trade_goods=""
+	trade_goods="livestock"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
 	tribesmen={
-		amount=1
+		amount=2
 	}
 }
 
@@ -52986,7 +52986,7 @@
 	}
 }
 
-4077={ #
+4077={ #Philadelphia
 	terrain="farmland"
 	culture="youser"
 	religion="americanist"

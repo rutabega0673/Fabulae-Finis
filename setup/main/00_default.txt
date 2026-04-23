@@ -3,5 +3,22 @@ country = {
 		BAR = {
 			government = tribal_chiefdom
 		}
+		PRE = {
+		government = theocratic_republic
+		primary_culture = youser
+		religion = americanist
+		capital = 4077
+
+		technology={
+			military_tech={ level=2 progress=0 }
+			civic_tech={ level=2 progress=0 }
+			oratory_tech={ level=2 progress=0 }
+			religious_tech= { level=2 progress=0  }
+		}
+
+		own_control_core = {
+			4077
+		}
+	}
 	}
 }
