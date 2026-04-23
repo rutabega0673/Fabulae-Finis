@@ -86060,9 +86060,9 @@
 
 6621={ #
 	terrain="plains"
-	culture="hermannsdeutch"
+	culture="hermanndeutsch"
 	religion="catholic"
-	trade_goods=""
+	trade_goods="livestock"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
