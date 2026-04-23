@@ -5,35 +5,28 @@ supply_train = {
 	support = yes
 
 	levy_tier = none 	# these are added to levies automatically when required
-
-	allow = {
-		OR = {
-			trade_good_surplus = { target = llamas value > 0 }
-			trade_good_surplus = { target = dogs value > 0 }
-		}
-	}
 	
 	maneuver = 1
 	movement_speed = 3
 	build_time = 120
 
-	spearmen = 0.1
-	axemen = 0.1
-	swordsmen = 0.1
-	clubmen = 0.1
-	macebearers = 0.1
+	light_infantry = 0.1
+	heavy_infantry = 0.1
+	heavy_cavalry = 0.1
+	warelephant = 0.1
+	horse_archers = 0.1
 	archers = 0.1
-	atlatlist = 0.1
-	slingers = 0.1
-	blowgunners = 0.1
-	wardogs = 0.1
+	chariots = 0.1
+	camels = 0.1
+	light_cavalry = 0.1
+	spearmen = 0.1
 	supply_train = 1
 	
 	attrition_weight = 1.0
 	attrition_loss = 0.1
 	
 	food_consumption = 0.05
-	food_storage = 25
+	food_storage = 50
 	
 	
 	morale_damage_taken = 2.0

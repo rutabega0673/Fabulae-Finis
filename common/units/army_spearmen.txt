@@ -3,35 +3,32 @@
 	assault = yes
 	enable = yes
 
-	levy_tier = medium
+	levy_tier = advanced
 
 	maneuver = 1
 	movement_speed = 2.5
 	build_time = 45
 	
-	spearmen = 1.0
-	axemen = 1.0
-	swordsmen = 1.25
-	clubmen = 1.25
-	macebearers = 1.15
-	archers = 0.8
-	atlatlist = 1.05
-	slingers = 1.0
-	blowgunners = 1.0
-	wardogs = 1.3
 
+	light_infantry = 1.1
+	heavy_infantry = 0.85
+	heavy_cavalry = 1.2
+	warelephant = 0.9
+	horse_archers = 1.1
+	archers = 0.75
+	chariots = 1.15
+	light_cavalry = 1.25
+	camels = 1.25
+	supply_train = 2.0
 	build_cost = {
-		gold = 10
+		gold = 8
 		manpower = 1
 	}
 
 	supply_train = 2.0
-
-	attrition_weight = 1.25
-	morale_damage_taken = 1.0
 	
 	attrition_loss = 0.05
 	
-	food_consumption = 0.25
+	food_consumption = 0.15
 	food_storage = 2.4
 }

@@ -11,16 +11,16 @@ engineer_cohort = {
 	maneuver = 1
 	movement_speed = 3
 
-	spearmen = 0.1
-	axemen = 0.1
-	swordsmen = 0.1
-	clubmen = 0.1
-	macebearers = 0.1
+	light_infantry = 0.1
+	heavy_infantry = 0.1
+	heavy_cavalry = 0.1
+	warelephant = 0.1
+	horse_archers = 0.1
 	archers = 0.1
-	atlatlist = 0.1
-	slingers = 0.1
-	blowgunners = 0.1
-	wardogs = 0.1
+	chariots = 0.1
+	camels = 0.1
+	light_cavalry = 0.1
+	spearmen = 0.1
 	supply_train = 1
 	
 	attrition_weight = 1.0

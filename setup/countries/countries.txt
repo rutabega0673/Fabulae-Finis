@@ -4,4 +4,4 @@ BAR = "setup/countries/barbarians.txt"
 MER = "setup/countries/mercenaries.txt"
 
 #East Coast
-PRE = "setup/countries/east_coast/presidency_philadelphia.txt"
+PRI = "setup/countries/east_coast/presidency.txt"

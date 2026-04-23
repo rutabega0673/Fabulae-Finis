@@ -1,7 +1,7 @@
 ﻿amish = {
 	color = rgb { 102 102 76 }
 
-	levy_template = levy_central_asia
+	levy_template = levy_maya
 	
 	primary = light_infantry
 	second = heavy_cavalry
