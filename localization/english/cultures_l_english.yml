@@ -151,3 +151,15 @@
  choctaw:0 "Choctaw" 
  chickasaw:0 "Chickasaw" 
  muscogee:0 "Muscogee" 
+ 
+ ## Arctic ##
+ arctic:0 "Arctic"
+ kalaaleq:0 "Kalaaleq"
+ inuit:0 "Inuit"
+ 
+ ## East Cree ##
+ east_cree:0 "East Cree"
+ nihithaw:0 "Nihithaw"
+ innu:0 "Innu"
+ eeyou:0 "Eeeyou"
+ 
