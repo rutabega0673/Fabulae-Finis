@@ -28,3 +28,15 @@ new_england_region = { #9
 		boston_area rhode_island_area vermont_area new_hampshire_area portland_maine_area ellsworth_area plymouth_area massachusets_area rockland_area
 	}
 }
+michigan_region = { #8
+	color = rgb { 32 68 99 }
+	areas = {
+		detroit_area petoskey_area mount_pleasant_area kalamazoo_area lansing_area ann_arbor_area saginaw_area traverse_area
+	}
+}
+hudsonia_region = { #8
+	color = rgb { 168 99 14 }
+	areas = {
+		albany_area upstate_area buffalo_area finger_lakes_area otsego_area ticonderoga_area central_ny_area syracuse_area
+	}
+}
