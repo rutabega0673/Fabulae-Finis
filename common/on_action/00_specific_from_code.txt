@@ -1644,10 +1644,6 @@ on_game_initialized = {
 		}
 	} 
 	events = {
-		startup_events.1
-		startup_events.2
-		startup_events.7
-		startup_events.8
 	}
 }
 

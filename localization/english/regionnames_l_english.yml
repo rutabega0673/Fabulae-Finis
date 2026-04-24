@@ -1,4 +1,11 @@
 ﻿l_english:
+ atlantica_region:0 "Atlantica"
+ illinois_region:0 "Illinois"
+ missouri_region:0 "Missouri"
+ iowa_region:0 "Iowa"
+ new_england_region:0 "New England"
+ michigan_region:0 "Michigan"
+ hudsonia_region:0 "Hudsonia"
  philadelphia_area:0 "Philadelphia"
  lancaster_area:0 "Lancaster"
  new_york_area:0 "New York"
@@ -6,3 +13,4 @@
  north_jersey_area:0 "North Jersey"
  delaware_area:0 "Delaware"
  baltimore_area:0 "Baltimore and Annapolis"
+ chicago_area:0 "Chicagoland"

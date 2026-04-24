@@ -146,6 +146,7 @@
  seminole:0 "Seminole"
 
  ## Sequoyan ##
+ sequoyan:0 "Sequoyan"
  caddo:0 "Caddo"
  cherokee:0 "Cherokee" 
  choctaw:0 "Choctaw" 
@@ -162,4 +163,7 @@
  nihithaw:0 "Nihithaw"
  innu:0 "Innu"
  eeyou:0 "Eeeyou"
+
+ ## Hermanndeutch ##
+ hermanndeutch:0 "Hermanndeutch"
  

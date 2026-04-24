@@ -1,7 +1,7 @@
-﻿new_englander = {
-	color = rgb { 87 150 103 }
+﻿hermanndeutsch = {
+	color = rgb { 96 98 59 }
 
-	levy_template = levy_central_asia
+	levy_template = levy_maya
 	
 	primary = light_infantry
 	second = heavy_cavalry
@@ -37,9 +37,7 @@
 		Aynian.Aynian.Aynian.Aynian
 	}
 	culture = {
-		vermonter = {} #formerly hemlocker
-		bayfolk = {} #formerly chowderfolk
-		shorehugger = {} #formrly lobstermen
+		hermanndeutsch = {}
 	}
 	
 	barbarian_names = { 
