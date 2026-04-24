@@ -1,7 +1,7 @@
-﻿atlantica_region = { #10 areas
+﻿atlantica_region = { #8 areas
 	color = { 0.064 0.75 0.8 }
 	areas = {
-		philadelphia_area lancaster_area south_jersey_area delaware_area north_jersey_area new_york_area baltimore_area connecticut_area catskills_area poughkeepsie_area
+		philadelphia_area lancaster_area south_jersey_area delaware_area north_jersey_area new_york_area baltimore_area connecticut_area washington_dc_area
 	}
 }
 illinois_region = { #9 areas
@@ -34,9 +34,15 @@ michigan_region = { #8
 		detroit_area petoskey_area mount_pleasant_area kalamazoo_area lansing_area ann_arbor_area saginaw_area traverse_area
 	}
 }
-hudsonia_region = { #8
+hudsonia_region = { #10
 	color = rgb { 168 99 14 }
 	areas = {
-		albany_area upstate_area buffalo_area finger_lakes_area otsego_area ticonderoga_area central_ny_area syracuse_area
+		albany_area upstate_area buffalo_area finger_lakes_area otsego_area ticonderoga_area central_ny_area syracuse_area catskills_area poughkeepsie_area
+	}
+}
+dutchland_region = { #4
+	color = rgb { 103 77 43 }
+	areas = {
+		dutchland_area shiloh_area williamsport_area scranton_area
 	}
 }
