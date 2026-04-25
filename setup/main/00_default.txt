@@ -25,7 +25,7 @@ country = {
 		NYC = {
 			government = plutocratic_republic
 			primary_culture = gothamite
-			religion = americanist
+			religion = guruist
 			capital = 4381 
 
 			technology={
