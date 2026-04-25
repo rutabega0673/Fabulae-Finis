@@ -130,3 +130,21 @@ palmetto_region = { #5
 		myrtle_beach_area charleston_sc_area columbia_sc_area lexington_sc_area clemson_area
 	}
 }
+georgia_region = { #5
+	color = rgb { 177 114 121 }
+	areas = {
+		st_marys_area savannah_area sparta_area jackson_area albany_ga_area atlanta_area athens_area macon_area
+	}
+}
+alabama_region = { #6
+	color = rgb { 111 51 114}
+	areas = {
+		montgomery_area mobile_area tuscaloosa_area decateur_area talladega_area tuskegee_area
+	}
+}
+magnolia_region = { #7
+	color = rgb { 94 70 32 }
+	areas = {
+		biloxi_area natchez_area vicksburg_area jackson_ms_area tupelo_area livingston_area central_magnolia_area
+	}
+}
