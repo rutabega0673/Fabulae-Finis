@@ -756,7 +756,7 @@
 	terrain="farmland"
 	culture="gatewayan"
 	religion="catholic"
-	trade_goods=""
+	trade_goods="marble"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"

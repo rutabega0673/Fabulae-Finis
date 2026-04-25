@@ -1,8 +1,8 @@
-﻿801={ #
-	terrain="plains"
-	culture="heartlander"
-	religion="lutheran"
-	trade_goods=""
+﻿2547={ #
+	terrain="hills"
+	culture="butternutter"
+	religion="hearthtender"
+	trade_goods="limestone"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -11,11 +11,11 @@
 	}
 }
 
-866={ #
+2548={ #
 	terrain="plains"
-	culture="heartlander"
-	religion="lutheran"
-	trade_goods=""
+	culture="butternutter"
+	religion="hearthtender"
+	trade_goods="tobacco"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -24,179 +24,10 @@
 	}
 }
 
-867={ #
+2824={ #
 	terrain="plains"
-	culture="heartlander"
-	religion="lutheran"
-	trade_goods="grain"
-	civilization_value=10
-	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=1
-	}
-}
-
-868={ #
-	terrain="plains"
-	culture="heartlander"
-	religion="lutheran"
-	trade_goods=""
-	civilization_value=10
-	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=1
-	}
-}
-
-869={ #
-	terrain="plains"
-	culture="heartlander"
-	religion="lutheran"
-	trade_goods=""
-	civilization_value=10
-	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=1
-	}
-}
-
-1182={ #
-	terrain="plains"
-	culture="heartlander"
-	religion="lutheran"
-	trade_goods="grain"
-	civilization_value=10
-	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=1
-	}
-}
-
-1855={ #
-	terrain="plains"
-	culture="heartlander"
-	religion="lutheran"
-	trade_goods=""
-	civilization_value=10
-	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=1
-	}
-}
-
-1856={ #
-	terrain="plains"
-	culture="heartlander"
-	religion="lutheran"
-	trade_goods="grain"
-	civilization_value=10
-	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=1
-	}
-}
-
-1857={ #
-	terrain="farmland"
-	culture="heartlander"
-	religion="lutheran"
-	trade_goods=""
-	civilization_value=10
-	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=1
-	}
-}
-
-1945={ #
-	terrain="plains"
-	culture="heartlander"
-	religion="lutheran"
-	trade_goods=""
-	civilization_value=10
-	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=1
-	}
-}
-
-1946={ #
-	terrain="plains"
-	culture="heartlander"
-	religion="lutheran"
-	trade_goods="grain"
-	civilization_value=10
-	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=1
-	}
-}
-
-1947={ #
-	terrain="plains"
-	culture="heartlander"
-	religion="lutheran"
-	trade_goods=""
-	civilization_value=10
-	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=1
-	}
-}
-
-4519={ #
-	terrain="plains"
-	culture="heartlander"
-	religion="lutheran"
-	trade_goods=""
-	civilization_value=10
-	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=1
-	}
-}
-
-4520={ #
-	terrain="plains"
-	culture="heartlander"
-	religion="lutheran"
-	trade_goods="wood"
-	civilization_value=10
-	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=1
-	}
-}
-
-4521={ #
-	terrain="plains"
-	culture="heartlander"
-	religion="lutheran"
-	trade_goods="wood"
-	civilization_value=10
-	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=1
-	}
-}
-
-4591={ #
-	terrain="plains"
-	culture="heartlander"
-	religion="lutheran"
+	culture="butternutter"
+	religion="hearthtender"
 	trade_goods="cattle"
 	civilization_value=10
 	barbarian_power=0
@@ -206,10 +37,23 @@
 	}
 }
 
-4592={ #
+2825={ #
 	terrain="plains"
-	culture="heartlander"
-	religion="lutheran"
+	culture="butternutter"
+	religion="hearthtender"
+	trade_goods="horses"
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+3065={ #
+	terrain="plains"
+	culture="butternutter"
+	religion="hearthtender"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -219,89 +63,11 @@
 	}
 }
 
-4593={ #
-	terrain="plains"
-	culture="heartlander"
-	religion="lutheran"
-	trade_goods=""
-	civilization_value=10
-	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=1
-	}
-}
-
-5626={ #
-	terrain="plains"
-	culture="heartlander"
-	religion="lutheran"
-	trade_goods=""
-	civilization_value=10
-	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=1
-	}
-}
-
-5627={ #
-	terrain="plains"
-	culture="heartlander"
-	religion="lutheran"
-	trade_goods="grain"
-	civilization_value=10
-	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=1
-	}
-}
-
-5628={ #
-	terrain="plains"
-	culture="heartlander"
-	religion="lutheran"
-	trade_goods=""
-	civilization_value=10
-	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=1
-	}
-}
-
-6398={ #
-	terrain="plains"
-	culture="heartlander"
-	religion="lutheran"
-	trade_goods="grain"
-	civilization_value=10
-	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=1
-	}
-}
-
-6399={ #
-	terrain="plains"
-	culture="heartlander"
-	religion="lutheran"
-	trade_goods="grain"
-	civilization_value=10
-	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=1
-	}
-}
-
-6427={ #Hiromaha Nige
+3066={ #
 	terrain="hills"
-	culture="heartlander"
-	religion="lutheran"
-	trade_goods="stone"
+	culture="butternutter"
+	religion="hearthtender"
+	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -310,11 +76,11 @@
 	}
 }
 
-6428={ #
+3067={ #
 	terrain="hills"
-	culture="heartlander"
-	religion="lutheran"
-	trade_goods="wood"
+	culture="butternutter"
+	religion="hearthtender"
+	trade_goods="tobacco"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -323,10 +89,10 @@
 	}
 }
 
-7557={ #
-	terrain="plains"
-	culture="heartlander"
-	religion="lutheran"
+3068={ #
+	terrain="hills"
+	culture="butternutter"
+	religion="hearthtender"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -336,10 +102,10 @@
 	}
 }
 
-7558={ #
+4078={ #Albany
 	terrain="plains"
-	culture="heartlander"
-	religion="lutheran"
+	culture="riverlander"
+	religion="omenteller"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -349,49 +115,10 @@
 	}
 }
 
-7559={ #
-	terrain="plains"
-	culture="heartlander"
-	religion="lutheran"
-	trade_goods=""
-	civilization_value=10
-	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=1
-	}
-}
-
-8165={ #Wapsipinicon
-	terrain="plains"
-	culture="heartlander"
-	religion="lutheran"
-	trade_goods="wood"
-	civilization_value=10
-	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=1
-	}
-}
-
-8166={ #
-	terrain="farmland"
-	culture="heartlander"
-	religion="lutheran"
-	trade_goods=""
-	civilization_value=10
-	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=1
-	}
-}
-
-8167={ #Hižukmąk'e
-	terrain="plains"
-	culture="heartlander"
-	religion="lutheran"
+4079={ #Somerset
+	terrain="hills"
+	culture="riverlander"
+	religion="omenteller"
 	trade_goods="grain"
 	civilization_value=10
 	barbarian_power=0
@@ -401,10 +128,10 @@
 	}
 }
 
-8171={ #
-	terrain="plains"
-	culture="heartlander"
-	religion="lutheran"
+4080={ #Monticello
+	terrain="hills"
+	culture="riverlander"
+	religion="omenteller"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -414,10 +141,10 @@
 	}
 }
 
-8172={ #
-	terrain="plains"
-	culture="heartlander"
-	religion="lutheran"
+4404={ #
+	terrain="hills"
+	culture="riverlander"
+	religion="omenteller"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -427,10 +154,10 @@
 	}
 }
 
-8173={ #
-	terrain="plains"
-	culture="heartlander"
-	religion="lutheran"
+4405={ #
+	terrain="hills"
+	culture="riverlander"
+	religion="omenteller"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -440,10 +167,10 @@
 	}
 }
 
-8218={ #
-	terrain="plains"
-	culture="heartlander"
-	religion="lutheran"
+4406={ #
+	terrain="hills"
+	culture="riverlander"
+	religion="omenteller"
 	trade_goods="stone"
 	civilization_value=10
 	barbarian_power=0
@@ -453,11 +180,11 @@
 	}
 }
 
-8219={ #Moo'uic
-	terrain="farmland"
-	culture="heartlander"
-	religion="lutheran"
-	trade_goods="stone"
+4407={ #
+	terrain="hills"
+	culture="riverlander"
+	religion="omenteller"
+	trade_goods="limestone"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -466,11 +193,11 @@
 	}
 }
 
-8220={ #
+4617={ #
 	terrain="plains"
-	culture="heartlander"
-	religion="lutheran"
-	trade_goods="grain"
+	culture="riverlander"
+	religion="ophiolatry"
+	trade_goods="clay"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -479,75 +206,10 @@
 	}
 }
 
-8329={ #
+4618={ #
 	terrain="plains"
-	culture="heartlander"
-	religion="lutheran"
-	trade_goods="grain"
-	civilization_value=10
-	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=1
-	}
-}
-
-8330={ #
-	terrain="plains"
-	culture="heartlander"
-	religion="lutheran"
-	trade_goods=""
-	civilization_value=10
-	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=1
-	}
-}
-
-8331={ #
-	terrain="plains"
-	culture="heartlander"
-	religion="lutheran"
-	trade_goods=""
-	civilization_value=10
-	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=1
-	}
-}
-
-8332={ #
-	terrain="plains"
-	culture="heartlander"
-	religion="lutheran"
-	trade_goods=""
-	civilization_value=10
-	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=1
-	}
-}
-
-8567={ #
-	terrain="plains"
-	culture="heartlander"
-	religion="lutheran"
-	trade_goods="grain"
-	civilization_value=10
-	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=1
-	}
-}
-
-8568={ #
-	terrain="plains"
-	culture="heartlander"
-	religion="lutheran"
+	culture="riverlander"
+	religion="ophiolatry"
 	trade_goods="tubers"
 	civilization_value=10
 	barbarian_power=0
@@ -557,11 +219,11 @@
 	}
 }
 
-8569={ #
+4619={ #
 	terrain="plains"
-	culture="heartlander"
-	religion="lutheran"
-	trade_goods="grain"
+	culture="riverlander"
+	religion="ophiolatry"
+	trade_goods="tobacco"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -570,10 +232,10 @@
 	}
 }
 
-9367={ #
+4958={ #
 	terrain="plains"
-	culture="heartlander"
-	religion="lutheran"
+	culture="butternutter"
+	religion="hearthtender"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -583,10 +245,10 @@
 	}
 }
 
-9368={ #
+4959={ #
 	terrain="plains"
-	culture="heartlander"
-	religion="lutheran"
+	culture="butternutter"
+	religion="hearthtender"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -596,11 +258,401 @@
 	}
 }
 
-9369={ #
+4960={ #
+	terrain="hills"
+	culture="butternutter"
+	religion="hearthtender"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+4968={ #
 	terrain="plains"
-	culture="heartlander"
-	religion="lutheran"
+	culture=""
+	religion="mayan_pantheon"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+5385={ #
+	terrain="hills"
+	culture="riverlander"
+	religion="ophiolatry"
+	trade_goods="clay"
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+5386={ #
+	terrain="plains"
+	culture="riverlander"
+	religion="ophiolatry"
+	trade_goods="limestone"
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+5387={ #
+	terrain="hills"
+	culture="riverlander"
+	religion="ophiolatry"
+	trade_goods="wild_game"
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+5388={ #
+	terrain="hills"
+	culture="riverlander"
+	religion="ophiolatry"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+6210={ #
+	terrain="hills"
+	culture="riverlander"
+	religion="ophiolatry"
+	trade_goods="tubers"
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+6211={ #
+	terrain="plains"
+	culture="riverlander"
+	religion="ophiolatry"
+	trade_goods="cattle"
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+6212={ #
+	terrain="hills"
+	culture="riverlander"
+	religion="ophiolatry"
+	trade_goods="horses"
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+7174={ #
+	terrain="plains"
+	culture="riverlander"
+	religion="ophiolatry"
+	trade_goods="limestone"
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+7175={ #
+	terrain="plains"
+	culture="riverlander"
+	religion="ophiolatry"
+	trade_goods="tobacco"
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+7176={ #
+	terrain="plains"
+	culture="riverlander"
+	religion="ophiolatry"
+	trade_goods="tobacco"
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+7177={ #
+	terrain="plains"
+	culture="riverlander"
+	religion="ophiolatry"
 	trade_goods="grain"
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+7178={ #
+	terrain="plains"
+	culture="riverlander"
+	religion="ophiolatry"
+	trade_goods="honey"
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+7514={ #
+	terrain="plains"
+	culture="riverlander"
+	religion="ophiolatry"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+7515={ #
+	terrain="plains"
+	culture="riverlander"
+	religion="ophiolatry"
+	trade_goods="vegetables"
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+7516={ #
+	terrain="plains"
+	culture="riverlander"
+	religion="ophiolatry"
+	trade_goods="horses"
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+7686={ #
+	terrain="plains"
+	culture="riverlander"
+	religion="omenteller"
+	trade_goods="cloth"
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+7687={ #
+	terrain="plains"
+	culture="riverlander"
+	religion="ophiolatry"
+	trade_goods="tobacco"
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+7688={ #
+	terrain="plains"
+	culture="riverlander"
+	religion="ophiolatry"
+	trade_goods="honey"
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+7689={ #
+	terrain="hills"
+	culture="riverlander"
+	religion="omenteller"
+	trade_goods="tobacco"
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+7772={ #
+	terrain="hills"
+	culture="butternutter"
+	religion="hearthtender"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+7773={ #
+	terrain="hills"
+	culture="riverlander"
+	religion="omenteller"
+	trade_goods="base_metals"
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+7774={ #
+	terrain="hills"
+	culture="butternutter"
+	religion="hearthtender"
+	trade_goods="limestone"
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+7775={ #
+	terrain="hills"
+	culture="riverlander"
+	religion="omenteller"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+7811={ #
+	terrain="hills"
+	culture="butternutter"
+	religion="hearthtender"
+	trade_goods="tobacco"
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+7812={ #
+	terrain="hills"
+	culture="butternutter"
+	religion="hearthtender"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+7813={ #
+	terrain="hills"
+	culture="butternutter"
+	religion="hearthtender"
+	trade_goods="fish"
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+8631={ #
+	terrain="plains"
+	culture="riverlander"
+	religion="ophiolatry"
+	trade_goods="tobacco"
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+8632={ #
+	terrain="plains"
+	culture="riverlander"
+	religion="ophiolatry"
+	trade_goods="vegetables"
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+8633={ #
+	terrain="plains"
+	culture="riverlander"
+	religion="ophiolatry"
+	trade_goods="cattle"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"

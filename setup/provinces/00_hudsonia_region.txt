@@ -15,7 +15,7 @@
 	terrain="plains"
 	culture="hudsonian"
 	religion="catholic"
-	trade_goods=""
+	trade_goods="clay"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -54,7 +54,7 @@
 	terrain="forest"
 	culture="upstater"
 	religion="catholic"
-	trade_goods=""
+	trade_goods="wood"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -67,7 +67,7 @@
 	terrain="forest"
 	culture="upstater"
 	religion="catholic"
-	trade_goods=""
+	trade_goods="cattle"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -80,7 +80,7 @@
 	terrain="plains"
 	culture="hudsonian"
 	religion="gothic"
-	trade_goods=""
+	trade_goods="tubers"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -158,7 +158,7 @@
 	terrain="plains"
 	culture="pocono"
 	religion="americanist"
-	trade_goods=""
+	trade_goods="wood"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -171,7 +171,7 @@
 	terrain="plains"
 	culture="upstater"
 	religion="catholic"
-	trade_goods=""
+	trade_goods="vegetables"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -184,7 +184,7 @@
 	terrain="plains"
 	culture="upstater"
 	religion="catholic"
-	trade_goods=""
+	trade_goods="marble"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -197,7 +197,7 @@
 	terrain="plains"
 	culture="upstater"
 	religion="catholic"
-	trade_goods=""
+	trade_goods="vegetables"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -210,7 +210,7 @@
 	terrain="plains"
 	culture="upstater"
 	religion="catholic"
-	trade_goods=""
+	trade_goods="vegetables"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -249,7 +249,7 @@
 	terrain="hills"
 	culture="upstater"
 	religion="catholic"
-	trade_goods=""
+	trade_goods="wood"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -310,50 +310,11 @@
 	}
 }
 
-2477={ #Chili
-	terrain="plains"
-	culture="upstater"
-	religion="catholic"
-	trade_goods=""
-	civilization_value=10
-	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=1
-	}
-}
-
-2478={ #Greece
-	terrain="plains"
-	culture="upstater"
-	religion="promethean"
-	trade_goods=""
-	civilization_value=10
-	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=1
-	}
-}
-
-2479={ #Batavia
-	terrain="plains"
-	culture="upstater"
-	religion="promethean"
-	trade_goods=""
-	civilization_value=10
-	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=1
-	}
-}
-
 2480={ #
 	terrain="forest"
 	culture="upstater"
 	religion="catholic"
-	trade_goods=""
+	trade_goods="cattle"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -392,46 +353,7 @@
 	terrain="plains"
 	culture="hudsonian"
 	religion="americanist"
-	trade_goods=""
-	civilization_value=10
-	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=1
-	}
-}
-
-2789={ #
-	terrain="hills"
-	culture="buckeye"
-	religion="catholic"
-	trade_goods=""
-	civilization_value=10
-	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=1
-	}
-}
-
-2790={ #Attica
-	terrain="plains"
-	culture="buckeye"
-	religion="promethean"
-	trade_goods=""
-	civilization_value=10
-	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=1
-	}
-}
-
-2791={ #Wellsville
-	terrain="hills"
-	culture="buckeye"
-	religion="promethean"
-	trade_goods=""
+	trade_goods="wood"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -479,19 +401,6 @@
 	}
 }
 
-3371={ #
-	terrain="hills"
-	culture="pocono"
-	religion="catholic"
-	trade_goods=""
-	civilization_value=10
-	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=1
-	}
-}
-
 3372={ #
 	terrain="hills"
 	culture="pocono"
@@ -522,7 +431,7 @@
 	terrain="plains"
 	culture="hudsonian"
 	religion="catholic"
-	trade_goods=""
+	trade_goods="clay"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -548,7 +457,7 @@
 	terrain="plains"
 	culture="hudsonian"
 	religion="catholic"
-	trade_goods=""
+	trade_goods="fish"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -561,7 +470,7 @@
 	terrain="plains"
 	culture="hudsonian"
 	religion="americanist"
-	trade_goods=""
+	trade_goods="fish"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -574,7 +483,7 @@
 	terrain="plains"
 	culture="hudsonian"
 	religion="americanist"
-	trade_goods=""
+	trade_goods="tubers"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -587,7 +496,7 @@
 	terrain="hills"
 	culture="hudsonian"
 	religion="americanist"
-	trade_goods=""
+	trade_goods="wood"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -626,7 +535,7 @@
 	terrain="plains"
 	culture="upstater"
 	religion="catholic"
-	trade_goods=""
+	trade_goods="incense"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -691,7 +600,7 @@
 	terrain="plains"
 	culture="hudsonian"
 	religion="catholic"
-	trade_goods=""
+	trade_goods="clay"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -704,7 +613,7 @@
 	terrain="hills"
 	culture="upstater"
 	religion="catholic"
-	trade_goods=""
+	trade_goods="wood"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -717,7 +626,7 @@
 	terrain="hills"
 	culture="upstater"
 	religion="catholic"
-	trade_goods=""
+	trade_goods="wild_game"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -730,7 +639,7 @@
 	terrain="hills"
 	culture="upstater"
 	religion="catholic"
-	trade_goods=""
+	trade_goods="wood"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -817,45 +726,6 @@
 	}
 }
 
-6593={ #Pomfret
-	terrain="plains"
-	culture="buckeye"
-	religion="promethean"
-	trade_goods=""
-	civilization_value=10
-	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=1
-	}
-}
-
-6594={ #Gowanda
-	terrain="plains"
-	culture="buckeye"
-	religion="promethean"
-	trade_goods="maple"
-	civilization_value=10
-	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=1
-	}
-}
-
-6595={ #Hamburg
-	terrain="plains"
-	culture="buckeye"
-	religion="promethean"
-	trade_goods=""
-	civilization_value=10
-	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=1
-	}
-}
-
 6678={ #
 	terrain="farmland"
 	culture="hudsonian"
@@ -899,7 +769,7 @@
 	terrain="hills"
 	culture="hudsonian"
 	religion="americanist"
-	trade_goods=""
+	trade_goods="leather"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -925,7 +795,7 @@
 	terrain="plains"
 	culture="upstater"
 	religion="catholic"
-	trade_goods=""
+	trade_goods="clay"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -1003,7 +873,7 @@
 	terrain="hills"
 	culture="upstater"
 	religion="catholic"
-	trade_goods=""
+	trade_goods="wood"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -1016,7 +886,7 @@
 	terrain="hills"
 	culture="vermonter"
 	religion="catholic"
-	trade_goods=""
+	trade_goods="wood"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -1055,7 +925,7 @@
 	terrain="plains"
 	culture="gothamite"
 	religion="americanist"
-	trade_goods=""
+	trade_goods="fish"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -1094,7 +964,7 @@
 	terrain="plains"
 	culture="upstater"
 	religion="catholic"
-	trade_goods=""
+	trade_goods="leather"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -1107,58 +977,6 @@
 	terrain="plains"
 	culture="upstater"
 	religion="americanist"
-	trade_goods=""
-	civilization_value=10
-	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=1
-	}
-}
-
-8590={ #Clarence
-	terrain="plains"
-	culture="buckeye"
-	religion="promethean"
-	trade_goods=""
-	civilization_value=10
-	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=1
-	}
-}
-
-8591={ #Lockport
-	terrain="plains"
-	culture="buckeye"
-	religion="promethean"
-	trade_goods=""
-	civilization_value=10
-	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=1
-	}
-}
-
-8592={ #Buffalo
-	terrain="farmland"
-	culture="buckeye"
-	religion="promethean"
-	trade_goods=""
-	civilization_value=10
-	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=1
-	}
-}
-
-8593={ #
-	terrain="hills"
-	culture="buckeye"
-	religion="promethean"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -1211,7 +1029,7 @@
 	terrain="plains"
 	culture="hudsonian"
 	religion="americanist"
-	trade_goods=""
+	trade_goods="wood"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -1224,7 +1042,7 @@
 	terrain="hills"
 	culture="hudsonian"
 	religion="americanist"
-	trade_goods=""
+	trade_goods="base_metals"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -1237,7 +1055,7 @@
 	terrain="plains"
 	culture="upstater"
 	religion="catholic"
-	trade_goods=""
+	trade_goods="wood"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
