@@ -1,13 +1,13 @@
 ﻿atlantica_region = { #8 areas
 	color = { 0.064 0.75 0.8 }
 	areas = {
-		philadelphia_area lancaster_area south_jersey_area delaware_area north_jersey_area new_york_area baltimore_area connecticut_area washington_dc_area
+		philadelphia_area south_jersey_area delaware_area north_jersey_area new_york_area baltimore_area connecticut_area washington_dc_area
 	}
 }
-illinois_region = { #9 areas
-	color = rgb { 132 187 191 }
+illinois_region = { #6 areas
+	color = rgb { 15 106 171 }
 	areas = {
-		chicago_area rockford_area peoria_area quincy_area champaign_area centralia_area springfield_il_area limestone_area bloomington_area
+		peoria_area quincy_area champaign_area centralia_area springfield_il_area bloomington_area
 	}
 }
 missouri_region = { #7 areas
@@ -37,12 +37,78 @@ michigan_region = { #8
 hudsonia_region = { #10
 	color = rgb { 168 99 14 }
 	areas = {
-		albany_area upstate_area buffalo_area finger_lakes_area otsego_area ticonderoga_area central_ny_area syracuse_area catskills_area poughkeepsie_area
+		albany_area upstate_area finger_lakes_area otsego_area ticonderoga_area central_ny_area syracuse_area catskills_area poughkeepsie_area
 	}
 }
-dutchland_region = { #4
+dutchland_region = { #3
 	color = rgb { 103 77 43 }
 	areas = {
-		dutchland_area shiloh_area williamsport_area scranton_area
+		dutchland_area williamsport_area scranton_area lancaster_area harrisburg_area
+	}
+}
+florida_region = { #9
+	color = rgb { 166 161 39 }
+	areas = {
+		norflo_area tallahassee_area panhandle_area st_augustine_area soflo_area everglades_area disneyland_area tampa_bay_area fort_meyers_area
+	}
+}
+superior_region = { #7
+	color = rgb { 93 61 166 }
+	areas = {
+		duluth_area marquette_area marathon_area thunder_bay_area sault_ste_marie_area north_ontario_area ironwood_area
+	}
+}
+badgerland_region = { #9
+	color = rgb { 9 62 25}
+	areas = {
+		river_falls_area milauwkee_area madison_area green_bay_area menominee_area la_crosse_area oshkosh_area eau_claire_area
+	}
+}
+minnesota_region = { #8
+	color = rgb { 150 118 174 }
+	areas = {
+		mankato_area the_cities_area saint_cloud_area winona_area pine_city_area bemidji_area moorhead_area boundary_waters_area
+	}
+}
+chicagoland_region = { #6 areas
+	color = rgb { 132 187 191 }
+	areas = {
+		chicago_area limestone_area rockford_area gary_area huntington_area monticello_area
+	}
+}
+greater_reserve_region = { #6 areas
+	color = rgb { 110 26 75 }
+	areas = {
+		sylvania_area mansfield_area zanes_tracts_area the_reserve_area new_martinsville_area columbus_area
+	}
+}
+ohio_valley_region = { #6 areas
+	color = rgb { 223 204 215 }
+	areas = {
+		vincennes_area muncie_area indianapolis_area evansville_area seymour_area cincinatti_area wheelersburg_area
+	}
+}
+alleghenia_region = { #5
+	color = rgb { 207 205 30 }
+	areas = {
+		beaverland_area pittsburgh_area buffalo_area erie_area shiloh_area
+	}
+}
+kentucky_region = { #6
+	color = rgb { 57 145 95 }
+	areas = {
+		bowling_green_area henderson_area louisville_area somerset_area lexington_area pikeville_area
+	}
+}
+tenessee_region = { #6
+	color = rgb { 146 27 47 }
+	areas = {
+		paducah_area memphis_area huntsville_area nashville_area chattanooga_area kingsport_area
+	}
+}
+kanawha_region = { #6
+	color = rgb { 122 76 66 }
+	areas = {
+		charleston_area bristol_area lewisburg_area wheeling_area martinsburg_area frostburg_area galax_area
 	}
 }

@@ -11,19 +11,6 @@
 	}
 }
 
-111={ #
-	terrain="plains"
-	culture="chicagoan"
-	religion="promethean"
-	trade_goods=""
-	civilization_value=10
-	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=1
-	}
-}
-
 112={ #
 	terrain="plains"
 	culture="chicagoan"
@@ -39,7 +26,7 @@
 
 560={ #
 	terrain="plains"
-	culture="menominee"
+	culture="potowatomi"
 	religion="promethean"
 	trade_goods=""
 	civilization_value=10
@@ -52,7 +39,7 @@
 
 561={ #
 	terrain="plains"
-	culture="menominee"
+	culture="potowatomi"
 	religion="promethean"
 	trade_goods=""
 	civilization_value=10
@@ -65,7 +52,7 @@
 
 562={ #
 	terrain="plains"
-	culture="menominee"
+	culture="potowatomi"
 	religion="promethean"
 	trade_goods=""
 	civilization_value=10
@@ -78,7 +65,7 @@
 
 563={ #
 	terrain="plains"
-	culture="menominee"
+	culture="potowatomi"
 	religion="promethean"
 	trade_goods=""
 	civilization_value=10

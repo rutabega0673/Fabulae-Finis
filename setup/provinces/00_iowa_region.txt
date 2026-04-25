@@ -1,7 +1,7 @@
 ﻿801={ #
 	terrain="plains"
 	culture="heartlander"
-	religion="catholic"
+	religion="lutheran"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -118,7 +118,7 @@
 1945={ #
 	terrain="plains"
 	culture="heartlander"
-	religion="catholic"
+	religion="lutheran"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
