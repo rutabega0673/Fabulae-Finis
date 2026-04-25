@@ -765,6 +765,89 @@
 			}
 		}
 
+		Sample={
+			Name="Sample from 919, 828"
+			Materials={
+				Material={
+					MaterialId="plains_01"
+					Value=49
+				}
+
+				Material={
+					MaterialId="steppe_grass"
+					Value=75
+				}
+
+				Material={
+					MaterialId="medi_noisy_grass"
+					Value=74
+				}
+
+				Material={
+					MaterialId="forestfloor"
+					Value=28
+				}
+
+				Material={
+					MaterialId="northern_plains_01"
+					Value=29
+				}
+
+			}
+		}
+
+		Sample={
+			Name="Sample from 967, 842"
+			Materials={
+				Material={
+					MaterialId="forest_leaf_01"
+					Value=228
+				}
+
+				Material={
+					MaterialId="medi_noisy_grass"
+					Value=14
+				}
+
+				Material={
+					MaterialId="steppe_grass"
+					Value=7
+				}
+
+				Material={
+					MaterialId="plains_01"
+					Value=4
+				}
+
+				Material={
+					MaterialId="northern_plains_01"
+					Value=2
+				}
+
+			}
+		}
+
+		Sample={
+			Name="Sample from 966, 843"
+			Materials={
+				Material={
+					MaterialId="forest_leaf_01"
+					Value=74
+				}
+
+				Material={
+					MaterialId="medi_grass_01"
+					Value=111
+				}
+
+				Material={
+					MaterialId="northern_plains_01"
+					Value=70
+				}
+
+			}
+		}
+
 	}
 }
 

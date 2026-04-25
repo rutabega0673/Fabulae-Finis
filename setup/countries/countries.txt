@@ -7,5 +7,6 @@ MER = "setup/countries/mercenaries.txt"
 PRI = "setup/countries/east_coast/presidency.txt"
 NYC = "setup/countries/east_coast/new_york.txt"
 
-
+#Midwest
+IWA = "setup/countries/midwest/iowa.txt"
 

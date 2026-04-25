@@ -97,3 +97,30 @@ NYC = { #New York
 		instance = { position = { 0.5 0.5 } scale = { 0.6 0.6 } }
 	}
 }
+
+IWA = {
+	pattern = "pattern_vertical_split_01.tga"
+	color1 = hsv { 0.58 0.8 0.4 }
+	color2 = hsv { 0.02 0.8 0.45 }
+	colored_emblem = {
+		texture = "ce_shield_01.dds"
+		color1 = "offwhite"
+		color2 = "offwhite"
+		instance = { position = { 0.5 0.5 } scale = { 0.8 0.9 }  }
+	}
+	colored_emblem = {
+		texture = "ce_motto_banner.dds"
+		color1 = hsv { 0.58 0.8 0.4 }
+		color2 = hsv { 0.58 0.8 0.4 }
+		instance = { position = { 0.5 0.5 } scale = { 0.5 0.5 }  }
+		instance = { position = { 0.5 0.55 } scale = { 0.4 0.4 }  }
+		instance = { position = { 0.5 0.6 } scale = { 0.35 0.35 }  }
+	}
+	colored_emblem = {
+		texture = "ce_eagle_american_bald_flying.dds"
+		color1 = "dark_rust"
+		color2 = "light_gold"
+		color3 = "offwhite"
+		instance = { position = { 0.5 0.37 } scale = { 0.75 0.75 }  }
+	}
+}
