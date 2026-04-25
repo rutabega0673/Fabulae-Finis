@@ -404,14 +404,47 @@ richmond_area = {
 	provinces = { 5068 6955 5066 5063 5064 5067 1608 1605 1607 1763 1606 5065 1765 1764 }
 }
 keysville_area = { 
-	provinces = { 9584 1766 1767 8684 8685 2043 3683 9583  8683 8682  }
+	provinces = { 9584 1766 1767 8684 8685 9583 8683 8682 9581 9582 }
 }
 smithfield_area = { 
 	provinces = { 5800 6140 5803 6138 6139 2002 2003 2004 2001 }
 }
 ahoskie_area = { 
-	provinces = { 8019 8602 8601 3365 2063 2064 3367 }
+	provinces = { 8019 8602 8601 3365 2063 8021 8020 }
 }
-murfreesboro_area = { 
-	provinces = { 3685 9581 9582 8021 8020 3684 3366  }
+raleigh_area = { 
+	provinces = { 7932 2044 3683 3684 7389 7391 2042 2043 7392 8890 7390 3585 3685 }
+}
+new_bern_area = { 
+	provinces = { 3366 5172 5171 3877 4522 5170 3367 2064 }
+}
+fayettville_area = { 
+	provinces = { 7988 2729 2726 2728 2727 7991 4356 4357 4358 3876  }
+}
+fort_bragg_area = { 
+	provinces = { 7989 7992 7993 6979 6981 8888 8889 8891 7990 }
+}
+charlotte_area = { 
+	provinces = { 2504 2502 6978 6980 2505 2503 4610 4609 3861 4611 }
+}
+salisbury_area = { 
+	provinces = { 1897 1893 1895 1894 1896 3862 6687 3863 6688 6686 }
+}
+smokey_mountains_area = { 
+	provinces = { 6120 6119 6118 5695 2168 2167 5692 5694 5693 }
+}
+myrtle_beach_area = { 
+	provinces = { 6672 6674 6673 8318 2853 2854 2855 8316 8317 }
+}
+charleston_sc_area = { 
+	provinces = { 6547 6546 7796 6544 7795 7793 3542 6545 1780 1781 3541 3540 }
+}
+columbia_sc_area = { 
+	provinces = { 5456 1365 1364 2856 1363 1092 1094 5454 }
+}
+lexington_sc_area = { 
+	provinces = { 7794 1724 8117 8118 1723 1878 5455 5453 1878 }
+}
+clemson_area = { 
+	provinces = { 5047 8988 8989 8986 8987 1879 1877 1091 1093 }
 }

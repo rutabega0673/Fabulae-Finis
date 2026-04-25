@@ -1,72 +1,81 @@
-﻿game_object_locator={
+game_object_locator={
 	name="volcano_eruption"
 	clamp_to_water_level=no
 	render_under_water=no
 	generated_content=no
 	layer="vfx_layer"
 	instances={
-	}
-}
-game_object_locator={
-	name="wonder_colossus"
-	clamp_to_water_level=yes
-	render_under_water=no
-	generated_content=no
-	layer="monument_layer"
-	instances={
-	}
-}
-game_object_locator={
-	name="wonder_dodona_oracle"
-	clamp_to_water_level=yes
-	render_under_water=yes
-	generated_content=no
-	layer="monument_layer"
-	instances={
-	}
-}
-game_object_locator={
-	name="wonder_giza"
-	clamp_to_water_level=no
-	render_under_water=no
-	generated_content=no
-	layer="monument_layer"
-	instances={
-	}
-}
-game_object_locator={
-	name="wonder_halicarnassus"
-	clamp_to_water_level=no
-	render_under_water=no
-	generated_content=no
-	layer="monument_layer"
-	instances={
-	}
-}
-game_object_locator={
-	name="wonder_library_of_alexandria"
-	clamp_to_water_level=yes
-	render_under_water=no
-	generated_content=no
-	layer="monument_layer"
-	instances={
-	}
-}
-game_object_locator={
-	name="wonder_lighthouse_of_pharos"
-	clamp_to_water_level=no
-	render_under_water=no
-	generated_content=no
-	layer="monument_layer"
-	instances={
-	}
-}
-game_object_locator={
-	name="wonder_tomb_of_alexander"
-	clamp_to_water_level=yes
-	render_under_water=no
-	generated_content=no
-	layer="monument_layer"
-	instances={
+		{
+			id=5000
+			position={ 0.000000 0.000000 0.000000 }
+			rotation={ -0.000000 -0.000000 -0.000000 1.000000 }
+			scale={ 1.000000 1.000000 1.000000 }
+		}
+		{
+			id=5170
+			position={ 2717.000000 0.000000 2346.000000 }
+			rotation={ -0.000000 -0.000000 -0.000000 1.000000 }
+			scale={ 1.000000 1.000000 1.000000 }
+		}
+		{
+			id=5208
+			position={ 2797.000000 0.000000 1875.000000 }
+			rotation={ -0.000000 -0.000000 -0.000000 1.000000 }
+			scale={ 1.000000 1.000000 1.000000 }
+		}
+		{
+			id=5210
+			position={ 2655.000000 0.000000 1429.000000 }
+			rotation={ -0.000000 -0.000000 -0.000000 1.000000 }
+			scale={ 1.000000 1.000000 1.000000 }
+		}
+		{
+			id=5212
+			position={ 2639.000000 0.000000 1459.000000 }
+			rotation={ -0.000000 -0.000000 -0.000000 1.000000 }
+			scale={ 1.000000 1.000000 1.000000 }
+		}
+		{
+			id=5323
+			position={ 5418.000000 0.000000 1222.000000 }
+			rotation={ -0.000000 -0.000000 -0.000000 1.000000 }
+			scale={ 1.000000 1.000000 1.000000 }
+		}
+		{
+			id=5324
+			position={ 5455.000000 0.000000 1170.000000 }
+			rotation={ -0.000000 -0.000000 -0.000000 1.000000 }
+			scale={ 1.000000 1.000000 1.000000 }
+		}
+		{
+			id=7733
+			position={ 644.000000 0.000000 811.000000 }
+			rotation={ -0.000000 -0.000000 -0.000000 1.000000 }
+			scale={ 1.000000 1.000000 1.000000 }
+		}
+		{
+			id=7734
+			position={ 624.000000 0.000000 798.000000 }
+			rotation={ -0.000000 -0.000000 -0.000000 1.000000 }
+			scale={ 1.000000 1.000000 1.000000 }
+		}
+		{
+			id=7735
+			position={ 7061.000000 0.000000 3522.000000 }
+			rotation={ -0.000000 -0.000000 -0.000000 1.000000 }
+			scale={ 1.000000 1.000000 1.000000 }
+		}
+		{
+			id=7736
+			position={ 7064.000000 0.000000 3460.000000 }
+			rotation={ -0.000000 -0.000000 -0.000000 1.000000 }
+			scale={ 1.000000 1.000000 1.000000 }
+		}
+		{
+			id=7737
+			position={ 7097.000000 0.000000 3482.000000 }
+			rotation={ -0.000000 -0.000000 -0.000000 1.000000 }
+			scale={ 1.000000 1.000000 1.000000 }
+		}
 	}
 }

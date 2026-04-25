@@ -1,4 +1,4 @@
-﻿111={ #
+﻿111={ #Benton Harbor
 	terrain="plains"
 	culture="chicagoan"
 	religion="promethean"
@@ -63,7 +63,7 @@
 	}
 }
 
-267={ #
+267={ #Monticello
 	terrain="plains"
 	culture="hoosier"
 	religion="promethean"
@@ -76,7 +76,7 @@
 	}
 }
 
-268={ #
+268={ #Rensselaer
 	terrain="plains"
 	culture="chicagoan"
 	religion="promethean"
@@ -89,7 +89,7 @@
 	}
 }
 
-269={ #
+269={ #Fowler
 	terrain="plains"
 	culture="hoosier"
 	religion="promethean"
@@ -102,7 +102,7 @@
 	}
 }
 
-2223={ #
+2223={ #Knox
 	terrain="plains"
 	culture="hoosier"
 	religion="promethean"
@@ -115,7 +115,7 @@
 	}
 }
 
-2224={ #
+2224={ #Logansport
 	terrain="plains"
 	culture="hoosier"
 	religion="promethean"
@@ -128,7 +128,7 @@
 	}
 }
 
-2225={ #
+2225={ #Warsaw
 	terrain="plains"
 	culture="hoosier"
 	religion="promethean"
@@ -219,7 +219,7 @@
 	}
 }
 
-2303={ #
+2303={ #South Bend
 	terrain="plains"
 	culture="chicagoan"
 	religion="promethean"
@@ -232,7 +232,7 @@
 	}
 }
 
-2304={ #
+2304={ #Sturgis
 	terrain="plains"
 	culture="hoosier"
 	religion="promethean"
@@ -245,7 +245,7 @@
 	}
 }
 
-2305={ #
+2305={ #Elkhart
 	terrain="plains"
 	culture="hoosier"
 	religion="promethean"
@@ -297,7 +297,7 @@
 	}
 }
 
-5310={ #
+5310={ #Fort Wayne
 	terrain="plains"
 	culture="buckeye"
 	religion="promethean"
@@ -310,7 +310,7 @@
 	}
 }
 
-5311={ #
+5311={ #Bryan
 	terrain="farmland"
 	culture="buckeye"
 	religion="promethean"
@@ -323,7 +323,7 @@
 	}
 }
 
-5312={ #
+5312={ #Kendallville
 	terrain="plains"
 	culture="hoosier"
 	religion="promethean"
@@ -336,7 +336,7 @@
 	}
 }
 
-5313={ #
+5313={ #Auburn
 	terrain="plains"
 	culture="hoosier"
 	religion="promethean"
@@ -362,7 +362,7 @@
 	}
 }
 
-8755={ #Keecąk
+8755={ #Rockford
 	terrain="plains"
 	culture="heartlander"
 	religion="catholic"
@@ -375,7 +375,7 @@
 	}
 }
 
-8756={ #
+8756={ #Dekalb
 	terrain="plains"
 	culture="chicagoan"
 	religion="catholic"
@@ -388,7 +388,7 @@
 	}
 }
 
-8757={ #
+8757={ #Ottawa
 	terrain="plains"
 	culture="chicagoan"
 	religion="catholic"
@@ -401,7 +401,7 @@
 	}
 }
 
-8758={ #
+8758={ #Belvidere
 	terrain="plains"
 	culture="chicagoan"
 	religion="catholic"
@@ -440,7 +440,7 @@
 	}
 }
 
-8808={ #
+8808={ #Michigan City
 	terrain="plains"
 	culture="chicagoan"
 	religion="promethean"
@@ -453,7 +453,7 @@
 	}
 }
 
-9481={ #
+9481={ #Watseka
 	terrain="plains"
 	culture="chicagoan"
 	religion="catholic"
@@ -466,7 +466,7 @@
 	}
 }
 
-9484={ #
+9484={ #Hoopeston
 	terrain="plains"
 	culture="hoosier"
 	religion="catholic"
@@ -479,7 +479,7 @@
 	}
 }
 
-9511={ #
+9511={ #Galena
 	terrain="plains"
 	culture="heartlander"
 	religion="catholic"
@@ -492,7 +492,7 @@
 	}
 }
 
-9512={ #
+9512={ #Freeport
 	terrain="plains"
 	culture="heartlander"
 	religion="catholic"
@@ -505,7 +505,7 @@
 	}
 }
 
-9513={ #
+9513={ #Sterling
 	terrain="plains"
 	culture="heartlander"
 	religion="catholic"
@@ -518,7 +518,7 @@
 	}
 }
 
-9514={ #
+9514={ #Dixon
 	terrain="plains"
 	culture="heartlander"
 	religion="catholic"
@@ -531,7 +531,7 @@
 	}
 }
 
-11635={ #
+11635={ #La Porte
 	terrain="plains"
 	culture="chicagoan"
 	religion="promethean"
@@ -544,7 +544,7 @@
 	}
 }
 
-11653={ #
+11653={ #Huntington
 	terrain="plains"
 	culture="hoosier"
 	religion="promethean"
@@ -557,7 +557,7 @@
 	}
 }
 
-11654={ #
+11654={ #Columbia City
 	terrain="plains"
 	culture="hoosier"
 	religion="promethean"

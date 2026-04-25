@@ -112,9 +112,21 @@ kanawha_region = { #6
 		charleston_area bristol_area lewisburg_area wheeling_area martinsburg_area frostburg_area galax_area
 	}
 }
-virginia_region = { #6
+virginia_region = { #4
 	color = rgb { 186 165 134 }
 	areas = {
-		fredericksburg_area richmond_area keysville_area smithfield_area murfreesboro_area ahoskie_area
+		fredericksburg_area richmond_area keysville_area smithfield_area
+	}
+}
+tarheel_region = { #8
+	color = rgb { 28 42 94}
+	areas = {
+		raleigh_area new_bern_area fayettville_area fort_bragg_area charlotte_area salisbury_area smokey_mountains_area ahoskie_area
+	}
+}
+palmetto_region = { #5
+	color = rgb { 104 129 161 }
+	areas = {
+		myrtle_beach_area charleston_sc_area columbia_sc_area lexington_sc_area clemson_area
 	}
 }

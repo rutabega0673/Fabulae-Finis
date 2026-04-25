@@ -11,7 +11,7 @@
 	}
 }
 
-795={ #
+795={ #Steubenville
 	terrain="plains"
 	culture="buckeye"
 	religion="promethean"
@@ -193,7 +193,7 @@
 	}
 }
 
-4011={ #
+4011={ #Beaver Falls
 	terrain="plains"
 	culture="buckeye"
 	religion="promethean"
@@ -427,7 +427,7 @@
 	}
 }
 
-8769={ #
+8769={ #Indiana
 	terrain="hills"
 	culture="yinzic"
 	religion="promethean"
@@ -492,7 +492,7 @@
 	}
 }
 
-9035={ #
+9035={ #Penn Hills
 	terrain="plains"
 	culture="yinzic"
 	religion="promethean"
@@ -505,7 +505,7 @@
 	}
 }
 
-9036={ #
+9036={ #Washington
 	terrain="hills"
 	culture="yinzic"
 	religion="promethean"
@@ -518,7 +518,7 @@
 	}
 }
 
-9037={ #
+9037={ #Cranberry
 	terrain="plains"
 	culture="yinzic"
 	religion="promethean"
@@ -531,7 +531,7 @@
 	}
 }
 
-9038={ #
+9038={ #Pittsburgh
 	terrain="plains"
 	culture="yinzic"
 	religion="promethean"
@@ -570,7 +570,7 @@
 	}
 }
 
-11648={ #
+11648={ #Butler
 	terrain="plains"
 	culture="yinzic"
 	religion="promethean"
@@ -609,7 +609,7 @@
 	}
 }
 
-11664={ #
+11664={ #Aliquippa
 	terrain="plains"
 	culture="yinzic"
 	religion="promethean"

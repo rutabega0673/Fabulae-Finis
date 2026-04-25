@@ -63,7 +63,7 @@
 	}
 }
 
-270={ #
+270={ #Lafayette
 	terrain="plains"
 	culture="hoosier"
 	religion="promethean"

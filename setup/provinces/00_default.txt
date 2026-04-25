@@ -1185,7 +1185,7 @@
 	terrain="plains"
 	culture="grangelander"
 	religion="real_roader"
-	trade_goods=""
+	trade_goods="buffalo"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -5995,7 +5995,7 @@
 	terrain="plains"
 	culture=""
 	religion="mayan_pantheon"
-	trade_goods=""
+	trade_goods="buffalo"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -10415,7 +10415,7 @@
 	terrain="plains"
 	culture=""
 	religion="mayan_pantheon"
-	trade_goods=""
+	trade_goods="buffalo"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -11000,7 +11000,7 @@
 	terrain="steppes"
 	culture=""
 	religion="peyotist"
-	trade_goods=""
+	trade_goods="buffalo"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -16577,7 +16577,7 @@
 	terrain="plains"
 	culture="grangelander"
 	religion="real_roader"
-	trade_goods=""
+	trade_goods="buffalo"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -17188,7 +17188,7 @@
 	terrain="plains"
 	culture="grangelander"
 	religion="loneranger"
-	trade_goods=""
+	trade_goods="buffalo"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -18706,7 +18706,7 @@
 }
 
 1646={ #
-	terrain="plains"
+	terrain="farmland"
 	culture="northlander"
 	religion="viking"
 	trade_goods=""
@@ -21010,7 +21010,7 @@
 	terrain="marsh"
 	culture=""
 	religion="evangelical"
-	trade_goods=""
+	trade_goods="spices"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -23740,7 +23740,7 @@
 	terrain="plains"
 	culture="grangelander"
 	religion="real_roader"
-	trade_goods=""
+	trade_goods="buffalo"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -24156,7 +24156,7 @@
 	terrain="steppes"
 	culture=""
 	religion="mayan_pantheon"
-	trade_goods=""
+	trade_goods="buffalo"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -26704,7 +26704,7 @@
 	terrain="steppes"
 	culture="dakota"
 	religion="peyotist"
-	trade_goods=""
+	trade_goods="buffalo"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -29928,7 +29928,7 @@
 	terrain="plains"
 	culture=""
 	religion="mayan_pantheon"
-	trade_goods=""
+	trade_goods="buffalo"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -29941,7 +29941,7 @@
 	terrain="plains"
 	culture=""
 	religion="mayan_pantheon"
-	trade_goods=""
+	trade_goods="buffalo"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -33188,7 +33188,7 @@
 }
 
 2939={ #
-	terrain="plains"
+	terrain="farmland"
 	culture="dakota"
 	religion="lutheran"
 	trade_goods=""
@@ -33217,7 +33217,7 @@
 	terrain="plains"
 	culture="dakota"
 	religion="lutheran"
-	trade_goods=""
+	trade_goods="buffalo"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -34179,7 +34179,7 @@
 	terrain="plains"
 	culture="dakota"
 	religion="lutheran"
-	trade_goods=""
+	trade_goods="buffalo"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -39704,7 +39704,7 @@
 	terrain="steppes"
 	culture="dakota"
 	religion="peyotist"
-	trade_goods=""
+	trade_goods="buffalo"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -40328,7 +40328,7 @@
 	terrain="plains"
 	culture=""
 	religion="mayan_pantheon"
-	trade_goods=""
+	trade_goods="buffalo"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -48908,7 +48908,7 @@
 	terrain="plains"
 	culture=""
 	religion="mayan_pantheon"
-	trade_goods=""
+	trade_goods="buffalo"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -58879,7 +58879,7 @@
 	terrain="hills"
 	culture="grangelander"
 	religion="real_roader"
-	trade_goods=""
+	trade_goods="buffalo"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -60504,7 +60504,7 @@
 	terrain="steppes"
 	culture="lakota"
 	religion="peyotist"
-	trade_goods=""
+	trade_goods="buffalo"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -63572,7 +63572,7 @@
 	terrain="steppes"
 	culture="lakota"
 	religion="peyotist"
-	trade_goods=""
+	trade_goods="buffalo"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -64365,7 +64365,7 @@
 	terrain="plains"
 	culture=""
 	religion="mayan_pantheon"
-	trade_goods=""
+	trade_goods="buffalo"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -65938,7 +65938,7 @@
 	terrain="steppes"
 	culture="dakota"
 	religion="peyotist"
-	trade_goods=""
+	trade_goods="buffalo"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -67118,7 +67118,7 @@
 }
 
 5880={ #
-	terrain="plains"
+	terrain="farmland"
 	culture="dhegihan"
 	religion="ozymandism"
 	trade_goods=""
@@ -67134,7 +67134,7 @@
 	terrain="plains"
 	culture="dhegihan"
 	religion="ozymandism"
-	trade_goods=""
+	trade_goods="buffalo"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -68252,7 +68252,7 @@
 	terrain="steppes"
 	culture=""
 	religion="mayan_pantheon"
-	trade_goods=""
+	trade_goods="buffalo"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -71541,7 +71541,7 @@
 	terrain="plains"
 	culture=""
 	religion="mayan_pantheon"
-	trade_goods=""
+	trade_goods="buffalo"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -78363,10 +78363,10 @@
 }
 
 6896={ #
-	terrain="plains"
+	terrain="farmland"
 	culture="grangelander"
 	religion="catholic"
-	trade_goods=""
+	trade_goods="buffalo"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -79029,7 +79029,7 @@
 	terrain="plains"
 	culture="northlander"
 	religion="viking"
-	trade_goods=""
+	trade_goods="buffalo"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -80134,7 +80134,7 @@
 	terrain="plains"
 	culture="grangelander"
 	religion="catholic"
-	trade_goods=""
+	trade_goods="buffalo"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -81421,7 +81421,7 @@
 	terrain="steppes"
 	culture="grangelander"
 	religion="real_roader"
-	trade_goods=""
+	trade_goods="buffalo"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -83875,7 +83875,7 @@
 }
 
 7370={ #Lawrence
-	terrain="plains"
+	terrain="farmland"
 	culture="heartlander"
 	religion="catholic"
 	trade_goods=""
@@ -84385,7 +84385,7 @@
 	terrain="plains"
 	culture="grangelander"
 	religion="catholic"
-	trade_goods=""
+	trade_goods="buffalo"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -87050,7 +87050,7 @@
 	terrain="plains"
 	culture="grangelander"
 	religion="real_roader"
-	trade_goods=""
+	trade_goods="buffalo"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -93888,7 +93888,7 @@
 	terrain="steppes"
 	culture="lakota"
 	religion="peyotist"
-	trade_goods=""
+	trade_goods="buffalo"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -100982,7 +100982,7 @@
 	}
 }
 
-8870={ #
+8870={ #Greensburg
 	terrain="plains"
 	culture=""
 	religion="mayan_pantheon"
@@ -100995,7 +100995,7 @@
 	}
 }
 
-8871={ #
+8871={ #Vandergrift
 	terrain="plains"
 	culture=""
 	religion="mayan_pantheon"
@@ -102156,7 +102156,7 @@
 	terrain="plains"
 	culture=""
 	religion="mayan_pantheon"
-	trade_goods=""
+	trade_goods="buffalo"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -103924,7 +103924,7 @@
 	terrain="plains"
 	culture="heartlander"
 	religion="peyotist"
-	trade_goods=""
+	trade_goods="buffalo"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -104210,7 +104210,7 @@
 	terrain="steppes"
 	culture="grangelander"
 	religion="real_roader"
-	trade_goods=""
+	trade_goods="buffalo"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -106355,7 +106355,7 @@
 	terrain="steppes"
 	culture="heartlander"
 	religion="peyotist"
-	trade_goods=""
+	trade_goods="buffalo"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -107252,7 +107252,7 @@
 	terrain="steppes"
 	culture=""
 	religion="mayan_pantheon"
-	trade_goods=""
+	trade_goods="buffalo"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -109124,7 +109124,7 @@
 	terrain="steppes"
 	culture="lakota"
 	religion="peyotist"
-	trade_goods=""
+	trade_goods="buffalo"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"

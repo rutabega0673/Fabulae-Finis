@@ -2,7 +2,7 @@
 	terrain="plains"
 	culture="minnesotan"
 	religion="viking"
-	trade_goods="grain"
+	trade_goods="tubers"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -80,7 +80,7 @@
 	terrain="forest"
 	culture="northlander"
 	religion="viking"
-	trade_goods=""
+	trade_goods="wood"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -314,7 +314,7 @@
 	terrain="forest"
 	culture="minnesotan"
 	religion="viking"
-	trade_goods=""
+	trade_goods="wood"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -340,7 +340,7 @@
 	terrain="forest"
 	culture="northlander"
 	religion="viking"
-	trade_goods=""
+	trade_goods="leather"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -392,7 +392,7 @@
 	terrain="forest"
 	culture="ojibwe"
 	religion="viking"
-	trade_goods=""
+	trade_goods="wood"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -600,7 +600,7 @@
 	terrain="plains"
 	culture="minnesotan"
 	religion="viking"
-	trade_goods="grain"
+	trade_goods="tubers"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -665,7 +665,7 @@
 	terrain="forest"
 	culture="ojibwe"
 	religion="midewiwin"
-	trade_goods=""
+	trade_goods="wood"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -701,7 +701,7 @@
 }
 
 8374={ #
-	terrain="plains"
+	terrain="farmland"
 	culture="minnesotan"
 	religion="viking"
 	trade_goods="buffalo"
