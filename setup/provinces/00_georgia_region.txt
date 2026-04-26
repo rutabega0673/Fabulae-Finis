@@ -15,7 +15,7 @@
 	terrain="hills"
 	culture="appalachian"
 	religion="omenteller"
-	trade_goods=""
+	trade_goods="grain" #Placeholder
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -28,7 +28,7 @@
 	terrain="mountain"
 	culture="appalachian"
 	religion="omenteller"
-	trade_goods=""
+	trade_goods="grain" #Placeholder
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -41,7 +41,7 @@
 	terrain="forest"
 	culture="appalachian"
 	religion="evangelical"
-	trade_goods=""
+	trade_goods="grain" #Placeholder
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -54,7 +54,7 @@
 	terrain="plains"
 	culture="atlantean"
 	religion="evangelical"
-	trade_goods=""
+	trade_goods="grain" #Placeholder
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -80,7 +80,7 @@
 	terrain="farmland"
 	culture="sunshiner"
 	religion="springsearcher"
-	trade_goods=""
+	trade_goods="grain" #Placeholder
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -93,7 +93,7 @@
 	terrain="plains"
 	culture="dixie"
 	religion="evangelical"
-	trade_goods=""
+	trade_goods="grain" #Placeholder
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -145,7 +145,7 @@
 	terrain="plains"
 	culture="dixie"
 	religion="evangelical"
-	trade_goods=""
+	trade_goods="grain" #Placeholder
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -156,7 +156,7 @@
 
 1868={ #
 	terrain="marsh"
-	culture=""
+	culture="quebecois" #Placeholder
 	religion="evangelical"
 	trade_goods="spices"
 	civilization_value=10
@@ -171,7 +171,7 @@
 	terrain="forest"
 	culture="dixie"
 	religion="evangelical"
-	trade_goods=""
+	trade_goods="grain" #Placeholder
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -197,7 +197,7 @@
 	terrain="plains"
 	culture="dixie"
 	religion="evangelical"
-	trade_goods=""
+	trade_goods="grain" #Placeholder
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -210,7 +210,7 @@
 	terrain="forest"
 	culture="atlantean"
 	religion="evangelical"
-	trade_goods=""
+	trade_goods="grain" #Placeholder
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -236,7 +236,7 @@
 	terrain="forest"
 	culture="atlantean"
 	religion="evangelical"
-	trade_goods=""
+	trade_goods="grain" #Placeholder
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -249,7 +249,7 @@
 	terrain="plains"
 	culture="atlantean"
 	religion="evangelical"
-	trade_goods=""
+	trade_goods="grain" #Placeholder
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -262,7 +262,7 @@
 	terrain="plains"
 	culture="atlantean"
 	religion="evangelical"
-	trade_goods=""
+	trade_goods="grain" #Placeholder
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -275,7 +275,7 @@
 	terrain="plains"
 	culture="atlantean"
 	religion="evangelical"
-	trade_goods=""
+	trade_goods="grain" #Placeholder
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -288,7 +288,7 @@
 	terrain="plains"
 	culture="atlantean"
 	religion="evangelical"
-	trade_goods=""
+	trade_goods="grain" #Placeholder
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -301,7 +301,7 @@
 	terrain="plains"
 	culture="tuskegean"
 	religion="springsearcher"
-	trade_goods=""
+	trade_goods="grain" #Placeholder
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -314,7 +314,7 @@
 	terrain="plains"
 	culture="tuskegean"
 	religion="springsearcher"
-	trade_goods=""
+	trade_goods="grain" #Placeholder
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -353,7 +353,7 @@
 	terrain="plains"
 	culture="dixie"
 	religion="evangelical"
-	trade_goods=""
+	trade_goods="grain" #Placeholder
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -366,7 +366,7 @@
 	terrain="plains"
 	culture="dixie"
 	religion="springsearcher"
-	trade_goods=""
+	trade_goods="grain" #Placeholder
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -379,7 +379,7 @@
 	terrain="plains"
 	culture="atlantean"
 	religion="evangelical"
-	trade_goods=""
+	trade_goods="grain" #Placeholder
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -392,7 +392,7 @@
 	terrain="plains"
 	culture="atlantean"
 	religion="evangelical"
-	trade_goods=""
+	trade_goods="grain" #Placeholder
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -405,7 +405,7 @@
 	terrain="plains"
 	culture="atlantean"
 	religion="evangelical"
-	trade_goods=""
+	trade_goods="grain" #Placeholder
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -418,7 +418,7 @@
 	terrain="plains"
 	culture="atlantean"
 	religion="evangelical"
-	trade_goods=""
+	trade_goods="grain" #Placeholder
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -444,7 +444,7 @@
 	terrain="plains"
 	culture="dixie"
 	religion="evangelical"
-	trade_goods=""
+	trade_goods="grain" #Placeholder
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -457,7 +457,7 @@
 	terrain="plains"
 	culture="dixie"
 	religion="evangelical"
-	trade_goods=""
+	trade_goods="grain" #Placeholder
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -535,7 +535,7 @@
 	terrain="plains"
 	culture="dixie"
 	religion="evangelical"
-	trade_goods=""
+	trade_goods="grain" #Placeholder
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -548,7 +548,7 @@
 	terrain="plains"
 	culture="tuskegean"
 	religion="evangelical"
-	trade_goods=""
+	trade_goods="grain" #Placeholder
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -561,7 +561,7 @@
 	terrain="forest"
 	culture="atlantean"
 	religion="evangelical"
-	trade_goods=""
+	trade_goods="grain" #Placeholder
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -574,7 +574,7 @@
 	terrain="plains"
 	culture="atlantean"
 	religion="evangelical"
-	trade_goods=""
+	trade_goods="grain" #Placeholder
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -613,7 +613,7 @@
 	terrain="forest"
 	culture="atlantean"
 	religion="evangelical"
-	trade_goods=""
+	trade_goods="grain" #Placeholder
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -652,7 +652,7 @@
 	terrain="forest"
 	culture="dixie"
 	religion="evangelical"
-	trade_goods=""
+	trade_goods="grain" #Placeholder
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -665,7 +665,7 @@
 	terrain="marsh"
 	culture="sunshiner"
 	religion="springsearcher"
-	trade_goods=""
+	trade_goods="grain" #Placeholder
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -678,7 +678,7 @@
 	terrain="forest"
 	culture="dixie"
 	religion="evangelical"
-	trade_goods=""
+	trade_goods="grain" #Placeholder
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -689,7 +689,7 @@
 
 6352={ #
 	terrain="marsh"
-	culture=""
+	culture="quebecois" #Placeholder
 	religion="springsearcher"
 	trade_goods="fish"
 	civilization_value=10
@@ -704,7 +704,7 @@
 	terrain="plains"
 	culture="tuskegean"
 	religion="evangelical"
-	trade_goods=""
+	trade_goods="grain" #Placeholder
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -717,7 +717,7 @@
 	terrain="plains"
 	culture="tuskegean"
 	religion="evangelical"
-	trade_goods=""
+	trade_goods="grain" #Placeholder
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -730,7 +730,7 @@
 	terrain="plains"
 	culture="tuskegean"
 	religion="evangelical"
-	trade_goods=""
+	trade_goods="grain" #Placeholder
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -743,7 +743,7 @@
 	terrain="plains"
 	culture="atlantean"
 	religion="evangelical"
-	trade_goods=""
+	trade_goods="grain" #Placeholder
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -769,7 +769,7 @@
 	terrain="plains"
 	culture="tuskegean"
 	religion="evangelical"
-	trade_goods=""
+	trade_goods="grain" #Placeholder
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -782,7 +782,7 @@
 	terrain="plains"
 	culture="tuskegean"
 	religion="evangelical"
-	trade_goods=""
+	trade_goods="grain" #Placeholder
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -795,7 +795,7 @@
 	terrain="plains"
 	culture="tuskegean"
 	religion="evangelical"
-	trade_goods=""
+	trade_goods="grain" #Placeholder
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -808,7 +808,7 @@
 	terrain="plains"
 	culture="tuskegean"
 	religion="evangelical"
-	trade_goods=""
+	trade_goods="grain" #Placeholder
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -821,7 +821,7 @@
 	terrain="plains"
 	culture="atlantean"
 	religion="evangelical"
-	trade_goods=""
+	trade_goods="grain" #Placeholder
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -834,7 +834,7 @@
 	terrain="plains"
 	culture="tuskegean"
 	religion="evangelical"
-	trade_goods=""
+	trade_goods="grain" #Placeholder
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -858,9 +858,9 @@
 
 8762={ #
 	terrain="marsh"
-	culture=""
+	culture="quebecois" #Placeholder
 	religion="evangelical"
-	trade_goods=""
+	trade_goods="grain" #Placeholder
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -873,7 +873,7 @@
 	terrain="forest"
 	culture="dixie"
 	religion="evangelical"
-	trade_goods=""
+	trade_goods="grain" #Placeholder
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -884,9 +884,9 @@
 
 8764={ #
 	terrain="marsh"
-	culture=""
+	culture="quebecois" #Placeholder
 	religion="evangelical"
-	trade_goods=""
+	trade_goods="grain" #Placeholder
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -912,7 +912,7 @@
 	terrain="plains"
 	culture="tuskegean"
 	religion="evangelical"
-	trade_goods=""
+	trade_goods="grain" #Placeholder
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -925,7 +925,7 @@
 	terrain="plains"
 	culture="tuskegean"
 	religion="evangelical"
-	trade_goods=""
+	trade_goods="grain" #Placeholder
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -938,7 +938,7 @@
 	terrain="plains"
 	culture="tuskegean"
 	religion="evangelical"
-	trade_goods=""
+	trade_goods="grain" #Placeholder
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -951,7 +951,7 @@
 	terrain="plains"
 	culture="tuskegean"
 	religion="evangelical"
-	trade_goods=""
+	trade_goods="grain" #Placeholder
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -964,7 +964,7 @@
 	terrain="plains"
 	culture="dixie"
 	religion="evangelical"
-	trade_goods=""
+	trade_goods="grain" #Placeholder
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -990,7 +990,7 @@
 	terrain="plains"
 	culture="dixie"
 	religion="evangelical"
-	trade_goods=""
+	trade_goods="grain" #Placeholder
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -1003,7 +1003,7 @@
 	terrain="plains"
 	culture="dixie"
 	religion="evangelical"
-	trade_goods=""
+	trade_goods="grain" #Placeholder
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -1016,7 +1016,7 @@
 	terrain="plains"
 	culture="dixie"
 	religion="evangelical"
-	trade_goods=""
+	trade_goods="grain" #Placeholder
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"

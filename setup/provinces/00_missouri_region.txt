@@ -28,7 +28,7 @@
 	terrain="forest"
 	culture="ozark"
 	religion="revelationist"
-	trade_goods=""
+	trade_goods="grain" #Placeholder
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -41,7 +41,7 @@
 	terrain="forest"
 	culture="ozark"
 	religion="revelationist"
-	trade_goods=""
+	trade_goods="grain" #Placeholder
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -80,7 +80,7 @@
 	terrain="plains"
 	culture="ozark"
 	religion="revelationist"
-	trade_goods=""
+	trade_goods="grain" #Placeholder
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -93,7 +93,7 @@
 	terrain="forest"
 	culture="ozark"
 	religion="revelationist"
-	trade_goods=""
+	trade_goods="grain" #Placeholder
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -106,7 +106,7 @@
 	terrain="forest"
 	culture="gatewayan"
 	religion="promethean"
-	trade_goods=""
+	trade_goods="grain" #Placeholder
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -132,7 +132,7 @@
 	terrain="forest"
 	culture="gatewayan"
 	religion="catholic"
-	trade_goods=""
+	trade_goods="grain" #Placeholder
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -223,7 +223,7 @@
 	terrain="plains"
 	culture="gatewayan"
 	religion="catholic"
-	trade_goods=""
+	trade_goods="grain" #Placeholder
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -236,7 +236,7 @@
 	terrain="plains"
 	culture="gatewayan"
 	religion="egyptology"
-	trade_goods=""
+	trade_goods="grain" #Placeholder
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -249,7 +249,7 @@
 	terrain="plains"
 	culture="gatewayan"
 	religion="egyptology"
-	trade_goods=""
+	trade_goods="grain" #Placeholder
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -275,7 +275,7 @@
 	terrain="farmland"
 	culture="gatewayan"
 	religion="promethean"
-	trade_goods=""
+	trade_goods="grain" #Placeholder
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -288,7 +288,7 @@
 	terrain="farmland"
 	culture="gatewayan"
 	religion="promethean"
-	trade_goods=""
+	trade_goods="grain" #Placeholder
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -299,9 +299,9 @@
 
 4308={ #
 	terrain="plains"
-	culture=""
+	culture="quebecois" #Placeholder
 	religion="mayan_pantheon"
-	trade_goods=""
+	trade_goods="grain" #Placeholder
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -314,7 +314,7 @@
 	terrain="hills"
 	culture="ozark"
 	religion="catholic"
-	trade_goods=""
+	trade_goods="grain" #Placeholder
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -327,7 +327,7 @@
 	terrain="forest"
 	culture="ozark"
 	religion="revelationist"
-	trade_goods=""
+	trade_goods="grain" #Placeholder
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -340,7 +340,7 @@
 	terrain="forest"
 	culture="ozark"
 	religion="revelationist"
-	trade_goods=""
+	trade_goods="grain" #Placeholder
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -392,7 +392,7 @@
 	terrain="plains"
 	culture="ozark"
 	religion="egyptology"
-	trade_goods=""
+	trade_goods="grain" #Placeholder
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -405,7 +405,7 @@
 	terrain="plains"
 	culture="ozark"
 	religion="egyptology"
-	trade_goods=""
+	trade_goods="grain" #Placeholder
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -418,7 +418,7 @@
 	terrain="forest"
 	culture="ozark"
 	religion="revelationist"
-	trade_goods=""
+	trade_goods="grain" #Placeholder
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -431,7 +431,7 @@
 	terrain="plains"
 	culture="gatewayan"
 	religion="promethean"
-	trade_goods=""
+	trade_goods="grain" #Placeholder
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -457,7 +457,7 @@
 	terrain="plains"
 	culture="ozark"
 	religion="catholic"
-	trade_goods=""
+	trade_goods="grain" #Placeholder
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -470,7 +470,7 @@
 	terrain="forest"
 	culture="ozark"
 	religion="revelationist"
-	trade_goods=""
+	trade_goods="grain" #Placeholder
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -483,7 +483,7 @@
 	terrain="plains"
 	culture="ozark"
 	religion="revelationist"
-	trade_goods=""
+	trade_goods="grain" #Placeholder
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -496,7 +496,7 @@
 	terrain="plains"
 	culture="ozark"
 	religion="revelationist"
-	trade_goods=""
+	trade_goods="grain" #Placeholder
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -561,7 +561,7 @@
 	terrain="plains"
 	culture="hermanndeutsch"
 	religion="catholic"
-	trade_goods=""
+	trade_goods="grain" #Placeholder
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -574,7 +574,7 @@
 	terrain="plains"
 	culture="heartlander"
 	religion="catholic"
-	trade_goods=""
+	trade_goods="grain" #Placeholder
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -600,7 +600,7 @@
 	terrain="plains"
 	culture="gatewayan"
 	religion="lutheran"
-	trade_goods=""
+	trade_goods="grain" #Placeholder
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -665,7 +665,7 @@
 	terrain="hills"
 	culture="ozark"
 	religion="catholic"
-	trade_goods=""
+	trade_goods="grain" #Placeholder
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -678,7 +678,7 @@
 	terrain="forest"
 	culture="ozark"
 	religion="revelationist"
-	trade_goods=""
+	trade_goods="grain" #Placeholder
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -691,7 +691,7 @@
 	terrain="hills"
 	culture="ozark"
 	religion="catholic"
-	trade_goods=""
+	trade_goods="grain" #Placeholder
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -704,7 +704,7 @@
 	terrain="plains"
 	culture="ozark"
 	religion="revelationist"
-	trade_goods=""
+	trade_goods="grain" #Placeholder
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -730,7 +730,7 @@
 	terrain="plains"
 	culture="heartlander"
 	religion="catholic"
-	trade_goods=""
+	trade_goods="grain" #Placeholder
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -741,9 +741,9 @@
 
 8498={ #
 	terrain="plains"
-	culture=""
+	culture="quebecois" #Placeholder
 	religion="mayan_pantheon"
-	trade_goods=""
+	trade_goods="grain" #Placeholder
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -769,7 +769,7 @@
 	terrain="plains"
 	culture="gatewayan"
 	religion="promethean"
-	trade_goods=""
+	trade_goods="grain" #Placeholder
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -795,7 +795,7 @@
 	terrain="plains"
 	culture="ozark"
 	religion="revelationist"
-	trade_goods=""
+	trade_goods="grain" #Placeholder
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -808,7 +808,7 @@
 	terrain="plains"
 	culture="ozark"
 	religion="revelationist"
-	trade_goods=""
+	trade_goods="grain" #Placeholder
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -860,7 +860,7 @@
 	terrain="forest"
 	culture="ozark"
 	religion="revelationist"
-	trade_goods=""
+	trade_goods="grain" #Placeholder
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -873,7 +873,7 @@
 	terrain="forest"
 	culture="ozark"
 	religion="catholic"
-	trade_goods=""
+	trade_goods="grain" #Placeholder
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -886,7 +886,7 @@
 	terrain="forest"
 	culture="ozark"
 	religion="revelationist"
-	trade_goods=""
+	trade_goods="grain" #Placeholder
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"

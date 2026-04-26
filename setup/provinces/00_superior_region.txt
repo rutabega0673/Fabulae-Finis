@@ -15,7 +15,7 @@
 	terrain="forest"
 	culture="francontarien"
 	religion="promethean"
-	trade_goods=""
+	trade_goods="grain" #Placeholder
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -28,7 +28,7 @@
 	terrain="forest"
 	culture="francontarien"
 	religion="promethean"
-	trade_goods=""
+	trade_goods="grain" #Placeholder
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -67,7 +67,7 @@
 	terrain="forest"
 	culture="ojibwe"
 	religion="promethean"
-	trade_goods=""
+	trade_goods="grain" #Placeholder
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -80,7 +80,7 @@
 	terrain="forest"
 	culture="shieldshorer"
 	religion="promethean"
-	trade_goods=""
+	trade_goods="grain" #Placeholder
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -93,7 +93,7 @@
 	terrain="forest"
 	culture="ojibwe"
 	religion="promethean"
-	trade_goods=""
+	trade_goods="grain" #Placeholder
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -158,7 +158,7 @@
 	terrain="forest"
 	culture="shieldshorer"
 	religion="veteranic"
-	trade_goods=""
+	trade_goods="grain" #Placeholder
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -171,7 +171,7 @@
 	terrain="forest"
 	culture="shieldshorer"
 	religion="veteranic"
-	trade_goods=""
+	trade_goods="grain" #Placeholder
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -184,7 +184,7 @@
 	terrain="forest"
 	culture="shieldshorer"
 	religion="veteranic"
-	trade_goods=""
+	trade_goods="grain" #Placeholder
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -197,7 +197,7 @@
 	terrain="forest"
 	culture="yooper"
 	religion="lakeshore"
-	trade_goods=""
+	trade_goods="grain" #Placeholder
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -327,7 +327,7 @@
 	terrain="forest"
 	culture="ojibwe"
 	religion="promethean"
-	trade_goods=""
+	trade_goods="grain" #Placeholder
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -340,7 +340,7 @@
 	terrain="forest"
 	culture="francontarien"
 	religion="midewiwin"
-	trade_goods=""
+	trade_goods="grain" #Placeholder
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -353,7 +353,7 @@
 	terrain="forest"
 	culture="francontarien"
 	religion="promethean"
-	trade_goods=""
+	trade_goods="grain" #Placeholder
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -366,7 +366,7 @@
 	terrain="forest"
 	culture="francontarien"
 	religion="promethean"
-	trade_goods=""
+	trade_goods="grain" #Placeholder
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -379,7 +379,7 @@
 	terrain="forest"
 	culture="francontarien"
 	religion="midewiwin"
-	trade_goods=""
+	trade_goods="grain" #Placeholder
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -392,7 +392,7 @@
 	terrain="forest"
 	culture="francontarien"
 	religion="promethean"
-	trade_goods=""
+	trade_goods="grain" #Placeholder
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -405,7 +405,7 @@
 	terrain="forest"
 	culture="ojibwe"
 	religion="midewiwin"
-	trade_goods=""
+	trade_goods="grain" #Placeholder
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -418,7 +418,7 @@
 	terrain="forest"
 	culture="ojibwe"
 	religion="midewiwin"
-	trade_goods=""
+	trade_goods="grain" #Placeholder
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -431,7 +431,7 @@
 	terrain="forest"
 	culture="ojibwe"
 	religion="veteranic"
-	trade_goods=""
+	trade_goods="grain" #Placeholder
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -444,7 +444,7 @@
 	terrain="forest"
 	culture="francontarien"
 	religion="midewiwin"
-	trade_goods=""
+	trade_goods="grain" #Placeholder
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -457,7 +457,7 @@
 	terrain="forest"
 	culture="eeyou"
 	religion="midewiwin"
-	trade_goods=""
+	trade_goods="grain" #Placeholder
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -470,7 +470,7 @@
 	terrain="forest"
 	culture="francontarien"
 	religion="midewiwin"
-	trade_goods=""
+	trade_goods="grain" #Placeholder
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -483,7 +483,7 @@
 	terrain="forest"
 	culture="ojibwe"
 	religion="promethean"
-	trade_goods=""
+	trade_goods="grain" #Placeholder
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -496,7 +496,7 @@
 	terrain="forest"
 	culture="shieldshorer"
 	religion="veteranic"
-	trade_goods=""
+	trade_goods="grain" #Placeholder
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -509,7 +509,7 @@
 	terrain="forest"
 	culture="shieldshorer"
 	religion="veteranic"
-	trade_goods=""
+	trade_goods="grain" #Placeholder
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -548,7 +548,7 @@
 	terrain="forest"
 	culture="francontarien"
 	religion="midewiwin"
-	trade_goods=""
+	trade_goods="grain" #Placeholder
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -561,7 +561,7 @@
 	terrain="forest"
 	culture="francontarien"
 	religion="midewiwin"
-	trade_goods=""
+	trade_goods="grain" #Placeholder
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -574,7 +574,7 @@
 	terrain="forest"
 	culture="francontarien"
 	religion="midewiwin"
-	trade_goods=""
+	trade_goods="grain" #Placeholder
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -587,7 +587,7 @@
 	terrain="forest"
 	culture="francontarien"
 	religion="promethean"
-	trade_goods=""
+	trade_goods="grain" #Placeholder
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -600,7 +600,7 @@
 	terrain="forest"
 	culture="ojibwe"
 	religion="promethean"
-	trade_goods=""
+	trade_goods="grain" #Placeholder
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -613,7 +613,7 @@
 	terrain="forest"
 	culture="shieldshorer"
 	religion="promethean"
-	trade_goods=""
+	trade_goods="grain" #Placeholder
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -626,7 +626,7 @@
 	terrain="forest"
 	culture="ojibwe"
 	religion="veteranic"
-	trade_goods=""
+	trade_goods="grain" #Placeholder
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -652,7 +652,7 @@
 	terrain="forest"
 	culture="francontarien"
 	religion="promethean"
-	trade_goods=""
+	trade_goods="grain" #Placeholder
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -665,7 +665,7 @@
 	terrain="forest"
 	culture="francontarien"
 	religion="promethean"
-	trade_goods=""
+	trade_goods="grain" #Placeholder
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -821,7 +821,7 @@
 	terrain="forest"
 	culture="shieldshorer"
 	religion="veteranic"
-	trade_goods=""
+	trade_goods="grain" #Placeholder
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -847,7 +847,7 @@
 	terrain="forest"
 	culture="shieldshorer"
 	religion="veteranic"
-	trade_goods=""
+	trade_goods="grain" #Placeholder
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -860,7 +860,7 @@
 	terrain="forest"
 	culture="shieldshorer"
 	religion="veteranic"
-	trade_goods=""
+	trade_goods="grain" #Placeholder
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -873,7 +873,7 @@
 	terrain="forest"
 	culture="shieldshorer"
 	religion="veteranic"
-	trade_goods=""
+	trade_goods="grain" #Placeholder
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"

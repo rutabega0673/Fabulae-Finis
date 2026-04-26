@@ -2,7 +2,7 @@
 	terrain="plains"
 	culture="butternutter"
 	religion="catholic"
-	trade_goods=""
+	trade_goods="grain" #Placeholder
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -15,7 +15,7 @@
 	terrain="plains"
 	culture="gatewayan"
 	religion="catholic"
-	trade_goods=""
+	trade_goods="grain" #Placeholder
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -41,7 +41,7 @@
 	terrain="plains"
 	culture="gatewayan"
 	religion="catholic"
-	trade_goods=""
+	trade_goods="grain" #Placeholder
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -67,7 +67,7 @@
 	terrain="plains"
 	culture="hoosier"
 	religion="catholic"
-	trade_goods=""
+	trade_goods="grain" #Placeholder
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -80,7 +80,7 @@
 	terrain="plains"
 	culture="hoosier"
 	religion="catholic"
-	trade_goods=""
+	trade_goods="grain" #Placeholder
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -93,7 +93,7 @@
 	terrain="plains"
 	culture="hoosier"
 	religion="catholic"
-	trade_goods=""
+	trade_goods="grain" #Placeholder
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -119,7 +119,7 @@
 	terrain="plains"
 	culture="hoosier"
 	religion="catholic"
-	trade_goods=""
+	trade_goods="grain" #Placeholder
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -132,7 +132,7 @@
 	terrain="plains"
 	culture="gatewayan"
 	religion="catholic"
-	trade_goods=""
+	trade_goods="grain" #Placeholder
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -145,7 +145,7 @@
 	terrain="plains"
 	culture="hoosier"
 	religion="catholic"
-	trade_goods=""
+	trade_goods="grain" #Placeholder
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -158,7 +158,7 @@
 	terrain="plains"
 	culture="heartlander"
 	religion="catholic"
-	trade_goods=""
+	trade_goods="grain" #Placeholder
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -171,7 +171,7 @@
 	terrain="plains"
 	culture="heartlander"
 	religion="catholic"
-	trade_goods=""
+	trade_goods="grain" #Placeholder
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -184,7 +184,7 @@
 	terrain="plains"
 	culture="heartlander"
 	religion="catholic"
-	trade_goods=""
+	trade_goods="grain" #Placeholder
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -210,7 +210,7 @@
 	terrain="plains"
 	culture="heartlander"
 	religion="catholic"
-	trade_goods=""
+	trade_goods="grain" #Placeholder
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -223,7 +223,7 @@
 	terrain="plains"
 	culture="hoosier"
 	religion="catholic"
-	trade_goods=""
+	trade_goods="grain" #Placeholder
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -236,7 +236,7 @@
 	terrain="plains"
 	culture="hoosier"
 	religion="catholic"
-	trade_goods=""
+	trade_goods="grain" #Placeholder
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -262,7 +262,7 @@
 	terrain="plains"
 	culture="butternutter"
 	religion="catholic"
-	trade_goods=""
+	trade_goods="grain" #Placeholder
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -275,7 +275,7 @@
 	terrain="plains"
 	culture="hoosier"
 	religion="catholic"
-	trade_goods=""
+	trade_goods="grain" #Placeholder
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -288,7 +288,7 @@
 	terrain="plains"
 	culture="hoosier"
 	religion="catholic"
-	trade_goods=""
+	trade_goods="grain" #Placeholder
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -314,7 +314,7 @@
 	terrain="farmland"
 	culture="hoosier"
 	religion="catholic"
-	trade_goods=""
+	trade_goods="grain" #Placeholder
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -340,7 +340,7 @@
 	terrain="plains"
 	culture="hoosier"
 	religion="catholic"
-	trade_goods=""
+	trade_goods="grain" #Placeholder
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -353,7 +353,7 @@
 	terrain="plains"
 	culture="hoosier"
 	religion="catholic"
-	trade_goods=""
+	trade_goods="grain" #Placeholder
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -366,7 +366,7 @@
 	terrain="plains"
 	culture="hoosier"
 	religion="catholic"
-	trade_goods=""
+	trade_goods="grain" #Placeholder
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -379,7 +379,7 @@
 	terrain="plains"
 	culture="butternutter"
 	religion="catholic"
-	trade_goods=""
+	trade_goods="grain" #Placeholder
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -392,7 +392,7 @@
 	terrain="plains"
 	culture="butternutter"
 	religion="catholic"
-	trade_goods=""
+	trade_goods="grain" #Placeholder
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -418,7 +418,7 @@
 	terrain="plains"
 	culture="heartlander"
 	religion="catholic"
-	trade_goods=""
+	trade_goods="grain" #Placeholder
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -457,7 +457,7 @@
 	terrain="plains"
 	culture="gatewayan"
 	religion="catholic"
-	trade_goods=""
+	trade_goods="grain" #Placeholder
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -470,7 +470,7 @@
 	terrain="farmland"
 	culture="gatewayan"
 	religion="catholic"
-	trade_goods=""
+	trade_goods="grain" #Placeholder
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -483,7 +483,7 @@
 	terrain="farmland"
 	culture="gatewayan"
 	religion="catholic"
-	trade_goods=""
+	trade_goods="grain" #Placeholder
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -522,7 +522,7 @@
 	terrain="plains"
 	culture="hoosier"
 	religion="catholic"
-	trade_goods=""
+	trade_goods="grain" #Placeholder
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -535,7 +535,7 @@
 	terrain="plains"
 	culture="hoosier"
 	religion="catholic"
-	trade_goods=""
+	trade_goods="grain" #Placeholder
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -561,7 +561,7 @@
 	terrain="plains"
 	culture="chicagoan"
 	religion="catholic"
-	trade_goods=""
+	trade_goods="grain" #Placeholder
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -574,7 +574,7 @@
 	terrain="plains"
 	culture="heartlander"
 	religion="catholic"
-	trade_goods=""
+	trade_goods="grain" #Placeholder
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -600,7 +600,7 @@
 	terrain="plains"
 	culture="heartlander"
 	religion="catholic"
-	trade_goods=""
+	trade_goods="grain" #Placeholder
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -613,7 +613,7 @@
 	terrain="plains"
 	culture="hoosier"
 	religion="catholic"
-	trade_goods=""
+	trade_goods="grain" #Placeholder
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -652,7 +652,7 @@
 	terrain="plains"
 	culture="hoosier"
 	religion="catholic"
-	trade_goods=""
+	trade_goods="grain" #Placeholder
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -665,7 +665,7 @@
 	terrain="plains"
 	culture="hoosier"
 	religion="catholic"
-	trade_goods=""
+	trade_goods="grain" #Placeholder
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -678,7 +678,7 @@
 	terrain="farmland"
 	culture="gatewayan"
 	religion="catholic"
-	trade_goods=""
+	trade_goods="grain" #Placeholder
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -691,7 +691,7 @@
 	terrain="farmland"
 	culture="gatewayan"
 	religion="catholic"
-	trade_goods=""
+	trade_goods="grain" #Placeholder
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -704,7 +704,7 @@
 	terrain="plains"
 	culture="gatewayan"
 	religion="catholic"
-	trade_goods=""
+	trade_goods="grain" #Placeholder
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -743,7 +743,7 @@
 	terrain="plains"
 	culture="hoosier"
 	religion="catholic"
-	trade_goods=""
+	trade_goods="grain" #Placeholder
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"

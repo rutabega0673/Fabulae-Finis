@@ -403,7 +403,7 @@
 
 5675={ #
 	terrain="forest"
-	culture=""
+	culture="quebecois" #Placeholder
 	religion="midewiwin"
 	trade_goods="fur"
 	civilization_value=10

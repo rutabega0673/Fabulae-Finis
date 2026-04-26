@@ -366,7 +366,7 @@
 	terrain="plains"
 	culture="beltway"
 	religion="americanist"
-	trade_goods=""
+	trade_goods="grain" #Placeholder
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -379,7 +379,7 @@
 	terrain="marsh"
 	culture="beltway"
 	religion="americanist"
-	trade_goods=""
+	trade_goods="grain" #Placeholder
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -405,7 +405,7 @@
 	terrain="marsh"
 	culture="southron"
 	religion="americanist"
-	trade_goods=""
+	trade_goods="grain" #Placeholder
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -535,7 +535,7 @@
 	terrain="farmland"
 	culture="beltway"
 	religion="americanist"
-	trade_goods=""
+	trade_goods="grain" #Placeholder
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -561,7 +561,7 @@
 	terrain="plains"
 	culture="beltway"
 	religion="americanist"
-	trade_goods=""
+	trade_goods="grain" #Placeholder
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -861,7 +861,7 @@
 	terrain="plains"
 	culture="beltway"
 	religion="americanist"
-	trade_goods=""
+	trade_goods="grain" #Placeholder
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -874,7 +874,7 @@
 	terrain="plains"
 	culture="beltway"
 	religion="americanist"
-	trade_goods=""
+	trade_goods="grain" #Placeholder
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -939,7 +939,7 @@
 	terrain="marsh"
 	culture="beltway"
 	religion="americanist"
-	trade_goods=""
+	trade_goods="grain" #Placeholder
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -965,7 +965,7 @@
 	terrain="marsh"
 	culture="beltway"
 	religion="americanist"
-	trade_goods=""
+	trade_goods="grain" #Placeholder
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -991,7 +991,7 @@
 	terrain="plains"
 	culture="youser"
 	religion="americanist"
-	trade_goods=""
+	trade_goods="grain" #Placeholder
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -1134,7 +1134,7 @@
 	terrain="plains"
 	culture="beltway"
 	religion="americanist"
-	trade_goods=""
+	trade_goods="grain" #Placeholder
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
