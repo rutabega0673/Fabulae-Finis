@@ -468,7 +468,7 @@
 
 5045={ #
 	terrain="hills"
-	culture="atlantean"
+	culture="appalachian"
 	religion="omenteller"
 	trade_goods="honey"
 	civilization_value=10
@@ -598,7 +598,7 @@
 
 5947={ #
 	terrain="hills"
-	culture="atlantean"
+	culture="appalachian"
 	religion="omenteller"
 	trade_goods="clay"
 	civilization_value=10

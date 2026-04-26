@@ -39,7 +39,7 @@
 
 1896={ #
 	terrain="forest"
-	culture="appalachian"
+	culture="piedmontese"
 	religion="evangelical"
 	trade_goods="honey"
 	civilization_value=10
@@ -338,7 +338,7 @@
 
 3861={ #
 	terrain="forest"
-	culture="appalachian"
+	culture="piedmontese"
 	religion="evangelical"
 	trade_goods=""
 	civilization_value=10
@@ -351,7 +351,7 @@
 
 3862={ #
 	terrain="forest"
-	culture="appalachian"
+	culture="piedmontese"
 	religion="evangelical"
 	trade_goods=""
 	civilization_value=10
@@ -364,7 +364,7 @@
 
 3863={ #
 	terrain="hills"
-	culture="appalachian"
+	culture="piedmontese"
 	religion="evangelical"
 	trade_goods="clay"
 	civilization_value=10

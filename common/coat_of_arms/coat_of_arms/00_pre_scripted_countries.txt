@@ -1,70 +1,4 @@
-﻿PRI = { #presidency
-	pattern = "pattern_solid.tga"
-	color1 = "navy_blue"
-	color2 = "navy_blue"
-	colored_emblem = {
-		texture = "ce_branch.dds"
-		color1 = "ck2_green"
-		color2 = "ck2_green"
-		instance = { position = { 0.2 0.6 } scale = { -0.2 0.2 } rotation = 20  }
-	}
-	colored_emblem = {
-		texture = "ce_arrow.dds"
-		color1 = "mid_grey"
-		color2 = "mid_grey"
-		instance = { position = { 0.78 0.65 } scale = { 0.35 0.35 } rotation = 110  }
-		instance = { position = { 0.78 0.65 } scale = { 0.35 0.35 } rotation = 130  }
-		instance = { position = { 0.78 0.65 } scale = { 0.35 0.35 } rotation = 150  }
-	}
-	colored_emblem = {
-		texture = "ce_eagle_american_bald.dds"
-		color1 = "dark_rust"
-		color2 = "roman_gold"
-		color3 = "offwhite"
-		instance = { position = { 0.5 0.48 } scale = { 0.8 0.8 }  }
-	}
-	colored_emblem = {
-		texture = "ce_circle_03.dds"
-		color1 = "roman_gold"
-		instance = { position = { 0.5 0.13 } scale = { 0.2 0.2 }  }
-	}
-	colored_emblem = {
-		texture = "ce_circle_03.dds"
-		color1 = "ck2_blue"
-		color2 = "ck2_blue"
-		instance = { position = { 0.5 0.10 } scale = { 0.08 0.08 }  }
-		instance = { position = { 0.47 0.115 } scale = { 0.08 0.08 }  }
-		instance = { position = { 0.53 0.115 } scale = { 0.08 0.08 }  }
-		instance = { position = { 0.5 0.13 } scale = { 0.08 0.08 }  }
-		instance = { position = { 0.47 0.145 } scale = { 0.08 0.08 }  }
-		instance = { position = { 0.53 0.145 } scale = { 0.08 0.08 }  }
-		instance = { position = { 0.5 0.16 } scale = { 0.08 0.08 }  }
-	}
-	colored_emblem = {
-		texture = "ce_star_05.dds"
-		color1 = "offwhite"
-		color2 = "offwhite"
-		#1st row
-		instance = { position = { 0.5 0.091 } scale = { 0.035 0.035 }  }
-		#2nd row
-		instance = { position = { 0.461 0.11 } scale = { 0.035 0.035 }  }
-		instance = { position = { 0.487 0.11 } scale = { 0.035 0.035 }  }
-		instance = { position = { 0.513 0.11 } scale = { 0.035 0.035 }  }
-		instance = { position = { 0.539 0.11 } scale = { 0.035 0.035 }  }
-		#3rd row
-		instance = { position = { 0.474 0.13 } scale = { 0.035 0.035 }  }
-		instance = { position = { 0.5 0.13 } scale = { 0.035 0.035 }  }
-		instance = { position = { 0.526 0.13 } scale = { 0.035 0.035 }  }
-		#4th row
-		instance = { position = { 0.461 0.15 } scale = { 0.035 0.035 }  }
-		instance = { position = { 0.487 0.15 } scale = { 0.035 0.035 }  }
-		instance = { position = { 0.513 0.15 } scale = { 0.035 0.035 }  }
-		instance = { position = { 0.539 0.15 } scale = { 0.035 0.035 }  }
-		#5th row
-		instance = { position = { 0.5 0.169 } scale = { 0.035 0.035 }  }
-	}
-}
-
+﻿
 NYC = { #New York
 	pattern = "pattern_vertical_split_02.tga"
 	color1 = "offwhite"
@@ -98,7 +32,7 @@ NYC = { #New York
 	}
 }
 
-IWA = {
+IWA = { # Kingdom of Iowa
 	pattern = "pattern_vertical_split_01.tga"
 	color1 = hsv { 0.58 0.8 0.4 }
 	color2 = hsv { 0.02 0.8 0.45 }
@@ -125,7 +59,7 @@ IWA = {
 	}
 }
 
-DEL= {
+DEL= { #State of Delmarva
 	pattern = "pattern_chief.dds"
 	color1 = "light_gold"
 	color2 = "ck2_blue"
@@ -158,5 +92,22 @@ DEL= {
 		color1 = "dark_rust"
 		color2 = "dark_rust"
 		instance = { position = { 0.5 0.70 } scale = { 0.9 0.8 }  }
+	}
+}
+PRI = { # USA - at game start
+	pattern = "pattern_solid.tga"
+	color1 = "navy_blue"
+	color2 = "navy_blue"
+	colored_emblem = {
+		texture = "ce_stripes_horizontal_15.dds"
+		color1 = "offwhite"
+		color2 = "ck2_red"
+		instance = { position = { 0.5 1.0 } scale = { 1.134 1.0 }	rotation = 90 }
+	}
+	colored_emblem = {
+		texture = "ce_stars_13.dds"
+		color1 = "offwhite"
+		color2 = "offwhite"
+		instance = { position = { 0.5 0.25 } scale = { 0.5 0.5 }  }
 	}
 }

@@ -143,7 +143,7 @@
 
 1729={ #
 	terrain="forest"
-	culture="riverlander"
+	culture="appalachian"
 	religion="omenteller"
 	trade_goods=""
 	civilization_value=10
@@ -156,7 +156,7 @@
 
 1730={ #
 	terrain="forest"
-	culture="riverlander"
+	culture="appalachian"
 	religion="omenteller"
 	trade_goods=""
 	civilization_value=10
@@ -169,7 +169,7 @@
 
 1731={ #
 	terrain="forest"
-	culture="riverlander"
+	culture="appalachian"
 	religion="omenteller"
 	trade_goods=""
 	civilization_value=10
@@ -234,7 +234,7 @@
 
 2072={ #
 	terrain="forest"
-	culture="riverlander"
+	culture="appalachian"
 	religion="revelationist"
 	trade_goods=""
 	civilization_value=10
@@ -247,7 +247,7 @@
 
 2073={ #
 	terrain="forest"
-	culture="riverlander"
+	culture="appalachian"
 	religion="revelationist"
 	trade_goods=""
 	civilization_value=10
@@ -624,7 +624,7 @@
 
 9578={ #
 	terrain="forest"
-	culture="riverlander"
+	culture="appalachian"
 	religion="revelationist"
 	trade_goods="wood"
 	civilization_value=10
@@ -637,7 +637,7 @@
 
 9579={ #
 	terrain="hills"
-	culture="riverlander"
+	culture="appalachian"
 	religion="revelationist"
 	trade_goods=""
 	civilization_value=10
