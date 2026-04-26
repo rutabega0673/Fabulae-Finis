@@ -1,4 +1,4 @@
-﻿hermanndeutsch = {
+﻿deutschamerikaner = {
 	color = rgb { 96 98 59 }
 
 	levy_template = levy_maya
@@ -38,6 +38,7 @@
 	}
 	culture = {
 		hermanndeutsch = {}
+		texaner = {} ## PLORGUS ALARM!!! ##
 	}
 	
 	barbarian_names = { 

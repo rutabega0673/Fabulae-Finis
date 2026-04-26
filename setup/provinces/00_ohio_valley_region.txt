@@ -40,7 +40,7 @@
 184={ #
 	terrain="plains"
 	culture="butternutter"
-	religion="hearthtender"
+	religion="americanist"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0

@@ -91,7 +91,7 @@
 
 3241={ #Lancaster
 	terrain="plains"
-	culture="deitsch"
+	culture="youser"
 	religion="old_order"
 	trade_goods="grain"
 	civilization_value=10
@@ -156,7 +156,7 @@
 
 3668={ #York
 	terrain="plains"
-	culture="deitsch"
+	culture="beltway"
 	religion="old_order"
 	trade_goods="grain"
 	civilization_value=10
@@ -169,7 +169,7 @@
 
 3669={ #New Freedom
 	terrain="plains"
-	culture="deitsch"
+	culture="beltway"
 	religion="old_order"
 	trade_goods=""
 	civilization_value=10
@@ -234,7 +234,7 @@
 
 5493={ #
 	terrain="hills"
-	culture="pocono"
+	culture="deitsch"
 	religion="catholic"
 	trade_goods="wild_game"
 	civilization_value=10
@@ -286,7 +286,7 @@
 
 6213={ #
 	terrain="plains"
-	culture="pocono"
+	culture="deitsch"
 	religion="old_order"
 	trade_goods="leather"
 	civilization_value=10
@@ -312,7 +312,7 @@
 
 6215={ #
 	terrain="plains"
-	culture="pocono"
+	culture="deitsch"
 	religion="old_order"
 	trade_goods="clay"
 	civilization_value=10
@@ -364,7 +364,7 @@
 
 8449={ #Eldersburg
 	terrain="plains"
-	culture="deitsch"
+	culture="beltway"
 	religion="americanist"
 	trade_goods=""
 	civilization_value=10
@@ -377,7 +377,7 @@
 
 8450={ #Frederick
 	terrain="plains"
-	culture="deitsch"
+	culture="beltway"
 	religion="americanist"
 	trade_goods=""
 	civilization_value=10
@@ -468,7 +468,7 @@
 
 9587={ #
 	terrain="hills"
-	culture="pocono"
+	culture="deitsch"
 	religion="old_order"
 	trade_goods="cattle"
 	civilization_value=10

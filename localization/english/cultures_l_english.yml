@@ -106,7 +106,6 @@
  ## Texan ##
  texan:0 "Texan"
  tejano:0 "Tejano"
- texaner:0 "Texaner"
  estacadan:0 "Estacadan"
 
  ## Longhouse ##
@@ -164,8 +163,10 @@
  innu:0 "Innu"
  eeyou:0 "Eeeyou"
 
- ## Hermanndeutch ##
- hermanndeutch:0 "Hermanndeutch"
+ ## Deutschamerikaner ##
+ deutschamerikaner:0 "Deutschamerikaner"
+ hermanndeutsch:0 "Hermanndeutsch"
+ texaner:0 "Texaner"
  
 
  ## NAMING ##

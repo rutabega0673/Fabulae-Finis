@@ -362,7 +362,7 @@
 	}
 }
 
-1943={ #Centreville
+1943={ #Manassas
 	terrain="plains"
 	culture="beltway"
 	religion="americanist"
@@ -650,7 +650,7 @@
 
 3670={ #Airville
 	terrain="plains"
-	culture="deitsch"
+	culture="beltway"
 	religion="old_order"
 	trade_goods="grain"
 	civilization_value=10

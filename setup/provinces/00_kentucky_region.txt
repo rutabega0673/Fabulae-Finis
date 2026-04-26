@@ -339,7 +339,7 @@
 6210={ #
 	terrain="hills"
 	culture="riverlander"
-	religion="ophiolatry"
+	religion="americanist"
 	trade_goods="tubers"
 	civilization_value=10
 	barbarian_power=0
@@ -443,7 +443,7 @@
 7514={ #
 	terrain="plains"
 	culture="riverlander"
-	religion="ophiolatry"
+	religion="americanist"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -456,7 +456,7 @@
 7515={ #
 	terrain="plains"
 	culture="riverlander"
-	religion="ophiolatry"
+	religion="americanist"
 	trade_goods="vegetables"
 	civilization_value=10
 	barbarian_power=0
@@ -625,7 +625,7 @@
 8631={ #
 	terrain="plains"
 	culture="riverlander"
-	religion="ophiolatry"
+	religion="americanist"
 	trade_goods="tobacco"
 	civilization_value=10
 	barbarian_power=0
@@ -638,7 +638,7 @@
 8632={ #
 	terrain="plains"
 	culture="riverlander"
-	religion="ophiolatry"
+	religion="americanist"
 	trade_goods="vegetables"
 	civilization_value=10
 	barbarian_power=0

@@ -50,7 +50,7 @@
 	}
 }
 
-935={ #
+935={ #Smyth
 	terrain="mountain"
 	culture="appalachian"
 	religion="omenteller"
@@ -63,7 +63,7 @@
 	}
 }
 
-936={ #
+936={ #Pulaski
 	terrain="hills"
 	culture="appalachian"
 	religion="omenteller"
@@ -76,7 +76,7 @@
 	}
 }
 
-937={ #
+937={ #Galax
 	terrain="mountain"
 	culture="appalachian"
 	religion="omenteller"
@@ -336,7 +336,7 @@
 	}
 }
 
-6378={ #
+6378={ #Buchanan
 	terrain="hills"
 	culture="butternutter"
 	religion="hearthtender"
@@ -349,7 +349,7 @@
 	}
 }
 
-6379={ #
+6379={ #Tazewell
 	terrain="hills"
 	culture="butternutter"
 	religion="omenteller"
@@ -375,7 +375,7 @@
 	}
 }
 
-6434={ #
+6434={ #Luray
 	terrain="forest"
 	culture="appalachian"
 	religion="omenteller"
@@ -388,7 +388,7 @@
 	}
 }
 
-6435={ #
+6435={ #Harrisonburg
 	terrain="mountain"
 	culture="appalachian"
 	religion="omenteller"
@@ -401,7 +401,7 @@
 	}
 }
 
-6436={ #
+6436={ #Strasburg
 	terrain="mountain"
 	culture="appalachian"
 	religion="omenteller"
@@ -453,7 +453,7 @@
 	}
 }
 
-6523={ #
+6523={ #Lexington
 	terrain="mountain"
 	culture="appalachian"
 	religion="omenteller"
@@ -466,7 +466,7 @@
 	}
 }
 
-6524={ #
+6524={ #Staunton
 	terrain="mountain"
 	culture="appalachian"
 	religion="omenteller"
@@ -479,7 +479,7 @@
 	}
 }
 
-7352={ #
+7352={ #Big Stone Gap
 	terrain="hills"
 	culture="riverlander"
 	religion="omenteller"
@@ -492,7 +492,7 @@
 	}
 }
 
-7353={ #
+7353={ #Bristol
 	terrain="forest"
 	culture="riverlander"
 	religion="omenteller"
@@ -505,7 +505,7 @@
 	}
 }
 
-7354={ #
+7354={ #Lee
 	terrain="hills"
 	culture="riverlander"
 	religion="omenteller"
@@ -518,7 +518,7 @@
 	}
 }
 
-7355={ #
+7355={ #Scott
 	terrain="hills"
 	culture="riverlander"
 	religion="omenteller"
@@ -531,7 +531,7 @@
 	}
 }
 
-8832={ #
+8832={ #Roanoake
 	terrain="mountain"
 	culture="appalachian"
 	religion="omenteller"
@@ -544,7 +544,7 @@
 	}
 }
 
-8833={ #
+8833={ #Blacksburg
 	terrain="mountain"
 	culture="appalachian"
 	religion="omenteller"
@@ -557,7 +557,7 @@
 	}
 }
 
-8834={ #
+8834={ #Covington
 	terrain="forest"
 	culture="appalachian"
 	religion="omenteller"
