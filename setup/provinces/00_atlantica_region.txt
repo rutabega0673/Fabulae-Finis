@@ -729,9 +729,26 @@
 	trade_goods="marble"
 	civilization_value=10
 	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=1
+	province_rank="city_metropolis"
+	nobles=
+	{
+		amount=8
+	}
+	citizen=
+	{
+		amount=31
+	}
+	freemen=
+	{
+		amount=14
+	}
+	slaves=
+	{
+		amount=19
+	}
+	tribesmen=
+	{
+		amount=2
 	}
 }
 

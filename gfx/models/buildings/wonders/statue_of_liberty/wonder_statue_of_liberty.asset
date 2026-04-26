@@ -1,0 +1,19 @@
+pdxmesh = {
+	name = "statue_of_liberty_mesh"
+	file = "statue_of_liberty.mesh"
+
+	meshsettings = {
+		name = "statue_of_libertyShape"
+		index = 0
+		texture_diffuse = "statue_of_liberty_diffuse.dds"
+		texture_normal = "statue_of_liberty_normal.dds"
+		texture_specular = "statue_of_liberty_properties.dds"
+		shader = "standard_snow"
+		shader_file = "gfx/FX/pdxmesh.shader"
+	}
+}
+
+entity = {
+	name = "statue_of_liberty_entity"
+	pdxmesh = "statue_of_liberty_mesh"
+}
