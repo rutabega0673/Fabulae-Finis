@@ -1,0 +1,41 @@
+﻿# Statue of Liberty
+gw_effect_statue_of_liberty = {
+	icon = "gw_effect_for_the_masses"
+	
+	allow = {
+		always = no
+	}
+	great_work_tier_effect_modifiers = {
+		gw_effect_statue_of_liberty_tier_1 = {
+			great_work_effect_tier = gw_effect_tier_1
+			country_modifier = {
+				happiness_for_wrong_culture_group_modifier = 0.01
+				happiness_for_wrong_religion_modifier = 0.01
+			}
+		}
+		gw_effect_statue_of_liberty_tier_2 = {
+			great_work_effect_tier = gw_effect_tier_2
+			country_modifier = {
+				happiness_for_wrong_culture_group_modifier = 0.02
+				happiness_for_wrong_religion_modifier = 0.02
+			}
+		} 
+		gw_effect_statue_of_liberty_tier_3 = {
+			great_work_effect_tier = gw_effect_tier_3
+			country_modifier = {
+				happiness_for_wrong_culture_group_modifier = 0.03
+				happiness_for_wrong_religion_modifier = 0.03
+			}
+		} 
+		gw_effect_statue_of_liberty_tier_4 = {
+			great_work_effect_tier = gw_effect_tier_4
+			country_modifier = {
+				happiness_for_wrong_culture_group_modifier = 0.04
+				happiness_for_wrong_religion_modifier = 0.04
+			}
+			state_modifier = {
+				local_tax_modifier = 0.05
+			}
+		}
+	}
+}

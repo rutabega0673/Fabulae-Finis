@@ -52,7 +52,7 @@ great_work_manager={
 
 			great_work_effect_selections={
 				{
-					great_work_effect="gw_effect_omen_doctrine"
+					great_work_effect="gw_effect_statue_of_liberty"
 					great_work_effect_tier = "gw_effect_tier_4"
 				}
 			}
