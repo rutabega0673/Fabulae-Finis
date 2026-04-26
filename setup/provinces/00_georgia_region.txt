@@ -118,7 +118,7 @@
 1563={ #
 	terrain="farmland"
 	culture="atlantean"
-	religion="evangelical"
+	religion="americanist"
 	trade_goods="cloth"
 	civilization_value=10
 	barbarian_power=0

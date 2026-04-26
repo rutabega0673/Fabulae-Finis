@@ -313,7 +313,7 @@
 5250={ #
 	terrain="hills"
 	culture="ozark"
-	religion="catholic"
+	religion="americanist"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0

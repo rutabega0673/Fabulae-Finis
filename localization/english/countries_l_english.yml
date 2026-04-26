@@ -12,10 +12,12 @@
  # GERMANIC:0 ""
  #:0 ""
  ## East Coast ##
- PRI:0 "The Presidency"
- PRI_ADJ:0 "Presidental"
+ PRI:0 "The United States"
+ PRI_ADJ:0 "American"
  NYC:0 "New York"
  NYC_ADJ:0 "New Yorker"
+ DEL:0 "Delmarva"
+ DEL_ADJ:0 "Delmarvan"
 
  ## Midwest ##
  IWA:0 "Iowan Kingdom"

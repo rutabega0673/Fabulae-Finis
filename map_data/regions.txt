@@ -109,13 +109,13 @@ tenessee_region = { #6
 kanawha_region = { #6
 	color = rgb { 122 76 66 }
 	areas = {
-		charleston_area bristol_area lewisburg_area wheeling_area martinsburg_area frostburg_area galax_area
+		charleston_area bristol_area lewisburg_area wheeling_area frostburg_area
 	}
 }
 virginia_region = { #4
 	color = rgb { 186 165 134 }
 	areas = {
-		fredericksburg_area richmond_area keysville_area smithfield_area
+		fredericksburg_area richmond_area keysville_area smithfield_area martinsburg_area galax_area
 	}
 }
 tarheel_region = { #8
