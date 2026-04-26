@@ -148,3 +148,33 @@ magnolia_region = { #7
 		biloxi_area natchez_area vicksburg_area jackson_ms_area tupelo_area livingston_area central_magnolia_area
 	}
 }
+lwizyan_region = { 
+	color = rgb { 53 119 150 }
+	areas = {
+		new_orleans_area lafayette_area baton_rouge_area monterey_area ouachita_area kisatchie_area
+	}
+}
+ozarks_region = { 
+	color = rgb { 71 179 76 }
+	areas = {
+		ozarks_area arkansas_area oklahoma_area hope_area timberlands_area delta_area tulsa_area
+	}
+}
+kansas_region = { #10
+	color = rgb { 168 77 109 }
+	areas = {
+		kansas_area beatrice_area creighton_area wichita_area fredonia_area great_bend_area garden_city_area ogallala_area omaha_area north_platte_area
+	}
+}
+dakotas_region = { #9
+	color = rgb { 194 21 78 }
+	areas = {
+		sioux_falls_area yankton_area minot_area fargo_area bismarck_area crosby_area little_badlands_area pierre_area badlands_area
+	}
+}
+old_star_region = { #10
+	color = rgb { 162 72 89 }
+	areas = {
+		texarkana_area east_texas_area victoria_area waco_area austin_area houston_area east_texas_area marlin_area paris_area texarkana_area nacogodoches_area college_station_area
+	}
+}
