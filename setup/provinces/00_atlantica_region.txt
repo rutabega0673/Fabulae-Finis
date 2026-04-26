@@ -1,6 +1,6 @@
-﻿82={ #
+﻿82={ #Danbury
 	terrain="plains"
-	culture="bayfolk"
+	culture="gothamite"
 	religion="americanist"
 	trade_goods="honey"
 	civilization_value=10
@@ -15,7 +15,7 @@
 	terrain="farmland"
 	culture="gothamite"
 	religion="americanist"
-	trade_goods=""
+	trade_goods="hemp"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -26,9 +26,9 @@
 
 84={ #Bridgeport
 	terrain="farmland"
-	culture="bayfolk"
+	culture="gothamite"
 	religion="americanist"
-	trade_goods=""
+	trade_goods="grain"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -41,7 +41,7 @@
 	terrain="plains"
 	culture="gothamite"
 	religion="americanist"
-	trade_goods=""
+	trade_goods="grain"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -54,7 +54,7 @@
 	terrain="plains"
 	culture="gothamite"
 	religion="americanist"
-	trade_goods=""
+	trade_goods="hemp"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -78,9 +78,9 @@
 
 312={ #Brookhaven
 	terrain="forest"
-	culture="bayfolk"
+	culture="gothamite"
 	religion="americanist"
-	trade_goods=""
+	trade_goods="tubers"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -93,7 +93,7 @@
 	terrain="plains"
 	culture="bayfolk"
 	religion="americanist"
-	trade_goods=""
+	trade_goods="fish"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -104,9 +104,9 @@
 
 314={ #Riverhead
 	terrain="plains"
-	culture="bayfolk"
+	culture="gothamite"
 	religion="americanist"
-	trade_goods=""
+	trade_goods="fish"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -119,7 +119,7 @@
 	terrain="plains"
 	culture="gothamite"
 	religion="americanist"
-	trade_goods=""
+	trade_goods="earthware"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -145,7 +145,7 @@
 	terrain="forest"
 	culture="gothamite"
 	religion="americanist"
-	trade_goods=""
+	trade_goods="horses"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -158,7 +158,7 @@
 	terrain="plains"
 	culture="gothamite"
 	religion="americanist"
-	trade_goods=""
+	trade_goods="papyrus"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -171,7 +171,7 @@
 	terrain="plains"
 	culture="gothamite"
 	religion="americanist"
-	trade_goods=""
+	trade_goods="wood"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -182,7 +182,7 @@
 
 536={ #Salisbury
 	terrain="forest"
-	culture="southron"
+	culture="youser"
 	religion="americanist"
 	trade_goods="wood"
 	civilization_value=10
@@ -197,7 +197,7 @@
 	terrain="marsh"
 	culture="youser"
 	religion="americanist"
-	trade_goods=""
+	trade_goods="fish"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -223,7 +223,7 @@
 	terrain="plains"
 	culture="youser"
 	religion="americanist"
-	trade_goods=""
+	trade_goods="cloth"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -236,7 +236,7 @@
 	terrain="plains"
 	culture="youser"
 	religion="americanist"
-	trade_goods=""
+	trade_goods="fish"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -262,7 +262,7 @@
 	terrain="plains"
 	culture="youser"
 	religion="americanist"
-	trade_goods=""
+	trade_goods="shells"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -275,33 +275,7 @@
 	terrain="plains"
 	culture="youser"
 	religion="americanist"
-	trade_goods=""
-	civilization_value=10
-	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=1
-	}
-}
-
-1691={ #
-	terrain="hills"
-	culture="pocono"
-	religion="americanist"
-	trade_goods="wild_game"
-	civilization_value=10
-	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=1
-	}
-}
-
-1692={ #
-	terrain="plains"
-	culture="pocono"
-	religion="americanist"
-	trade_goods=""
+	trade_goods="glass"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -314,7 +288,7 @@
 	terrain="plains"
 	culture="youser"
 	religion="americanist"
-	trade_goods=""
+	trade_goods="leather"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -325,9 +299,9 @@
 
 1705={ #Christiania
 	terrain="plains"
-	culture="beltway"
+	culture="youser"
 	religion="americanist"
-	trade_goods=""
+	trade_goods="fish"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -340,7 +314,7 @@
 	terrain="forest"
 	culture="youser"
 	religion="americanist"
-	trade_goods=""
+	trade_goods="cattle"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -388,11 +362,63 @@
 	}
 }
 
+1943={ #Centreville
+	terrain="plains"
+	culture="beltway"
+	religion="americanist"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+1944={ #Woodbridge
+	terrain="marsh"
+	culture="beltway"
+	religion="americanist"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+2089={ #Pocomoke City
+	terrain="forest"
+	culture="youser"
+	religion="americanist"
+	trade_goods="fish"
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+2090={ #Exemore
+	terrain="marsh"
+	culture="southron"
+	religion="americanist"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
 2361={ #Mount Laurel
 	terrain="farmland"
 	culture="youser"
 	religion="americanist"
-	trade_goods=""
+	trade_goods="leather"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -405,7 +431,7 @@
 	terrain="forest"
 	culture="youser"
 	religion="americanist"
-	trade_goods=""
+	trade_goods="wood"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -444,7 +470,7 @@
 	terrain="plains"
 	culture="gothamite"
 	religion="americanist"
-	trade_goods=""
+	trade_goods="stone"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -457,33 +483,7 @@
 	terrain="plains"
 	culture="gothamite"
 	religion="americanist"
-	trade_goods=""
-	civilization_value=10
-	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=1
-	}
-}
-
-2698={ #
-	terrain="plains"
-	culture="hudsonian"
-	religion="americanist"
-	trade_goods=""
-	civilization_value=10
-	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=1
-	}
-}
-
-2699={ #
-	terrain="plains"
-	culture="hudsonian"
-	religion="americanist"
-	trade_goods=""
+	trade_goods="earthware"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -496,7 +496,7 @@
 	terrain="plains"
 	culture="youser"
 	religion="americanist"
-	trade_goods=""
+	trade_goods="marble"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -583,50 +583,11 @@
 	}
 }
 
-3239={ #Lebanon
-	terrain="hills"
-	culture="deitsch"
-	religion="old_order"
-	trade_goods=""
-	civilization_value=10
-	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=1
-	}
-}
-
-3240={ #Hershey
-	terrain="hills"
-	culture="deitsch"
-	religion="old_order"
-	trade_goods="wine"
-	civilization_value=10
-	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=1
-	}
-}
-
-3241={ #Lancaster
-	terrain="plains"
-	culture="deitsch"
-	religion="old_order"
-	trade_goods=""
-	civilization_value=10
-	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=2
-	}
-}
-
-3425={ #
+3425={ #New Milford
 	terrain="forest"
 	culture="vermonter"
 	religion="americanist"
-	trade_goods=""
+	trade_goods="grain"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -635,11 +596,11 @@
 	}
 }
 
-3426={ #
+3426={ #West Torrington
 	terrain="forest"
 	culture="vermonter"
 	religion="americanist"
-	trade_goods=""
+	trade_goods="cattle"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -648,7 +609,7 @@
 	}
 }
 
-3505={ #
+3505={ #Guilford
 	terrain="plains"
 	culture="bayfolk"
 	religion="americanist"
@@ -661,7 +622,7 @@
 	}
 }
 
-3506={ #
+3506={ #Waterbury
 	terrain="plains"
 	culture="bayfolk"
 	religion="americanist"
@@ -674,37 +635,11 @@
 	}
 }
 
-3507={ #
+3507={ #New Haven
 	terrain="plains"
 	culture="bayfolk"
 	religion="americanist"
-	trade_goods=""
-	civilization_value=10
-	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=1
-	}
-}
-
-3668={ #York
-	terrain="plains"
-	culture="deitsch"
-	religion="old_order"
-	trade_goods=""
-	civilization_value=10
-	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=1
-	}
-}
-
-3669={ #New Freedom
-	terrain="plains"
-	culture="deitsch"
-	religion="old_order"
-	trade_goods=""
+	trade_goods="cattle"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -717,7 +652,7 @@
 	terrain="plains"
 	culture="deitsch"
 	religion="old_order"
-	trade_goods=""
+	trade_goods="grain"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -743,7 +678,7 @@
 	terrain="farmland"
 	culture="youser"
 	religion="americanist"
-	trade_goods=""
+	trade_goods="grain"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -792,19 +727,37 @@
 	culture="gothamite"
 	religion="americanist"
 	trade_goods="marble"
-	civilization_value=10
+	civilization_value=35
 	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
+	province_rank="city"
+	nobles={
 		amount=1
 	}
+	nobles={
+		religion="catholic"
+		amount=1
+	}
+	citizen={
+		religion="catholic"
+		amount=2
+	}
+	citizen={
+		amount=5
+	}
+	freemen={
+		amount=17
+	}
+	slaves={
+		amount=7
+	}
+	port_building=1
 }
 
 4490={ #Cherry Hill
 	terrain="plains"
 	culture="youser"
 	religion="americanist"
-	trade_goods=""
+	trade_goods="fruits"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -817,7 +770,7 @@
 	terrain="plains"
 	culture="youser"
 	religion="americanist"
-	trade_goods=""
+	trade_goods="fruits"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -830,7 +783,7 @@
 	terrain="forest"
 	culture="youser"
 	religion="americanist"
-	trade_goods=""
+	trade_goods="wood"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -839,7 +792,7 @@
 	}
 }
 
-4628={ #
+4628={ #Mansfield
 	terrain="plains"
 	culture="bayfolk"
 	religion="gothic"
@@ -852,50 +805,11 @@
 	}
 }
 
-4921={ #
-	terrain="plains"
-	culture="hudsonian"
-	religion="americanist"
-	trade_goods=""
-	civilization_value=10
-	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=1
-	}
-}
-
-4922={ #
-	terrain="plains"
-	culture="hudsonian"
-	religion="americanist"
-	trade_goods=""
-	civilization_value=10
-	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=1
-	}
-}
-
-4923={ #
-	terrain="hills"
-	culture="hudsonian"
-	religion="americanist"
-	trade_goods=""
-	civilization_value=10
-	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=1
-	}
-}
-
-5237={ #
+5237={ #New Britain
 	terrain="plains"
 	culture="bayfolk"
 	religion="americanist"
-	trade_goods=""
+	trade_goods="cloth"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -904,7 +818,7 @@
 	}
 }
 
-5238={ #
+5238={ #Manchester
 	terrain="plains"
 	culture="bayfolk"
 	religion="americanist"
@@ -917,11 +831,11 @@
 	}
 }
 
-5239={ #
+5239={ #Hartford
 	terrain="forest"
 	culture="vermonter"
 	religion="americanist"
-	trade_goods=""
+	trade_goods="grain"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -930,10 +844,23 @@
 	}
 }
 
-5240={ #
+5240={ #Bristol
 	terrain="plains"
 	culture="vermonter"
 	religion="americanist"
+	trade_goods="cattle"
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+5279={ #Germantown
+	terrain="plains"
+	culture="beltway"
+	religion="americanist"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -943,10 +870,75 @@
 	}
 }
 
-5420={ #Hoquiam
-	terrain="forest"
-	culture=""
-	religion="mayan_pantheon"
+5281={ #Leesburg
+	terrain="plains"
+	culture="beltway"
+	religion="americanist"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+5483={ #Bethesda
+	terrain="marsh"
+	culture="beltway"
+	religion="americanist"
+	trade_goods="salt"
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+5484={ #Anacostia
+	terrain="marsh"
+	culture="beltway"
+	religion="americanist"
+	trade_goods="vegetables"
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+5485={ #Washington D.C.
+	terrain="marsh"
+	culture="beltway"
+	religion="americanist"
+	trade_goods="marble"
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+5486={ #Arlington
+	terrain="marsh"
+	culture="beltway"
+	religion="americanist"
+	trade_goods="marble"
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+5765={ #Waldorf
+	terrain="marsh"
+	culture="beltway"
+	religion="americanist"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -969,9 +961,22 @@
 	}
 }
 
+5767={ #Chesapeake Beach
+	terrain="marsh"
+	culture="beltway"
+	religion="americanist"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
 5853={ #Cambridge
 	terrain="marsh"
-	culture="southron"
+	culture="youser"
 	religion="americanist"
 	trade_goods="rice"
 	civilization_value=10
@@ -984,7 +989,7 @@
 
 5854={ #Easton
 	terrain="plains"
-	culture="southron"
+	culture="youser"
 	religion="americanist"
 	trade_goods=""
 	civilization_value=10
@@ -997,7 +1002,7 @@
 
 5855={ #Chestertown
 	terrain="plains"
-	culture="beltway"
+	culture="youser"
 	religion="americanist"
 	trade_goods="honey"
 	civilization_value=10
@@ -1012,7 +1017,7 @@
 	terrain="plains"
 	culture="gothamite"
 	religion="americanist"
-	trade_goods=""
+	trade_goods="dye"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -1034,11 +1039,11 @@
 	}
 }
 
-6113={ #
+6113={ #Willimantic
 	terrain="plains"
 	culture="bayfolk"
 	religion="americanist"
-	trade_goods=""
+	trade_goods="grain"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -1051,7 +1056,7 @@
 	terrain="plains"
 	culture="pocono"
 	religion="americanist"
-	trade_goods=""
+	trade_goods="wood"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -1064,33 +1069,7 @@
 	terrain="plains"
 	culture="youser"
 	religion="americanist"
-	trade_goods=""
-	civilization_value=10
-	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=1
-	}
-}
-
-6681={ #
-	terrain="hills"
-	culture="hudsonian"
-	religion="americanist"
-	trade_goods=""
-	civilization_value=10
-	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=1
-	}
-}
-
-7031={ #
-	terrain="hills"
-	culture="vermonter"
-	religion="americanist"
-	trade_goods=""
+	trade_goods="wood"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -1101,7 +1080,7 @@
 
 7135={ #Oxford
 	terrain="hills"
-	culture="beltway"
+	culture="youser"
 	religion="americanist"
 	trade_goods="tobacco"
 	civilization_value=10
@@ -1116,7 +1095,7 @@
 	terrain="hills"
 	culture="youser"
 	religion="americanist"
-	trade_goods=""
+	trade_goods="cattle"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -1129,7 +1108,7 @@
 	terrain="plains"
 	culture="youser"
 	religion="americanist"
-	trade_goods=""
+	trade_goods="leather"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -1142,7 +1121,7 @@
 	terrain="plains"
 	culture="gothamite"
 	religion="americanist"
-	trade_goods=""
+	trade_goods="spices"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -1151,113 +1130,9 @@
 	}
 }
 
-7968={ #
+8448={ #Gaithersburg
 	terrain="plains"
-	culture="pocono"
-	religion="americanist"
-	trade_goods=""
-	civilization_value=10
-	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=1
-	}
-}
-
-7969={ #
-	terrain="plains"
-	culture="gothamite"
-	religion="americanist"
-	trade_goods=""
-	civilization_value=10
-	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=1
-	}
-}
-
-7970={ #
-	terrain="plains"
-	culture="hudsonian"
-	religion="americanist"
-	trade_goods="honey"
-	civilization_value=10
-	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=1
-	}
-}
-
-7971={ #
-	terrain="plains"
-	culture="hudsonian"
-	religion="americanist"
-	trade_goods=""
-	civilization_value=10
-	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=1
-	}
-}
-
-8637={ #
-	terrain="hills"
-	culture="deitsch"
-	religion="old_order"
-	trade_goods=""
-	civilization_value=10
-	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=1
-	}
-}
-
-8638={ #Reading
-	terrain="hills"
-	culture="youser"
-	religion="americanist"
-	trade_goods="iron"
-	civilization_value=10
-	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=1
-	}
-}
-
-8639={ #Allentown
-	terrain="hills"
-	culture="youser"
-	religion="americanist"
-	trade_goods="iron"
-	civilization_value=10
-	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=1
-	}
-}
-
-9420={ #
-	terrain="plains"
-	culture="hudsonian"
-	religion="americanist"
-	trade_goods=""
-	civilization_value=10
-	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=1
-	}
-}
-
-9421={ #
-	terrain="hills"
-	culture="hudsonian"
+	culture="beltway"
 	religion="americanist"
 	trade_goods=""
 	civilization_value=10
@@ -1272,7 +1147,7 @@
 	terrain="plains"
 	culture="youser"
 	religion="americanist"
-	trade_goods=""
+	trade_goods="wine"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -1285,7 +1160,7 @@
 	terrain="plains"
 	culture="youser"
 	religion="americanist"
-	trade_goods=""
+	trade_goods="dye"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -1298,20 +1173,7 @@
 	terrain="farmland"
 	culture="youser"
 	religion="americanist"
-	trade_goods=""
-	civilization_value=10
-	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=1
-	}
-}
-
-9588={ #Bethlehem
-	terrain="hills"
-	culture="youser"
-	religion="americanist"
-	trade_goods=""
+	trade_goods="cattle"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"

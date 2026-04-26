@@ -14,6 +14,7 @@ country = {
 				military_tech={ level=2 progress=0 }
 				civic_tech={ level=2 progress=0 }
 				religious_tech= { level=2 progress=0  }
+				oratory_tech= { level=2 progress =0 }
 			}
 
 			own_control_core = {
@@ -24,17 +25,44 @@ country = {
 		NYC = {
 			government = plutocratic_republic
 			primary_culture = gothamite
-			religion = americanist
+			religion = guruist
 			capital = 4381 
 
 			technology={
 				military_tech={ level=2 progress=0 }
 				civic_tech={ level=2 progress=0 }
 				religious_tech= { level=2 progress=0  }
+				oratory_tech= { level=2 progress =0 }
 			}
 
 			own_control_core = {
 				4381 2440 2441 2441 2622 2442
+			}
+		}
+
+		IWA = {
+			government = despotic_monarchy
+			primary_culture = heartlander
+			religion = lutheran
+			capital = 1857 
+
+			technology={
+				military_tech={ level=1 progress=0 }
+				civic_tech={ level=1 progress=0 }
+				religious_tech= { level=1 progress=0  }
+				oratory_tech= { level=1 progress =0 }
+			}
+
+			own_control_core = {
+				1945 1946 1855 1857 801 9369 1856 1947 #des moines area
+				9368 9367 8330 8331 8332 8329
+				4520 8167 6427 6428 1182 4521 8568
+				4592 6398 5627 5626 868 869 5628 4593 867 866
+				8219 8218 8220 8165 8166 7558 7557 7559
+				1908 1910 1477 1909 1479 1476 
+				8569 4519 8172 8173 8171 4591 6399 8567
+				1907 329 1184
+				9450 9452 9451 802 800 5447 5445 3874 5446 6798 6800 6799
 			}
 		}
 	}

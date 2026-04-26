@@ -1,8 +1,8 @@
 ﻿philadelphia_area = { #10
-	provinces = { 4077 1708 3710 3709 9588 8639 3708 1706 8638 8637}
+	provinces = { 4077 3708 3710 3709 1706 1708 1707 1704 1705 7136 7135}
 }
 lancaster_area = { #8
-	provinces = { 1704 1705 1707 7136 7135 3241 3239 }
+	provinces = { 3239 8637 8638 8639 9588 3241 9587 3286 3285 3240 }
 }
 south_jersey_area = { #12
 	provinces = { 4491 9524 9525 9523 744 745 746 4492 4490 2362 2361 1543 1544 }
@@ -17,10 +17,10 @@ new_york_area = { #12
 	provinces = { 4381 83 2622 2442 2441 2440 94 95 93 312 314 313 }
 }
 baltimore_area = { #11
-	provinces = { 3183 3670 3668 3669 3186 3185 3184 5766 5855 5854 5853 8449 }
+	provinces = { 3183 3670 3186 3185 3184 5766 5855 5854 5853 }
 }
 connecticut_area = { #14
-	provinces = { 82 84 3507 3506 3425 3426 5420 5239 5237 3505 6113 4628 5238 5240}
+	provinces = { 82 84 3507 3506 3425 3426 5239 5237 3505 6113 4628 5238 5240}
 }
 rhode_island_area = { #7
 	provinces = { 4627 6112 6114 6222 6223 6224 6225 }
@@ -44,7 +44,7 @@ poughkeepsie_area = { #14
 	provinces = { 2698 2699 7031 4923 4921 4922 }
 }
 chicago_area = { 
-	provinces = { 7317 2513 2512 2514 2229 2234 2233 8806 226 2232 2231 8758  }
+	provinces = { 7317 2513 2512 2514 2229 2234 2233 226 2232 2231 8758  }
 }
 rockford_area = { 
 	provinces = { 8755 8756 2230 8757 9514 9513 9512 9511 }
@@ -68,7 +68,7 @@ limestone_area = {
 	provinces = { 223 225 224 9481 9484 }
 }
 bloomington_area = { 
-	provinces = { 4195 4684 7547 7546 7548 7547 9482 4194 7545 }
+	provinces = { 4195 4684 7547 7546 7548 9482 4194 7545 }
 }
 saint_louis_area = { 
 	provinces = { 4206 3651 3650 3652 6338 6336 4207 4308 2957 4208 }
@@ -95,7 +95,7 @@ terre_haute_area = {
 	provinces = { 7373 9451 9452 802 800 5447 5445 9450 }
 }
 des_moines_area = { 
-	provinces = { 1945 1946 1855 1857 801 9369 1856 1855 1947 }
+	provinces = { 1945 1946 1855 1857 801 9369 1856 1947 }
 }
 dubuque_area = { 
 	provinces = { 4520 8167 6427 6428 1182 4521 8568 }
@@ -140,7 +140,7 @@ lansing_area = {
 	provinces = { 7779 11662 6093 7776 6094 560 562 6092 6091   }
 }
 kalamazoo_area = { 
-	provinces = { 563 110 112 111 561 8952 5991 8953 5992  }
+	provinces = { 563 110 112 561 8952 5991 8953 5992  }
 }
 mount_pleasant_area = { 
 	provinces = { 1313 1311 1314 1315 5993 5990 7778 4613 1312 }
@@ -155,38 +155,359 @@ upstate_area = {
 	provinces = { 9362 9361 9360 5619 5192 5620 5193 5618 5191 }
 }
 buffalo_area = { 
-	provinces = { 8592 8590 8591 8593 6595 2790 2479 2478 2477 6593 6594 2791 }
+	provinces = { 8592 8590 8591 8593 6595 2790 2479 2478 2477 6593 6594 2791 2789 }
 }
 finger_lakes_area = { 
-	provinces = { 2480 612 615 613 614 5777 5776 7053 6054 7054 7052 6055 2789 6056 6057 }
+	provinces = { 2480 612 615 613 614 5777 5776 7053 6054 7054 7052 6055 6056 6057 }
 }
 syracuse_area = { 
 	provinces = { 6853 3103 3104 3105 1759 6852 6850 6851 }
 }
 otsego_area = { 
-	provinces = { 3372 1690 9490 9489 9488 8565 8566 203 3373 3371 }
+	provinces = { 3372 1690 9490 9489 9488 8565 8566 203 3373 }
 }
 central_ny_area = { 
 	provinces = { 1760 1762 1761 1758 204 3470 5713 2312 2314 }
 }
 washington_dc_area = { 
-	provinces = { 5485 5483 5486 5484 5765 5767 8448 5279 5279 5280 8450 }
+	provinces = { 5485 5483 5486 5484 5765 5767 8448 5279 5281 1943 1944 }
 }
 dutchland_area = { 
-	provinces = { 7723 7722 7721 2096 1062 2094 2095 2097 9331 3285 3240 }
+	provinces = { 2096 1062 2094 2095 2097 9331 }
+}
+harrisburg_area = { 
+	provinces = { 7723 7721 7722 3668 3669 8449 8450 5280  }
 }
 williamsport_area = { 
 	provinces = { 9332 9333 3287 6215 5493 5459 5494 }
 }
 scranton_area = { 
-	provinces = { 3286 9587 6213 9589 6214 3796 5495 5496 3795}
+	provinces = { 6213 9589 6214 3796 5495 5496 3795 3371 }
 }
 shiloh_area = { 
-	provinces = { 5461 5463 5462 3745 3746 4984 5912 5460 }
+	provinces = { 5461 5912 11656 5913 }
 }
 panhandle_area = { 
 	provinces = { 4955 1668 1667 1669 380 6171 6172 6170 381 379 }
 }
 tallahassee_area = { 
-	provinces = { 6999 6998 7000 6997 6996 1713 9101 1713 1714 1715 9100 }
+	provinces = { 6999 6998 7000 6997 6996 1713 9101 1714 1715 9100 }
+}
+norflo_area = { 
+	provinces = { 9102 1191 11932 1190 6756 6757 11934 5458 9630 9631 }
+}
+st_augustine_area = { 
+	provinces = { 11931 1189 7315 11933 7316 7314 9492 11940 7644 }
+}
+soflo_area = { 
+	provinces = { 4201 4202 3275 11946 5352 5353 3274 3140 11945 3141 9491 }
+}
+everglades_area = { 
+	provinces = { 4589 2901 2900 4590 241 243 3965 }
+}
+disneyland_area = { 
+	provinces = { 7647 7646 7645 7643 11942 6612 3967 6613 3966 11941 }
+}
+tampa_bay_area = { 
+	provinces = { 11935 11936 4817 4816 11937 4818 11938 5457 4819  }
+}
+fort_meyers_area = { 
+	provinces = { 11944 11943 244 242 11939 4815 4814  }
+}
+duluth_area = { 
+	provinces = { 2711 1306 1305 1304 2710 2713 2712 7453 7455 }
+}
+ironwood_area = { 
+	provinces = { 1097 7452 7451 2457 1740 2458 1739 1741 2456 }
+}
+marquette_area = { 
+	provinces = { 8060 8059 9272 9271 9273 772 8323 771 6289 6288 8324 }
+}
+thunder_bay_area = { 
+	provinces = { 9517 9519 9392 9391 9393 9394 5905 9390 5906 5907 6728 1317 }
+}
+marathon_area = { 
+	provinces = { 1318 6727 6730 1316 6117 6115 6116 1038 3030 6729 }
+}
+sault_ste_marie_area = { 
+	provinces = { 640 639 6649 1037 1036 3032 5111 6648 6647 638 5109 5110 }
+}
+north_ontario_area = { 
+	provinces = { 3031 6608 6607 6606 6108 6109 6110 }
+}
+milauwkee_area = { 
+	provinces = { 1125 1124 1127 1126 4014 4016 5124 }
+}
+madison_area = { 
+	provinces = { 4946 4947 4949 4948 7521 2568 2567 7522 }
+}
+la_crosse_area = { 
+	provinces = { 2082 2083 2084 3408 7520 3407 3409 7523 572 4699 4698 }
+}
+green_bay_area = { 
+	provinces = { 3831 3829 3830 7026 7024 7025 4015 }
+}
+oshkosh_area = { 
+	provinces = { 5121 5123 5122 573 575 2566 574 8850 }
+}
+river_falls_area = { 
+	provinces = { 3993 2085 3994 3996 1096 1098 3995 1095 }
+}
+eau_claire_area = { 
+	provinces = { 2024 2025 11734 2027 2026 4700 7916 7918 7917 7919 }
+}
+menominee_area = { 
+	provinces = { 6283 6282 8849 8851 6281 11889 8848 8847 4697}
+}
+winona_area = { 
+	provinces = { 1183 1184 329 328 327 1907 }
+}
+mankato_area = { 
+	provinces = { 1908 1910 1477 1909 1479 1476 1478 }
+}
+the_cities_area = { 
+	provinces = { 8024 7077 8150 8407 8405 8026 8025 8406 }
+}
+saint_cloud_area = { 
+	provinces = { 8151 8149 70 69 68 8648 239 }
+}
+moorhead_area = { 
+	provinces = { 1753 1752 1754 1755 8649 8374 8372 7343 5677 5675 5676 }
+}
+bemidji_area = { 
+	provinces = { 7344 8647 237 240 238 7342 8308 8307 8373 3937 }
+}
+pine_city_area = { 
+	provinces = { 3558 3556 3557 3555 7074 7075 7076 }
+}
+boundary_waters_area = { 
+	provinces = { 7454 8306 3939 3938 7456 9518 }
+}
+gary_area = { 
+	provinces = { 8807 8808 111 11635 2303 2305 8806 }
+}
+monticello_area = { 
+	provinces = { 268 2223 2225 269 267 2224 }
+}
+huntington_area = { 
+	provinces = { 2304 5312 5313 11654 11653 5310 5311 }
+}
+muncie_area = { 
+	provinces = { 5476 5478 11655 5477 3349 11639 11641 }
+}
+indianapolis_area = { 
+	provinces = { 7748 11661 7751 6758 6760 7750 11660 7749 6759 }
+}
+vincennes_area = { 
+	provinces = { 270 6587 6589 6588 4432 4431 4433 }
+}
+evansville_area = { 
+	provinces = { 3762 3763 11645 3760 3761 181 184 185 }
+}
+seymour_area = { 
+	provinces = { 180 183 5697 5696 5698 11640 3350 11638  }
+}
+columbus_area = { 
+	provinces = { 4275 9170 8970 8969 6585 3348 6583 6586 }
+}
+cincinatti_area = { 
+	provinces = { 414 415 2404 2402 2403 2405 416 11636 4273 4276 4274 2406 }
+}
+wheelersburg_area = { 
+	provinces = { 9549 9550 9551 7838 7839 }
+}
+sylvania_area = { 
+	provinces = { 8743 8742 8744 6630 6629 6631 11658 6632 5274 5272 }
+}
+the_reserve_area = { 
+	provinces = { 5271 7495 7496 7497 7498 8966 5273 3464 }
+}
+zanes_tracts_area = { 
+	provinces = { 2954 2955 3462 11643 3463 6584 11657 3465 2956 11642 }
+}
+mansfield_area = { 
+	provinces = { 1522 1521 1523 8971 9169 9171 9168 }
+}
+new_martinsville_area = { 
+	provinces = { 8613 8615 8616 8611 793 7840 8614 8612 }
+}
+beaverland_area = { 
+	provinces = { 11652 11644 11646 4983 4984 3746 3745 5463 5460 5462}
+}
+erie_area = { 
+	provinces = { 3776 3774 3773 3775 4013 4012 8967 8968 794}
+}
+pittsburgh_area = { 
+	provinces = { 9038 9035 9037 4011 11648 8771 8769 8770 9036 2007 11664 795 }
+}
+wheeling_area = { 
+	provinces = { 2005 2006 11663 6148 6147 }
+}
+louisville_area = { 
+	provinces = { 7514 7515 7687 7516 8632 7175 7177 7688 }
+}
+henderson_area = { 
+	provinces = { 6211 6210 8631 8633 6212 4619 4618 5386 }
+}
+bowling_green_area = { 
+	provinces = { 4617 5385 5388 5387 7178 7176 7174 4078 }
+}
+somerset_area = { 
+	provinces = { 4079 4080 7689 4404 4406 4405 4407 7773 7775 }
+}
+lexington_area = { 
+	provinces = { 2825 7686 2824 7812 7811 7813 4959 4968 4960 4958 }
+}
+pikeville_area = { 
+	provinces = { 3067 3066 3065 3068 7774 7772 2547 2548 }
+}
+paducah_area = { 
+	provinces = { 1012 1013 6154 1014 9042 9043 6153 6151  }
+}
+memphis_area = { 
+	provinces = { 335 334 6152 9045 9044 337 336  }
+}
+nashville_area = { 
+	provinces = { 642 3249 4620 5667 3251 7027 7030 644 641 643 3250 }
+}
+huntsville_area = { 
+	provinces = { 5668 5330 5669 7028 5331 5329 5332 7029 1850 9580 }
+}
+chattanooga_area = { 
+	provinces = { 5886 1851 5885 5887 1852 9578 9579 2072 2074 2073 }
+}
+kingsport_area = { 
+	provinces = { 1732 1730 1731 1729 7534 }
+}
+charleston_area = { 
+	provinces = { 2550 2549 2551 2633 6507 2865 2632 2634 6149 }
+}
+bristol_area = { 
+	provinces = { 7354 7355 7352 6378 6379 7353 6380 }
+}
+lewisburg_area = { 
+	provinces = { 6506 6508 2866 6150 2864 2863  }
+}
+martinsburg_area = { 
+	provinces = { 1060 1061 1063 6436 6434 6435 6524 }
+}
+frostburg_area = { 
+	provinces = { 9520 9249 679 678 835 9250 834 }
+}
+galax_area = { 
+	provinces = { 935 937 936 8833 8832 6523 8834 }
+}
+fredericksburg_area = { 
+	provinces = { 6952 1942 3151 1941 3150 6953 6954 5802 5801 3152 }
+}
+richmond_area = { 
+	provinces = { 5068 6955 5066 5063 5064 5067 1608 1605 1607 1763 1606 5065 1765 1764 }
+}
+keysville_area = { 
+	provinces = { 9584 1766 1767 8684 8685 9583 8683 8682 9581 9582 }
+}
+smithfield_area = { 
+	provinces = { 5800 6140 5803 6138 6139 2002 2003 2004 2001 }
+}
+ahoskie_area = { 
+	provinces = { 8019 8602 8601 3365 2063 8021 8020 }
+}
+raleigh_area = { 
+	provinces = { 7932 2044 3683 3684 7389 7391 2042 2043 7392 8890 7390 3685 }
+}
+new_bern_area = { 
+	provinces = { 3366 5172 5171 3877 4522 5170 3367 2064 }
+}
+fayettville_area = { 
+	provinces = { 7988 2729 2726 2728 2727 7991 4356 4357 4358 3876  }
+}
+fort_bragg_area = { 
+	provinces = { 7989 7992 7993 6979 6981 8888 8889 8891 7990 }
+}
+charlotte_area = { 
+	provinces = { 2504 2502 6978 6980 2505 2503 4610 4609 3861 4611 }
+}
+salisbury_area = { 
+	provinces = { 1897 1893 1895 1894 1896 3862 6687 3863 6688 6686 }
+}
+smokey_mountains_area = { 
+	provinces = { 6120 6119 6118 5695 2168 2167 5692 5694 5693 }
+}
+myrtle_beach_area = { 
+	provinces = { 6672 6674 6673 8318 2853 2854 2855 8316 8317 }
+}
+charleston_sc_area = { 
+	provinces = { 6547 6546 7796 6544 7795 7793 3542 6545 1780 1781 3541 3540 }
+}
+columbia_sc_area = { 
+	provinces = { 5456 1365 1364 2856 1363 1092 1094 5454 }
+}
+lexington_sc_area = { 
+	provinces = { 7794 1724 8117 8118 1723 1878 5455 5453 1878 }
+}
+clemson_area = { 
+	provinces = { 5047 8988 8989 8986 8987 1879 1877 1091 1093 }
+}
+st_marys_area = { 
+	provinces = { 1188 6350 6352 6351 4987 4985 9437 9435 9436 9433 9434 6349 }
+}
+savannah_area = { 
+	provinces = { 1868 8762 8764 8763 1869 2354 1252 1253 2355 8701 }
+}
+albany_ga_area = { 
+	provinces = { 5207 3570 3568 3569 3809 3807 3808 5206 5209 7205 7206 5208 }
+}
+macon_area = { 
+	provinces = { 3818 3817 3820 3819 8350 8349 8351 7114 }
+}
+athens_area = { 
+	provinces = { 5797 2936 2938 2937 2935 5950 5947 5045 5046 }
+}
+atlanta_area = { 
+	provinces = { 1563 7115 1044 1043 893 894 895 5948 5949 1045 5795 3433 3435 }
+}
+sparta_area = { 
+	provinces = { 8941 6499 8941 8938 8939 8700 5796 8940 5794 8937 }
+}
+jackson_area = { 
+	provinces = { 3434 6498 6497 1835 1836 4986 }
+}
+montgomery_area = { 
+	provinces = { 2718 6724 6725 219 6292 6291 6290 585 583 584 2719 }
+}
+tuskegee_area = { 
+	provinces = { 4715 11629 4716 8935 8936 7743 7742 7741 11630 2717 }
+}
+talladega_area = { 
+	provinces = { 5001 5002 5004 7387 7388 8348 7113 7386 7385 5344 5343 5003 }
+}
+mobile_area = { 
+	provinces = { 4952 4953 8365 4497 4495 4496 4954 }
+}
+decateur_area = { 
+	provinces = { 7469 4643 4642 7471 4644 11628 6462 6464 6463 5345 }
+}
+tuscaloosa_area = { 
+	provinces = { 7952 6726 7950 1551 11627 1549 1550 821 819 7470 820 7951 }
+}
+biloxi_area = { 
+	provinces = { 887 11626 886 885 8364 8366 5860 5861 5859 }
+}
+natchez_area = { 
+	provinces = { 5211 5210 2694 2695 9121 9120 7303 5212 }
+}
+vicksburg_area = { 
+	provinces = { 594 595 6206 6203 6205 6204 8487 8486 2460 8488 }
+}
+jackson_ms_area = { 
+	provinces = { 9122 7304 9123 2011 1261 4663 1262 1260 4664 }
+}
+tupelo_area = { 
+	provinces = { 4810 1079 2461 2459 7638 7636 1077 1078 4809 7823 }
+}
+livingston_area = { 
+	provinces = { 5988 5987 7824 7822 1614 1616 1615 5989 }
+}
+central_magnolia_area = { 
+	provinces = { 7637 2009 7635 2008 2010 1176 1177 1178 4665 }
 }

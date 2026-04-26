@@ -1,48 +1,2131 @@
 ﻿yankee = {
 	color = rgb { 101 164 199 }
 
-	levy_template = levy_central_asia
+	levy_template = levy_general_greek
 	
-	primary = light_infantry
-	second = heavy_cavalry
-	flank = horse_archers
+	primary = spearmen
+	second = heavy_infantry
+	flank = light_cavalry
 
 	primary_navy = tetrere
 	secondary_navy = octere
 	flank_navy = liburnian
 
 	male_names = {
-		Tarxun Ramch Axak Maxak Uxuchan Shaow Wanxanak Awekat Baxuman Chukshek Ratsh Ramtish Ayus Katch Arxata Exak Sheshch Oxyartes Spitamenes Artaxerxes Burz Orzek Samtish Bexak Arzun Shaw Entysh Anxach Wius Bharzun Bharxuman 
+		Aaron Adam Adrian Alain Aloysius Alphonse Amar Amile Amos Andre Antuan Angelo Andrew Anthony Arthur Asher
+		Bankson Barry Benjamin Bernard Bradley Brendan Bret Brian Bryant Brooke Bruce Bilal Blake Buzz
+		Caleb Clark Clint Chadwick Charles Chaka Christian Christopher Cisco Claudio Clifford Cody Corey Craig
+		Damien Damon Daniel Dante Daryl David DeAndre DeAngelo Demetrius Derek Dick Don Donovan Dorian Douglas Dov Drew Duane Dwayne Dwight Dylan
+		Edward Edwin Elijah Elias Elliot Enzo Eric Ernest Ephraim Ethan Eugene Evan Ezra
+		Fabian Felix Floyd Fernando Francis Franco Franklin Frederick
+		Gaetano Garrett Gary George Gerald Gerard Giovanni Gino Gilbert Gimel Girard Glen Gordon Grant Gregory
+		Harold Harris Harrison Hector Henry Hester Hezekiah Howard Hugh Hunter
+		Ian Ira Isa Ike Irvin Isaac Ivan
+		Jack Jacob Jamal James Jamie Jason Jay Jeffrey Jeremy Jeremiah Jerome Jerrold Jersey Jesse Joe Joel Joey John Jordan Joseph Josh Julian Justin
+		Karl Keith Kendrick Kennith Kevin Kurt
+		Lance Larry Lawrence Leslie Lenny Leo Leon Leonard Levi Liam Lionel Linwood Lloyd Logan Lorenzo Louis Lucas Luke
+		Mamadou Manuel Malcolm Marc Mario Marlo Marshall Mark Martin Marvin Marvis Maurice Methuselah Matthew Melvin Michael Miles Mitchell
+		Nathaniel Nelson Nicholas Noah Norman
+		Odell Oliver Omar Orlando Oscar Otto Oswald
+		Page Patrick Paul Peter Philadelphus Philip Philemon Phineas Preston Prince
+		Ralph Randal Raphael Raul Raymond Reginald Robert Ronald Roland Ross Richard Russell Ryan
+		Salvatore Samuel Scott Sean Seamus Seth Seymour Sherwood Spencer Silas Simon Soloman Stan Stephen Steven
+		Talbot Talmadge Tate Teddy Terry Theodore Thomas Timothy Tiziano Tobin Tony Tom Tyrell
+		Uri
+		Victor Vincent Vladimir
+		Wade Walter Warner Warren Wayne Wei Wesley William Winston
+		Xanthus Xavier
+		Valery
+		Yosef
+		Zachary 
 	}
 	female_names = {
-		Roxana Rayun Roshanak Baxunash Roshan Saryash Zunesh Mayara Koshana Hephta Hashchana Ixeni Oniya Wyara Awxa Oshan Riyun 
+		Abigail Adena Alecia Alexa Alexandra Alice Allison Alina Amelia Amy Ana Anastasia Andrea Angelica Anita Anna Antonia Ashley Asia Aubrey Ava
+		Barbara Bethany Billie Brianna Brittany Brooke
+		Camillia Carmela Carmella Carmen Caroline Cassandra Cassidy Catherine Cecilia Charlotte Chana Chaya Chelsea Cheryl Chevon Christina Christine Cindy Clara Claudette Concetta Courtney 
+		Daphne Daisy Dana Deandra Deborah Debbie Diane Dionna Dominique Dora Dot
+		Earnestine Ebony Elisabeth Elena Ellen Elizabeth Emma Emilie Erica Erin Essie Esther Eva Eve Evelyn
+		Fayette Felicia Florena Florence Francesca
+		Gail Gia Gianna Ginger Germaine Gloria Grace Gwen
+		Harper Hannah Harriet Hazel Heather Herta Hope Holly 
+		Immaculata Irene Isabella Ivelisse
+		Jacqueline Jane Janet Jean Jeanette Jennifer Jesse Jessica Jodie Joan Joanne Jillian Judith Julia Julianna 
+		Kat Kate Kathleen Kelly Kendra Kenya Khia Kimberly Kristie
+		Lana Latasha Laura Lawanda Leah Leda Leslie Liliana Linda Lindsey Lisa Lila Lily Lola Louisa Lucretia Lydia Lynda Lynne
+		Madison Marceline Margaret Marge Marguerite Maria Marian Marielle Mary Maxine Meagan Melanie Melissa Meryl Mia Michelle Mira Miriam Monica
+		Nafessa Naomi Natasha Natalie Nicole Nina
+		Olivia
+		Paige Patricia Patti Pearl Philomena Phoebe Phyllis Piper Priscilla
+		Quinta
+		Rachel Rasheeda Rebecca Regina Renee Rivka Robin Robyn Rosa Rosalin Rosemary Roxanne Ruth
+		Samantha Sara Shari Sienna Sophia Sonia Stacy Stephanie Sydney Sylvia
+		Tameka Tammy Tara Taylor Tina Traynor Theresa
+		Valerie Vanessa Vera Veronica Victoria Vivian Vivienne Virginia
+		Wilhelmina
+		Xiomara
+		Yelena Yvonne
+		Zoe 
 	}
 	family = {
-		Tarixanian.Tarixanian.Tarixanian.Tarixanian
-		Arzakanian.Arzakanian.Arzakanian.Arzakanian
-		Axumenian.Axumenian.Axumenian.Axumenian
-		Wanxanian.Wanxanian.Wanxanian.Wanxanian
-		Rachnian.Rachnian.Rachnian.Rachnian
-		Burzen.Burzen.Burzen.Burzenid
-		Semshan.Semshan.Semshan.Semshanian
-		Orzan.Orzan.Orzan.Orzan
-		Bharzunian.Bharzunian.Bharzunian.Bharzunian
-		Wyaran.Wyaran.Wyaran.Wyaran
-		Oxian.Oxian.Oxian.Oxian
-		Arxatan.Arxatan.Arxatan.Arxatan
-		Spitamenian.Spitamenian.Spitamenian.Spitamenian
-		Artaxian.Artaxian.Artaxian.Artaxian
-		Orxenian.Orxenian.Orxenian.Orxenian
-		Arzunian.Arzunian.Arzunian.Arzunian
-		Aynian.Aynian.Aynian.Aynian
+		Abbruzzesi.Abbruzzesi.Abbruzzesi.Abbruzzesi
+		Abdelaziz.Abdelaziz.Abdelaziz.Abdelaziz
+		Abdul.Abdul.Abdul.Abdul
+		Abdullah.Abdullah.Abdullah.Abdullah
+		Abdulmasih.Abdulmasih.Abdulmasih.Abdulmasih
+		Abele.Abele.Abele.Abele
+		Abenante.Abenante.Abenante.Abenante
+		Abiamiri.Abiamiri.Abiamiri.Abiamiri
+		Abrams.Abrams.Abrams.Abrams
+		Acevedo.Acevedo.Acevedo.Acevedo
+		Achuff.Achuff.Achuff.Achuff
+		Acosta.Acosta.Acosta.Acosta
+		Adams.Adams.Adams.Adams
+		Adebayo.Adebayo.Adebayo.Adebayo
+		Alessandrini.Alessandrini.Alessandrini.Alessandrini
+		Antonetti.Antonetti.Antonetti.Antonetti
+		Aponte.Aponte.Aponte.Aponte
+		Aquaro.Aquaro.Aquaro.Aquaro
+		Arbitman.Arbitman.Arbitman.Arbitman
+		Arcomone.Arcomone.Arcomone.Arcomone
+		Argetakis.Argetakis.Argetakis.Argetakis
+		Argo.Argo.Argo.Argo
+		Aristeo.Aristeo.Aristeo.Aristeo
+		Aristone.Aristone.Aristone.Aristone
+		Ariwodo.Ariwodo.Ariwodo.Ariwodo
+		Armentrout.Armentrout.Armentrout.Armentrout
+		Armstrong.Armstrong.Armstrong.Armstrong
+		Aronchick.Aronchick.Aronchick.Aronchick
+		Arrington.Arrington.Arrington.Arrington
+		Babinski.Babinski.Babinski.Babinski
+		Babitt.Babitt.Babitt.Babitt
+		Babuschak.Babuschak.Babuschak.Babuschak
+		Bacharach.Bacharach.Bacharach.Bacharach
+		Backof.Backof.Backof.Backof
+		Bacon.Bacon.Bacon.Bacon
+		Baddick.Baddick.Baddick.Baddick
+		Biagi.Biagi.Biagi.Biagi
+		Bianco.Bianco.Bianco.Bianco
+		Blundin.Blundin.Blundin.Blundin
+		Boccella.Boccella.Boccella.Boccella
+		Brodowski.Brodowski.Brodowski.Brodowski
+		Brogan.Brogan.Brogan.Brogan
+		Brokenborough.Brokenborough.Brokenborough.Brokenborough
+		Brooks.Brooks.Brooks.Brooks
+		Brown.Brown.Brown.Brown
+		Brownstein.Brownstein.Brownstein.Brownstein
+		Brubaker.Brubaker.Brubaker.Brubaker
+		Brunhammer.Brunhammer.Brunhammer.Brunhammer
+		Bruynell.Bruynell.Bruynell.Bruynell
+		Buccafuri.Buccafuri.Buccafuri.Buccafuri
+		Cadieux.Cadieux.Cadieux.Cadieux
+		Calabria.Calabria.Calabria.Calabria
+		Callahan.Callahan.Callahan.Callahan
+		Callaway.Callaway.Callaway.Callaway
+		Callen.Callen.Callen.Callen
+		Campanella.Campanella.Campanella.Campanella
+		Campanelli.Campanelli.Campanelli.Campanelli
+		Capaldi.Capaldi.Capaldi.Capaldi
+		Capelli.Capelli.Capelli.Capelli
+		Cappuccio.Cappuccio.Cappuccio.Cappuccio
+		Carcetti.Carcetti.Carcetti.Carcetti
+		Carmick.Carmick.Carmick.Carmick
+		Carmine.Carmine.Carmine.Carmine
+		Dagostino.Dagostino.Dagostino.Dagostino
+		Dalton.Dalton.Dalton.Dalton
+		Dandridge.Dandridge.Dandridge.Dandridge
+		Daniels.Daniels.Daniels.Daniels
+		Dannuzio.Dannuzio.Dannuzio.Dannuzio
+		Danzenbaker.Danzenbaker.Danzenbaker.Danzenbaker
+		Daugherty.Daugherty.Daugherty.Daugherty
+		Dawkins.Dawkins.Dawkins.Dawkins
+		DeCicco.DeCicco.DeCicco.DeCicco
+		DeFranco.DeFranco.DeFranco.DeFranco
+		Dempsey.Dempsey.Dempsey.Dempsey
+		Dietrich.Dietrich.Dietrich.Dietrich
+		Dombrowski.Dombrowski.Dombrowski.Dombrowski
+		Donahue.Donahue.Donahue.Donahue
+		Donio
+		Donnelly
+		Donohue
+		Donovan
+		Donoway
+		Dooley
+		Dorafchuk
+		Dorman
+		Dornenburg
+		Dougherty
+		Doughty
+		Douglas
+		Dowd
+		Downey
+		Downing
+		Doyle
+		Drakewood
+		Drexel
+		Driggins
+		Driscoll
+		Drummond
+		Dryden
+		du_Pont
+		Duffy
+		Duhurst
+		Dukuly
+		Dulin
+		Dunlap
+		Dunnigan
+		Dupree
+		Durborow
+		Durham
+		Dushoff
+		Dutton
+		Dworniczak
+		Eastburn
+		Eastwick
+		Eaton
+		Eberts
+		Ebsworth
+		Echevarria
+		Echevarrias
+		Echeverri
+		Economides
+		Ecret
+		Eddowes
+		Edmonds
+		Edwards
+		Eggleston
+		Ehrlich
+		Eichelberger
+		Eidenberg
+		Einhorn
+		Einstein
+		Eisenberg
+		Ekbladh
+		Elbertson
+		Elbourn
+		Eller
+		Ellingsworth
+		Ellis
+		Elwell
+		Emerson
+		Emig
+		Emplit
+		English
+		Ennis
+		Ensor
+		Entwistle
+		Episcopo
+		Epstein
+		Eradford
+		Erdbrink
+		Erlbaum
+		Errickson
+		Esham
+		Esnouf
+		Esposito
+		Essick
+		Estremera
+		Etienne
+		Evangelista
+		Evans
+		Ewing
+		Fahey
+		Fahnbulleh
+		Falbo
+		Falkenstein
+		Fallows
+		Falsone
+		Fanelli
+		Fanfarillo
+		Fannin
+		Faries
+		Farnkopf
+		Farquharson
+		Farrell
+		Farside
+		Fasbinder
+		Faulkner
+		Fauntleroy
+		Fazio
+		Fazzio
+		Fehrenbach
+		Feldman
+		Feliciano
+		Fell
+		Fellow
+		Felton
+		Fenerty
+		Fenessy
+		Fenimore
+		Ferebee
+		Ferguson
+		Fernandez
+		Ferraioli
+		Ferrari
+		Ferraro
+		Ferry
+		Fichetola
+		Fife
+		Figueroa
+		Fillmyer
+		Findlow
+		Fine
+		Fink
+		Finlaw
+		Fiocchi
+		Fioravanti
+		Fiorentino
+		Firesinger
+		Fischer
+		Fitch
+		Fitchett
+		Fithian
+		Fitzcharles
+		Fitzpatrick
+		Flacco
+		Flanagan
+		Flannery
+		Flavin
+		Fleetwood
+		Fleming
+		Flemming
+		Flexer
+		Flinchbaugh
+		Flitcraft
+		Flomo
+		Flury
+		Flynn
+		Foley
+		Fong
+		Foraker
+		Ford
+		Forino
+		Formica
+		Forrest
+		Forster
+		Fosbenner
+		Foskey
+		Foster
+		Fottrell
+		Fox
+		Foxworth
+		Foy
+		Fralinger
+		Frambes
+		Frame
+		Francois
+		Frandina
+		Frangipane
+		Frangos
+		Frankenfield
+		Frazier
+		Frederick
+		Freed
+		Freedman
+		Freeman
+		Freymann
+		Friant
+		Friars
+		Fricker
+		Friedley
+		Friedman
+		Frisby
+		Froggatt
+		Fronefield
+		Frost
+		Frymire
+		Furlong
+		Furman
+		Furness
+		Futcher
+		Gabbay
+		Gaffney
+		Gajjar
+		Galacio
+		Galiyano
+		Gallagher
+		Gallo
+		Galluppi
+		Gambale
+		Gambardello
+		Gambone
+		Gandy
+		Gannon
+		Gantzhorn
+		Garabedian
+		Garcia
+		Gardner
+		Garner
+		Garnett
+		Garozzo
+		Garrett
+		Garton
+		Garvey
+		Garvin
+		Gasiorowski
+		Gaskill
+		Gasparro
+		Gavrilis
+		Gaye
+		Gazzara
+		Gebhardt
+		Geekor
+		Geller
+		Gemmell
+		Gemmill
+		Georgetti
+		Gerace
+		Gerhart
+		German
+		Getachew
+		Ghartey
+		Giacobbe
+		Giangrande
+		Giannini
+		Giardello
+		Gibbons
+		Giberson
+		Gibson
+		Giddens
+		Gieske
+		Gilbert
+		Giles
+		Gilfillan
+		Gilgor
+		Gillespie
+		Gilligan
+		Gillmer
+		Gimlett
+		Ginsburg
+		Ginyard
+		Giordano
+		Giovinazzo
+		Gitman
+		Giuttari
+		Glackin
+		Glanden
+		Glaspey
+		Glass
+		Glatfelter
+		Glavas
+		Glazer
+		Glekas
+		Glendenning
+		Glenn
+		Glickel
+		Glower
+		Godshall
+		Gogolen
+		Goicuria
+		Gold
+		Goldberg
+		Golden
+		Goldenberg
+		Goldman
+		Goldsborough
+		Goldstein
+		Goldstine
+		Goldy
+		Gomez
+		Gondek
+		Gonzalez
+		Good
+		Goodman
+		Goodwater
+		Goodwin
+		Gorman
+		Gouge
+		Gould
+		Gowton
+		Grabowski
+		Grady
+		Graham
+		Grahamslaw
+		Graleski
+		Granoff
+		Grant
+		Grapewine
+		Grasmeder
+		Grasso
+		Gratz
+		Gray
+		Graziano
+		Grazier
+		Grazulyte
+		Greco
+		Green
+		Greenaway
+		Greenberg
+		Greene
+		Greenhalgh
+		Greenjack
+		Greenlee
+		Greenstein
+		Gregg
+		Gribaldo
+		Grier
+		Griffin
+		Grigioni
+		Grimmie
+		Griscom
+		Groome
+		Grossman
+		Grossmick
+		Grubb
+		Gruszynski
+		Gsell
+		Guarini
+		Guarnere
+		Guffey
+		Gummeson
+		Gunn
+		Gutierrez
+		Guzman
+		Gyllenhaal
+		Haas
+		Haavistola
+		Hackett
+		Hadaway
+		Haig
+		Haines
+		Halkias
+		Halter
+		Hambleton
+		Hamburger
+		Hamill
+		Hamilton
+		Hampton
+		Hand
+		Handfinger
+		Hannah
+		Hanselmann
+		Hansen
+		Hanzok
+		Haqq
+		Hardy
+		Haresign
+		Hargrove
+		Harker
+		Harkins
+		Harmon
+		Harper
+		Harracksingh
+		Harrington
+		Harrison
+		Hartman
+		Hartnett
+		Harvey
+		Hasson
+		Hastings
+		Hayden
+		Hayes
+		Healy
+		Hearn
+		Hedrick
+		Heffron
+		Heinefield
+		Heinig
+		Heller
+		Henderson
+		Henry
+		Heppinstall
+		Heritage
+		Hermesmann
+		Hernandez
+		Herrera
+		Hershey
+		Hess
+		Hewlings
+		Heyman
+		Hickey
+		Hickman
+		Hicks
+		Hidayat
+		Higgenbotham
+		Hildebrand
+		Hilgartner
+		Hill
+		Hines
+		Hinman
+		Hinneh
+		Hitchens
+		Hitchner
+		Hoang
+		Hocknell
+		Hoey
+		Hoffman
+		Hofmann
+		Hogate
+		Holbrook
+		Holdsworth
+		Holland
+		Hollandsworth
+		Hollenbach
+		Hollis
+		Holloway
+		Holmes
+		Homer
+		Hondroulis
+		Hoopes
+		Hopkins
+		Horan
+		Horn
+		Horner
+		Hornibrook
+		Horowitz
+		Horvay
+		Houston
+		Houvardas
+		Howard
+		Hoxha
+		Huang
+		Hudome
+		Hudson
+		Huff
+		Huffaker
+		Hughes
+		Hulitt
+		Humphrey
+		Hundertpfund
+		Hunsberger
+		Hunt
+		Hunter
+		Hurd
+		Hurvitz
+		Hurwitz
+		Hussain
+		Huynh
+		Huzzard
+		Hwang
+		Hyman
+		Hymer
+		Hynson
+		Hyslop
+		Hyson
+		Iacono
+		Iannucci
+		Iaquinto
+		Ibarra
+		Icklan
+		Idrissi
+		Iezzi
+		Igler
+		Ignatev
+		Impriano
+		Incollingo
+		Ingemi
+		Ingersoll
+		Inglesby
+		Ingling
+		Ingram
+		Innis
+		Intelisano
+		Ireland
+		Irwin
+		Isakoff
+		Islam
+		Italiano
+		Iverson
+		Iwanicki
+		Jaggard
+		Jamison
+		Janove
+		Jarmon
+		Jarrell
+		Jarvis
+		Jasinski
+		Jean
+		Jeffers
+		Jefferson
+		Jeneby
+		Jenkins
+		Jensen
+		Jervis
+		Jester
+		Jevnick
+		Jimenez
+		Joehl
+		Joell
+		Johns
+		Johnston
+		Joiner
+		Jokhadze
+		Jones
+		Joniec
+		Jordan
+		Joseph
+		Joyce
+		Joyner
+		Judge
+		Justice
+		Kadrija
+		Kahn
+		Kain
+		Kaiser
+		Kaklamanis
+		Kalaitzidis
+		Kalamchi
+		Kalamodeen
+		Kalasauskas
+		Kalesnik
+		Kaluhiokalani
+		Kamaka
+		Kamara
+		Kamarauskas
+		Kamerling
+		Kaminski
+		Kane
+		Kang
+		Kangilaski
+		Kaplan
+		Kapusta
+		Karcher
+		Karpovich
+		Karukas
+		Karvelas
+		Katsafanas
+		Katz
+		Kauffman
+		Kaufman
+		Kaur
+		Kazansky
+		Kazlauskas
+		Kearney
+		Keating
+		Keaveney
+		Keegan
+		Keen
+		Keenan
+		Kellam
+		Kelleher
+		Keller
+		Kellerman
+		Kelly
+		Kelshaw
+		Kemokai
+		Kennel
+		Kenton
+		Keoghan
+		Kerestesy
+		Keshgegian
+		Kessler
+		Keyack
+		Keyser
+		Khan
+		Khoury
+		Kiah
+		Kiladis
+		Kilgariff
+		Kilic
+		Killingworth
+		Kim
+		Kimble
+		King
+		Kingslover
+		Kingwood
+		Kipshaven
+		Kirby
+		Kirkbride
+		Klebanoff
+		Kledaras
+		Klein
+		Klinedinst
+		Knapp
+		Knight
+		Knighten
+		Knipe
+		Knotts
+		Knower
+		Knowles
+		Koch
+		Koebernik
+		Kohler
+		Kolesnitchenko
+		Kollie
+		Kong
+		Konneh
+		Konschak
+		Kontra
+		Kopakowski
+		Kornet
+		Korologos
+		Korosec
+		Koumboulis
+		Kowalski
+		Kozlowski
+		Kpadeh
+		Kraemer
+		Krajewski
+		Kramer
+		Kratz
+		Kraus
+		Krauss
+		Krebs
+		Kresloff
+		Kromah
+		Krumins
+		Kuensel
+		Kuhns
+		Kuo
+		Kupsey
+		Kurichi
+		Kurtz
+		Laboy
+		Lacey
+		Lafferty
+		Laganella
+		Laielli
+		Laird
+		Lake
+		Lambdin
+		Lamplugh
+		Lancellotti
+		Lancianese
+		Landes
+		Landis
+		Landskroener
+		Landsman
+		Lankford
+		Lanza
+		Lanzavecchia
+		Lanzilotti
+		Lapp
+		Larimore
+		Larlham
+		Laskowski
+		Lattanzi
+		Lau
+		Lauer
+		Laughman
+		Lavarell
+		Lawrence
+		Layton
+		Le
+		Leach
+		Leadley
+		Leary
+		Leatherman
+		Ledwith
+		Leefson
+		Leeser
+		Lefkowits
+		Lehman
+		Lehmann
+		Leister
+		Lemon
+		LeMunyon
+		Lennon
+		Lenzsch
+		Leon
+		Leonard
+		Leone
+		Leonetti
+		Lepter
+		Lester
+		Leung
+		Levari
+		Levendusky
+		Levine
+		Levinson
+		Levy
+		Lewandowski
+		Lewis
+		Li
+		Liadakis
+		Licciardello
+		Liebman
+		Lieljuris
+		Lightcap
+		Likanchuk
+		Lilly
+		Lin
+		Lindsey
+		Ling
+		Lingo
+		Linvill
+		Lippincott
+		Little
+		Littleton
+		Litzenberger
+		Liu
+		Lively
+		Livingston
+		Lloyd
+		Loatman
+		Lockwood
+		Lofland
+		Logan
+		Lombardo
+		Lomidze
+		Lopes
+		Lopez
+		Lord
+		Losnowski
+		Lotkowski
+		Loughran
+		Love
+		Lovekin
+		Lovitz
+		Lowe
+		Lu
+		Lucca
+		Luciano
+		Luconi
+		Luff
+		Lunney
+		Lutz
+		Luu
+		Luzzi
+		Ly
+		Lydamore
+		Lynam
+		Lynch
+		Lyness
+		Lyons
+		Lythgoe
+		MacBride
+		Maccarone
+		MacCausland
+		MacCord
+		MacFarland
+		MacFarline
+		Machulski
+		Mack
+		MacMinn
+		MacNamee
+		MacRie
+		Madanat
+		Madonna
+		Maffei
+		Magauran
+		Magee
+		Maguire
+		Mahan
+		Maher
+		Mahoney
+		Mai
+		Malatesta
+		Maldonado
+		Malloy
+		Maloney
+		Mammarelli
+		Mammucari
+		Mancinelli
+		Manlove
+		Mannering
+		Mantegna
+		Manteo
+		Mara
+		Marandino
+		Marcantonis
+		Marchegiano
+		Marchesani
+		Marchese
+		Marchetti
+		Marchlik
+		Marconi
+		Marcucci
+		Margera
+		Margerum
+		Margolis
+		Mariner
+		Marino
+		Marinucci
+		Markle
+		Marks
+		Marquez
+		Marrero
+		Martinelli
+		Martinez
+		Marvel
+		Marzulli
+		Mascio
+		Maslin
+		Massaquoi
+		Massaro
+		Masten
+		Mastrangelo
+		Mastrocola
+		Matchett
+		Matkowski
+		Matos
+		Matthews
+		Matusevich
+		Maurer
+		Maute
+		Maxwell
+		May
+		Mazza
+		Mazzagatti
+		Mazzeo
+		McAlary
+		McAllister
+		McAnany
+		McAneny
+		McArdle
+		McAvaddy
+		McAvaney
+		McBride
+		McCabe
+		McCafferty
+		McCahill
+		McCann
+		McCarrahar
+		McChesney
+		McClafferty
+		McCloskey
+		McComsey
+		McCool
+		McCormack
+		McCormick
+		McCorristin
+		McCourt
+		McCray
+		McCreight
+		McCrudden
+		McCullough
+		McDermott
+		McDevitt
+		McDonough
+		McDuffie
+		McDyre
+		McErlane
+		McEwing
+		McFadden
+		McFatridge
+		McGarrigle
+		McGarrity
+		McGarvey
+		McGeary
+		McGinnis
+		McGinty
+		McGlinchey
+		McGoldrick
+		McGovern
+		McGowan
+		McGrory
+		McGuckin
+		McGuigan
+		McHugh
+		McIlhenny
+		McIlhinney
+		McIlvaine
+		McInaw
+		McIntyre
+		McKeighan
+		McKenna
+		McKenzie
+		McKeown
+		McLarney
+		McLaughlin
+		McMahon
+		McManus
+		McMenamin
+		McMillan
+		McMullen
+		McNair
+		McNally
+		McNamee
+		McNasby
+		McNatt
+		McNulty
+		McPoyle
+		McShane
+		McSorley
+		McStravog
+		McSwiggan
+		McTighe
+		McVan
+		McVaugh
+		Mears
+		Meckley
+		Medina
+		Meehan
+		Megill
+		Meinershagen
+		Melady
+		Melendez
+		Mellinger
+		Mellon
+		Meloni
+		Melson
+		Melvin
+		Mendenhall
+		Mendez
+		Mensah
+		Mercado
+		Merino
+		Merlino
+		Merritt
+		Merryfield
+		Meshkov
+		Messick
+		Messina
+		Meszaros
+		Metzbower
+		Mezzatesta
+		Midfield
+		Migliore
+		Mignogna
+		Milburn
+		Miletta
+		Milewski
+		Miller
+		Millichap
+		Milligan
+		Millman
+		Millroy
+		Minatee
+		Minnick
+		Minor
+		Minshall
+		Minsker
+		Mister
+		Misuna
+		Mitchell
+		Mixner
+		Mizrahi
+		Moffa
+		Mohammed
+		Mohr
+		Mojena
+		Molera
+		Molineux
+		Mollock
+		Molloy
+		Monaco
+		Monaghan
+		Monahan
+		Monastero
+		Money
+		Montague
+		Montalvo
+		Montemayor
+		Monterosso
+		Moody
+		Mooney
+		Moore
+		Morales
+		Moran
+		Moregrass
+		Morekas
+		Moreland
+		Morgenweck
+		Moroz
+		Morris
+		Morrison
+		Morrissey
+		Mortellite
+		Mortelliti
+		Mortimer
+		Moses
+		Moskos
+		Mosley
+		Motlynski
+		Motylinski
+		Moulder
+		Moyer
+		Moynihan
+		Mulaikal
+		Mulbah
+		Mulford
+		Mulhern
+		Mullarkey
+		Mullen
+		Mullin
+		Mulroony
+		Mulshneock
+		Mumford
+		Mummert
+		Mundy
+		Muraresku
+		Murphy
+		Murray
+		Murrian
+		Musumeci
+		Myers
+		Nace
+		Nakazawa
+		Nankerville
+		Nardelli
+		Narkiewicz
+		Narvaez
+		Navickas
+		Nasevich
+		Neal
+		Negron
+		Negroni
+		Neuberger
+		Newcomer
+		Newlin
+		Newman
+		Ngo
+		Nguyen
+		Nichols
+		Nickerson
+		Nickle
+		Niemann
+		Nieves
+		Nightlinger
+		Niglio
+		Nika
+		Nippins
+		Nolan
+		Norcross
+		Nordhoff
+		Nordstrom
+		Norris
+		Nottingham
+		Novak
+		Nunez
+		Nuredini
+		Nwachukwu
+		Nwaigwe
+		Nwankwo
+		Nyumah
+		O_pst_Brien
+		O_pst_Connell
+		O_pst_Connor
+		O_pst_Donnell
+		O_pst_Flaherty
+		O_pst_Gorman
+		O_pst_Hagan
+		O_pst_Malley
+		O_pst_Neill
+		O_pst_Rourke
+		O_pst_Shaughnessy
+		O_uml_zdemir
+		Oakerson
+		Oakgrove
+		Oberholtzer
+		Obuchowski
+		Ocasio
+		Ochalik
+		Odoms
+		Ogleton
+		Okechukwu
+		Olivant
+		Oliveira
+		Oliver
+		Olivere
+		Olivieri
+		Olivo
+		Olkowski
+		Olsen
+		Ondik
+		Orabona
+		Orangers
+		Ordille
+		Orr
+		Ortega
+		Ortiz
+		Osborne
+		Osinski
+		Osmanollaj
+		Osten-Sacken
+		Osterdahl
+		Ott
+		Ottinger
+		Oulouhojian
+		Outten
+		Overington
+		Oxenford
+		Pacitti
+		Padovani
+		Pagan
+		Painter
+		Pakstis
+		Palermo
+		Palladino
+		Palmieri
+		Palombi
+		Palumbo
+		Panaccio
+		Panarello
+		Panarese
+		Pancoast
+		Pankok
+		Pantalone
+		Pantelakis
+		Paoletti
+		Paolicelli
+		Papadopoulos
+		Parchment
+		Parenti
+		Park
+		Parks
+		Parrilla
+		Parry
+		Parshall
+		Parson
+		Parsons
+		Partlow
+		Paskill
+		Passwaters
+		Patel
+		Patterson
+		Pearson
+		Pegler
+		Peirson
+		Pellegrini
+		Pembleton
+		Pender
+		Penglase
+		Pennington
+		Pennock
+		Penrose
+		Penza
+		Pereira
+		Perera
+		Perillo
+		Perkins
+		Perone
+		Perry
+		Persaud
+		Perscott
+		Perskie
+		Pertzoff
+		Peterman
+		Peterson
+		Petitt
+		Petroski
+		Petrucci
+		Pettyjohn
+		Pfeiffer
+		Pham
+		Phan
+		Phelan
+		Phelps
+		Phy
+		Phillips
+		Picardo
+		Piccioni
+		Pickering
+		Piddington
+		Pierce
+		Pierson
+		Pileggi
+		Piles
+		Pinckney
+		Pinder
+		Pinkett
+		Pinkney
+		Pino
+		Pinto
+		Pippin
+		Pitko
+		Pitt
+		Pleasanton
+		Pleiss
+		Plummer
+		Poden
+		Polhamus
+		Polillo
+		Polito
+		Poller
+		Poore
+		Popjoy
+		Poppitt
+		Portlock
+		Posner
+		Postalwaite
+		Potter
+		Poulson
+		Powell
+		Powley
+		Pozniak
+		Pratt
+		Presti
+		Prettyman
+		Prevas
+		Previtera
+		Prezuhy
+		Pritchett
+		Probasco
+		Prybutok
+		Pryor
+		Pryzbylewski
+		Puglia
+		Puglisi
+		Puleo
+		Pupek
+		Purnell
+		Pustizzi
+		Quattrone
+		Queenan
+		Quigley
+		Quillen
+		Quinn
+		Quinones
+		Quirk
+		Raab
+		Radatti
+		Radichel
+		Rafalowski
+		Ragin
+		Rahman
+		Rainier
+		Raleigh
+		Rambo
+		Ramirez
+		Ramos
+		Rampersad
+		Ramsey
+		Randall
+		Randolph
+		Ransome
+		Rao
+		Rash
+		Rastelli
+		Ratcliffe
+		Raybold
+		Realley
+		Redden
+		Redrup
+		Reed
+		Reese
+		Rehfuss
+		Reid
+		Reihl
+		Reilly
+		Remster
+		Repinski
+		Revello
+		Reyes
+		Reynolds
+		Rhoades
+		Rhubart
+		Ricci
+		Rich
+		Rickards
+		Ridarelli
+		Ridgway
+		Riemer
+		Rienzi
+		Riggins
+		Rinaldo
+		Ringgold
+		Ringler
+		Rios
+		Rittenhouse
+		Rivera
+		Rizzo
+		Rizzotte
+		Robbins
+		Robeson
+		Robinson
+		Robles
+		Rochester
+		Rockwell
+		Rode
+		Rodemich
+		Rodio
+		Rodriguez
+		Rogers
+		Roggio
+		Rohrbaugh
+		Rojas
+		Roman
+		Romanchak
+		Romano
+		Romero
+		Rooney
+		Rosado
+		Rosario
+		Rosenberg
+		Rosenblatt
+		Rosenbloom
+		Rosenthal
+		Ross
+		Rossi
+		Rossiter
+		Rotenberger
+		Roth
+		Rothermel
+		Roussey
+		Royce
+		Rozanski
+		Rue
+		Ruggiero
+		Runkle
+		Russell
+		Russo
+		Rust
+		Ryan
+		Rydenbark
+		Saad
+		Saavedra
+		Sabree
+		Sacco
+		Sackie
+		Saft
+		Saienni
+		Saladino
+		Salamone
+		Salvatore
+		Salvucci
+		Samluk
+		Sammons
+		Sample
+		Sampson
+		Sanders
+		Sanna
+		Santana
+		Santangelo
+		Santiago
+		Santillan
+		Santilli
+		Santora
+		Santore
+		Santos
+		Santosham
+		Sapp
+		Sarapuu
+		Sarbanes
+		Sarkar
+		Satterfield
+		Saunders
+		Saurymper
+		Sawyer
+		Sayers
+		Scaffidi
+		Scaldeferri
+		Scarborough
+		Scarpa
+		Scattergood
+		Schabdach
+		Schaeffer
+		Schellenger
+		Schienholtz
+		Schirick
+		Schlimer
+		Schlindwein
+		Schmid
+		Schmidt
+		Schofield
+		Schoreder
+		Schultz
+		Schwartz
+		Schwegman
+		Scinta
+		Scott
+		Scull
+		Scurry
+		Seabrook
+		Seachrist
+		Sease
+		Seeney
+		Segal
+		Seideman
+		Selby
+		Sellers
+		Selsavage
+		Seltz
+		Senderling
+		Sensinger
+		Serrano
+		Sersen
+		Setiawan
+		Sewell
+		Sfekas
+		Shacklady
+		Shaddinger
+		Shaffer
+		Shah
+		Shahan
+		Shapiro
+		Sharkey
+		Sharma
+		Sharper
+		Shaw
+		Shea
+		Shearer
+		Shedrick
+		Sheehan
+		Sheridan
+		Sheriff
+		Sherman
+		Shields
+		Shillady
+		Shimanek
+		Shinholster
+		Shinn
+		Shipley
+		Shippen
+		Shockley
+		Shoolbraid
+		Shorter
+		Shotzberger
+		Showell
+		Shrieves
+		Shultz
+		Shurmer
+		Shuster
+		Sidoti
+		Sierzenski
+		Signora
+		Silberstein
+		Silcox
+		Siligrini
+		Simcox
+		Simmerman
+		Simmington
+		Simmons
+		Simpkins
+		Simpson
+		Singer
+		Singh
+		Sipe
+		Skidmore
+		Skillman
+		Sklodowski
+		Skrajewski
+		Skulski
+		Slater
+		Slattery
+		Slaughter
+		Slemmer
+		Slocum
+		Slusarski
+		Smack
+		Small
+		Smallwood
+		Smaniotto
+		Smeltzer
+		Smerconish
+		Smith
+		Smoker
+		Smythe
+		Snead
+		Snyder
+		Sobeloff
+		Sok
+		Solomon
+		Somers
+		Soone
+		Sooy
+		Sorbello
+		Soriano
+		Soto
+		Sovocool
+		Sowden
+		Sowney
+		Spector
+		Speight
+		Spence
+		Spezzano
+		Spivey
+		Spolsky
+		Spositi
+		Sprague
+		Sprenkle
+		Sprindis
+		Springer
+		Spurdle
+		Squadrito
+		Srivastava
+		Stackhouse
+		Stafford
+		Stakias
+		Staley
+		Stambaugh
+		Standly
+		Stanfield
+		Stanford
+		Stapleford
+		Starkey
+		Starr
+		Staub
+		Stauffer
+		Steele
+		Stefano
+		Stein
+		Steinberg
+		Stevenson
+		Stewart
+		Stiles
+		Stirling
+		Stivers
+		Stocksdale
+		Stokes
+		Stoltzfus
+		Storti
+		Stout
+		Street
+		Stretcher
+		Strickland
+		Strobele
+		Strouse
+		Sturgis
+		Sudler
+		Sugalski
+		Sulaiman
+		Sullivan
+		Sulzbach
+		Sumo
+		Sunkiskis
+		Superfine
+		Supreet
+		Sutcliffe
+		Swanick
+		Swartley
+		Sweeney
+		Sweetman
+		Sweitzer
+		Swope
+		Sydnor
+		Sylk
+		Sylvester
+		Szabo
+		Szparagowski
+		Szwec
+		Szymanski
+		Taliaferro
+		Talley
+		Tanaka
+		Tankard
+		Tarbuck
+		Tarrant
+		Tartaglione
+		Taukatch
+		Taylor
+		Teixeira
+		Temple
+		Terrigno
+		Terry
+		Testa
+		Thach
+		Thai
+		Theoharis
+		Thoman
+		Thomas
+		Thornton
+		Thwaites
+		Tibbitt
+		Tighe
+		Tilghman
+		Tilton
+		Timbers
+		Timmons
+		Timson
+		Tiver
+		Tobin
+		Tokpah
+		Tollerson
+		Tomarchio
+		Tomasello
+		Tomasso
+		Tombleson
+		Tomlin
+		Tomlinson
+		Tong
+		Toogood
+		Toomer
+		Toomey
+		Torres
+		Torruella
+		Totora
+		Touch
+		Toussaint
+		Townsend
+		Tozer
+		Tran
+		Tranchitella
+		Traore
+		Traub
+		Travaline
+		Travers
+		Treatman
+		Tregear
+		Trego
+		Triger
+		Trivedi
+		Trout
+		Truelove
+		Truitt
+		Trutzenbach
+		Tsao
+		Tsoflias
+		Tucker
+		Tumelty
+		Turco
+		Turley
+		Turner
+		Turrentine
+		Tursi
+		Tustin
+		Twaddell
+		Twigg
+		Twilley
+		Twomey
+		Twyman
+		Tybout
+		Tyler
+		Uddin
+		Ujszaszy
+		Ulrich
+		Underhill
+		Underwood
+		Uniatowski
+		Unruh
+		Uosikkinen
+		Upshur
+		Ushler
+		Valentine
+		Valenzano
+		Vandegrift
+		Vanderford
+		Vandermark
+		Vandevender
+		Vandyk
+		Vangaskin
+		Vanhorn
+		Vanleer
+		Vanluvanee
+		Vanmater
+		Vanmeter
+		Vansant
+		Vanweezendonk
+		Varallo
+		Vasey
+		Vasquez
+		Vazquez
+		Veevers
+		Vega
+		Velez
+		Venezia
+		Vennell
+		Venturi
+		Venuti
+		Verratti
+		Vetterlein
+		Vicchairelli
+		Vickory
+		Viereck
+		Vignola
+		Viguers
+		Villano
+		Villari
+		Vogel
+		Voglesong
+		Volpe
+		Voshell
+		Vu
+		Waddington
+		Wagner
+		Wagstaff
+		Wainwright
+		Walbert
+		Wallace
+		Waller
+		Walls
+		Walsh
+		Wambold
+		Wample
+		Wampole
+		Wanamaker
+		Wang
+		Waples
+		Wardell
+		Ware
+		Warfield
+		Warnick
+		Warnock
+		Washington
+		Waters
+		Watmuff
+		Watson
+		Wawa
+		Waxman
+		Weaver
+		Webb
+		Weber
+		Webster
+		Weingard
+		Weeney
+		Weidamoyer
+		Weierbach
+		Weikel
+		Weinberg
+		Weinman
+		Weinstein
+		Weinstock
+		Weiss
+		Welch
+		Wells
+		Wenhold
+		Werner
+		Whaley
+		Wharton
+		Wheatley
+		Whilden
+		Whitaker
+		White
+		Whitelam
+		Whye
+		Whyte
+		Wigglesworth
+		Wilcox
+		Wilhelm
+		Wilkins
+		Willard
+		Willoughby
+		Wimbrow
+		Wimsey
+		Windsor
+		Winnington
+		Winsmore
+		Winterberg
+		Winters
+		Wise
+		Wisniewski
+		Withers
+		Witmer
+		Woerner
+		Wofford
+		Wolbert
+		Wolf
+		Wolfinger
+		Wolfrom
+		Wolstenholme
+		Wong
+		Wood
+		Woodcock
+		Woodington
+		Woodward
+		Woolley
+		Wooton
+		Wootten
+		Worden
+		Worral
+		Worrall
+		Worrell
+		Worthington
+		Wozniak
+		Wright
+		Wu
+		Wuillermin
+		Wylie
+		Wynder
+		Wynkoop
+		Wynn
+		Wynnet
+		Wytupeck
+		Xarhoulakos
+		Xu
+		Yagudayeva
+		Yakubu
+		Yang
+		Yanishevsky
+		Yarnall
+		Yarsiah
+		Yeager
+		Yeatman
+		Yeck
+		Yi
+		Yilmaz
+		Yoder
+		Yorden
+		Young
+		Zadnik
+		Zadroga
+		Zadrozny
+		Zaidi
+		Zakeosian
+		Zambrano
+		Zannino
+		Zanoni
+		Zappa
+		Zappala
+		Zarelli
+		Zarrilli
+		Zaslav
+		Zawierucha
+		Zawislak
+		Zayas
+		Zdunich
+		Zeigler
+		Zelenko
+		Zelko
+		Zelley
+		Zemaitatis
+		Zetye
+		Zhang
+		Zieger
+		Ziegler
+		Zimmerman
+		Zoback
+		Zoltanski
+		Zorzi
+		Zurinsky
 	}
 	culture = {
 		youser = {}
-		gothamite = {}
-		beltway = {}
-		upstater = {}
-		pocono = {}
-		hudsonian = {}
+		gothamite = {
+			male_names = {
+			Aaron Abdullah Abner Abraham Aboubacar Achilles Agnew Al Albert Alec Alexander Alfonso Algernon Ali Alessandro Alonso Amado Andrew Andrzej Angelo Anselmo Anthony Anton Antonio Arcangelo Ardolph Ari Arnold Artie Arturo Ashton Astor Aurelio Averell Aziz Azorady
+			Balwinder Benedict Benicio Benito Bernard Bhupinder Bienvenido Bill Bob Bogdan Boris Bruce Bruno
+			Cadwallader Caleb Calvin Carlos Carmelo Carmine Carnegie Casimir Charles Compton Connor Conrado Corydon Curly
+			Damian Danny Daniel Dante Darius Darnell Dashan Dave David Deepak Deshawn Dewitt Didier Diego Dimitri Dimitris Djordje Dmitri Dominic Donald Dorian Dvorak
+			Ebenezer Edward Edwin Emile Enrique Enzo Ercole Eric Errol Esteban Eustace Ezekiel Ezio Ezra
+			Faris Faustino Felix Fernando Fiorello Flavio Ford Francis Frank Franklin
+			Garfield Gennaro George Gerard Giacomo Giancarlo Gianluca Gianpaolo Giorgi Giovanni Giuseppe Grzegorz Guiseppe
+			Hamilton Hardat Hardeep Harpreet Hasan Hector Henry Herman Hillel Hiroshi Hongzhi Horace Huey Hugo Hyman
+			Idris Igor Imani Iqbal Irving Isaac Isaiah Israel Ivan
+			Jacob Jack Jamal Jaquan Jason Javier Jay Jesus Jimmy Joe Joel John Johnny Joon Jorge Jose Joseph Juan Julian Julius Junior
+			Kareem Kehinde Kenan Khaled Khurshid Kingsley Kiran Klaus Kleber Kofi Konstantinos Krishna Krzysztof Kulwinder
+			Lakshman Larry Laszlo Lawrence Lazaro Leandro Lenox Leo Leon Leonardo Leszek Levi Lewis Liam Lincoln Linwood Lorenzo Lou Lucius Luigi
+			Malik Mamadou Manohar Manuel Marco Marcus Mario Mark Marley Martin Martin_Luther Marvin Massimo Matias Matthew Maurice Maurizio Melvin Meyer Michael Mickey Miguel Mike Milton Moby Moe Mohammad Mohamed Mohan Moishe Moses Moustapha Mustafa
+			Nathan Naphtali Neil Nelson Nestor Kevinicholas Nigel Nilesh Noel
+			Olmsted Omar Oral Oscar Oswald Ottavio
+			Pablo Param Patrick Paul Pavel Pawel Pedro Peter Philip Plato Prakash Prince Pyotr
+			Rafael Rafer Raj Rajesh Rakhil Rama Rasheen Rastislav Raul Ray Recep Richard Richie Robert Rocky Rohan Rohit Rolando Romany Ruan Ruben Rudolph Ryan Ryszard
+			Salvador Samir Samuel Sanjay Santiago Sara Sasha Seamus Semyon Seth Schuyler Scott Serafino Sergio Seung Seymour Shaquan Shlomo Sigfredo Simcha Simon Slawomir Sonam Souleymane Spyridon Stan Steven Sung Sy Syed
+			Tariq Thaddeus Theophilus Thomas Timur Tiziano Tomasz Tommy Tony Troy
+			Ulrich Ulugbek Ulysses
+			Vadim Valdemir Valery Varian Vasily Vinay Vin Victor Vincent Vittorio Vladimir Vladislav Volodymyr
+			Wagner Wajid Walter Washington Wei William Wolfgang
+			Xiao Xiaoping Xu
+			Yakov Yevgeny Yi Yohan Yong Yuri Yun
+			Zachary Zainab Zev Zohran Zoltan Zurab
+		}
+		female_names = {
+			Ada Adelaide Agnieszka Aida Aileen Aimee Alaina Aleksandr Alexandria Alexia Alicia Alina Alyce Amina Angela Angelica Anna Annalise Annette Anika Anya Aoife Aracelis Arben Arianna Arya Astoria Aurora Ayesha
+			Baeleen Barbara Bernice Beryl Bianca Brianne Bridget Brooklyn Brunella
+			Cameron Carmela Carmela Carmella Carmen Carol Catarina Cathleen Cecillia Centralia Charmaine Chantal Chantel Chelsea Chiara Christina Clementine Connie Consuela Cornelia Cyndi Cynthia
+			Daisy Daniela Deena Deirdre Dolores
+			Ebony Ekaterina Elaine Eleanor Eleni Elfriede Ellis Eloise Emily Emma Eridania Esmeralda Estella Esther Etheline Eunice Euphemia
+			Faith Fatima Fatoumata Fay Fiona Fioretta Fiorina Flor Francesca Frieda
+			Gabriela Gemma Genesis Gillian Gina Ginny Gita Giuseppina Gladys Grace Graziella Grazyna Gulmira
+			Hannah Harriette Hattie Helen Hortense Hysen
+			Ilana Indra Inez Ira Irene Irina Isabel Ivelisse Ivonne
+			Jackie Jacquelyn Janelle Janine Jasmattie Jazmine Jeannette Jennifer Jessica Jillian Julia Juliana Jyoti
+			Katherine Katiuska Kim Kristen
+			Lakeisha Lana Latasha Latoya Lauren Lei Lila Lillie Lisa Lisamarie Lizzie Lola Lotte Lucia Lucy Luna Luz
+			Mackenzie Magda Magdalena Maham Mafalda Marcela Marge Maria Mariam Martha Maryellen Maya Mei Melissa Mercedes Meryl Mia Miriam Mindy Mona Monica Myra Myrlande Myrtle
+			Nabiha Nadia Nancy Natalia Nefertiti Nidia Nilda Nina Nora
+			Olga Oxana
+			Pamela Patience Pauline Philomena Precious Princess
+			Queenie Qurrat
+			Rachel Ramona Rebecca Regina Renata Rhoda Rin Rita Robyn Rosa Rosalia Ruth
+			Sage Sabine Salome Sanya Sasha Shanice Shaniqua Sharmin Sheryl Shonette Shulamit Sinead Sonia Sophia Stephanie Susan Susanna Suzette Svetlana Sybil Syeda Sylvia
+			Tania Tanisha Tara Tarana Tatyana Tawanna Teresa Tina Tommasina Tribecca Trudy
+			Vanessa Velma Vera Veronica Vincenza Victoria Virginia
+			Xiao
+			Yael Yangchen Yanina Yasmin Yekaterina Ying Yocasta Yolanda Yoselyn
+			Zaida Zelda Zelina Zena Zenobia Zipporah
+		}
+		}
+		beltway = {
+			male_names = {
+				Aaron Abayomi Abe Abraham Abraham_Washington Actus Adam Adlai Alben Albert Alexander Allan Allistar Alonzo Americus Amicus Amtrak Andrew Anthony Armistead Arthur Atlarge Augustine Avatus Avery
+				Bailey Bannister Behrouz Benator Benedict Benjamin Benning Bergstrom Bill Blair Board Booker Brandeis Broadus Brocard Brutus Buchanan Burleith Bushrod Butch Byron
+				Cabot Callahan Calvin Carrington Carter Carver Cato Caucus Cecil Certioraris Charles Chambe Chuck Charles Chase Chavous Chester Clark Clause Collis Comus Conrail Cohan Conan Constantine Contrac Collis Coram Corbin Cordwood Cornelius Corpus Cryin Custis
+				Danforth Daniel Darnell David Davy Deacon Defen Delano Delaware Delonte Deodand Deondre Derwin Deshawn Dewey Dick Dignatus Donald Douglass Dumbarton Dunbar Dupont
+				Edgar Elbridge Elgin Elias Elliot Ellsworth Ely Emblem Emerson Emmanuel Enbanc Eugene Eulogy Eun Exparte
+				Farragut Fatoumata Fielding Filibuster Fitzhugh Folarin Fourscore Francis Franklin Fredo Fuller
+				Garza George George_Washington Gerald Gideon Givem Grandold Gravamen Grover
+				Habeas Hamilton Hancock Hank Harkness Harrison Harry Hatchact Hawthorne Henry Herbert Hezekiah Hickory Howard Howie Hubert
+				Ike Imani Inon Iqbal Irvin Irving Ivan
+				Jackson Jamaal James Jarrett Jeb Jefferson Jin John John_Henry Johnny Jonas Julian Julius Jussolis Justus
+				Kehinde Kent Kevin Keyshawn Kinderhook Kingsley Knox Kwami Kyong
+				Lamond Lansing Landslide Lark LaShawn Ledyard Lee Levi Lew Lexforis Lincoln Linwood Llyod Locke Logan Louis Lowratings_hash Luther Lyin Lyndon
+				Malarkus Mandamus Marchin Marion Mark Marshall Martin Marvin Mason Maurice Maxwell Meriweather Merkin Mesfin Michael Millard Min_Jun Mitt Mogul Mohammad Monitor Monticello Montpelier Monroe Morgan Muriel Mussie Myer
+				Navarro Naylor Nelson Nemo Nicholas Nigel Nodrama
+				Octavius Ofthe Olney Oney Onus Orindatus Orlando
+				Parnell Pat Patton Paul Penn Pershing Peter Petworth Powell Preamble Prejud Prentice Prince Publicus
+				Quentin Quid Quincy Quorum
+				Randolph Rashad Reveille Rexford Richard Riddick Robert Roderick Roe Ronald Roosevelt Ross Rutherford Rutledge
+				Samuel Sanctimonius Schuyler Scoop Seger Seward Seymour Shadey Sharrod Shaw Sherman Shipley Sidney Signer Silvan Sleepin Sliperie Smith Statute Stephen Sung Syed
+				Tadesse Taft Takoma Taps Tariq Tencent Tenley Tenpenny Thaddeus Thanh Theodore Thomas Thurgood Thurl Tim_Apple Todd Totten Tristram Troy Travon Truman Truxton Tyree
+				Ulysses Union
+				Vernon Veto Vice Victor Vincent Volens
+				Walter Warren Washington Wei Wesley Wesson William Willie Wilson Winfield Wondwosen Woodrow 
+				Xavier
+				Yonas Yun
+				Zachary Zekiah Zenith
+			}
+			female_names = {
+				Abigail Acela Acquitta Affida Agatha Alexandria Alice Alyson Amata Amelia Amphyllis Anacostia Anika Anita Athena Audita Ayesha Ayn
+				Babbs Barbara Bailey Beatrice Benefactia Bethesda Betsy Beulah Bijan Bixby Bona Bridget Brooke
+				Capri Carolina Catharine Charmaine Chelsea Clasula Collatera Columbia Concordia Condoleezza Corda Crazie Culpa Curiae Cynthia
+				Daphne Declara Defacta Diana Diot Divina Donata Dorothy Dubitante
+				Earnestine Ebony Eden Edith Eileen Eleanor Eleutheria Ella Ellipse Ellis Elvira Emancipata Emma Equity Errata Esther Ethel Exgratia
+				Felicity Fierifacia Florencia Frances
+				Georgia Gladys Gloria Gloriana Goldie Govena Gretchen Gyeong
+				Hae Hannah Harriet Hattie Helen Hilary Hyori Hypotheca
+				Industria Informa Interdicta Invicta Ipsissima Ivy 
+				Jacquelyn Jae Janeese Jeane Jennifer Jessica Jill Judicia Julia Jury Justice Justina Justitia
+				Kalorama Kareem Katherine Katrina Keisha Khulan Kiana
+				Lakeisha Latasha LaTonya Latoya Laurel Lawanda Leah Libertas Liberty Liz Lobbie Lorraine Lyin
+				Madison Madlyn Majority Mariam Maple Marilyn Martha Mary McKenzie Mei Melissa Memoria Merces Metro Midcity Millenia Millicent Miranda Moira Monique Muriel
+				Nancy Natalia Natasha Nevaeh Nongrata Nullabona
+				Octavia Olivia Olympia Ophelia Oracula
+				Pamela Patience Patricia Paula Pauline Peace Petra Potomac Precedenta Proclamatia Prorata Prosperity Providence Prudence Publicia Purity
+				Quaraea
+				Regula Reilly Respublia Robyn Rose Rosie Ruth
+				Sally Sarah Scripta Selamawit Seneca Shamika Shanice Siespan Sola Sonia Starsand Stella Subpoena Susanna Sydney
+				Tae Taemi Tamara Tanisha Thehill Theresa Thomasina Tiffany Tawanna Towanna Tyla
+				Velvet Vera Veta Victoria Vindicta Virginia Virtue Vivian
+				Wackie Wendy Wilhelmina Winnet
+			}
+		}
+		upstater = {
+			male_names = { Achilles Adonis Adrian Aeneas Agapett Ajax Albert Alonzo Alphonso Angelo Anthony Apollo Archimedes Ardolph Argus Aristotle Arthur Atticus Augustus Aurelius Bartolomeus Bernard Bolivar Boniface Brutus Byron Caesar Caloger Camillus Carmine Cashunyon Castor Cato Cephas Chandler Cicero Cincinnatus Claudius Clayton Clinton Columbus Conesus Constantine Cornelius Crassus Crispus Cristoforo Croton Curtis Cyrus Damian Daniel Darius David Decatur Dewitt Dorian Dryden Edmund Edwin Ellis Enrico Ercole Erasmus Erastus Eric Euclid Eugene Everett Ezio Fabius Fillmore Flavius Florell Fordyce Francis Frederick Galen Garibaldi George Giovanni Gregorius Hamlin Hannibal Hector Himerius Homer Horatio Hubert Ignatius Isaac Isaiah Jacob James Joseph Julius Junius Lafayette Lawrence Leo Lorenzo Louis Luca Luciano Lucius Ludovic Lysander Macedon Manlius Marcellus Marcian Marcus Martin Matteus Menelaus Michael Millard Morris Nestor Oren Orion Orlando Orpheus Orsamus Otetian Ottavis Ovid Owen Paris Paulus Peregrin Petrus Pharcellus Philip Phineas Pindar Plato Pompey Priam Publius Quinton Randolph Remus Rex Ricardo Robert Rocco Roger Romulus Rufus Russell Samuel Scamander Scipio Sempronius Seneca Silus Simeon Solomon Solon Stanislaus Stanwix Stephanus Sterling Stratis Sulla Sylvan Tacitus Terrance Theodorus Theseus Thomas Titus Trajan Travis Tullis Ulysses Victor Vincent Virgil Walter William Willis Xander Xavier Zeno Zeus }
+        	female_names = { Ada Albertina Alda Alexandra Alexia Alma Amelia Amenia Amity Anastasia Angela Angelica Angeline Anna Annalise Annetta Arcadia Arietta Athena Attica Augusta Aurelia Aurora Barbara Bardonia Bellona Bernice Bernadette Bernadine Bethany Bettina Beulah Billie_Jo Bovina Brunella Cambria Camilla Candice Carlotta Carmela Carmella Caroline Cassandra Catharina Cathleen Ceres Charity Clara Columbia Constantia Cornelia Cynthia Delphi Diana Dido Dolores Donata Eden Edmonia Elba Eleanor Elmira Elma Electra Emma Erma Estella Etna Eunice Felicia Florence Florine Genevieve Georgina Helen Henrietta Irene Iris Jessica Josephine Julia Juliana Juno Kayleigh Lacona Lana Latoya Lavantia Lavinia Leona Lillia Lorraine Lucrecia Magdalena Marcia Margaret Maria Mariana Marion Marjorie Martha Matilda Maxima Mildred Mina Minerva Modena Muriel Nancy Ogarita Olivia Palmyra Pamelia Pandora Patria Patricia Paulina Penelope Philadelphia Phyllis Ramona Rebecca Regina Renata Rhoda Rosa Rosemond Savona Scriba Sophia Stella Stephania Tania Teresa Theodosia Tiffany Urbana Velma Vera Victoria Viola Waneik Wilhelmina Winifred Yolanda Zena Zenobia }
+		}
+		pocono = {
+			male_names = { Aaron Albertus Alexander Alfred Alix Archibald Andre Andrew Antonio Amedeo Arlington Barett Barry Benjamin Burrhus Boris Brant Brendt Brian Carl Carson Conrad Charles Chauncey Christian Christopher Curtis Dana Dane Daniel Darrun Darryl David Dennis DeNorval Donald Dwayne Edward Edwin Elbern Eugene Farley Frank Francesco Francis Fred Gary Gerry George Grover Gustav Hammond Hans Harvey Henry Herman Hugh Howard Ian Jack James Jason Jeff Jerry Joeseph John Jordan Josiah Karl Keith Keno Larry Lee Leon Lester Lionel Ludwig Matthew Marcus Mario Martin Michael Mulgrew Murray Nathan Nicholas Noel Norton Oakes Omar Orlando Paul Parke Peter Peyton Randall Russell Robert Ross Roy Sage Samuel Soloman Stanley Stephen Steven Terry Theo Thomas Tony Timothy Victor Walter William Zach }
+        	female_names = { Aimee Alexandra Alexis Althea Andrea Amanda Blodwen Beth Carmen Carolyn Chakaia Chanelle Cheryl Christine Cindy Clarissa Devon Ella Ellen Elsie Gelsey Gloria Hana Hilda Jane Jean Jennifer Kate Katherine Karen Kristen Lauren Lara Lillian Lisa Marcine Mary Mel Mellissa Michaella Michelle Mildred Sally Sandra Sarah Stephanie Susan Varvara Victoria }
+		}
+		hudsonian = {
+			 male_names = {
+				Abel Abraham Adrian Agricola Albert Alexander Allen Alrick Alton Andrew Anton Archibald Arent Artur August Averell
+				Baltus Bastian Benjamin Brasher Brom
+				Calvert Calvin Carillon Carlisle Charles Chester Clinton Cornelius Cortlandt Cotton
+				Daniel David Delby Derrick Deruyter Dover
+				Ebenezer Edgar Edward Edwin Eldred Eli Elihu Ellis Ernest Esopus Ethan Eugene Ezra
+				Fletcher Fordyce Franklin Frederick Friso
+				Geoffrey George Gerrit Gideon Guyford
+				Hamilton Harmanus Hector Hendrick Heywood Himerius Holbrook Horace Howard Hudson Hugh Hunter
+				Ichabod Irving Isaac Isidore
+				Jacobus James Jasper Jeremiah Jervis Jocelyn John Jonathan Joseph Josiah Julius Junior
+				Kalman Kel Kent Killian Kirke
+				Launcelot Lemuel Leo Levi Lewis Lincoln Linus Lyman
+				Malcolm Marc Marius Martin Mather Maunsell Merwin Montgomery Morris Moses
+				Nassau Nathaniel Nelson Nicholas Norton
+				Ogden Oliver Oswald
+				Paul Peter Philip
+				Quentin Quincy Quoz
+				Raymond Richard Rip Robert Rodney Roloff Roger Rollin
+				Samuel Schenevus Schuyler Seymour Simon Solomon Squire Stephanus Sylvan
+				Temple Thaddeus Theodorus Tompkin Traynor Truman
+				Vincent
+				Walter Warren Washington Whitelaw William Wolf Worcester
+			}
+			female_names = {
+				Alexandra Alice Almira Amelia Amenia Angelica Anne Armgard Augusta
+				Barbara Beatrice Bella Bethany
+				Camilla Carmen Caroline Cassandra Chelsea Christine Clara Cornelia
+				Deborah Debbie Doris Dorothy
+				Edith Electra Elizabeth Ellen Emma Ephratah Esperance Esther Eva Evelyn
+				Fiona Francine
+				Genevieve Georgina Geraldine Gladys
+				Hannah Helen Hillary
+				Ida
+				Jackie Jane Jennifer Jocelyn Josephine Judith Julia
+				Kathleen Katrina Kirsten
+				Lauren Leona Lillia Loretta Lucrece Lucy Luna
+				Marcia Margaret Mariana Marion Martha Mary Maryalice Maryellen Menia Meredith Mina Modena Molly
+				Olive
+				Pandora Paris Patricia Pauline Penelope Philia
+				Rebecca Ruth
+				Shelby Shelley Shirley Stephania Suzanne
+				Theodosia
+				Viola
+				Winifred
+				Zena
+			}
+		}
 	}
 	
 	barbarian_names = { 

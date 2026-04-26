@@ -1,4 +1,4 @@
-﻿110={ #
+﻿110={ #Allegan
 	terrain="plains"
 	culture="chicagoan"
 	religion="promethean"
@@ -11,20 +11,7 @@
 	}
 }
 
-111={ #
-	terrain="plains"
-	culture="chicagoan"
-	religion="promethean"
-	trade_goods=""
-	civilization_value=10
-	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=1
-	}
-}
-
-112={ #
+112={ #Dowagiac
 	terrain="plains"
 	culture="chicagoan"
 	religion="promethean"
@@ -39,7 +26,7 @@
 
 560={ #
 	terrain="plains"
-	culture="menominee"
+	culture="potowatomi"
 	religion="promethean"
 	trade_goods=""
 	civilization_value=10
@@ -52,7 +39,7 @@
 
 561={ #
 	terrain="plains"
-	culture="menominee"
+	culture="potowatomi"
 	religion="promethean"
 	trade_goods=""
 	civilization_value=10
@@ -65,7 +52,7 @@
 
 562={ #
 	terrain="plains"
-	culture="menominee"
+	culture="potowatomi"
 	religion="promethean"
 	trade_goods=""
 	civilization_value=10
@@ -78,7 +65,7 @@
 
 563={ #
 	terrain="plains"
-	culture="menominee"
+	culture="potowatomi"
 	religion="promethean"
 	trade_goods=""
 	civilization_value=10
@@ -104,7 +91,7 @@
 
 839={ #
 	terrain="forest"
-	culture="northlander"
+	culture="upnorther"
 	religion="lakeshore"
 	trade_goods=""
 	civilization_value=10
@@ -130,7 +117,7 @@
 
 841={ #
 	terrain="forest"
-	culture="northlander"
+	culture="upnorther"
 	religion="lakeshore"
 	trade_goods="wood"
 	civilization_value=10
@@ -195,7 +182,7 @@
 
 902={ #
 	terrain="forest"
-	culture="northlander"
+	culture="upnorther"
 	religion="lakeshore"
 	trade_goods=""
 	civilization_value=10
@@ -208,7 +195,7 @@
 
 903={ #
 	terrain="forest"
-	culture="northlander"
+	culture="upnorther"
 	religion="lakeshore"
 	trade_goods=""
 	civilization_value=10
@@ -221,7 +208,7 @@
 
 904={ #
 	terrain="plains"
-	culture="northlander"
+	culture="upnorther"
 	religion="lakeshore"
 	trade_goods="limestone"
 	civilization_value=10
@@ -234,7 +221,7 @@
 
 905={ #
 	terrain="plains"
-	culture="northlander"
+	culture="upnorther"
 	religion="lakeshore"
 	trade_goods=""
 	civilization_value=10
@@ -442,7 +429,7 @@
 
 3069={ #
 	terrain="forest"
-	culture="northlander"
+	culture="upnorther"
 	religion="lakeshore"
 	trade_goods=""
 	civilization_value=10
@@ -455,7 +442,7 @@
 
 3070={ #
 	terrain="forest"
-	culture="northlander"
+	culture="upnorther"
 	religion="lakeshore"
 	trade_goods=""
 	civilization_value=10
@@ -468,7 +455,7 @@
 
 3071={ #
 	terrain="forest"
-	culture="northlander"
+	culture="upnorther"
 	religion="lakeshore"
 	trade_goods=""
 	civilization_value=10
@@ -481,7 +468,7 @@
 
 3072={ #
 	terrain="forest"
-	culture="northlander"
+	culture="upnorther"
 	religion="lakeshore"
 	trade_goods=""
 	civilization_value=10
@@ -494,7 +481,7 @@
 
 3073={ #
 	terrain="forest"
-	culture="yooper"
+	culture="upnorther"
 	religion="mayan_pantheon"
 	trade_goods=""
 	civilization_value=10
@@ -520,7 +507,7 @@
 
 3472={ #
 	terrain="forest"
-	culture="northlander"
+	culture="upnorther"
 	religion="lakeshore"
 	trade_goods=""
 	civilization_value=10
@@ -533,7 +520,7 @@
 
 3473={ #
 	terrain="forest"
-	culture="northlander"
+	culture="upnorther"
 	religion="lakeshore"
 	trade_goods="fur"
 	civilization_value=10
@@ -678,7 +665,7 @@
 	terrain="plains"
 	culture="motowner"
 	religion="promethean"
-	trade_goods=""
+	trade_goods="iron"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -925,7 +912,7 @@
 	terrain="plains"
 	culture="michigander"
 	religion="promethean"
-	trade_goods=""
+	trade_goods="iron"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -938,7 +925,7 @@
 	terrain="farmland"
 	culture="michigander"
 	religion="promethean"
-	trade_goods=""
+	trade_goods="fruits"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"

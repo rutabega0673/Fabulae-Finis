@@ -313,3 +313,17 @@ mervivant = { # Mervivant
 	}
 	religion_category = pantheon
 }
+
+## Guruist ##
+guruist = { # Guruist
+	color = rgb { 162 105 224 } #Same color as CK3 Harmonious Way
+	modifier = {
+		happiness_for_wrong_religion_modifier = 0.05
+		global_pop_promotion_speed_modifier = 0.25
+		monthly_wage_modifier = 0.20
+		
+	}
+	religion_category = sages
+	sacrifice_icon = sacrifice_incense
+	sacrifice_sound = "event:/SFX/UI/Religion/sfx_ui_religion_generic_sacrifice"
+}

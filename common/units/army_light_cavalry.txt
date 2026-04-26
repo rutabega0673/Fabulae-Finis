@@ -12,17 +12,23 @@
 	movement_speed = 4
 	build_time = 45
 	
-	light_infantry = 1.25
-	heavy_infantry = 0.8
-	spearmen = 0.70
-	heavy_cavalry = 0.8
+	archers = 1.1
+	camels = 0.8
+	chariots = 1.1
+	heavy_cavalry = 0.9
+	heavy_infantry = 1.1
+	horse_archers = 1.0
+	light_cavalry = 1
+	light_infantry = 1
+	spearmen = 0.8
 	warelephant = 0.5
-	chariots = 1.25
-	light_cavalry = 1.0
-	horse_archers = 1.25
-	archers = 1.4
-	camels = 1.0
-	supply_train = 2.0
+	axemen = 1
+	horse_skirmishers = 0.9
+	pikemen = 0.8
+	slingers = 1
+	supply_train = 2
+	engineer_cohort = 2
+
 	
 	attrition_weight = 1.5
 	attrition_loss = 0.05
@@ -31,7 +37,7 @@
 	
 	ai_max_percentage = 15
 	build_cost = {
-		gold = 10
+		gold = 12
 		manpower = 1
 	}
 	food_consumption = 0.25

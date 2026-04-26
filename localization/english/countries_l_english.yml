@@ -11,10 +11,15 @@
  #:0 ""
  # GERMANIC:0 ""
  #:0 ""
+ ## East Coast ##
  PRI:0 "The Presidency"
  PRI_ADJ:0 "Presidental"
  NYC:0 "New York"
  NYC_ADJ:0 "New Yorker"
+
+ ## Midwest ##
+ IWA:0 "Iowan Kingdom"
+ IWA_ADJ:0 "Iowan"
 
 # Gaelic #
  AUTINI:0 "Autinia"

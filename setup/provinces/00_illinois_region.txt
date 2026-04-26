@@ -1,56 +1,4 @@
-﻿223={ #
-	terrain="plains"
-	culture="chicagoan"
-	religion="catholic"
-	trade_goods=""
-	civilization_value=10
-	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=1
-	}
-}
-
-224={ #
-	terrain="plains"
-	culture="chicagoan"
-	religion="catholic"
-	trade_goods=""
-	civilization_value=10
-	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=1
-	}
-}
-
-225={ #
-	terrain="plains"
-	culture="chicagoan"
-	religion="catholic"
-	trade_goods="limestone"
-	civilization_value=10
-	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=1
-	}
-}
-
-226={ #
-	terrain="plains"
-	culture="chicagoan"
-	religion="catholic"
-	trade_goods=""
-	civilization_value=10
-	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=1
-	}
-}
-
-320={ #
+﻿320={ #
 	terrain="plains"
 	culture="butternutter"
 	religion="catholic"
@@ -144,123 +92,6 @@
 434={ #
 	terrain="plains"
 	culture="hoosier"
-	religion="catholic"
-	trade_goods=""
-	civilization_value=10
-	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=1
-	}
-}
-
-2229={ #
-	terrain="plains"
-	culture="chicagoan"
-	religion="catholic"
-	trade_goods="cloth"
-	civilization_value=10
-	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=1
-	}
-}
-
-2230={ #
-	terrain="plains"
-	culture="chicagoan"
-	religion="catholic"
-	trade_goods="grain"
-	civilization_value=10
-	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=1
-	}
-}
-
-2231={ #
-	terrain="plains"
-	culture="chicagoan"
-	religion="catholic"
-	trade_goods=""
-	civilization_value=10
-	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=1
-	}
-}
-
-2232={ #
-	terrain="plains"
-	culture="chicagoan"
-	religion="catholic"
-	trade_goods="grain"
-	civilization_value=10
-	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=1
-	}
-}
-
-2233={ #
-	terrain="farmland"
-	culture="chicagoan"
-	religion="catholic"
-	trade_goods="iron"
-	civilization_value=10
-	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=1
-	}
-}
-
-2234={ #
-	terrain="plains"
-	culture="chicagoan"
-	religion="catholic"
-	trade_goods=""
-	civilization_value=10
-	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=1
-	}
-}
-
-2512={ #
-	terrain="plains"
-	culture="chicagoan"
-	religion="catholic"
-	trade_goods="honey"
-	civilization_value=10
-	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=1
-	}
-}
-
-2513={ #Kenūsīw
-	terrain="plains"
-	culture="chicagoan"
-	religion="catholic"
-	trade_goods="glass"
-	civilization_value=10
-	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=1
-	}
-}
-
-2514={ #
-	terrain="plains"
-	culture="chicagoan"
 	religion="catholic"
 	trade_goods=""
 	civilization_value=10
@@ -600,7 +431,7 @@
 	terrain="plains"
 	culture="heartlander"
 	religion="catholic"
-	trade_goods=""
+	trade_goods="fish"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -613,7 +444,7 @@
 	terrain="plains"
 	culture="heartlander"
 	religion="catholic"
-	trade_goods=""
+	trade_goods="stone"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -679,19 +510,6 @@
 	culture="hoosier"
 	religion="catholic"
 	trade_goods="grain"
-	civilization_value=10
-	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=1
-	}
-}
-
-7317={ #Chicago
-	terrain="farmland"
-	culture="chicagoan"
-	religion="catholic"
-	trade_goods="marble"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -856,71 +674,6 @@
 	}
 }
 
-8755={ #Keecąk
-	terrain="plains"
-	culture="heartlander"
-	religion="catholic"
-	trade_goods="grain"
-	civilization_value=10
-	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=1
-	}
-}
-
-8756={ #
-	terrain="plains"
-	culture="chicagoan"
-	religion="catholic"
-	trade_goods=""
-	civilization_value=10
-	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=1
-	}
-}
-
-8757={ #
-	terrain="plains"
-	culture="chicagoan"
-	religion="catholic"
-	trade_goods=""
-	civilization_value=10
-	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=1
-	}
-}
-
-8758={ #
-	terrain="plains"
-	culture="chicagoan"
-	religion="catholic"
-	trade_goods=""
-	civilization_value=10
-	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=1
-	}
-}
-
-8806={ #Gary
-	terrain="plains"
-	culture="chicagoan"
-	religion="promethean"
-	trade_goods="iron"
-	civilization_value=10
-	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=1
-	}
-}
-
 9203={ #Pittsfield
 	terrain="farmland"
 	culture="gatewayan"
@@ -960,19 +713,6 @@
 	}
 }
 
-9481={ #
-	terrain="plains"
-	culture="chicagoan"
-	religion="catholic"
-	trade_goods=""
-	civilization_value=10
-	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=1
-	}
-}
-
 9482={ #
 	terrain="plains"
 	culture="hoosier"
@@ -991,71 +731,6 @@
 	culture="hoosier"
 	religion="catholic"
 	trade_goods="grain"
-	civilization_value=10
-	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=1
-	}
-}
-
-9484={ #
-	terrain="plains"
-	culture="hoosier"
-	religion="catholic"
-	trade_goods=""
-	civilization_value=10
-	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=1
-	}
-}
-
-9511={ #
-	terrain="plains"
-	culture="heartlander"
-	religion="catholic"
-	trade_goods=""
-	civilization_value=10
-	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=1
-	}
-}
-
-9512={ #
-	terrain="plains"
-	culture="heartlander"
-	religion="catholic"
-	trade_goods="tobacco"
-	civilization_value=10
-	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=1
-	}
-}
-
-9513={ #
-	terrain="plains"
-	culture="heartlander"
-	religion="catholic"
-	trade_goods="grain"
-	civilization_value=10
-	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=1
-	}
-}
-
-9514={ #
-	terrain="plains"
-	culture="heartlander"
-	religion="catholic"
-	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"

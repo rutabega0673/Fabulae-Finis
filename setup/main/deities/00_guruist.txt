@@ -1,0 +1,8 @@
+deity_manager = {
+    deities_database = { ### KEYS 200 - 299 ###
+		# {put number of deity here} = {
+		#	key = omen_
+		#	deity = deity_
+		#}
+	}
+}

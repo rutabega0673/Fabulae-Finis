@@ -1,0 +1,884 @@
+﻿572={ #
+	terrain="plains"
+	culture="cheesehead"
+	religion="unitarian_universialism"
+	trade_goods="honey"
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+573={ #Sīsepikamiw
+	terrain="plains"
+	culture="menominee"
+	religion="viking"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+574={ #Sōmen-Nepēhsaeh
+	terrain="plains"
+	culture="cheesehead"
+	religion="unitarian_universialism"
+	trade_goods="wood"
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+575={ #Pawāhān-Sīpiah
+	terrain="plains"
+	culture="menominee"
+	religion="unitarian_universialism"
+	trade_goods="rice"
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+1095={ #
+	terrain="forest"
+	culture="odawa"
+	religion="viking"
+	trade_goods="wood"
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+1096={ #
+	terrain="forest"
+	culture="cheesehead"
+	religion="viking"
+	trade_goods="wood"
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+1098={ #
+	terrain="forest"
+	culture="odawa"
+	religion="viking"
+	trade_goods="iron"
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+1124={ #
+	terrain="plains"
+	culture="cheesehead"
+	religion="catholic"
+	trade_goods="grain"
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+1125={ #Maenaewah
+	terrain="farmland"
+	culture="cheesehead"
+	religion="viking"
+	trade_goods="glass"
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+1126={ #
+	terrain="plains"
+	culture="cheesehead"
+	religion="viking"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+1127={ #Wākohsaeh
+	terrain="plains"
+	culture="cheesehead"
+	religion="viking"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+2024={ #Niikokiri
+	terrain="plains"
+	culture="cheesehead"
+	religion="viking"
+	trade_goods="cattle"
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+2025={ #
+	terrain="plains"
+	culture="cheesehead"
+	religion="viking"
+	trade_goods="tobacco"
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+2026={ #
+	terrain="plains"
+	culture="cheesehead"
+	religion="viking"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+2027={ #
+	terrain="plains"
+	culture="cheesehead"
+	religion="viking"
+	trade_goods="fur"
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+2082={ #Huuksac
+	terrain="hills"
+	culture="cheesehead"
+	religion="viking"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+2083={ #Nįoxawanį
+	terrain="hills"
+	culture="cheesehead"
+	religion="viking"
+	trade_goods="wild_game"
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+2084={ #
+	terrain="hills"
+	culture="cheesehead"
+	religion="viking"
+	trade_goods="tubers"
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+2085={ #
+	terrain="hills"
+	culture="cheesehead"
+	religion="viking"
+	trade_goods="tubers"
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+2566={ #Wākoh
+	terrain="plains"
+	culture="menominee"
+	religion="unitarian_universialism"
+	trade_goods="rice"
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+2567={ #Wāpan
+	terrain="plains"
+	culture="menominee"
+	religion="unitarian_universialism"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+2568={ #Waawa'ą
+	terrain="plains"
+	culture="cheesehead"
+	religion="unitarian_universialism"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+3407={ #Nįį'uic
+	terrain="hills"
+	culture="cheesehead"
+	religion="lutheran"
+	trade_goods="stone"
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+3408={ #Hinųkwas
+	terrain="hills"
+	culture="cheesehead"
+	religion="lutheran"
+	trade_goods="fish"
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+3409={ #
+	terrain="hills"
+	culture="cheesehead"
+	religion="lutheran"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+3829={ #Apaesiqtekow
+	terrain="plains"
+	culture="cheesehead"
+	religion="viking"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+3830={ #Es-Wāpanoh
+	terrain="plains"
+	culture="cheesehead"
+	religion="viking"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+3831={ #Pūcīhkit
+	terrain="plains"
+	culture="cheesehead"
+	religion="viking"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+3993={ #
+	terrain="plains"
+	culture="minnesotan"
+	religion="viking"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+3994={ #Kaaghi Hoci
+	terrain="plains"
+	culture="cheesehead"
+	religion="viking"
+	trade_goods="horses"
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+3995={ #
+	terrain="forest"
+	culture="cheesehead"
+	religion="viking"
+	trade_goods="tubers"
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+3996={ #
+	terrain="plains"
+	culture="cheesehead"
+	religion="viking"
+	trade_goods="honey"
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+4014={ #Kēwaeskam
+	terrain="plains"
+	culture="cheesehead"
+	religion="viking"
+	trade_goods="honey"
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+4015={ #Omīnīw
+	terrain="plains"
+	culture="cheesehead"
+	religion="viking"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+4016={ #Sāpīwaehekaneh
+	terrain="plains"
+	culture="cheesehead"
+	religion="viking"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+4697={ #Pasīpahkīhnen
+	terrain="plains"
+	culture="cheesehead"
+	religion="viking"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+4698={ #Wašjikra
+	terrain="plains"
+	culture="cheesehead"
+	religion="viking"
+	trade_goods="wood"
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+4699={ #Xeešuc
+	terrain="plains"
+	culture="cheesehead"
+	religion="viking"
+	trade_goods="wood"
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+4700={ #
+	terrain="plains"
+	culture="cheesehead"
+	religion="viking"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+4946={ #Toogira
+	terrain="farmland"
+	culture="cheesehead"
+	religion="unitarian_universialism"
+	trade_goods="honey"
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+4947={ #
+	terrain="plains"
+	culture="cheesehead"
+	religion="unitarian_universialism"
+	trade_goods="tobacco"
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+4948={ #
+	terrain="plains"
+	culture="cheesehead"
+	religion="unitarian_universialism"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+4949={ #Įįnį Poroporo
+	terrain="plains"
+	culture="cheesehead"
+	religion="unitarian_universialism"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+5121={ #Oskas
+	terrain="plains"
+	culture="menominee"
+	religion="viking"
+	trade_goods="rice"
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+5122={ #Sakēmaewataenoh
+	terrain="plains"
+	culture="cheesehead"
+	religion="viking"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+5123={ #Ahkōnemeh
+	terrain="plains"
+	culture="cheesehead"
+	religion="viking"
+	trade_goods="wild_game"
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+5124={ #Wanikaqmiw
+	terrain="plains"
+	culture="menominee"
+	religion="viking"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+6281={ #
+	terrain="plains"
+	culture="cheesehead"
+	religion="viking"
+	trade_goods="wood"
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+6282={ #
+	terrain="forest"
+	culture="cheesehead"
+	religion="viking"
+	trade_goods="fur"
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+6283={ #
+	terrain="plains"
+	culture="cheesehead"
+	religion="viking"
+	trade_goods="wild_game"
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+7024={ #Namaew-Wīhkit
+	terrain="forest"
+	culture="cheesehead"
+	religion="lakeshore"
+	trade_goods="fish"
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+7025={ #Manetōwak
+	terrain="plains"
+	culture="cheesehead"
+	religion="lakeshore"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+7026={ #Ākem
+	terrain="plains"
+	culture="cheesehead"
+	religion="lakeshore"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+7520={ #Wanagoomįk
+	terrain="hills"
+	culture="cheesehead"
+	religion="unitarian_universialism"
+	trade_goods="clay"
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+7521={ #Mąązamąnį
+	terrain="hills"
+	culture="cheesehead"
+	religion="unitarian_universialism"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+7522={ #Hoguc
+	terrain="hills"
+	culture="cheesehead"
+	religion="unitarian_universialism"
+	trade_goods="stone"
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+7523={ #Xeešoc
+	terrain="hills"
+	culture="cheesehead"
+	religion="unitarian_universialism"
+	trade_goods="base_metals"
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+7916={ #
+	terrain="plains"
+	culture="cheesehead"
+	religion="viking"
+	trade_goods="wood"
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+7917={ #
+	terrain="plains"
+	culture="cheesehead"
+	religion="viking"
+	trade_goods="maple"
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+7918={ #
+	terrain="forest"
+	culture="cheesehead"
+	religion="viking"
+	trade_goods="rice"
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+7919={ #
+	terrain="forest"
+	culture="cheesehead"
+	religion="viking"
+	trade_goods="wood"
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+8847={ #Omīniahkan
+	terrain="plains"
+	culture="cheesehead"
+	religion="viking"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+8848={ #Wāpanahkīw-Otaeskonekan
+	terrain="plains"
+	culture="cheesehead"
+	religion="viking"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+8849={ #
+	terrain="forest"
+	culture="cheesehead"
+	religion="viking"
+	trade_goods="wood"
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+8850={ #Sāwanoh
+	terrain="plains"
+	culture="cheesehead"
+	religion="viking"
+	trade_goods="maple"
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+8851={ #
+	terrain="plains"
+	culture="cheesehead"
+	religion="viking"
+	trade_goods="wood"
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+11734={ #Reegaci Hoxawani
+	terrain="plains"
+	culture="cheesehead"
+	religion="viking"
+	trade_goods="maple"
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+11889={ #
+	terrain="plains"
+	culture="cheesehead"
+	religion="viking"
+	trade_goods="wood"
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+

@@ -157,21 +157,21 @@ spices = { #58 territories
 	color = { 0.6 0.8 0.4 }
 }
 
-elephants = { #82 territories
-	category = 0
-	allow_unit_type = warelephant
-	
-	gold = 0.4
-	
-	province = {
-		local_output_modifier = 0.03
-	}
-	country = {
-		warelephant_discipline = 0.1
-	}
-	
-	color = hsv { 0.6 0.2 0.4 }	
-}
+#elephants = { #82 territories
+#	category = 0
+#	allow_unit_type = warelephant
+#	
+#	gold = 0.4
+#	
+#	province = {
+#		local_output_modifier = 0.03
+#	}
+#	country = {
+#		warelephant_discipline = 0.1
+#	}
+#	
+#	color = hsv { 0.6 0.2 0.4 }	
+#}
 
 papyrus = { #23 territories
 	category = 2
@@ -626,17 +626,17 @@ fruits = {
 	}
 	color = hsv { 0.38 0.84 0.87 }
 }
-silphium = {
-	category = 4
-	gold = 0.45
-	province = {
-		local_freemen_happyness = happiness_small_svalue 
-	}
-	country = {
-		country_civilization_value = 4
-	}
-	color = { 0.4 0.9 0.7 }
-}
+#silphium = {
+#	category = 4
+#	gold = 0.45
+#	province = {
+#		local_freemen_happyness = happiness_small_svalue 
+#	}
+#	country = {
+#		country_civilization_value = 4
+#	}
+#	color = { 0.4 0.9 0.7 }
+#}
 tubers = { #Tubers
 	category = 1
 	gold = 0.3
@@ -644,9 +644,9 @@ tubers = { #Tubers
 		local_monthly_food = 4
 	}
 	country = {
-		pop_growth_modifier = 0.01
+		global_population_capacity_modifier = 0.05
 	}
-	color = hsv { 0.16 0.8 0.4 }
+	color = rgb { 116 80 53 }
 }
 beans = { #Beans
 	category = 1
@@ -719,7 +719,7 @@ maple = { #Maple
 	country = {
 		oratory_tech_investment = 0.05
 	}
-	color = hsv { 1 0.9 0.5 }
+	color = rgb { 191 49 73 }
 }
 cotton = { #Cotton
 	category = 5
@@ -730,7 +730,7 @@ cotton = { #Cotton
 	country = {
 		oratory_tech_investment = 0.05
 	}
-	color = hsv { 1 0.9 0.5 }
+	color = rgb { 200 188 190 }
 }
 tobacco = { #Tobacco
 	category = 5
@@ -739,7 +739,7 @@ tobacco = { #Tobacco
 		local_tribesmen_happiness = happiness_small_svalue
 	}
 	country = {
-		cultural_tech_investment = 0.02
+		global_commerce_modifier = 0.05
 	}
 	color = hsv { 0.6 0.2 0.5 }
 }
@@ -761,7 +761,7 @@ hallucinogenics = { #Hallucinogenics
 		local_tribesmen_happiness = happiness_small_svalue
 	}
 	country = {
-		cultural_tech_investment = 0.02
+		global_population_happiness = 0.01
 	}
 	color = hsv { 0.6 0.2 0.5 }
 }
@@ -772,7 +772,7 @@ clay = { #Clay
 		local_slaves_happiness = happiness_small_svalue
 	}
 	country = {
-		build_cost_modifier = -0.03
+		build_cost = -0.03
 	}
 	color = hsv { 0.4 0.2 0.6 }
 }
