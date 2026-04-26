@@ -1,0 +1,13 @@
+﻿mid_atlantic_heritage = {
+   	modifier = {
+        #good
+        land_morale_modifier = 0.05
+		global_commerce_modifier = 0.05
+       #bad
+        monthly_political_influence_modifier = -0.05
+   }
+
+   trigger = {
+        country_culture_group = yankee
+	}
+}

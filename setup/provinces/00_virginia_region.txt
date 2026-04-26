@@ -193,45 +193,6 @@
 	}
 }
 
-2043={ #
-	terrain="forest"
-	culture="piedmontese"
-	religion="evangelical"
-	trade_goods="clay"
-	civilization_value=10
-	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=1
-	}
-}
-
-2063={ #
-	terrain="forest"
-	culture="hoi_toider"
-	religion="evangelical"
-	trade_goods=""
-	civilization_value=10
-	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=1
-	}
-}
-
-2064={ #
-	terrain="marsh"
-	culture="hoi_toider"
-	religion="evangelical"
-	trade_goods="fish"
-	civilization_value=10
-	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=1
-	}
-}
-
 3150={ #
 	terrain="hills"
 	culture="beltway"
@@ -262,84 +223,6 @@
 	terrain="forest"
 	culture="beltway"
 	religion="americanist"
-	trade_goods=""
-	civilization_value=10
-	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=1
-	}
-}
-
-3365={ #
-	terrain="plains"
-	culture="southron"
-	religion="evangelical"
-	trade_goods=""
-	civilization_value=10
-	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=1
-	}
-}
-
-3366={ #
-	terrain="plains"
-	culture="southron"
-	religion="evangelical"
-	trade_goods=""
-	civilization_value=10
-	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=1
-	}
-}
-
-3367={ #
-	terrain="plains"
-	culture="hoi_toider"
-	religion="evangelical"
-	trade_goods=""
-	civilization_value=10
-	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=1
-	}
-}
-
-3683={ #
-	terrain="forest"
-	culture="southron"
-	religion="evangelical"
-	trade_goods="clay"
-	civilization_value=10
-	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=1
-	}
-}
-
-3684={ #
-	terrain="plains"
-	culture="southron"
-	religion="evangelical"
-	trade_goods=""
-	civilization_value=10
-	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=1
-	}
-}
-
-3685={ #
-	terrain="plains"
-	culture="southron"
-	religion="evangelical"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -561,71 +444,6 @@
 	terrain="forest"
 	culture="southron"
 	religion="americanist"
-	trade_goods=""
-	civilization_value=10
-	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=1
-	}
-}
-
-8019={ #
-	terrain="plains"
-	culture="southron"
-	religion="evangelical"
-	trade_goods=""
-	civilization_value=10
-	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=1
-	}
-}
-
-8020={ #
-	terrain="plains"
-	culture="southron"
-	religion="evangelical"
-	trade_goods=""
-	civilization_value=10
-	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=1
-	}
-}
-
-8021={ #
-	terrain="farmland"
-	culture="southron"
-	religion="evangelical"
-	trade_goods=""
-	civilization_value=10
-	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=1
-	}
-}
-
-8601={ #
-	terrain="marsh"
-	culture="hoi_toider"
-	religion="evangelical"
-	trade_goods=""
-	civilization_value=10
-	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=1
-	}
-}
-
-8602={ #
-	terrain="forest"
-	culture="hoi_toider"
-	religion="evangelical"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0

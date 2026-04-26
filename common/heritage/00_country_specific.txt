@@ -1,0 +1,15 @@
+﻿#ONLY for heritages with a specific tag(list) as trigger
+#roman_heritage = {
+#    modifier = {
+#        #good
+#        manpower_recovery_speed = 0.25
+#        monthly_military_experience_modifier = 0.2
+#
+ #       #bad
+#        naval_morale_modifier = -0.1
+#   }
+#
+ #   trigger = {
+ #       tag = ROM
+  #  }
+#}

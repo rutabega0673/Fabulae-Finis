@@ -1,0 +1,1 @@
+﻿#For all heritages added through events/missions/decisions etc

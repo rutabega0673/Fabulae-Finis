@@ -727,12 +727,30 @@
 	culture="gothamite"
 	religion="americanist"
 	trade_goods="marble"
-	civilization_value=10
+	civilization_value=35
 	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
+	province_rank="city"
+	nobles={
 		amount=1
 	}
+	nobles={
+		religion="catholic"
+		amount=1
+	}
+	citizen={
+		religion="catholic"
+		amount=2
+	}
+	citizen={
+		amount=5
+	}
+	freemen={
+		amount=17
+	}
+	slaves={
+		amount=7
+	}
+	port_building=1
 }
 
 4490={ #Cherry Hill

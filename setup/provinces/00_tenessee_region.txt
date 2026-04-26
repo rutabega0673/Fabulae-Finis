@@ -375,19 +375,6 @@
 	}
 }
 
-5345={ #
-	terrain="forest"
-	culture="riverlander"
-	religion="evangelical"
-	trade_goods=""
-	civilization_value=10
-	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=1
-	}
-}
-
 5667={ #
 	terrain="plains"
 	culture="riverlander"
