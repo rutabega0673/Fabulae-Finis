@@ -34,7 +34,7 @@ provinces = {
 
 great_work_manager={	
 	great_works_database={
-		4381={
+		1={
 			ancient_wonder = yes
 			key="statue_of_liberty"
 			great_work_category="building"

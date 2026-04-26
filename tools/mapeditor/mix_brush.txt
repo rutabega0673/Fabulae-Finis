@@ -848,6 +848,57 @@
 			}
 		}
 
+		Sample={
+			Name="Sample from 1180, 1324"
+			Materials={
+				Material={
+					MaterialId="farmland_01"
+					Value=123
+				}
+
+				Material={
+					MaterialId="plains_01_rough"
+					Value=44
+				}
+
+				Material={
+					MaterialId="hills_01"
+					Value=14
+				}
+
+				Material={
+					MaterialId="forest_leaf_01"
+					Value=14
+				}
+
+				Material={
+					MaterialId="plains_01"
+					Value=13
+				}
+
+				Material={
+					MaterialId="medi_grass_01"
+					Value=13
+				}
+
+				Material={
+					MaterialId="northern_plains_01"
+					Value=12
+				}
+
+				Material={
+					MaterialId="plains_01_noisy"
+					Value=11
+				}
+
+				Material={
+					MaterialId="india_farmlands"
+					Value=11
+				}
+
+			}
+		}
+
 	}
 }
 
