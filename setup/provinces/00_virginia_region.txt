@@ -392,7 +392,7 @@
 	terrain="plains"
 	culture="southron"
 	religion="evangelical"
-	trade_goods=""
+	trade_goods="cattle" #Smithfield Ham
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"

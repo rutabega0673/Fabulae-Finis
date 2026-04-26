@@ -22,4 +22,10 @@ provinces = { #Any entry must contain a comment with city name.
 #	XXXX = {
 #		modifier = { modifier = generic_barbarian_spawn_place }
 #	}
+
+
+	6140 = { #Smithfield
+		modifier = { modifier = smithfield_ham always = yes }
+	}
+
 }
