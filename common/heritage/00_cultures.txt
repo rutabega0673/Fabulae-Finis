@@ -1,7 +1,7 @@
 ﻿mid_atlantic_heritage = {
    	modifier = {
         #good
-        land_morale_modifier = 0.05
+        land_morale_modifier = 0.03
 		global_commerce_modifier = 0.05
        #bad
         monthly_political_influence_modifier = -0.05

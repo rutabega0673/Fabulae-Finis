@@ -1,4 +1,56 @@
-﻿1605={ #
+﻿937={ #Galax
+	terrain="mountain"
+	culture="appalachian"
+	religion="omenteller"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+1060={ #Martinsburg
+	terrain="hills"
+	culture="appalachian"
+	religion="omenteller"
+	trade_goods="cattle"
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+1061={ #Winchester
+	terrain="mountain"
+	culture="appalachian"
+	religion="omenteller"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+1063={ #Augusta
+	terrain="hills"
+	culture="appalachian"
+	religion="omenteller"
+	trade_goods="wild_game"
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+1605={ #Fluvanna
 	terrain="forest"
 	culture="southron"
 	religion="americanist"
@@ -11,7 +63,7 @@
 	}
 }
 
-1606={ #
+1606={ #Louisa
 	terrain="forest"
 	culture="southron"
 	religion="americanist"
@@ -24,7 +76,7 @@
 	}
 }
 
-1607={ #
+1607={ #Charlottesville
 	terrain="hills"
 	culture="southron"
 	religion="americanist"
@@ -37,7 +89,7 @@
 	}
 }
 
-1608={ #
+1608={ #Powhatan
 	terrain="forest"
 	culture="southron"
 	religion="americanist"
@@ -50,7 +102,7 @@
 	}
 }
 
-1763={ #
+1763={ #Amherst
 	terrain="hills"
 	culture="southron"
 	religion="americanist"
@@ -63,7 +115,7 @@
 	}
 }
 
-1764={ #
+1764={ #Appomatox
 	terrain="forest"
 	culture="southron"
 	religion="evangelical"
@@ -76,7 +128,7 @@
 	}
 }
 
-1765={ #
+1765={ #Farmville
 	terrain="forest"
 	culture="southron"
 	religion="evangelical"
@@ -89,7 +141,7 @@
 	}
 }
 
-1766={ #
+1766={ #Lynchburg
 	terrain="forest"
 	culture="southron"
 	religion="evangelical"
@@ -102,7 +154,7 @@
 	}
 }
 
-1767={ #
+1767={ #Bedford
 	terrain="hills"
 	culture="southron"
 	religion="evangelical"
@@ -115,11 +167,37 @@
 	}
 }
 
-1941={ #
+1941={ #Linton Hall
+	terrain="plains"
+	culture="southron"
+	religion="americanist"
+	trade_goods="tobacco"
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+1942={ #Warrenton
+	terrain="forest"
+	culture="southron"
+	religion="americanist"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+1943={ #Manassas
 	terrain="plains"
 	culture="beltway"
 	religion="americanist"
-	trade_goods="tobacco"
+	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -128,8 +206,8 @@
 	}
 }
 
-1942={ #
-	terrain="forest"
+1944={ #Woodbridge
+	terrain="marsh"
 	culture="beltway"
 	religion="americanist"
 	trade_goods="grain" #Placeholder
@@ -141,7 +219,7 @@
 	}
 }
 
-2001={ #
+2001={ #Franklin
 	terrain="plains"
 	culture="southron"
 	religion="evangelical"
@@ -154,7 +232,7 @@
 	}
 }
 
-2002={ #
+2002={ #Suffolk
 	terrain="forest"
 	culture="southron"
 	religion="evangelical"
@@ -167,7 +245,7 @@
 	}
 }
 
-2003={ #
+2003={ #Norfolk
 	terrain="marsh"
 	culture="hoi_toider"
 	religion="evangelical"
@@ -180,7 +258,7 @@
 	}
 }
 
-2004={ #
+2004={ #Virginia Beach
 	terrain="marsh"
 	culture="hoi_toider"
 	religion="evangelical"
@@ -193,9 +271,9 @@
 	}
 }
 
-3150={ #
+3150={ #Culpepper
 	terrain="hills"
-	culture="beltway"
+	culture="southron"
 	religion="americanist"
 	trade_goods="grain" #Placeholder
 	civilization_value=10
@@ -206,9 +284,9 @@
 	}
 }
 
-3151={ #
+3151={ #Spotsylvania Courthouse
 	terrain="forest"
-	culture="beltway"
+	culture="southron"
 	religion="americanist"
 	trade_goods="grain" #Placeholder
 	civilization_value=10
@@ -219,9 +297,9 @@
 	}
 }
 
-3152={ #
+3152={ #Orange
 	terrain="forest"
-	culture="beltway"
+	culture="southron"
 	religion="americanist"
 	trade_goods="grain" #Placeholder
 	civilization_value=10
@@ -232,7 +310,7 @@
 	}
 }
 
-5063={ #
+5063={ #Charles City
 	terrain="plains"
 	culture="southron"
 	religion="americanist"
@@ -245,7 +323,7 @@
 	}
 }
 
-5064={ #
+5064={ #Petersburg
 	terrain="plains"
 	culture="southron"
 	religion="americanist"
@@ -258,7 +336,7 @@
 	}
 }
 
-5065={ #
+5065={ #Amelia
 	terrain="forest"
 	culture="southron"
 	religion="evangelical"
@@ -271,7 +349,7 @@
 	}
 }
 
-5066={ #
+5066={ #Mechanicsville
 	terrain="forest"
 	culture="southron"
 	religion="americanist"
@@ -284,7 +362,7 @@
 	}
 }
 
-5067={ #
+5067={ #Chesterfield
 	terrain="forest"
 	culture="southron"
 	religion="americanist"
@@ -297,7 +375,7 @@
 	}
 }
 
-5068={ #
+5068={ #Richmond
 	terrain="farmland"
 	culture="southron"
 	religion="americanist"
@@ -310,7 +388,20 @@
 	}
 }
 
-5800={ #
+5281={ #Leesburg
+	terrain="plains"
+	culture="beltway"
+	religion="americanist"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+5800={ #Newport News
 	terrain="marsh"
 	culture="southron"
 	religion="americanist"
@@ -323,9 +414,9 @@
 	}
 }
 
-5801={ #
+5801={ #Middle Peninsula
 	terrain="marsh"
-	culture="beltway"
+	culture="southron"
 	religion="americanist"
 	trade_goods="grain" #Placeholder
 	civilization_value=10
@@ -336,9 +427,9 @@
 	}
 }
 
-5802={ #
+5802={ #Northern Neck
 	terrain="marsh"
-	culture="beltway"
+	culture="southron"
 	religion="americanist"
 	trade_goods="grain" #Placeholder
 	civilization_value=10
@@ -349,7 +440,7 @@
 	}
 }
 
-5803={ #
+5803={ #Williamsburg
 	terrain="plains"
 	culture="southron"
 	religion="americanist"
@@ -362,7 +453,7 @@
 	}
 }
 
-6138={ #
+6138={ #Surry
 	terrain="plains"
 	culture="southron"
 	religion="americanist"
@@ -375,7 +466,7 @@
 	}
 }
 
-6139={ #
+6139={ #Sussex
 	terrain="plains"
 	culture="southron"
 	religion="evangelical"
@@ -388,7 +479,7 @@
 	}
 }
 
-6140={ #
+6140={ #Smithfield
 	terrain="plains"
 	culture="southron"
 	religion="evangelical"
@@ -401,9 +492,74 @@
 	}
 }
 
-6952={ #
+6434={ #Luray
+	terrain="forest"
+	culture="appalachian"
+	religion="omenteller"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+6435={ #Harrisonburg
+	terrain="mountain"
+	culture="appalachian"
+	religion="omenteller"
+	trade_goods="wood"
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+6436={ #Strasburg
+	terrain="mountain"
+	culture="appalachian"
+	religion="omenteller"
+	trade_goods="wood"
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+6523={ #Lexington
+	terrain="mountain"
+	culture="appalachian"
+	religion="omenteller"
+	trade_goods="wild_game"
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+6524={ #Staunton
+	terrain="mountain"
+	culture="appalachian"
+	religion="omenteller"
+	trade_goods="wood"
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+6952={ #Fredericksburg
 	terrain="marsh"
-	culture="beltway"
+	culture="southron"
 	religion="americanist"
 	trade_goods="marble"
 	civilization_value=10
@@ -414,9 +570,9 @@
 	}
 }
 
-6953={ #
+6953={ #Caroline
 	terrain="forest"
-	culture="beltway"
+	culture="southron"
 	religion="americanist"
 	trade_goods="tobacco"
 	civilization_value=10
@@ -427,9 +583,9 @@
 	}
 }
 
-6954={ #
+6954={ #King George
 	terrain="marsh"
-	culture="beltway"
+	culture="southron"
 	religion="americanist"
 	trade_goods="grain" #Placeholder
 	civilization_value=10
@@ -440,7 +596,7 @@
 	}
 }
 
-6955={ #
+6955={ #Ashland
 	terrain="forest"
 	culture="southron"
 	religion="americanist"
@@ -453,7 +609,7 @@
 	}
 }
 
-8682={ #
+8682={ #Patrick
 	terrain="hills"
 	culture="appalachian"
 	religion="evangelical"
@@ -466,7 +622,7 @@
 	}
 }
 
-8683={ #
+8683={ #Martinsville
 	terrain="hills"
 	culture="appalachian"
 	religion="evangelical"
@@ -479,7 +635,7 @@
 	}
 }
 
-8684={ #
+8684={ #Danville
 	terrain="forest"
 	culture="southron"
 	religion="evangelical"
@@ -492,7 +648,7 @@
 	}
 }
 
-8685={ #
+8685={ #Pittsylvania
 	terrain="forest"
 	culture="southron"
 	religion="evangelical"
@@ -505,7 +661,46 @@
 	}
 }
 
-9581={ #
+8832={ #Roanoake
+	terrain="mountain"
+	culture="appalachian"
+	religion="omenteller"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+8833={ #Blacksburg
+	terrain="mountain"
+	culture="appalachian"
+	religion="omenteller"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+8834={ #Covington
+	terrain="forest"
+	culture="appalachian"
+	religion="omenteller"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+9581={ #Brunswick
 	terrain="plains"
 	culture="southron"
 	religion="evangelical"
@@ -518,7 +713,7 @@
 	}
 }
 
-9582={ #
+9582={ #Emporia
 	terrain="plains"
 	culture="southron"
 	religion="evangelical"
@@ -531,7 +726,7 @@
 	}
 }
 
-9583={ #
+9583={ #Lunenburg
 	terrain="forest"
 	culture="southron"
 	religion="evangelical"
@@ -544,7 +739,7 @@
 	}
 }
 
-9584={ #
+9584={ #Charlotte
 	terrain="forest"
 	culture="southron"
 	religion="evangelical"

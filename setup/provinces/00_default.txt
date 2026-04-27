@@ -106370,7 +106370,7 @@
 	}
 }
 
-9693={ #
+9693={ #Potomac River
 	terrain="riverine_terrain"
 	culture="quebecois" #Placeholder
 	religion="mayan_pantheon"
@@ -107024,7 +107024,7 @@
 	}
 }
 
-9744={ #
+9744={ #Chesapeake Bay
 	terrain="coastal_terrain"
 	culture="quebecois" #Placeholder
 	religion="mayan_pantheon"
@@ -121556,7 +121556,7 @@
 	}
 }
 
-10868={ #
+10868={ #Appalachian Mountains
 	terrain="impassable_terrain"
 	culture="appalachian"
 	religion="omenteller"
@@ -122011,7 +122011,7 @@
 	}
 }
 
-10903={ #
+10903={ #Blue Ridge Mountains
 	terrain="impassable_terrain"
 	culture="southron"
 	religion="omenteller"
@@ -128602,7 +128602,7 @@
 	}
 }
 
-11410={ #
+11410={ #Blue Ridge Mountains
 	terrain="impassable_terrain"
 	culture="appalachian"
 	religion="mayan_pantheon"
@@ -129512,7 +129512,7 @@
 	}
 }
 
-11480={ #
+11480={ #Appalachian Mountains
 	terrain="impassable_terrain"
 	culture="appalachian"
 	religion="omenteller"

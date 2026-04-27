@@ -6,6 +6,12 @@ MER = "setup/countries/mercenaries.txt"
 #East Coast
 PRI = "setup/countries/east_coast/presidency.txt"
 NYC = "setup/countries/east_coast/new_york.txt"
+DEL = "setup/countries/east_coast/delaware.txt"
+ATJ = "setup/countries/east_coast/atlantic_city.txt"
+PRN = "setup/countries/east_coast/princeton.txt"
+NWK = "setup/countries/east_coast/newark.txt"
+HAK = "setup/countries/east_coast/hackensack.txt"
+PAT = "setup/countries/east_coast/paterson.txt"
 
 #Midwest
 IWA = "setup/countries/midwest/iowa.txt"

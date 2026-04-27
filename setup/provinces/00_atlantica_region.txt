@@ -362,32 +362,6 @@
 	}
 }
 
-1943={ #Centreville
-	terrain="plains"
-	culture="beltway"
-	religion="americanist"
-	trade_goods="grain" #Placeholder
-	civilization_value=10
-	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=1
-	}
-}
-
-1944={ #Woodbridge
-	terrain="marsh"
-	culture="beltway"
-	religion="americanist"
-	trade_goods="grain" #Placeholder
-	civilization_value=10
-	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=1
-	}
-}
-
 2089={ #Pocomoke City
 	terrain="forest"
 	culture="youser"
@@ -405,7 +379,7 @@
 	terrain="marsh"
 	culture="southron"
 	religion="americanist"
-	trade_goods="grain" #Placeholder
+	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -535,7 +509,7 @@
 	terrain="farmland"
 	culture="beltway"
 	religion="americanist"
-	trade_goods="grain" #Placeholder
+	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -561,7 +535,7 @@
 	terrain="plains"
 	culture="beltway"
 	religion="americanist"
-	trade_goods="grain" #Placeholder
+	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -650,7 +624,7 @@
 
 3670={ #Airville
 	terrain="plains"
-	culture="deitsch"
+	culture="beltway"
 	religion="old_order"
 	trade_goods="grain"
 	civilization_value=10
@@ -861,20 +835,7 @@
 	terrain="plains"
 	culture="beltway"
 	religion="americanist"
-	trade_goods="grain" #Placeholder
-	civilization_value=10
-	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=1
-	}
-}
-
-5281={ #Leesburg
-	terrain="plains"
-	culture="beltway"
-	religion="americanist"
-	trade_goods="grain" #Placeholder
+	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -939,7 +900,7 @@
 	terrain="marsh"
 	culture="beltway"
 	religion="americanist"
-	trade_goods="grain" #Placeholder
+	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -965,7 +926,7 @@
 	terrain="marsh"
 	culture="beltway"
 	religion="americanist"
-	trade_goods="grain" #Placeholder
+	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -991,7 +952,7 @@
 	terrain="plains"
 	culture="youser"
 	religion="americanist"
-	trade_goods="grain" #Placeholder
+	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -1134,7 +1095,7 @@
 	terrain="plains"
 	culture="beltway"
 	religion="americanist"
-	trade_goods="grain" #Placeholder
+	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"

@@ -18,7 +18,11 @@ country = {
 			}
 
 			own_control_core = {
-				4077 1708 3710 3709 9588 8639 3708 1706 8638 8637 1704 1707 7136 3241 3239 7135 1705 
+				4077 1708 3710 3709 9588 8639 3708 1706 8638 1704 1707 7136 3241 7135 1705 
+				3183 3670 3186 3185 3184 5766 5855 5854 5853 
+				5485 5483 5486 5484 5765 5767 8448 5279 5281 1943 1944
+				9524 4491 4490 2361 9525 9523 1845 7760 6168 6167 482 480
+				82 84 3506 3507 3505 5237 
 			}
 		}
 
@@ -36,7 +40,7 @@ country = {
 			}
 
 			own_control_core = {
-				4381 2440 2441 2441 2622 2442
+				4381 2440 2441 2441 2622 2442 95 94 93 312 314 313 83
 			}
 		}
 
@@ -63,6 +67,109 @@ country = {
 				8569 4519 8172 8173 8171 4591 6399 8567
 				1907 329 1184
 				9450 9452 9451 802 800 5447 5445 3874 5446 6798 6800 6799
+			}
+		}
+
+		DEL = {
+			government = democratic_republic
+			primary_culture = youser
+			religion = americanist
+			capital = 2812
+
+			technology={
+				military_tech={ level=2 progress=0 }
+				civic_tech={ level=2 progress=0 }
+				religious_tech= { level=2 progress=0  }
+				oratory_tech= { level=2 progress =0 }
+			}
+
+			own_control_core = {
+				2812 2811 2813 538 537 536 2089 2090
+			}
+		}
+		ATJ = {
+			government = plutocratic_republic
+			primary_culture = youser
+			religion = americanist
+			capital = 746 
+
+			technology={
+				military_tech={ level=2 progress=0 }
+				civic_tech={ level=2 progress=0 }
+				religious_tech= { level=2 progress=0  }
+				oratory_tech= { level=2 progress =0 }
+			}
+
+			own_control_core = {
+				746 744 745 4492 2362 1543 1544
+			}
+		}
+		PRN = {
+			government = aristocratic_republic
+			primary_culture = gothamite
+			religion = americanist
+			capital = 7761
+
+			technology={
+				military_tech={ level=2 progress=0 }
+				civic_tech={ level=2 progress=0 }
+				religious_tech= { level=2 progress=0  }
+				oratory_tech= { level=2 progress =0 }
+			}
+
+			own_control_core = {
+				7761 5961 5960
+			}
+		}
+		NWK = {
+			government = democratic_republic
+			primary_culture = gothamite
+			religion = americanist
+			capital = 478
+
+			technology={
+				military_tech={ level=2 progress=0 }
+				civic_tech={ level=2 progress=0 }
+				religious_tech= { level=2 progress=0  }
+				oratory_tech= { level=2 progress =0 }
+			}
+
+			own_control_core = {
+				478
+			}
+		}
+		HAK = {
+			government = democratic_republic
+			primary_culture = gothamite
+			religion = americanist
+			capital = 481
+
+			technology={
+				military_tech={ level=2 progress=0 }
+				civic_tech={ level=2 progress=0 }
+				religious_tech= { level=2 progress=0  }
+				oratory_tech= { level=2 progress =0 }
+			}
+
+			own_control_core = {
+				481
+			}
+		}
+		PAT = {
+			government = democratic_republic
+			primary_culture = gothamite
+			religion = americanist
+			capital = 479
+
+			technology={
+				military_tech={ level=2 progress=0 }
+				civic_tech={ level=2 progress=0 }
+				religious_tech= { level=2 progress=0  }
+				oratory_tech= { level=2 progress =0 }
+			}
+
+			own_control_core = {
+				479 7969 7970
 			}
 		}
 	}

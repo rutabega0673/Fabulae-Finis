@@ -28,7 +28,7 @@
 	terrain="hills"
 	culture="yinzic"
 	religion="promethean"
-	trade_goods="grain" #Placeholder
+	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -50,11 +50,11 @@
 	}
 }
 
-935={ #
+935={ #Smyth
 	terrain="mountain"
 	culture="appalachian"
 	religion="omenteller"
-	trade_goods="grain" #Placeholder
+	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -63,63 +63,11 @@
 	}
 }
 
-936={ #
+936={ #Pulaski
 	terrain="hills"
 	culture="appalachian"
 	religion="omenteller"
-	trade_goods="grain" #Placeholder
-	civilization_value=10
-	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=1
-	}
-}
-
-937={ #
-	terrain="mountain"
-	culture="appalachian"
-	religion="omenteller"
-	trade_goods="grain" #Placeholder
-	civilization_value=10
-	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=1
-	}
-}
-
-1060={ #Martinsburg
-	terrain="hills"
-	culture="appalachian"
-	religion="omenteller"
-	trade_goods="cattle"
-	civilization_value=10
-	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=1
-	}
-}
-
-1061={ #Winchester
-	terrain="mountain"
-	culture="appalachian"
-	religion="omenteller"
-	trade_goods="grain" #Placeholder
-	civilization_value=10
-	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=1
-	}
-}
-
-1063={ #Augusta
-	terrain="hills"
-	culture="appalachian"
-	religion="omenteller"
-	trade_goods="wild_game"
+	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -132,7 +80,7 @@
 	terrain="plains"
 	culture="yinzic"
 	religion="promethean"
-	trade_goods="grain" #Placeholder
+	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -145,7 +93,7 @@
 	terrain="hills"
 	culture="yinzic"
 	religion="promethean"
-	trade_goods="grain" #Placeholder
+	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -158,7 +106,7 @@
 	terrain="hills"
 	culture="butternutter"
 	religion="hearthtender"
-	trade_goods="grain" #Placeholder
+	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -171,7 +119,7 @@
 	terrain="hills"
 	culture="butternutter"
 	religion="hearthtender"
-	trade_goods="grain" #Placeholder
+	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -184,7 +132,7 @@
 	terrain="plains"
 	culture="butternutter"
 	religion="hearthtender"
-	trade_goods="grain" #Placeholder
+	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -197,7 +145,7 @@
 	terrain="plains"
 	culture="yinzic"
 	religion="promethean"
-	trade_goods="grain" #Placeholder
+	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -210,7 +158,7 @@
 	terrain="plains"
 	culture="yinzic"
 	religion="hearthtender"
-	trade_goods="grain" #Placeholder
+	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -223,7 +171,7 @@
 	terrain="hills"
 	culture="yinzic"
 	religion="promethean"
-	trade_goods="grain" #Placeholder
+	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -236,7 +184,7 @@
 	terrain="hills"
 	culture="butternutter"
 	religion="hearthtender"
-	trade_goods="grain" #Placeholder
+	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -249,7 +197,7 @@
 	terrain="hills"
 	culture="yinzic"
 	religion="promethean"
-	trade_goods="grain" #Placeholder
+	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -262,7 +210,7 @@
 	terrain="hills"
 	culture="butternutter"
 	religion="hearthtender"
-	trade_goods="grain" #Placeholder
+	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -275,7 +223,7 @@
 	terrain="hills"
 	culture="yinzic"
 	religion="promethean"
-	trade_goods="grain" #Placeholder
+	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -288,7 +236,7 @@
 	terrain="plains"
 	culture="yinzic"
 	religion="promethean"
-	trade_goods="grain" #Placeholder
+	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -314,7 +262,7 @@
 	terrain="plains"
 	culture="yinzic"
 	religion="promethean"
-	trade_goods="grain" #Placeholder
+	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -327,7 +275,7 @@
 	terrain="hills"
 	culture="yinzic"
 	religion="promethean"
-	trade_goods="grain" #Placeholder
+	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -336,7 +284,7 @@
 	}
 }
 
-6378={ #
+6378={ #Buchanan
 	terrain="hills"
 	culture="butternutter"
 	religion="hearthtender"
@@ -349,9 +297,9 @@
 	}
 }
 
-6379={ #
+6379={ #Tazewell
 	terrain="hills"
-	culture="butternutter"
+	culture="appalachian"
 	religion="omenteller"
 	trade_goods="wood"
 	civilization_value=10
@@ -364,48 +312,9 @@
 
 6380={ #
 	terrain="hills"
-	culture="butternutter"
+	culture="appalachian"
 	religion="hearthtender"
-	trade_goods="grain" #Placeholder
-	civilization_value=10
-	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=1
-	}
-}
-
-6434={ #
-	terrain="forest"
-	culture="appalachian"
-	religion="omenteller"
-	trade_goods="grain" #Placeholder
-	civilization_value=10
-	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=1
-	}
-}
-
-6435={ #
-	terrain="mountain"
-	culture="appalachian"
-	religion="omenteller"
-	trade_goods="wood"
-	civilization_value=10
-	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=1
-	}
-}
-
-6436={ #
-	terrain="mountain"
-	culture="appalachian"
-	religion="omenteller"
-	trade_goods="wood"
+	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -416,9 +325,9 @@
 
 6506={ #
 	terrain="hills"
-	culture="butternutter"
+	culture="appalachian"
 	religion="hearthtender"
-	trade_goods="grain" #Placeholder
+	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -431,7 +340,7 @@
 	terrain="hills"
 	culture="butternutter"
 	religion="hearthtender"
-	trade_goods="grain" #Placeholder
+	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -442,9 +351,9 @@
 
 6508={ #
 	terrain="hills"
-	culture="butternutter"
+	culture="appalachian"
 	religion="hearthtender"
-	trade_goods="grain" #Placeholder
+	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -453,33 +362,7 @@
 	}
 }
 
-6523={ #
-	terrain="mountain"
-	culture="appalachian"
-	religion="omenteller"
-	trade_goods="wild_game"
-	civilization_value=10
-	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=1
-	}
-}
-
-6524={ #
-	terrain="mountain"
-	culture="appalachian"
-	religion="omenteller"
-	trade_goods="wood"
-	civilization_value=10
-	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=1
-	}
-}
-
-7352={ #
+7352={ #Big Stone Gap
 	terrain="hills"
 	culture="riverlander"
 	religion="omenteller"
@@ -492,11 +375,11 @@
 	}
 }
 
-7353={ #
+7353={ #Bristol
 	terrain="forest"
-	culture="riverlander"
+	culture="appalachian"
 	religion="omenteller"
-	trade_goods="grain" #Placeholder
+	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -505,7 +388,7 @@
 	}
 }
 
-7354={ #
+7354={ #Lee
 	terrain="hills"
 	culture="riverlander"
 	religion="omenteller"
@@ -518,50 +401,11 @@
 	}
 }
 
-7355={ #
+7355={ #Scott
 	terrain="hills"
-	culture="riverlander"
+	culture="appalachian"
 	religion="omenteller"
 	trade_goods="wood"
-	civilization_value=10
-	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=1
-	}
-}
-
-8832={ #
-	terrain="mountain"
-	culture="appalachian"
-	religion="omenteller"
-	trade_goods="grain" #Placeholder
-	civilization_value=10
-	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=1
-	}
-}
-
-8833={ #
-	terrain="mountain"
-	culture="appalachian"
-	religion="omenteller"
-	trade_goods="grain" #Placeholder
-	civilization_value=10
-	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=1
-	}
-}
-
-8834={ #
-	terrain="forest"
-	culture="appalachian"
-	religion="omenteller"
-	trade_goods="grain" #Placeholder
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -572,7 +416,7 @@
 
 9249={ #
 	terrain="hills"
-	culture="butternutter"
+	culture="appalachian"
 	religion="promethean"
 	trade_goods="wood"
 	civilization_value=10
@@ -585,9 +429,9 @@
 
 9250={ #
 	terrain="hills"
-	culture="yinzic"
+	culture="appalachian"
 	religion="promethean"
-	trade_goods="grain" #Placeholder
+	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -598,9 +442,9 @@
 
 9520={ #
 	terrain="plains"
-	culture="quebecois" #Placeholder
+	culture=""
 	religion="mayan_pantheon"
-	trade_goods="grain" #Placeholder
+	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -613,7 +457,7 @@
 	terrain="hills"
 	culture="yinzic"
 	religion="promethean"
-	trade_goods="grain" #Placeholder
+	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"

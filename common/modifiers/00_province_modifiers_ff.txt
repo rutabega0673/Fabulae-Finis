@@ -1,0 +1,3 @@
+﻿smithfield_ham = {
+	base_resources = 1
+}

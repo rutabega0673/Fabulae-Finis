@@ -1,4 +1,4 @@
-﻿heavy_infantry = {
+heavy_infantry = {
 	army = yes
 	assault = yes
 
@@ -12,24 +12,29 @@
 	movement_speed = 2.5
 	build_time = 60
 
-	light_infantry = 1.2
-	heavy_infantry = 1.0
-	spearmen = 1.1
 
-	heavy_cavalry = 0.8
-	warelephant = 0.8
-	horse_archers = 0.8
-	archers = 0.8
-	chariots = 1.2
-	light_cavalry = 0.8
-	camels = 0.8
-	supply_train = 2.0
+	archers = 0.9
+	camels = 1.1
+	chariots = 1.1
+	heavy_cavalry = 1.0
+	heavy_infantry = 1
+	horse_archers = 0.7
+	light_cavalry = 1
+	light_infantry = 1.2
+	spearmen = 1.1
+	warelephant = 0.9
+	axemen = 0.9
+	horse_skirmishers = 1
+	pikemen = 1
+	slingers = 1
+	supply_train = 2
+	engineer_cohort = 2
 	
 	attrition_weight = 1.5
 	attrition_loss = 0.05
 	
 	morale_damage_taken = 0.9
-	strength_damage_taken = 0.95
+	strength_damage_taken = 0.9
 
 	build_cost = {
 		gold = 16

@@ -40,7 +40,7 @@
 237={ #
 	terrain="forest"
 	culture="minnesotan"
-	religion="viking"
+	religion="americanist"
 	trade_goods="cattle"
 	civilization_value=10
 	barbarian_power=0

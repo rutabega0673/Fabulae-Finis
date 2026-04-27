@@ -106,7 +106,6 @@
  ## Texan ##
  texan:0 "Texan"
  tejano:0 "Tejano"
- texaner:0 "Texaner"
  estacadan:0 "Estacadan"
 
  ## Longhouse ##
@@ -140,7 +139,7 @@
  new_englander:0 "Yankee"
  vermonter:0 "Vermonter"
  bayfolk:0 "Bayfolk"
- shorehugger:0 "Shorehugger"
+ shorehugger:0 "Downeaster"
 
  ## Seminole ##
  seminole:0 "Seminole"
@@ -164,8 +163,10 @@
  innu:0 "Innu"
  eeyou:0 "Eeeyou"
 
- ## Hermanndeutch ##
- hermanndeutch:0 "Hermanndeutch"
+ ## Deutschamerikaner ##
+ deutschamerikaner:0 "Deutschamerikaner"
+ hermanndeutsch:0 "Hermanndeutsch"
+ texaner:0 "Texaner"
  
 
  ## NAMING ##

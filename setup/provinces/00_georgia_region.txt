@@ -118,7 +118,7 @@
 1563={ #
 	terrain="farmland"
 	culture="atlantean"
-	religion="evangelical"
+	religion="americanist"
 	trade_goods="cloth"
 	civilization_value=10
 	barbarian_power=0
@@ -468,7 +468,7 @@
 
 5045={ #
 	terrain="hills"
-	culture="atlantean"
+	culture="appalachian"
 	religion="omenteller"
 	trade_goods="honey"
 	civilization_value=10
@@ -598,7 +598,7 @@
 
 5947={ #
 	terrain="hills"
-	culture="atlantean"
+	culture="appalachian"
 	religion="omenteller"
 	trade_goods="clay"
 	civilization_value=10
