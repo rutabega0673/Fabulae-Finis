@@ -65,3 +65,13 @@ PRESIDENCY_FLAG = { #presidency
 		instance = { position = { 0.5 0.169 } scale = { 0.035 0.035 }  }
 	}
 }
+
+MODERN_VIRGINIA_FLAG = {
+	pattern = "pattern_solid.tga"
+	color1 = "virginia_blue"
+	color2 = "virginia_blue"
+
+	textured_emblem = {
+		texture = "virginia_seal.png"
+	}
+}

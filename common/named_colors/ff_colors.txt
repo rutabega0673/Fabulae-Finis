@@ -1,0 +1,4 @@
+﻿colors = {
+	virginia_blue = rgb { 0 41 123 }
+}
+
