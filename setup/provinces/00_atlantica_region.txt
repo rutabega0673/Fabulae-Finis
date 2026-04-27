@@ -362,32 +362,6 @@
 	}
 }
 
-1943={ #Manassas
-	terrain="plains"
-	culture="beltway"
-	religion="americanist"
-	trade_goods=""
-	civilization_value=10
-	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=1
-	}
-}
-
-1944={ #Woodbridge
-	terrain="marsh"
-	culture="beltway"
-	religion="americanist"
-	trade_goods=""
-	civilization_value=10
-	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=1
-	}
-}
-
 2089={ #Pocomoke City
 	terrain="forest"
 	culture="youser"
@@ -858,19 +832,6 @@
 }
 
 5279={ #Germantown
-	terrain="plains"
-	culture="beltway"
-	religion="americanist"
-	trade_goods=""
-	civilization_value=10
-	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=1
-	}
-}
-
-5281={ #Leesburg
 	terrain="plains"
 	culture="beltway"
 	religion="americanist"

@@ -1,4 +1,5 @@
 ﻿l_english:
+ ## REGIONS ##
  atlantica_region:0 "Atlantica"
  illinois_region:0 "Illinois"
  missouri_region:0 "Missouri"
@@ -24,6 +25,14 @@
  georgia_region:0 "Georgia"
  alabama_region:0 "Alabama"
  magnolia_region:0 "Magnolia"
+ lwizyan_region:0 "Lwizyan"
+ ozarks_region:0 "Ozarks"
+ dakotas_region:0 "Dakotas"
+ old_star_region:0 "Old Star"
+ kansas_region:0 "Grangeland"
+ ontario_region:0 "Ontario"
+
+ ## AREAS ##
  philadelphia_area:0 "Delaware Valley"
  lancaster_area:0 "Lancaster"
  new_york_area:0 "New York"

@@ -1,4 +1,56 @@
-﻿1605={ #Fluvanna
+﻿937={ #Galax
+	terrain="mountain"
+	culture="appalachian"
+	religion="omenteller"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+1060={ #Martinsburg
+	terrain="hills"
+	culture="appalachian"
+	religion="omenteller"
+	trade_goods="cattle"
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+1061={ #Winchester
+	terrain="mountain"
+	culture="appalachian"
+	religion="omenteller"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+1063={ #Augusta
+	terrain="hills"
+	culture="appalachian"
+	religion="omenteller"
+	trade_goods="wild_game"
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+1605={ #Fluvanna
 	terrain="forest"
 	culture="southron"
 	religion="americanist"
@@ -117,7 +169,7 @@
 
 1941={ #Linton Hall
 	terrain="plains"
-	culture="beltway"
+	culture="southron"
 	religion="americanist"
 	trade_goods="tobacco"
 	civilization_value=10
@@ -130,6 +182,32 @@
 
 1942={ #Warrenton
 	terrain="forest"
+	culture="southron"
+	religion="americanist"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+1943={ #Manassas
+	terrain="plains"
+	culture="beltway"
+	religion="americanist"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+1944={ #Woodbridge
+	terrain="marsh"
 	culture="beltway"
 	religion="americanist"
 	trade_goods=""
@@ -195,7 +273,7 @@
 
 3150={ #Culpepper
 	terrain="hills"
-	culture="beltway"
+	culture="southron"
 	religion="americanist"
 	trade_goods=""
 	civilization_value=10
@@ -208,7 +286,7 @@
 
 3151={ #Spotsylvania Courthouse
 	terrain="forest"
-	culture="beltway"
+	culture="southron"
 	religion="americanist"
 	trade_goods=""
 	civilization_value=10
@@ -221,7 +299,7 @@
 
 3152={ #Orange
 	terrain="forest"
-	culture="beltway"
+	culture="southron"
 	religion="americanist"
 	trade_goods=""
 	civilization_value=10
@@ -310,6 +388,19 @@
 	}
 }
 
+5281={ #Leesburg
+	terrain="plains"
+	culture="beltway"
+	religion="americanist"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
 5800={ #Newport News
 	terrain="marsh"
 	culture="southron"
@@ -325,7 +416,7 @@
 
 5801={ #Middle Peninsula
 	terrain="marsh"
-	culture="beltway"
+	culture="southron"
 	religion="americanist"
 	trade_goods=""
 	civilization_value=10
@@ -338,7 +429,7 @@
 
 5802={ #Northern Neck
 	terrain="marsh"
-	culture="beltway"
+	culture="southron"
 	religion="americanist"
 	trade_goods=""
 	civilization_value=10
@@ -392,7 +483,72 @@
 	terrain="plains"
 	culture="southron"
 	religion="evangelical"
-	trade_goods="cattle" #Smithfield Ham
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+6434={ #Luray
+	terrain="forest"
+	culture="appalachian"
+	religion="omenteller"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+6435={ #Harrisonburg
+	terrain="mountain"
+	culture="appalachian"
+	religion="omenteller"
+	trade_goods="wood"
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+6436={ #Strasburg
+	terrain="mountain"
+	culture="appalachian"
+	religion="omenteller"
+	trade_goods="wood"
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+6523={ #Lexington
+	terrain="mountain"
+	culture="appalachian"
+	religion="omenteller"
+	trade_goods="wild_game"
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+6524={ #Staunton
+	terrain="mountain"
+	culture="appalachian"
+	religion="omenteller"
+	trade_goods="wood"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -403,7 +559,7 @@
 
 6952={ #Fredericksburg
 	terrain="marsh"
-	culture="beltway"
+	culture="southron"
 	religion="americanist"
 	trade_goods="marble"
 	civilization_value=10
@@ -416,7 +572,7 @@
 
 6953={ #Caroline
 	terrain="forest"
-	culture="beltway"
+	culture="southron"
 	religion="americanist"
 	trade_goods="tobacco"
 	civilization_value=10
@@ -429,7 +585,7 @@
 
 6954={ #King George
 	terrain="marsh"
-	culture="beltway"
+	culture="southron"
 	religion="americanist"
 	trade_goods=""
 	civilization_value=10
@@ -496,6 +652,45 @@
 	terrain="forest"
 	culture="southron"
 	religion="evangelical"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+8832={ #Roanoake
+	terrain="mountain"
+	culture="appalachian"
+	religion="omenteller"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+8833={ #Blacksburg
+	terrain="mountain"
+	culture="appalachian"
+	religion="omenteller"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+8834={ #Covington
+	terrain="forest"
+	culture="appalachian"
+	religion="omenteller"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0

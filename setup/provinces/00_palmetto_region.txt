@@ -273,7 +273,7 @@
 
 5047={ #
 	terrain="hills"
-	culture="atlantean"
+	culture="appalachian"
 	religion="evangelical"
 	trade_goods=""
 	civilization_value=10

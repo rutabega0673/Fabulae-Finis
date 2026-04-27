@@ -52,10 +52,10 @@ florida_region = { #9
 		norflo_area tallahassee_area panhandle_area st_augustine_area soflo_area everglades_area disneyland_area tampa_bay_area fort_meyers_area
 	}
 }
-superior_region = { #7
+superior_region = { #8
 	color = rgb { 93 61 166 }
 	areas = {
-		duluth_area marquette_area marathon_area thunder_bay_area sault_ste_marie_area north_ontario_area ironwood_area
+		duluth_area marquette_area marathon_area thunder_bay_area sault_ste_marie_area north_ontario_area ironwood_area west_ontario_area
 	}
 }
 badgerland_region = { #9
@@ -146,5 +146,53 @@ magnolia_region = { #7
 	color = rgb { 94 70 32 }
 	areas = {
 		biloxi_area natchez_area vicksburg_area jackson_ms_area tupelo_area livingston_area central_magnolia_area
+	}
+}
+lwizyan_region = { 
+	color = rgb { 53 119 150 }
+	areas = {
+		new_orleans_area lafayette_area baton_rouge_area monterey_area ouachita_area kisatchie_area
+	}
+}
+ozarks_region = { 
+	color = rgb { 71 179 76 }
+	areas = {
+		ozarks_area arkansas_area oklahoma_area hope_area timberlands_area delta_area tulsa_area
+	}
+}
+kansas_region = { #10
+	color = rgb { 168 77 109 }
+	areas = {
+		kansas_area beatrice_area creighton_area wichita_area fredonia_area great_bend_area garden_city_area ogallala_area omaha_area north_platte_area
+	}
+}
+dakotas_region = { #9
+	color = rgb { 194 21 78 }
+	areas = {
+		sioux_falls_area yankton_area minot_area fargo_area bismarck_area crosby_area little_badlands_area pierre_area badlands_area
+	}
+}
+old_star_region = { #10
+	color = rgb { 162 72 89 }
+	areas = {
+		texarkana_area east_texas_area victoria_area waco_area austin_area houston_area east_texas_area marlin_area paris_area texarkana_area nacogodoches_area college_station_area
+	}
+}
+ontario_region = { #9
+	color = rgb { 19 109 57 }
+	areas = {
+		windsor_area london_area elgin_area massasauga_area toronto_area haute_ottawa_area algonquin_area trent_area ottawa_area united_counties_area
+	}
+}
+haut_quebec_region = { #6 BUT THERE ARE SO MANY PROVINCES
+	color = rgb { 22 104 145 }
+	areas = {
+		outaouais_area laurentides_area monteregie_area montreal_area estrie_area mauricie_area
+	}
+}
+bas_quebec_region = { #6
+	color = rgb { 64 152 187 }
+	areas = {
+		quebec_area bas_saint_laurent_area chaudiere_appalaches_area cote_nord_area gaspesie_area sept_rivieres_area saguenay_area
 	}
 }

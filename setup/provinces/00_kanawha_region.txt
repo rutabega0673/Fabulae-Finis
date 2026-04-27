@@ -76,58 +76,6 @@
 	}
 }
 
-937={ #Galax
-	terrain="mountain"
-	culture="appalachian"
-	religion="omenteller"
-	trade_goods=""
-	civilization_value=10
-	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=1
-	}
-}
-
-1060={ #Martinsburg
-	terrain="hills"
-	culture="appalachian"
-	religion="omenteller"
-	trade_goods="cattle"
-	civilization_value=10
-	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=1
-	}
-}
-
-1061={ #Winchester
-	terrain="mountain"
-	culture="appalachian"
-	religion="omenteller"
-	trade_goods=""
-	civilization_value=10
-	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=1
-	}
-}
-
-1063={ #Augusta
-	terrain="hills"
-	culture="appalachian"
-	religion="omenteller"
-	trade_goods="wild_game"
-	civilization_value=10
-	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=1
-	}
-}
-
 2005={ #
 	terrain="plains"
 	culture="yinzic"
@@ -351,7 +299,7 @@
 
 6379={ #Tazewell
 	terrain="hills"
-	culture="butternutter"
+	culture="appalachian"
 	religion="omenteller"
 	trade_goods="wood"
 	civilization_value=10
@@ -364,7 +312,7 @@
 
 6380={ #
 	terrain="hills"
-	culture="butternutter"
+	culture="appalachian"
 	religion="hearthtender"
 	trade_goods=""
 	civilization_value=10
@@ -375,48 +323,9 @@
 	}
 }
 
-6434={ #Luray
-	terrain="forest"
-	culture="appalachian"
-	religion="omenteller"
-	trade_goods=""
-	civilization_value=10
-	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=1
-	}
-}
-
-6435={ #Harrisonburg
-	terrain="mountain"
-	culture="appalachian"
-	religion="omenteller"
-	trade_goods="wood"
-	civilization_value=10
-	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=1
-	}
-}
-
-6436={ #Strasburg
-	terrain="mountain"
-	culture="appalachian"
-	religion="omenteller"
-	trade_goods="wood"
-	civilization_value=10
-	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=1
-	}
-}
-
 6506={ #
 	terrain="hills"
-	culture="butternutter"
+	culture="appalachian"
 	religion="hearthtender"
 	trade_goods=""
 	civilization_value=10
@@ -442,35 +351,9 @@
 
 6508={ #
 	terrain="hills"
-	culture="butternutter"
+	culture="appalachian"
 	religion="hearthtender"
 	trade_goods=""
-	civilization_value=10
-	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=1
-	}
-}
-
-6523={ #Lexington
-	terrain="mountain"
-	culture="appalachian"
-	religion="omenteller"
-	trade_goods="wild_game"
-	civilization_value=10
-	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=1
-	}
-}
-
-6524={ #Staunton
-	terrain="mountain"
-	culture="appalachian"
-	religion="omenteller"
-	trade_goods="wood"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -494,7 +377,7 @@
 
 7353={ #Bristol
 	terrain="forest"
-	culture="riverlander"
+	culture="appalachian"
 	religion="omenteller"
 	trade_goods=""
 	civilization_value=10
@@ -520,7 +403,7 @@
 
 7355={ #Scott
 	terrain="hills"
-	culture="riverlander"
+	culture="appalachian"
 	religion="omenteller"
 	trade_goods="wood"
 	civilization_value=10
@@ -531,48 +414,9 @@
 	}
 }
 
-8832={ #Roanoake
-	terrain="mountain"
-	culture="appalachian"
-	religion="omenteller"
-	trade_goods=""
-	civilization_value=10
-	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=1
-	}
-}
-
-8833={ #Blacksburg
-	terrain="mountain"
-	culture="appalachian"
-	religion="omenteller"
-	trade_goods=""
-	civilization_value=10
-	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=1
-	}
-}
-
-8834={ #Covington
-	terrain="forest"
-	culture="appalachian"
-	religion="omenteller"
-	trade_goods=""
-	civilization_value=10
-	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=1
-	}
-}
-
 9249={ #
 	terrain="hills"
-	culture="butternutter"
+	culture="appalachian"
 	religion="promethean"
 	trade_goods="wood"
 	civilization_value=10
@@ -585,7 +429,7 @@
 
 9250={ #
 	terrain="hills"
-	culture="yinzic"
+	culture="appalachian"
 	religion="promethean"
 	trade_goods=""
 	civilization_value=10

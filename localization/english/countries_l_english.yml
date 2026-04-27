@@ -18,6 +18,16 @@
  NYC_ADJ:0 "New Yorker"
  DEL:0 "Delmarva"
  DEL_ADJ:0 "Delmarvan"
+ ATJ:0 "South Jersey"
+ ATJ_ADJ:0 "Jerseyian"
+ PRN:0 "Princeton"
+ PRN_ADJ:0 "Princetonian"
+ NWK:0 "Newark"
+ NWK_ADJ:0 "Newarkite"
+ HAK:0 "Hackensack"
+ HAK_ADJ:0 "Hackensian"
+ PAT:0 "Paterson"
+ PAT_ADJ:0 "Patersonian"
 
  ## Midwest ##
  IWA:0 "Iowan Kingdom"
