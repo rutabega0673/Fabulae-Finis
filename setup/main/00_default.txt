@@ -172,6 +172,54 @@ country = {
 				479 7969 7970
 			}
 		}
+		VIN = { #Old Dominion
+			government = aristocratic_monarchy
+			primary_culture = southron
+			religion = americanist
+			capital = 5068
+
+			technology={
+				military_tech={ level=2 progress=0 }
+				civic_tech={ level=2 progress=0 }
+				religious_tech= { level=2 progress=0  }
+				oratory_tech= { level=2 progress =0 }
+			}
+
+			own_control_core = {
+				6952 1942 3151 1941 3150 6953 6954 5802 5801 3152 1943 1944 5281
+				5068 6955 5066 5063 5064 5067 1608 1605 1607 1763 1606 5065 1765 1764
+				1061 6436 6434 6435 6524
+				9584 1766 1767 8684 8685 9583 8683 8682 9581 9582
+				5800 6140 5803 6138 6139 2002 2003 2004 2001
+				937 8833 8832 6523
+			}
+		}
+		NOL = { #New Orleans
+			government = plutocratic_republic
+			primary_culture = nolan
+			religion = vodou
+			capital = 8216
+
+			technology={
+				military_tech={ level=2 progress=0 }
+				civic_tech={ level=2 progress=0 }
+				religious_tech= { level=2 progress=0  }
+				oratory_tech= { level=2 progress =0 }
+			}
+
+			poptype_rights = {
+				{
+					culture = louisianais
+					type = citizen
+				}
+			}
+
+			own_control_core = {
+				5482 5481 5479 5505 5506 5480 5503 5504 8484 8217 8216 8485
+				2696 7232 7231 7230 7517 7233 7518 7519
+				887 9501
+			}
+		}
 	}
 }
 

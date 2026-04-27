@@ -1,7 +1,436 @@
-﻿334={ #
-	terrain="plains"
-	culture="riverlander"
-	religion="egyptology"
+﻿393={ #
+	terrain="forest"
+	culture="arkalatexan"
+	religion="revelationist"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+394={ #
+	terrain="flood_plain"
+	culture="deltaic"
+	religion="revelationist"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+395={ #
+	terrain="forest"
+	culture="deltaic"
+	religion="revelationist"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+396={ #
+	terrain="forest"
+	culture="deltaic"
+	religion="revelationist"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+2164={ #
+	terrain="forest"
+	culture="arkalatexan"
+	religion="vodou"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+2165={ #
+	terrain="forest"
+	culture="arkalatexan"
+	religion="vodou"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+2166={ #
+	terrain="forest"
+	culture="arkalatexan"
+	religion="vodou"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+2411={ #
+	terrain="flood_plain"
+	culture="louisianais"
+	religion="vodou"
+	trade_goods="fish"
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+2412={ #
+	terrain="forest"
+	culture="louisianais"
+	religion="vodou"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+2413={ #
+	terrain="forest"
+	culture="louisianais"
+	religion="vodou"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+2696={ #
+	terrain="flood_plain"
+	culture="deltaic"
+	religion="vodou"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+3291={ #
+	terrain="forest"
+	culture="louisianais"
+	religion="vodou"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+3292={ #
+	terrain="forest"
+	culture="louisianais"
+	religion="vodou"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+3293={ #
+	terrain="forest"
+	culture="louisianais"
+	religion="vodou"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+3573={ #
+	terrain="forest"
+	culture="louisianais"
+	religion="vodou"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+3574={ #
+	terrain="forest"
+	culture="louisianais"
+	religion="vodou"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+3575={ #
+	terrain="forest"
+	culture="louisianais"
+	religion="vodou"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+5479={ #
+	terrain="flood_plain"
+	culture="louisianais"
+	religion="vodou"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+5480={ #
+	terrain="flood_plain"
+	culture="louisianais"
+	religion="vodou"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+5481={ #
+	terrain="flood_plain"
+	culture="louisianais"
+	religion="vodou"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+5482={ #
+	terrain="flood_plain"
+	culture="louisianais"
+	religion="vodou"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+5503={ #
+	terrain="flood_plain"
+	culture="nolan"
+	religion="vodou"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+5504={ #
+	terrain="flood_plain"
+	culture="nolan"
+	religion="vodou"
+	trade_goods="fish"
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+5505={ #
+	terrain="flood_plain"
+	culture="louisianais"
+	religion="vodou"
+	trade_goods="rice"
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+5506={ #
+	terrain="flood_plain"
+	culture="louisianais"
+	religion="vodou"
+	trade_goods="rice"
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+5525={ #
+	terrain="forest"
+	culture="arkalatexan"
+	religion="catholic"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+5708={ #
+	terrain="flood_plain"
+	culture="deltaic"
+	religion="vodou"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+5709={ #
+	terrain="flood_plain"
+	culture="arkalatexan"
+	religion="vodou"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+5710={ #
+	terrain="marsh"
+	culture="deltaic"
+	religion="vodou"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+5711={ #
+	terrain="forest"
+	culture="arkalatexan"
+	religion="vodou"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+5954={ #
+	terrain="forest"
+	culture="louisianais"
+	religion="vodou"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+5955={ #
+	terrain="farmland"
+	culture="louisianais"
+	religion="vodou"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+5956={ #
+	terrain="forest"
+	culture="louisianais"
+	religion="vodou"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+6323={ #
+	terrain="flood_plain"
+	culture="deltaic"
+	religion="vodou"
 	trade_goods="cotton"
 	civilization_value=10
 	barbarian_power=0
@@ -11,10 +440,114 @@
 	}
 }
 
-335={ #
+6324={ #
+	terrain="forest"
+	culture="deltaic"
+	religion="revelationist"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+6325={ #
+	terrain="forest"
+	culture="arkalatexan"
+	religion="revelationist"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+6326={ #
+	terrain="flood_plain"
+	culture="arkalatexan"
+	religion="revelationist"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+6982={ #
+	terrain="forest"
+	culture="arkalatexan"
+	religion="revelationist"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+6983={ #
+	terrain="forest"
+	culture="arkalatexan"
+	religion="revelationist"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+6984={ #
+	terrain="forest"
+	culture="arkalatexan"
+	religion="revelationist"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+7230={ #
+	terrain="flood_plain"
+	culture="nolan"
+	religion="vodou"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+7231={ #
 	terrain="farmland"
+	culture="nolan"
+	religion="vodou"
+	trade_goods="honey"
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+7232={ #
+	terrain="flood_plain"
 	culture="deltaic"
-	religion="egyptology"
+	religion="vodou"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -24,10 +557,10 @@
 	}
 }
 
-336={ #
-	terrain="plains"
+7233={ #
+	terrain="forest"
 	culture="deltaic"
-	religion="egyptology"
+	religion="vodou"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -37,153 +570,10 @@
 	}
 }
 
-337={ #
-	terrain="plains"
-	culture="riverlander"
-	religion="revelationist"
-	trade_goods=""
-	civilization_value=10
-	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=1
-	}
-}
-
-641={ #
-	terrain="plains"
-	culture="riverlander"
-	religion="revelationist"
-	trade_goods=""
-	civilization_value=10
-	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=1
-	}
-}
-
-642={ #
-	terrain="plains"
-	culture="riverlander"
-	religion="revelationist"
-	trade_goods=""
-	civilization_value=10
-	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=1
-	}
-}
-
-643={ #
-	terrain="plains"
-	culture="riverlander"
-	religion="omenteller"
-	trade_goods=""
-	civilization_value=10
-	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=1
-	}
-}
-
-644={ #
-	terrain="plains"
-	culture="riverlander"
-	religion="omenteller"
-	trade_goods="tobacco"
-	civilization_value=10
-	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=1
-	}
-}
-
-1012={ #
-	terrain="plains"
-	culture="gatewayan"
-	religion="revelationist"
-	trade_goods=""
-	civilization_value=10
-	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=1
-	}
-}
-
-1013={ #
-	terrain="plains"
-	culture="gatewayan"
-	religion="egyptology"
-	trade_goods=""
-	civilization_value=10
-	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=1
-	}
-}
-
-1014={ #
-	terrain="plains"
-	culture="riverlander"
-	religion="revelationist"
-	trade_goods=""
-	civilization_value=10
-	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=1
-	}
-}
-
-1729={ #
-	terrain="forest"
-	culture="appalachian"
-	religion="omenteller"
-	trade_goods=""
-	civilization_value=10
-	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=1
-	}
-}
-
-1730={ #
-	terrain="forest"
-	culture="appalachian"
-	religion="omenteller"
-	trade_goods=""
-	civilization_value=10
-	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=1
-	}
-}
-
-1731={ #
-	terrain="forest"
-	culture="appalachian"
-	religion="omenteller"
-	trade_goods=""
-	civilization_value=10
-	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=1
-	}
-}
-
-1732={ #
-	terrain="hills"
-	culture="riverlander"
-	religion="omenteller"
+7517={ #
+	terrain="flood_plain"
+	culture="nolan"
+	religion="vodou"
 	trade_goods="wood"
 	civilization_value=10
 	barbarian_power=0
@@ -193,10 +583,10 @@
 	}
 }
 
-1850={ #
-	terrain="hills"
-	culture="riverlander"
-	religion="revelationist"
+7518={ #
+	terrain="plains"
+	culture="nolan"
+	religion="vodou"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -206,10 +596,10 @@
 	}
 }
 
-1851={ #
-	terrain="hills"
-	culture="riverlander"
-	religion="revelationist"
+7519={ #
+	terrain="flood_plain"
+	culture="nolan"
+	religion="vodou"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -219,23 +609,10 @@
 	}
 }
 
-1852={ #
-	terrain="hills"
-	culture="riverlander"
-	religion="revelationist"
-	trade_goods=""
-	civilization_value=10
-	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=1
-	}
-}
-
-2072={ #
+7718={ #
 	terrain="forest"
-	culture="appalachian"
-	religion="revelationist"
+	culture="louisianais"
+	religion="vodou"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -245,9 +622,35 @@
 	}
 }
 
-2073={ #
+7719={ #
+	terrain="flood_plain"
+	culture="louisianais"
+	religion="vodou"
+	trade_goods="fish"
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+7720={ #
+	terrain="flood_plain"
+	culture="louisianais"
+	religion="vodou"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+8211={ #
 	terrain="forest"
-	culture="appalachian"
+	culture="arkalatexan"
 	religion="revelationist"
 	trade_goods=""
 	civilization_value=10
@@ -258,9 +661,9 @@
 	}
 }
 
-2074={ #
+8212={ #
 	terrain="forest"
-	culture="riverlander"
+	culture="arkalatexan"
 	religion="revelationist"
 	trade_goods=""
 	civilization_value=10
@@ -271,9 +674,9 @@
 	}
 }
 
-3249={ #
-	terrain="plains"
-	culture="riverlander"
+8213={ #
+	terrain="forest"
+	culture="arkalatexan"
 	religion="revelationist"
 	trade_goods=""
 	civilization_value=10
@@ -284,11 +687,11 @@
 	}
 }
 
-3250={ #
-	terrain="plains"
-	culture="riverlander"
-	religion="revelationist"
-	trade_goods="tobacco"
+8216={ #New Orleans
+	terrain="marsh"
+	culture="nolan"
+	religion="vodou"
+	trade_goods="dye"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -297,9 +700,48 @@
 	}
 }
 
-3251={ #
-	terrain="plains"
-	culture="riverlander"
+8217={ #Fairview
+	terrain="marsh"
+	culture="nolan"
+	religion="vodou"
+	trade_goods="fish"
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+8484={ #
+	terrain="marsh"
+	culture="nolan"
+	religion="vodou"
+	trade_goods="fish"
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+8485={ #
+	terrain="marsh"
+	culture="nolan"
+	religion="vodou"
+	trade_goods="fish"
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+8801={ #
+	terrain="forest"
+	culture="arkalatexan"
 	religion="revelationist"
 	trade_goods=""
 	civilization_value=10
@@ -310,9 +752,9 @@
 	}
 }
 
-4620={ #
-	terrain="plains"
-	culture="riverlander"
+8802={ #
+	terrain="forest"
+	culture="arkalatexan"
 	religion="revelationist"
 	trade_goods=""
 	civilization_value=10
@@ -323,9 +765,9 @@
 	}
 }
 
-5329={ #
-	terrain="plains"
-	culture="riverlander"
+8803={ #
+	terrain="forest"
+	culture="arkalatexan"
 	religion="revelationist"
 	trade_goods=""
 	civilization_value=10
@@ -336,23 +778,10 @@
 	}
 }
 
-5330={ #
-	terrain="plains"
-	culture="riverlander"
-	religion="revelationist"
-	trade_goods=""
-	civilization_value=10
-	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=1
-	}
-}
-
-5331={ #
+9499={ #
 	terrain="farmland"
-	culture="riverlander"
-	religion="revelationist"
+	culture="louisianais"
+	religion="vodou"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -362,10 +791,10 @@
 	}
 }
 
-5332={ #
-	terrain="plains"
-	culture="riverlander"
-	religion="revelationist"
+9500={ #
+	terrain="farmland"
+	culture="louisianais"
+	religion="vodou"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -375,271 +804,11 @@
 	}
 }
 
-5667={ #
-	terrain="plains"
-	culture="riverlander"
-	religion="revelationist"
-	trade_goods=""
-	civilization_value=10
-	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=1
-	}
-}
-
-5668={ #
-	terrain="plains"
-	culture="riverlander"
-	religion="revelationist"
-	trade_goods=""
-	civilization_value=10
-	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=1
-	}
-}
-
-5669={ #
-	terrain="plains"
-	culture="riverlander"
-	religion="revelationist"
-	trade_goods=""
-	civilization_value=10
-	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=1
-	}
-}
-
-5885={ #
-	terrain="hills"
-	culture="riverlander"
-	religion="omenteller"
-	trade_goods=""
-	civilization_value=10
-	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=1
-	}
-}
-
-5886={ #
-	terrain="hills"
-	culture="riverlander"
-	religion="omenteller"
-	trade_goods=""
-	civilization_value=10
-	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=1
-	}
-}
-
-5887={ #
-	terrain="hills"
-	culture="riverlander"
-	religion="omenteller"
-	trade_goods=""
-	civilization_value=10
-	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=1
-	}
-}
-
-6151={ #
-	terrain="plains"
-	culture="riverlander"
-	religion="egyptology"
-	trade_goods=""
-	civilization_value=10
-	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=1
-	}
-}
-
-6152={ #
-	terrain="plains"
-	culture="riverlander"
-	religion="egyptology"
-	trade_goods=""
-	civilization_value=10
-	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=1
-	}
-}
-
-6153={ #
-	terrain="plains"
-	culture="riverlander"
-	religion="revelationist"
-	trade_goods=""
-	civilization_value=10
-	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=1
-	}
-}
-
-6154={ #
-	terrain="plains"
-	culture="riverlander"
-	religion="egyptology"
-	trade_goods="cotton"
-	civilization_value=10
-	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=1
-	}
-}
-
-7027={ #
-	terrain="plains"
-	culture="riverlander"
-	religion="omenteller"
-	trade_goods=""
-	civilization_value=10
-	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=1
-	}
-}
-
-7028={ #
-	terrain="plains"
-	culture="riverlander"
-	religion="omenteller"
-	trade_goods=""
-	civilization_value=10
-	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=1
-	}
-}
-
-7029={ #
-	terrain="hills"
-	culture="riverlander"
-	religion="omenteller"
-	trade_goods=""
-	civilization_value=10
-	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=1
-	}
-}
-
-7030={ #
-	terrain="plains"
-	culture="riverlander"
-	religion="omenteller"
-	trade_goods=""
-	civilization_value=10
-	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=1
-	}
-}
-
-9042={ #
-	terrain="plains"
-	culture="riverlander"
-	religion="revelationist"
-	trade_goods=""
-	civilization_value=10
-	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=1
-	}
-}
-
-9043={ #
-	terrain="plains"
-	culture="riverlander"
-	religion="revelationist"
-	trade_goods=""
-	civilization_value=10
-	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=1
-	}
-}
-
-9044={ #
-	terrain="plains"
-	culture="riverlander"
-	religion="revelationist"
-	trade_goods=""
-	civilization_value=10
-	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=1
-	}
-}
-
-9045={ #
-	terrain="plains"
-	culture="riverlander"
-	religion="revelationist"
-	trade_goods=""
-	civilization_value=10
-	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=1
-	}
-}
-
-9578={ #
-	terrain="forest"
-	culture="appalachian"
-	religion="revelationist"
-	trade_goods="wood"
-	civilization_value=10
-	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=1
-	}
-}
-
-9579={ #
-	terrain="hills"
-	culture="appalachian"
-	religion="revelationist"
-	trade_goods=""
-	civilization_value=10
-	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=1
-	}
-}
-
-9580={ #
-	terrain="forest"
-	culture="riverlander"
-	religion="revelationist"
-	trade_goods=""
+9501={ #
+	terrain="farmland"
+	culture="louisianais"
+	religion="vodou"
+	trade_goods="rice"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"

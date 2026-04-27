@@ -271,19 +271,6 @@
 	}
 }
 
-4968={ #
-	terrain="plains"
-	culture=""
-	religion="mayan_pantheon"
-	trade_goods=""
-	civilization_value=10
-	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=1
-	}
-}
-
 5385={ #
 	terrain="hills"
 	culture="riverlander"

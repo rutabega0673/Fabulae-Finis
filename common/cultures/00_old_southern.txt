@@ -11,36 +11,75 @@
 	secondary_navy = octere
 	flank_navy = liburnian
 
-	male_names = {
-		Tarxun Ramch Axak Maxak Uxuchan Shaow Wanxanak Awekat Baxuman Chukshek Ratsh Ramtish Ayus Katch Arxata Exak Sheshch Oxyartes Spitamenes Artaxerxes Burz Orzek Samtish Bexak Arzun Shaw Entysh Anxach Wius Bharzun Bharxuman 
-	}
-	female_names = {
-		Roxana Rayun Roshanak Baxunash Roshan Saryash Zunesh Mayara Koshana Hephta Hashchana Ixeni Oniya Wyara Awxa Oshan Riyun 
-	}
+	male_names = { Absalom Achilles Alexander Alfred Aloys Alpheus Ambrose Antipas Aristophanes Armistead Arthur Artis Ashbury Astolpho Atticus Augustus Aurelius Baldwin Bayard Beauford Beauregard Bedivere Benjamin Birkett Bohemond Bradley Brandegoris Brangwin Braxton Breunor Brevard Brutus Bryan Bucephalus Buddy Burwell Bushrod Cadmus Cadwallader Calhoun Calvin Catesby Cato Charles Childress Claudius Cleophas Cleveland Colvin Constantine Coriolanus Cornelius Cronus Curtis Custis Dabney Daniel Danville David Davis Ector Edmund Edward Ellison Eugenius Eupheus Evander Faulkner Ferragut Francis Frederick Fulgent Fulwar Ganelon Gareth Geoffrey George_Lee Geraint Gideon Goode Grayson Griflet Grover Gwynn Hamilcar Hampton Hannibal Harold_Lee Harris Herbert Heron Homer Horace Hugh Irwin Isaias Isham Jackson James Jason Jefferson Jennings John Jonathan Joscelin Joseph Judson Julius Junius Justinian Kirkwood Kirwin Lamartine Landon Laurentius Lawrence Lemuel Leo Lindsay Linwood Lionel Lucan Lucius Lunsford Lycurgus Lysander Marcellus Marcus Marmaduke Matthias Maurice Meleager Mercury Meriwether Merriman Micah Milledge Mosby Nathanael Neptune Newton Octavian Oliver Onslow Owen Patrick Paulus Pellias Pellinore Percival Pericles Petrus Philippus Pinabel Plato Pluto Polycarpus Pompey Priscus Prudens Publicola Pulcher Quadratus Quentin Raleigh Randall Randolph Raphael Raynault Reardon Regulus Rhett Richard Richmond Ridgeway Robert Robin Roland Rufus Ryland Sagramore Samuel Saturn Saunder Scipio Severus Shelby Singleton Spotswood Solon Sosipater Stanton Stephanus Stoughton Sumner Superbus Sylvester Tertius Theodore Theophilus Thomas Tiberius Timon Titus Trophimus Turpin Ulixes Urban Urien Valentinian Valerian Victor Vincent Virginius Vitalian Wade Wakefield Walter Walter_Scott Washington Watling William Winfield Zacharias }
+    female_names = { Adeline Agnes Alexandra Alfreda Alice April Alyssa Amelia Anastasia Anna Antigone Antonia Arabella Artemis Atalanta Aude Augusta Beatrice Belle Blanchet Bradamante Candace Candida Capitola Carlye Carolina Cassandra Catherine Cecilia Charlie Charlotte Claudia Clover Clymene Cola Constance Cornelia Cynthia Dahlia Daisy Daphne Diana Dionysia Donna Dorothea Drucilla Elaine Eleanor Elizabeth Ella Esther Eudoxia Eugenia Eulalia Eunice Evelyn Felicia Frances Frederica Gaynelle Georgia Geraldine Gloria Grace Guinevere Gwendolyn Harriet Helen Henrietta Hera Hetty Ida Imogene India Irene Iseult Jane Joanna Jocasta Josephine Joyce Judith Julia Juliet June Juniper Kylene Laura Letitia Lily Linda Lorena Loreta Louisa Lucia Lucilla Lydia Mae Margaret Marian Marilyn Martha Mary Mary_Anna Mary_Lee Matilda Maybelle Megara Melanie Melantha Melinda Melisende Michelle Miki Morgana Morgause Naomi Narcissa Olivia Ophelia Otelia Pamilia Patricia Paulina Peach Permelia Phoebe Primrose Primula Priscilla Rebecca Rhea Roberta Rose Sarah Sarelda Scarlett Silvana Susanna Tara Theodosia Vanessa Varina Venus Victoria Viola Violet Virgie Virginia Vitina Vivian Zora }
 	family = {
-		Tarixanian.Tarixanian.Tarixanian.Tarixanian
-		Arzakanian.Arzakanian.Arzakanian.Arzakanian
-		Axumenian.Axumenian.Axumenian.Axumenian
-		Wanxanian.Wanxanian.Wanxanian.Wanxanian
-		Rachnian.Rachnian.Rachnian.Rachnian
-		Burzen.Burzen.Burzen.Burzenid
-		Semshan.Semshan.Semshan.Semshanian
-		Orzan.Orzan.Orzan.Orzan
-		Bharzunian.Bharzunian.Bharzunian.Bharzunian
-		Wyaran.Wyaran.Wyaran.Wyaran
-		Oxian.Oxian.Oxian.Oxian
-		Arxatan.Arxatan.Arxatan.Arxatan
-		Spitamenian.Spitamenian.Spitamenian.Spitamenian
-		Artaxian.Artaxian.Artaxian.Artaxian
-		Orxenian.Orxenian.Orxenian.Orxenian
-		Arzunian.Arzunian.Arzunian.Arzunian
-		Aynian.Aynian.Aynian.Aynian
+		Adams.Adams.Adams.Adams 
+		Allen 
+		Alligood 
+		Allsbrook 
+		Alston 
+		Ambrose 
+		Ange 
+		Armstrong 
+		Arrington 
+		Askew Ausband Austin Baker Baysden Ballance Barnes Barneyback Barnhart Bartley Basnight Batchelor Bateman Battle Batts Baum Bazemore Beacham Beasley Beckwith Belcher Bell Belvin Berry Biggs Bishop Black Blake Blount Bonniville Boomer Boone Borbe Borington Bowen Bowman Bowser Boyd Boyette Brabble Bradford Bragg Brett Brickhouse Brimmage Brinson Bristow Brown Brownlee Bryant Bunting Burleson Burrus Byrd Cabarrus Cahoon Calloway Campbell Carawan Carmine Castelloe Caudle Chadwick Chamblee Chapman Chappell Cherry Chesson Childress Clagon Clayborne Clayton Clifton Cobb Cofield Coleman Collins Combs Comstock Cook Cooper Copeland Corbin Cotten Cox Crawford Credle Creef Cunningham Curmon Cuthrell Daniel Daughtry Davenport Davis Deaver Deloatch Diaz Dickens Dilday Dillahunt Dixon Douglas Downing Dudley Dunbar Duncan Dunlow Dunn Edwards Eley Elliott Eppard Epps Equils Erlewine Etheridge Evans Everette Everington Ezzell Faison Farless Farrow Fennell Fenner Flack Fleetwood Fleming Flores Flythe Forbes Ford Forehand Forrest Fox Friisvall Fulcher Fullwood Fuquea Furlough Futrell Gard Gardner Garrett Garrish Gaskill Gatling Gibbs Gibson Gillikin Godette Golden Goodwin Gorchess Gorham Grant Gray Green Gregory Griffin Gurganus Guthrie Hall Hamilton Hannon Hardison Harrell Hartman Harvey Hassell Hawkins Haynes Haywood Heckstall Hedgepeth Henderson Heverly Hines Hobbs Hoggard Hogge Holland Holley Holloman Holloway Hooper Horsley Horton Howard Hubbard Hudgins Hudson Hufton Hux Hyman Irby Jackson Jarvis Jenkins Jernigan Johnson Johnston Jones Joyce Joyner Kane Kearney Keener Kellum Keyes King Kitchin Knight Lancaster Landino Lane Lassiter Lawrence Ledford Lee Leigh Lemon Lewis Litchfield Liverman Lloyd Lowney Lupton Lyle Lynn Majette Mann Marshburn Mason Mattocks Mauffray McCabe McCless McCray McDevett McDowell McGowan McLawhorn McNair McWilliams Mebane Meekins Merrick Meyer Midgett Midgette Midyette Millis Mills Mizell Mizelle Moody Mooney Moore Morning Morris Morton Motley Murray Myers Nelson Newcomb Newsome Nicholson Nixon Norfleet Norman Norris O_pst_Neal Olds Oliver Ortiz Ottaway Outland Outlaw Overton Owens Padgett Palin Palmer Parker Patrick Payne Peaden Pearson Peed Peele Pendleton Peppers Perez Perkins Perry Pettway Phelps Pierce Pilgreen Piner Pittman Pledger Poland Pope Potter Powell Pratt Price Pritchett Pryor Pugh Purkett Purvis Quidley Quinerly Reason Reed Respass Revelle Reynolds Rice Riddick Rilee Rivera Robertson Robins Robinson Rogers Roscoe Rose Roughton Rouson Russell Sadler Salter Sanderlin Sanders Satterthwaite Saunders Sawyer Scarborough Schmidt Schmitt Scott Selby Sessoms Shackelford Shearin Shelton Shepard Shields Shingleton Sibley Sidbury Siggler Silverthorne Simpson Smallwood Smith Smithwick Smyer Snell Snow Solomon Spear Spivey Spruill Stephens Stephenson Sterling Stone Stotesberry Stowe Styons Styron Sugg Sullivan Swain Swindell Sykes Tankard Tann Tarkington Tayloe Taylor Teagle Teel Thomas Tillage Tillery Tillett Tinkham Tooley Topping Tunnell Turner Twiford Tyner Van_Salisbury Vann Varvell Vaughan Vinson Voliva Waddell Wagner Walker Walters Walton Ward Warren Washington Waters Weaver Webb Wesson West Wheeler Whitaker White Whitehurst Whiting Wiggins Williams Willis Womble Wood Woodard Woodley Worthington Wright Wrighton Wynn Yeomans Yopp York
 	}
 	culture = {
-		hoi_toider = {}
+		hoi_toider = {
+			male_names = { Absalom Achilles Alexander Alfred Aloys Alpheus Ambrose Antipas Aristophanes Armistead Arthur Artis Ashbury Astolpho Atticus Augustus Aurelius Baldwin Bayard Beauford Beauregard Bedivere Benjamin Birkett Bohemond Bradley Brandegoris Brangwin Braxton Breunor Brevard Brutus Bryan Bucephalus Burwell Cadmus Cadwallader Calhoun Calvin Catesby Cato Charles Childress Claudius Cleophas Cleveland Colvin Constantine Coriolanus Cornelius Cronus Curtis Custis Dabney Daniel Danville David Davis Ector Edmund Edward Ellison Eugenius Eupheus Evander Faulkner Ferragut Francis Frederick Fulgent Fulwar Ganelon Gareth Geoffrey George_Lee Geraint Gideon Goode Grayson Griflet Grover Gwynn Hamilcar Hampton Hannibal Harold_Lee Harris Herbert Heron Homer Horace Hugh Irwin Isaias Isham Jackson James Jason Jefferson Jennings John Jonathan Joscelin Joseph Judson Julius Junius Justinian Kirkwood Kirwin Lamartine Landon Laurentius Lemuel Leo Lindsay Linwood Lionel Lucan Lucius Lunsford Lycurgus Lysander Marcellus Marcus Marmaduke Matthias Maurice Meleager Mercury Meriwether Merriman Micah Milledge Mosby Nathanael Neptune Newton Octavian Oliver Onslow Owen Patrick Paulus Pellias Pellinore Percival Pericles Petrus Philippus Pinabel Plato Pluto Polycarpus Pompey Priscus Prudens Publicola Pulcher Quadratus Quentin Raleigh Randall Randolph Raphael Raynault Reardon Regulus Rhett Richard Richmond Ridgeway Robert Robin Roland Rufus Sagramore Samuel Saturn Saunder Scipio Severus Shelby Singleton Solon Sosipater Stanton Stephanus Stoughton Sumner Superbus Sylvester Tertius Theodore Theophilus Thomas Tiberius Timon Titus Trophimus Turpin Ulixes Urban Urien Valentinian Valerian Victor Vincent Virginius Vitalian Wade Wakefield Walter Walter_Scott Washington Watling William Winfield Zacharias } 
+        	female_names = { Adeline Agnes Alexandra Alfreda Alice April Alyssa Amelia Anastasia Anna Antigone Antonia Arabella Artemis Atalanta Aude Augusta Beatrice Belle Blanchet Bradamante Candace Candida Capitola Carlye Carolina Cassandra Catherine Cecilia Charlie Charlotte Claudia Clover Clymene Cola Constance Cornelia Cynthia Dahlia Daisy Daphne Diana Dionysia Donna Dorothea Drucilla Elaine Eleanor Elizabeth Ella Esther Eudoxia Eugenia Eulalia Eunice Evelyn Felicia Frances Frederica Georgia Geraldine Gloria Grace Guinevere Gwendolyn Harriet Helen Henrietta Hera Hetty Ida Imogene India Irene Iseult Jane Joanna Jocasta Josephine Joyce Judith Julia Juliet June Laura Letitia Lily Linda Lorena Loreta Louisa Lucia Lucilla Lydia Mae Margaret Marian Marilyn Martha Mary Mary_Anna Mary_Lee Matilda Maybelle Megara Melanie Melantha Melinda Melisende Michelle Morgana Morgause Naomi Narcissa Olivia Ophelia Otelia Pamilia Patricia Paulina Peach Permelia Phoebe Primrose Primula Priscilla Rebecca Rhea Roberta Rose Sarah Sarelda Scarlett Silvana Susanna Tara Theodosia Vanessa Varina Venus Victoria Viola Violet Virginia Vitina Vivian Zora }
+		}
 		southron = {}
-		piedmontese = {}
-		sandlapper = {}
+		piedmontese = {
+			male_names = { Aaron Adrian Alexander Alvin Amos Anse Archibald Arthur Asa Asbury Avery Bart Belford Benjamin Benji Bernard Billy Boyd Bradford Brandy Brantley Brian Briscoe Buck Buddy Burnis Buster Byron Bubba Caleb Calhoun Calvin Carson Cassius Cedric Chadwick Charlie Chester Claiborne Clarence Cleotis Clifford Clifton Colby Corbett Connally Cullen Curtis Cyrus Dale Daniel Daryl David Dean DeForest Dewey Dewitt Doc Don Drew Dudley Dustin Dwight Earl Edwin Elbert Elford Elijah Ellis Elmo Elwood Emmett Emory Ephraim Epps Erskine Esco Eugene Eulis Everett Farley Farris Fletcher Floyd Forrest Frank Franklin Fred Furman Gadis Gaither George Gilbert Grayson Greg Grover Guilford Hagler Harlan Harrison Harry Hartford Harvey Haywood Heath Henry Heyward Hiram Hobart Hoke Hoyt Hubbard Hubert Humbert Irwin Isaac Israel Jack James Jay Jimmie John Jonas Jonathan Jubal Julius Junior Junius Jewell Keenan Kevin Lamar Lamont Landon Landrum Lawrence Lawson Lee Lenny Leon Leroy Levi Lewis Lindsay Linwood Luke Luther Mack Magruder Malcolm Marcus Marshall Maxwell McKinley Merle Mickey Milford Nelson Newton Ollen Orville Otis Parker Patrick Paul Pete Preston Rafe Ralph Randolph Rayford Rayvon Reginald Richard Robert Roger Ross Roy Rufus Rusty Ryan Samson Samuel Sanford Seth Sheldon Sherwood Silas Sonny Spurgeon Stephen Talmadge Theophilus Teddy Timmy Tommy Tucker Tyler Vardaman Vernon Victor Wally Walter Walton Ward Warren Waylon Wayne Weldon Wentford Willie Wiley Willard Wilson Wilton Winfield Woodrow Wyndham Zebulon }
+			female_names = { Ada Alfreda Allison Alma Amelia Amy Angela Anne Annabelle April Ashley Belle Bernice Beth Betony Betsy Beulah Bonnie Callie Candace Carol Charlotte Clara Claudia Cleta Cola Colette Cookie Connie Cornelia Corra Cynthia Damilla Danielle Daphne Deborah Denise Diane Dixie Donna Dorothy Dot Earnestine Ebony Edith Elaine Eleanor Elizabeth Ella Ellen Emily Emma Ernestine Essie Esther Etta Eula Fannie Fay Flora Gail Georgia Ginny Gladys Grace Gracie Gradine Hannah Harriet Hattie Hazel Helen Henrietta Hilda Ida Inez Irene Iris Jane Jeanette Jennie Jessie Joanne Josephine Joy Joyce Juanita Judy June Katelyn Kimberly Kylene LaTonya Laura Lena Leslie Lethia Libby Lily Linda Lisa Lorraine Lucy Lula Lynn Mabel Mae Marlene Martha Mary Mavis McKenzie Melissa Melvina Millie Minnie Misty Myra Nancy Nellie Nettie Nora Octavia Paige Patricia Patsy Pearl Peggy Pepsi Rachel Ramona Rebecca Rebekah Renata Revonda Rhoda Rita Roberta Rose Ruby Ruth Sarah Sheryl Sloan Sonya Sue Sybil Sylvania Tammy Teresa Thelma Tillie Tracey Vera Victoria Viola Virginia Wanda Wenonah }
+		}	
+		sandlapper = {
+			male_names = {
+				Adriel Anthony Arthur Alexander Alonzo Andrew Alvin
+				Barnwell Benjamin Burnet Byron Bruce Bubba
+				Carlisle Charles Charlie Craig Clemente
+				David Darius Denmark Darrell Donald
+				Edward Edwin Elijah Ernest Ellsworth Everett
+				Francois
+				Garrett George
+				Harry Henry
+				Issac
+				James Jonathan Joel Joshua John Judah Julius Joseph Jermaine
+				Kirkman
+				Lamarr Langston Lewis Linwood Luther Logan Lloyd Leon
+				Mark Merton Michael
+				Nehemiah Norb
+				Patrick Paul Peter Percival Phillip Pinckney
+				Ralph Reuben Richard Robert Ronald Ryan
+				Stanley Samuel Stephen Shepard Scott Sylvester
+				Thomas Tyrone Terrance
+				Vincent
+				Walter Weston William Woodrow
+				Xavier
+				Zachary Zinn
+			}
+			female_names = {
+				Alexandra Allison Alexis Angela Anna Alicia Ashley Anita
+				Bertha Beulah Brandy
+				Caroline Clarissa Candice
+				Daniela
+				Esther Eden Elise Eliza Essie
+				Floride Fiona
+				Grace Gloria
+				Jasmine Jessica
+				Katrina Kesley Kristin Kimberley
+				Lauren Louisa Lily Libby
+				Maude Mabel Mary Melanie Modjeska
+				Nikki
+				Robin
+				Savannah Septima Stella Sadie
+				Taylor
+				Vanessa
+				Wilhelmina
+			}
+		}
 	}
 	
 	barbarian_names = { 

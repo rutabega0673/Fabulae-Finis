@@ -700,7 +700,7 @@
 	terrain="farmland"
 	culture="gothamite"
 	religion="americanist"
-	trade_goods="marble"
+	trade_goods="gunpowder"
 	civilization_value=35
 	barbarian_power=0
 	province_rank="city"

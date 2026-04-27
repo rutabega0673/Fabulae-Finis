@@ -1,4 +1,43 @@
-﻿638={ #
+﻿217={ #
+	terrain="forest"
+	culture="upnorther"
+	religion="lakeshore"
+	trade_goods="fur"
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+218={ #
+	terrain="forest"
+	culture="upnorther"
+	religion="lakeshore"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+219={ #
+	terrain="forest"
+	culture="upnorther"
+	religion="lakeshore"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+638={ #
 	terrain="forest"
 	culture="shieldshorer"
 	religion="promethean"
@@ -323,6 +362,58 @@
 	}
 }
 
+2908={ #
+	terrain="forest"
+	culture="shieldshorer"
+	religion="veteranic"
+	trade_goods="fur"
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+2909={ #
+	terrain="forest"
+	culture="ontarian"
+	religion="midewiwin"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+2910={ #
+	terrain="forest"
+	culture="shieldshorer"
+	religion="veteranic"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+2911={ #
+	terrain="forest"
+	culture="shieldshorer"
+	religion="veteranic"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
 3030={ #
 	terrain="forest"
 	culture="ojibwe"
@@ -479,6 +570,19 @@
 	}
 }
 
+6111={ #
+	terrain="forest"
+	culture="eeyou"
+	religion="midewiwin"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
 6115={ #
 	terrain="forest"
 	culture="ojibwe"
@@ -536,6 +640,45 @@
 	culture="yooper"
 	religion="lakeshore"
 	trade_goods="limestone"
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+6475={ #
+	terrain="forest"
+	culture="francontarien"
+	religion="promethean"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+6476={ #
+	terrain="forest"
+	culture="shieldshorer"
+	religion="promethean"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+6477={ #
+	terrain="forest"
+	culture="shieldshorer"
+	religion="promethean"
+	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -726,6 +869,32 @@
 	}
 }
 
+7871={ #
+	terrain="forest"
+	culture="ontarian"
+	religion="midewiwin"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+7873={ #
+	terrain="forest"
+	culture="algonquin"
+	religion="midewiwin"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
 8059={ #
 	terrain="forest"
 	culture="yooper"
@@ -770,6 +939,58 @@
 	culture="yooper"
 	religion="lakeshore"
 	trade_goods="wood"
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+8736={ #
+	terrain="forest"
+	culture="algonquin"
+	religion="midewiwin"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+8737={ #
+	terrain="hills"
+	culture="francontarien"
+	religion="midewiwin"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+8738={ #
+	terrain="hills"
+	culture="algonquin"
+	religion="midewiwin"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+8739={ #
+	terrain="hills"
+	culture="francontarien"
+	religion="midewiwin"
+	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"

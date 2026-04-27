@@ -1,7 +1,20 @@
-﻿110={ #Allegan
+﻿475={ #
 	terrain="plains"
-	culture="chicagoan"
-	religion="promethean"
+	culture="montrealais"
+	religion="catholic"
+	trade_goods="rice"
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+476={ #
+	terrain="plains"
+	culture="montrealais"
+	religion="catholic"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -11,10 +24,10 @@
 	}
 }
 
-112={ #Dowagiac
+477={ #
 	terrain="plains"
-	culture="chicagoan"
-	religion="promethean"
+	culture="montrealais"
+	religion="catholic"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -24,361 +37,10 @@
 	}
 }
 
-560={ #
-	terrain="plains"
-	culture="potowatomi"
-	religion="promethean"
-	trade_goods=""
-	civilization_value=10
-	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=1
-	}
-}
-
-561={ #
-	terrain="plains"
-	culture="potowatomi"
-	religion="promethean"
-	trade_goods=""
-	civilization_value=10
-	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=1
-	}
-}
-
-562={ #
-	terrain="plains"
-	culture="potowatomi"
-	religion="promethean"
-	trade_goods=""
-	civilization_value=10
-	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=1
-	}
-}
-
-563={ #
-	terrain="plains"
-	culture="potowatomi"
-	religion="promethean"
-	trade_goods=""
-	civilization_value=10
-	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=1
-	}
-}
-
-571={ #Detroit
-	terrain="farmland"
-	culture="motowner"
-	religion="promethean"
-	trade_goods="gunpowder"
-	civilization_value=10
-	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=1
-	}
-}
-
-839={ #
+1051={ #
 	terrain="forest"
-	culture="upnorther"
-	religion="lakeshore"
-	trade_goods=""
-	civilization_value=10
-	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=1
-	}
-}
-
-840={ #
-	terrain="forest"
-	culture="michigander"
-	religion="americanist"
-	trade_goods=""
-	civilization_value=10
-	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=1
-	}
-}
-
-841={ #
-	terrain="forest"
-	culture="upnorther"
-	religion="americanist"
-	trade_goods="wood"
-	civilization_value=10
-	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=1
-	}
-}
-
-848={ #
-	terrain="forest"
-	culture="motowner"
-	religion="promethean"
-	trade_goods=""
-	civilization_value=10
-	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=1
-	}
-}
-
-849={ #
-	terrain="plains"
-	culture="michigander"
-	religion="promethean"
-	trade_goods=""
-	civilization_value=10
-	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=1
-	}
-}
-
-850={ #
-	terrain="plains"
-	culture="motowner"
-	religion="promethean"
-	trade_goods=""
-	civilization_value=10
-	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=1
-	}
-}
-
-851={ #
-	terrain="forest"
-	culture="michigander"
-	religion="promethean"
-	trade_goods=""
-	civilization_value=10
-	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=1
-	}
-}
-
-902={ #
-	terrain="forest"
-	culture="upnorther"
-	religion="lakeshore"
-	trade_goods=""
-	civilization_value=10
-	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=1
-	}
-}
-
-903={ #
-	terrain="forest"
-	culture="upnorther"
-	religion="lakeshore"
-	trade_goods=""
-	civilization_value=10
-	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=1
-	}
-}
-
-904={ #
-	terrain="plains"
-	culture="upnorther"
-	religion="lakeshore"
-	trade_goods="limestone"
-	civilization_value=10
-	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=1
-	}
-}
-
-905={ #
-	terrain="plains"
-	culture="upnorther"
-	religion="lakeshore"
-	trade_goods=""
-	civilization_value=10
-	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=1
-	}
-}
-
-962={ #
-	terrain="farmland"
-	culture="michigander"
-	religion="promethean"
-	trade_goods=""
-	civilization_value=10
-	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=1
-	}
-}
-
-963={ #
-	terrain="forest"
-	culture="michigander"
-	religion="promethean"
-	trade_goods=""
-	civilization_value=10
-	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=1
-	}
-}
-
-964={ #
-	terrain="forest"
-	culture="michigander"
-	religion="promethean"
-	trade_goods=""
-	civilization_value=10
-	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=1
-	}
-}
-
-1257={ #
-	terrain="plains"
-	culture="motowner"
-	religion="promethean"
-	trade_goods=""
-	civilization_value=10
-	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=1
-	}
-}
-
-1258={ #
-	terrain="plains"
-	culture="motowner"
-	religion="promethean"
-	trade_goods=""
-	civilization_value=10
-	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=1
-	}
-}
-
-1259={ #
-	terrain="plains"
-	culture="motowner"
-	religion="promethean"
-	trade_goods=""
-	civilization_value=10
-	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=1
-	}
-}
-
-1311={ #
-	terrain="forest"
-	culture="michigander"
-	religion="promethean"
-	trade_goods=""
-	civilization_value=10
-	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=1
-	}
-}
-
-1312={ #
-	terrain="plains"
-	culture="michigander"
-	religion="promethean"
-	trade_goods=""
-	civilization_value=10
-	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=1
-	}
-}
-
-1313={ #
-	terrain="plains"
-	culture="michigander"
-	religion="promethean"
-	trade_goods=""
-	civilization_value=10
-	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=1
-	}
-}
-
-1314={ #
-	terrain="forest"
-	culture="michigander"
-	religion="promethean"
-	trade_goods="maple"
-	civilization_value=10
-	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=1
-	}
-}
-
-1315={ #
-	terrain="plains"
-	culture="michigander"
-	religion="promethean"
-	trade_goods=""
-	civilization_value=10
-	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=1
-	}
-}
-
-1564={ #
-	terrain="forest"
-	culture="michigander"
-	religion="americanist"
+	culture="quebecois"
+	religion="gothic"
 	trade_goods="fur"
 	civilization_value=10
 	barbarian_power=0
@@ -388,154 +50,11 @@
 	}
 }
 
-1565={ #
-	terrain="forest"
-	culture="michigander"
-	religion="promethean"
-	trade_goods=""
-	civilization_value=10
-	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=1
-	}
-}
-
-1566={ #
-	terrain="forest"
-	culture="michigander"
-	religion="promethean"
-	trade_goods=""
-	civilization_value=10
-	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=1
-	}
-}
-
-1567={ #
-	terrain="forest"
-	culture="michigander"
-	religion="promethean"
-	trade_goods="wood"
-	civilization_value=10
-	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=1
-	}
-}
-
-3069={ #
-	terrain="forest"
-	culture="upnorther"
-	religion="lakeshore"
-	trade_goods=""
-	civilization_value=10
-	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=1
-	}
-}
-
-3070={ #
-	terrain="forest"
-	culture="upnorther"
-	religion="lakeshore"
-	trade_goods=""
-	civilization_value=10
-	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=1
-	}
-}
-
-3071={ #
-	terrain="forest"
-	culture="upnorther"
-	religion="lakeshore"
-	trade_goods=""
-	civilization_value=10
-	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=1
-	}
-}
-
-3072={ #
-	terrain="forest"
-	culture="upnorther"
-	religion="lakeshore"
-	trade_goods=""
-	civilization_value=10
-	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=1
-	}
-}
-
-3073={ #
-	terrain="forest"
-	culture="upnorther"
-	religion="mayan_pantheon"
-	trade_goods=""
-	civilization_value=10
-	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=1
-	}
-}
-
-3472={ #
-	terrain="forest"
-	culture="upnorther"
-	religion="lakeshore"
-	trade_goods=""
-	civilization_value=10
-	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=1
-	}
-}
-
-3473={ #
-	terrain="forest"
-	culture="upnorther"
-	religion="lakeshore"
-	trade_goods="fur"
-	civilization_value=10
-	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=1
-	}
-}
-
-3474={ #
-	terrain="forest"
-	culture="michigander"
-	religion="promethean"
-	trade_goods=""
-	civilization_value=10
-	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=1
-	}
-}
-
-4297={ #
+1052={ #
 	terrain="plains"
-	culture="michigander"
-	religion="promethean"
-	trade_goods=""
+	culture="montrealais"
+	religion="gothic"
+	trade_goods="tubers"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -544,10 +63,10 @@
 	}
 }
 
-4298={ #
+1135={ #
 	terrain="plains"
-	culture="motowner"
-	religion="promethean"
+	culture="ontarian"
+	religion="catholic"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -557,10 +76,10 @@
 	}
 }
 
-4299={ #
+1136={ #
 	terrain="plains"
-	culture="michigander"
-	religion="promethean"
+	culture="ontarian"
+	religion="catholic"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -570,24 +89,11 @@
 	}
 }
 
-4300={ #
-	terrain="plains"
-	culture="michigander"
-	religion="promethean"
-	trade_goods=""
-	civilization_value=10
-	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=1
-	}
-}
-
-4612={ #
+1742={ #
 	terrain="farmland"
-	culture="michigander"
-	religion="promethean"
-	trade_goods=""
+	culture="montrealais"
+	religion="catholic"
+	trade_goods="grain"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -596,24 +102,11 @@
 	}
 }
 
-4613={ #
-	terrain="plains"
-	culture="michigander"
-	religion="promethean"
-	trade_goods=""
-	civilization_value=10
-	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=1
-	}
-}
-
-4614={ #
+1743={ #
 	terrain="farmland"
-	culture="michigander"
-	religion="promethean"
-	trade_goods=""
+	culture="montrealais"
+	religion="catholic"
+	trade_goods="leather"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -622,75 +115,10 @@
 	}
 }
 
-4616={ #
-	terrain="forest"
-	culture="michigander"
-	religion="promethean"
-	trade_goods=""
-	civilization_value=10
-	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=1
-	}
-}
-
-5718={ #
-	terrain="plains"
-	culture="motowner"
-	religion="promethean"
-	trade_goods=""
-	civilization_value=10
-	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=1
-	}
-}
-
-5719={ #
-	terrain="plains"
-	culture="motowner"
-	religion="promethean"
-	trade_goods="iron"
-	civilization_value=10
-	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=1
-	}
-}
-
-5720={ #
-	terrain="plains"
-	culture="motowner"
-	religion="promethean"
-	trade_goods=""
-	civilization_value=10
-	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=1
-	}
-}
-
-5990={ #
-	terrain="plains"
-	culture="michigander"
-	religion="promethean"
-	trade_goods=""
-	civilization_value=10
-	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=1
-	}
-}
-
-5991={ #
+1744={ #
 	terrain="farmland"
-	culture="michigander"
-	religion="promethean"
+	culture="montrealais"
+	religion="catholic"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -700,10 +128,10 @@
 	}
 }
 
-5992={ #
+1745={ #
 	terrain="plains"
-	culture="michigander"
-	religion="promethean"
+	culture="montrealais"
+	religion="catholic"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -713,10 +141,23 @@
 	}
 }
 
-5993={ #
-	terrain="plains"
-	culture="michigander"
-	religion="promethean"
+1746={ #
+	terrain="farmland"
+	culture="montrealais"
+	religion="catholic"
+	trade_goods="grain"
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+1927={ #
+	terrain="farmland"
+	culture="montrealais"
+	religion="catholic"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -726,10 +167,10 @@
 	}
 }
 
-6091={ #
+1928={ #
 	terrain="plains"
-	culture="michigander"
-	religion="promethean"
+	culture="montrealais"
+	religion="catholic"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -739,49 +180,10 @@
 	}
 }
 
-6092={ #
+1929={ #
 	terrain="plains"
-	culture="michigander"
-	religion="promethean"
-	trade_goods=""
-	civilization_value=10
-	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=1
-	}
-}
-
-6093={ #
-	terrain="plains"
-	culture="michigander"
-	religion="promethean"
-	trade_goods=""
-	civilization_value=10
-	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=1
-	}
-}
-
-6094={ #
-	terrain="plains"
-	culture="michigander"
-	religion="promethean"
-	trade_goods=""
-	civilization_value=10
-	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=1
-	}
-}
-
-6263={ #
-	terrain="plains"
-	culture="motowner"
-	religion="promethean"
+	culture="montrealais"
+	religion="catholic"
 	trade_goods="maple"
 	civilization_value=10
 	barbarian_power=0
@@ -791,11 +193,11 @@
 	}
 }
 
-6264={ #
+1930={ #
 	terrain="plains"
-	culture="motowner"
-	religion="promethean"
-	trade_goods="limestone"
+	culture="montrealais"
+	religion="catholic"
+	trade_goods="grain"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -804,10 +206,10 @@
 	}
 }
 
-6265={ #
+1931={ #
 	terrain="plains"
-	culture="motowner"
-	religion="promethean"
+	culture="montrealais"
+	religion="catholic"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -817,10 +219,10 @@
 	}
 }
 
-6795={ #
+1932={ #
 	terrain="plains"
-	culture="motowner"
-	religion="promethean"
+	culture="montrealais"
+	religion="catholic"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -830,10 +232,10 @@
 	}
 }
 
-6796={ #
+1933={ #
 	terrain="plains"
-	culture="motowner"
-	religion="promethean"
+	culture="montrealais"
+	religion="catholic"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -843,11 +245,11 @@
 	}
 }
 
-6797={ #
-	terrain="plains"
-	culture="motowner"
-	religion="promethean"
-	trade_goods="honey"
+1966={ #
+	terrain="forest"
+	culture="montrealais"
+	religion="catholic"
+	trade_goods="clay"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -856,10 +258,23 @@
 	}
 }
 
-7776={ #
+1967={ #
+	terrain="forest"
+	culture="montrealais"
+	religion="catholic"
+	trade_goods="grain"
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+2226={ #
 	terrain="plains"
-	culture="michigander"
-	religion="promethean"
+	culture="montrealais"
+	religion="catholic"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -869,10 +284,10 @@
 	}
 }
 
-7777={ #
+2227={ #
 	terrain="plains"
-	culture="michigander"
-	religion="promethean"
+	culture="quebecois"
+	religion="catholic"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -882,10 +297,10 @@
 	}
 }
 
-7778={ #
+2228={ #
 	terrain="plains"
-	culture="michigander"
-	religion="promethean"
+	culture="montrealais"
+	religion="catholic"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -895,24 +310,11 @@
 	}
 }
 
-7779={ #
-	terrain="plains"
-	culture="michigander"
-	religion="promethean"
-	trade_goods="iron"
-	civilization_value=10
-	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=1
-	}
-}
-
-8952={ #
+2253={ #
 	terrain="farmland"
-	culture="michigander"
-	religion="promethean"
-	trade_goods="fruits"
+	culture="montrealais"
+	religion="catholic"
+	trade_goods="grain"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -921,11 +323,11 @@
 	}
 }
 
-8953={ #
+2254={ #
 	terrain="plains"
-	culture="michigander"
-	religion="promethean"
-	trade_goods=""
+	culture="haudenosaunee"
+	religion="catholic"
+	trade_goods="wood"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -934,11 +336,24 @@
 	}
 }
 
-8954={ #
+2255={ #
+	terrain="farmland"
+	culture="montrealais"
+	religion="catholic"
+	trade_goods="cloth"
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+2256={ #
 	terrain="plains"
-	culture="michigander"
-	religion="promethean"
-	trade_goods=""
+	culture="montrealais"
+	religion="catholic"
+	trade_goods="salt"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -947,11 +362,11 @@
 	}
 }
 
-9410={ #
+3599={ #
 	terrain="forest"
-	culture="michigander"
-	religion="promethean"
-	trade_goods=""
+	culture="haudenosaunee"
+	religion="catholic"
+	trade_goods="grain"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -960,11 +375,11 @@
 	}
 }
 
-9411={ #
+3600={ #
 	terrain="plains"
-	culture="michigander"
-	religion="promethean"
-	trade_goods=""
+	culture="upstater"
+	religion="catholic"
+	trade_goods="rice"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -973,23 +388,49 @@
 	}
 }
 
-9412={ #
-	terrain="plains"
-	culture="michigander"
-	religion="promethean"
-	trade_goods=""
-	civilization_value=10
-	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=1
-	}
-}
-
-9413={ #
+3601={ #
 	terrain="forest"
-	culture="michigander"
-	religion="promethean"
+	culture="upstater"
+	religion="catholic"
+	trade_goods="vegetables"
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+3675={ #
+	terrain="plains"
+	culture="montrealais"
+	religion="catholic"
+	trade_goods="maple"
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+3676={ #
+	terrain="plains"
+	culture="montrealais"
+	religion="catholic"
+	trade_goods="vegetables"
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+3677={ #
+	terrain="plains"
+	culture="montrealais"
+	religion="catholic"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -999,10 +440,530 @@
 	}
 }
 
-11662={ #
+3881={ #
 	terrain="plains"
-	culture="michigander"
-	religion="promethean"
+	culture="algonquin"
+	religion="catholic"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+3882={ #
+	terrain="plains"
+	culture="algonquin"
+	religion="catholic"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+4375={ #Laval
+	terrain="farmland"
+	culture="montrealais"
+	religion="catholic"
+	trade_goods="glass"
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+4376={ #Ile de Montreal
+	terrain="farmland"
+	culture="montrealais"
+	religion="catholic"
+	trade_goods="earthware"
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+5267={ #
+	terrain="plains"
+	culture="quebecois"
+	religion="gothic"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+5268={ #
+	terrain="forest"
+	culture="quebecois"
+	religion="gothic"
+	trade_goods="tubers"
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+5269={ #
+	terrain="forest"
+	culture="quebecois"
+	religion="gothic"
+	trade_goods="maple"
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+5270={ #
+	terrain="forest"
+	culture="quebecois"
+	religion="gothic"
+	trade_goods="vegetables"
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+6320={ #
+	terrain="plains"
+	culture="innu"
+	religion="catholic"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+6321={ #
+	terrain="plains"
+	culture="innu"
+	religion="catholic"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+6322={ #
+	terrain="plains"
+	culture="innu"
+	religion="catholic"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+6472={ #
+	terrain="plains"
+	culture="quebecois"
+	religion="catholic"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+6473={ #
+	terrain="plains"
+	culture="quebecois"
+	religion="catholic"
+	trade_goods="maple"
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+6474={ #
+	terrain="plains"
+	culture="quebecois"
+	religion="catholic"
+	trade_goods="wood"
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+7280={ #
+	terrain="plains"
+	culture="algonquin"
+	religion="catholic"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+7281={ #
+	terrain="plains"
+	culture="algonquin"
+	religion="catholic"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+7282={ #
+	terrain="plains"
+	culture="ontarian"
+	religion="catholic"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+7345={ #
+	terrain="plains"
+	culture="montrealais"
+	religion="catholic"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+7346={ #
+	terrain="plains"
+	culture="montrealais"
+	religion="catholic"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+7347={ #
+	terrain="plains"
+	culture="montrealais"
+	religion="catholic"
+	trade_goods="fur"
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+7510={ #
+	terrain="plains"
+	culture="montrealais"
+	religion="catholic"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+7511={ #
+	terrain="plains"
+	culture="montrealais"
+	religion="catholic"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+7512={ #
+	terrain="plains"
+	culture="montrealais"
+	religion="catholic"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+7513={ #
+	terrain="forest"
+	culture="montrealais"
+	religion="catholic"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+7654={ #
+	terrain="forest"
+	culture="montrealais"
+	religion="catholic"
+	trade_goods="horses"
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+7655={ #
+	terrain="farmland"
+	culture="montrealais"
+	religion="catholic"
+	trade_goods="grain"
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+7656={ #
+	terrain="plains"
+	culture="montrealais"
+	religion="catholic"
+	trade_goods="vegetables"
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+8303={ #
+	terrain="plains"
+	culture="montrealais"
+	religion="catholic"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+8304={ #
+	terrain="plains"
+	culture="montrealais"
+	religion="catholic"
+	trade_goods="leather"
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+8305={ #
+	terrain="plains"
+	culture="quebecois"
+	religion="catholic"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+8913={ #
+	terrain="plains"
+	culture="montrealais"
+	religion="catholic"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+8914={ #
+	terrain="plains"
+	culture="quebecois"
+	religion="catholic"
+	trade_goods="wood"
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+8915={ #
+	terrain="plains"
+	culture="quebecois"
+	religion="gothic"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+8916={ #
+	terrain="plains"
+	culture="montrealais"
+	religion="gothic"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+9347={ #
+	terrain="plains"
+	culture="montrealais"
+	religion="catholic"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+9348={ #
+	terrain="plains"
+	culture="montrealais"
+	religion="catholic"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+9349={ #
+	terrain="plains"
+	culture="montrealais"
+	religion="catholic"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+9350={ #
+	terrain="plains"
+	culture="montrealais"
+	religion="catholic"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+9505={ #
+	terrain="plains"
+	culture="montrealais"
+	religion="catholic"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+9506={ #
+	terrain="plains"
+	culture="montrealais"
+	religion="catholic"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+9507={ #
+	terrain="plains"
+	culture="montrealais"
+	religion="catholic"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0

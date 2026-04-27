@@ -2,8 +2,60 @@
  HERITAGE_FULL_TOOLTIP:0 "#T $NAME$#!\n$EFFECT$\n\n#TF $DESC$#!"
  OPINION_SAME_HERITAGE:0 "Opinion of $NAME|Y$ Countries: $VAL|+=0$"
  OPINION_DIFF_HERITAGE:0 "Opinion of Non-$NAME|Y$ Countries: $VAL|+=0$"
+
+
+ ## Tag Specific ##
+ new_orleans_heritage:0 "Nolan Heritage"
+ new_orleans_heritage_desc:0 "Located at the mouth of the great river, New Orleans is most important port city on the Missisippi, with goods from all parts of America leaving her docks. New Orleans has always been a melting pot of many different cultures and faiths- French, Spanish, Vietnamese, and Italian, to name but a few. The current administration in the city is composed of various merchant families who came together afte The Event, forming a republican government. The Nolan people are notorious revelers, and have a practice of throwing a grand parade and celebration every year on Mardi Gras, 'Fat Tuesday'."
+
+
+ ## Culture Groups ##
  mid_atlantic_heritage:0 "Mid-Atlantic Heritage"
  mid_atlantic_heritage_desc:0 "The bustling city states and kingdoms of the Mid-Atlantic are prolific merchants, importing goods from as far away as the distant lands of Brazil. Much like their ancient forefathers, they are quick to a fight, although these days it is usually against their own kin, rather than the tyrannical Redcoats of yore. They are proud of their republican legacy, and even if they are not a republic in name, many traditions and institutions of the old America have been carried down throughout the ages."
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
  hellenistic_heritage:0 "Hellenistic Heritage"
  hellenistic_heritage_desc:0 "While Greek settlers have traveled east for generations before Alexander it was his conquest of the Achaemenid empire that led to the creation of eastern Greek states. The fusion of Persian and Greek culture that Alexander tried to foster now lives on as an undisputed Hellenistic heritage."
  arsacid_dahae_heritage:0 "Dahae Heritage"

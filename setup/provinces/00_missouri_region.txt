@@ -297,19 +297,6 @@
 	}
 }
 
-4308={ #
-	terrain="plains"
-	culture=""
-	religion="mayan_pantheon"
-	trade_goods=""
-	civilization_value=10
-	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=1
-	}
-}
-
 5250={ #
 	terrain="hills"
 	culture="ozark"
@@ -730,19 +717,6 @@
 	terrain="plains"
 	culture="heartlander"
 	religion="catholic"
-	trade_goods=""
-	civilization_value=10
-	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=1
-	}
-}
-
-8498={ #
-	terrain="plains"
-	culture=""
-	religion="mayan_pantheon"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0

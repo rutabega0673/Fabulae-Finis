@@ -765,19 +765,6 @@
 	}
 }
 
-7932={ #
-	terrain="plains"
-	culture=""
-	religion="mayan_pantheon"
-	trade_goods=""
-	civilization_value=10
-	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=1
-	}
-}
-
 7988={ #
 	terrain="plains"
 	culture="piedmontese"

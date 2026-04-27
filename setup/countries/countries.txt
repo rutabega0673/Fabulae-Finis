@@ -12,7 +12,10 @@ PRN = "setup/countries/east_coast/princeton.txt"
 NWK = "setup/countries/east_coast/newark.txt"
 HAK = "setup/countries/east_coast/hackensack.txt"
 PAT = "setup/countries/east_coast/paterson.txt"
+VIN = "setup/countries/east_coast/virginia.txt"
 
 #Midwest
 IWA = "setup/countries/midwest/iowa.txt"
 
+#South
+NOL = "setup/countries/south/new_orleans.txt"

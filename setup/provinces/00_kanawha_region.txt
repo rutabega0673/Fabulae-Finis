@@ -440,19 +440,6 @@
 	}
 }
 
-9520={ #
-	terrain="plains"
-	culture=""
-	religion="mayan_pantheon"
-	trade_goods=""
-	civilization_value=10
-	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=1
-	}
-}
-
 11663={ #
 	terrain="hills"
 	culture="yinzic"

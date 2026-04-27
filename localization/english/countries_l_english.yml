@@ -28,10 +28,16 @@
  HAK_ADJ:0 "Hackensian"
  PAT:0 "Paterson"
  PAT_ADJ:0 "Patersonian"
+ VIN:0 "Old Dominion"
+ VIN_ADJ:0 "Virginian"
 
  ## Midwest ##
  IWA:0 "Iowan Kingdom"
  IWA_ADJ:0 "Iowan"
+ 
+ ## South ##
+ NOL:0 "New Orleans"
+ NOL_ADJ:0 "Nolan"
 
 # Gaelic #
  AUTINI:0 "Autinia"

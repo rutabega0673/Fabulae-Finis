@@ -1,0 +1,47 @@
+﻿musketeer = {
+	army = yes
+
+	levy_tier = advanced
+
+	allow = {
+		trade_good_surplus = { target = gunpowder value > 0 }
+	}
+	movement_speed = 2
+	maneuver = 1
+	
+	archers = 1
+	camels = 1
+	chariots = 0.7
+	heavy_cavalry = 0.7
+	heavy_infantry = 1.2
+	horse_archers = 1.2
+	light_cavalry = 0.9
+	light_infantry = 1.2
+	spearmen = 1.1
+	warelephant = 1.1
+	axemen = 1.1
+	horse_skirmishers = 1
+	pikemen = 0.9
+	slingers = 0.9
+	supply_train = 2
+	engineer_cohort = 2
+	
+	
+	
+	
+	attrition_weight = 0.9
+	
+	morale_damage_taken = 1.2
+
+	
+	attrition_loss = 0.05
+	ai_max_percentage = 15
+	build_cost = {
+		gold = 40
+		manpower = 2
+	}
+	attrition_loss = 0.10
+
+	food_consumption = 0.3
+	food_storage = 10
+}

@@ -111,3 +111,66 @@ PRI = { # USA - at game start
 		instance = { position = { 0.5 0.25 } scale = { 0.5 0.5 }  }
 	}
 }
+
+VIN= { #Virginia
+	#pattern = "pattern_checkers_01.dds"
+	#color1 = "white"
+	#color2 = "blue"
+	
+	pattern = "pattern_horizontal_split_01.tga"
+	color1 = "offwhite"
+	color2 = "offwhite"
+	
+	colored_emblem = {
+		texture = "ce_woman_02.dds"
+		color1 = rgb { 80 54 33 }
+		color2 = "light_blue"
+		instance = { position = { 0.5 0.38 } scale = { 0.55 0.55 }  }
+	}
+	colored_emblem = {
+		texture = "ce_club.dds"
+		color1 = "roman_gold"
+		color2 = "mid_grey"
+		instance = { position = { 0.65 0.23 } scale = { 0.25 0.25 }  }
+	}
+	colored_emblem = {
+		texture = "ce_crown.dds"
+		color1 = "roman_gold"
+		color2 = "ck2_purple"
+		instance = { position = { 0.5 0.68 } scale = { 0.25 -0.25 }  }
+	}
+	colored_emblem = {
+		texture = "ce_border_shield.dds"
+		color1 = "ck2_blue"
+		color2 = "ck2_blue"
+		instance = { position = { 0.5 0.5 } scale = { 1.0 1.0 }  }
+	}
+}
+
+NOL = { # New Orleans
+	pattern = "pattern_chief.dds"
+	color1 = rgb { 150 20 41 }
+	color2 = rgb { 29 24 119 }
+	colored_emblem = {
+		texture = "ce_fleur.dds"
+		color1 = "ck2_yellow"
+		color2 = "ck2_yellow"
+		instance = { position = { 0.275 0.175 } scale = { 0.25 0.25 }  }
+		instance = { position = { 0.5 0.175 } scale = { 0.25 0.25 }  }
+		instance = { position = { 0.725 0.175 } scale = { 0.25 0.25 }  }
+	}
+	colored_emblem = {
+		texture = "ce_pelican_mother.dds"
+		color1 = "offwhite"
+		color2 = "offwhite"
+		instance = { position = { 0.5 0.6 } scale = { 0.4 0.4 }  }
+	}
+	colored_emblem = {
+		texture = "ce_cinquefoil_02.dds"
+		color1 = "offwhite"
+		color2 = "offwhite"
+		instance = { position = { 0.22 0.5 } scale = { 0.25 0.25 }  }
+		instance = { position = { 0.78 0.5 } scale = { 0.25 0.25 }  }
+		instance = { position = { 0.5 0.89 } scale = { 0.25 0.25 }  }
+	}
+}

@@ -14,6 +14,22 @@
 	color = hsv { 0.156 0.8 0.5 }
 }
 
+gunpowder = { #gunpowder
+	category = 0
+	allow_unit_type = musketeer
+	
+	gold = 0.6
+	
+	province = {
+		local_defensive = 0.05
+	}
+	country = {
+		musketeer_discipline = 0.1
+	}
+	
+	color = hsv { 0.6 0.2 0.4 }	
+}
+
 salt = { #177 territories
 	category = 4
 	

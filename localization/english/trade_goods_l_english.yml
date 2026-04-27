@@ -25,6 +25,8 @@
  poisonDESC:0 "Dipping an arrow point or a dart in poison can massively increase its fatality if even so much as a scratch finds itself on a body. Made from frogs, lizards, or most likely, curare."
  stone:0 "Stone"
  stoneDESC:0 "Quartz, flint, novaculite, and other stones were used in tandem with sharper materials like obsidian, or handled with wood, it makes for an effective and cheap source of weaponry."
+ gunpowder:0 "Gunpowder"
+ gunpowderDESC:0 "A mixture of saltpeter, sulfur, and charcoal, it is required for use in firearms and cannons. However, this prized dust is very difficult to produce, and only a few wealthy realms are able to do so."
  #Food (Category 1)
  maize:0 "Maize"
  maizeDESC:0 "Maize represents a crop central to civilization itself, often associated with gods, prosperity, myths, and development, especially in Mesoamerica."

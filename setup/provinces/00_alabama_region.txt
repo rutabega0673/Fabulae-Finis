@@ -1,17 +1,4 @@
-﻿219={ #
-	terrain="forest"
-	culture="upnorther"
-	religion="lakeshore"
-	trade_goods=""
-	civilization_value=10
-	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=1
-	}
-}
-
-583={ #
+﻿583={ #
 	terrain="plains"
 	culture="dixie"
 	religion="evangelical"
