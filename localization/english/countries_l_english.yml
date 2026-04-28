@@ -30,6 +30,8 @@
  PAT_ADJ:0 "Patersonian"
  VIN:0 "Old Dominion"
  VIN_ADJ:0 "Virginian"
+ VMI:0 "Virginia Military Institute"
+ VMI_ADJ:0 "VMI"
  BOS:0 "New England"
  BOS_ADJ:0 "Yankee"
 

@@ -229,3 +229,13 @@ BOS = { #New England
 		instance = { position = { 0.25 0.25 } scale = { 0.4 0.4 }  }
 	}
 }
+
+VMI = {
+	pattern = "pattern_solid.tga"
+	color1 = ff_light_grey
+	color2 = ff_light_grey
+
+	textured_emblem = {
+		texture = "vmi_crest.png"
+	}
+}

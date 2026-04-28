@@ -1,4 +1,5 @@
 ﻿colors = {
 	virginia_blue = rgb { 0 41 123 }
+	ff_light_grey = rgb { 186 186 186 }
 }
 

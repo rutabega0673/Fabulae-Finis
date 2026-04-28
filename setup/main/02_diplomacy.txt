@@ -16,4 +16,6 @@ diplomacy = {
 	#		trade_access=yes
 	#	}
 	#}
+
+	dependency = { first = VIN second = VMI subject_type = feudatory }
 }

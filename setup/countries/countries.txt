@@ -13,6 +13,7 @@ NWK = "setup/countries/east_coast/newark.txt"
 HAK = "setup/countries/east_coast/hackensack.txt"
 PAT = "setup/countries/east_coast/paterson.txt"
 VIN = "setup/countries/east_coast/virginia.txt"
+VMI = "setup/countries/east_coast/virginia_military_institute.txt"
 BOS = "setup/countries/east_coast/new_england.txt"
 
 #Midwest
