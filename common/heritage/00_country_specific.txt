@@ -12,3 +12,16 @@ new_orleans_heritage = {
       tag = NOL
 	}
 }
+kentucky_heritage = {
+   	modifier = {
+        #good
+       army_maintenance_cost = -0.15   
+       hills_combat_bonus = 0.10 
+       #bad
+        happiness_for_wrong_culture_modifier = -0.03
+   }
+
+   trigger = {
+      tag = KNY
+	}
+}

@@ -30,6 +30,8 @@
  PAT_ADJ:0 "Patersonian"
  VIN:0 "Old Dominion"
  VIN_ADJ:0 "Virginian"
+ BOS:0 "New England"
+ BOS_ADJ:0 "Yankee"
 
  ## Midwest ##
  IWA:0 "Iowan Kingdom"
@@ -38,6 +40,8 @@
  ## South ##
  NOL:0 "New Orleans"
  NOL_ADJ:0 "Nolan"
+ KNY:0 "Kentucky"
+ KNY_ADJ:0 "Kentuckian"
 
 # Gaelic #
  AUTINI:0 "Autinia"

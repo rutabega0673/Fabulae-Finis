@@ -220,6 +220,54 @@ country = {
 				887 9501
 			}
 		}
+		KNY = { #Kentucky
+			government = stratocratic_monarchy
+			primary_culture = riverlander
+			religion = americanist
+			diplomatic_stance = warmongering_stance
+			capital = 7514
+
+			technology={
+				military_tech={ level=2 progress=0 }
+				civic_tech={ level=2 progress=0 }
+				religious_tech= { level=2 progress=0  }
+				oratory_tech= { level=2 progress =0 }
+			}
+
+			own_control_core = {
+				7514 7515 7687 7516 8632 7175 7177 7688 
+				6211 6210 8631 8633 6212 4619 4618 5386
+				4617 5385 5388 5387 7178 7176 7174 4078
+				4079 4080 7689 4404 4406 4405 4407 7773 7775
+				3067 3066 3065 3068 7774 7772 2547 2548
+				2825 7686 2824 7812 7811 7813 4959 4960 4958
+			}
+		}
+		BOS = { #New England
+			government = tribal_federation
+			primary_culture = bayfolk
+			religion = fathomless
+			capital = 6535
+
+			technology={
+				military_tech={ level=1 progress=0 }
+				civic_tech={ level=1 progress=0 }
+				religious_tech= { level=1 progress=0  }
+				oratory_tech= { level=1 progress =0 }
+			}
+
+			own_control_core = {
+				6535 1467 6536 6534 1465 1466 7224 5186
+				2171 2170 2169 2178 2179 8883 1904
+				7222 7223 3485 2905 1073 3486 
+				5185 5184 5296 5293 5295 4295 4294 5294 4296 1408 2742
+				3447 7764 7763 7767 7766 7765 6124 6125 2384 2383 3377 3446
+				4627 6223 6224 6225
+				5238 4628 4627
+				9629 9628 9627 2741 2740 1406 1
+				9567 9568 8773 7162 7161 7163 8774 8772
+			}
+		}
 	}
 }
 

@@ -174,3 +174,58 @@ NOL = { # New Orleans
 		instance = { position = { 0.5 0.89 } scale = { 0.25 0.25 }  }
 	}
 }
+
+KNY = { #Kentucky
+	pattern = "pattern_checkers_2x2.tga"
+	color1 = "ck2_blue"
+	color2 = "ck2_blue"
+	
+	colored_emblem = {
+		texture = "ce_branch.dds"
+		color1 = "light_green"
+		color2 = "light_green"
+		instance = { position = { 0.225 0.54 } rotation = 120 scale = { 0.5 0.5 }  }
+		instance = { position = { 0.775 0.54 } rotation = -120 scale = { -0.5 0.5 }  }
+	}
+	colored_emblem = {
+		texture = "ce_fleur_florence.dds"
+		color1 = "epirus_yellow"
+		color2 = "ck2_black"
+		instance = { position = { 0.25 0.25 } scale = { 0.35 0.35 } rotation = 30  }
+		instance = { position = { 0.75 0.25 } scale = { 0.35 0.35 } rotation = -30 }
+	}
+	colored_emblem = {
+		texture = "ce_circle_03.dds"
+		color1 = "offwhite"
+		instance = { position = { 0.5 0.5 } scale = { 0.633 0.633 }  }
+	}
+	colored_emblem = {
+		texture = "ce_star_05.dds"
+		color1 = "epirus_yellow"
+		instance = { position = { 0.5 0.5 } scale = { 0.55 0.55 }  }
+	}
+	#colored_emblem = {
+	#	texture = "ce_raccoon_rampant.dds"
+	#	color1 = "ck2_black"
+	#	color2 = "offwhite"
+	#	color3 = "offwhite"
+	#	instance = { position = { 0.5 0.5 } scale = { 0.45 0.45 }  }
+	#}
+}
+
+BOS = { #New England
+	pattern = "pattern_solid.tga"
+	color1 = "offwhite"
+	color2 = "offwhite"
+	colored_emblem = {
+		texture = "ce_ordinary_cross_thinnest.dds"
+		color1 = "samnite_red"
+		instance = { position = { 0.5 0.5 } scale = { 1.0 1.0 }  }
+	}
+	colored_emblem = {
+		texture = "ce_pine.dds"
+		color1 = "ck2_green"
+		color2 = "light_yellow"
+		instance = { position = { 0.25 0.25 } scale = { 0.4 0.4 }  }
+	}
+}
