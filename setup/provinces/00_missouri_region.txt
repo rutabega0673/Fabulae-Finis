@@ -263,11 +263,47 @@
 	culture="gatewayan"
 	religion="promethean"
 	trade_goods="earthware"
-	civilization_value=10
+	civilization_value=30
 	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
+	province_rank="city"
+	nobles={
+		amount=2
+	}
+	citizen={
+		amount=2
+	}
+	citizen={
+		religion="americanist"
+		amount=2
+	}
+	citizen={
+		religion="catholic"
+		amount=2
+	}
+	freemen={
+		amount=4
+	}
+	freemen={
+		culture="heartlander"
+		amount=2
+	}
+	freemen={
+		religion="lutheran"
+		amount=4
+	}
+	freemen={
+		culture="hermanndeutsch"
+		religion="lutheran"
+		amount=2
+	}
+	freemen={
+		religion="catholic"
+		culture="paw_paw"
 		amount=1
+	}
+	slaves={
+		religion="lutheran"
+		amount=4
 	}
 }
 

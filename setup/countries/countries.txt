@@ -18,6 +18,11 @@ BOS = "setup/countries/east_coast/new_england.txt"
 
 #Midwest
 IWA = "setup/countries/midwest/iowa.txt"
+MIC = "setup/countries/midwest/michigan.txt"
+OHO = "setup/countries/midwest/greater_reserve.txt"
+ALG = "setup/countries/midwest/alleghenia.txt"
+STL = "setup/countries/midwest/saint_louis.txt"
+IND = "setup/countries/midwest/indiana.txt"
 
 #South
 NOL = "setup/countries/south/new_orleans.txt"

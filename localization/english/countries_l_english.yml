@@ -38,6 +38,16 @@
  ## Midwest ##
  IWA:0 "Iowan Kingdom"
  IWA_ADJ:0 "Iowan"
+ MIC:0 "Michigan"
+ MIC_ADJ:0 "Michigander"
+ ALG:0 "Alleghenia"
+ ALG_ADJ:0 "Alleghenian"
+ OHO:0 "Greater Reserve"
+ OHO_ADJ:0 "Buckeye"
+ STL:0 "St. Louis"
+ STL_ADJ:0 "St. Louisian"
+ IND:0 "Indiana"
+ IND_ADJ:0 "Indianan"
  
  ## South ##
  NOL:0 "New Orleans"

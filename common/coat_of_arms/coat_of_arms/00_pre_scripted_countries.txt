@@ -239,3 +239,134 @@ VMI = {
 		texture = "vmi_crest.png"
 	}
 }
+
+MIC = { #Michigan Promethean flag
+	pattern = "pattern_solid.tga"
+	color1 = rgb { 65 110 156 }
+	color2 = rgb { 65 110 156 }
+	colored_emblem = {
+		texture = "ce_uaw_emblem.dds"
+		color1 = "epirus_yellow"
+		instance = { position = { 0.5 0.5 } scale = { 1.0 1.0 }  }
+	}
+	colored_emblem = {
+		texture = "ce_gears.dds"
+		color1 = "epirus_yellow"
+		instance = { position = { 0.5 0.5 } scale = { 0.45 0.45 }  }
+	}
+}
+
+ALG = { #Alleghenia Promethean flag
+	pattern = "pattern_horizontal_split_02.tga"
+	color1 = "offwhite"
+	color2 = "epirus_yellow"
+	#colored_emblem = {
+	#	texture = "ce_ship_caravel.dds"
+	#	color1 = "ck2_black"
+	#	color2 = "offwhite"
+	#	instance = { position = { 0.5 0.17 } scale = { 0.6 0.4 }  }
+	#}
+	colored_emblem = {
+		texture = "ce_pickaxe_hammer.dds"
+		color1 = "rust_brown"
+		color2 = "offwhite"
+		instance = { position = { 0.5 0.7 } scale = { 0.6 0.5 }  }
+	}
+	colored_emblem = {
+		texture = "ce_gears.dds"
+		color1 = "samnite_red"
+		instance = { position = { 0.5 0.3 } scale = { 0.3 0.3 }  }
+		instance = { position = { 0.30 0.3 } scale = { 0.3 0.3 }  }
+		instance = { position = { 0.70 0.3 } scale = { 0.3 0.3 }  }
+	}
+}
+
+STL= { #St Louis
+	pattern = "pattern_solid.tga"
+	color1 = rgb { 150 20 41 }
+	color2 = "ck2_red"
+	colored_emblem = {
+		texture = "ce_wavy_pall.dds"
+		color1 = "offwhite"
+		instance = { position = { 0.5 0.5 } scale = { 1.0 1.0 }  }
+	}
+	colored_emblem = {
+		texture = "ce_waves_04_single.dds"
+		color1 = "ck2_blue"
+		instance = { position = { 0.5 1.0 } scale = { 1.2 1.2 } rotation = 90  }
+		instance = { position = { 0.1 0.1 } scale = { 1.2 1.2 } rotation = 45  }
+		instance = { position = { 0.9 0.1 } scale = { 1.2 -1.2 } rotation = -45  }
+	}
+	colored_emblem = {
+		texture = "ce_circle_03.dds"
+		color1 = "epirus_yellow"
+		instance = { position = { 0.5 0.45 } scale = { 0.65 0.65 }  }
+	}
+	colored_emblem = {
+		texture = "ce_gears.dds"
+		color1 = "ck2_blue"
+		instance = { position = { 0.5 0.45 } scale = { 0.3 0.3 }  }
+	}
+}
+
+IND ={ #Indiana
+	pattern="pattern_solid.tga"
+	color1=rgb { 19 45 102 }
+	color2="samnite_red"
+
+	colored_emblem={
+		texture="ce_torch_02.dds"
+		color1="roman_gold"
+		color2="roman_gold"
+		instance={
+			position={ 0.500000 0.5900 }
+			scale={ -0.415000 0.475000 }
+		}
+
+	}
+
+	colored_emblem={
+		texture="ce_star_05.dds"
+		color1="roman_gold"
+		instance={
+			position={ 0.700000 0.500000 }
+			scale={ 0.20000 0.20000 }
+		}
+
+		instance={
+			position={ 0.300000 0.500000 }
+			scale={ 0.20000 0.20000 }
+		}
+
+		instance={
+			position={ 0.650000 0.650000 }
+			scale={ 0.20000 0.20000 }
+		}
+
+		instance={
+			position={ 0.350000 0.650000 }
+			scale={ 0.20000 0.20000 }
+		}
+
+		instance={
+			position={ 0.500000 0.700000 }
+			scale={ 0.20000 0.20000 }
+		}
+
+		instance={
+			position={ 0.500000 0.300000 }
+			scale={ 0.2500 0.2500 }
+		}
+
+	}
+
+	colored_emblem={
+		texture="ce_stars_13.dds"
+		color1="roman_gold"
+		instance={
+			scale={ 1.1 1.1 }
+		}
+
+	}
+
+}

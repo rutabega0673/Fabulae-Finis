@@ -175,7 +175,7 @@ dakotas_region = { #9
 old_star_region = { #10
 	color = rgb { 162 72 89 }
 	areas = {
-		texarkana_area east_texas_area victoria_area waco_area austin_area houston_area east_texas_area marlin_area paris_area texarkana_area nacogodoches_area college_station_area
+		texarkana_area east_texas_area victoria_area waco_area austin_area houston_area marlin_area paris_area nacogodoches_area college_station_area
 	}
 }
 ontario_region = { #9
@@ -194,5 +194,11 @@ bas_quebec_region = { #6
 	color = rgb { 64 152 187 }
 	areas = {
 		quebec_area bas_saint_laurent_area chaudiere_appalaches_area cote_nord_area gaspesie_area sept_rivieres_area saguenay_area
+	}
+}
+maritimes_region = { #6
+	color = rgb { 60 66 132 }
+	areas = {
+		petitcodiac_area miramichi_area new_brunswick_area restigouche_area
 	}
 }

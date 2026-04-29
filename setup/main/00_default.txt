@@ -285,6 +285,112 @@ country = {
 				9567 9568 8773 7162 7161 7163 8774 8772
 			}
 		}
+		MIC = {
+			government = theocratic_monarchy
+			primary_culture = motowner
+			religion = promethean
+			capital = 571
+
+			technology={
+				military_tech={ level=2 progress=0 }
+				civic_tech={ level=2 progress=0 }
+				religious_tech= { level=2 progress=0  }
+				oratory_tech= { level=2 progress =0 }
+			}
+
+			own_control_core = {
+				571 6796 6797 5720 5719 5718 1258 1259 1257 6795
+				6263 4297 4298 4299 4300 7777 6265 6264
+				7779 11662 6093 7776 6094 560 562 6092 6091
+				563 110 112 561 8952 5991 8953
+				849 850 848 851 4614 4612 962 963 964 4616
+				1313 1311 1314 1315 5993 5990 7778 4613 1312
+				5992 8954 9410 9411 9413 9412 905 1566 1565 904 902
+			}
+		}
+		OHO = {
+			government = theocratic_monarchy
+			primary_culture = buckeye
+			religion = promethean
+			capital = 7498
+
+			technology={
+				military_tech={ level=2 progress=0 }
+				civic_tech={ level=2 progress=0 }
+				religious_tech= { level=2 progress=0  }
+				oratory_tech= { level=2 progress =0 }
+			}
+
+			own_control_core = {
+				5271 7495 7496 7497 7498 8966 5273 3464
+				8743 8742 8744 6630 6629 6631 11658 6632 5274 5272
+				2954 2955 3462 11643 3463 6584 11657 3465 2956 11642
+				4275 9170 8970 8969 6585 3348 6583 6586
+				8613 8615 8616 8611 793 7840 8614 8612
+				1522 1521 1523 8971 9169 9171 9168
+			}
+		}
+		ALG = {
+			government = theocratic_monarchy
+			primary_culture = yinzic
+			religion = promethean
+			capital = 9038
+
+			technology={
+				military_tech={ level=2 progress=0 }
+				civic_tech={ level=2 progress=0 }
+				religious_tech= { level=2 progress=0  }
+				oratory_tech= { level=2 progress =0 }
+			}
+
+			own_control_core = {
+				9038 9035 9037 4011 11648 8771 8769 8770 9036 2007 11664 795
+				3776 3774 3773 3775 4013 4012 8967 8968 794
+				11652 11644 11646 4983 4984 3746 3745 5463 5460 5462
+				8592 8590 8591 8593 6595 2790 2479 2478 2477 6593 6594 2791 2789
+			}
+		}
+		STL = {
+			government = theocratic_monarchy
+			primary_culture = gatewayan
+			religion = promethean
+			capital = 4206
+
+			technology={
+				military_tech={ level=2 progress=0 }
+				civic_tech={ level=2 progress=0 }
+				religious_tech= { level=2 progress=0  }
+				oratory_tech= { level=2 progress =0 }
+			}
+
+			own_control_core = {
+				4206 4207 4208 3651 3650 3652 6338 2957 6430 6431 2733 9203
+				6429 4000 2959 9205 9204 
+
+			}
+		}
+
+		IND = { #Indiana
+			government = theocratic_monarchy
+			primary_culture = hoosier
+			religion = promethean
+			capital = 7749
+
+			technology={
+				military_tech={ level=2 progress=0 }
+				civic_tech={ level=2 progress=0 }
+				religious_tech= { level=2 progress=0  }
+				oratory_tech= { level=2 progress =0 }
+			}
+
+			own_control_core = {
+				7748 11661 7751 6758 6760 7750 11660 7749 6759 
+				5476 5478 11655 5477 3349 11639 11641
+				270 6587 6589 6588 4432 4431 4433
+				3762 3763 11645 3760 3761 181 184 185
+				180 183 5697 5696 5698 11640 3350 11638
+			}
+		}
 	}
 }
 
