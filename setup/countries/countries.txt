@@ -27,3 +27,4 @@ IND = "setup/countries/midwest/indiana.txt"
 #South
 NOL = "setup/countries/south/new_orleans.txt"
 KNY = "setup/countries/south/kentucky.txt"
+LAF = "setup/countries/south/lafayette.txt"

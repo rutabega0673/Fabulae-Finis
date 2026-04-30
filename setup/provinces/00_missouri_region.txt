@@ -297,8 +297,8 @@
 		amount=2
 	}
 	freemen={
-		religion="catholic"
 		culture="paw_paw"
+		religion="catholic"
 		amount=1
 	}
 	slaves={

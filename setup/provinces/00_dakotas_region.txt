@@ -1,7 +1,7 @@
 ﻿342={ #
 	terrain="plains"
 	culture=""
-	religion="peyotist"
+	religion="loneranger"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -53,7 +53,7 @@
 972={ #
 	terrain="steppes"
 	culture=""
-	religion="peyotist"
+	religion="loneranger"
 	trade_goods="buffalo"
 	civilization_value=10
 	barbarian_power=0
@@ -66,7 +66,7 @@
 973={ #
 	terrain="steppes"
 	culture=""
-	religion="peyotist"
+	religion="loneranger"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -79,7 +79,7 @@
 974={ #
 	terrain="steppes"
 	culture=""
-	religion="peyotist"
+	religion="loneranger"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -92,7 +92,7 @@
 990={ #
 	terrain="plains"
 	culture="heartlander"
-	religion="peyotist"
+	religion="loneranger"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -105,7 +105,7 @@
 991={ #
 	terrain="plains"
 	culture=""
-	religion="mayan_pantheon"
+	religion="loneranger"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -118,7 +118,7 @@
 992={ #
 	terrain="plains"
 	culture="heartlander"
-	religion="peyotist"
+	religion="loneranger"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -131,7 +131,7 @@
 1329={ #
 	terrain="plains"
 	culture="heartlander"
-	religion="mayan_pantheon"
+	religion="peyotist"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -144,7 +144,7 @@
 1331={ #
 	terrain="plains"
 	culture="heartlander"
-	religion="mayan_pantheon"
+	religion="loneranger"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -469,7 +469,7 @@
 3932={ #
 	terrain="steppes"
 	culture=""
-	religion="peyotist"
+	religion="loneranger"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -482,7 +482,7 @@
 3933={ #
 	terrain="steppes"
 	culture=""
-	religion="peyotist"
+	religion="loneranger"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -495,7 +495,7 @@
 3934={ #
 	terrain="steppes"
 	culture=""
-	religion="peyotist"
+	religion="loneranger"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -547,7 +547,7 @@
 4213={ #
 	terrain="plains"
 	culture="lakota"
-	religion="real_roader"
+	religion="loneranger"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -560,7 +560,7 @@
 4214={ #
 	terrain="steppes"
 	culture="lakota"
-	religion="real_roader"
+	religion="loneranger"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -612,7 +612,7 @@
 5298={ #
 	terrain="steppes"
 	culture="lakota"
-	religion="peyotist"
+	religion="loneranger"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -885,7 +885,7 @@
 7147={ #
 	terrain="steppes"
 	culture=""
-	religion="peyotist"
+	religion="loneranger"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -898,7 +898,7 @@
 7148={ #
 	terrain="steppes"
 	culture=""
-	religion="peyotist"
+	religion="loneranger"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -911,7 +911,7 @@
 7149={ #
 	terrain="steppes"
 	culture=""
-	religion="peyotist"
+	religion="loneranger"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -1080,7 +1080,7 @@
 9087={ #
 	terrain="steppes"
 	culture=""
-	religion="peyotist"
+	religion="loneranger"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -1119,7 +1119,7 @@
 9119={ #
 	terrain="steppes"
 	culture="heartlander"
-	religion="peyotist"
+	religion="loneranger"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -1132,7 +1132,7 @@
 9314={ #
 	terrain="steppes"
 	culture=""
-	religion="peyotist"
+	religion="loneranger"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -1145,7 +1145,7 @@
 9315={ #
 	terrain="steppes"
 	culture="heartlander"
-	religion="peyotist"
+	religion="loneranger"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -1158,7 +1158,7 @@
 9316={ #
 	terrain="steppes"
 	culture="heartlander"
-	religion="peyotist"
+	religion="loneranger"
 	trade_goods="buffalo"
 	civilization_value=10
 	barbarian_power=0

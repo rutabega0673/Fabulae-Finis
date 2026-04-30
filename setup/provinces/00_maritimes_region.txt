@@ -1,0 +1,546 @@
+﻿48={ #
+	terrain="hills"
+	culture="acadien"
+	religion="mervivant"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+174={ #
+	terrain="hills"
+	culture="maritimer"
+	religion="veteranic"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+175={ #
+	terrain="plains"
+	culture="maritimer"
+	religion="veteranic"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+176={ #
+	terrain="plains"
+	culture="maritimer"
+	religion="veteranic"
+	trade_goods="rice"
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+177={ #
+	terrain="hills"
+	culture="maritimer"
+	religion="veteranic"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+941={ #
+	terrain="plains"
+	culture="acadien"
+	religion="mervivant"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+942={ #
+	terrain="plains"
+	culture="acadien"
+	religion="mervivant"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+943={ #
+	terrain="plains"
+	culture="acadien"
+	religion="mervivant"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+1080={ #
+	terrain="plains"
+	culture="acadien"
+	religion="mervivant"
+	trade_goods="fish"
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+1081={ #
+	terrain="plains"
+	culture="acadien"
+	religion="mervivant"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+1082={ #
+	terrain="plains"
+	culture=""
+	religion="veteranic"
+	trade_goods="fish"
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+1084={ #
+	terrain="plains"
+	culture="acadien"
+	religion="mervivant"
+	trade_goods="fish"
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+1128={ #
+	terrain="hills"
+	culture="maritimer"
+	religion="veteranic"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+1129={ #
+	terrain="hills"
+	culture="maritimer"
+	religion="veteranic"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+1130={ #
+	terrain="hills"
+	culture="maritimer"
+	religion="veteranic"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+1145={ #
+	terrain="forest"
+	culture="gaidheal"
+	religion="veteranic"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+1880={ #
+	terrain="plains"
+	culture="acadien"
+	religion="mervivant"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+1881={ #
+	terrain="plains"
+	culture="acadien"
+	religion="mervivant"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+1882={ #
+	terrain="plains"
+	culture="acadien"
+	religion="mervivant"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+2757={ #
+	terrain="plains"
+	culture="maritimer"
+	religion="veteranic"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+2758={ #
+	terrain="plains"
+	culture="maritimer"
+	religion="veteranic"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+2759={ #
+	terrain="plains"
+	culture="maritimer"
+	religion="veteranic"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+2760={ #
+	terrain="plains"
+	culture="maritimer"
+	religion="veteranic"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+2761={ #
+	terrain="plains"
+	culture="maritimer"
+	religion="veteranic"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+3162={ #
+	terrain="plains"
+	culture="acadien"
+	religion="mervivant"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+3163={ #
+	terrain="hills"
+	culture="acadien"
+	religion="mervivant"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+3164={ #
+	terrain="plains"
+	culture="acadien"
+	religion="mervivant"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+3236={ #
+	terrain="hills"
+	culture="acadien"
+	religion="mervivant"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+3237={ #
+	terrain="plains"
+	culture="acadien"
+	religion="mervivant"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+3238={ #
+	terrain="plains"
+	culture="acadien"
+	religion="mervivant"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+6448={ #
+	terrain="plains"
+	culture="acadien"
+	religion="mervivant"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+6449={ #
+	terrain="plains"
+	culture="acadien"
+	religion="veteranic"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+6450={ #
+	terrain="plains"
+	culture="acadien"
+	religion="mervivant"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+6451={ #
+	terrain="plains"
+	culture="acadien"
+	religion="veteranic"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+6580={ #
+	terrain="forest"
+	culture="maritimer"
+	religion="veteranic"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+6581={ #
+	terrain="forest"
+	culture="maritimer"
+	religion="veteranic"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+6582={ #
+	terrain="forest"
+	culture="maritimer"
+	religion="veteranic"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+7290={ #
+	terrain="plains"
+	culture="acadien"
+	religion="veteranic"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+7291={ #
+	terrain="plains"
+	culture="acadien"
+	religion="veteranic"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+7292={ #
+	terrain="plains"
+	culture="maritimer"
+	religion="veteranic"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+7367={ #
+	terrain="hills"
+	culture="acadien"
+	religion="catholic"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+7368={ #
+	terrain="plains"
+	culture="acadien"
+	religion="mervivant"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+

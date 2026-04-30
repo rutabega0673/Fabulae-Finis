@@ -4,6 +4,9 @@
  americanist:0 "Presidential"
  desc_americanist:0 "The Presidentals believe that the ancient United States was a land uniquely blessed by Providence, a country where every man was free from want, fear and all treachery or tyranny. This prosperity stemmed from the people's belief in the American Dream, which ensured that America stayed on the path of prosperity and liberty. However, that Dream was forsaken by the people of the past, for the America of today is a shadow of its former self; a mere memory of a memory. Yet America can never truly die, and those who still believe in the Dream diligently work towards the day when Providence will once again grant America life, liberty and happiness. They recognize the reformed Presidency founded by Bannister Smithson in 2999, in stark contrast to their western brethren, who have established a regime of their own."
 
+ caesarist:0 "Caesarist"
+ desc_caesarist:0 "Worshiping the Soul of America, a pantheistic force, the Caesarists rally behind their leaders in hopes that he will be the prophesized 'American Caesar', a strongman imbued with exceptional greatness and will by the Soul of America. Holding that the Presidency of the United States is vacant, the Caesarists believe that only through military might may law and order be restored, and the Presidency will once again lead America into global hegemony."
+
  ## Christian Faiths ##
  evangelical:0 "Evangelical"
  desc_evangelical:0 "The Evangelical Church is the main claimant to the legacy of antediluvian United States Protestantism. In the face of post-Deluge upheavals, various Protestant churches banded together, putting aside minor theological differences in favor of establishing an Evangelical Convention of Churches presided over by an ecumenical council of bishops. However, some Christians chafe against the doctrines and restrictions imposed by this Convention..."
@@ -22,6 +25,9 @@
 
  unitarian_universialism:0 "Unitarian Universialism"
  desc_unitarian_universialism:0 "Unitarian Universalists assert no creed, but instead, are united behind a shared search for spiritual growth. Unitarians are guided by their 'living tradition' - that is, by a number of documents open to reading, reinterpretation and reworking. These various traditions give way to inspiration and insight taken from all religions, although special regard for intellectual freedom and inclusive love above other elements of theology."
+
+ colossalist:0 "Colossalist"
+ desc_colossalist:0 "Rejecting the cowardice and pathetic humility of other churches, the Colossal Ministries believe that God's house must be magnificent. There can be no expense spared to glorify Jesus Christ, for His Kingdom must display His strength with its opulence. This focus on grandeur and demonstration also extends to His pastors, who minister to adulant crowds of followers on God's might made manifest in them. Each pastor directly rules over their church in a spiritual and literal sense, competing amongst each other for followers and glory in Jesus Christ's name. As only one church can be worthy of God's presence, Colossalist pastor-kings strive to demonstrate they alone are worthy of such an honor."
 
  ## Industrialist ##
  promethean:0 "Promethean"
@@ -60,8 +66,11 @@
  egyptology:0 "Egyptology"
  desc_egyptology:0 "The fall of the great Atlantis, while tragic, did leave behind an heir to their civilization which would become a rival to their profound majesty and heavily influence the progress of the Americas. This society was Egypt. This lost nation serves as the spiritual basis for the Egyptologists, who seek to regain its cosmic power and to recreate their grand pyramids. The movement focuses its worship around the sun god Ra's divine knowledge and destinies which He and other celestial beings have given to humanity across history, attempting to use this enlightenment to act as stewards of Egypt's legacy. The faithful also try to decode the scriptures of other religions, unlocking hidden meanings and revealing the truth that Egyptian civilization is actually the root of all cultures and faiths across the world. Once the truth of Egyptian ascendancy is revealed, a new age of spiritual and technological mastery will begin again"
 
- ozymandism:0 "Ozymandism"
+ ozymandism:0 "Ozymandian"
  desc_ozymandism:0 "Across dusty stretches of the Midwest, the hopes for a brighter future shine brilliant green. In the wake of the collapse of both previous attempts at reaching perfection, the Land of Oz and antique America respectively, the Ozymandians defy probability and dream of finally attaining Utopia. The faithful believe that every glorious society is guided by a collection of spiritual principles and celestial forces known as Oz, and that by internalizing the meaning of these concepts a people can be guided in building Utopia on Earth. This sweeping vision involves not only the equality of men and women, but also the shared harmony of all in society. Believers refuse to integrate with the unguided nations, although they have no qualms with bringing the power of Civilization against Barbarism when it is deemed necessary. To the Ozymandians, there is no cost or adversity too great to prevent the creation of their true emerald Utopia."
+
+ theosophy:0 "Theosophy"
+ desc_theosophy:0 "Theosophists posit a 'secret religion' at the heart of all religious traditions which has persisted through a line of Mahatmas, or Masters of Ancient Wisdom. These Masters live in high, isolated peaks where they protect secret wisdom regarding the ultimate truth of the universe. Theosophists hold that humanity is the fifth in a kalpic cycle of species that evolve spiritually, obtaining new senses with each evolution. Humanity, while more spiritually advanced than its predecessors, is not the culmination, but the one link in a chain. Helping educate humanity and guiding them to their spiritual apotheosis is the pre-enlightened World Teacher, the Maitreya."
 
  ## Veteranic ##
  
@@ -88,8 +97,8 @@
  
  ## Trailwalker ##
 
- loneranger:0 "Loneranger"
- desc_loneranger:0 "Lonerangers perceive the courage and resilience of the cowboys of yore to be the greatest of Trails one can walk. These iconic figures, mythical in their stature, stand as enduring paragons of honor, justice, and determination, having through their devotion earned ascension to the mystical Fontier where they reside alongside other deities like Lewison Clark and Bull Moose Teddy. By venerating their heroes and following in the Trails they set, Lonerangers seek to secure a place beside them in their Homesteads. From there, they shall live in their own piece of the Frontier, acting as heroes to the next generation of cowboys as their heroes did for them."
+ loneranger:0 "Trailwalker"
+ desc_loneranger:0 "Emerging from the continuous mystification of old American and Indigenous customs, laws and local traditions, the Trailwalkers are a group of polytheistic creeds worshiping a myriad of pantheons united by a set core of beliefs, chiefly the dualistic composition of reality - the material Range, the world of everyday life, and the mystical Frontier, a realm where deities and the supernatural mingle. Snaking out from the Frontier are the Trails - a mixture of time-honored codes of ethics and moral teachings based on concepts such as the Red Road or the Code of the West that serve as guiding compasses to individual Trailwalkers seeking a meaningful and fulfilled existence on their sojourn through the Range."
 
  real_roader:0 "Real Roader"
  desc_real_roader:0 "Deeply rooted in the folklore and traditions of the Great Plains, the Real Roaders follow the pantheon known as the Great Council and the moral guidelines they established after the Pioneer families followed the eponymous Real Road to settle in the Range, the material world. As set out by the Great Spirit of the West himself, in order to return to the Frontier, practitioners must follow the orthodox Trails represented by the challenges Iron Horse and Silent Spike overcame in the creation of the Real Road. Those who retread the path their ancestors took with honor will, after death, be able to join the Great Council in their esteemed Homestead. As a result, Real Roaders place great emphasis on the sanctity and preservation of tradition, as it is the key by which they might find a divine destination beyond mortal existence."
@@ -102,10 +111,37 @@
  fogsong:0 "Fogsong"
  desc_fogsong:0 "The Fogsongs tell of Brother Jack, the defender of humanity and his sacrifice long ago. During the Moratorium; when the seas were empty and the fishermen starved, Jack sought a resolution. He was told by Father Patrick what he must do, and jumped into the ocean. There he transformed into a great whale, and from his maw flowed all the life of the seas. The seas were rejuvenated - but humanity, no longer under the protection of Brother Jack, fell into chaos. The Fairies and Spirits returned to the lands of man, wreaking magical havoc and trickery upon them. The Fogsingers still remember the sacrifice of Jack to sustain them, but now they must contend against those from the Otherworld."
 
- mervivant:0 "Le Cycle du Mervivant"
+ mervivant:0 "Mervivant"
  desc_mervivant:0 "Shaped by the chilly winds that carry along the Gulf of St. Lawrence, the Cycle of Merivivant worships the life given to them by all-supreme God, the Living Water, who brings life to His children with assistance from the shining light of le Radieux Beasoleil. Possessing a communal memory of their legendary expulsion from Acadia, le Grand Derangement, the faithful were kept alive by the Living Water. During the forty years of this forced Exodus, they were guided to their current home by the loving light of le Radieux Beasoleil while they floated adrift at sea. Even after surviving the expulsion, the harsh winters and scarcity of the post-Deluge world has only reinforced the connection that the Merivivant have to their beliefs, making their shared struggles the core of the faith's identity. Central to the group's understanding of their community since the expulsion are traditions of celebrations and songs, in which they honor and celebrate the accomplishments of holy figures, including saints, legendary heroes, angels, and above all the triune Living Water."
 
  ## Guruist ##
  guruist:0 "Guruist"
  desc_guruist:0 "placeholder"
  
+ ## Naturalist ##
+ gaian:0 "Gaian"
+ desc_gaian:0 "Gaians believe in a pantheon of goddesses headed by Gaia, the mother of all life, from whom all things were born. They harbor a deep reverence for the divine feminine, with an all female priesthood headed by the mystical and secretive Dryads, and believe that nature itself is the most pure manifestation of Gaia's sacred femininity."
+
+ ## Latter Day Saints ##
+ mormon:0 "Mormon"
+ desc_mormon:0 "The Church of Jesus Christ of Latter Day Saints, also known simply as the LDS Church or Mormons, is historically the dominant branch of the LDS movement. The Church's theology centers around the Plan of Salvation, by which they believe Christ set a path to live as part of an eternal family with God after death, through performing good works and sacred ordinances. Largely rooted in the Rocky Mountains, far from the Midwestern communities of Smith's time, the LDS have seen a new era of political independence after the Event. Drawing on the ancient republican ideals of the Americas, known through law and scripture, the Church has built a new Theodemocracy - the code to which the old LDS strongholds and their nobility are held - to guide the faithful's political ascent."
+
+ ## Scientology ##
+ scientology:0 "Scientology"
+ desc_scientology:0 "placeholder mcgee"
+
+ ## Kinemite ##
+ kinemite:0 "Kinemite"
+ desc_kinemite:0 "placeholder mcgee"
+
+ ## Romano-Humanism ##
+ romano_humanism:0 "Romano-Humanism" 
+ desc_romano_humanism:0 "Placeholder mcphilosopherdude"
+
+ ## Sikhism ##
+ sikhism:0 "Sikhi"
+ desc_sikhism:0 "Sikhi is a faith from ancient lands across the ocean. The faithful worship the supreme god, Wahe Guru, who is both a creator and within everything. Sikhs follow the ten Gurus and the eternal Guru, the book called the Guru Granth Sahib, which gives praise to Wahe Guru in his many names and lays out the way of life for a Khalsapanthi. To a Sikh, it is not simply belief that defines their religion, but practice. All Sikh men wear their hair uncut, carry a comb and a sword, and wear an iron bracelet and turban. Furthermore, they all follow the four provisions which state that they must not cut their hair, use intoxicants, eat slow-bled meat, or commit adultery. By doing these things, living a pious life in praise of Wahe Guru, and then meditating on his mystery, Sikhs believe they will be united with him."
+
+ ## Northwestern ##
+ dreamer:0 "Dreamer"
+ desc_dreamer:0 "The Dreamers encompass the traditional beliefs of much of the interior Northwest. Over time, their beliefs have evolved while still retaining major core elements, including respect for the natural world and the spiritual power of dreams. Prophetic dreamers, such as the ancient Smohalla, serve an important role in introducing and recodifying rituals and stories for new generations. Adherents place great importance on honoring traditional ways of life, as well as the spiritual link between humanity and the creatures and plants Mother Earth has provided, and the other spirits of the land."

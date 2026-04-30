@@ -651,7 +651,7 @@
 7024={ #Namaew-Wīhkit
 	terrain="forest"
 	culture="cheesehead"
-	religion="lakeshore"
+	religion="catholic"
 	trade_goods="fish"
 	civilization_value=10
 	barbarian_power=0
@@ -677,7 +677,7 @@
 7026={ #Ākem
 	terrain="plains"
 	culture="cheesehead"
-	religion="lakeshore"
+	religion="catholic"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0

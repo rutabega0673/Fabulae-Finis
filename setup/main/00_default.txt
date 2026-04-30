@@ -234,7 +234,7 @@ country = {
 			own_control_core = {
 				5482 5481 5479 5505 5506 5480 5503 5504 8484 8217 8216 8485
 				2696 7232 7231 7230 7517 7233 7518 7519
-				887 9501
+				887
 			}
 		}
 		KNY = { #Kentucky
@@ -389,6 +389,25 @@ country = {
 				270 6587 6589 6588 4432 4431 4433
 				3762 3763 11645 3760 3761 181 184 185
 				180 183 5697 5696 5698 11640 3350 11638
+			}
+		}
+
+		LAF = { #Acadiana
+			government = tribal_kingdom
+			primary_culture = louisianais
+			religion = vodou
+			capital = 9500
+
+			technology={
+				military_tech={ level=1 progress=0 }
+				civic_tech={ level=1 progress=0 }
+				religious_tech= { level=1 progress=0  }
+				oratory_tech= { level=1 progress =0 }
+			}
+
+			own_control_core = {
+				9500 9501 9499 5955 7718 7719 7720 2413 
+				5954 3573
 			}
 		}
 	}

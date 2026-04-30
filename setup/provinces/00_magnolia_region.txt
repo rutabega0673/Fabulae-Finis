@@ -52,7 +52,7 @@
 
 887={ #
 	terrain="plains"
-	culture="nolan"
+	culture="gulfard"
 	religion="vodou"
 	trade_goods=""
 	civilization_value=10

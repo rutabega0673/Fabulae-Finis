@@ -1,0 +1,45 @@
+﻿#Rules for religious conversions can be found in 00_religions in common/scripted_triggers, the effect for changing religion is in common/00_religions in scripted_effects.
+
+country_decisions = {
+	
+	convert_to_buddhist = {
+		
+		potential = {
+			num_of_cities >= 1
+			potential_change_religion_trigger = {
+				RELIGION = buddhism
+			}
+		}
+
+		allow = {
+			could_change_religion_trigger = {
+				RELIGION = buddhism
+			}
+		}
+		
+		effect = {
+			change_religion_effect = {
+				RELIGION = buddhism
+			}
+		}
+		
+		ai_will_do = {
+			factor = 0
+			modifier = {
+				add = 1
+				capital_scope = {
+					dominant_province_religion = buddhism
+				}
+			}
+			modifier = {
+				factor = 0
+				NOT = {
+					tag = MRY
+				}
+				NOT = {
+					tag = BAC
+				}
+			}
+		}
+	}
+}

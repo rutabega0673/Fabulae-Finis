@@ -1,7 +1,7 @@
 ﻿101={ #
 	terrain="plains"
 	culture="grangelander"
-	religion="real_roader"
+	religion="loneranger"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -14,7 +14,7 @@
 102={ #
 	terrain="steppes"
 	culture="grangelander"
-	religion="real_roader"
+	religion="loneranger"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -27,7 +27,7 @@
 103={ #
 	terrain="plains"
 	culture="grangelander"
-	religion="real_roader"
+	religion="loneranger"
 	trade_goods="buffalo"
 	civilization_value=10
 	barbarian_power=0
@@ -40,7 +40,7 @@
 104={ #
 	terrain="plains"
 	culture="grangelander"
-	religion="real_roader"
+	religion="loneranger"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -53,7 +53,7 @@
 376={ #
 	terrain="steppes"
 	culture="grangelander"
-	religion="real_roader"
+	religion="loneranger"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -66,7 +66,7 @@
 377={ #
 	terrain="steppes"
 	culture="grangelander"
-	religion="real_roader"
+	religion="loneranger"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -79,7 +79,7 @@
 378={ #
 	terrain="steppes"
 	culture="grangelander"
-	religion="real_roader"
+	religion="loneranger"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -92,7 +92,7 @@
 495={ #
 	terrain="steppes"
 	culture="grangelander"
-	religion="real_roader"
+	religion="loneranger"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -105,7 +105,7 @@
 496={ #
 	terrain="steppes"
 	culture="grangelander"
-	religion="real_roader"
+	religion="loneranger"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -118,7 +118,7 @@
 497={ #
 	terrain="steppes"
 	culture="grangelander"
-	religion="real_roader"
+	religion="loneranger"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -235,7 +235,7 @@
 1458={ #
 	terrain="plains"
 	culture="grangelander"
-	religion="real_roader"
+	religion="loneranger"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -248,7 +248,7 @@
 1459={ #
 	terrain="plains"
 	culture="grangelander"
-	religion="real_roader"
+	religion="loneranger"
 	trade_goods="buffalo"
 	civilization_value=10
 	barbarian_power=0
@@ -261,7 +261,7 @@
 1460={ #
 	terrain="plains"
 	culture="grangelander"
-	religion="real_roader"
+	religion="loneranger"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -313,7 +313,7 @@
 2117={ #
 	terrain="plains"
 	culture="grangelander"
-	religion="real_roader"
+	religion="loneranger"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -326,7 +326,7 @@
 2118={ #
 	terrain="plains"
 	culture="grangelander"
-	religion="real_roader"
+	religion="loneranger"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -339,7 +339,7 @@
 2119={ #
 	terrain="plains"
 	culture="grangelander"
-	religion="real_roader"
+	religion="loneranger"
 	trade_goods="buffalo"
 	civilization_value=10
 	barbarian_power=0
@@ -352,7 +352,7 @@
 2247={ #
 	terrain="steppes"
 	culture="grangelander"
-	religion="real_roader"
+	religion="loneranger"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -365,7 +365,7 @@
 2248={ #
 	terrain="steppes"
 	culture="grangelander"
-	religion="real_roader"
+	religion="loneranger"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -378,7 +378,7 @@
 2249={ #
 	terrain="steppes"
 	culture="grangelander"
-	religion="real_roader"
+	religion="loneranger"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -404,7 +404,7 @@
 3584={ #
 	terrain="plains"
 	culture="grangelander"
-	religion="real_roader"
+	religion="loneranger"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -417,7 +417,7 @@
 3585={ #
 	terrain="plains"
 	culture="grangelander"
-	religion="real_roader"
+	religion="loneranger"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -430,7 +430,7 @@
 3586={ #
 	terrain="plains"
 	culture="grangelander"
-	religion="real_roader"
+	religion="loneranger"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -443,7 +443,7 @@
 3779={ #
 	terrain="steppes"
 	culture="grangelander"
-	religion="real_roader"
+	religion="loneranger"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -456,7 +456,7 @@
 3780={ #
 	terrain="steppes"
 	culture="grangelander"
-	religion="real_roader"
+	religion="loneranger"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -469,7 +469,7 @@
 3897={ #
 	terrain="steppes"
 	culture="grangelander"
-	religion="real_roader"
+	religion="loneranger"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -482,7 +482,7 @@
 3898={ #
 	terrain="plains"
 	culture="grangelander"
-	religion="real_roader"
+	religion="loneranger"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -495,7 +495,7 @@
 3899={ #
 	terrain="plains"
 	culture="grangelander"
-	religion="real_roader"
+	religion="loneranger"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -508,7 +508,7 @@
 4145={ #
 	terrain="plains"
 	culture="grangelander"
-	religion="real_roader"
+	religion="loneranger"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -547,7 +547,7 @@
 4212={ #
 	terrain="hills"
 	culture="grangelander"
-	religion="real_roader"
+	religion="loneranger"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -560,7 +560,7 @@
 4386={ #
 	terrain="plains"
 	culture="grangelander"
-	religion="real_roader"
+	religion="loneranger"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -573,7 +573,7 @@
 4387={ #
 	terrain="steppes"
 	culture="grangelander"
-	religion="real_roader"
+	religion="loneranger"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -586,7 +586,7 @@
 4388={ #
 	terrain="plains"
 	culture="grangelander"
-	religion="real_roader"
+	religion="loneranger"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -599,7 +599,7 @@
 5146={ #
 	terrain="steppes"
 	culture="grangelander"
-	religion="real_roader"
+	religion="loneranger"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -612,7 +612,7 @@
 5147={ #
 	terrain="hills"
 	culture="grangelander"
-	religion="real_roader"
+	religion="loneranger"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -625,7 +625,7 @@
 5148={ #
 	terrain="hills"
 	culture="grangelander"
-	religion="real_roader"
+	religion="loneranger"
 	trade_goods="buffalo"
 	civilization_value=10
 	barbarian_power=0
@@ -664,7 +664,7 @@
 5882={ #
 	terrain="farmland"
 	culture="grangelander"
-	religion="real_roader"
+	religion="loneranger"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -690,7 +690,7 @@
 5943={ #
 	terrain="steppes"
 	culture="grangelander"
-	religion="real_roader"
+	religion="loneranger"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -768,7 +768,7 @@
 6778={ #
 	terrain="steppes"
 	culture="grangelander"
-	religion="real_roader"
+	religion="loneranger"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -781,7 +781,7 @@
 6779={ #
 	terrain="steppes"
 	culture="grangelander"
-	religion="real_roader"
+	religion="loneranger"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -794,7 +794,7 @@
 6780={ #
 	terrain="steppes"
 	culture="grangelander"
-	religion="real_roader"
+	religion="loneranger"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -885,7 +885,7 @@
 7158={ #
 	terrain="steppes"
 	culture="grangelander"
-	religion="real_roader"
+	religion="loneranger"
 	trade_goods="buffalo"
 	civilization_value=10
 	barbarian_power=0
@@ -898,7 +898,7 @@
 7159={ #
 	terrain="steppes"
 	culture="grangelander"
-	religion="real_roader"
+	religion="loneranger"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -911,7 +911,7 @@
 7160={ #
 	terrain="steppes"
 	culture="grangelander"
-	religion="real_roader"
+	religion="loneranger"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -924,7 +924,7 @@
 7311={ #
 	terrain="plains"
 	culture="grangelander"
-	religion="real_roader"
+	religion="loneranger"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -1041,7 +1041,7 @@
 7466={ #
 	terrain="plains"
 	culture="grangelander"
-	religion="real_roader"
+	religion="loneranger"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -1054,7 +1054,7 @@
 7467={ #
 	terrain="plains"
 	culture="grangelander"
-	religion="real_roader"
+	religion="loneranger"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -1067,7 +1067,7 @@
 7468={ #
 	terrain="plains"
 	culture="grangelander"
-	religion="real_roader"
+	religion="loneranger"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -1080,7 +1080,7 @@
 7648={ #
 	terrain="plains"
 	culture="grangelander"
-	religion="real_roader"
+	religion="loneranger"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -1093,7 +1093,7 @@
 7649={ #
 	terrain="plains"
 	culture="grangelander"
-	religion="real_roader"
+	religion="loneranger"
 	trade_goods="buffalo"
 	civilization_value=10
 	barbarian_power=0
@@ -1106,7 +1106,7 @@
 7650={ #
 	terrain="plains"
 	culture="grangelander"
-	religion="real_roader"
+	religion="loneranger"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -1119,7 +1119,7 @@
 7676={ #
 	terrain="steppes"
 	culture="grangelander"
-	religion="real_roader"
+	religion="loneranger"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -1132,7 +1132,7 @@
 7677={ #
 	terrain="steppes"
 	culture="grangelander"
-	religion="real_roader"
+	religion="loneranger"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -1145,7 +1145,7 @@
 7678={ #
 	terrain="plains"
 	culture="grangelander"
-	religion="real_roader"
+	religion="loneranger"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -1158,7 +1158,7 @@
 7744={ #
 	terrain="plains"
 	culture="grangelander"
-	religion="real_roader"
+	religion="loneranger"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -1171,7 +1171,7 @@
 7746={ #
 	terrain="plains"
 	culture="grangelander"
-	religion="real_roader"
+	religion="loneranger"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -1249,7 +1249,7 @@
 9138={ #
 	terrain="steppes"
 	culture="grangelander"
-	religion="real_roader"
+	religion="loneranger"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -1262,7 +1262,7 @@
 9139={ #
 	terrain="steppes"
 	culture="grangelander"
-	religion="real_roader"
+	religion="loneranger"
 	trade_goods="buffalo"
 	civilization_value=10
 	barbarian_power=0
@@ -1275,7 +1275,7 @@
 9140={ #
 	terrain="steppes"
 	culture="grangelander"
-	religion="real_roader"
+	religion="loneranger"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0

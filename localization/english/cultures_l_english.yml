@@ -169,6 +169,15 @@
  hermanndeutsch:0 "Hermanndeutsch"
  texaner:0 "Texaner"
  
+ ## Californian ##
+ californian:0 "Californian"
+ valleyan:0 "Valleyan"
+ bayrean:0 "Bayrean"
+ montereyan:0 "Montereyan"
+ joaquino:0 "Joaquino"
+ socaleno:0 "Socaleno"
+ cahuilla:0 "Cachanchilla"
+ 
 
  ## NAMING ##
  yankee_malename:1 "$NAME_MALE$ $REGNALNUMBER$ $NICKNAME$ $FAMILY_MALE$"

@@ -54,6 +54,8 @@
  NOL_ADJ:0 "Nolan"
  KNY:0 "Kentucky"
  KNY_ADJ:0 "Kentuckian"
+ LAF:0 "Acadiana"
+ LAF_ADJ:0 "Acadian"
 
 # Gaelic #
  AUTINI:0 "Autinia"
