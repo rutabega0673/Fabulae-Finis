@@ -1,0 +1,481 @@
+﻿51={ #
+	terrain="mountain"
+	culture="canuck"
+	religion="gaian"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+52={ #
+	terrain="forest"
+	culture="canuck"
+	religion="gaian"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+53={ #
+	terrain="mountain"
+	culture=""
+	religion="gaian"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+852={ #
+	terrain="mountain"
+	culture=""
+	religion="gaian"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+853={ #
+	terrain="mountain"
+	culture="canuck"
+	religion="gaian"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+854={ #
+	terrain="mountain"
+	culture=""
+	religion="gaian"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+1387={ #
+	terrain="forest"
+	culture="canuck"
+	religion="gaian"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+1388={ #
+	terrain="plains"
+	culture="canuck"
+	religion="gaian"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+2180={ #
+	terrain="mountain"
+	culture="okanaganer"
+	religion="gaian"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+2181={ #
+	terrain="plains"
+	culture="okanaganer"
+	religion="mayan_pantheon"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+2388={ #
+	terrain="mountain"
+	culture="canuck"
+	religion="gaian"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+2389={ #
+	terrain="mountain"
+	culture=""
+	religion="gaian"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+3122={ #
+	terrain="mountain"
+	culture=""
+	religion="mayan_pantheon"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+3123={ #
+	terrain="mountain"
+	culture=""
+	religion="mayan_pantheon"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+3487={ #
+	terrain="mountain"
+	culture="okanaganer"
+	religion="gaian"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+3488={ #
+	terrain="plains"
+	culture="okanaganer"
+	religion="gaian"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+4144={ #
+	terrain="plains"
+	culture="canuck"
+	religion="sikhism"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+4599={ #
+	terrain="mountain"
+	culture="canuck"
+	religion="gaian"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+4600={ #
+	terrain="forest"
+	culture="canuck"
+	religion="gaian"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+4601={ #
+	terrain="mountain"
+	culture="canuck"
+	religion="gaian"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+4602={ #
+	terrain="farmland"
+	culture="canuck"
+	religion="gaian"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+5672={ #
+	terrain="forest"
+	culture="canuck"
+	religion="gaian"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+5673={ #
+	terrain="mountain"
+	culture="canuck"
+	religion="gaian"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+5674={ #
+	terrain="forest"
+	culture="canuck"
+	religion="gaian"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+6135={ #
+	terrain="forest"
+	culture=""
+	religion="mayan_pantheon"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+6136={ #
+	terrain="forest"
+	culture=""
+	religion="mayan_pantheon"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+6137={ #
+	terrain="mountain"
+	culture=""
+	religion="gaian"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+6395={ #
+	terrain="plains"
+	culture="canuck"
+	religion="sikhism"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+6396={ #
+	terrain="plains"
+	culture="canuck"
+	religion="sikhism"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+6397={ #
+	terrain="plains"
+	culture="canuck"
+	religion="sikhism"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+7881={ #
+	terrain="mountain"
+	culture="canuck"
+	religion="sikhism"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+7882={ #
+	terrain="mountain"
+	culture="canuck"
+	religion="sikhism"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+7883={ #
+	terrain="mountain"
+	culture="canuck"
+	religion="sikhism"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+8563={ #
+	terrain="mountain"
+	culture="canuck"
+	religion="gaian"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+8564={ #
+	terrain="mountain"
+	culture="canuck"
+	religion="gaian"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+9274={ #
+	terrain="mountain"
+	culture=""
+	religion="gaian"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+9275={ #
+	terrain="mountain"
+	culture=""
+	religion="gaian"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+

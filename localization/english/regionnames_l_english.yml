@@ -37,6 +37,11 @@
  andreas_region:0 "Andreas"
  nevada_region:0 "Nevada"
  the_valley_region:0 "San Joaquin"
+ whilamut_region:0 "Whilamut"
+ tahoma_region:0 "Tahoma"
+ columbia_region:0 "Columbia"
+ highdesert_region:0 "Highdesert"
+ beecee_region:0 "Beecee"
 
  ## AREAS ##
  philadelphia_area:0 "Delaware Valley"

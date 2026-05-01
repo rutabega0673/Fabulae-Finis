@@ -803,11 +803,86 @@ redwoods_area = {
 	provinces = { 4287 263 262 1629 1631 1630 4501 4498 4500 4499 4588 4584 }
 }
 rogue_area = { 
-	provinces = { 4585 4587 391 392 4440 4438 6459 4439 4586 6721 6722 4076 4075 6723 }
+	provinces = { 4585 4587 391 392 4440 4438 4439 4586 6721 6722 4076 4075 6723 }
 }
 klamath_area = { 
 	provinces = { 8804 8397 8398 4285 4283 4284 8805 390 }
 }
 imperial_valley_area = { 
 	provinces = { 8051 5873 5872 5871 1300 1303 1301 1302 }
+}
+suislaw_area = { 
+	provinces = { 5581 6461 6459 6460 5808 5809 5810 5580 }
+}
+willamette_area = { 
+	provinces = { 5429 5427 5428 4780 4779 4781 9439 9438 9440 4124 4123 4778 4122 }
+}
+portlandia_area = { 
+	provinces = { 651 652 653 2751 2749 1750 1751 2750 6078 }
+}
+tillamook_area = { 
+	provinces = { 4937 4938 2237 4936 2693 2691 2692 2723 2725 2724 2238 2239 }
+}
+south_puget_area = { 
+	provinces = { 9050 4868 1102 4869 4868 4871 4870 7734 7732 7733 }
+}
+north_puget_area = { 
+	provinces = { 4872 682 681 680 4462 4464 4463 7865 7866 7865 7864 }
+}
+olympus_area = { 
+	provinces = { 7602 7604 5422 5420 5421 4043 1562 1561 1560 4045 4044 7603 }
+}
+willapa_area = { 
+	provinces = { 3148 1683 1685 3149 1684 1685 1613 1612 }
+}
+rainier_area = { 
+	provinces = { 3325 3324 3326 8470 8469 8471 1103 9049 9051 9048 3327 }
+}
+deschutes_area = { 
+	provinces = { 6079 2967 8517 8518 3423 3422 2424 8519 8516 429 2966 3424 430 }
+}
+yakima_area = { 
+	provinces = { 2105 2106 2104 6471 6470 2508 2507 2506 }
+}
+columbia_valley_area = { 
+	provinces = { 7258 7256 7257 4950 4951 6784 6785 8421 4951 8422 6786  }
+}
+palouse_area = { 
+	provinces = { 4657 4656 2242 2240 2241 4658 1054 1056 1055 9430 9432 9429 9431 }
+}
+colville_area = { 
+	provinces = { 8086 8085 2817 2819 5836 2818 2820 5531 5530 231 }
+}
+malheur_area = { 
+	provinces = { 5143 5142 295 293 5144 5141 2681 294 2683 2682 }
+}
+treasure_valley_area = { 
+	provinces = { 2553 7137 7139 7138 4551 3613 3614 3615 1628 1626 1627 4550 2552 2554 4549 }
+}
+halfway_area = { 
+	provinces = { 1962 1965 1964 1963 196 197 195 2965 2964 }
+}
+blue_mountains_area = { 
+	provinces = { 9487 9485 5426 5423 5425 5424 194 9486 }
+}
+nez_perce_area = { 
+	provinces = { 5598 5599 3499 5597 3500 6418 6419 6420 6421 5835 }
+}
+north_idaho_area = { 
+	provinces = { 4862 4864 1042 1039 9010 4863 }
+}
+lower_mainland_area = { 
+	provinces = { 6396 6397 4144 7881 7883 7882 6395 3488 3487 2181 2180 }
+}
+south_vancouver_area = { 
+	provinces = { 4601 4602 1388 4600 5674 1387 5672 4599 5673 }
+}
+north_vancouver_area = { 
+	provinces = { 3122 2388 2389 6137 6135 3123 6136 8564 8563 }
+}
+central_coast_area = { 
+	provinces = { 51 853 854 852 9274 53 52 9275  }
+}
+glacier_area = { 
+	provinces = { 8395 8396 980 979 981 9008 9009 9007 1040  }
 }

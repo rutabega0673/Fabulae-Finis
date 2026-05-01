@@ -1,0 +1,429 @@
+﻿245={ #
+	terrain="desert_hills"
+	culture="battleborn"
+	religion="dreamer"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+246={ #
+	terrain="desert_hills"
+	culture="battleborn"
+	religion="mormon"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+344={ #
+	terrain="desert_hills"
+	culture="paiute"
+	religion="dreamer"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+345={ #
+	terrain="desert_hills"
+	culture="paiute"
+	religion="caesarist"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+1245={ #
+	terrain="desert_hills"
+	culture="mojavean"
+	religion="atomicist"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+1635={ #
+	terrain="desert_hills"
+	culture="battleborn"
+	religion="loneranger"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+1636={ #
+	terrain="desert_hills"
+	culture="battleborn"
+	religion="loneranger"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+1637={ #
+	terrain="mountain"
+	culture="battleborn"
+	religion="loneranger"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+1952={ #
+	terrain="desert_hills"
+	culture="battleborn"
+	religion="dreamer"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+1953={ #
+	terrain="impassable_terrain"
+	culture="battleborn"
+	religion="dreamer"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+2814={ #
+	terrain="desert_hills"
+	culture="battleborn"
+	religion="caesarist"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+2815={ #
+	terrain="hills"
+	culture="battleborn"
+	religion="caesarist"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+2816={ #
+	terrain="desert_hills"
+	culture="battleborn"
+	religion="caesarist"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+3245={ #
+	terrain="desert_hills"
+	culture="battleborn"
+	religion="dreamer"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+3246={ #
+	terrain="desert_hills"
+	culture="battleborn"
+	religion="loneranger"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+3247={ #
+	terrain="desert_hills"
+	culture="utahn"
+	religion="mormon"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+4413={ #
+	terrain="desert_hills"
+	culture="mojavean"
+	religion="atomicist"
+	trade_goods="cacti"
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+5555={ #
+	terrain="desert"
+	culture="mojavean"
+	religion="atomicist"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+5556={ #
+	terrain="desert"
+	culture="mojavean"
+	religion="atomicist"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+5557={ #
+	terrain="oasis"
+	culture="mojavean"
+	religion="atomicist"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+5558={ #
+	terrain="desert"
+	culture="mojavean"
+	religion="atomicist"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+5660={ #
+	terrain="desert_hills"
+	culture="battleborn"
+	religion="dreamer"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+5878={ #
+	terrain="desert_hills"
+	culture="mojavean"
+	religion="atomicist"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+5879={ #
+	terrain="desert"
+	culture="mojavean"
+	religion="loneranger"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+6145={ #
+	terrain="desert_hills"
+	culture="battleborn"
+	religion="caesarist"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+6146={ #
+	terrain="mountain"
+	culture="battleborn"
+	religion="dreamer"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+6195={ #
+	terrain="desert_hills"
+	culture="battleborn"
+	religion="mormon"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+6196={ #
+	terrain="desert_hills"
+	culture="battleborn"
+	religion="mormon"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+7903={ #
+	terrain="desert_hills"
+	culture="battleborn"
+	religion="caesarist"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+7904={ #
+	terrain="desert_hills"
+	culture="battleborn"
+	religion="caesarist"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+7905={ #
+	terrain="desert_hills"
+	culture="paiute"
+	religion="caesarist"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+9059={ #
+	terrain="desert_hills"
+	culture="mojavean"
+	religion="atomicist"
+	trade_goods="cacti"
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+9060={ #
+	terrain="desert_hills"
+	culture="mojavean"
+	religion="atomicist"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+

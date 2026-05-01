@@ -1,0 +1,637 @@
+﻿680={ #
+	terrain="plains"
+	culture="canuck"
+	religion="gaian"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+681={ #
+	terrain="plains"
+	culture="canuck"
+	religion="gaian"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+682={ #
+	terrain="plains"
+	culture="inlander"
+	religion="gaian"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+1102={ #
+	terrain="plains"
+	culture="cascadian"
+	religion="gaian"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+1103={ #
+	terrain="plains"
+	culture="cascadian"
+	religion="gaian"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+1560={ #Pysht
+	terrain="forest"
+	culture="cascadian"
+	religion="gaian"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+1561={ #Kahouk
+	terrain="forest"
+	culture="cascadian"
+	religion="gaian"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+1562={ # K'–E–le–ok
+	terrain="forest"
+	culture="cascadian"
+	religion="gaian"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+1612={ #
+	terrain="plains"
+	culture="cascadian"
+	religion="gaian"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+1613={ #
+	terrain="plains"
+	culture="cascadian"
+	religion="gaian"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+1683={ #
+	terrain="forest"
+	culture="cascadian"
+	religion="gaian"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+1684={ #
+	terrain="plains"
+	culture="cascadian"
+	religion="gaian"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+1685={ #
+	terrain="plains"
+	culture="cascadian"
+	religion="gaian"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+3148={ #
+	terrain="forest"
+	culture="cascadian"
+	religion="gaian"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+3149={ #
+	terrain="forest"
+	culture="cascadian"
+	religion="caesarist"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+3324={ #
+	terrain="forest"
+	culture="cascadian"
+	religion="gaian"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+3325={ #
+	terrain="farmland"
+	culture="cascadian"
+	religion="gaian"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+3326={ #
+	terrain="plains"
+	culture="cascadian"
+	religion="gaian"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+3327={ #
+	terrain="forest"
+	culture="cascadian"
+	religion="gaian"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+4043={ #
+	terrain="hills"
+	culture="cascadian"
+	religion="caesarist"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+4044={ #
+	terrain="hills"
+	culture="cascadian"
+	religion="caesarist"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+4045={ #Tse-whit-zen
+	terrain="hills"
+	culture="cascadian"
+	religion="gaian"
+	trade_goods="fish"
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+4462={ #
+	terrain="plains"
+	culture="canuck"
+	religion="gaian"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+4463={ #
+	terrain="plains"
+	culture="canuck"
+	religion="gaian"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+4464={ #
+	terrain="plains"
+	culture="cascadian"
+	religion="gaian"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+4868={ #
+	terrain="farmland"
+	culture="cascadian"
+	religion="gaian"
+	trade_goods="wine"
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+4869={ #
+	terrain="plains"
+	culture="cascadian"
+	religion="gaian"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+4870={ #
+	terrain="farmland"
+	culture="cascadian"
+	religion="gaian"
+	trade_goods="honey"
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+4871={ #
+	terrain="farmland"
+	culture="cascadian"
+	religion="gaian"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+4872={ #
+	terrain="farmland"
+	culture="cascadian"
+	religion="gaian"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+5420={ #Hoquiam
+	terrain="forest"
+	culture="cascadian"
+	religion="gaian"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+5421={ #
+	terrain="forest"
+	culture="cascadian"
+	religion="caesarist"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+5422={ #Wishkah
+	terrain="forest"
+	culture="cascadian"
+	religion="caesarist"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+7602={ #
+	terrain="plains"
+	culture="cascadian"
+	religion="caesarist"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+7603={ #
+	terrain="plains"
+	culture="cascadian"
+	religion="caesarist"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+7604={ #
+	terrain="plains"
+	culture="cascadian"
+	religion="caesarist"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+7732={ #
+	terrain="plains"
+	culture="cascadian"
+	religion="gaian"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+7733={ #
+	terrain="plains"
+	culture="inlander"
+	religion="gaian"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+7734={ #
+	terrain="plains"
+	culture="cascadian"
+	religion="gaian"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+7864={ #
+	terrain="plains"
+	culture="canuck"
+	religion="gaian"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+7865={ #
+	terrain="plains"
+	culture="canuck"
+	religion="gaian"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+7866={ #
+	terrain="plains"
+	culture="canuck"
+	religion="gaian"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+8469={ #
+	terrain="plains"
+	culture="cascadian"
+	religion="gaian"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+8470={ #
+	terrain="plains"
+	culture="cascadian"
+	religion="gaian"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+8471={ #
+	terrain="plains"
+	culture="cascadian"
+	religion="gaian"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+9048={ #
+	terrain="plains"
+	culture="cascadian"
+	religion="caesarist"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+9049={ #
+	terrain="plains"
+	culture="cascadian"
+	religion="gaian"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+9050={ #
+	terrain="farmland"
+	culture="cascadian"
+	religion="gaian"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+9051={ #
+	terrain="farmland"
+	culture="cascadian"
+	religion="caesarist"
+	trade_goods="honey"
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+

@@ -238,3 +238,33 @@ jefferson_region = { #4
 		redwoods_area klamath_area modoc_area shasta_cascade_area rogue_area
 	}
 }
+whilamut_region = { #4
+	color = rgb { 30 128 80 }
+	areas = {
+		suislaw_area portlandia_area willamette_area tillamook_area
+	}
+}
+tahoma_region = { #5
+	color = rgb { 90 200 100 }
+	areas = {
+		south_puget_area rainier_area north_puget_area olympus_area willapa_area
+	}
+}
+columbia_region = { #4
+	color = rgb { 59 104 13 }
+	areas = {
+		yakima_area columbia_valley_area colville_area palouse_area
+	}
+}
+highdesert_region = { #4
+	color = rgb { 131 201 256 }
+	areas = {
+		deschutes_area malheur_area halfway_area blue_mountains_area
+	}
+}
+beecee_region = { #4
+	color = rgb { 18 85 186 }
+	areas = {
+		south_vancouver_area north_vancouver_area lower_mainland_area central_coast_area
+	}
+}

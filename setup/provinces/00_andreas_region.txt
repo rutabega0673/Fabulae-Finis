@@ -1,0 +1,637 @@
+﻿271={ #
+	terrain="plains"
+	culture="bayrean"
+	religion="buddhism"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+272={ #
+	terrain="plains"
+	culture="bayrean"
+	religion="buddhism"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+273={ #
+	terrain="hills"
+	culture="bayrean"
+	religion="buddhism"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+2128={ #
+	terrain="hills"
+	culture="bayrean"
+	religion="romano_humanism"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+2335={ #
+	terrain="plains"
+	culture="bayrean"
+	religion="romano_humanism"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+2336={ #
+	terrain="plains"
+	culture="bayrean"
+	religion="caesarist"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+2337={ #
+	terrain="flood_plain"
+	culture="valleyan"
+	religion="romano_humanism"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+2338={ #
+	terrain="plains"
+	culture="bayrean"
+	religion="romano_humanism"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+2339={ #
+	terrain="flood_plain"
+	culture="valleyan"
+	religion="caesarist"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+2994={ #
+	terrain="plains"
+	culture="bayrean"
+	religion="romano_humanism"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+2995={ #
+	terrain="plains"
+	culture="montereyan"
+	religion="romano_humanism"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+2996={ #
+	terrain="plains"
+	culture="bayrean"
+	religion="romano_humanism"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+2997={ #
+	terrain="plains"
+	culture="bayrean"
+	religion="romano_humanism"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+2998={ #
+	terrain="plains"
+	culture="bayrean"
+	religion="romano_humanism"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+2999={ #
+	terrain="plains"
+	culture="bayrean"
+	religion="romano_humanism"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+4286={ #
+	terrain="plains"
+	culture="bayrean"
+	religion="buddhism"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+4288={ #
+	terrain="plains"
+	culture="bayrean"
+	religion="buddhism"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+5923={ #
+	terrain="plains"
+	culture="bayrean"
+	religion="buddhism"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+5924={ #
+	terrain="plains"
+	culture="bayrean"
+	religion="buddhism"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+5925={ #
+	terrain="plains"
+	culture="bayrean"
+	religion="buddhism"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+5926={ #
+	terrain="plains"
+	culture="bayrean"
+	religion="buddhism"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+6834={ #
+	terrain="plains"
+	culture="bayrean"
+	religion="buddhism"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+6835={ #
+	terrain="plains"
+	culture="bayrean"
+	religion="buddhism"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+6836={ #
+	terrain="plains"
+	culture="bayrean"
+	religion="buddhism"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+7620={ #
+	terrain="plains"
+	culture="bayrean"
+	religion="romano_humanism"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+7621={ #
+	terrain="plains"
+	culture="bayrean"
+	religion="romano_humanism"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+7622={ #
+	terrain="plains"
+	culture="bayrean"
+	religion="romano_humanism"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+7623={ #
+	terrain="plains"
+	culture="bayrean"
+	religion="romano_humanism"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+8090={ #
+	terrain="plains"
+	culture="montereyan"
+	religion="catholic"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+8091={ #
+	terrain="plains"
+	culture="montereyan"
+	religion="catholic"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+8092={ #
+	terrain="plains"
+	culture="montereyan"
+	religion="catholic"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+8093={ #
+	terrain="plains"
+	culture="montereyan"
+	religion="catholic"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+8094={ #
+	terrain="plains"
+	culture="montereyan"
+	religion="catholic"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+8299={ #
+	terrain="plains"
+	culture="bayrean"
+	religion="buddhism"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+8300={ #
+	terrain="forest"
+	culture="bayrean"
+	religion="buddhism"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+8302={ #
+	terrain="flood_plain"
+	culture="bayrean"
+	religion="caesarist"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+8312={ #
+	terrain="plains"
+	culture="montereyan"
+	religion="catholic"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+8313={ #
+	terrain="plains"
+	culture="montereyan"
+	religion="catholic"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+8315={ #
+	terrain="plains"
+	culture="montereyan"
+	religion="catholic"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+8829={ #
+	terrain="plains"
+	culture="bayrean"
+	religion="buddhism"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+8830={ #
+	terrain="plains"
+	culture="bayrean"
+	religion="buddhism"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+8831={ #
+	terrain="plains"
+	culture="bayrean"
+	religion="buddhism"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+9253={ #
+	terrain="plains"
+	culture="montereyan"
+	religion="catholic"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+9254={ #
+	terrain="plains"
+	culture="montereyan"
+	religion="catholic"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+9276={ #
+	terrain="plains"
+	culture="montereyan"
+	religion="romano_humanism"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+9277={ #
+	terrain="plains"
+	culture="montereyan"
+	religion="romano_humanism"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+9278={ #
+	terrain="plains"
+	culture="montereyan"
+	religion="romano_humanism"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+9279={ #
+	terrain="plains"
+	culture="bayrean"
+	religion="romano_humanism"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+9280={ #
+	terrain="plains"
+	culture="bayrean"
+	religion="romano_humanism"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
