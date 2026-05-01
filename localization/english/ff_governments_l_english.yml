@@ -11,4 +11,9 @@
  titanate_ruler:0 "Titan-King"
  titanate_ruler_female:0 "Titan-Queen"
  titanate_consort:0 "Titan-Queen"
+
+ military_dictatorship:0 "Military Dictatorship"
+ military_dictatorship_desc:0 "The military has seized power in this state, claiming legitimacy from military might, as well as divine ordination. The General or Dictator is the supreme leader of this state, abandoning all pretenses of democratic rule in favor of an absolute one."
+ military_dictatorship_ruler:0 "General of the Army"
+ military_dictatorship_ruler_female:0 "General of the Army"
  

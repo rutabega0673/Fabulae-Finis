@@ -202,10 +202,10 @@ maritimes_region = { #6
 		petitcodiac_area miramichi_area new_brunswick_area restigouche_area
 	}
 }
-socal_region = { #6
+socal_region = { #7
 	color = rgb { 255 175 20 }
 	areas = {
-		san_diego_area transverse_range_area mojave_area anaheim_area inland_empire_area los_angeles_area
+		san_diego_area transverse_range_area mojave_area anaheim_area inland_empire_area los_angeles_area imperial_valley_area
 	}
 }
 nevada_region = { #5
@@ -266,5 +266,11 @@ beecee_region = { #4
 	color = rgb { 18 85 186 }
 	areas = {
 		south_vancouver_area north_vancouver_area lower_mainland_area central_coast_area
+	}
+}
+idaho_region = { #
+	color = rgb { 88 7 3 }
+	areas = {
+		nez_perce_area glacier_area north_idaho_area
 	}
 }

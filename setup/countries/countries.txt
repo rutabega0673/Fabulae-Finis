@@ -28,3 +28,7 @@ IND = "setup/countries/midwest/indiana.txt"
 NOL = "setup/countries/south/new_orleans.txt"
 KNY = "setup/countries/south/kentucky.txt"
 LAF = "setup/countries/south/lafayette.txt"
+
+#West Coast
+SAC = "setup/countries/west_coast/sacramento.txt"
+NCR = "setup/countries/west_coast/san_diego.txt"

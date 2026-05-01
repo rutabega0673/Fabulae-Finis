@@ -40,7 +40,7 @@ country = {
 			}
 
 			own_control_core = {
-				4381 2440 2441 2441 2622 2442 95 94 93 312 314 313 83
+				4381 2440 2441 2622 2442 95 94 93 312 314 313 83
 			}
 		}
 
@@ -186,7 +186,7 @@ country = {
 			}
 
 			own_control_core = {
-				6952 1942 3151 1941 3150 6953 6954 5802 5801 3152 1943 1944 5281
+				6952 1942 3151 1941 3150 6953 6954 5802 5801 3152
 				5068 6955 5066 5063 5064 5067 1608 1605 1607 1763 1606 5065 1765 1764
 				1061 6436 6434 6435 6524
 				9584 1766 1767 8684 8685 9583 8683 8682 9581 9582
@@ -408,6 +408,45 @@ country = {
 			own_control_core = {
 				9500 9501 9499 5955 7718 7719 7720 2413 
 				5954 3573
+			}
+		}
+
+		SAC = { #Second Californian Republic
+			government = military_dictatorship
+			primary_culture = valleyan
+			religion = caesarist
+			capital = 4469
+
+			technology={
+				military_tech={ level=2 progress=0 }
+				civic_tech={ level=2 progress=0 }
+				religious_tech= { level=2 progress=0  }
+				oratory_tech= { level=2 progress =0 }
+			}
+
+			own_control_core = {
+				4880 4882 3978 3979 3980 1049 1050 4469 7100 4468 4470 4469 1048
+				4881 4883
+				2321 2323 2320 7103 2322 5930 5927 5929 5928 7104 7102 7101 4304 4303 4302 4301
+				8302 2336 2338 2339 2337 1772 1773
+			}
+		}
+
+		NCR = { # New California Republic
+			government = military_dictatorship
+			primary_culture = socaleno
+			religion = caesarist
+			capital = 9127
+
+			technology={
+				military_tech={ level=2 progress=0 }
+				civic_tech={ level=2 progress=0 }
+				religious_tech= { level=2 progress=0  }
+				oratory_tech= { level=2 progress =0 }
+			}
+
+			own_control_core = {
+				9127 9124 9125 411 9128 6602 6601 9126 6600 1815 1301
 			}
 		}
 	}

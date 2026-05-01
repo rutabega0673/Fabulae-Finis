@@ -47,6 +47,28 @@ titanate = {
 	color = rgb { 181 135 65 }
 }
 
+military_dictatorship = { 
+	military_ideas = 2
+	religious_ideas = 1
+	type = monarchy
+	
+	bonus = {
+		army_maintenance_cost = -0.15
+		levy_size_multiplier = 0.03
+	}
+	base = {
+		country_civilization_value = 20
+	}
+	
+	election_delay = 0
+	
+	use_regnal_numbers = yes
+	
+	ruler_consort_benefits = yes
+
+	color = rgb { 60 10 99 }
+}
+
 ## Ported from GotN ##
 
 egyptian_dynasty = { 

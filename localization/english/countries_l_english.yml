@@ -57,6 +57,12 @@
  LAF:0 "Acadiana"
  LAF_ADJ:0 "Acadian"
 
+ ## West Coast ##
+ SAC:0 "Second Californian Republic"
+ SAC_ADJ:0 "Californian" 
+ NCR:0 "New California Republic"
+ NCR_ADJ:0 "Californian"
+
 # Gaelic #
  AUTINI:0 "Autinia"
  AUTINI_ADJ:0 "Autinian"
