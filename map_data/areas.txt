@@ -721,3 +721,93 @@ miramichi_area = {
 petitcodiac_area = { 
 	provinces = { 1128 7292 6448 6450 6449 6451 7291 1129 6582 7290 6581 6580 1145 }
 }
+san_diego_area = { 
+	provinces = { 9127 9124 9125 411 9128 1302 6602 6601 9126 5873 5872 }
+}
+inland_empire_area = { 
+	provinces = { 5520 5518 8050 5516 5519 5517 5521 }
+}
+anaheim_area = { 
+	provinces = { 292 290 289 291 6599 6600 1815 }
+}
+los_angeles_area = { 
+	provinces = { 11605 3532 3533 3529 3531 3526 3528 3527 3530 }
+}
+transverse_range_area = { 
+	provinces = { 5730 8691 8692 8562 8560 8561 8314 1814 8689 8690 }
+}
+mojave_area = { 
+	provinces = { 1579 1578 439 5732 438 5729 5731 }
+}
+death_valley_area = { 
+	provinces = { 9060 344 5878 345 7905 5879 }
+}
+strip_area = { 
+	provinces = { 5558 5555 5556 5557 4413 1245 9059 }
+}
+colorado_area = { 
+	provinces = { 2101 2952 2953 2951 2615 2616 1413 4411 1415 }
+}
+west_bay_area = { 
+	provinces = { 273 2128 271 272 6834 9280 2994 9279 9276 2999 2997 }
+}
+nevada_area = { 
+	provinces = { 2816 2815 2814 7904 7903 6145 2816 6146 1637 }
+}
+churchhill_area = { 
+	provinces = { 1953 5660 1952 245 246 6196 }
+}
+northern_basin_area = { 
+	provinces = { 1635 3245 1636 3246 6195 3247 }
+}
+east_bay_area = { 
+	provinces = { 7623 7621 7620 7622 2998 2996 2335 2338 2336 2339 2337 }
+}
+salinas_area = { 
+	provinces = { 8315 8312 8313 8090 8091 8094 8092 9278 9277 2995 9254 8093 9253 }
+}
+kern_area = { 
+	provinces = { 4910 4909 4912 4911 4908 9147 9144 9146 3268 3269 3267 9145 5366 3270 }
+}
+fresno_area = { 
+	provinces = { 5368 5367 3339 3340 3338 6895 6893 6894 3062 3063 3061 3064 3337 }
+}
+mariposa_area = { 
+	provinces = { 5977 5979 5978 8458 8461 8460 8459 9304 9302 9303 1773 1771 1772 }
+}
+motherlode_area = { 
+	provinces = { 2321 2323 2320 7103 2322 5930 5927 5929 5928 7104 7102 7101 4304 4303 4302 4301 }
+}
+sacramento_area = { 
+	provinces = { 4880 4882 3978 3979 3980 1049 1050 4469 7100 4468 4470 4469 1048 }
+}
+nevada_city_area = { 
+	provinces = { 2848 2846 2847 4881 4883 2844 7151 7153 2845 7150 }
+}
+north_valley_area = { 
+	provinces = { 7152 7802 7804 7806 7805 7803 9174 9175 }
+}
+yolo_area = { 
+	provinces = { 1619 1617 1356 1358 1359 1357 1590 8301 1588 1589 }
+}
+winelands_area = { 
+	provinces = { 8302 8299 8300 8829 8830 8831 6835 6836 4288 4286 5923 5924 5925 5926 }
+}
+shasta_cascade_area = { 
+	provinces = { 6043 1618 6040 6042 6041 9172 6348 6345 9176 9173 315 316 6347 6346 }
+}
+modoc_area = { 
+	provinces = { 6719 6720 6718 4082 4081 4084 9072 4083 9071 }
+}
+redwoods_area = { 
+	provinces = { 4287 263 262 1629 1631 1630 4501 4498 4500 4499 4588 4584 }
+}
+rogue_area = { 
+	provinces = { 4585 4587 391 392 4440 4438 6459 4439 4586 6721 6722 4076 4075 6723 }
+}
+klamath_area = { 
+	provinces = { 8804 8397 8398 4285 4283 4284 8805 390 }
+}
+imperial_valley_area = { 
+	provinces = { 8051 5873 5872 5871 1300 1303 1301 1302 }
+}

@@ -202,3 +202,39 @@ maritimes_region = { #6
 		petitcodiac_area miramichi_area new_brunswick_area restigouche_area
 	}
 }
+socal_region = { #6
+	color = rgb { 255 175 20 }
+	areas = {
+		san_diego_area transverse_range_area mojave_area anaheim_area inland_empire_area los_angeles_area
+	}
+}
+nevada_region = { #5
+	color = rgb { 200 200 200 }
+	areas = {
+		death_valley_area strip_area churchhill_area nevada_area northern_basin_area
+	}
+}
+andreas_region = { #4
+	color = rgb { 186 22 12 }
+	areas = {
+		salinas_area west_bay_area east_bay_area winelands_area 
+	}
+}
+the_valley_region = { #4
+	color = rgb { 125 255 50 }
+	areas = {
+		kern_area mariposa_area fresno_area motherlode_area
+	}
+}
+sacramento_region = { #4
+	color = rgb { 70 112 54 }
+	areas = {
+		yolo_area sacramento_area nevada_city_area north_valley_area
+	}
+}
+jefferson_region = { #4
+	color = rgb { 100 100 230 }
+	areas = {
+		redwoods_area klamath_area modoc_area shasta_cascade_area rogue_area
+	}
+}

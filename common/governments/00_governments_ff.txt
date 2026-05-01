@@ -1,0 +1,226 @@
+﻿federal = { #Federal Government
+	military_ideas = 1
+	civic_ideas = 1
+	oratory_ideas = 1
+	religious_ideas = 1
+	type = republic
+	
+	bonus = {
+		global_citizen_happyness = happiness_large_svalue
+		monthly_political_influence_modifier = 0.10
+		war_score_cost = -0.1
+	}
+	base = {
+		country_civilization_value = 25
+	}
+	
+	minimum_electable_age = 35
+
+	has_co_ruler = yes
+
+	election_delay = 10
+	ruler_term = 4
+	
+	color = rgb { 9 17 59 }
+}
+
+titanate = { 
+	civic_ideas = 2
+	religious_ideas = 1
+	type = monarchy
+	
+	bonus = {
+		global_slaves_output = 0.1
+		build_cost = -0.05
+	}
+	base = {
+		country_civilization_value = 20
+		deify_ruler_cost_modifier = -0.10
+	}
+	
+	election_delay = 0
+	
+	use_regnal_numbers = yes
+	
+	ruler_consort_benefits = yes
+
+	color = rgb { 181 135 65 }
+}
+
+## Ported from GotN ##
+
+egyptian_dynasty = { 
+	military_ideas = 1
+	civic_ideas = 1
+	religious_ideas = 2
+	type = monarchy
+	
+	bonus = {
+		global_slaves_output = 0.1
+		change_pantheon_cost_modifier = -0.9
+		happiness_for_same_religion_modifier = 0.15
+	}
+	base = {
+		country_civilization_value = 25
+		deify_ruler_cost_modifier = -0.15
+	}
+	
+	election_delay = 0
+	
+	use_regnal_numbers = yes
+	
+	
+	ruler_consort_benefits = yes
+
+	color = hsv { 0.5  0.85  0.7 }
+}
+
+piratical_diarchy = {
+	military_ideas = 2
+	oratory_ideas = 1
+	revolt = no
+	type = monarchy
+
+	bonus = {
+		global_freemen_output = output_large_svalue
+		naval_morale_modifier = 0.1
+	}
+	base = {
+		country_civilization_value = 20
+		global_freemen_city_desired_pop_ratio = 0.1
+	}
+
+	election_delay = 0
+	use_regnal_numbers = yes
+
+	has_co_ruler = yes
+
+	color = rgb { 10 10 10 }
+}
+
+grand_republic = { # t4 Republic
+	military_ideas = 1
+	civic_ideas = 1
+	oratory_ideas = 1
+	religious_ideas = 1
+	revolt = no
+	type = republic
+	
+	bonus = {
+		monthly_political_influence_modifier = 0.10
+		global_freemen_happyness = happiness_large_svalue
+		global_citizen_happyness = happiness_large_svalue
+	}
+	base = {
+		country_civilization_value = 30
+	}
+	
+	minimum_electable_age = 25
+
+	election_delay = 10
+	ruler_term = 5
+	
+	color = rgb { 24 51 112 } 
+}
+
+league_republic = { #League
+	military_ideas = 1
+	civic_ideas = 1
+	religious_ideas = 1
+	type = republic
+	
+	bonus = {
+		global_citizen_happyness = happiness_large_svalue
+		global_tax_modifier = 0.10
+		global_monthly_state_loyalty = 0.03
+	}
+	base = {
+		country_civilization_value = 20
+	}
+	
+	minimum_electable_age = 35
+	election_delay = 10
+	ruler_term = 5
+	
+	color = rgb { 46 79 109 }
+	
+	can_deify_ruler = no
+}
+
+mercenary_republic = { #Mercenary Republic
+	military_ideas = 2
+	oratory_ideas = 1
+	type = republic
+	
+	bonus = {
+		mercenary_land_maintenance_cost = -0.20
+		recruit_mercenary_cost_modifier = -0.20
+	}
+	base = {
+		country_civilization_value = 20
+		civil_war_threshold = -0.05
+		global_freemen_city_desired_pop_ratio = 0.05
+	}
+	
+	minimum_electable_age = 35
+	election_delay = 10
+	ruler_term = 5
+	
+	has_co_ruler = yes
+	
+	color = rgb { 0 19 34 }
+	
+	can_deify_ruler = no
+}
+
+pirate_republic = { #Pirate Republic
+	military_ideas = 2
+	civic_ideas = 1
+	type = republic
+	
+	bonus = {
+		enslavement_efficiency = 0.10
+		mercenary_naval_maintenance_cost = -0.20
+	}
+	base = {
+		country_civilization_value = 20
+		civil_war_threshold = -0.05
+		global_freemen_city_desired_pop_ratio = 0.05
+	}
+	
+	minimum_electable_age = 25
+	election_delay = 10
+	ruler_term = 5
+	
+	has_co_ruler = yes
+	
+	color = rgb { 7 17 29 }
+	
+	can_deify_ruler = no
+}
+
+gaul_tribal_kingdom = { # kinship????
+	oratory_ideas = 1
+	civic_ideas = 1
+	military_ideas = 1
+	type = tribal
+	
+	has_co_ruler = yes 
+
+	ruler_consort_benefits = yes
+	use_regnal_numbers = yes
+
+	bonus = {
+		global_freemen_desired_pop_ratio = 0.10
+		global_citizen_desired_pop_ratio = 0.10
+		global_pop_promotion_speed_modifier = 0.25
+	}
+	base = {
+		country_civilization_value = 10
+		global_tribesmen_happyness = 0.08
+	}
+
+	election_delay = 0
+	
+	color = rgb { 45 91 65 }
+}

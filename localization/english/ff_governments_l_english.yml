@@ -1,0 +1,14 @@
+﻿l_english:
+ federal:0 "Federal"
+ federal_desc:0 "Representing the government of the pre-Event United States, the Federal Government is heavily legalistic, with the three branches, Executive, Legislative, and Judicial, all having checks and balances against the other branches, and each branch plays their part in representing the people."
+ federal_ruler:0 "President"
+ federal_ruler_female:0 "President"
+ federal_co_ruler:0 "Vice President"
+ federal_co_ruler_female:0 "Vice President"
+
+ titanate:0 "Titanate"
+ titanate_desc:0 "Ruled by the divinely ordained rulers of Promethean Society, these powerful despots claim descent from various Titans worshiped by various Industrialists. They serve as priest-kings, responsible for securing the blessings of Industry and directing the labor of their subjects towards prosperity. Balancing religious and political authority, they act as intermediaries between the mortal realm and Industry, governing society and ensuring the harmonious interplay between divine forces and mortal endeavors."
+ titanate_ruler:0 "Titan-King"
+ titanate_ruler_female:0 "Titan-Queen"
+ titanate_consort:0 "Titan-Queen"
+ 

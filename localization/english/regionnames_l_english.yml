@@ -31,6 +31,12 @@
  old_star_region:0 "Old Star"
  kansas_region:0 "Grangeland"
  ontario_region:0 "Ontario"
+ socal_region:0 "Socal"
+ jefferson_region:0 "Jefferson"
+ sacramento_region:0 "Sacramento"
+ andreas_region:0 "Andreas"
+ nevada_region:0 "Nevada"
+ the_valley_region:0 "San Joaquin"
 
  ## AREAS ##
  philadelphia_area:0 "Delaware Valley"

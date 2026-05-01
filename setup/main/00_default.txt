@@ -5,7 +5,7 @@ country = {
 		}
 
 		PRI = {
-			government = theocratic_republic
+			government = federal
 			primary_culture = youser
 			religion = americanist
 			capital = 4077
@@ -286,7 +286,7 @@ country = {
 			}
 		}
 		MIC = {
-			government = theocratic_monarchy
+			government = titanate
 			primary_culture = motowner
 			religion = promethean
 			capital = 571
@@ -309,7 +309,7 @@ country = {
 			}
 		}
 		OHO = {
-			government = theocratic_monarchy
+			government = titanate
 			primary_culture = buckeye
 			religion = promethean
 			capital = 7498
@@ -331,7 +331,7 @@ country = {
 			}
 		}
 		ALG = {
-			government = theocratic_monarchy
+			government = titanate
 			primary_culture = yinzic
 			religion = promethean
 			capital = 9038
@@ -351,7 +351,7 @@ country = {
 			}
 		}
 		STL = {
-			government = theocratic_monarchy
+			government = titanate
 			primary_culture = gatewayan
 			religion = promethean
 			capital = 4206
@@ -371,7 +371,7 @@ country = {
 		}
 
 		IND = { #Indiana
-			government = theocratic_monarchy
+			government = titanate
 			primary_culture = hoosier
 			religion = promethean
 			capital = 7749
