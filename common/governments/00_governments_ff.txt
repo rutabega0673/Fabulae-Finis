@@ -69,6 +69,29 @@ military_dictatorship = {
 	color = rgb { 60 10 99 }
 }
 
+military_district = { 
+	military_ideas = 2
+	civic_ideas = 1
+	type = monarchy
+	
+	bonus = {
+		global_monthly_state_loyalty = 0.03
+		global_citizen_output = 0.05
+	}
+	base = {
+		country_civilization_value = 20
+		global_unrest = 0.03
+	}
+	
+	election_delay = 0
+	
+	use_regnal_numbers = yes
+	
+	ruler_consort_benefits = yes
+
+	color = rgb { 108 75 121 }
+}
+
 ## Ported from GotN ##
 
 egyptian_dynasty = { 

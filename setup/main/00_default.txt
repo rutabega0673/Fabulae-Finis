@@ -449,6 +449,42 @@ country = {
 				9127 9124 9125 411 9128 6602 6601 9126 6600 1815 1301
 			}
 		}
+
+		REN = { # Reno District
+			government = military_district
+			primary_culture = battleborn
+			religion = caesarist
+			capital = 2816
+
+			technology={
+				military_tech={ level=2 progress=0 }
+				civic_tech={ level=2 progress=0 }
+				religious_tech= { level=2 progress=0  }
+				oratory_tech= { level=2 progress =0 }
+			}
+
+			own_control_core = {
+				2816 2815 2814 7904 7903 6719 6145 6720 345 7905 344
+			}
+		}
+
+		PUG = { # Puget District
+			government = military_district
+			primary_culture = cascadian
+			religion = caesarist
+			capital = 7604
+
+			technology={
+				military_tech={ level=2 progress=0 }
+				civic_tech={ level=2 progress=0 }
+				religious_tech= { level=2 progress=0  }
+				oratory_tech= { level=2 progress =0 }
+			}
+
+			own_control_core = {
+				7604 7603 7602 4043 4044 9048 9051 4464 4045 5422 5421 1560 1561 1562 5420
+			}
+		}
 	}
 }
 

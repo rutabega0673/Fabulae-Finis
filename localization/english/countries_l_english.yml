@@ -62,6 +62,10 @@
  SAC_ADJ:0 "Californian" 
  NCR:0 "New California Republic"
  NCR_ADJ:0 "Californian"
+ REN:0 "District of Reno"
+ REN_ADJ:0 "Renoite"
+ PUG:0 "District of Puget"
+ PUG_ADJ:0 "Pugite"
 
 # Gaelic #
  AUTINI:0 "Autinia"

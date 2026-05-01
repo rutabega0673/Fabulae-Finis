@@ -32,3 +32,5 @@ LAF = "setup/countries/south/lafayette.txt"
 #West Coast
 SAC = "setup/countries/west_coast/sacramento.txt"
 NCR = "setup/countries/west_coast/san_diego.txt"
+REN = "setup/countries/west_coast/reno.txt"
+PUG = "setup/countries/west_coast/puget.txt"

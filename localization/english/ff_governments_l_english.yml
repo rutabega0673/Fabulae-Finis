@@ -16,4 +16,9 @@
  military_dictatorship_desc:0 "The military has seized power in this state, claiming legitimacy from military might, as well as divine ordination. The General or Dictator is the supreme leader of this state, abandoning all pretenses of democratic rule in favor of an absolute one."
  military_dictatorship_ruler:0 "General of the Army"
  military_dictatorship_ruler_female:0 "General of the Army"
+
+ military_district:0 "Military District"
+ military_district_desc:0 "Claiming legitmacy from the now long defunct Commands, various Military Districts dot the Western United States, ruling zones under martial law, of course all for the betterment of the local populous and eventual restoration of the Nation."
+ military_district_ruler:0 "District Commander"
+ military_district_ruler_female:0 "District Commander"
  
