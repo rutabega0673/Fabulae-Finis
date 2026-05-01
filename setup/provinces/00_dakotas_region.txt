@@ -1,6 +1,6 @@
 ﻿342={ #
 	terrain="plains"
-	culture=""
+	culture="nakota"
 	religion="loneranger"
 	trade_goods=""
 	civilization_value=10
@@ -52,7 +52,7 @@
 
 972={ #
 	terrain="steppes"
-	culture=""
+	culture="mandaree"
 	religion="loneranger"
 	trade_goods="buffalo"
 	civilization_value=10
@@ -65,7 +65,7 @@
 
 973={ #
 	terrain="steppes"
-	culture=""
+	culture="mandaree"
 	religion="loneranger"
 	trade_goods=""
 	civilization_value=10
@@ -78,7 +78,7 @@
 
 974={ #
 	terrain="steppes"
-	culture=""
+	culture="mandaree"
 	religion="loneranger"
 	trade_goods=""
 	civilization_value=10
@@ -91,7 +91,7 @@
 
 990={ #
 	terrain="plains"
-	culture="heartlander"
+	culture="badlander"
 	religion="loneranger"
 	trade_goods=""
 	civilization_value=10
@@ -104,7 +104,7 @@
 
 991={ #
 	terrain="plains"
-	culture=""
+	culture="badlander"
 	religion="loneranger"
 	trade_goods=""
 	civilization_value=10
@@ -117,7 +117,7 @@
 
 992={ #
 	terrain="plains"
-	culture="heartlander"
+	culture="badlander"
 	religion="loneranger"
 	trade_goods=""
 	civilization_value=10
@@ -130,7 +130,7 @@
 
 1329={ #
 	terrain="plains"
-	culture="heartlander"
+	culture="badlander"
 	religion="peyotist"
 	trade_goods=""
 	civilization_value=10
@@ -143,7 +143,7 @@
 
 1331={ #
 	terrain="plains"
-	culture="heartlander"
+	culture="badlander"
 	religion="loneranger"
 	trade_goods=""
 	civilization_value=10
@@ -468,7 +468,7 @@
 
 3932={ #
 	terrain="steppes"
-	culture=""
+	culture="nakota"
 	religion="loneranger"
 	trade_goods=""
 	civilization_value=10
@@ -481,7 +481,7 @@
 
 3933={ #
 	terrain="steppes"
-	culture=""
+	culture="nakota"
 	religion="loneranger"
 	trade_goods=""
 	civilization_value=10
@@ -494,7 +494,7 @@
 
 3934={ #
 	terrain="steppes"
-	culture=""
+	culture="badlander"
 	religion="loneranger"
 	trade_goods=""
 	civilization_value=10
@@ -533,7 +533,7 @@
 
 4159={ #
 	terrain="steppes"
-	culture="lakota"
+	culture="badlander"
 	religion="peyotist"
 	trade_goods=""
 	civilization_value=10
@@ -611,7 +611,7 @@
 
 5298={ #
 	terrain="steppes"
-	culture="lakota"
+	culture="badlander"
 	religion="loneranger"
 	trade_goods=""
 	civilization_value=10
@@ -624,7 +624,7 @@
 
 5299={ #
 	terrain="steppes"
-	culture="lakota"
+	culture="badlander"
 	religion="peyotist"
 	trade_goods=""
 	civilization_value=10
@@ -884,7 +884,7 @@
 
 7147={ #
 	terrain="steppes"
-	culture=""
+	culture="mandaree"
 	religion="loneranger"
 	trade_goods=""
 	civilization_value=10
@@ -897,7 +897,7 @@
 
 7148={ #
 	terrain="steppes"
-	culture=""
+	culture="mandaree"
 	religion="loneranger"
 	trade_goods=""
 	civilization_value=10
@@ -910,7 +910,7 @@
 
 7149={ #
 	terrain="steppes"
-	culture=""
+	culture="mandaree"
 	religion="loneranger"
 	trade_goods=""
 	civilization_value=10
@@ -1079,7 +1079,7 @@
 
 9087={ #
 	terrain="steppes"
-	culture=""
+	culture="mandaree"
 	religion="loneranger"
 	trade_goods=""
 	civilization_value=10
@@ -1092,7 +1092,7 @@
 
 9117={ #
 	terrain="plains"
-	culture="heartlander"
+	culture="badlander"
 	religion="peyotist"
 	trade_goods="buffalo"
 	civilization_value=10
@@ -1105,7 +1105,7 @@
 
 9118={ #
 	terrain="steppes"
-	culture="lakota"
+	culture="badlander"
 	religion="peyotist"
 	trade_goods=""
 	civilization_value=10
@@ -1118,7 +1118,7 @@
 
 9119={ #
 	terrain="steppes"
-	culture="heartlander"
+	culture="badlander"
 	religion="loneranger"
 	trade_goods=""
 	civilization_value=10
@@ -1131,7 +1131,7 @@
 
 9314={ #
 	terrain="steppes"
-	culture=""
+	culture="nakota"
 	religion="loneranger"
 	trade_goods=""
 	civilization_value=10
@@ -1144,7 +1144,7 @@
 
 9315={ #
 	terrain="steppes"
-	culture="heartlander"
+	culture="badlander"
 	religion="loneranger"
 	trade_goods=""
 	civilization_value=10
@@ -1157,7 +1157,7 @@
 
 9316={ #
 	terrain="steppes"
-	culture="heartlander"
+	culture="badlander"
 	religion="loneranger"
 	trade_goods="buffalo"
 	civilization_value=10

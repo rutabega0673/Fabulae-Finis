@@ -234,7 +234,7 @@
 
 3540={ #
 	terrain="marsh"
-	culture=""
+	culture="gullah"
 	religion="evangelical"
 	trade_goods="rice"
 	civilization_value=10
@@ -247,7 +247,7 @@
 
 3541={ #
 	terrain="marsh"
-	culture=""
+	culture="gullah"
 	religion="evangelical"
 	trade_goods="fish"
 	civilization_value=10
@@ -338,7 +338,7 @@
 
 6544={ #
 	terrain="forest"
-	culture="tuskegean"
+	culture="sandlapper"
 	religion="evangelical"
 	trade_goods=""
 	civilization_value=10
@@ -351,7 +351,7 @@
 
 6545={ #
 	terrain="forest"
-	culture="tuskegean"
+	culture="sandlapper"
 	religion="evangelical"
 	trade_goods=""
 	civilization_value=10
@@ -377,7 +377,7 @@
 
 6547={ #
 	terrain="marsh"
-	culture=""
+	culture="sandlapper"
 	religion="evangelical"
 	trade_goods="cloth"
 	civilization_value=10
@@ -468,7 +468,7 @@
 
 7796={ #
 	terrain="forest"
-	culture="tuskegean"
+	culture="sandlapper"
 	religion="evangelical"
 	trade_goods=""
 	civilization_value=10

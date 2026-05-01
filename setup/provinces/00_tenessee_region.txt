@@ -105,7 +105,7 @@
 1012={ #
 	terrain="plains"
 	culture="gatewayan"
-	religion="revelationist"
+	religion="egyptology"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0

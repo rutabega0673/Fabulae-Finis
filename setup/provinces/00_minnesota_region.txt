@@ -92,7 +92,7 @@
 327={ #Wakute
 	terrain="plains"
 	culture="minnesotan"
-	religion="ozymandism"
+	religion="lutheran"
 	trade_goods="cloth"
 	civilization_value=10
 	barbarian_power=0
@@ -403,7 +403,7 @@
 
 5675={ #
 	terrain="forest"
-	culture=""
+	culture="metis"
 	religion="midewiwin"
 	trade_goods="fur"
 	civilization_value=10
@@ -482,7 +482,7 @@
 7077={ #Anunka
 	terrain="plains"
 	culture="minnesotan"
-	religion="ozymandism"
+	religion="viking"
 	trade_goods="wine"
 	civilization_value=10
 	barbarian_power=0
@@ -560,7 +560,7 @@
 8024={ #Bdoté
 	terrain="farmland"
 	culture="minnesotan"
-	religion="ozymandism"
+	religion="promethean"
 	trade_goods="cloth"
 	civilization_value=10
 	barbarian_power=0
@@ -573,7 +573,7 @@
 8025={ #Mníhaha
 	terrain="farmland"
 	culture="minnesotan"
-	religion="ozymandism"
+	religion="promethean"
 	trade_goods="marble"
 	civilization_value=10
 	barbarian_power=0
@@ -586,7 +586,7 @@
 8026={ #
 	terrain="farmland"
 	culture="minnesotan"
-	religion="ozymandism"
+	religion="promethean"
 	trade_goods="earthware"
 	civilization_value=10
 	barbarian_power=0
@@ -612,7 +612,7 @@
 8150={ #Cokato
 	terrain="plains"
 	culture="minnesotan"
-	religion="ozymandism"
+	religion="lutheran"
 	trade_goods="fur"
 	civilization_value=10
 	barbarian_power=0
@@ -625,7 +625,7 @@
 8151={ #
 	terrain="farmland"
 	culture="minnesotan"
-	religion="ozymandism"
+	religion="viking"
 	trade_goods="tubers"
 	civilization_value=10
 	barbarian_power=0
@@ -716,7 +716,7 @@
 8405={ #Shák'pí
 	terrain="farmland"
 	culture="minnesotan"
-	religion="ozymandism"
+	religion="lutheran"
 	trade_goods="grain"
 	civilization_value=10
 	barbarian_power=0
@@ -742,7 +742,7 @@
 8407={ #Chanhasen
 	terrain="plains"
 	culture="minnesotan"
-	religion="ozymandism"
+	religion="lutheran"
 	trade_goods="wild_game"
 	civilization_value=10
 	barbarian_power=0

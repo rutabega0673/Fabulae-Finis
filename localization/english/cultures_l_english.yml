@@ -177,6 +177,69 @@
  joaquino:0 "Joaquino"
  socaleno:0 "Socaleno"
  cahuilla:0 "Cachanchilla"
+
+ ## Frontieran ##
+ frontieran:0 "Frontieran"
+ battleborn:0 "Battleborn"
+ mojavean:0 "Mojavean"
+ arixan:0 "Arixan"
+ utahn:0 "Utahn"
+
+ ## Geechee ##
+ geechee:0 "Geechee"
+ gullah:0 "Gullah"
+
+ ## Great Basin ##
+ great_basin:0 "Great Basin"
+ paiute:0 "Paiute"
+ ute:0 "Ute"
+
+ ## North-Pacific ##
+ north_pacific:0 "North-Pacific"
+ canuck:0 "Canuck"
+ cascadian:0 "Cascadian"
+ doukhobor:0 "Doukhobor"
+ inlander:0 "Inlander"
+ juniperian:0 "Juniperian"
+ meseteno:0 "Meseteno"
+ okanaganer:0 "Okanaganer"
+ snakelander:0 "Snakelander"
+ jeffersonian:0 "Jeffersonian"
+
+ ## Plains ##
+ plains:0 "Plains"
+ arapaho:0 "Arapaho"
+ blackfoot:0 "Blackfoot"
+ cheyenne:0 "Cheyenne"
+ comanche:0 "Comanche"
+ crow:0 "Crow"
+ kiowa:0 "Kiowa"
+ mandaree:0 "Mandaree"
+ metis:0 "Métis"
+ nehiyaw:0 "Nêhiyaw"
+ pawnee:0 "Pawnee"
+
+ ## Plateau ##
+ plateau:0 "Plateau"
+ apache:0 "Apache"
+ hopi:0 "Hopi"
+ hualapai:0 "Hualapai"
+ keres:0 "Keres"
+ navajo:0 "Navajo"
+ oodham:0 "O'odham"
+ zuni:0 "Zuni"
+
+ ## Prairie ## 
+ prairie:0 "Prairie"
+ prairielander:0 "Prairielander"
+ badlander:0 "Badlander"
+ preiryansky:0 "Preiryansky" 
+
+ ## Rockland ##
+ rockland:0 "Rockland"
+ coloradan:0 "Coloradan"
+ montaneer:0 "Montaneer"
+ neomexicano:0 "Neomexicano"
  
 
  ## NAMING ##

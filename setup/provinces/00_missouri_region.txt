@@ -222,7 +222,7 @@
 4000={ #
 	terrain="plains"
 	culture="gatewayan"
-	religion="catholic"
+	religion="egyptology"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0

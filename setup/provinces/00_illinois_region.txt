@@ -14,7 +14,7 @@
 321={ #
 	terrain="plains"
 	culture="gatewayan"
-	religion="catholic"
+	religion="egyptology"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -27,7 +27,7 @@
 322={ #
 	terrain="plains"
 	culture="gatewayan"
-	religion="catholic"
+	religion="egyptology"
 	trade_goods="grain"
 	civilization_value=10
 	barbarian_power=0
@@ -40,7 +40,7 @@
 323={ #
 	terrain="plains"
 	culture="gatewayan"
-	religion="catholic"
+	religion="egyptology"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0

@@ -156,7 +156,7 @@
 
 1868={ #
 	terrain="marsh"
-	culture=""
+	culture="gullah"
 	religion="evangelical"
 	trade_goods="spices"
 	civilization_value=10
@@ -689,7 +689,7 @@
 
 6352={ #
 	terrain="marsh"
-	culture=""
+	culture="gullah"
 	religion="springsearcher"
 	trade_goods="fish"
 	civilization_value=10
@@ -858,7 +858,7 @@
 
 8762={ #
 	terrain="marsh"
-	culture=""
+	culture="gullah"
 	religion="evangelical"
 	trade_goods=""
 	civilization_value=10
@@ -884,7 +884,7 @@
 
 8764={ #
 	terrain="marsh"
-	culture=""
+	culture="gullah"
 	religion="evangelical"
 	trade_goods=""
 	civilization_value=10
