@@ -337,7 +337,18 @@ male_hair_mauryan_5 = {
 	
 }
 
+## AMERICANIST ##
+male_hair_american_1 = {
+	entity = { required_tags = "no_hair"					node = shared_pose_entity		entity = "male_hair_roman_3_entity" }
+	entity = { required_tags = ""					node = shared_pose_entity		entity = "male_hair_american_1_entity" }
+	
+}
 
+male_hair_american_2 = {
+	entity = { required_tags = "no_hair"					node = shared_pose_entity		entity = "male_hair_roman_3_entity" }
+	entity = { required_tags = ""					node = shared_pose_entity		entity = "male_hair_american_2_entity" }
+	
+}
 
 #####################################
 #									#
@@ -507,6 +518,15 @@ female_hair_mauryan_2_color3 = {
 
 female_hair_mauryan_2_color4 = {
 	entity = { required_tags = ""					node = shared_pose_entity		entity = "female_hair_mauryan_2_color4_entity"  }
+}
+
+## AMERICANIST ##
+female_hair_american_1 = {
+	entity = { required_tags = ""					node = shared_pose_entity		entity = "female_hair_american_1_entity"  }
+}
+
+female_hair_american_2 = {
+	entity = { required_tags = ""					node = shared_pose_entity		entity = "female_hair_american_2_entity"  }
 }
 
 #####################################

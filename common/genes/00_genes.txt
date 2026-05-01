@@ -7178,6 +7178,21 @@ accessory_genes = {
             boy = male
             girl = female
         }
+
+		#ATE
+        americanist_hairstyles = {
+            index = 19
+            male = {
+                1 = male_hair_american_1
+                1 = male_hair_american_2
+            }
+            female = {
+               1 = female_hair_american_1
+               1 = female_hair_american_2
+            }
+            boy = male
+            girl = female
+        }
     }
 
     
