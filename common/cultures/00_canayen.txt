@@ -10,37 +10,333 @@
 	primary_navy = tetrere
 	secondary_navy = octere
 	flank_navy = liburnian
-
-	male_names = {
-		Tarxun Ramch Axak Maxak Uxuchan Shaow Wanxanak Awekat Baxuman Chukshek Ratsh Ramtish Ayus Katch Arxata Exak Sheshch Oxyartes Spitamenes Artaxerxes Burz Orzek Samtish Bexak Arzun Shaw Entysh Anxach Wius Bharzun Bharxuman 
-	}
-	female_names = {
-		Roxana Rayun Roshanak Baxunash Roshan Saryash Zunesh Mayara Koshana Hephta Hashchana Ixeni Oniya Wyara Awxa Oshan Riyun 
-	}
-	family = {
-		Tarixanian.Tarixanian.Tarixanian.Tarixanian
-		Arzakanian.Arzakanian.Arzakanian.Arzakanian
-		Axumenian.Axumenian.Axumenian.Axumenian
-		Wanxanian.Wanxanian.Wanxanian.Wanxanian
-		Rachnian.Rachnian.Rachnian.Rachnian
-		Burzen.Burzen.Burzen.Burzenid
-		Semshan.Semshan.Semshan.Semshanian
-		Orzan.Orzan.Orzan.Orzan
-		Bharzunian.Bharzunian.Bharzunian.Bharzunian
-		Wyaran.Wyaran.Wyaran.Wyaran
-		Oxian.Oxian.Oxian.Oxian
-		Arxatan.Arxatan.Arxatan.Arxatan
-		Spitamenian.Spitamenian.Spitamenian.Spitamenian
-		Artaxian.Artaxian.Artaxian.Artaxian
-		Orxenian.Orxenian.Orxenian.Orxenian
-		Arzunian.Arzunian.Arzunian.Arzunian
-		Aynian.Aynian.Aynian.Aynian
+    #Quebecois names
+	male_names = { Abderrahmane Aboubacar Ad_e_act_lard Ad_e_act_odat Adam Adh_e_act_mar Adolphe Adrien Aim_e_act_ Alain Albert Alexandre Alexis Alfred Alphonse Am_e_act_d_e_act_e Amable Andr_e_act_ Andronic Antoine Aristide Armand Arnaud Arthur Athanase Auguste Augustin Aur_e_act_lien Aur_e_grv_le Aymeric Azaire Baptiste Barth_e_act_lemy Basile Batiscan Belkacem Benjamin Beno_i_hat_t Bernard Bertrand Blaise Bonaventure Bruno C_e_act_cil C_e_act_dric C_e_act_lestin C_o_hat_me Calixte Camille Camillien Cartier Charles Charles-Aim_e_act_ Charles-Andr_e_act_ Charles-Antoine Charles-Auguste Charles-Borrom_e_act_e Charles-E_act_douard Charles-E_act_mile Charles-Eug_e_grv_ne Charles-Eus_e_grv_be Charles-Fran_c_ced_ois Charles-Henri Charles-Marie Christophe Cl_e_act_ment Cl_e_act_ophas Claude Claude-Andr_e_act_ Claude-Henri Clermont Constant Cyrille Damase Damien Daniel David Denis Didier Dieudonn_e_act_ Dimitri Dollard Dosith_e_act_ Dustin E_act_douard E_act_lie E_act_loi E_act_mery E_act_mile E_act_milien E_act_phrem E_act_ric E_act_tienne E_act_tienne-Paschal Elph_e_act_ge Elz_e_act_ar Euclide Eudore Eug_e_grv_ne Eus_e_grv_be Eustache F_e_act_lix Fabien Fabrice Fernand Fr_e_act_d_e_act_ric Fran_c_ced_ois Fran_c_ced_ois-Marie Fran_c_ced_ois-Maurice Fran_c_ced_ois-Olivier Fran_c_ced_ois-Philippe Fran_c_ced_ois-Pierre Fran_c_ced_ois-Xavier G_e_act_d_e_act_on G_e_act_rald G_e_act_rard Ga_e_act_tan Gabriel Gaspard Gaston Geoffroy Georges Georges-E_act_mile Georges-E_act_tienne Georges-Henri Georges-Marie Georges-Raoul Georges-Ren_e_act_ Germain Ghislain Gilbert Gilles Girard Gonzague Gratien Guillaume Gustave Guy Harpo Hector Hector-Louis Henri Henri-Edgar Henri-Paul Hilaire Hippolyte Honor_e_act_ Horace Hormisdas Hubert Hugues Ignace Isidore Isma_e_uml_l Isra_e_uml_l J_e_act_r_e_act_my J_e_act_rome Jacques Jean Jean-Arthur Jean-Baptiste Jean-Beno_i_hat_t Jean-C_o_hat_me Jean-Charles Jean-Christophe Jean-Claude Jean-Denis Jean-Docile Jean-Eudes Jean-Fran_c_ced_ois Jean-Georges Jean-Gilles Jean-Guy Jean-Hugues Jean-Jacques Jean-L_e_act_o Jean-Louis Jean-Luc Jean-Marc Jean-Marie Jean-Michel Jean-No_e_uml_l Jean-Patrick Jean-Paul Jean-Philippe Jean-Pierre Jean-Ren_e_act_ Jean-Roch Jean-S_e_act_bastien Jean-Yves Jo_e_uml_l Jonathan Joseph Joseph-Adolphe Joseph-Andr_e_act_ Joseph-Armand Joseph-Arthur Joseph-E_act_douard Joseph-Eug_e_grv_ne Joseph-Louis Joseph-Octave Joseph-Ren_e_act_ Joseph-Rom_e_act_o Josu_e_act_ Jules Julien Junior Justin Kevin Khaled L_e_act_andre L_e_act_o L_e_act_o-Paul L_e_act_otale L_e_act_vis Laur_e_act_at Laurent Laurier Lini_e_grv_re Lionel Lo_i_uml_c Lotaire Louis Louis-Alexandre Louis-Alphonse Louis-Amable Louis-Ars_e_grv_ne Louis-Charles Louis-E_act_ric Louis-E_act_tienne Louis-Edmond Louis-Fran_c_ced_ois Louis-Gabriel Louis-Hippolyte Louis-Honor_e_act_ Louis-Joseph Louis-Marie Louis-Napol_e_act_on Louis-Olivier Louis-Paul Louis-Philippe Louis-Pierre Louis-Sim_e_act_on Luc Lucien Ludger Ludovic M_e_act_d_e_act_ric M_e_act_dard Marc Marc-Andr_e_act_ Marc-Antoine Marc-Olivier Marcel Mario Martial Martin Mathieu Maurice Maxence Maxime Maximilien Michel Michel-Louis Michel-Sidrac Mo_i_uml_se N_e_act_r_e_act_e Napol_e_act_on Narcisse Nicolas Normand Octave Odilon Olivier Omer On_e_act_sime On_e_act_siphore Ovide Ozias Pascal Patrick Paul Paul-Aim_e_act_ Paul-Andr_e_act_ Paul-Antoine Paul-Arthur Paul-E_act_mile Paul-E_act_milien Paul-Edmond Paul-Henri Paul-Timoth_e_act_e Phil_e_act_mon Philippe Philippe-Alexandre Philippe-Auguste Pierre Pierre-Alexandre Pierre-E_act_mile Pierre-E_act_tienne Pierre-E_act_variste Pierre-Joseph Pierre-Louis Pierre-Luc Pierre-Marie Pierre-Michel Pierre-Yves Placide Prax_e_grv_de R_e_act_al R_e_act_gis R_e_act_jean R_e_act_mi Raoul Rapha_e_uml_l Raymond Raynald Ren_e_act_ Renaud Robert Roch Rodolphe Rodrigue Roger Roland Rom_e_act_o Romuald Rosaire S_e_act_bastien S_e_act_v_e_grv_re S_e_act_verin Sacha Samuel Sarto Serge Simon Simon-Pierre St_e_act_phane Stanislas Sylvain Tancr_e_grv_de Th_e_act_odore Th_e_act_og_e_grv_ne Th_e_act_ophile Thibaud Thierry Thomas Thomas-E_act_tienne Ubald Uld_e_act_ric Ulysse Urbain Valery Valmont Vianney Victor Victor-L_e_act_vy Victor-Marie Vincent Wei Wenceslas Wilfrid Xavier Yann Yannick Yassine Yves Z_e_act_non Z_e_act_phyrin Zacharie Zotique }
+	female_names = { Abiga_e_uml_lle Ad_e_grv_le Adeline Adrienne Adjutor Agn_e_grv_s Agrippine Aim_e_act_e Albertine Alexandra Alexandrine Alice Alix Am_e_act_lie Ana_i_uml_s Anabelle Andr_e_act_anne Andr_e_act_e Anique Anne Anne-E_act_lisabeth Anne-Julie Anne-Marie Anne-Sophie Annick Antionette Apolline Arianne Aude Audrey Aur_e_act_lie Aurore Axelle B_e_act_atrice Bernadette Blanche Brigitte C_e_act_cile C_e_act_line Camille Carmen Carole Caroline Catherine Chantal Charlotte Charmaine Chlo_e_act_ Christianne Christine Cl_e_act_mence Claire Claudine Colette Concordie Constance D_e_act_sir_e_act_e Danielle Denise Desneiges Diane Dominique Doroth_e_act_e E_act_l_e_act_onore E_act_laine E_act_lisabeth E_act_lise E_act_lodie E_act_milie E_act_velyne E_grv_ve E_grv_ve-Marie Emma Esther F_e_act_licia Flavie Fleurette Flore Florence Fr_e_act_d_e_act_rique Fran_c_ced_oise France Francine Ga_e_act_tane Gabrielle Genevi_e_grv_ve Germaine Gertrude Ginette Gis_e_grv_le Guylaine H_e_act_l_e_grv_ne H_e_act_lo_i_uml_se Henriette Hind Ir_e_grv_ne Isabelle Isadora Jacinthe Jacqueline Janice Janine Jasmine Jeanette Jeanne Jeanne-d_pst_Arc Jeanne-Mance Jeannine Jo_e_uml_lle Jocelyn Jos_e_act_e Jos_e_act_phine Josianne Jovette Juanita Judith Julie Juliette Justine Karine Kateri Kim L_e_act_a L_e_act_onie L_e_act_opoldine Laure Laurence Laurin Liliane Lise Lisette Lorraine Louise Louisette Lucie Lucienne Lucine M_e_act_lanie M_e_act_lissa Madeleine Magalie Manon Marcelle Marcelline Marguerite Mariam Marianne Marie Marie-Andr_e_act_e Marie-Catherine Marie-Chantal Marie-Christine Marie-Claire Marie-Claude Marie-E_act_ve Marie-Gabrielle Marie-H_e_act_l_e_grv_ne Marie-Jos_e_act_e Marie-Laurence Marie-Louise Marie-Luce Marie-Marthe Marie-Michelle Marie-Paule Marie-Philippe Marie-Pierre Marie-Rosalie Marie-Th_e_act_r_e_grv_se Mariette Maril_e_grv_ne Martine Maryse Mathilde Maude Maxine Melyssa Mich_e_grv_le Micheline Milaine Mireille Monique Myl_e_grv_ne Nadine Nancy Nathalie Nicole No_e_act_mie No_e_uml_lle Oc_e_act_ane Odette Olympe Oph_e_act_lie Or_e_act_lie P_e_act_n_e_act_lope Pascale Patricia Pauline Pierrette R_e_act_gine Rachelle Rapha_e_uml_lle Ren_e_act_e Robertine Rolande Rosalie Rose Rose-Marie Roseline Sabine Sally Sandrine Sarah Sharon Sibylle Simone Solange Sonia Sophie Souleymane St_e_act_phanie Suzanne Sylvie Th_e_act_odora Th_e_act_r_e_grv_se Ursule V_e_act_ronique Val_e_act_rie Vanessa Virginie Vivian Yolande Yvette Yvonne Zo_e_act_ }
+	family = { #Francontarien
+		Aubut.Aubut.Aubut.Aubut
+		Aug_e_act_
+		Ault
+		Aymar
+		Ayotte
+		B_e_act_dard
+		B_e_act_lair
+		B_e_act_langer
+		B_e_act_lisle
+		B_e_act_rub_e_act_
+		B_e_act_zaire
+		Bailloquet
+		Beanish
+		Beaulne
+		Belcourt
+		Beno_i_hat_t
+		Berthiaume
+		Bisaillon
+		Bisson
+		Blais
+		Bock
+		Boissoneau
+		Boisvert
+		Bonin
+		Boucher
+		Boudreau
+		Bourcier
+		Bourgeault
+		Bourgouin
+		Bourr_e_act_
+		Bouvrette
+		Br_u_hat_l_e_act_
+		Brenot
+		Briand
+		Brisson
+		Brochu
+		Bromilow
+		Brousseau
+		Brown
+		Cadieux
+		Campeau
+		Caron
+		Carri_e_grv_re
+		Carscallen
+		Castonguay
+		Cerisano
+		Ch_e_act_nier
+		Chantelois
+		Charette
+		Charron
+		Chartrand
+		Chevrefils
+		Cl_e_act_roux
+		Cloutier
+		Collard
+		Constantineau
+		Corbeil
+		Courchesne
+		Cournoyer
+		Courtemanche
+		Courville
+		Credger
+		Cybulski
+		Dallaire
+		Dalp_e_act_
+		Damphousse
+		Daoust
+		Deburger
+		Deluce
+		Demers
+		Deschatelets
+		Desgranges
+		Desgroseillers
+		Desjardins
+		Desmarais
+		Despatie
+		Despres
+		Desrochers
+		Dicaire
+		Dickson
+		Dignard
+		Dionne
+		Dombroskie
+		Dorais
+		Dorval
+		Doyon
+		Drouin
+		Dub_e_act_
+		Dubreuil
+		Duhaime
+		Dupuis
+		Dutrisac
+		E_act_thier
+		Falardeau
+		Faucon
+		Filiatrault
+		Filion
+		Firlotte
+		Fortin
+		Foubert
+		G_e_act_linas
+		Gagn_e_act_
+		Gagnier
+		Gainsford
+		Galipeau
+		Gaudreault
+		Gauthier
+		Germain
+		Gervais
+		Giroux
+		Gobeil
+		Godbout
+		Godin
+		Grainger
+		Grandma_i_hat_tre
+		Granthien
+		Gratton
+		Gravelle
+		Gris_e_act_
+		Groulx
+		Guibord
+		Guichon
+		Guillemette
+		H_e_act_bert
+		Hartley
+		Helmer
+		Hudder
+		Hurtubise
+		Iwachniuk
+		Janveau
+		Julien
+		L_e_act_pine
+		L_e_act_tourneau
+		L_e_act_veill_e_act_
+		L_pst_E_act_cuyer
+		L_pst_E_act_riger
+		LaBelle
+		Labr_e_grv_che
+		Lacarte
+		Lacelle
+		LaCroix
+		Lad_e_act_route
+		Lafarge
+		Lafleur
+		Lafond
+		Lafontaine
+		Laforest
+		Lafortune
+		Laframboise
+		Lafrance
+		Lafreni_e_grv_re
+		Lagac_e_act_
+		Lalibert_e_act_
+		Lalonde
+		Lamadeleine
+		Lamothe
+		Langlois
+		Lapierre
+		Lapointe
+		Laprairie
+		Larivi_e_grv_re
+		LaRose
+		Larondeau
+		Laurin
+		Lavigne
+		Leclair
+		Leduc
+		Lefaive
+		Lefebvre
+		Lefran_c_ced_ois
+		Leli_e_grv_vre
+		Lemieux
+		Levac
+		Limoges
+		Lorrain
+		Mageau
+		Malouin
+		Marceau
+		Marchand
+		Marchildon
+		Marcoux
+		Marinier
+		Martin
+		Mayer
+		Meilleur
+		Meloche
+		Merpaw
+		Michaud
+		Monestime
+		Montferrand
+		Montreuil
+		Montsion
+		Morel
+		Morin
+		Morissette
+		N_e_act_lisse
+		Nadeau
+		Nadon
+		Naveau
+		Nevin
+		Ouellette
+		P_e_act_loquin
+		Pageau
+		Paiement
+		Palangio
+		Paquette
+		Par_e_act_
+		Parent
+		Paris_e_act_
+		Payer
+		Perreault
+		Picard
+		Pich_e_act_
+		Pilette
+		Pilon
+		Pincivero
+		Pinel
+		Pitre
+		Plouffe
+		Plourde
+		Poirier
+		Poliquin
+		Pommainville
+		Portelance
+		Poulin
+		Pouliot
+		Pr_e_act_vost
+		Presseault
+		Proulx
+		R_e_act_gnier
+		Racicot
+		Renaud
+		Restoule
+		Ricard
+		Richer
+		Robitaille
+		Rochefort
+		Routhier
+		Roy
+		S_e_act_n_e_act_cal
+		Sauriol
+		Scollard
+		Serr_e_act_
+		Sigouin
+		Simard
+		St_prd__Amand
+		St_prd__Amour
+		St_prd__Aubin
+		St_prd__Denis
+		St_prd__F_e_act_lix
+		St_prd__Hilaire
+		St_prd__Isidore
+		St_prd__Martin
+		St_prd__Onge
+		St_prd__Pierre
+		Sylvestre
+		Teasdale
+		Thibeault
+		Tostevin
+		Toulouse
+		Trevisanut
+		Trottier
+		Turcotte
+		Vaillancourt
+		Viau
+		Villeneuve
+		Ziebarth
 	}
 	culture = {
 		montrealais = {}
 		pierrais = {}
 		acadien = {}
-		francontarien = {}
+		francontarien = {
+					male_names = {
+				Ad_e_act_lard Adolphe Adrien Aim_e_act_ Alain Albert Alcide Alden Alfred Alton Andr_e_act_ Arthur Augustule Aur_e_grv_le Azaire
+				Baptiste Baxter Beno_i_hat_t Bernard Borrom_e_act_e Brent Bruce
+				Camille Carter Charles Christophe Claude Conrad Cyrille
+				Damien Daniel David Denis Donat Doric
+				E_act_mery E_act_rik E_act_variste Edmond Edward Edwin Elliott Ernest Eug_e_grv_ne
+				F_e_act_lix Firmin Fran_c_ced_ois Fr_e_act_d_e_act_ric
+				G_e_act_d_e_act_on G_e_act_rald G_e_act_rard Ga_e_act_tan Gaspard Gaston Geoffroy Georges Gilbert Gilles Gr_e_act_goire Guillaume Gustave Guy
+				Hector Henri Hippolyte Honor_e_act_ Horace Hubert Hughes
+				Isa_i_uml_e Isidore
+				Jacques Jean Jean-Baptiste Jean-Claude Jean-Fran_c_ced_ois Jean-Guy Jean-Jacques Jean-Louis Jean-Luc Jean-Marc Jean-Marie Jean-Paul Jean-Philippe Jean-Pierre Jean-Ren_e_act_ Jean-Serge Jean-Thomas Jean-Yves Jo_e_uml_l Joseph Julien Justin
+				L_e_act_o L_e_act_on-Calixte L_e_act_vite Laurent Leonce Lionel Lloyd Lorne Louis Louis-Hippolyte Louis-Philippe Louis-Pierre Luc Lysandre
+				M_e_act_d_e_act_ric Magloire Marc Marc-Andr_e_act_ Marcel Martin Maurice Mauril Maxime Michel
+				Napol_e_act_on Neil Nicolas No_e_uml_l Norbert Normand
+				Octave Odo Olivier Omer On_e_act_sime Ovila Ozias
+				Pascal Patrick Paul Paul-Andr_e_act_ Paul-E_act_mile Pierre Phil_e_act_mon Philibert Philippe
+				R_e_act_ginald R_e_act_mi Ren_e_act_ Raymond Raynald Renaud Rh_e_act_al Rh_e_act_ault Richard Robert Roch Roger Roland Rom_e_act_o Rosaire Ryan
+				S_e_act_bastien S_e_act_guin Samuel Saxton Serge Simon St_e_act_phane Sylvain
+				Th_e_act_ophile Thomas Troy Tybalt
+				Vernon Victor Vincent
+				Wilfrid
+				Yannick Yves Yvon
+				Zotique
+			}
+			female_names = {
+				Ad_e_grv_le Alanis Alma Amanda Anabelle Andr_e_act_anne Andrea Ang_e_grv_le Anne Anne-Marie Annette Antoinette Avril Azilda
+				B_e_act_reng_e_grv_re Bernadette Blanche Brigitte
+				C_e_act_cile C_e_act_line Caroline Catherine Chantal Charlotte Cheryl Chlo_e_act_ Christianne Christine Claire Claudette Claudine Colette
+				Danielle Denise Desneiges Diane Dominique
+				E_act_douilda E_act_l_e_act_onore E_act_milda E_act_milie Edith Elaine Ernestine Eug_e_act_nie
+				F_e_act_licia Flore Florence France Fran_c_ced_oise
+				Gabrielle Genevi_e_grv_ve Germaine Gertrude Ginette Gis_e_grv_le Grace
+				H_e_act_l_e_grv_ne Huguette
+				Ir_e_grv_ne Isabelle
+				Jacqueline Janice Jeanette Jeanine Jeanne Jos_e_act_e Jos_e_act_phine Josianne Julie Juliette Justine
+				Karine Kim
+				L_e_act_opoldine Laurence Laurette Lillianne Lola Louise Lucie Ludivine Lyse Lysette
+				Madeleine Manon Marguerite Marie Marie-Claude Marie-E_grv_ve Marie-France Marie-Jos_e_act_e Marie-Pier Marie-Reine Mariette Martine Mathilde Maude Micheline Michelle Moire Monique Myl_e_grv_ne
+				Nancy Natasha Nicole
+				Odette Olympe Or_e_act_lie
+				Patricia Pauline Phoebe Pierrette
+				Rachel Ren_e_act_e Rose Rose-Marie Rotrude
+				Sarah Shelley Simone Sonia Sophie St_e_act_phanie Suzanne Sylvie
+				Th_e_act_r_e_grv_se Tr_e_act_va
+				Ursule
+				V_e_act_ronic Vanessa Viola Virginie
+				Yvonne
+				Zo_e_act_
+			}
+		}
 		quebecois = {}
 	}
 	
