@@ -58,6 +58,14 @@
  BTL_ADJ:0 "Battlean"
  GRY:0 "Camp Grayling"
  GRY_ADJ:0 "Graylinger"
+ KCA:0 "Kaycimo"
+ KCA_ADJ: "Kaycian"
+ CMO:0 "Como"
+ CMO_ADJ:0 "Taownee"
+ HRM:0 "Cole Camp"
+ HRM_ADJ:0 "Camper"
+ PAW: "Bonne Terre"
+ PAW_ADJ: "Missourien"
  
  ## South ##
  NOL:0 "New Orleans"

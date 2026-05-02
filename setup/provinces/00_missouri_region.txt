@@ -454,7 +454,7 @@
 	terrain="plains"
 	culture="gatewayan"
 	religion="promethean"
-	trade_goods=""
+	trade_goods="wine"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -467,7 +467,7 @@
 	terrain="farmland"
 	culture="gatewayan"
 	religion="catholic"
-	trade_goods="leather"
+	trade_goods="marble"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -766,7 +766,7 @@
 	terrain="farmland"
 	culture="gatewayan"
 	religion="catholic"
-	trade_goods="marble"
+	trade_goods="papyrus"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"

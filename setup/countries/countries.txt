@@ -28,6 +28,10 @@ FLI = "setup/countries/midwest/flint.txt"
 GRP = "setup/countries/midwest/grand_rapids.txt"
 BTL = "setup/countries/midwest/battle_creek.txt"
 GRY = "setup/countries/midwest/grayling.txt"
+PAW = "setup/countries/midwest/bonne_terre.txt"
+CMO = "setup/countries/midwest/como.txt"
+HRM = "setup/countries/midwest/cole_camp.txt"
+KCA = "setup/countries/midwest/kansas_city.txt"
 
 #South
 NOL = "setup/countries/south/new_orleans.txt"
