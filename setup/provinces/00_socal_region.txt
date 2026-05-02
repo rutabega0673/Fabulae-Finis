@@ -89,6 +89,58 @@
 	}
 }
 
+1300={ #
+	terrain="plains"
+	culture="socaleno"
+	religion="catholic"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+1301={ #
+	terrain="plains"
+	culture="socaleno"
+	religion="catholic"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+1302={ #
+	terrain="plains"
+	culture="socaleno"
+	religion="caesarist"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+1303={ #
+	terrain="plains"
+	culture="cahuilla"
+	religion="catholic"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
 1578={ #
 	terrain="desert"
 	culture="mojavean"
@@ -375,6 +427,45 @@
 	}
 }
 
+5871={ #
+	terrain="desert"
+	culture="cahuilla"
+	religion="catholic"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+5872={ #
+	terrain="desert"
+	culture="mojavean"
+	religion="atomicist"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+5873={ #
+	terrain="plains"
+	culture="cahuilla"
+	religion="catholic"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
 6599={ #
 	terrain="plains"
 	culture="socaleno"
@@ -431,6 +522,19 @@
 	terrain="plains"
 	culture="socaleno"
 	religion="scientology"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+8051={ #
+	terrain="plains"
+	culture="socaleno"
+	religion="catholic"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0

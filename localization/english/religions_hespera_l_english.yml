@@ -7,6 +7,9 @@
  caesarist:0 "Caesarist"
  desc_caesarist:0 "Worshiping the Soul of America, a pantheistic force, the Caesarists rally behind their leaders in hopes that he will be the prophesized 'American Caesar', a strongman imbued with exceptional greatness and will by the Soul of America. Holding that the Presidency of the United States is vacant, the Caesarists believe that only through military might may law and order be restored, and the Presidency will once again lead America into global hegemony."
 
+ heartful:0 "Heartful"
+ desc_heartful:0 "Heartfuls believe in only one God, Providence, who sent down his sons to teach humanity lessons of compassion and honesty. These offspring, the Founders, were partly man, partly divine, who became great heroes to set an example for other mortals. They made war only when necessary, and taught of the Heart and Soul of America. The Heart is the land itself, while the Soul are the people of America, both of which must be treated with decency and respect. After the Founders had built America, they sacrificed themselves for their country, guaranteeing all who they left behind the opportunity to enjoy the bountiful harvest that they had sown. Now that America lies in ruins, it is more important than ever before that the faithful cultivate the same steadfast values that built this country long ago."
+
  ## Christian Faiths ##
  evangelical:0 "Evangelical"
  desc_evangelical:0 "The Evangelical Church is the main claimant to the legacy of antediluvian United States Protestantism. In the face of post-Deluge upheavals, various Protestant churches banded together, putting aside minor theological differences in favor of establishing an Evangelical Convention of Churches presided over by an ecumenical council of bishops. However, some Christians chafe against the doctrines and restrictions imposed by this Convention..."
@@ -32,6 +35,9 @@
  ## Industrialist ##
  promethean:0 "Promethean"
  desc_promethean:0 "One of the first faiths to emerge after the Great Rusting, the Prometheans seek to restore the Gilded Age through the powers of the Titan Kings. They believe that during that time, the world was divided amongst the titans, who served as intermediaries between Industry and the workers. They channeled the labor of the people to Industry and the prosperity of Industry back to the workers. Now that responsibility falls to their descendants, who seek to recreate the ancient society in all its forms and usher in a new Gilded Age."
+
+ arsenalist:0 "Arsenalist"
+ desc_arsenalist:0 "At the height of the Gilded Age, America was a land uniquely blessed by Industry. Her people had perfected the rituals and practices necessary to maintain Industry's divinity and in turn were granted unrivalled prosperity. But this came with the expectation that the Americans would use their power to defy the rusted Tyrants who threatened free people the world over. Now the Arsenalists continue this divine mission, seeking to restore Industry to divinity under the guidance of America in order to protect mankind from Tyranny's armies."
 
  ## Afro-Diasporic Faiths ##
  vodou:0 "Vodou"

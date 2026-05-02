@@ -23,6 +23,11 @@ OHO = "setup/countries/midwest/greater_reserve.txt"
 ALG = "setup/countries/midwest/alleghenia.txt"
 STL = "setup/countries/midwest/saint_louis.txt"
 IND = "setup/countries/midwest/indiana.txt"
+MID = "setup/countries/midwest/midlands.txt"
+FLI = "setup/countries/midwest/flint.txt"
+GRP = "setup/countries/midwest/grand_rapids.txt"
+BTL = "setup/countries/midwest/battle_creek.txt"
+GRY = "setup/countries/midwest/grayling.txt"
 
 #South
 NOL = "setup/countries/south/new_orleans.txt"
@@ -34,3 +39,6 @@ SAC = "setup/countries/west_coast/sacramento.txt"
 NCR = "setup/countries/west_coast/san_diego.txt"
 REN = "setup/countries/west_coast/reno.txt"
 PUG = "setup/countries/west_coast/puget.txt"
+
+#East Canada
+FRO = "setup/countries/east_canada/francontario.txt"

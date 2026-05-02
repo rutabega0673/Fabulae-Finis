@@ -32,6 +32,17 @@ caesarist = { # Caesarist
 	sacrifice_icon = sacrifice_principlist
 	sacrifice_sound = "event:/SFX/UI/Religion/sfx_ui_religion_generic_sacrifice"
 }
+heartful = { # Heartful
+	color = rgb { 97 113 164 }
+	modifier = {
+		global_manpower_modifier = 0.10
+		global_monthly_food_modifier = 0.05
+		war_score_cost = 0.10
+	}
+	religion_category = sages
+	sacrifice_icon = sacrifice_principlist
+	sacrifice_sound = "event:/SFX/UI/Religion/sfx_ui_religion_generic_sacrifice"
+}
 ## Protestant ##
 evangelical = { # Evangelical
 	color = hsv { 0.5  0.25  0.7 }
@@ -129,6 +140,17 @@ promethean = { # Promethean
 	}
 	religion_category = sages
 	sacrifice_icon = sacrifice_promethean
+	sacrifice_sound = "event:/SFX/UI/Religion/sfx_ui_religion_generic_sacrifice"
+}
+arsenalist = { # Arsenalist
+	color = rgb { 28 54 113 }
+	modifier = {
+		heavy_infantry_offensive = 0.10
+		diplomatic_relations = 1
+		global_citizen_output = -0.05
+	}
+	religion_category = sages
+	sacrifice_icon = sacrifice_incense
 	sacrifice_sound = "event:/SFX/UI/Religion/sfx_ui_religion_generic_sacrifice"
 }
 ## Afro-Diasporic ##

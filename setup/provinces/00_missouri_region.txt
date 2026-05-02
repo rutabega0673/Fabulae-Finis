@@ -336,7 +336,7 @@
 5250={ #
 	terrain="hills"
 	culture="ozark"
-	religion="americanist"
+	religion="heartful"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -479,7 +479,7 @@
 5602={ #
 	terrain="plains"
 	culture="ozark"
-	religion="catholic"
+	religion="heartful"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0

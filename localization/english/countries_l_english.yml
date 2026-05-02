@@ -38,8 +38,8 @@
  ## Midwest ##
  IWA:0 "Iowan Kingdom"
  IWA_ADJ:0 "Iowan"
- MIC:0 "Michigan"
- MIC_ADJ:0 "Michigander"
+ MIC:0 "Detroit"
+ MIC_ADJ:0 "Motowner"
  ALG:0 "Alleghenia"
  ALG_ADJ:0 "Alleghenian"
  OHO:0 "Greater Reserve"
@@ -48,6 +48,16 @@
  STL_ADJ:0 "St. Louisian"
  IND:0 "Indiana"
  IND_ADJ:0 "Indianan"
+ MID:0 "Midlands"
+ MID_ADJ:0 "Midlander"
+ FLI:0 "Flint"
+ FLI_ADJ:0 "Flintonian"
+ GRP:0 "Grand Rapids"
+ GRP_ADJ:0 "Rapidian"
+ BTL:0 "Battle Creek"
+ BTL_ADJ:0 "Battlean"
+ GRY:0 "Camp Grayling"
+ GRY_ADJ:0 "Graylinger"
  
  ## South ##
  NOL:0 "New Orleans"
@@ -66,6 +76,10 @@
  REN_ADJ:0 "Renoite"
  PUG:0 "District of Puget"
  PUG_ADJ:0 "Pugite"
+
+ ## East Canada ##
+ FRO:0 "Francontario"
+ FRO_ADJ:0 "Francontarien"
 
 # Gaelic #
  AUTINI:0 "Autinia"

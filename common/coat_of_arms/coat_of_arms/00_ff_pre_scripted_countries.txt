@@ -240,22 +240,6 @@ VMI = {
 	}
 }
 
-MIC = { #Michigan Promethean flag
-	pattern = "pattern_solid.tga"
-	color1 = rgb { 65 110 156 }
-	color2 = rgb { 65 110 156 }
-	colored_emblem = {
-		texture = "ce_uaw_emblem.dds"
-		color1 = "epirus_yellow"
-		instance = { position = { 0.5 0.5 } scale = { 1.0 1.0 }  }
-	}
-	colored_emblem = {
-		texture = "ce_gears.dds"
-		color1 = "epirus_yellow"
-		instance = { position = { 0.5 0.5 } scale = { 0.45 0.45 }  }
-	}
-}
-
 ALG = { #Alleghenia Promethean flag
 	pattern = "pattern_horizontal_split_02.tga"
 	color1 = "offwhite"
@@ -618,5 +602,195 @@ PUG ={ # Puget Command
 		color1=navy_blue
 		texture="ce_ship_wheel.dds"
 		instance = { scale = { 0.75 0.7 } position = { 0.5 0.5 } }
+	}
+}
+
+MIC = {
+		pattern="pattern_solid.tga"
+		color1=rgb { 27 27 58 }
+		color2=epirus_yellow
+		colored_emblem={
+			color1=epirus_yellow
+			texture="ce_attire.dds"
+			instance={
+				position={ 0.250000 0.250000 }
+				scale={ 0.350000 0.350000 }
+			}
+
+		}
+
+		colored_emblem={
+			color1=epirus_yellow
+			color2=epirus_yellow
+			texture="ce_duck.dds"
+			instance={
+				position={ 0.750000 0.790000 }
+				scale={ 0.320000 0.320000 }
+			}
+
+			instance={
+				position={ 0.250000 0.790000 }
+				scale={ 0.320000 0.320000 }
+			}
+
+			instance={
+				position={ 0.750000 0.2600000 }
+				scale={ 0.320000 0.320000 }
+			}
+
+		}
+
+		colored_emblem={
+			texture="ce_ordinary_cross_thin.dds"
+			color1=epirus_yellow
+		}
+
+		colored_emblem={
+			color1=rgb { 27 27 58 }
+			texture="ce_star_05.dds"
+			instance={
+				position={ 0.750000 0.5000 }
+				scale={ 0.210000 0.210000 }
+			}
+
+			instance={
+				position={ 0.500000 0.505000 }
+				scale={ 0.210000 0.210000 }
+			}
+
+			instance={
+				position={ 0.250000 0.505000 }
+				scale={ 0.210000 0.210000 }
+			}
+
+			instance={
+				position={ 0.505000 0.25000 }
+				scale={ 0.210000 0.210000 }
+			}
+
+		instance={
+			position={ 0.505000 0.75000 }
+			scale={ 0.210000 0.210000 }
+		}
+
+	}
+}
+
+GRY = {
+	pattern="pattern_solid.tga"
+	color1=mid_grey
+	color2=offwhite
+	color3=black
+ 
+	colored_emblem={
+		color1=rgb { 28 54 113 }
+		texture="ce_block_05.dds"
+		instance={
+			position={ 0.250000 0.799999 }
+			scale={ 0.490000 0.570000 }
+			
+			rotation=90
+		}
+ 
+		instance={
+			position={ 0.650000 0.800000 }
+			scale={ 0.490000 0.810000 }
+			
+			rotation=90
+		}
+ 
+		instance={
+			position={ 0.870000 0.819999 }
+			scale={ 0.490000 0.570000 }
+			
+			rotation=90
+		}
+ 
+		instance={
+			position={ 0.330000 0.210000 }
+			scale={ 0.490000 0.570000 }
+			
+			rotation=90
+		}
+ 
+		instance={
+			position={ 1.000000 0.540000 }
+			scale={ 0.340000 0.570000 }
+			
+		}
+ 
+		instance={
+			position={ 0.560000 0.400000 }
+			scale={ 0.490000 0.570000 }
+			
+		}
+ 
+		instance={
+			position={ 0.820000 0.270000 }
+			scale={ 0.490000 0.570000 }
+			rotation=90
+		}
+ 
+		instance={
+			position={ 0.460000 0.800000 }
+			scale={ 0.410000 0.570000 }
+			
+		}
+ 
+		instance={
+			position={ 0.100000 0.510000 }
+			scale={ 0.490000 0.570000 }
+			
+		}
+ 
+	}
+	
+	colored_emblem={
+		color1=ck2_black
+		color2=rgb { 178 174 171 }
+		texture="ce_venetic_dagger.dds"
+		instance={
+			position={ 0.4500000 0.320000 }
+			scale={ 1 1 }
+			rotation = 225 
+		}
+ 
+	}
+
+	colored_emblem={
+		texture="ce_axe_long.dds"
+		color1=rgb { 170 170 171 }
+		color2=ck2_black
+		instance={
+			position={ 0.550000 0.580000 }
+			scale={ -1.000000 1.000000 }
+			rotation = 45
+		}
+ 
+	}
+ 
+}
+
+FRO ={ # Francontario
+	pattern="pattern_vertical_split_01.tga"
+	color1= rgb { 38 24 113 }
+	color2= offwhite
+
+	colored_emblem={
+		texture="ce_pine.dds"
+		color1="ck2_green"
+		color2=rust_brown
+		instance = { 
+		scale = { 0.65 0.65 } 
+		position = { 0.7 0.5}
+		}
+	}
+	colored_emblem={
+		texture="ce_fleur.dds"
+		color1=epirus_yellow
+		instance = {
+			scale = { 0.45 0.45 }
+			position = { 0.25 0.5 }
+		}
 	}
 }

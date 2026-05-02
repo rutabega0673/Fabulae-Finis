@@ -285,7 +285,7 @@ country = {
 				9567 9568 8773 7162 7161 7163 8774 8772
 			}
 		}
-		MIC = {
+		MIC = { #Detroit
 			government = titanate
 			primary_culture = motowner
 			religion = promethean
@@ -299,13 +299,7 @@ country = {
 			}
 
 			own_control_core = {
-				571 6796 6797 5720 5719 5718 1258 1259 1257 6795
-				6263 4297 4298 4299 4300 7777 6265 6264
-				7779 11662 6093 7776 6094 560 562 6092 6091
-				563 110 112 561 8952 5991 8953
-				849 850 848 851 4614 4612 962 963 964 4616
-				1313 1311 1314 1315 5993 5990 7778 4613 1312
-				5992 8954 9410 9411 9413 9412 905 1566 1565 904 902
+				571 6796 6797 5720 5719 5718 1258 1259 1257 6795 848 850 849 851
 			}
 		}
 		OHO = {
@@ -483,6 +477,116 @@ country = {
 
 			own_control_core = {
 				7604 7603 7602 4043 4044 9048 9051 4464 4045 5422 5421 1560 1561 1562 5420
+			}
+		}
+
+		FLI = { #Flint
+			government = titanate
+			primary_culture = michigander
+			religion = promethean
+			capital = 4299
+
+			technology={
+				military_tech={ level=2 progress=0 }
+				civic_tech={ level=2 progress=0 }
+				religious_tech= { level=2 progress=0  }
+				oratory_tech= { level=2 progress =0 }
+			}
+
+			own_control_core = {
+				4299 4298 4297 4300 11622 7779 7776 7778 11662 7777 1315 1314 1311 1312
+			}
+		}
+
+		
+		MID = { #Midlands
+			government = titanate
+			primary_culture = michigander
+			religion = promethean
+			capital = 962
+
+			technology={
+				military_tech={ level=2 progress=0 }
+				civic_tech={ level=2 progress=0 }
+				religious_tech= { level=2 progress=0  }
+				oratory_tech= { level=2 progress =0 }
+			}
+
+			own_control_core = {
+				962 963 964 4612 4614 4613 1313 1566 1564 4616 1567 1565
+			}
+		}
+
+		GRP = { #Grand Rapids
+			government = titanate
+			primary_culture = michigander
+			religion = promethean
+			capital = 5591
+
+			technology={
+				military_tech={ level=2 progress=0 }
+				civic_tech={ level=2 progress=0 }
+				religious_tech= { level=2 progress=0  }
+				oratory_tech= { level=2 progress =0 }
+			}
+
+			own_control_core = {
+				5591 8952 8954 9411 9412 9413 905 902 904 9410 8953 9410 5991 5992 5993 5990
+			}
+		}
+
+		BTL = { #Battle Creek
+			government = titanate
+			primary_culture = michigander
+			religion = promethean
+			capital = 560
+			technology={
+				military_tech={ level=2 progress=0 }
+				civic_tech={ level=2 progress=0 }
+				religious_tech= { level=2 progress=0  }
+				oratory_tech= { level=2 progress =0 }
+			}
+
+			own_control_core = {
+				560 562 6092 6094 6091 6093 6264 6265 6263 561 563 112 111 110
+			}
+		}
+
+		GRY = { #Camp Grayling
+			government = aristocratic_monarchy
+			primary_culture = michigander
+			religion = arsenalist
+			capital = 840
+			technology={
+				military_tech={ level=2 progress=0 }
+				civic_tech={ level=2 progress=0 }
+				religious_tech= { level=2 progress=0  }
+				oratory_tech= { level=2 progress =0 }
+			}
+
+			own_control_core = {
+				840 841 3473 3474 3472 3070
+			}
+		}
+
+		FRO = { #Francontario
+			government = titanate
+			primary_culture = francontarien
+			religion = promethean
+			capital = 640
+
+			technology={
+				military_tech={ level=2 progress=0 }
+				civic_tech={ level=2 progress=0 }
+				religious_tech= { level=2 progress=0  }
+				oratory_tech= { level=2 progress =0 }
+			}
+
+			own_control_core = {
+				640 639 6649 1037 1036 3032 5111 6648 6647 638 5109 5110 
+				3031 6608 6607 6606 6108 6109 6110 8739 6111 8736 8738
+				217 218 6477 6476 2911 2908 219 6475 2909 8737 7871 7873 2910 
+				6288
 			}
 		}
 	}

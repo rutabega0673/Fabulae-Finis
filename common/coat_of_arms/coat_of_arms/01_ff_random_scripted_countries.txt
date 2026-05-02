@@ -75,3 +75,19 @@ MODERN_VIRGINIA_FLAG = {
 		texture = "virginia_seal.png"
 	}
 }
+
+MICHIGAN_RUSTCULT = { #Michigan Promethean flag
+	pattern = "pattern_solid.tga"
+	color1 = rgb { 65 110 156 }
+	color2 = rgb { 65 110 156 }
+	colored_emblem = {
+		texture = "ce_uaw_emblem.dds"
+		color1 = "epirus_yellow"
+		instance = { position = { 0.5 0.5 } scale = { 1.0 1.0 }  }
+	}
+	colored_emblem = {
+		texture = "ce_gears.dds"
+		color1 = "epirus_yellow"
+		instance = { position = { 0.5 0.5 } scale = { 0.45 0.45 }  }
+	}
+}
