@@ -11,3 +11,55 @@
         country_culture_group = yankee
 	}
 }
+steelfolk_heritage = {
+   	modifier = {
+        #good
+        spearmen_defensive = 0.10
+        global_freemen_output = 0.05
+       #bad
+        fabricate_claim_cost_modifier = 0.20
+   }
+
+   trigger = {
+        country_culture_group = lakelander
+	}
+}
+midwestern_heritage = {
+   	modifier = {
+        #good
+        price_found_city_cost_modifier = -0.15
+        global_monthly_food_modifier = 0.05
+       #bad
+        global_import_commerce_modifier = -0.05
+   }
+
+   trigger = {
+        country_culture_group = midwestern
+	}
+}
+californian_heritage = {
+   	modifier = {
+        #good
+        happiness_for_same_culture_modifier = 0.03
+        global_commerce_modifier = 0.05
+       #bad
+        enact_law_cost_modifier = 0.15
+   }
+
+   trigger = {
+        country_culture_group = californian
+	}
+}
+frontieran_heritage = {
+   	modifier = {
+        #good
+        desert_hills_combat_bonus = 0.10
+        global_import_commerce_modifier = 0.05
+       #bad
+        global_population_capacity_modifier = -0.05
+   }
+
+   trigger = {
+        country_culture_group = frontieran
+	}
+}

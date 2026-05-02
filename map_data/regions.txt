@@ -271,6 +271,6 @@ beecee_region = { #4
 idaho_region = { #
 	color = rgb { 88 7 3 }
 	areas = {
-		nez_perce_area glacier_area north_idaho_area
+		nez_perce_area glacier_area north_idaho_area treasure_valley_area idaho_falls_area silver_bow_area east_snake_area
 	}
 }

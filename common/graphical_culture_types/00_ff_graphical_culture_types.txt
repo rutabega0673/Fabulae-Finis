@@ -1,1 +1,1 @@
-﻿americanist_gfx = {}
+﻿americanist_gfx = {} # DO NOT ADD TO ANY CULTURE GROUP YET THINGS WON'T WORK

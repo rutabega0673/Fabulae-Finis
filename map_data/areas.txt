@@ -886,3 +886,12 @@ central_coast_area = {
 glacier_area = { 
 	provinces = { 8395 8396 980 979 981 9008 9009 9007 1040  }
 }
+east_snake_area = { 
+	provinces = { 5403 5401 5399 5398 8857 8858 8859 8443 5402 5400 }
+}
+silver_bow_area = { 
+	provinces = { 2929 2927 2930 792 791 2928 2300 2301 2299 2302 }
+}
+idaho_falls_area = { 
+	provinces = { 9553 9555 8442 8441 9555 9554 9552 4928 4927 }
+}
