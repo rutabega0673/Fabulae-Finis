@@ -7,8 +7,10 @@ adjacencies = "adjacencies.csv"
 areas = "areas.txt"
 regions = "regions.txt"
 ports = "ports.csv"
-climate = "climate.txt"
-sea_zones = LIST { 2 }
-impassable_terrain = LIST { 35 }
+climate = "climate.txt"
+
+sea_zones = LIST { 2 }
+
+impassable_terrain = LIST { 35 11167 10721 11592 }
 impassable_terrain = LIST { 36 }
 impassable_terrain = LIST { 74 }

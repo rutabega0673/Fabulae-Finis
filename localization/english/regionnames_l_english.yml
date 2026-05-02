@@ -43,6 +43,9 @@
  highdesert_region:0 "Highdesert"
  beecee_region:0 "Beecee"
  idaho_region:0 "Idaho"
+ baja_california_region:0 "Baja California"
+ arixo_region:0 "Arixo"
+ dine_bikeyah_region:0 "Dine Bikeyah"
 
  ## AREAS ##
  philadelphia_area:0 "Delaware Valley"

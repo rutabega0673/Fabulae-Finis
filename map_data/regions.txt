@@ -274,3 +274,21 @@ idaho_region = { #
 		nez_perce_area glacier_area north_idaho_area treasure_valley_area idaho_falls_area silver_bow_area east_snake_area
 	}
 }
+baja_california_region = { #
+	color = rgb { 154 108 154 }
+	areas = {
+		mexicali_area  baja_california_norte_area baja_california_sur_area tortugas_area
+	}
+}
+arixo_region = { #6
+	color = rgb { 206 92 23 }
+	areas = {
+		colorado_area gadsen_area arizona_area saguaro_area winslow_area gila_area
+	}
+}
+dine_bikeyah_region = { #5
+	color = rgb { 250 170 90 }
+	areas = {
+		hopi_area dine_bikeyah_area kinteel_area durango_area apacheria_area
+	}
+}
