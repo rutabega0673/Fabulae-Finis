@@ -356,6 +356,17 @@ atomicist = { # Atomicist
 	sacrifice_icon = sacrifice_atomicist
 	sacrifice_sound = "event:/SFX/UI/Religion/sfx_ui_religion_generic_sacrifice"
 }
+aphite = { # Aphite
+	color = rgb { 153 102 51 }
+	modifier = { 
+		global_import_commerce_modifier = 0.05
+		religious_tech_investment = 0.10
+		global_population_growth = -0.03
+	}
+	religion_category = pantheon
+	sacrifice_icon = sacrifice_atomicist
+	sacrifice_sound = "event:/SFX/UI/Religion/sfx_ui_religion_generic_sacrifice"
+}
 
 ## Seasprayer ##
 fogsong = { # Fogsong
@@ -494,6 +505,17 @@ sikhism = { # Sikhism
 ## Northwestern ##
 dreamer = { # Dreamer
 	color = rgb { 255 91 91 }
+	modifier = { #placeholder
+		light_cavalry_morale = 0.1
+		global_tribesmen_happyness = 0.06
+		global_supply_limit_modifier = -0.05
+	}
+	religion_category = pantheon
+}
+
+## Astronomer ##
+zetanologist = { # Zetanologist
+	color = rgb { 181 43 206 }
 	modifier = { #placeholder
 		light_cavalry_morale = 0.1
 		global_tribesmen_happyness = 0.06

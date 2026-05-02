@@ -112,6 +112,9 @@
  ## Quantum ##
  atomicist:0 "Atomicist"
  desc_atomicist:0 "Atomicists believe that Atomos's blessings are great and bountiful, and that humans may interact with him through the Elements, his aspects. Atomicists believe in a ritual called 'the blessing of the atom', in which they call Atomos upon their newborns in the form of his many emanations, Plutonis, Uranus, or Radia. By harnessing the hidden world of Atomos, an Atomicist may achieve enlightenment and may discover the truths of the world we live in."
+ 
+ aphite:0 "Aphite"
+ desc_aphite:0 ""Whilst Atomicists believe Atomos is behind everything, Aphites believe that Atomos is a flawed deity with many aspects that have their own independent power. Whilst possessing a hierarchical church structure that is said to have stemmed 'from the Old World itself', Aphites are known for their increased zeal and societal strictness in adhering to their plan. They are known to view Atomos's aspects as gods, omitting the radiant figures of Radia, Plutonis, and Uranus from the Pantheon in favor of Plumbus and Graphis."
 
  ## Seasprayer ##
  fogsong:0 "Fogsong"
@@ -151,3 +154,7 @@
  ## Northwestern ##
  dreamer:0 "Dreamer"
  desc_dreamer:0 "The Dreamers encompass the traditional beliefs of much of the interior Northwest. Over time, their beliefs have evolved while still retaining major core elements, including respect for the natural world and the spiritual power of dreams. Prophetic dreamers, such as the ancient Smohalla, serve an important role in introducing and recodifying rituals and stories for new generations. Adherents place great importance on honoring traditional ways of life, as well as the spiritual link between humanity and the creatures and plants Mother Earth has provided, and the other spirits of the land."
+
+ ## Astronomer ##
+ zetanologist:0 "Zetanologist"
+ desc_zetanologist:0 "According to Zetanology, humanity lives in the aftermath of a major battle against their alien creators, the evil Annunaki. Earth, now vulnerable to another attack from its foes, is in need of constant defense. This is done by complicated rituals, often involving the construction of glyphs, be they homemade weavings or imposing megaliths, to act as signals and bases for the various extraterrestrial allies which support mankind in their war against the Annunaki. Psychic warfare is even utilized, with humans ascending to higher planes of existence via meditation to engage in mental combat. The extensive number of aliens which influence Earth, good, bad, or somewhere between, dominate Zetanologist life, acting as a point of constant consideration."

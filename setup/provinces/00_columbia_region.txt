@@ -14,7 +14,7 @@
 1054={ #
 	terrain="desert"
 	culture="inlander"
-	religion="mayan_pantheon"
+	religion="loneranger"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -27,7 +27,7 @@
 1055={ #
 	terrain="desert"
 	culture="inlander"
-	religion="mayan_pantheon"
+	religion="loneranger"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -40,7 +40,7 @@
 1056={ #
 	terrain="desert_hills"
 	culture="inlander"
-	religion="mayan_pantheon"
+	religion="loneranger"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -53,7 +53,7 @@
 2104={ #
 	terrain="desert_hills"
 	culture="meseteno"
-	religion="mayan_pantheon"
+	religion="catholic"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -66,7 +66,7 @@
 2105={ #
 	terrain="desert_hills"
 	culture="meseteno"
-	religion="mayan_pantheon"
+	religion="catholic"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -79,7 +79,7 @@
 2106={ #
 	terrain="desert_hills"
 	culture="meseteno"
-	religion="mayan_pantheon"
+	religion="catholic"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -92,7 +92,7 @@
 2240={ #
 	terrain="desert_hills"
 	culture="inlander"
-	religion="mayan_pantheon"
+	religion="catholic"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -105,7 +105,7 @@
 2241={ #
 	terrain="desert_hills"
 	culture="inlander"
-	religion="mayan_pantheon"
+	religion="loneranger"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -118,7 +118,7 @@
 2242={ #
 	terrain="desert_hills"
 	culture="inlander"
-	religion="mayan_pantheon"
+	religion="catholic"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -183,7 +183,7 @@
 2818={ #
 	terrain="plains"
 	culture="doukhobor"
-	religion="mayan_pantheon"
+	religion="dreamer"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -222,7 +222,7 @@
 4656={ #
 	terrain="desert"
 	culture="inlander"
-	religion="mayan_pantheon"
+	religion="loneranger"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -235,7 +235,7 @@
 4657={ #
 	terrain="desert"
 	culture="inlander"
-	religion="mayan_pantheon"
+	religion="loneranger"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -248,7 +248,7 @@
 4658={ #
 	terrain="desert"
 	culture="inlander"
-	religion="mayan_pantheon"
+	religion="loneranger"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -261,7 +261,7 @@
 4950={ #
 	terrain="desert_hills"
 	culture="inlander"
-	religion="mayan_pantheon"
+	religion="catholic"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -274,7 +274,7 @@
 4951={ #
 	terrain="desert_hills"
 	culture="inlander"
-	religion="mayan_pantheon"
+	religion="catholic"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -300,7 +300,7 @@
 5531={ #
 	terrain="hills"
 	culture="inlander"
-	religion="mayan_pantheon"
+	religion="catholic"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -313,7 +313,7 @@
 5836={ #
 	terrain="hills"
 	culture="doukhobor"
-	religion="mayan_pantheon"
+	religion="dreamer"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -326,7 +326,7 @@
 6470={ #
 	terrain="desert_hills"
 	culture="meseteno"
-	religion="mayan_pantheon"
+	religion="catholic"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -339,7 +339,7 @@
 6471={ #
 	terrain="desert_hills"
 	culture="meseteno"
-	religion="mayan_pantheon"
+	religion="catholic"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -352,7 +352,7 @@
 6784={ #
 	terrain="desert_hills"
 	culture="inlander"
-	religion="mayan_pantheon"
+	religion="catholic"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -365,7 +365,7 @@
 6785={ #
 	terrain="desert_hills"
 	culture="inlander"
-	religion="mayan_pantheon"
+	religion="catholic"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -378,7 +378,7 @@
 6786={ #
 	terrain="hills"
 	culture="inlander"
-	religion="mayan_pantheon"
+	religion="catholic"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -391,7 +391,7 @@
 7256={ #
 	terrain="desert_hills"
 	culture="meseteno"
-	religion="mayan_pantheon"
+	religion="catholic"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -404,7 +404,7 @@
 7257={ #
 	terrain="desert_hills"
 	culture="inlander"
-	religion="mayan_pantheon"
+	religion="catholic"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -417,7 +417,7 @@
 7258={ #
 	terrain="desert_hills"
 	culture="meseteno"
-	religion="mayan_pantheon"
+	religion="catholic"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -456,7 +456,7 @@
 8421={ #
 	terrain="desert_hills"
 	culture="inlander"
-	religion="mayan_pantheon"
+	religion="catholic"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -469,7 +469,7 @@
 8422={ #
 	terrain="desert_hills"
 	culture="inlander"
-	religion="mayan_pantheon"
+	religion="catholic"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -482,7 +482,7 @@
 9429={ #
 	terrain="desert"
 	culture="inlander"
-	religion="mayan_pantheon"
+	religion="loneranger"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -495,7 +495,7 @@
 9430={ #
 	terrain="desert"
 	culture="inlander"
-	religion="mayan_pantheon"
+	religion="loneranger"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -508,7 +508,7 @@
 9431={ #
 	terrain="desert"
 	culture="inlander"
-	religion="mayan_pantheon"
+	religion="loneranger"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -521,7 +521,7 @@
 9432={ #
 	terrain="desert"
 	culture="inlander"
-	religion="mayan_pantheon"
+	religion="loneranger"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0

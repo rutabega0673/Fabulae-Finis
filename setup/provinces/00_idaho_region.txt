@@ -1,7 +1,7 @@
 ﻿979={ #
 	terrain="plains"
 	culture="montaneer"
-	religion="mayan_pantheon"
+	religion="dreamer"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -14,7 +14,7 @@
 980={ #
 	terrain="plains"
 	culture="montaneer"
-	religion="mayan_pantheon"
+	religion="loneranger"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -27,7 +27,7 @@
 981={ #
 	terrain="plains"
 	culture="montaneer"
-	religion="mayan_pantheon"
+	religion="dreamer"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -40,7 +40,7 @@
 1039={ #
 	terrain="plains"
 	culture="montaneer"
-	religion="mayan_pantheon"
+	religion="dreamer"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -53,7 +53,7 @@
 1040={ #
 	terrain="plains"
 	culture="montaneer"
-	religion="mayan_pantheon"
+	religion="dreamer"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -66,7 +66,7 @@
 1042={ #
 	terrain="plains"
 	culture="doukhobor"
-	religion="mayan_pantheon"
+	religion="dreamer"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -79,7 +79,7 @@
 3499={ #
 	terrain="mountain"
 	culture="snakelander"
-	religion="mayan_pantheon"
+	religion="loneranger"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -92,7 +92,7 @@
 3500={ #
 	terrain="mountain"
 	culture="snakelander"
-	religion="mayan_pantheon"
+	religion="loneranger"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -105,7 +105,7 @@
 4862={ #
 	terrain="plains"
 	culture="montaneer"
-	religion="mayan_pantheon"
+	religion="dreamer"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -118,7 +118,7 @@
 4863={ #
 	terrain="mountain"
 	culture="montaneer"
-	religion="mayan_pantheon"
+	religion="dreamer"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -131,7 +131,7 @@
 4864={ #
 	terrain="plains"
 	culture="doukhobor"
-	religion="mayan_pantheon"
+	religion="dreamer"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -144,7 +144,7 @@
 5597={ #
 	terrain="mountain"
 	culture="snakelander"
-	religion="mayan_pantheon"
+	religion="loneranger"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -157,7 +157,7 @@
 5598={ #
 	terrain="plains"
 	culture="snakelander"
-	religion="mayan_pantheon"
+	religion="loneranger"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -170,7 +170,7 @@
 5599={ #
 	terrain="mountain"
 	culture="snakelander"
-	religion="mayan_pantheon"
+	religion="loneranger"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -183,7 +183,7 @@
 5835={ #
 	terrain="hills"
 	culture="doukhobor"
-	religion="mayan_pantheon"
+	religion="dreamer"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -196,7 +196,7 @@
 6418={ #
 	terrain="hills"
 	culture="inlander"
-	religion="mayan_pantheon"
+	religion="loneranger"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -209,7 +209,7 @@
 6419={ #
 	terrain="plains"
 	culture="snakelander"
-	religion="mayan_pantheon"
+	religion="loneranger"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -222,7 +222,7 @@
 6420={ #
 	terrain="mountain"
 	culture="snakelander"
-	religion="mayan_pantheon"
+	religion="loneranger"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -235,7 +235,7 @@
 6421={ #
 	terrain="mountain"
 	culture="snakelander"
-	religion="mayan_pantheon"
+	religion="loneranger"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -248,7 +248,7 @@
 8395={ #
 	terrain="mountain"
 	culture="snakelander"
-	religion="mayan_pantheon"
+	religion="loneranger"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -261,7 +261,7 @@
 8396={ #
 	terrain="plains"
 	culture="montaneer"
-	religion="mayan_pantheon"
+	religion="dreamer"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -274,7 +274,7 @@
 9007={ #
 	terrain="plains"
 	culture="montaneer"
-	religion="mayan_pantheon"
+	religion="dreamer"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -287,7 +287,7 @@
 9008={ #
 	terrain="plains"
 	culture="montaneer"
-	religion="mayan_pantheon"
+	religion="dreamer"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -300,7 +300,7 @@
 9009={ #
 	terrain="hills"
 	culture="montaneer"
-	religion="mayan_pantheon"
+	religion="dreamer"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -313,7 +313,7 @@
 9010={ #
 	terrain="mountain"
 	culture="montaneer"
-	religion="mayan_pantheon"
+	religion="dreamer"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0

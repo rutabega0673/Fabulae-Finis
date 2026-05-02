@@ -183,7 +183,7 @@
 2681={ #
 	terrain="hills"
 	culture="juniperian"
-	religion="loneranger"
+	religion="dreamer"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -196,7 +196,7 @@
 2682={ #
 	terrain="hills"
 	culture="juniperian"
-	religion="loneranger"
+	religion="dreamer"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -209,7 +209,7 @@
 2683={ #
 	terrain="hills"
 	culture="juniperian"
-	religion="loneranger"
+	religion="dreamer"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -222,7 +222,7 @@
 2964={ #
 	terrain="hills"
 	culture="meseteno"
-	religion="loneranger"
+	religion="catholic"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -235,7 +235,7 @@
 2965={ #
 	terrain="hills"
 	culture="juniperian"
-	religion="loneranger"
+	religion="dreamer"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -248,7 +248,7 @@
 2966={ #
 	terrain="hills"
 	culture="juniperian"
-	religion="loneranger"
+	religion="dreamer"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -261,7 +261,7 @@
 2967={ #
 	terrain="hills"
 	culture="meseteno"
-	religion="loneranger"
+	religion="catholic"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -365,7 +365,7 @@
 5423={ #
 	terrain="desert_hills"
 	culture="inlander"
-	religion="mayan_pantheon"
+	religion="loneranger"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -404,7 +404,7 @@
 5426={ #
 	terrain="plains"
 	culture="inlander"
-	religion="mayan_pantheon"
+	religion="loneranger"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -417,7 +417,7 @@
 6079={ #
 	terrain="hills"
 	culture="meseteno"
-	religion="loneranger"
+	religion="catholic"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -430,7 +430,7 @@
 8516={ #
 	terrain="desert_hills"
 	culture="juniperian"
-	religion="loneranger"
+	religion="dreamer"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -443,7 +443,7 @@
 8517={ #
 	terrain="desert_hills"
 	culture="juniperian"
-	religion="loneranger"
+	religion="dreamer"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -456,7 +456,7 @@
 8518={ #
 	terrain="desert_hills"
 	culture="juniperian"
-	religion="loneranger"
+	religion="dreamer"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -482,7 +482,7 @@
 9485={ #
 	terrain="hills"
 	culture="inlander"
-	religion="mayan_pantheon"
+	religion="loneranger"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0

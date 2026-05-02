@@ -22,3 +22,7 @@
  military_district_ruler:0 "District Commander"
  military_district_ruler_female:0 "District Commander"
  
+ plutocratic_republic_ruler:0 "Speaker"
+ democratic_republic_ruler:0 "Speaker"
+ aristocratic_republic_ruler:0 "Speaker"
+ oligarchic_republic_ruler:0 "Speaker"

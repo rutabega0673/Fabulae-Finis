@@ -1,0 +1,1 @@
+﻿americanist_gfx = {}

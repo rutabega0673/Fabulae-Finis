@@ -1,7 +1,7 @@
 ﻿241={ #
 	terrain="marsh"
 	culture="seminole"
-	religion="mayan_pantheon"
+	religion="catholic"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -14,7 +14,7 @@
 242={ #
 	terrain="plains"
 	culture="sunshiner"
-	religion="mayan_pantheon"
+	religion="catholic"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -27,7 +27,7 @@
 243={ #
 	terrain="plains"
 	culture="sofloano"
-	religion="mayan_pantheon"
+	religion="catholic"
 	trade_goods="fish"
 	civilization_value=10
 	barbarian_power=0
@@ -209,7 +209,7 @@
 2900={ #
 	terrain="marsh"
 	culture="sofloano"
-	religion="mayan_pantheon"
+	religion="catholic"
 	trade_goods="shells"
 	civilization_value=10
 	barbarian_power=0
@@ -222,7 +222,7 @@
 2901={ #
 	terrain="marsh"
 	culture="sofloano"
-	religion="mayan_pantheon"
+	religion="catholic"
 	trade_goods="shells"
 	civilization_value=10
 	barbarian_power=0
@@ -326,7 +326,7 @@
 4201={ #
 	terrain="marsh"
 	culture="sofloano"
-	religion="mayan_pantheon"
+	religion="catholic"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -339,7 +339,7 @@
 4202={ #
 	terrain="marsh"
 	culture="sofloano"
-	religion="mayan_pantheon"
+	religion="catholic"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -352,7 +352,7 @@
 4589={ #
 	terrain="marsh"
 	culture="seminole"
-	religion="mayan_pantheon"
+	religion="catholic"
 	trade_goods="fish"
 	civilization_value=10
 	barbarian_power=0
@@ -365,7 +365,7 @@
 4590={ #
 	terrain="marsh"
 	culture="seminole"
-	religion="mayan_pantheon"
+	religion="catholic"
 	trade_goods="wood"
 	civilization_value=10
 	barbarian_power=0
