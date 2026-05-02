@@ -8990,6 +8990,17 @@ accessory_genes = {
                 1 = male_clothes_roman_1_color2
             }
         }  
+
+    	#ATE
+        american_clothes = {
+            index = 56
+            male = {
+                1 = male_clothes_american_1
+            }
+            female = {
+                1 = female_clothes_american_1
+            }
+        }  
     }       
  
 

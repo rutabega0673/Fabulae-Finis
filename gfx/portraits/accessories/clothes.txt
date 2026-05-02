@@ -516,6 +516,11 @@ female_clothes_bactrian_2_color4 = {
 	set_tags = "full_bust"
 }
 
+## ATE ##
+female_clothes_american_1 = {
+	entity = { required_tags = ""		node = shared_pose_entity		entity = female_clothes_american_1_entity }
+	set_tags = "full_bust"
+}
 
 #####################################
 #									#
@@ -1358,6 +1363,12 @@ male_clothes_ethiopian_3 = {
 
 male_clothes_ethiopian_4 = {
 	entity = { required_tags = ""		node = shared_pose_entity		entity = male_clothes_ethiopian_4_entity }
+	set_tags = "full_bust"
+}
+
+## ATE ##
+male_clothes_american_1 = {
+	entity = { required_tags = ""		node = shared_pose_entity		entity = male_clothes_american_1_entity }
 	set_tags = "full_bust"
 }
 
