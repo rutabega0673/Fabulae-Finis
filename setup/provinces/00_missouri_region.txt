@@ -580,7 +580,7 @@
 	}
 }
 
-6621={ #
+6621={ #Benton
 	terrain="plains"
 	culture="hermanndeutsch"
 	religion="catholic"
@@ -645,7 +645,7 @@
 	}
 }
 
-7369={ #Kaycee
+7369={ #Kayci
 	terrain="farmland"
 	culture="heartlander"
 	religion="catholic"

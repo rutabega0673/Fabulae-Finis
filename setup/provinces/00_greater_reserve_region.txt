@@ -92,7 +92,7 @@
 3348={ #
 	terrain="plains"
 	culture="buckeye"
-	religion="promethean"
+	religion="catholic"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -274,7 +274,7 @@
 6629={ #
 	terrain="farmland"
 	culture="buckeye"
-	religion="promethean"
+	religion="catholic"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -300,7 +300,7 @@
 6631={ #
 	terrain="plains"
 	culture="buckeye"
-	religion="promethean"
+	religion="catholic"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0

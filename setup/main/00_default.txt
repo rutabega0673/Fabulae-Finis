@@ -700,6 +700,42 @@ country = {
 				416 414 11636 415
 			}
 		}
+
+		FWN = { #Fort Wayne
+			government = despotic_monarchy
+			primary_culture = hoosier
+			religion = catholic
+			capital = 5310
+
+			technology={
+				military_tech={ level=2 progress=0 }
+				civic_tech={ level=2 progress=0 }
+				religious_tech= { level=2 progress=0  }
+				oratory_tech= { level=2 progress =0 }
+			}
+
+			own_control_core = {
+				5310 11653 5313 5312 2225 11654 2305 2303 2304
+			}
+		}
+
+		TUC = { # Tucson District
+			government = military_district
+			primary_culture = arixan
+			religion = caesarist
+			capital = 4939
+
+			technology={
+				military_tech={ level=2 progress=0 }
+				civic_tech={ level=2 progress=0 }
+				religious_tech= { level=2 progress=0  }
+				oratory_tech= { level=2 progress =0 }
+			}
+
+			own_control_core = {
+				4939 461 460 4940 1423 9407 4941 459
+			}
+		}
 	}
 }
 

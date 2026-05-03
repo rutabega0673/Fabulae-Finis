@@ -1,7 +1,7 @@
-﻿180={ #
+﻿459={ #
 	terrain="plains"
-	culture="butternutter"
-	religion="hearthtender"
+	culture="arixan"
+	religion="caesarist"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -11,10 +11,10 @@
 	}
 }
 
-181={ #
+460={ #
 	terrain="plains"
-	culture="butternutter"
-	religion="hearthtender"
+	culture="arixan"
+	religion="caesarist"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -24,10 +24,10 @@
 	}
 }
 
-183={ #
+461={ #
 	terrain="plains"
-	culture="butternutter"
-	religion="hearthtender"
+	culture="arixan"
+	religion="caesarist"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -37,10 +37,10 @@
 	}
 }
 
-184={ #
+1270={ #
 	terrain="plains"
-	culture="butternutter"
-	religion="americanist"
+	culture="oodham"
+	religion="caesarist"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -50,10 +50,10 @@
 	}
 }
 
-185={ #
+1271={ #
 	terrain="plains"
-	culture="butternutter"
-	religion="hearthtender"
+	culture="oodham"
+	religion="caesarist"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -63,10 +63,10 @@
 	}
 }
 
-270={ #Lafayette
-	terrain="plains"
-	culture="hoosier"
-	religion="catholic"
+1413={ #
+	terrain="desert_hills"
+	culture="arixan"
+	religion="atomicist"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -76,10 +76,10 @@
 	}
 }
 
-414={ #
-	terrain="plains"
-	culture="butternutter"
-	religion="hearthtender"
+1414={ #
+	terrain="desert"
+	culture="arixan"
+	religion="loneranger"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -89,23 +89,10 @@
 	}
 }
 
-415={ #
-	terrain="farmland"
-	culture="buckeye"
-	religion="promethean"
-	trade_goods="honey"
-	civilization_value=10
-	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=1
-	}
-}
-
-416={ #
-	terrain="farmland"
-	culture="butternutter"
-	religion="hearthtender"
+1415={ #
+	terrain="desert_hills"
+	culture="arixan"
+	religion="zetanologist"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -115,10 +102,10 @@
 	}
 }
 
-2402={ #
+1420={ #
 	terrain="plains"
-	culture="butternutter"
-	religion="hearthtender"
+	culture="arixan"
+	religion="loneranger"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -128,10 +115,10 @@
 	}
 }
 
-2403={ #
+1421={ #
 	terrain="plains"
-	culture="butternutter"
-	religion="hearthtender"
+	culture="arixan"
+	religion="zetanologist"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -141,10 +128,10 @@
 	}
 }
 
-2404={ #
+1422={ #
 	terrain="plains"
-	culture="buckeye"
-	religion="promethean"
+	culture="arixan"
+	religion="zetanologist"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -154,10 +141,10 @@
 	}
 }
 
-2405={ #
+1423={ #
 	terrain="plains"
-	culture="buckeye"
-	religion="promethean"
+	culture="arixan"
+	religion="caesarist"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -167,10 +154,10 @@
 	}
 }
 
-2406={ #
-	terrain="plains"
-	culture="buckeye"
-	religion="promethean"
+2101={ #
+	terrain="desert"
+	culture="arixan"
+	religion="loneranger"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -180,10 +167,10 @@
 	}
 }
 
-3349={ #
-	terrain="plains"
-	culture="buckeye"
-	religion="promethean"
+2102={ #
+	terrain="desert"
+	culture="arixan"
+	religion="loneranger"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -193,10 +180,10 @@
 	}
 }
 
-3350={ #
-	terrain="plains"
-	culture="buckeye"
-	religion="promethean"
+2103={ #
+	terrain="desert"
+	culture="cahuilla"
+	religion="loneranger"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -206,10 +193,10 @@
 	}
 }
 
-3760={ #
-	terrain="plains"
-	culture="butternutter"
-	religion="hearthtender"
+2615={ #
+	terrain="desert_hills"
+	culture="arixan"
+	religion="atomicist"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -219,10 +206,10 @@
 	}
 }
 
-3761={ #
-	terrain="plains"
-	culture="butternutter"
-	religion="hearthtender"
+2616={ #
+	terrain="desert_hills"
+	culture="arixan"
+	religion="atomicist"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -232,10 +219,10 @@
 	}
 }
 
-3762={ #
+2644={ #
 	terrain="plains"
-	culture="butternutter"
-	religion="hearthtender"
+	culture="arixan"
+	religion="zetanologist"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -245,10 +232,10 @@
 	}
 }
 
-3763={ #
+2645={ #
 	terrain="plains"
-	culture="butternutter"
-	religion="hearthtender"
+	culture="arixan"
+	religion="zetanologist"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -258,10 +245,10 @@
 	}
 }
 
-4273={ #
-	terrain="plains"
-	culture="buckeye"
-	religion="promethean"
+2951={ #
+	terrain="desert"
+	culture="arixan"
+	religion="atomicist"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -271,10 +258,10 @@
 	}
 }
 
-4274={ #
-	terrain="plains"
-	culture="buckeye"
-	religion="promethean"
+2952={ #
+	terrain="desert"
+	culture="arixan"
+	religion="atomicist"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -284,10 +271,10 @@
 	}
 }
 
-4276={ #
-	terrain="plains"
-	culture="buckeye"
-	religion="promethean"
+2953={ #
+	terrain="desert"
+	culture="arixan"
+	religion="atomicist"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -297,10 +284,10 @@
 	}
 }
 
-4431={ #
+3106={ #
 	terrain="plains"
-	culture="hoosier"
-	religion="promethean"
+	culture="oodham"
+	religion="loneranger"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -310,10 +297,10 @@
 	}
 }
 
-4432={ #
+3107={ #
 	terrain="plains"
-	culture="hoosier"
-	religion="hearthtender"
+	culture="oodham"
+	religion="loneranger"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -323,10 +310,10 @@
 	}
 }
 
-4433={ #
+3179={ #
 	terrain="plains"
-	culture="hoosier"
-	religion="hearthtender"
+	culture=""
+	religion="zetanologist"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -336,10 +323,10 @@
 	}
 }
 
-5476={ #
+3180={ #
 	terrain="plains"
-	culture="hoosier"
-	religion="catholic"
+	culture="arixan"
+	religion="zetanologist"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -349,10 +336,10 @@
 	}
 }
 
-5477={ #
+3181={ #
 	terrain="plains"
-	culture="hoosier"
-	religion="catholic"
+	culture="arixan"
+	religion="zetanologist"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -362,10 +349,10 @@
 	}
 }
 
-5478={ #
+3182={ #
 	terrain="plains"
-	culture="hoosier"
-	religion="catholic"
+	culture="arixan"
+	religion="zetanologist"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -375,10 +362,10 @@
 	}
 }
 
-5696={ #
+3317={ #
 	terrain="plains"
-	culture="butternutter"
-	religion="hearthtender"
+	culture="arixan"
+	religion="loneranger"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -388,23 +375,10 @@
 	}
 }
 
-5697={ #
-	terrain="hills"
-	culture="butternutter"
-	religion="hearthtender"
-	trade_goods="iron"
-	civilization_value=10
-	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=1
-	}
-}
-
-5698={ #
+3318={ #
 	terrain="plains"
-	culture="buckeye"
-	religion="promethean"
+	culture="arixan"
+	religion="zetanologist"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -414,10 +388,10 @@
 	}
 }
 
-6587={ #
+3319={ #
 	terrain="plains"
-	culture="hoosier"
-	religion="promethean"
+	culture="arixan"
+	religion="zetanologist"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -427,10 +401,10 @@
 	}
 }
 
-6588={ #
+3320={ #
 	terrain="plains"
-	culture="hoosier"
-	religion="promethean"
+	culture="arixan"
+	religion="zetanologist"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -440,10 +414,10 @@
 	}
 }
 
-6589={ #
+3321={ #
 	terrain="plains"
-	culture="hoosier"
-	religion="catholic"
+	culture="arixan"
+	religion="zetanologist"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -453,10 +427,10 @@
 	}
 }
 
-6758={ #
-	terrain="plains"
-	culture="hoosier"
-	religion="promethean"
+4411={ #
+	terrain="desert_hills"
+	culture="arixan"
+	religion="atomicist"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -466,10 +440,10 @@
 	}
 }
 
-6759={ #
-	terrain="hills"
-	culture="hoosier"
-	religion="promethean"
+4648={ #
+	terrain="plains"
+	culture="arixan"
+	religion="zetanologist"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -479,23 +453,10 @@
 	}
 }
 
-6760={ #
+4649={ #
 	terrain="plains"
-	culture="hoosier"
-	religion="promethean"
-	trade_goods="honey"
-	civilization_value=10
-	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=1
-	}
-}
-
-7748={ #
-	terrain="plains"
-	culture="hoosier"
-	religion="promethean"
+	culture="arixan"
+	religion="zetanologist"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -505,10 +466,10 @@
 	}
 }
 
-7749={ #
+4650={ #
 	terrain="plains"
-	culture="hoosier"
-	religion="promethean"
+	culture="arixan"
+	religion="zetanologist"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -518,10 +479,10 @@
 	}
 }
 
-7750={ #
+4651={ #
 	terrain="plains"
-	culture="hoosier"
-	religion="promethean"
+	culture="arixan"
+	religion="zetanologist"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -531,10 +492,10 @@
 	}
 }
 
-7751={ #
+4766={ #
 	terrain="plains"
-	culture="buckeye"
-	religion="promethean"
+	culture="neomexicano"
+	religion="zetanologist"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -544,10 +505,10 @@
 	}
 }
 
-7838={ #
-	terrain="forest"
-	culture="butternutter"
-	religion="promethean"
+4767={ #
+	terrain="plains"
+	culture="apache"
+	religion="zetanologist"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -557,10 +518,10 @@
 	}
 }
 
-7839={ #
+4939={ #
 	terrain="plains"
-	culture="buckeye"
-	religion="promethean"
+	culture="oodham"
+	religion="caesarist"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -570,10 +531,10 @@
 	}
 }
 
-9549={ #
+4940={ #
 	terrain="plains"
-	culture="butternutter"
-	religion="hearthtender"
+	culture="oodham"
+	religion="caesarist"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -583,10 +544,10 @@
 	}
 }
 
-9550={ #
+4941={ #
 	terrain="plains"
-	culture="buckeye"
-	religion="promethean"
+	culture="arixan"
+	religion="caesarist"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -596,10 +557,10 @@
 	}
 }
 
-9551={ #
+6910={ #
 	terrain="plains"
-	culture="butternutter"
-	religion="hearthtender"
+	culture="arixan"
+	religion="zetanologist"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -609,23 +570,10 @@
 	}
 }
 
-11636={ #
+6911={ #
 	terrain="plains"
-	culture="butternutter"
-	religion="hearthtender"
-	trade_goods="cattle"
-	civilization_value=10
-	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=1
-	}
-}
-
-11638={ #
-	terrain="plains"
-	culture="buckeye"
-	religion="promethean"
+	culture="arixan"
+	religion="zetanologist"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -635,10 +583,10 @@
 	}
 }
 
-11639={ #
+6912={ #
 	terrain="plains"
-	culture="buckeye"
-	religion="catholic"
+	culture="arixan"
+	religion="zetanologist"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -648,10 +596,10 @@
 	}
 }
 
-11640={ #
+6913={ #
 	terrain="plains"
-	culture="buckeye"
-	religion="promethean"
+	culture="arixan"
+	religion="zetanologist"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -661,10 +609,10 @@
 	}
 }
 
-11641={ #
-	terrain="plains"
-	culture="buckeye"
-	religion="promethean"
+7434={ #
+	terrain="desert"
+	culture="arixan"
+	religion="zetanologist"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -674,10 +622,10 @@
 	}
 }
 
-11645={ #
-	terrain="plains"
-	culture="butternutter"
-	religion="hearthtender"
+7435={ #
+	terrain="desert"
+	culture="arixan"
+	religion="loneranger"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -687,10 +635,10 @@
 	}
 }
 
-11655={ #
-	terrain="plains"
-	culture="hoosier"
-	religion="promethean"
+7436={ #
+	terrain="desert"
+	culture="arixan"
+	religion="zetanologist"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -700,10 +648,10 @@
 	}
 }
 
-11660={ #
-	terrain="plains"
-	culture="hoosier"
-	religion="promethean"
+7437={ #
+	terrain="desert"
+	culture="arixan"
+	religion="loneranger"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -713,10 +661,127 @@
 	}
 }
 
-11661={ #
+7538={ #
 	terrain="plains"
-	culture="buckeye"
-	religion="promethean"
+	culture="arixan"
+	religion="zetanologist"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+7539={ #
+	terrain="plains"
+	culture="arixan"
+	religion="zetanologist"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+7540={ #
+	terrain="plains"
+	culture="arixan"
+	religion="zetanologist"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+8437={ #
+	terrain="plains"
+	culture="arixan"
+	religion="zetanologist"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+8438={ #
+	terrain="plains"
+	culture="arixan"
+	religion="zetanologist"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+8439={ #
+	terrain="plains"
+	culture="arixan"
+	religion="zetanologist"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+8440={ #
+	terrain="plains"
+	culture="apache"
+	religion="zetanologist"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+9407={ #
+	terrain="plains"
+	culture="arixan"
+	religion="caesarist"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+9408={ #
+	terrain="plains"
+	culture="arixan"
+	religion="zetanologist"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+9409={ #
+	terrain="plains"
+	culture="arixan"
+	religion="zetanologist"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0

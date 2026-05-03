@@ -3898,45 +3898,6 @@
 	}
 }
 
-410={ #
-	terrain="plains"
-	culture="socaleno"
-	religion="catholic"
-	trade_goods=""
-	civilization_value=10
-	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=1
-	}
-}
-
-412={ #
-	terrain="plains"
-	culture="socaleno"
-	religion="catholic"
-	trade_goods=""
-	civilization_value=10
-	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=1
-	}
-}
-
-413={ #
-	terrain="plains"
-	culture="socaleno"
-	religion="catholic"
-	trade_goods=""
-	civilization_value=10
-	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=1
-	}
-}
-
 417={ #
 	terrain="plains"
 	culture=""
@@ -4331,45 +4292,6 @@
 	terrain="plains"
 	culture=""
 	religion="mayan_pantheon"
-	trade_goods=""
-	civilization_value=10
-	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=1
-	}
-}
-
-459={ #
-	terrain="plains"
-	culture="arixan"
-	religion="caesarist"
-	trade_goods=""
-	civilization_value=10
-	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=1
-	}
-}
-
-460={ #
-	terrain="plains"
-	culture="arixan"
-	religion="caesarist"
-	trade_goods=""
-	civilization_value=10
-	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=1
-	}
-}
-
-461={ #
-	terrain="plains"
-	culture="arixan"
-	religion="caesarist"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -7681,84 +7603,6 @@
 	}
 }
 
-791={ #
-	terrain="plains"
-	culture="snakelander"
-	religion="loneranger"
-	trade_goods=""
-	civilization_value=10
-	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=1
-	}
-}
-
-792={ #
-	terrain="plains"
-	culture="snakelander"
-	religion="loneranger"
-	trade_goods=""
-	civilization_value=10
-	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=1
-	}
-}
-
-796={ #
-	terrain="plains"
-	culture="navajo"
-	religion="zetanologist"
-	trade_goods=""
-	civilization_value=10
-	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=1
-	}
-}
-
-797={ #
-	terrain="plains"
-	culture="navajo"
-	religion="zetanologist"
-	trade_goods=""
-	civilization_value=10
-	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=1
-	}
-}
-
-798={ #
-	terrain="plains"
-	culture="navajo"
-	religion="zetanologist"
-	trade_goods=""
-	civilization_value=10
-	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=1
-	}
-}
-
-799={ #
-	terrain="plains"
-	culture="navajo"
-	religion="zetanologist"
-	trade_goods=""
-	civilization_value=10
-	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=1
-	}
-}
-
 803={ #
 	terrain="plains"
 	culture=""
@@ -8085,32 +7929,6 @@
 }
 
 831={ #
-	terrain="plains"
-	culture=""
-	religion="mayan_pantheon"
-	trade_goods=""
-	civilization_value=10
-	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=1
-	}
-}
-
-832={ #
-	terrain="plains"
-	culture=""
-	religion="mayan_pantheon"
-	trade_goods=""
-	civilization_value=10
-	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=1
-	}
-}
-
-833={ #
 	terrain="plains"
 	culture=""
 	religion="mayan_pantheon"
@@ -10567,32 +10385,6 @@
 	}
 }
 
-1154={ #
-	terrain="plains"
-	culture="keres"
-	religion="aphite"
-	trade_goods=""
-	civilization_value=10
-	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=1
-	}
-}
-
-1155={ #
-	terrain="plains"
-	culture="keres"
-	religion="aphite"
-	trade_goods=""
-	civilization_value=10
-	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=1
-	}
-}
-
 1156={ #
 	terrain="plains"
 	culture=""
@@ -11819,32 +11611,6 @@
 	terrain="plains"
 	culture=""
 	religion="mayan_pantheon"
-	trade_goods=""
-	civilization_value=10
-	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=1
-	}
-}
-
-1270={ #
-	terrain="plains"
-	culture="oodham"
-	religion="caesarist"
-	trade_goods=""
-	civilization_value=10
-	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=1
-	}
-}
-
-1271={ #
-	terrain="plains"
-	culture="oodham"
-	religion="caesarist"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -13193,45 +12959,6 @@
 	}
 }
 
-1413={ #
-	terrain="desert_hills"
-	culture="arixan"
-	religion="atomicist"
-	trade_goods=""
-	civilization_value=10
-	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=1
-	}
-}
-
-1414={ #
-	terrain="desert"
-	culture="arixan"
-	religion="loneranger"
-	trade_goods=""
-	civilization_value=10
-	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=1
-	}
-}
-
-1415={ #
-	terrain="desert_hills"
-	culture="arixan"
-	religion="zetanologist"
-	trade_goods=""
-	civilization_value=10
-	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=1
-	}
-}
-
 1416={ #
 	terrain="plains"
 	culture=""
@@ -13275,58 +13002,6 @@
 	terrain="plains"
 	culture=""
 	religion="mayan_pantheon"
-	trade_goods=""
-	civilization_value=10
-	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=1
-	}
-}
-
-1420={ #
-	terrain="plains"
-	culture="arixan"
-	religion="loneranger"
-	trade_goods=""
-	civilization_value=10
-	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=1
-	}
-}
-
-1421={ #
-	terrain="plains"
-	culture="arixan"
-	religion="zetanologist"
-	trade_goods=""
-	civilization_value=10
-	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=1
-	}
-}
-
-1422={ #
-	terrain="plains"
-	culture="arixan"
-	religion="zetanologist"
-	trade_goods=""
-	civilization_value=10
-	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=1
-	}
-}
-
-1423={ #
-	terrain="plains"
-	culture="arixan"
-	religion="caesarist"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -15199,45 +14874,6 @@
 	terrain="plains"
 	culture=""
 	religion="mayan_pantheon"
-	trade_goods=""
-	civilization_value=10
-	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=1
-	}
-}
-
-1626={ #
-	terrain="desert_hills"
-	culture="juniperian"
-	religion="loneranger"
-	trade_goods=""
-	civilization_value=10
-	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=1
-	}
-}
-
-1627={ #
-	terrain="desert_hills"
-	culture="juniperian"
-	religion="loneranger"
-	trade_goods=""
-	civilization_value=10
-	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=1
-	}
-}
-
-1628={ #
-	terrain="desert_hills"
-	culture="snakelander"
-	religion="loneranger"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -19290,45 +18926,6 @@
 	}
 }
 
-2101={ #
-	terrain="desert"
-	culture="arixan"
-	religion="loneranger"
-	trade_goods=""
-	civilization_value=10
-	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=1
-	}
-}
-
-2102={ #
-	terrain="desert"
-	culture="arixan"
-	religion="loneranger"
-	trade_goods=""
-	civilization_value=10
-	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=1
-	}
-}
-
-2103={ #
-	terrain="desert"
-	culture="cahuilla"
-	religion="loneranger"
-	trade_goods=""
-	civilization_value=10
-	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=1
-	}
-}
-
 2107={ #
 	terrain="plains"
 	culture=""
@@ -20291,45 +19888,6 @@
 	}
 }
 
-2204={ #
-	terrain="plains"
-	culture="navajo"
-	religion="zetanologist"
-	trade_goods=""
-	civilization_value=10
-	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=1
-	}
-}
-
-2205={ #
-	terrain="mountain"
-	culture="hualapai"
-	religion="aphite"
-	trade_goods=""
-	civilization_value=10
-	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=1
-	}
-}
-
-2206={ #
-	terrain="mountain"
-	culture="navajo"
-	religion="aphite"
-	trade_goods=""
-	civilization_value=10
-	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=1
-	}
-}
-
 2207={ #
 	terrain="mountain"
 	culture="kalaaleq"
@@ -21153,58 +20711,6 @@
 	terrain="plains"
 	culture=""
 	religion="mayan_pantheon"
-	trade_goods=""
-	civilization_value=10
-	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=1
-	}
-}
-
-2299={ #
-	terrain="plains"
-	culture="montaneer"
-	religion="loneranger"
-	trade_goods=""
-	civilization_value=10
-	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=1
-	}
-}
-
-2300={ #
-	terrain="mountain"
-	culture="snakelander"
-	religion="loneranger"
-	trade_goods=""
-	civilization_value=10
-	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=1
-	}
-}
-
-2301={ #
-	terrain="mountain"
-	culture="montaneer"
-	religion="loneranger"
-	trade_goods=""
-	civilization_value=10
-	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=1
-	}
-}
-
-2302={ #
-	terrain="mountain"
-	culture="montaneer"
-	religion="loneranger"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -22280,6 +21786,19 @@
 	}
 }
 
+2424={ #
+	terrain="plains"
+	culture=""
+	religion="mayan_pantheon"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
 2425={ #
 	terrain="plains"
 	culture=""
@@ -22995,6 +22514,19 @@
 	}
 }
 
+2496={ #
+	terrain="plains"
+	culture=""
+	religion="mayan_pantheon"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
 2497={ #
 	terrain="plains"
 	culture=""
@@ -23506,45 +23038,6 @@
 	terrain="plains"
 	culture=""
 	religion="mayan_pantheon"
-	trade_goods=""
-	civilization_value=10
-	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=1
-	}
-}
-
-2552={ #
-	terrain="plains"
-	culture="juniperian"
-	religion="loneranger"
-	trade_goods=""
-	civilization_value=10
-	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=1
-	}
-}
-
-2553={ #
-	terrain="hills"
-	culture="snakelander"
-	religion="caesarist"
-	trade_goods=""
-	civilization_value=10
-	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=1
-	}
-}
-
-2554={ #
-	terrain="hills"
-	culture="snakelander"
-	religion="caesarist"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -24256,32 +23749,6 @@
 	}
 }
 
-2615={ #
-	terrain="desert_hills"
-	culture="arixan"
-	religion="atomicist"
-	trade_goods=""
-	civilization_value=10
-	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=1
-	}
-}
-
-2616={ #
-	terrain="desert_hills"
-	culture="arixan"
-	religion="atomicist"
-	trade_goods=""
-	civilization_value=10
-	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=1
-	}
-}
-
 2617={ #Mojarra
 	terrain="plains"
 	culture=""
@@ -24377,45 +23844,6 @@
 	terrain="plains"
 	culture=""
 	religion="mayan_pantheon"
-	trade_goods=""
-	civilization_value=10
-	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=1
-	}
-}
-
-2626={ #
-	terrain="plains"
-	culture=""
-	religion="catholic"
-	trade_goods=""
-	civilization_value=10
-	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=1
-	}
-}
-
-2627={ #
-	terrain="plains"
-	culture=""
-	religion="catholic"
-	trade_goods=""
-	civilization_value=10
-	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=1
-	}
-}
-
-2628={ #
-	terrain="plains"
-	culture=""
-	religion="catholic"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -24572,58 +24000,6 @@
 	terrain="plains"
 	culture=""
 	religion="mayan_pantheon"
-	trade_goods=""
-	civilization_value=10
-	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=1
-	}
-}
-
-2644={ #
-	terrain="plains"
-	culture="arixan"
-	religion="zetanologist"
-	trade_goods=""
-	civilization_value=10
-	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=1
-	}
-}
-
-2645={ #
-	terrain="plains"
-	culture="arixan"
-	religion="zetanologist"
-	trade_goods=""
-	civilization_value=10
-	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=1
-	}
-}
-
-2646={ #
-	terrain="plains"
-	culture="apache"
-	religion="peyotist"
-	trade_goods=""
-	civilization_value=10
-	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=1
-	}
-}
-
-2647={ #
-	terrain="plains"
-	culture="apache"
-	religion="peyotist"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -25647,58 +25023,6 @@
 	}
 }
 
-2767={ #
-	terrain="plains"
-	culture="hopi"
-	religion="peyotist"
-	trade_goods=""
-	civilization_value=10
-	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=1
-	}
-}
-
-2768={ #
-	terrain="plains"
-	culture="hopi"
-	religion="peyotist"
-	trade_goods=""
-	civilization_value=10
-	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=1
-	}
-}
-
-2769={ #
-	terrain="plains"
-	culture="hopi"
-	religion="peyotist"
-	trade_goods=""
-	civilization_value=10
-	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=1
-	}
-}
-
-2770={ #
-	terrain="plains"
-	culture="apache"
-	religion="peyotist"
-	trade_goods=""
-	civilization_value=10
-	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=1
-	}
-}
-
 2771={ #
 	terrain="plains"
 	culture=""
@@ -26054,32 +25378,6 @@
 	terrain="plains"
 	culture=""
 	religion="mayan_pantheon"
-	trade_goods=""
-	civilization_value=10
-	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=1
-	}
-}
-
-2826={ #
-	terrain="plains"
-	culture="navajo"
-	religion="zetanologist"
-	trade_goods=""
-	civilization_value=10
-	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=1
-	}
-}
-
-2827={ #
-	terrain="plains"
-	culture="navajo"
-	religion="zetanologist"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -26817,32 +26115,6 @@
 	}
 }
 
-2912={ #
-	terrain="plains"
-	culture="hualapai"
-	religion="aphite"
-	trade_goods=""
-	civilization_value=10
-	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=1
-	}
-}
-
-2913={ #
-	terrain="plains"
-	culture="navajo"
-	religion="aphite"
-	trade_goods=""
-	civilization_value=10
-	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=1
-	}
-}
-
 2914={ #
 	terrain="plains"
 	culture=""
@@ -27012,58 +26284,6 @@
 	}
 }
 
-2927={ #
-	terrain="mountain"
-	culture="snakelander"
-	religion="loneranger"
-	trade_goods=""
-	civilization_value=10
-	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=1
-	}
-}
-
-2928={ #
-	terrain="mountain"
-	culture="snakelander"
-	religion="loneranger"
-	trade_goods=""
-	civilization_value=10
-	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=1
-	}
-}
-
-2929={ #
-	terrain="mountain"
-	culture="snakelander"
-	religion="loneranger"
-	trade_goods=""
-	civilization_value=10
-	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=1
-	}
-}
-
-2930={ #
-	terrain="mountain"
-	culture="snakelander"
-	religion="loneranger"
-	trade_goods=""
-	civilization_value=10
-	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=1
-	}
-}
-
 2934={ #
 	terrain="plains"
 	culture=""
@@ -27185,45 +26405,6 @@
 	terrain="plains"
 	culture=""
 	religion="mayan_pantheon"
-	trade_goods=""
-	civilization_value=10
-	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=1
-	}
-}
-
-2951={ #
-	terrain="desert"
-	culture="arixan"
-	religion="atomicist"
-	trade_goods=""
-	civilization_value=10
-	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=1
-	}
-}
-
-2952={ #
-	terrain="desert"
-	culture="arixan"
-	religion="atomicist"
-	trade_goods=""
-	civilization_value=10
-	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=1
-	}
-}
-
-2953={ #
-	terrain="desert"
-	culture="arixan"
-	religion="atomicist"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -28598,32 +27779,6 @@
 	}
 }
 
-3106={ #
-	terrain="plains"
-	culture="oodham"
-	religion="loneranger"
-	trade_goods=""
-	civilization_value=10
-	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=1
-	}
-}
-
-3107={ #
-	terrain="plains"
-	culture="oodham"
-	religion="loneranger"
-	trade_goods=""
-	civilization_value=10
-	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=1
-	}
-}
-
 3108={ #
 	terrain="plains"
 	culture=""
@@ -28897,45 +28052,6 @@
 	}
 }
 
-3134={ #
-	terrain="plains"
-	culture="cahuilla"
-	religion="catholic"
-	trade_goods=""
-	civilization_value=10
-	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=1
-	}
-}
-
-3135={ #
-	terrain="plains"
-	culture="cahuilla"
-	religion="catholic"
-	trade_goods=""
-	civilization_value=10
-	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=1
-	}
-}
-
-3136={ #
-	terrain="plains"
-	culture=""
-	religion="catholic"
-	trade_goods=""
-	civilization_value=10
-	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=1
-	}
-}
-
 3137={ #
 	terrain="plains"
 	culture=""
@@ -29170,45 +28286,6 @@
 	}
 }
 
-3165={ #
-	terrain="plains"
-	culture="navajo"
-	religion="zetanologist"
-	trade_goods=""
-	civilization_value=10
-	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=1
-	}
-}
-
-3166={ #
-	terrain="plains"
-	culture="navajo"
-	religion="loneranger"
-	trade_goods=""
-	civilization_value=10
-	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=1
-	}
-}
-
-3167={ #
-	terrain="plains"
-	culture="navajo"
-	religion="loneranger"
-	trade_goods=""
-	civilization_value=10
-	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=1
-	}
-}
-
 3168={ #
 	terrain="plains"
 	culture="ute"
@@ -29343,58 +28420,6 @@
 	terrain="plains"
 	culture=""
 	religion="mayan_pantheon"
-	trade_goods=""
-	civilization_value=10
-	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=1
-	}
-}
-
-3179={ #
-	terrain="plains"
-	culture=""
-	religion="zetanologist"
-	trade_goods=""
-	civilization_value=10
-	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=1
-	}
-}
-
-3180={ #
-	terrain="plains"
-	culture="arixan"
-	religion="zetanologist"
-	trade_goods=""
-	civilization_value=10
-	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=1
-	}
-}
-
-3181={ #
-	terrain="plains"
-	culture="arixan"
-	religion="zetanologist"
-	trade_goods=""
-	civilization_value=10
-	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=1
-	}
-}
-
-3182={ #
-	terrain="plains"
-	culture="arixan"
-	religion="zetanologist"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -30773,71 +29798,6 @@
 	terrain="plains"
 	culture=""
 	religion="mayan_pantheon"
-	trade_goods=""
-	civilization_value=10
-	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=1
-	}
-}
-
-3317={ #
-	terrain="plains"
-	culture="arixan"
-	religion="loneranger"
-	trade_goods=""
-	civilization_value=10
-	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=1
-	}
-}
-
-3318={ #
-	terrain="plains"
-	culture="arixan"
-	religion="zetanologist"
-	trade_goods=""
-	civilization_value=10
-	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=1
-	}
-}
-
-3319={ #
-	terrain="plains"
-	culture="arixan"
-	religion="zetanologist"
-	trade_goods=""
-	civilization_value=10
-	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=1
-	}
-}
-
-3320={ #
-	terrain="plains"
-	culture="arixan"
-	religion="zetanologist"
-	trade_goods=""
-	civilization_value=10
-	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=1
-	}
-}
-
-3321={ #
-	terrain="plains"
-	culture="arixan"
-	religion="zetanologist"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -32706,45 +31666,6 @@
 	}
 }
 
-3537={ #
-	terrain="plains"
-	culture="apache"
-	religion="zetanologist"
-	trade_goods=""
-	civilization_value=10
-	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=1
-	}
-}
-
-3538={ #
-	terrain="plains"
-	culture="apache"
-	religion="zetanologist"
-	trade_goods=""
-	civilization_value=10
-	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=1
-	}
-}
-
-3539={ #
-	terrain="plains"
-	culture="apache"
-	religion="zetanologist"
-	trade_goods=""
-	civilization_value=10
-	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=1
-	}
-}
-
 3543={ #
 	terrain="plains"
 	culture=""
@@ -33399,45 +32320,6 @@
 	terrain="plains"
 	culture=""
 	religion="mayan_pantheon"
-	trade_goods=""
-	civilization_value=10
-	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=1
-	}
-}
-
-3613={ #
-	terrain="hills"
-	culture="snakelander"
-	religion="caesarist"
-	trade_goods=""
-	civilization_value=10
-	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=1
-	}
-}
-
-3614={ #
-	terrain="hills"
-	culture="snakelander"
-	religion="caesarist"
-	trade_goods=""
-	civilization_value=10
-	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=1
-	}
-}
-
-3615={ #
-	terrain="desert"
-	culture="snakelander"
-	religion="loneranger"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -36074,45 +34956,6 @@
 }
 
 3866={ #
-	terrain="plains"
-	culture=""
-	religion="mayan_pantheon"
-	trade_goods=""
-	civilization_value=10
-	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=1
-	}
-}
-
-3867={ #
-	terrain="plains"
-	culture=""
-	religion="mayan_pantheon"
-	trade_goods=""
-	civilization_value=10
-	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=1
-	}
-}
-
-3868={ #
-	terrain="plains"
-	culture=""
-	religion="mayan_pantheon"
-	trade_goods=""
-	civilization_value=10
-	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=1
-	}
-}
-
-3869={ #
 	terrain="plains"
 	culture=""
 	religion="mayan_pantheon"
@@ -39206,45 +38049,6 @@
 	}
 }
 
-4181={ #
-	terrain="plains"
-	culture="navajo"
-	religion="zetanologist"
-	trade_goods=""
-	civilization_value=10
-	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=1
-	}
-}
-
-4182={ #
-	terrain="plains"
-	culture="navajo"
-	religion="zetanologist"
-	trade_goods=""
-	civilization_value=10
-	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=1
-	}
-}
-
-4183={ #
-	terrain="plains"
-	culture="hopi"
-	religion="zetanologist"
-	trade_goods=""
-	civilization_value=10
-	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=1
-	}
-}
-
 4184={ #
 	terrain="plains"
 	culture=""
@@ -40753,32 +39557,6 @@
 	}
 }
 
-4338={ #
-	terrain="plains"
-	culture="navajo"
-	religion="peyotist"
-	trade_goods=""
-	civilization_value=10
-	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=1
-	}
-}
-
-4339={ #
-	terrain="plains"
-	culture="hopi"
-	religion="peyotist"
-	trade_goods=""
-	civilization_value=10
-	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=1
-	}
-}
-
 4340={ #
 	terrain="plains"
 	culture=""
@@ -41485,19 +40263,6 @@
 	terrain="forest"
 	culture=""
 	religion="mayan_pantheon"
-	trade_goods=""
-	civilization_value=10
-	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=1
-	}
-}
-
-4411={ #
-	terrain="desert_hills"
-	culture="arixan"
-	religion="atomicist"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -42638,32 +41403,6 @@
 	}
 }
 
-4526={ #
-	terrain="plains"
-	culture="hopi"
-	religion="peyotist"
-	trade_goods=""
-	civilization_value=10
-	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=1
-	}
-}
-
-4527={ #
-	terrain="plains"
-	culture="navajo"
-	religion="zetanologist"
-	trade_goods=""
-	civilization_value=10
-	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=1
-	}
-}
-
 4528={ #
 	terrain="farmland"
 	culture="utahn"
@@ -42928,45 +41667,6 @@
 	terrain="plains"
 	culture=""
 	religion="mayan_pantheon"
-	trade_goods=""
-	civilization_value=10
-	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=1
-	}
-}
-
-4549={ #
-	terrain="farmland"
-	culture="snakelander"
-	religion="caesarist"
-	trade_goods=""
-	civilization_value=10
-	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=1
-	}
-}
-
-4550={ #
-	terrain="hills"
-	culture="snakelander"
-	religion="caesarist"
-	trade_goods=""
-	civilization_value=10
-	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=1
-	}
-}
-
-4551={ #
-	terrain="hills"
-	culture="snakelander"
-	religion="caesarist"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -43769,97 +42469,6 @@
 	}
 }
 
-4645={ #
-	terrain="plains"
-	culture="apache"
-	religion="zetanologist"
-	trade_goods=""
-	civilization_value=10
-	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=1
-	}
-}
-
-4646={ #
-	terrain="plains"
-	culture="navajo"
-	religion="zetanologist"
-	trade_goods=""
-	civilization_value=10
-	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=1
-	}
-}
-
-4647={ #
-	terrain="plains"
-	culture="hopi"
-	religion="zetanologist"
-	trade_goods=""
-	civilization_value=10
-	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=1
-	}
-}
-
-4648={ #
-	terrain="plains"
-	culture="arixan"
-	religion="zetanologist"
-	trade_goods=""
-	civilization_value=10
-	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=1
-	}
-}
-
-4649={ #
-	terrain="plains"
-	culture="arixan"
-	religion="zetanologist"
-	trade_goods=""
-	civilization_value=10
-	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=1
-	}
-}
-
-4650={ #
-	terrain="plains"
-	culture="arixan"
-	religion="zetanologist"
-	trade_goods=""
-	civilization_value=10
-	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=1
-	}
-}
-
-4651={ #
-	terrain="plains"
-	culture="arixan"
-	religion="zetanologist"
-	trade_goods=""
-	civilization_value=10
-	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=1
-	}
-}
-
 4652={ #
 	terrain="plains"
 	culture=""
@@ -44458,58 +43067,6 @@
 	}
 }
 
-4717={ #
-	terrain="plains"
-	culture=""
-	religion="mayan_pantheon"
-	trade_goods=""
-	civilization_value=10
-	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=1
-	}
-}
-
-4718={ #
-	terrain="plains"
-	culture=""
-	religion="mayan_pantheon"
-	trade_goods=""
-	civilization_value=10
-	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=1
-	}
-}
-
-4719={ #
-	terrain="plains"
-	culture=""
-	religion="mayan_pantheon"
-	trade_goods=""
-	civilization_value=10
-	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=1
-	}
-}
-
-4720={ #
-	terrain="plains"
-	culture=""
-	religion="mayan_pantheon"
-	trade_goods=""
-	civilization_value=10
-	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=1
-	}
-}
-
 4721={ #
 	terrain="plains"
 	culture=""
@@ -45060,32 +43617,6 @@
 	terrain="plains"
 	culture=""
 	religion="mayan_pantheon"
-	trade_goods=""
-	civilization_value=10
-	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=1
-	}
-}
-
-4766={ #
-	terrain="plains"
-	culture="neomexicano"
-	religion="zetanologist"
-	trade_goods=""
-	civilization_value=10
-	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=1
-	}
-}
-
-4767={ #
-	terrain="plains"
-	culture="apache"
-	religion="zetanologist"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -46707,32 +45238,6 @@
 	}
 }
 
-4927={ #
-	terrain="desert"
-	culture="utahn"
-	religion="mormon"
-	trade_goods=""
-	civilization_value=10
-	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=1
-	}
-}
-
-4928={ #
-	terrain="desert"
-	culture="utahn"
-	religion="mormon"
-	trade_goods=""
-	civilization_value=10
-	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=1
-	}
-}
-
 4929={ #
 	terrain="desert_hills"
 	culture="utahn"
@@ -46815,45 +45320,6 @@
 	terrain="forest"
 	culture="newfie"
 	religion="fogsong"
-	trade_goods=""
-	civilization_value=10
-	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=1
-	}
-}
-
-4939={ #
-	terrain="plains"
-	culture="oodham"
-	religion="caesarist"
-	trade_goods=""
-	civilization_value=10
-	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=1
-	}
-}
-
-4940={ #
-	terrain="plains"
-	culture="oodham"
-	religion="caesarist"
-	trade_goods=""
-	civilization_value=10
-	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=1
-	}
-}
-
-4941={ #
-	terrain="plains"
-	culture="arixan"
-	religion="caesarist"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -50975,84 +49441,6 @@
 	terrain="hills"
 	culture="newfie"
 	religion="fogsong"
-	trade_goods=""
-	civilization_value=10
-	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=1
-	}
-}
-
-5398={ #
-	terrain="desert"
-	culture="snakelander"
-	religion="mormon"
-	trade_goods=""
-	civilization_value=10
-	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=1
-	}
-}
-
-5399={ #
-	terrain="desert"
-	culture="snakelander"
-	religion="mormon"
-	trade_goods=""
-	civilization_value=10
-	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=1
-	}
-}
-
-5400={ #
-	terrain="desert"
-	culture="utahn"
-	religion="mormon"
-	trade_goods=""
-	civilization_value=10
-	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=1
-	}
-}
-
-5401={ #
-	terrain="hills"
-	culture="snakelander"
-	religion="loneranger"
-	trade_goods=""
-	civilization_value=10
-	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=1
-	}
-}
-
-5402={ #
-	terrain="desert"
-	culture="snakelander"
-	religion="mormon"
-	trade_goods=""
-	civilization_value=10
-	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=1
-	}
-}
-
-5403={ #
-	terrain="hills"
-	culture="snakelander"
-	religion="loneranger"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -64270,58 +62658,6 @@
 	}
 }
 
-6910={ #
-	terrain="plains"
-	culture="arixan"
-	religion="zetanologist"
-	trade_goods=""
-	civilization_value=10
-	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=1
-	}
-}
-
-6911={ #
-	terrain="plains"
-	culture="arixan"
-	religion="zetanologist"
-	trade_goods=""
-	civilization_value=10
-	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=1
-	}
-}
-
-6912={ #
-	terrain="plains"
-	culture="arixan"
-	religion="zetanologist"
-	trade_goods=""
-	civilization_value=10
-	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=1
-	}
-}
-
-6913={ #
-	terrain="plains"
-	culture="arixan"
-	religion="zetanologist"
-	trade_goods=""
-	civilization_value=10
-	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=1
-	}
-}
-
 6914={ #
 	terrain="plains"
 	culture=""
@@ -66519,45 +64855,6 @@
 	}
 }
 
-7137={ #
-	terrain="hills"
-	culture="snakelander"
-	religion="caesarist"
-	trade_goods=""
-	civilization_value=10
-	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=1
-	}
-}
-
-7138={ #
-	terrain="hills"
-	culture="snakelander"
-	religion="caesarist"
-	trade_goods=""
-	civilization_value=10
-	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=1
-	}
-}
-
-7139={ #
-	terrain="mountain"
-	culture="snakelander"
-	religion="caesarist"
-	trade_goods=""
-	civilization_value=10
-	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=1
-	}
-}
-
 7140={ #
 	terrain="forest"
 	culture="gaidheal"
@@ -66689,58 +64986,6 @@
 }
 
 7157={ #
-	terrain="plains"
-	culture=""
-	religion="mayan_pantheon"
-	trade_goods=""
-	civilization_value=10
-	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=1
-	}
-}
-
-7164={ #
-	terrain="plains"
-	culture=""
-	religion="mayan_pantheon"
-	trade_goods=""
-	civilization_value=10
-	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=1
-	}
-}
-
-7165={ #
-	terrain="plains"
-	culture=""
-	religion="mayan_pantheon"
-	trade_goods=""
-	civilization_value=10
-	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=1
-	}
-}
-
-7166={ #
-	terrain="plains"
-	culture=""
-	religion="mayan_pantheon"
-	trade_goods=""
-	civilization_value=10
-	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=1
-	}
-}
-
-7167={ #
 	terrain="plains"
 	culture=""
 	religion="mayan_pantheon"
@@ -67676,35 +65921,9 @@
 	}
 }
 
-7259={ #
-	terrain="plains"
-	culture="zuni"
-	religion="aphite"
-	trade_goods=""
-	civilization_value=10
-	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=1
-	}
-}
-
 7260={ #
 	terrain="plains"
 	culture="zuni"
-	religion="aphite"
-	trade_goods=""
-	civilization_value=10
-	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=1
-	}
-}
-
-7261={ #
-	terrain="plains"
-	culture="navajo"
 	religion="aphite"
 	trade_goods=""
 	civilization_value=10
@@ -68677,45 +66896,6 @@
 	}
 }
 
-7361={ #
-	terrain="plains"
-	culture=""
-	religion="mayan_pantheon"
-	trade_goods=""
-	civilization_value=10
-	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=1
-	}
-}
-
-7362={ #
-	terrain="plains"
-	culture=""
-	religion="mayan_pantheon"
-	trade_goods=""
-	civilization_value=10
-	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=1
-	}
-}
-
-7363={ #
-	terrain="plains"
-	culture=""
-	religion="mayan_pantheon"
-	trade_goods=""
-	civilization_value=10
-	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=1
-	}
-}
-
 7378={ #
 	terrain="plains"
 	culture=""
@@ -69253,58 +67433,6 @@
 	terrain="plains"
 	culture=""
 	religion="mayan_pantheon"
-	trade_goods=""
-	civilization_value=10
-	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=1
-	}
-}
-
-7434={ #
-	terrain="desert"
-	culture="arixan"
-	religion="zetanologist"
-	trade_goods=""
-	civilization_value=10
-	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=1
-	}
-}
-
-7435={ #
-	terrain="desert"
-	culture="arixan"
-	religion="loneranger"
-	trade_goods=""
-	civilization_value=10
-	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=1
-	}
-}
-
-7436={ #
-	terrain="desert"
-	culture="arixan"
-	religion="zetanologist"
-	trade_goods=""
-	civilization_value=10
-	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=1
-	}
-}
-
-7437={ #
-	terrain="desert"
-	culture="arixan"
-	religion="loneranger"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -70215,45 +68343,6 @@
 	terrain="plains"
 	culture=""
 	religion="mayan_pantheon"
-	trade_goods=""
-	civilization_value=10
-	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=1
-	}
-}
-
-7538={ #
-	terrain="plains"
-	culture="arixan"
-	religion="zetanologist"
-	trade_goods=""
-	civilization_value=10
-	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=1
-	}
-}
-
-7539={ #
-	terrain="plains"
-	culture="arixan"
-	religion="zetanologist"
-	trade_goods=""
-	civilization_value=10
-	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=1
-	}
-}
-
-7540={ #
-	terrain="plains"
-	culture="arixan"
-	religion="zetanologist"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -73253,45 +71342,6 @@
 	}
 }
 
-7926={ #
-	terrain="plains"
-	culture=""
-	religion="mayan_pantheon"
-	trade_goods=""
-	civilization_value=10
-	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=1
-	}
-}
-
-7927={ #
-	terrain="plains"
-	culture=""
-	religion="mayan_pantheon"
-	trade_goods=""
-	civilization_value=10
-	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=1
-	}
-}
-
-7928={ #
-	terrain="plains"
-	culture=""
-	religion="mayan_pantheon"
-	trade_goods=""
-	civilization_value=10
-	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=1
-	}
-}
-
 7929={ #
 	terrain="forest"
 	culture=""
@@ -74271,32 +72321,6 @@
 	terrain="plains"
 	culture=""
 	religion="mayan_pantheon"
-	trade_goods=""
-	civilization_value=10
-	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=1
-	}
-}
-
-8030={ #
-	terrain="plains"
-	culture="navajo"
-	religion="zetanologist"
-	trade_goods=""
-	civilization_value=10
-	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=1
-	}
-}
-
-8031={ #
-	terrain="plains"
-	culture="navajo"
-	religion="zetanologist"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -77179,45 +75203,6 @@
 	}
 }
 
-8309={ #
-	terrain="plains"
-	culture="navajo"
-	religion="peyotist"
-	trade_goods=""
-	civilization_value=10
-	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=1
-	}
-}
-
-8310={ #
-	terrain="plains"
-	culture="hopi"
-	religion="peyotist"
-	trade_goods=""
-	civilization_value=10
-	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=1
-	}
-}
-
-8311={ #
-	terrain="plains"
-	culture="navajo"
-	religion="peyotist"
-	trade_goods=""
-	civilization_value=10
-	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=1
-	}
-}
-
 8319={ #
 	terrain="plains"
 	culture=""
@@ -78314,97 +76299,6 @@
 	terrain="plains"
 	culture=""
 	religion="mayan_pantheon"
-	trade_goods=""
-	civilization_value=10
-	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=1
-	}
-}
-
-8437={ #
-	terrain="plains"
-	culture="arixan"
-	religion="zetanologist"
-	trade_goods=""
-	civilization_value=10
-	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=1
-	}
-}
-
-8438={ #
-	terrain="plains"
-	culture="arixan"
-	religion="zetanologist"
-	trade_goods=""
-	civilization_value=10
-	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=1
-	}
-}
-
-8439={ #
-	terrain="plains"
-	culture="arixan"
-	religion="zetanologist"
-	trade_goods=""
-	civilization_value=10
-	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=1
-	}
-}
-
-8440={ #
-	terrain="plains"
-	culture="apache"
-	religion="zetanologist"
-	trade_goods=""
-	civilization_value=10
-	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=1
-	}
-}
-
-8441={ #
-	terrain="desert"
-	culture="snakelander"
-	religion="mormon"
-	trade_goods=""
-	civilization_value=10
-	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=1
-	}
-}
-
-8442={ #
-	terrain="desert"
-	culture="snakelander"
-	religion="loneranger"
-	trade_goods=""
-	civilization_value=10
-	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=1
-	}
-}
-
-8443={ #
-	terrain="desert"
-	culture="snakelander"
-	religion="mormon"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -81066,58 +78960,6 @@
 	}
 }
 
-8732={ #
-	terrain="plains"
-	culture="socaleno"
-	religion="catholic"
-	trade_goods=""
-	civilization_value=10
-	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=1
-	}
-}
-
-8733={ #
-	terrain="plains"
-	culture="cahuilla"
-	religion="catholic"
-	trade_goods=""
-	civilization_value=10
-	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=1
-	}
-}
-
-8734={ #
-	terrain="plains"
-	culture="cahuilla"
-	religion="catholic"
-	trade_goods=""
-	civilization_value=10
-	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=1
-	}
-}
-
-8735={ #
-	terrain="plains"
-	culture="cahuilla"
-	religion="catholic"
-	trade_goods=""
-	civilization_value=10
-	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=1
-	}
-}
-
 8740={ #
 	terrain="forest"
 	culture="eeyou"
@@ -82176,45 +80018,6 @@
 	culture=""
 	religion="mayan_pantheon"
 	trade_goods=""
-	civilization_value=10
-	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=1
-	}
-}
-
-8857={ #
-	terrain="desert_hills"
-	culture="utahn"
-	religion="mormon"
-	trade_goods=""
-	civilization_value=10
-	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=1
-	}
-}
-
-8858={ #
-	terrain="mountain"
-	culture="utahn"
-	religion="mormon"
-	trade_goods="salt"
-	civilization_value=10
-	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=1
-	}
-}
-
-8859={ #
-	terrain="desert"
-	culture="utahn"
-	religion="mormon"
-	trade_goods="salt"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -86305,32 +84108,6 @@
 	}
 }
 
-9294={ #
-	terrain="plains"
-	culture="navajo"
-	religion="zetanologist"
-	trade_goods=""
-	civilization_value=10
-	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=1
-	}
-}
-
-9295={ #
-	terrain="plains"
-	culture="navajo"
-	religion="buddhism"
-	trade_goods=""
-	civilization_value=10
-	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=1
-	}
-}
-
 9296={ #
 	terrain="plains"
 	culture=""
@@ -87124,45 +84901,6 @@
 	}
 }
 
-9378={ #
-	terrain="plains"
-	culture=""
-	religion="catholic"
-	trade_goods=""
-	civilization_value=10
-	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=1
-	}
-}
-
-9379={ #
-	terrain="plains"
-	culture=""
-	religion="catholic"
-	trade_goods=""
-	civilization_value=10
-	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=1
-	}
-}
-
-9380={ #
-	terrain="plains"
-	culture=""
-	religion="catholic"
-	trade_goods=""
-	civilization_value=10
-	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=1
-	}
-}
-
 9381={ #
 	terrain="plains"
 	culture=""
@@ -87388,45 +85126,6 @@
 	terrain="steppes"
 	culture="preiryansky"
 	religion="loneranger"
-	trade_goods=""
-	civilization_value=10
-	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=1
-	}
-}
-
-9407={ #
-	terrain="plains"
-	culture="arixan"
-	religion="caesarist"
-	trade_goods=""
-	civilization_value=10
-	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=1
-	}
-}
-
-9408={ #
-	terrain="plains"
-	culture="arixan"
-	religion="zetanologist"
-	trade_goods=""
-	civilization_value=10
-	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=1
-	}
-}
-
-9409={ #
-	terrain="plains"
-	culture="arixan"
-	religion="zetanologist"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -88463,58 +86162,6 @@
 	}
 }
 
-9552={ #
-	terrain="desert"
-	culture="snakelander"
-	religion="loneranger"
-	trade_goods=""
-	civilization_value=10
-	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=1
-	}
-}
-
-9553={ #
-	terrain="desert"
-	culture="snakelander"
-	religion="loneranger"
-	trade_goods=""
-	civilization_value=10
-	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=1
-	}
-}
-
-9554={ #
-	terrain="desert"
-	culture="snakelander"
-	religion="loneranger"
-	trade_goods=""
-	civilization_value=10
-	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=1
-	}
-}
-
-9555={ #
-	terrain="desert"
-	culture="snakelander"
-	religion="loneranger"
-	trade_goods=""
-	civilization_value=10
-	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=1
-	}
-}
-
 9556={ #
 	terrain="plains"
 	culture=""
@@ -89256,7 +86903,7 @@
 	}
 }
 
-9640={ #
+9640={ #Lower Mississippi River
 	terrain="riverine_terrain"
 	culture="deltaic"
 	religion="mayan_pantheon"
@@ -89451,7 +87098,7 @@
 	}
 }
 
-9655={ #
+9655={ #Lower Mississippi River
 	terrain="riverine_terrain"
 	culture=""
 	religion="mayan_pantheon"
@@ -89542,7 +87189,7 @@
 	}
 }
 
-9662={ #
+9662={ #Lower Mississippi River
 	terrain="riverine_terrain"
 	culture=""
 	religion="mayan_pantheon"
@@ -89854,7 +87501,7 @@
 	}
 }
 
-9686={ #
+9686={ #Lower Mississippi River
 	terrain="riverine_terrain"
 	culture=""
 	religion="mayan_pantheon"
@@ -90153,7 +87800,7 @@
 	}
 }
 
-9709={ #
+9709={ #Upper Mississippi River
 	terrain="riverine_terrain"
 	culture=""
 	religion="mayan_pantheon"
@@ -90673,7 +88320,7 @@
 	}
 }
 
-9749={ #
+9749={ #Lower Mississippi River
 	terrain="riverine_terrain"
 	culture=""
 	religion="mayan_pantheon"
@@ -91063,7 +88710,7 @@
 	}
 }
 
-9779={ #
+9779={ #Lower Mississippi River
 	terrain="riverine_terrain"
 	culture=""
 	religion="mayan_pantheon"
@@ -92363,7 +90010,7 @@
 	}
 }
 
-9879={ #
+9879={ #Upper Mississippi River
 	terrain="riverine_terrain"
 	culture=""
 	religion="mayan_pantheon"
@@ -93182,7 +90829,7 @@
 	}
 }
 
-9942={ #
+9942={ #Lower Mississippi River
 	terrain="riverine_terrain"
 	culture=""
 	religion="mayan_pantheon"
@@ -94339,7 +91986,7 @@
 	}
 }
 
-10031={ #
+10031={ #Lower Mississippi River
 	terrain="plains"
 	culture=""
 	religion="mayan_pantheon"
@@ -94443,7 +92090,7 @@
 	}
 }
 
-10039={ #
+10039={ #Missouri-Mississippi Confluence
 	terrain="riverine_terrain"
 	culture=""
 	religion="mayan_pantheon"
@@ -95353,7 +93000,7 @@
 	}
 }
 
-10109={ #
+10109={ #Lower Mississippi River
 	terrain="plains"
 	culture=""
 	religion="mayan_pantheon"
@@ -97290,7 +94937,7 @@
 	}
 }
 
-10258={ #
+10258={ #Lower Missouri River
 	terrain="riverine_terrain"
 	culture=""
 	religion="mayan_pantheon"
@@ -97875,7 +95522,7 @@
 	}
 }
 
-10303={ #
+10303={ #Upper Missouri River
 	terrain="plains"
 	culture=""
 	religion="mayan_pantheon"
@@ -98447,7 +96094,7 @@
 	}
 }
 
-10347={ #
+10347={ #Lower Missouri River
 	terrain="plains"
 	culture=""
 	religion="mayan_pantheon"
@@ -98486,7 +96133,7 @@
 	}
 }
 
-10350={ #
+10350={ #Upper Mississippi River
 	terrain="riverine_terrain"
 	culture=""
 	religion="mayan_pantheon"
@@ -98876,7 +96523,7 @@
 	}
 }
 
-10380={ #
+10380={ #Upper Mississippi River
 	terrain="riverine_terrain"
 	culture=""
 	religion="mayan_pantheon"
@@ -98941,7 +96588,7 @@
 	}
 }
 
-10385={ #
+10385={ #Upper Mississippi River
 	terrain="riverine_terrain"
 	culture=""
 	religion="mayan_pantheon"
@@ -99058,7 +96705,7 @@
 	}
 }
 
-10394={ #
+10394={ #Upper Missouri River
 	terrain="plains"
 	culture=""
 	religion="mayan_pantheon"
@@ -99253,7 +96900,7 @@
 	}
 }
 
-10409={ #
+10409={ #Upper Mississippi River
 	terrain="riverine_terrain"
 	culture=""
 	religion="mayan_pantheon"
@@ -99617,7 +97264,7 @@
 	}
 }
 
-10437={ #
+10437={ #Lower Missouri River
 	terrain="riverine_terrain"
 	culture=""
 	religion="mayan_pantheon"
@@ -99656,7 +97303,7 @@
 	}
 }
 
-10440={ #
+10440={ #Lower Missouri River
 	terrain="plains"
 	culture=""
 	religion="mayan_pantheon"
@@ -99734,7 +97381,7 @@
 	}
 }
 
-10446={ #
+10446={ #Upper Mississippi River
 	terrain="riverine_terrain"
 	culture=""
 	religion="mayan_pantheon"
@@ -99994,7 +97641,7 @@
 	}
 }
 
-10466={ #
+10466={ #Upper Mississippi River
 	terrain="plains"
 	culture=""
 	religion="mayan_pantheon"
@@ -100423,7 +98070,7 @@
 	}
 }
 
-10499={ #
+10499={ #Upper Missouri River
 	terrain="plains"
 	culture=""
 	religion="mayan_pantheon"
@@ -100527,7 +98174,7 @@
 	}
 }
 
-10507={ #
+10507={ #Upper Mississippi River
 	terrain="riverine_terrain"
 	culture=""
 	religion="mayan_pantheon"
@@ -101320,7 +98967,7 @@
 	}
 }
 
-10568={ #
+10568={ #Lower Missouri River
 	terrain="riverine_terrain"
 	culture=""
 	religion="mayan_pantheon"
@@ -101437,7 +99084,7 @@
 	}
 }
 
-10577={ #
+10577={ #Upper Mississippi River
 	terrain="riverine_terrain"
 	culture=""
 	religion="mayan_pantheon"

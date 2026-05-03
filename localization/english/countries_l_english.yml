@@ -68,6 +68,8 @@
  PAW_ADJ: "Missourien"
  CIN:0 "Cincinatti"
  CIN_ADJ:0 "Cincinattian"
+ FWN:0 "Fort Wayne"
+ FWN_ADJ:0 "Waynesian"
  
  ## South ##
  NOL:0 "New Orleans"
@@ -88,6 +90,8 @@
  REN_ADJ:0 "Renoite"
  PUG:0 "District of Puget"
  PUG_ADJ:0 "Pugite"
+ TUC:0 "District of Tucson"
+ TUC_ADJ:0 "Tucsonian"
 
  ## East Canada ##
  FRO:0 "Francontario"

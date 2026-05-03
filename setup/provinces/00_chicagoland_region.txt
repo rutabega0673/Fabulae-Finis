@@ -66,7 +66,7 @@
 267={ #Monticello
 	terrain="plains"
 	culture="hoosier"
-	religion="promethean"
+	religion="catholic"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -79,7 +79,7 @@
 268={ #Rensselaer
 	terrain="plains"
 	culture="chicagoan"
-	religion="promethean"
+	religion="catholic"
 	trade_goods="grain"
 	civilization_value=10
 	barbarian_power=0
@@ -92,7 +92,7 @@
 269={ #Fowler
 	terrain="plains"
 	culture="hoosier"
-	religion="promethean"
+	religion="catholic"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -105,7 +105,7 @@
 2223={ #Knox
 	terrain="plains"
 	culture="hoosier"
-	religion="promethean"
+	religion="catholic"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -118,7 +118,7 @@
 2224={ #Logansport
 	terrain="plains"
 	culture="hoosier"
-	religion="promethean"
+	religion="catholic"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -131,7 +131,7 @@
 2225={ #Warsaw
 	terrain="plains"
 	culture="hoosier"
-	religion="promethean"
+	religion="catholic"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -248,7 +248,7 @@
 2305={ #Elkhart
 	terrain="plains"
 	culture="hoosier"
-	religion="promethean"
+	religion="catholic"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -300,7 +300,7 @@
 5310={ #Fort Wayne
 	terrain="plains"
 	culture="buckeye"
-	religion="promethean"
+	religion="catholic"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -313,7 +313,7 @@
 5311={ #Bryan
 	terrain="farmland"
 	culture="buckeye"
-	religion="promethean"
+	religion="catholic"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -339,7 +339,7 @@
 5313={ #Auburn
 	terrain="plains"
 	culture="hoosier"
-	religion="promethean"
+	religion="catholic"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -534,7 +534,7 @@
 11635={ #La Porte
 	terrain="plains"
 	culture="chicagoan"
-	religion="promethean"
+	religion="catholic"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -547,7 +547,7 @@
 11653={ #Huntington
 	terrain="plains"
 	culture="hoosier"
-	religion="promethean"
+	religion="catholic"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -560,7 +560,7 @@
 11654={ #Columbia City
 	terrain="plains"
 	culture="hoosier"
-	religion="promethean"
+	religion="catholic"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0

@@ -33,6 +33,7 @@ CMO = "setup/countries/midwest/como.txt"
 HRM = "setup/countries/midwest/cole_camp.txt"
 KCA = "setup/countries/midwest/kansas_city.txt"
 CIN = "setup/countries/midwest/cincinatti.txt"
+FWN = "setup/countries/midwest/fort_wayne.txt"
 
 #South
 NOL = "setup/countries/south/new_orleans.txt"
@@ -45,6 +46,7 @@ SAC = "setup/countries/west_coast/sacramento.txt"
 NCR = "setup/countries/west_coast/san_diego.txt"
 REN = "setup/countries/west_coast/reno.txt"
 PUG = "setup/countries/west_coast/puget.txt"
+TUC = "setup/countries/west_coast/tucson.txt"
 
 #East Canada
 FRO = "setup/countries/east_canada/francontario.txt"

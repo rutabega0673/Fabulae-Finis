@@ -1,4 +1,30 @@
-﻿979={ #
+﻿791={ #
+	terrain="plains"
+	culture="snakelander"
+	religion="loneranger"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+792={ #
+	terrain="plains"
+	culture="snakelander"
+	religion="loneranger"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+979={ #
 	terrain="plains"
 	culture="montaneer"
 	religion="dreamer"
@@ -76,6 +102,188 @@
 	}
 }
 
+1626={ #
+	terrain="desert_hills"
+	culture="juniperian"
+	religion="loneranger"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+1627={ #
+	terrain="desert_hills"
+	culture="juniperian"
+	religion="loneranger"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+1628={ #
+	terrain="desert_hills"
+	culture="snakelander"
+	religion="loneranger"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+2299={ #
+	terrain="plains"
+	culture="montaneer"
+	religion="loneranger"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+2300={ #
+	terrain="mountain"
+	culture="snakelander"
+	religion="loneranger"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+2301={ #
+	terrain="mountain"
+	culture="montaneer"
+	religion="loneranger"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+2302={ #
+	terrain="mountain"
+	culture="montaneer"
+	religion="loneranger"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+2552={ #
+	terrain="plains"
+	culture="juniperian"
+	religion="loneranger"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+2553={ #
+	terrain="hills"
+	culture="snakelander"
+	religion="caesarist"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+2554={ #
+	terrain="hills"
+	culture="snakelander"
+	religion="caesarist"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+2927={ #
+	terrain="mountain"
+	culture="snakelander"
+	religion="loneranger"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+2928={ #
+	terrain="mountain"
+	culture="snakelander"
+	religion="loneranger"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+2929={ #
+	terrain="mountain"
+	culture="snakelander"
+	religion="loneranger"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+2930={ #
+	terrain="mountain"
+	culture="snakelander"
+	religion="loneranger"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
 3499={ #
 	terrain="mountain"
 	culture="snakelander"
@@ -93,6 +301,84 @@
 	terrain="mountain"
 	culture="snakelander"
 	religion="loneranger"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+3613={ #
+	terrain="hills"
+	culture="snakelander"
+	religion="caesarist"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+3614={ #
+	terrain="hills"
+	culture="snakelander"
+	religion="caesarist"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+3615={ #
+	terrain="desert"
+	culture="snakelander"
+	religion="loneranger"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+4549={ #
+	terrain="farmland"
+	culture="snakelander"
+	religion="caesarist"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+4550={ #
+	terrain="hills"
+	culture="snakelander"
+	religion="caesarist"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+4551={ #
+	terrain="hills"
+	culture="snakelander"
+	religion="caesarist"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -132,6 +418,110 @@
 	terrain="plains"
 	culture="doukhobor"
 	religion="dreamer"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+4927={ #
+	terrain="desert"
+	culture="utahn"
+	religion="mormon"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+4928={ #
+	terrain="desert"
+	culture="utahn"
+	religion="mormon"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+5398={ #
+	terrain="desert"
+	culture="snakelander"
+	religion="mormon"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+5399={ #
+	terrain="desert"
+	culture="snakelander"
+	religion="mormon"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+5400={ #
+	terrain="desert"
+	culture="utahn"
+	religion="mormon"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+5401={ #
+	terrain="hills"
+	culture="snakelander"
+	religion="loneranger"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+5402={ #
+	terrain="desert"
+	culture="snakelander"
+	religion="mormon"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+5403={ #
+	terrain="hills"
+	culture="snakelander"
+	religion="loneranger"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -245,6 +635,45 @@
 	}
 }
 
+7137={ #
+	terrain="hills"
+	culture="snakelander"
+	religion="caesarist"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+7138={ #
+	terrain="hills"
+	culture="snakelander"
+	religion="caesarist"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+7139={ #
+	terrain="mountain"
+	culture="snakelander"
+	religion="caesarist"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
 8395={ #
 	terrain="mountain"
 	culture="snakelander"
@@ -263,6 +692,84 @@
 	culture="montaneer"
 	religion="dreamer"
 	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+8441={ #
+	terrain="desert"
+	culture="snakelander"
+	religion="mormon"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+8442={ #
+	terrain="desert"
+	culture="snakelander"
+	religion="loneranger"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+8443={ #
+	terrain="desert"
+	culture="snakelander"
+	religion="mormon"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+8857={ #
+	terrain="desert_hills"
+	culture="utahn"
+	religion="mormon"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+8858={ #
+	terrain="mountain"
+	culture="utahn"
+	religion="mormon"
+	trade_goods="salt"
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+8859={ #
+	terrain="desert"
+	culture="utahn"
+	religion="mormon"
+	trade_goods="salt"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -314,6 +821,58 @@
 	terrain="mountain"
 	culture="montaneer"
 	religion="dreamer"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+9552={ #
+	terrain="desert"
+	culture="snakelander"
+	religion="loneranger"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+9553={ #
+	terrain="desert"
+	culture="snakelander"
+	religion="loneranger"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+9554={ #
+	terrain="desert"
+	culture="snakelander"
+	religion="loneranger"
+	trade_goods=""
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+9555={ #
+	terrain="desert"
+	culture="snakelander"
+	religion="loneranger"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0

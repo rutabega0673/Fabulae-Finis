@@ -920,3 +920,81 @@ ATL = { #Atlanta
 #	}
 #
 #}
+
+FWN = { #Fort Wayne
+	pattern="pattern_solid.tga"
+	color1=rgb { 15 30 82 }
+	color2=offwhite
+	
+	colored_emblem={
+		texture="ce_ordinary_pall_5.dds"
+		color1=offwhite
+	}
+
+	colored_emblem = {
+		texture="ce_lion_rampant.dds"
+		color1=rgb { 173 16 38 }
+		color2=rgb { 173 16 38 }
+		instance={
+			position={ 0.190000 0.750000 }
+			scale={ -0.350000 0.350000 }
+		}
+
+	}
+
+	colored_emblem={
+		color1=offwhite
+		texture="ce_circle_03.dds"
+		instance={
+			scale={ 0.70000 0.70000 }
+		}
+
+	}
+
+	colored_emblem={
+		color1= rgb { 173 16 38 }
+		texture="ce_fleur.dds"
+		instance={
+			position={ 0.80000 0.750000 }
+			scale={ 0.35000 0.35000 }
+		}
+
+	}
+
+	colored_emblem={
+		color1=rgb { 173 16 38 }
+		texture="ce_castle_random.dds"
+		instance={
+			scale={ 0.40000 0.40000 }
+		}
+
+	}
+
+	colored_emblem={
+		color1=rgb { 173 16 38 }
+		texture="ce_native_head.dds"
+		instance={
+			position={ 0.500000 0.140000 }
+			scale={ 0.350000 0.350000 }
+		}
+
+	}
+}
+
+TUC = { #Tucson
+	pattern = "pattern_solid.tga"
+	color1 = rgb { 200 100 75 }
+	color2 = "ck2_purple"
+
+	colored_emblem = {
+		texture = "ce_tucson_sun.dds"
+		color1 = "ck2_purple"
+		color2 = "light_yellow"
+		instance = { position = { 0.5 0.5 } }
+	}	
+	colored_emblem = {
+		texture = "ce_star_05.dds"
+		color1 = "offwhite"
+		instance = { position = { 0.5 0.5 } scale = { 0.5 0.5 }  }
+	}
+}
