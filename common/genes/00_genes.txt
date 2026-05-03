@@ -8997,6 +8997,7 @@ accessory_genes = {
             male = {
                 1 = male_clothes_american_1
                 1 = male_clothes_american_1_color2
+                1 = male_clothes_american_2
             }
             female = {
                 1 = female_clothes_american_1
