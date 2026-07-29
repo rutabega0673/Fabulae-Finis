@@ -1315,3 +1315,22 @@ PNM = { #Panna Maria
 	}
 }
 
+UTC = { #Utuca
+	pattern = "pattern_vertical_split_01.tga"
+	color1 = "offwhite"
+	color2 = "epirus_yellow"
+
+	colored_emblem = {
+		texture = "ce_axe_long.dds"
+		color1 = "epirus_yellow"
+		color2 = "offwhite"
+		instance = { position = { 0.30 0.50} }
+	}
+
+	colored_emblem = {
+		texture="ce_native_head.dds"
+		color1 = "offwhite"
+		color2 = "ck2_red"
+		instance = { position = { 0.75 0.50 } scale = { 0.90 0.90 }}
+	}
+}

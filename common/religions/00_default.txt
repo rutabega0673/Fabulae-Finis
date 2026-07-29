@@ -816,7 +816,7 @@ clairvoyant = { # Clairvoyant
 
 	}
 	religion_category = pantheon
-	sacrifice_icon = sacrifice_clairvoyant
+	sacrifice_icon = sacrifice_ouija_board
 	sacrifice_sound = "event:/SFX/UI/Religion/sfx_ui_religion_generic_sacrifice"
 }
 transcendentalist = { # Transcendentalist
