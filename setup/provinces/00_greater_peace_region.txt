@@ -729,7 +729,7 @@
 7390={ #Goldsboro
 	terrain="plains"
 	culture="piedmontese"
-	religion="evangelical"
+	religion="revelationist"
 	trade_goods="stone"
 	civilization_value=10
 	barbarian_power=0

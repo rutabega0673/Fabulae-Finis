@@ -19,6 +19,7 @@
 		hermanndeutsch = {} #Weinstrasser, Missouri Germans
 		wolgadeutsche = {} #North Dakota Russian Germans
 		plautdeitsch = {} #Mennonites and other rural German groups
+		yiddish = {} #Yiddish
 		wisconsindeutsch = { #Wisconsin Germans - Rostmann names from Fan Fork
 			male_names = {
 				Abraham_Abraham Adalbert_Albert Armstrong Alfraed_Alfred Amalrick_Amalric Adalfuns_Alphonse Adam_Adam Aripert Anthony_Anthony Adalrost Aleksandar_Alexander

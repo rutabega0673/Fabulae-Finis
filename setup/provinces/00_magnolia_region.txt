@@ -1,7 +1,7 @@
 ﻿594={ #Vicksburg
 	terrain="flood_plain"
 	culture="deltaic"
-	religion="revelationist"
+	religion="colossalist"
 	trade_goods="grain"
 	civilization_value=10
 	barbarian_power=0
@@ -14,7 +14,7 @@
 595={ #Mayersville
 	terrain="flood_plain"
 	culture="deltaic"
-	religion="revelationist"
+	religion="colossalist"
 	trade_goods="maize"
 	civilization_value=10
 	barbarian_power=0
@@ -52,7 +52,7 @@
 
 887={ #Carriere
 	terrain="marsh"
-	culture="gulfard"
+	culture="nolan"
 	religion="traiteurism"
 	trade_goods="salt"
 	civilization_value=10
@@ -144,7 +144,7 @@
 1260={ #Morton
 	terrain="forest"
 	culture="dixie"
-	religion="revelationist"
+	religion="colossalist"
 	trade_goods="salt"
 	civilization_value=10
 	barbarian_power=0
@@ -157,7 +157,7 @@
 1261={ #Pearl
 	terrain="forest"
 	culture="dixie"
-	religion="revelationist"
+	religion="colossalist"
 	trade_goods="cattle"
 	civilization_value=10
 	barbarian_power=0
@@ -170,7 +170,7 @@
 1262={ #Magee
 	terrain="forest"
 	culture="dixie"
-	religion="revelationist"
+	religion="colossalist"
 	trade_goods="wood"
 	civilization_value=10
 	barbarian_power=0
@@ -261,7 +261,7 @@
 2011={ #Canton
 	terrain="forest"
 	culture="deltaic"
-	religion="revelationist"
+	religion="colossalist"
 	trade_goods="cotton"
 	civilization_value=10
 	barbarian_power=0
@@ -313,7 +313,7 @@
 2694={ #Bude
 	terrain="forest"
 	culture="deltaic"
-	religion="revelationist"
+	religion="colossalist"
 	trade_goods="wild_game"
 	civilization_value=10
 	barbarian_power=0
@@ -326,7 +326,7 @@
 2695={ #Natchez
 	terrain="flood_plain"
 	culture="deltaic"
-	religion="revelationist"
+	religion="colossalist"
 	trade_goods="cotton"
 	civilization_value=10
 	barbarian_power=0
@@ -339,7 +339,7 @@
 4663={ #Collins
 	terrain="forest"
 	culture="dixie"
-	religion="revelationist"
+	religion="colossalist"
 	trade_goods="fish"
 	civilization_value=10
 	barbarian_power=0
@@ -352,7 +352,7 @@
 4664={ #Bay Springs
 	terrain="forest"
 	culture="dixie"
-	religion="revelationist"
+	religion="colossalist"
 	trade_goods="wild_game"
 	civilization_value=10
 	barbarian_power=0
@@ -404,7 +404,7 @@
 5210={ #Mccomb
 	terrain="forest"
 	culture="dixie"
-	religion="revelationist"
+	religion="colossalist"
 	trade_goods="woad"
 	civilization_value=10
 	barbarian_power=0
@@ -417,7 +417,7 @@
 5211={ #Holly Springs
 	terrain="forest"
 	culture="dixie"
-	religion="revelationist"
+	religion="colossalist"
 	trade_goods="leather"
 	civilization_value=10
 	barbarian_power=0
@@ -430,7 +430,7 @@
 5212={ #Brookhaven
 	terrain="plains"
 	culture="dixie"
-	religion="revelationist"
+	religion="colossalist"
 	trade_goods="vegetables"
 	civilization_value=10
 	barbarian_power=0
@@ -521,7 +521,7 @@
 6203={ #Silver City
 	terrain="forest"
 	culture="deltaic"
-	religion="revelationist"
+	religion="colossalist"
 	trade_goods="cotton"
 	civilization_value=10
 	barbarian_power=0
@@ -534,7 +534,7 @@
 6204={ #Indianola
 	terrain="forest"
 	culture="deltaic"
-	religion="revelationist"
+	religion="colossalist"
 	trade_goods="cattle"
 	civilization_value=10
 	barbarian_power=0
@@ -547,7 +547,7 @@
 6205={ #Greenville
 	terrain="flood_plain"
 	culture="deltaic"
-	religion="revelationist"
+	religion="colossalist"
 	trade_goods="rice"
 	civilization_value=10
 	barbarian_power=0
@@ -560,7 +560,7 @@
 6206={ #Rolling Fork
 	terrain="flood_plain"
 	culture="deltaic"
-	religion="revelationist"
+	religion="colossalist"
 	trade_goods="fish"
 	civilization_value=10
 	barbarian_power=0
@@ -573,7 +573,7 @@
 7303={ #Crystal Springs
 	terrain="forest"
 	culture="dixie"
-	religion="revelationist"
+	religion="colossalist"
 	trade_goods="wood"
 	civilization_value=10
 	barbarian_power=0
@@ -586,7 +586,7 @@
 7304={ #Clinton
 	terrain="forest"
 	culture="deltaic"
-	religion="revelationist"
+	religion="colossalist"
 	trade_goods="cattle"
 	civilization_value=10
 	barbarian_power=0
@@ -729,7 +729,7 @@
 8487={ #Cleveland
 	terrain="flood_plain"
 	culture="deltaic"
-	religion="revelationist"
+	religion="colossalist"
 	trade_goods="maize"
 	civilization_value=10
 	barbarian_power=0
@@ -755,7 +755,7 @@
 9120={ #Port Gibson
 	terrain="flood_plain"
 	culture="deltaic"
-	religion="revelationist"
+	religion="colossalist"
 	trade_goods="salt"
 	civilization_value=10
 	barbarian_power=0
@@ -768,7 +768,7 @@
 9121={ #Fayette
 	terrain="flood_plain"
 	culture="deltaic"
-	religion="revelationist"
+	religion="colossalist"
 	trade_goods="fish"
 	civilization_value=10
 	barbarian_power=0
@@ -781,7 +781,7 @@
 9122={ #Jackson
 	terrain="plains"
 	culture="dixie"
-	religion="revelationist"
+	religion="colossalist"
 	trade_goods="cotton"
 	civilization_value=10
 	barbarian_power=0
@@ -794,7 +794,7 @@
 9123={ #Madison
 	terrain="forest"
 	culture="deltaic"
-	religion="revelationist"
+	religion="colossalist"
 	trade_goods="beans"
 	civilization_value=10
 	barbarian_power=0

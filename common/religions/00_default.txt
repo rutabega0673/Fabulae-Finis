@@ -135,7 +135,7 @@ quaker = { # Quaker
 	}
 	religion_category = pantheon
 	is_monotheistic = yes
-	sacrifice_icon = sacrifice_incense
+	sacrifice_icon = sacrifice_communion
 	sacrifice_sound = "event:/SFX/UI/Religion/sfx_ui_religion_generic_sacrifice"
 }
 mennonite = { # Mennonite
@@ -147,7 +147,19 @@ mennonite = { # Mennonite
 	}
 	religion_category = pantheon
 	is_monotheistic = yes
-	sacrifice_icon = sacrifice_incense
+	sacrifice_icon = sacrifice_communion
+	sacrifice_sound = "event:/SFX/UI/Religion/sfx_ui_religion_generic_sacrifice"
+}
+episcopalian = { # Episcopalian/Proto Cavalier
+	color = rgb { 0 64 111 }
+	modifier = {
+		happiness_for_same_religion_modifier = 0.03
+		heavy_cavalry_morale = 0.10
+		global_nobles_output = -0.05
+	}
+	religion_category = pantheon
+	is_monotheistic = yes
+	sacrifice_icon = sacrifice_communion
 	sacrifice_sound = "event:/SFX/UI/Religion/sfx_ui_religion_generic_sacrifice"
 }
 ## Catholic ##
@@ -245,6 +257,17 @@ animist = { # Animist
 }
 cristero = { # Cristero
 	color = rgb { 206 17 38 }
+	modifier = { #Placeholder
+		fabricate_claim_cost_modifier = -0.25
+		religious_tech_investment = 0.10
+		global_monthly_state_loyalty = -0.03
+	}
+	religion_category = pantheon
+	sacrifice_icon = sacrifice_communion
+	sacrifice_sound = "event:/SFX/UI/Religion/sfx_ui_religion_generic_sacrifice"
+}
+insular = { # Insular
+	color = rgb { 178 178 165 }
 	modifier = { #Placeholder
 		fabricate_claim_cost_modifier = -0.25
 		religious_tech_investment = 0.10
@@ -871,6 +894,18 @@ scottish_rite = { # Scottish Rite
 	sacrifice_icon = sacrifice_incense
 	sacrifice_sound = "event:/SFX/UI/Religion/sfx_ui_religion_generic_sacrifice"
 }
+bahai = { # Baha'i
+	color = rgb { 198 59 136 }
+	modifier = {
+		happiness_for_wrong_culture_group_modifier = 0.03
+		happiness_for_wrong_religion_modifier = 0.03
+		omen_power = -0.10
+	}
+	religion_category = pantheon
+	is_monotheistic = yes
+	sacrifice_icon = sacrifice_incense
+	sacrifice_sound = "event:/SFX/UI/Religion/sfx_ui_religion_generic_sacrifice"
+}
 ## Reawakaned ##
 rosicrucian = { # Rosicrucian
 	color = rgb { 120 6 5 }
@@ -957,5 +992,18 @@ vendimia_sol = { # Vendimia Sol
 		happiness_for_same_religion_modifier = -0.03
 	}
 	religion_category = pantheon
+	sacrifice_sound = "event:/SFX/UI/Religion/sfx_ui_religion_generic_sacrifice"
+}
+## Jewish ##
+haredi = { # Haredi
+	color = rgb { 25 178 255 }
+	modifier = { #Placeholder
+		happiness_for_wrong_culture_group_modifier = 0.03
+		happiness_for_wrong_religion_modifier = 0.03
+		omen_power = -0.10
+	}
+	religion_category = pantheon
+	is_monotheistic = yes
+	sacrifice_icon = sacrifice_incense
 	sacrifice_sound = "event:/SFX/UI/Religion/sfx_ui_religion_generic_sacrifice"
 }

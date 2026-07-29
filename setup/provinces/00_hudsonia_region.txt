@@ -190,7 +190,7 @@
 1691={ #Walton
 	terrain="mountain"
 	culture="hudsonian"
-	religion="americanist"
+	religion="haredi"
 	trade_goods="wild_game"
 	civilization_value=10
 	barbarian_power=0
@@ -203,7 +203,7 @@
 1692={ #Thompson
 	terrain="mountain"
 	culture="hudsonian"
-	religion="americanist"
+	religion="haredi"
 	trade_goods="bodark"
 	civilization_value=10
 	barbarian_power=0
@@ -1409,7 +1409,7 @@
 7969={ #Ramapo
 	terrain="plains"
 	culture="gothamite"
-	religion="americanist"
+	religion="catholic"
 	trade_goods="fish"
 	civilization_value=10
 	barbarian_power=0
@@ -1422,7 +1422,7 @@
 7970={ #Monroe
 	terrain="plains"
 	culture="hudsonian"
-	religion="americanist"
+	religion="catholic"
 	trade_goods="honey"
 	civilization_value=10
 	barbarian_power=0
@@ -1526,7 +1526,7 @@
 9421={ #Shandaken
 	terrain="hills"
 	culture="hudsonian"
-	religion="americanist"
+	religion="haredi"
 	trade_goods="base_metals"
 	civilization_value=10
 	barbarian_power=0

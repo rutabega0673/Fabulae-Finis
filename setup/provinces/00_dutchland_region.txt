@@ -482,7 +482,7 @@
 9588={ #Bethlehem
 	terrain="hills"
 	culture="youser"
-	religion="americanist"
+	religion="catholic"
 	trade_goods="clay"
 	civilization_value=10
 	barbarian_power=0

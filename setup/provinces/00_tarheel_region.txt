@@ -1,7 +1,7 @@
 ﻿1893={ #Greensboro
 	terrain="forest"
 	culture="piedmontese"
-	religion="evangelical"
+	religion="revelationist"
 	trade_goods="earthware"
 	civilization_value=10
 	barbarian_power=0
@@ -14,7 +14,7 @@
 1894={ #Clemmons
 	terrain="forest"
 	culture="piedmontese"
-	religion="evangelical"
+	religion="revelationist"
 	trade_goods="hemp"
 	civilization_value=10
 	barbarian_power=0
@@ -27,7 +27,7 @@
 1895={ #High Point
 	terrain="forest"
 	culture="piedmontese"
-	religion="evangelical"
+	religion="revelationist"
 	trade_goods="stone"
 	civilization_value=10
 	barbarian_power=0
@@ -40,7 +40,7 @@
 1896={ #Winston Salem
 	terrain="forest"
 	culture="piedmontese"
-	religion="evangelical"
+	religion="revelationist"
 	trade_goods="honey"
 	civilization_value=10
 	barbarian_power=0
@@ -66,7 +66,7 @@
 2042={ #Chapel Hill
 	terrain="farmland"
 	culture="piedmontese"
-	religion="evangelical"
+	religion="revelationist"
 	trade_goods="honey"
 	civilization_value=10
 	barbarian_power=0
@@ -92,7 +92,7 @@
 2044={ #Durham
 	terrain="farmland"
 	culture="piedmontese"
-	religion="evangelical"
+	religion="revelationist"
 	trade_goods="cloth"
 	civilization_value=10
 	barbarian_power=0
@@ -105,7 +105,7 @@
 2063={ #Plymouth
 	terrain="forest"
 	culture="hoi_toider"
-	religion="evangelical"
+	religion="episcopalian"
 	trade_goods="salt"
 	civilization_value=10
 	barbarian_power=0
@@ -157,7 +157,7 @@
 2502={ #Indian Trail
 	terrain="plains"
 	culture="piedmontese"
-	religion="evangelical"
+	religion="revelationist"
 	trade_goods="wood"
 	civilization_value=10
 	barbarian_power=0
@@ -170,7 +170,7 @@
 2503={ #Gastonia
 	terrain="forest"
 	culture="piedmontese"
-	religion="evangelical"
+	religion="revelationist"
 	trade_goods="hemp"
 	civilization_value=10
 	barbarian_power=0
@@ -183,7 +183,7 @@
 2504={ #Charlotte
 	terrain="farmland"
 	culture="piedmontese"
-	religion="evangelical"
+	religion="revelationist"
 	trade_goods="cloth"
 	civilization_value=10
 	barbarian_power=0
@@ -196,7 +196,7 @@
 2505={ #Concord
 	terrain="forest"
 	culture="piedmontese"
-	religion="evangelical"
+	religion="revelationist"
 	trade_goods="grain"
 	civilization_value=10
 	barbarian_power=0
@@ -261,7 +261,7 @@
 3365={ #Williamston
 	terrain="plains"
 	culture="southron"
-	religion="evangelical"
+	religion="episcopalian"
 	trade_goods="earthware"
 	civilization_value=10
 	barbarian_power=0
@@ -274,7 +274,7 @@
 3366={ #Tarboro
 	terrain="forest"
 	culture="southron"
-	religion="evangelical"
+	religion="episcopalian"
 	trade_goods="wood"
 	civilization_value=10
 	barbarian_power=0
@@ -287,7 +287,7 @@
 3367={ #Washington
 	terrain="plains"
 	culture="hoi_toider"
-	religion="evangelical"
+	religion="episcopalian"
 	trade_goods="vegetables"
 	civilization_value=10
 	barbarian_power=0
@@ -313,7 +313,7 @@
 3684={ #Rocky Mount
 	terrain="plains"
 	culture="southron"
-	religion="evangelical"
+	religion="revelationist"
 	trade_goods="horses"
 	civilization_value=10
 	barbarian_power=0
@@ -339,7 +339,7 @@
 3861={ #Hickory
 	terrain="hills"
 	culture="piedmontese"
-	religion="evangelical"
+	religion="revelationist"
 	trade_goods="stone"
 	civilization_value=10
 	barbarian_power=0
@@ -352,7 +352,7 @@
 3862={ #Salisbury
 	terrain="forest"
 	culture="piedmontese"
-	religion="evangelical"
+	religion="revelationist"
 	trade_goods="cloth"
 	civilization_value=10
 	barbarian_power=0
@@ -365,7 +365,7 @@
 3863={ #Statesville
 	terrain="hills"
 	culture="piedmontese"
-	religion="evangelical"
+	religion="revelationist"
 	trade_goods="clay"
 	civilization_value=10
 	barbarian_power=0
@@ -456,7 +456,7 @@
 4609={ #Morganton
 	terrain="hills"
 	culture="appalachian"
-	religion="omenteller"
+	religion="revelationist"
 	trade_goods="honey"
 	civilization_value=10
 	barbarian_power=0
@@ -469,7 +469,7 @@
 4610={ #Forest City
 	terrain="hills"
 	culture="appalachian"
-	religion="omenteller"
+	religion="revelationist"
 	trade_goods="tubers"
 	civilization_value=10
 	barbarian_power=0
@@ -482,7 +482,7 @@
 4611={ #Marion
 	terrain="hills"
 	culture="appalachian"
-	religion="omenteller"
+	religion="revelationist"
 	trade_goods="clay"
 	civilization_value=10
 	barbarian_power=0
@@ -495,7 +495,7 @@
 5170={ #River Road
 	terrain="forest"
 	culture="hoi_toider"
-	religion="evangelical"
+	religion="episcopalian"
 	trade_goods="leather"
 	civilization_value=10
 	barbarian_power=0
@@ -508,7 +508,7 @@
 5171={ #New Bern
 	terrain="forest"
 	culture="piedmontese"
-	religion="evangelical"
+	religion="episcopalian"
 	trade_goods="beans"
 	civilization_value=10
 	barbarian_power=0
@@ -521,7 +521,7 @@
 5172={ #Greenville
 	terrain="plains"
 	culture="southron"
-	religion="evangelical"
+	religion="episcopalian"
 	trade_goods="vegetables"
 	civilization_value=10
 	barbarian_power=0
@@ -638,7 +638,7 @@
 6687={ #Mount Airy
 	terrain="hills"
 	culture="appalachian"
-	religion="evangelical"
+	religion="revelationist"
 	trade_goods="precious_metals"
 	civilization_value=10
 	barbarian_power=0
@@ -664,7 +664,7 @@
 6978={ #Wadesboro
 	terrain="forest"
 	culture="piedmontese"
-	religion="evangelical"
+	religion="revelationist"
 	trade_goods="hemp"
 	civilization_value=10
 	barbarian_power=0
@@ -690,7 +690,7 @@
 6980={ #Albemarle
 	terrain="plains"
 	culture="piedmontese"
-	religion="evangelical"
+	religion="revelationist"
 	trade_goods="cattle"
 	civilization_value=10
 	barbarian_power=0
@@ -703,7 +703,7 @@
 6981={ #Troy
 	terrain="plains"
 	culture="piedmontese"
-	religion="evangelical"
+	religion="revelationist"
 	trade_goods="horses"
 	civilization_value=10
 	barbarian_power=0
@@ -716,7 +716,7 @@
 7389={ #Wilson
 	terrain="forest"
 	culture="piedmontese"
-	religion="evangelical"
+	religion="revelationist"
 	trade_goods="grain"
 	civilization_value=10
 	barbarian_power=0
@@ -729,7 +729,7 @@
 7391={ #Clayton
 	terrain="forest"
 	culture="piedmontese"
-	religion="evangelical"
+	religion="revelationist"
 	trade_goods="wood"
 	civilization_value=10
 	barbarian_power=0
@@ -742,7 +742,7 @@
 7392={ #Raleigh
 	terrain="farmland"
 	culture="piedmontese"
-	religion="evangelical"
+	religion="revelationist"
 	trade_goods="hemp"
 	civilization_value=10
 	barbarian_power=0
@@ -755,7 +755,7 @@
 7988={ #Dunn
 	terrain="plains"
 	culture="piedmontese"
-	religion="evangelical"
+	religion="revelationist"
 	trade_goods="fish"
 	civilization_value=10
 	barbarian_power=0
@@ -768,7 +768,7 @@
 7989={ #Spring Lake
 	terrain="plains"
 	culture="piedmontese"
-	religion="americanist"
+	religion="revelationist"
 	trade_goods="cotton"
 	civilization_value=10
 	barbarian_power=0
@@ -794,7 +794,7 @@
 7991={ #Eastover
 	terrain="plains"
 	culture="piedmontese"
-	religion="evangelical"
+	religion="revelationist"
 	trade_goods="tobacco"
 	civilization_value=10
 	barbarian_power=0
@@ -833,7 +833,7 @@
 8019={ #Ahoskie
 	terrain="plains"
 	culture="southron"
-	religion="evangelical"
+	religion="episcopalian"
 	trade_goods="dye"
 	civilization_value=10
 	barbarian_power=0
@@ -846,7 +846,7 @@
 8020={ #Scotland Neck
 	terrain="plains"
 	culture="southron"
-	religion="evangelical"
+	religion="episcopalian"
 	trade_goods="vegetables"
 	civilization_value=10
 	barbarian_power=0
@@ -859,7 +859,7 @@
 8021={ #Murfreesboro
 	terrain="farmland"
 	culture="southron"
-	religion="evangelical"
+	religion="episcopalian"
 	trade_goods="horses"
 	civilization_value=10
 	barbarian_power=0
@@ -885,7 +885,7 @@
 8602={ #Edenton
 	terrain="forest"
 	culture="hoi_toider"
-	religion="evangelical"
+	religion="episcopalian"
 	trade_goods="salt"
 	civilization_value=10
 	barbarian_power=0
@@ -898,7 +898,7 @@
 8888={ #Siler City
 	terrain="plains"
 	culture="piedmontese"
-	religion="evangelical"
+	religion="revelationist"
 	trade_goods="fruits"
 	civilization_value=10
 	barbarian_power=0
@@ -911,7 +911,7 @@
 8889={ #Sanford
 	terrain="plains"
 	culture="piedmontese"
-	religion="americanist"
+	religion="revelationist"
 	trade_goods="cotton"
 	civilization_value=10
 	barbarian_power=0
@@ -924,7 +924,7 @@
 8890={ #Apex
 	terrain="plains"
 	culture="piedmontese"
-	religion="evangelical"
+	religion="revelationist"
 	trade_goods="cotton"
 	civilization_value=10
 	barbarian_power=0
@@ -937,7 +937,7 @@
 8891={ #Asheboro
 	terrain="farmland"
 	culture="piedmontese"
-	religion="evangelical"
+	religion="revelationist"
 	trade_goods="wood"
 	civilization_value=10
 	barbarian_power=0

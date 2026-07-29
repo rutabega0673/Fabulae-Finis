@@ -261,7 +261,7 @@
 2793={ #El Dorado
 	terrain="forest"
 	culture="arkalatexan"
-	religion="revelationist"
+	religion="colossalist"
 	trade_goods="wild_game"
 	civilization_value=10
 	barbarian_power=0
@@ -300,7 +300,7 @@
 3014={ #Monticello
 	terrain="forest"
 	culture="arkansawyer"
-	religion="revelationist"
+	religion="colossalist"
 	trade_goods="wood"
 	civilization_value=10
 	barbarian_power=0
@@ -313,7 +313,7 @@
 3015={ #Hampton
 	terrain="forest"
 	culture="arkalatexan"
-	religion="revelationist"
+	religion="colossalist"
 	trade_goods="cloth"
 	civilization_value=10
 	barbarian_power=0
@@ -326,7 +326,7 @@
 3016={ #Fordyce
 	terrain="forest"
 	culture="arkansawyer"
-	religion="revelationist"
+	religion="colossalist"
 	trade_goods="cotton"
 	civilization_value=10
 	barbarian_power=0
@@ -339,7 +339,7 @@
 3017={ #Pine Bluff
 	terrain="forest"
 	culture="arkansawyer"
-	religion="revelationist"
+	religion="colossalist"
 	trade_goods="cloth"
 	civilization_value=10
 	barbarian_power=0
@@ -573,7 +573,7 @@
 5830={ #Dumas
 	terrain="flood_plain"
 	culture="arkansawyer"
-	religion="revelationist"
+	religion="colossalist"
 	trade_goods="maize"
 	civilization_value=10
 	barbarian_power=0
@@ -586,7 +586,7 @@
 5831={ #Lake Village
 	terrain="flood_plain"
 	culture="deltaic"
-	religion="revelationist"
+	religion="colossalist"
 	trade_goods="cotton"
 	civilization_value=10
 	barbarian_power=0
@@ -599,7 +599,7 @@
 5832={ #Montrose
 	terrain="forest"
 	culture="arkansawyer"
-	religion="revelationist"
+	religion="colossalist"
 	trade_goods="grain"
 	civilization_value=10
 	barbarian_power=0
@@ -612,7 +612,7 @@
 5833={ #Crossett
 	terrain="forest"
 	culture="arkalatexan"
-	religion="revelationist"
+	religion="colossalist"
 	trade_goods="woad"
 	civilization_value=10
 	barbarian_power=0

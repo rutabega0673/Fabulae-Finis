@@ -871,7 +871,7 @@
 
 7196={ #Beaumont
 	terrain="plains"
-	culture="louisianais"
+	culture="lway_viet"
 	religion="traiteurism"
 	trade_goods="fish"
 	civilization_value=10
@@ -1196,7 +1196,7 @@
 
 9218={ #Sour Lake
 	terrain="forest"
-	culture="texan"
+	culture="lway_viet"
 	religion="loneranger"
 	trade_goods="leather"
 	civilization_value=10
@@ -1222,7 +1222,7 @@
 
 9220={ #Winnie
 	terrain="plains"
-	culture="texan"
+	culture="lway_viet"
 	religion="traiteurism"
 	trade_goods="earthware"
 	civilization_value=10
@@ -1391,7 +1391,7 @@
 
 11610={ #Pearland
 	terrain="plains"
-	culture="texan"
+	culture="lway_viet"
 	religion="americanist"
 	trade_goods="fruits"
 	civilization_value=10

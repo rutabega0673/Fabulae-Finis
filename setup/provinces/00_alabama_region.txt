@@ -273,7 +273,7 @@
 
 4953={ #Mobile
 	terrain="flood_plain"
-	culture="gulfard"
+	culture="dixie"
 	religion="revelationist"
 	trade_goods="salt"
 	civilization_value=10
@@ -286,7 +286,7 @@
 
 4954={ #Bay Minette
 	terrain="forest"
-	culture="gulfard"
+	culture="dixie"
 	religion="revelationist"
 	trade_goods="fish"
 	civilization_value=10
@@ -352,7 +352,7 @@
 5343={ #Dalton
 	terrain="hills"
 	culture="appalachian"
-	religion="evangelical"
+	religion="revelationist"
 	trade_goods="wild_game"
 	civilization_value=10
 	barbarian_power=0
@@ -365,7 +365,7 @@
 5344={ #Fort Payne
 	terrain="hills"
 	culture="appalachian"
-	religion="evangelical"
+	religion="revelationist"
 	trade_goods="cloth"
 	civilization_value=10
 	barbarian_power=0
@@ -521,7 +521,7 @@
 7385={ #Rome
 	terrain="hills"
 	culture="appalachian"
-	religion="evangelical"
+	religion="revelationist"
 	trade_goods="stone"
 	civilization_value=10
 	barbarian_power=0
@@ -534,7 +534,7 @@
 7386={ #Heflin
 	terrain="hills"
 	culture="appalachian"
-	religion="evangelical"
+	religion="revelationist"
 	trade_goods="fruits"
 	civilization_value=10
 	barbarian_power=0

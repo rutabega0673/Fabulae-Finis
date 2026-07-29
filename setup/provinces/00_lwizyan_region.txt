@@ -1,7 +1,7 @@
 ﻿393={ #Monroe
 	terrain="forest"
 	culture="arkalatexan"
-	religion="revelationist"
+	religion="colossalist"
 	trade_goods="tubers"
 	civilization_value=6
 	barbarian_power=0
@@ -17,7 +17,7 @@
 394={ #Lake Providence
 	terrain="flood_plain"
 	culture="deltaic"
-	religion="revelationist"
+	religion="colossalist"
 	trade_goods="fruits"
 	civilization_value=6
 	barbarian_power=0
@@ -33,7 +33,7 @@
 395={ #Bastrop
 	terrain="forest"
 	culture="deltaic"
-	religion="revelationist"
+	religion="colossalist"
 	trade_goods="tubers"
 	civilization_value=6
 	barbarian_power=0
@@ -49,7 +49,7 @@
 396={ #Monticello
 	terrain="flood_plain"
 	culture="deltaic"
-	religion="revelationist"
+	religion="colossalist"
 	trade_goods="fruits"
 	civilization_value=6
 	barbarian_power=0
@@ -112,7 +112,7 @@
 
 2411={ #Hackberry
 	terrain="marsh"
-	culture="louisianais"
+	culture="lway_viet"
 	religion="traiteurism"
 	trade_goods="fish"
 	civilization_value=15
@@ -626,7 +626,7 @@
 6323={ #Newellton
 	terrain="flood_plain"
 	culture="deltaic"
-	religion="revelationist"
+	religion="colossalist"
 	trade_goods="cotton"
 	civilization_value=6
 	barbarian_power=0
@@ -645,7 +645,7 @@
 6324={ #Tallulah
 	terrain="flood_plain"
 	culture="deltaic"
-	religion="revelationist"
+	religion="colossalist"
 	trade_goods="vegetables"
 	civilization_value=12
 	barbarian_power=0
@@ -683,7 +683,7 @@
 6326={ #Winsboro
 	terrain="flood_plain"
 	culture="arkalatexan"
-	religion="revelationist"
+	religion="colossalist"
 	trade_goods="beans"
 	civilization_value=6
 	barbarian_power=0
@@ -810,7 +810,7 @@
 
 7232={ #Zachary
 	terrain="flood_plain"
-	culture="deltaic"
+	culture="nolan"
 	religion="traiteurism"
 	trade_goods="leather"
 	civilization_value=6
@@ -829,7 +829,7 @@
 
 7233={ #Centreville
 	terrain="forest"
-	culture="deltaic"
+	culture="nolan"
 	religion="traiteurism"
 	trade_goods="hemp"
 	civilization_value=6
@@ -918,7 +918,7 @@
 
 7719={ #Lake Arthur
 	terrain="marsh"
-	culture="louisianais"
+	culture="lway_viet"
 	religion="traiteurism"
 	trade_goods="fish"
 	civilization_value=15

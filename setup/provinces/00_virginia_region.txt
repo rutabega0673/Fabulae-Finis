@@ -92,7 +92,7 @@
 1608={ #Powhatan
 	terrain="forest"
 	culture="southron"
-	religion="americanist"
+	religion="evangelical"
 	trade_goods="maple"
 	civilization_value=10
 	barbarian_power=0
@@ -222,7 +222,7 @@
 2001={ #Franklin
 	terrain="plains"
 	culture="southron"
-	religion="evangelical"
+	religion="episcopalian"
 	trade_goods="fruits"
 	civilization_value=10
 	barbarian_power=0
@@ -235,7 +235,7 @@
 2002={ #Suffolk
 	terrain="forest"
 	culture="southron"
-	religion="evangelical"
+	religion="episcopalian"
 	trade_goods="hemp"
 	civilization_value=10
 	barbarian_power=0
@@ -326,7 +326,7 @@
 5064={ #Petersburg
 	terrain="plains"
 	culture="southron"
-	religion="americanist"
+	religion="evangelical"
 	trade_goods="horses"
 	civilization_value=10
 	barbarian_power=0
@@ -365,7 +365,7 @@
 5067={ #Chesterfield
 	terrain="forest"
 	culture="southron"
-	religion="americanist"
+	religion="evangelical"
 	trade_goods="horses"
 	civilization_value=10
 	barbarian_power=0
@@ -378,7 +378,7 @@
 5068={ #Richmond
 	terrain="farmland"
 	culture="southron"
-	religion="americanist"
+	religion="evangelical"
 	trade_goods="cloth"
 	civilization_value=10
 	barbarian_power=0

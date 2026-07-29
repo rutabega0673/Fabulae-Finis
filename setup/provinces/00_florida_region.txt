@@ -1,7 +1,7 @@
 ﻿241={ #Naples
 	terrain="jungle"
 	culture="seminole"
-	religion="catholic"
+	religion="insular"
 	trade_goods="vegetables"
 	civilization_value=10
 	barbarian_power=0
@@ -27,7 +27,7 @@
 243={ #Bonita Springs
 	terrain="jungle"
 	culture="miccosukee"
-	religion="catholic"
+	religion="insular"
 	trade_goods="fish"
 	civilization_value=10
 	barbarian_power=0
@@ -156,7 +156,7 @@
 
 1669={ #Crestview
 	terrain="plains"
-	culture="dixie"
+	culture="gulfard"
 	religion="revelationist"
 	trade_goods="cotton"
 	civilization_value=10
@@ -209,7 +209,7 @@
 2900={ #Key West
 	terrain="marsh"
 	culture="sofloano"
-	religion="catholic"
+	religion="insular"
 	trade_goods="shells"
 	civilization_value=10
 	barbarian_power=0
@@ -222,7 +222,7 @@
 2901={ #Key Largo
 	terrain="marsh"
 	culture="sofloano"
-	religion="catholic"
+	religion="insular"
 	trade_goods="shells"
 	civilization_value=10
 	barbarian_power=0
@@ -326,7 +326,7 @@
 4201={ #Miami
 	terrain="flood_plain"
 	culture="sofloano"
-	religion="catholic"
+	religion="insular"
 	trade_goods="sugar"
 	civilization_value=10
 	barbarian_power=0
@@ -339,7 +339,7 @@
 4202={ #Hialeah
 	terrain="flood_plain"
 	culture="sofloano"
-	religion="catholic"
+	religion="insular"
 	trade_goods="beans"
 	civilization_value=10
 	barbarian_power=0
@@ -352,7 +352,7 @@
 4589={ #Homestead
 	terrain="marsh"
 	culture="seminole"
-	religion="catholic"
+	religion="insular"
 	trade_goods="fish"
 	civilization_value=10
 	barbarian_power=0
@@ -365,7 +365,7 @@
 4590={ #Everglades City
 	terrain="jungle"
 	culture="seminole"
-	religion="catholic"
+	religion="insular"
 	trade_goods="fruits"
 	civilization_value=10
 	barbarian_power=0
@@ -533,7 +533,7 @@
 
 6171={ #Defuniak Springs
 	terrain="farmland"
-	culture="dixie"
+	culture="gulfard"
 	religion="revelationist"
 	trade_goods="wood"
 	civilization_value=10
@@ -546,7 +546,7 @@
 
 6172={ #Chipley
 	terrain="hills"
-	culture="dixie"
+	culture="gulfard"
 	religion="springsearcher"
 	trade_goods="tubers"
 	civilization_value=10

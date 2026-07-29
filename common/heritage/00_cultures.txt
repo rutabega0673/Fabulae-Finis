@@ -457,7 +457,7 @@ texian_heritage = {
 tejano_heritage = {
    	modifier = {
         #good
-        light_cavalry_movement_speed = 0.10
+        light_cavalry_dry_plains_combat_bonus = 0.10
         global_pop_assimilation_speed_modifier = 0.05
        #bad
         civil_war_threshold = -0.03
@@ -647,6 +647,19 @@ euskal_heritage = {
 
    trigger = {
         primary_culture = euskal
+	}
+}
+silesian_heritage = {
+   	modifier = {
+        #good
+        enact_holy_site_cost_modifier = -0.15
+        light_cavalry_plains_combat_bonus = 0.10
+       #bad
+        change_diplomatic_stance_cost_modifier = 0.25
+   }
+
+   trigger = {
+        primary_culture = silesian
 	}
 }
 #Culture Group

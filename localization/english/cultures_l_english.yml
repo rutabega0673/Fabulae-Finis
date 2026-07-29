@@ -24,6 +24,7 @@
  cadjin:0 "Cadjin"
  creole:0 "Creole"
  isleno:0 "Isleño"
+ lway_viet:0 "Lway Viet"
  
  ## Mid-Atlantic ##
  yankee:0 "Mid-Atlantic"
@@ -190,6 +191,7 @@
  wolgadeutsche:0 "Bismarcker" #North Dakota Russian Germans
  wisconsindeutsch:0 "Grünbuchtlander" #Wisconsin High German
  plautdeitsch:0 "Plautsdeutsch"
+ yiddish:0 "Yiddish"
  
  ## Californian ##
  californian:0 "Californian"
@@ -296,7 +298,7 @@
  columbien:0 "Columbien"
 
  ## Czexan ##
- czexan:0 "Bergbewohner" #German for 'Hill-dweller'
+ czexan:0 "Bohemian" #If you think about it, there's all the parts for ONE medieval Bohemia
  texanane:0 "Czexan"
  silesian:0 "Silesian"
 
