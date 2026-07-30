@@ -14,7 +14,7 @@
 242={ #Fort Meyers
 	terrain="jungle"
 	culture="sunshiner"
-	religion="shriner"
+	religion="springsearcher"
 	trade_goods="fruits"
 	civilization_value=10
 	barbarian_power=0
@@ -27,7 +27,7 @@
 243={ #Bonita Springs
 	terrain="jungle"
 	culture="miccosukee"
-	religion="insular"
+	religion="springsearcher"
 	trade_goods="fish"
 	civilization_value=10
 	barbarian_power=0
@@ -40,7 +40,7 @@
 244={ #Port Charlotte
 	terrain="jungle"
 	culture="sunshiner"
-	religion="shriner"
+	religion="springsearcher"
 	trade_goods="salt"
 	civilization_value=10
 	barbarian_power=0
@@ -235,7 +235,7 @@
 3140={ #Port Saint Lucie
 	terrain="plains"
 	culture="amerikaniotis"
-	religion="americanist"
+	religion="springsearcher"
 	trade_goods="sugar"
 	civilization_value=10
 	barbarian_power=0
@@ -248,7 +248,7 @@
 3141={ #Sebastian
 	terrain="plains"
 	culture="amerikaniotis"
-	religion="americanist"
+	religion="springsearcher"
 	trade_goods="fruits"
 	civilization_value=10
 	barbarian_power=0
@@ -430,7 +430,7 @@
 4818={ #Wesley Chapel
 	terrain="plains"
 	culture="amerikaniotis"
-	religion="americanist"
+	religion="springsearcher"
 	trade_goods="hemp"
 	civilization_value=10
 	barbarian_power=0
@@ -482,7 +482,7 @@
 5353={ #Jupiter
 	terrain="marsh"
 	culture="amerikaniotis"
-	religion="americanist"
+	religion="springsearcher"
 	trade_goods="vegetables"
 	civilization_value=10
 	barbarian_power=0
@@ -495,7 +495,7 @@
 5457={ #Homosassa Springs
 	terrain="plains"
 	culture="sunshiner"
-	religion="americanist"
+	religion="springsearcher"
 	trade_goods="fruits"
 	civilization_value=10
 	barbarian_power=0
@@ -924,7 +924,7 @@
 11935={ #New Port Richey
 	terrain="plains"
 	culture="amerikaniotis"
-	religion="americanist"
+	religion="springsearcher"
 	trade_goods="salt"
 	civilization_value=10
 	barbarian_power=0
@@ -937,7 +937,7 @@
 11936={ #Clearwater
 	terrain="plains"
 	culture="amerikaniotis"
-	religion="shriner"
+	religion="springsearcher"
 	trade_goods="leather"
 	civilization_value=10
 	barbarian_power=0
@@ -976,7 +976,7 @@
 11939={ #Venice
 	terrain="marsh"
 	culture="sunshiner"
-	religion="shriner"
+	religion="springsearcher"
 	trade_goods="shells"
 	civilization_value=10
 	barbarian_power=0
@@ -1054,7 +1054,7 @@
 11945={ #Fort Pierce
 	terrain="plains"
 	culture="amerikaniotis"
-	religion="americanist"
+	religion="springsearcher"
 	trade_goods="salt"
 	civilization_value=10
 	barbarian_power=0

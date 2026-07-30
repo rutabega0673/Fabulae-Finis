@@ -221,7 +221,7 @@
 
 5024={ #Mason
 	terrain="steppes"
-	culture="texaner"
+	culture="tejano"
 	religion="colossalist"
 	trade_goods="cattle"
 	civilization_value=10
@@ -247,7 +247,7 @@
 
 5026={ #Brady
 	terrain="steppes"
-	culture="texaner"
+	culture="tejano"
 	religion="colossalist"
 	trade_goods="beer"
 	civilization_value=10
@@ -390,7 +390,7 @@
 
 5088={ #Uvalde
 	terrain="hills"
-	culture="tejano"
+	culture="texaner"
 	religion="colossalist"
 	trade_goods="beans"
 	civilization_value=10
@@ -403,7 +403,7 @@
 
 5090={ #Rocksprings
 	terrain="hills"
-	culture="tejano"
+	culture="texaner"
 	religion="colossalist"
 	trade_goods="incense"
 	civilization_value=10
@@ -754,7 +754,7 @@
 
 8677={ #Sterling City
 	terrain="steppes"
-	culture="estacadan"
+	culture="texaner"
 	religion="petrobaron"
 	trade_goods="tubers"
 	civilization_value=10
@@ -910,7 +910,7 @@
 
 11622={ #Three Rivers
 	terrain="plains"
-	culture="tejano"
+	culture="silesian"
 	religion="colossalist"
 	trade_goods="tubers"
 	civilization_value=10

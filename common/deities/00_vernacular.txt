@@ -1,0 +1,275 @@
+﻿deity_ponce_de_leon = { #Ponce DeLeon
+	trigger = {
+		polytheistic_check_religion_trigger = yes
+		OR = {
+			common_deity_trigger = {
+				RELIGION = springsearcher
+			}
+			deity:omen_ponce_de_leon = {
+				holy_site_deity_check_trigger = yes
+			}
+		}
+	}
+	icon = deity_tribal_war
+	passive_modifier = { army_maintenance_cost = deity_army_maintenance_cost_svalue }
+	omen = { agressive_expansion_monthly_change = omen_aggressive_expansion_monthly_change_svalue } #Bonus from Omen
+	religion = springsearcher
+	deity_category = war 
+	deification_trigger = {
+		can_deify_trigger = no
+	}
+
+	on_activate = {
+		military_apotheosis_capital_freemen_effect = yes
+	}
+}
+deity_font_spirit = { # Font Spirit - God, sort of
+	trigger = {
+		polytheistic_check_religion_trigger = yes
+		OR = {
+			common_deity_trigger = {
+				RELIGION = springsearcher
+			}
+			deity:omen_font_spirit = {
+				holy_site_deity_check_trigger = yes
+			}
+		}
+	}
+	icon = deity_tribal_eloquence
+	passive_modifier = { global_supply_limit_modifier = deity_global_supply_limit_modifier_svalue }
+	omen = { manpower_recovery_speed = omen_manpower_recovery_speed } #Bonus from Omen
+	religion = springsearcher
+	deity_category = culture
+	deification_trigger = {
+		can_deify_trigger = no
+	}
+
+	on_activate = {
+		culture_apotheosis_capital_effect = yes
+	}
+}
+deity_ol_flagler = { # Henry Morrison Flagler, oil magnate who developed east Florida
+	trigger = {
+		polytheistic_check_religion_trigger = yes
+		OR = {
+			rare_deity_trigger = {
+				RELIGION = springsearcher
+			}
+			deity:omen_ol_flagler = {
+				holy_site_deity_check_trigger = yes
+			}
+		}
+	}
+	icon = deity_tribal_wealth
+	passive_modifier = { build_cost = deity_build_cost_svalue }
+	omen = { global_tax_modifier = omen_global_tax_modifier_svalue } #Bonus from Omen
+	religion = springsearcher
+	deity_category = economy
+	deification_trigger = {
+		can_deify_trigger = no
+	}
+
+	on_activate = {
+		economy_apotheosis_province_improvement_effect = yes
+	}
+}
+deity_ay_see = { #Ay See = AC
+	trigger = {
+		polytheistic_check_religion_trigger = yes
+		OR = {
+			common_deity_trigger = {
+				RELIGION = springsearcher
+			}
+			deity:omen_ay_see = {
+				holy_site_deity_check_trigger = yes
+			}
+		}
+	}
+	icon = deity_tribal_love
+	passive_modifier = { global_monthly_food_modifier = deity_global_monthly_food_modifier_svalue }
+	omen = { global_population_growth = omen_global_population_growth } #Bonus from Omen
+	religion = springsearcher
+	deity_category = fertility
+	deification_trigger = {
+		can_deify_trigger = no
+	}
+
+	on_activate = {
+		fertility_apotheosis_capital_slaves_effect = yes
+	}
+}
+deity_marjory_douglas = { #Marjory Douglas, writer who advocated for the preservation of the everglades
+	trigger = {
+		polytheistic_check_religion_trigger = yes
+		OR = {
+			common_deity_trigger = {
+				RELIGION = springsearcher
+			}
+			deity:omen_marjory_douglas = {
+				holy_site_deity_check_trigger = yes
+			}
+		}
+	}
+	icon = deity_tribal_eloqeunce
+	passive_modifier = { civic_tech_investment = deity_civic_tech_investment_svalue }
+	omen = { global_population_happiness = omen_global_population_happiness } #Bonus from Omen
+	religion = springsearcher
+	deity_category = culture
+	deification_trigger = {
+		can_deify_trigger = no
+	}
+
+	on_activate = {
+		culture_apotheosis_civic_tech_effect = yes
+	}
+}
+deity_osceola = { #Osceola, famed Seminole chief and warrior
+	trigger = {
+		polytheistic_check_religion_trigger = yes
+		OR = {
+			common_deity_trigger = {
+				RELIGION = springsearcher
+			}
+			deity:omen_osceola = {
+				holy_site_deity_check_trigger = yes
+			}
+		}
+	}
+	icon = deity_tribal_war
+	passive_modifier = { discipline = deity_discipline_svalue }
+	omen = { war_score_cost = omen_war_score_cost_svalue }
+	religion = springsearcher
+	deity_category = war
+	deification_trigger = {
+		can_deify_trigger = no
+	}
+
+	on_activate = {
+		military_apotheosis_military_experience_effect = yes
+	}
+}
+deity_david_springsearcher = { #The Biblical David
+	trigger = {
+		polytheistic_check_religion_trigger = yes
+		OR = {
+			very_rare_deity_trigger = {
+				RELIGION = springsearcher
+			}
+			deity:omen_david_springsearcher = {
+				holy_site_deity_check_trigger = yes
+			}
+		}
+	}
+	icon = deity_tribal_war
+	passive_modifier = { fabricate_claim_speed = deity_fabricate_claim_speed_svalue }
+	omen = { army_movement_speed = 0.05 } #Bonus from Omen
+	religion = springsearcher
+	deity_category = war
+	deification_trigger = {
+		can_deify_trigger = no
+	}
+
+	on_activate = {
+		military_apotheosis_defensive_effect = yes
+	}
+}
+deity_apollo_springsearcher = { # Neil Armstrong / Apollo 11
+	trigger = {
+		polytheistic_check_religion_trigger = yes
+		OR = {
+			rare_deity_trigger = {
+				RELIGION = springsearcher
+			}
+			deity:omen_apollo_springsearcher = {
+				holy_site_deity_check_trigger = yes
+			}
+		}
+	}
+	icon = deity_tribal_war
+	passive_modifier = { navy_maintenance_cost = deity_navy_maintenance_cost_svalue }
+	omen = { happiness_for_same_religion_modifier = omen_happiness_for_same_religion_modifier_svalue } #Bonus from Omen
+	religion = springsearcher
+	deity_category = war
+	deification_trigger = {
+		can_deify_trigger = no
+	}
+
+	on_activate = {
+		culture_apotheosis_capital_effect = yes
+	}
+}
+deity_two_toed_tom = { #Alligator in Alabaman and Floridian folklore
+	trigger = {
+		polytheistic_check_religion_trigger = yes
+		OR = {
+			very_rare_deity_trigger = {
+				RELIGION = springsearcher
+			}
+			deity:omen_two_toed_tom = {
+				holy_site_deity_check_trigger = yes
+			}
+		}
+	}
+	icon = deity_tribal_war
+	passive_modifier = { global_cohort_start_experience = deity_global_cohort_start_experience_svalue }
+	omen = { land_morale = omen_land_morale_modifier_svalue } #Bonus from Omen
+	religion = springsearcher
+	deity_category = war
+	deification_trigger = {
+		can_deify_trigger = no
+	}
+
+	on_activate = {
+		military_apotheosis_military_experience_effect = yes
+	}
+}
+deity_immortal_one = { #Immortal One, also God
+	trigger = {
+		polytheistic_check_religion_trigger = yes
+		OR = {
+			common_deity_trigger = {
+				RELIGION = springsearcher
+			}
+			deity:omen_immortal_one = {
+				holy_site_deity_check_trigger = yes
+			}
+		}
+	}
+	icon = deity_tribal_eloquence
+	passive_modifier = { global_tribesmen_happyness = global_tribesmen_happiness_svalue }
+	omen = { happiness_for_same_culture_modifier = omen_happiness_for_same_culture_modifier_svalue } #Bonus from Omen
+	religion = springsearcher
+	deity_category = culture
+	deification_trigger = {
+		can_deify_trigger = no
+	}
+
+	on_activate = {
+		military_apotheosis_capital_freemen_effect = yes
+	}
+}
+deity_cat_five = { #Category Five Hurricane / water god
+	trigger = {
+		polytheistic_check_religion_trigger = yes
+		OR = {
+			very_rare_deity_trigger = {
+				RELIGION = springsearcher
+			}
+			deity:omen_cat_five = {
+				holy_site_deity_check_trigger = yes
+			}
+		}
+	}
+	icon = deity_tribal_love
+	passive_modifier = { global_population_capacity_modifier = deity_global_population_capacity_modifier_svalue }
+	omen = { build_time = -0.08 } #Bonus from Omen
+	religion = springsearcher
+	deity_category = fertility
+	deification_trigger = {
+		can_deify_trigger = no
+	}
+
+	on_activate = {
+		military_apotheosis_capital_freemen_effect = yes
+	}
+}

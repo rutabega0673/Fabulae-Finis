@@ -1,6 +1,6 @@
 ﻿9={ #Big Spring
 	terrain="steppes"
-	culture="estacadan"
+	culture="texaner"
 	religion="petrobaron"
 	trade_goods="bodark"
 	civilization_value=10

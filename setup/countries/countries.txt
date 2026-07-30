@@ -220,6 +220,13 @@ CRP = "setup/countries/south/corpus_christi.txt"
 ELD = "setup/countries/south/el_dorado.txt"
 RIO = "setup/countries/south/rio_bravo.txt"
 HRN = "setup/countries/south/hearne.txt"
+SML = "setup/countries/south/naples.txt"
+EVL = "setup/countries/south/everglades.txt"
+NFL = "setup/countries/south/norflo.txt"
+TPS = "setup/countries/south/tarpon_springs.txt"
+NPR = "setup/countries/south/new_port_richey.txt"
+HMM = "setup/countries/south/homosassa_springs.txt"
+JSV = "setup/countries/south/jacksonville.txt"
 
 #West Coast
 SAC = "setup/countries/west_coast/sacramento.txt"

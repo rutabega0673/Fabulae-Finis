@@ -221,7 +221,7 @@
 
 1475={ #Napoleon
 	terrain="steppes"
-	culture="northlander"
+	culture="wolgadeutsche"
 	religion="peyotist"
 	trade_goods="cattle"
 	civilization_value=10
@@ -494,7 +494,7 @@
 
 3934={ #Velva
 	terrain="steppes"
-	culture="badlander"
+	culture="wolgadeutsche"
 	religion="peyotist"
 	trade_goods="hemp"
 	civilization_value=10
@@ -520,7 +520,7 @@
 
 4158={ #Cannon Ball
 	terrain="steppes"
-	culture="lakota"
+	culture="wolgadeutsche"
 	religion="peyotist"
 	trade_goods="fur"
 	civilization_value=10
@@ -1027,7 +1027,7 @@
 
 7680={ #Eureka
 	terrain="steppes"
-	culture="dakota"
+	culture="wolgadeutsche"
 	religion="peyotist"
 	trade_goods="cattle"
 	civilization_value=10
@@ -1157,7 +1157,7 @@
 
 9315={ #Garrison
 	terrain="steppes"
-	culture="badlander"
+	culture="wolgadeutsche"
 	religion="lutheran"
 	trade_goods="leather"
 	civilization_value=10

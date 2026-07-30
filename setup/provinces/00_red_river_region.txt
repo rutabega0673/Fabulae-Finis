@@ -533,7 +533,7 @@
 
 11621={ #Colorado City
 	terrain="steppes"
-	culture="estacadan"
+	culture="texaner"
 	religion="petrobaron"
 	trade_goods="beer"
 	civilization_value=10

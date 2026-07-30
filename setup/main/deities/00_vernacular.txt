@@ -1,0 +1,48 @@
+deity_manager = {
+    deities_database = { ### KEYS 1200 - 1299 ###
+		1200 = {
+			key = omen_ponce_de_leon
+			deity = deity_ponce_de_leon
+		}
+		1201 = {
+			key = omen_font_spirit
+			deity = deity_font_spirit
+		}
+		1202 = {
+			key = omen_ol_flagler
+			deity = deity_ol_flagler
+		}
+		1203 = {
+			key = omen_ay_see
+			deity = deity_ay_see
+		}
+		1204 = {
+			key = omen_marjory_douglas
+			deity = deity_marjory_douglas
+		}
+		1205 = {
+			key = omen_osceola
+			deity = deity_osceola
+		}
+		1206 = {
+			key = omen_david_springsearcher
+			deity = deity_david_springsearcher
+		}
+		1207 = {
+			key = omen_apollo_springsearcher
+			deity = deity_apollo_springsearcher
+		}
+		1208 = {
+			key = omen_two_toed_tom
+			deity = deity_two_toed_tom
+		}
+		1209 = {
+			key = omen_immortal_one
+			deity = deity_immortal_one
+		}
+		1210 = {
+			key = omen_cat_five
+			deity = deity_cat_five
+		}
+	}
+}

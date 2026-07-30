@@ -1,0 +1,45 @@
+﻿l_english:
+ ## Vernacular ##
+ deity_ponce_de_leon:0 "$omen_ponce_de_leon$"
+ omen_ponce_de_leon:0 "Ponce De Leon"
+ omen_ponce_de_leon_desc:0 "#Y Springsearcher God#!\nA Spanish explorer, Ponce DeLeon was sent by the King of Spain to search for the mystical Fountain of Youth. He wandered for many years, braving the wilds of Florida, before finally reaching his fabled quarry. His discovery of the Fountain ascended him to godhood, and he now diligently stands guard at the fountain, waiting for the next adventurer to find it."
+
+ deity_font_spirit:0 "$omen_font_spirit$"
+ omen_font_spirit:0 "Font Spirit"
+ omen_font_spirit_desc:0 "#Y Springsearcher God#!\nThe Font Spirit, a mysterious force, is said to have created the Fountain of Youth. It is through the power of the Font Spirit that the fountain is maintained."
+ 
+ deity_ol_flagler:0 "$omen_ol_flagler$"
+ omen_ol_flagler:0 "Ol' Flagler"
+ omen_ol_flagler_desc:0 "#Y Springsearcher God#!\nOl' Flagler was instrumental in the construction of the great monuments of Eastern Florida. It was through his prowess that the Ponce De Leon Hotel, Whitehall, and the construction of a marvelous road, which connected Jacksonville all the way to Key West."
+
+ deity_ay_see:0 "$omen_ay_see$"
+ omen_ay_see:0 "Ay See"
+ omen_ay_see_desc:0 "#Y Springsearcher God#!\nIn times of old, Florida was under the control of an oppressive demon, the Infernal Python, which permeated the land with it's foul stench and heat. Ay See, the benevolent god of the wind blew the Infernal Python from Florida, clearing the way for humans to live in the wondrous splendor of Florida."
+
+ deity_marjory_douglas:0 "$omen_marjory_douglas$"
+ omen_marjory_douglas:0 "Marjory Douglas"
+ omen_marjory_douglas_desc:0 "#Y Springsearcher God#!\nA conservationist who staunchly defended the Everglades against efforts to drain and develop it, Marjory Douglas never ceased to defend the great wilderness of Florida."
+
+ deity_osceola:0 "$omen_osceola$"
+ omen_osceola:0 "Osceola"
+ omen_osceola_desc:0 "#Y Springsearcher God#!\nA famed chief and leader of the Seminole people, Osceola resisted the tyrannical Government from conquering his tribe and land, famously, stabbing the treaty that ceded Seminole lands to the Government with a knife. He was eventually captured, where he was imprisoned until he succumbed to disease. His bravery and sacrifice is an inspiration not only to the Seminoles, but to all Floridian peoples."
+
+ deity_david_springsearcher:0 "$omen_david_springsearcher$"
+ omen_david_springsearcher:0 "David the Giant-Slayer"
+ omen_david_springsearcher_desc:0 "#Y Springsearcher God#!\nAs a young boy, David the Giant-Slayer faced off against a mighty foe, taking down a giant with only a humble sling. David became a champion of the Floridians, becoming the first King of Florida."
+
+ deity_apollo_springsearcher:0 "$omen_apollo_springsearcher$"
+ omen_apollo_springsearcher:0 "Apollo Strongarm"
+ omen_apollo_springsearcher_desc:0 "#Y Springsearcher God#!\nThe greatest of all voyagers, Apollo Strongarm sought to explore the land where no man has gone before; the final frontier, Space. With his flying-ship, he was able to soar far above the heavens, reaching out to touch the Moon with his hand. Now, Apollo Strongarm travels the solar system, exploring her many wonders."
+
+ deity_two_toed_tom:0 "$omen_two_toed_tom$"
+ omen_two_toed_tom:0 "Two-Toed Tom"
+ omen_two_toed_tom_desc:0 "#Y Springsearcher God#!\nA fearsome 14 foot long alligator, Two-Toed Tom is known to have eaten entire men whole. Many have tried to slay the wicked beast, although none have succeeded. He roams the swamps of Florida and Alabama, preying on his next victim."
+
+ deity_immortal_one:0 "$omen_immortal_one$"
+ omen_immortal_one:0 "Immortal One"
+ omen_immortal_one_desc:0 "#Y Springsearcher God#!\nThe Immortal One is known by many names - God, Allah, Jehovah, Providence, and many more. He is the one who shaped the world and man in his image, bringing the world into being."
+
+ deity_cat_five:0 "$omen_cat_five$"
+ omen_cat_five:0 "Cat Five"
+ omen_cat_five_desc:0 "#Y Springsearcher God#!\nMostly a deity of destruction, Cat Five summons the mighty hurricanes that wrack the coasts of Florida. Cat Five is viewed with fear, but also reverence, for her power is indeed mighty."

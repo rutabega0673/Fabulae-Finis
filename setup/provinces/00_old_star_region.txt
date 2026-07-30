@@ -104,7 +104,7 @@
 
 877={ #Gonzales
 	terrain="plains"
-	culture="silesian"
+	culture="texaner"
 	religion="colossalist"
 	trade_goods="beer"
 	civilization_value=10
@@ -195,7 +195,7 @@
 
 2130={ #Navasota
 	terrain="forest"
-	culture="texanane"
+	culture="texaner"
 	religion="catholic"
 	trade_goods="tubers"
 	civilization_value=10
@@ -325,7 +325,7 @@
 
 3398={ #Brenham
 	terrain="plains"
-	culture="texan"
+	culture="texaner"
 	religion="catholic"
 	trade_goods="beer"
 	civilization_value=10
@@ -611,7 +611,7 @@
 
 5084={ #Marlin
 	terrain="plains"
-	culture="texan"
+	culture="texanane"
 	religion="loneranger"
 	trade_goods="wild_game"
 	civilization_value=10
@@ -767,7 +767,7 @@
 
 5755={ #Sealy
 	terrain="plains"
-	culture="texan"
+	culture="texaner"
 	religion="colossalist"
 	trade_goods="vegetables"
 	civilization_value=10
@@ -806,7 +806,7 @@
 
 6285={ #Hempstead
 	terrain="plains"
-	culture="texan"
+	culture="texaner"
 	religion="colossalist"
 	trade_goods="fruits"
 	civilization_value=10
@@ -845,7 +845,7 @@
 
 6570={ #Portland
 	terrain="marsh"
-	culture="tejano"
+	culture="texan"
 	religion="colossalist"
 	trade_goods="cotton"
 	civilization_value=10
@@ -1248,7 +1248,7 @@
 
 9227={ #Beeville
 	terrain="plains"
-	culture="tejano"
+	culture="texan"
 	religion="colossalist"
 	trade_goods="cattle"
 	civilization_value=10
@@ -1300,7 +1300,7 @@
 
 9237={ #Lamar
 	terrain="marsh"
-	culture="tejano"
+	culture="texan"
 	religion="colossalist"
 	trade_goods="fruits"
 	civilization_value=10
