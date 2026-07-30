@@ -345,11 +345,28 @@
 	culture="susquehannan"
 	religion="quaker"
 	trade_goods="wood"
-	civilization_value=10
+	civilization_value=18
 	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
+	province_rank="city"
+	nobles={
 		amount=1
+	}
+	citizen={
+		amount=2
+	}
+	freemen={
+		culture="deitsch"
+		religion="old_order"
+		amount=1
+	}
+	freemen={
+		amount=2
+	}
+	tribesmen={
+		amount=7
+	}
+	slaves={
+		amount=4
 	}
 }
 

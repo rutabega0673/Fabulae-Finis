@@ -44,5 +44,61 @@ deity_manager = {
 			key = omen_cat_five
 			deity = deity_cat_five
 		}
+		1211 = {
+			key = omen_enthroned
+			deity = deity_enthroned
+		}
+		1212 = {
+			key = omen_voice
+			deity = deity_voice
+		}
+		1213 = {
+			key = omen_white_lamb
+			deity = deity_white_lamb
+		}
+		1214 = {
+			key = omen_mother
+			deity = deity_mother
+		}
+		1215 = {
+			key = omen_golden_bull
+			deity = deity_golden_bull
+		}
+		1216 = {
+			key = omen_revvie_guardian_angels
+			deity = deity_revvie_guardian_angels
+		}
+		1217 = {
+			key = omen_burning_bush
+			deity = deity_burning_bush
+		}
+		1218 = {
+			key = omen_serpent
+			deity = deity_serpent
+		}
+		1219 = {
+			key = omen_four_horsemen
+			deity = deity_four_horsemen
+		}
+		1220 = {
+			key = omen_false_messiah
+			deity = deity_false_messiah
+		}
+		1221 = {
+			key = omen_sun_cloaked_woman
+			deity = deity_sun_cloaked_woman
+		}
+		1222 = {
+			key = omen_ten_crowned_king
+			deity = deity_ten_crowned_king
+		}
+		1223 = {
+			key = omen_revvie_reaper
+			deity = deity_revvie_reaper
+		}
+		1224 = {
+			key = omen_beast
+			deity = deity_beast
+		}
 	}
 }

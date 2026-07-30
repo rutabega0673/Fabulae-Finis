@@ -16,7 +16,7 @@
 	religion = springsearcher
 	deity_category = war 
 	deification_trigger = {
-		can_deify_trigger = no
+		can_deify_trigger = yes
 	}
 
 	on_activate = {
@@ -41,7 +41,7 @@ deity_font_spirit = { # Font Spirit - God, sort of
 	religion = springsearcher
 	deity_category = culture
 	deification_trigger = {
-		can_deify_trigger = no
+		can_deify_trigger = yes
 	}
 
 	on_activate = {
@@ -66,7 +66,7 @@ deity_ol_flagler = { # Henry Morrison Flagler, oil magnate who developed east Fl
 	religion = springsearcher
 	deity_category = economy
 	deification_trigger = {
-		can_deify_trigger = no
+		can_deify_trigger = yes
 	}
 
 	on_activate = {
@@ -91,7 +91,7 @@ deity_ay_see = { #Ay See = AC
 	religion = springsearcher
 	deity_category = fertility
 	deification_trigger = {
-		can_deify_trigger = no
+		can_deify_trigger = yes
 	}
 
 	on_activate = {
@@ -116,7 +116,7 @@ deity_marjory_douglas = { #Marjory Douglas, writer who advocated for the preserv
 	religion = springsearcher
 	deity_category = culture
 	deification_trigger = {
-		can_deify_trigger = no
+		can_deify_trigger = yes
 	}
 
 	on_activate = {
@@ -141,7 +141,7 @@ deity_osceola = { #Osceola, famed Seminole chief and warrior
 	religion = springsearcher
 	deity_category = war
 	deification_trigger = {
-		can_deify_trigger = no
+		can_deify_trigger = yes
 	}
 
 	on_activate = {
@@ -166,7 +166,7 @@ deity_david_springsearcher = { #The Biblical David
 	religion = springsearcher
 	deity_category = war
 	deification_trigger = {
-		can_deify_trigger = no
+		can_deify_trigger = yes
 	}
 
 	on_activate = {
@@ -191,7 +191,7 @@ deity_apollo_springsearcher = { # Neil Armstrong / Apollo 11
 	religion = springsearcher
 	deity_category = war
 	deification_trigger = {
-		can_deify_trigger = no
+		can_deify_trigger = yes
 	}
 
 	on_activate = {
@@ -216,7 +216,7 @@ deity_two_toed_tom = { #Alligator in Alabaman and Floridian folklore
 	religion = springsearcher
 	deity_category = war
 	deification_trigger = {
-		can_deify_trigger = no
+		can_deify_trigger = yes
 	}
 
 	on_activate = {
@@ -241,7 +241,7 @@ deity_immortal_one = { #Immortal One, also God
 	religion = springsearcher
 	deity_category = culture
 	deification_trigger = {
-		can_deify_trigger = no
+		can_deify_trigger = yes
 	}
 
 	on_activate = {
@@ -266,10 +266,365 @@ deity_cat_five = { #Category Five Hurricane / water god
 	religion = springsearcher
 	deity_category = fertility
 	deification_trigger = {
-		can_deify_trigger = no
+		can_deify_trigger = yes
 	}
 
 	on_activate = {
 		military_apotheosis_capital_freemen_effect = yes
 	}
+}
+## Revelationist Pantheon ##
+deity_enthroned = { # God
+	trigger = {
+		polytheistic_check_religion_trigger = yes
+		OR = {
+			common_deity_trigger = {
+				RELIGION = revelationist
+			}
+			deity:omen_enthroned = {
+				holy_site_deity_check_trigger = yes
+			}
+		}
+	}
+	icon = deity_tribal_eloquence
+	passive_modifier = { ruler_popularity_gain = deity_ruler_popularity_gain_svalue }
+	omen = { agressive_expansion_monthly_change = omen_aggressive_expansion_monthly_change_svalue } #Bonus from Omen
+	religion = revelationist
+	deity_category = culture
+	deification_trigger = {
+		can_deify_trigger = yes
+	}
+
+	on_activate = {
+		culture_apotheosis_assimilate_effect = yes
+	}
+}
+deity_voice = { #Also God
+	trigger = {
+		polytheistic_check_religion_trigger = yes
+		OR = {
+			common_deity_trigger = {
+				RELIGION = revelationist
+			}
+			deity:omen_voice = {
+				holy_site_deity_check_trigger = yes
+			}
+		}
+	}
+	icon = deity_tribal_war
+	passive_modifier = {
+		war_exhaustion = deity_war_exhaustion_svalue
+	}
+	omen = {
+		war_score_cost = omen_war_score_cost_svalue
+	}
+	religion = revelationist
+	deity_category = war
+	deification_trigger = {
+		can_deify_trigger = yes
+	}
+
+	on_activate = {
+		war_apotheosis_martial_tech_effect = yes
+	}
+}
+deity_white_lamb = { #Jesus, Lamb of God
+	trigger = {
+		polytheistic_check_religion_trigger = yes
+		OR = {
+			very_common_deity_trigger = {
+				RELIGION = revelationist
+			}
+			deity:omen_white_lamb = {
+				holy_site_deity_check_trigger = yes
+			}
+		}
+	}
+	icon = deity_tribal_love
+	passive_modifier = { global_population_capacity_modifier = deity_global_population_capacity_modifier_svalue }
+	omen = { health = 2 } #Bonus from Omen
+	religion = revelationist
+	deity_category = fertility
+	deification_trigger = {
+		can_deify_trigger = yes
+	}
+
+	on_activate = {
+        fertility_apotheosis_capital_slaves_effect = yes
+    }
+}
+deity_mother = { #Mary ?
+	trigger = {
+		polytheistic_check_religion_trigger = yes
+		OR = {
+			rare_deity_trigger = {
+				RELIGION = revelationist
+			}
+			deity:omen_mother = {
+				holy_site_deity_check_trigger = yes
+			}
+		}
+	}
+	icon = deity_tribal_love
+	passive_modifier = { global_monthly_food_modifier = deity_global_monthly_food_modifier_svalue }
+	omen = { war_exhaustion = omen_war_exhaustion } #Bonus from Omen
+	religion = revelationist
+	deity_category = fertility
+	deification_trigger = {
+		can_deify_trigger = yes
+	}
+
+	on_activate = {
+		military_apotheosis_capital_freemen_effect = yes
+	}
+}
+deity_golden_bull = { #
+	trigger = {
+		polytheistic_check_religion_trigger = yes
+		OR = {
+			rare_deity_trigger = {
+				RELIGION = revelationist
+			}
+			deity:omen_golden_bull = {
+				holy_site_deity_check_trigger = yes
+			}
+		}
+	}
+	icon = deity_tribal_wealth
+	passive_modifier = { global_tax_modifier = deity_global_tax_modifier_svalue }
+	omen = { global_freemen_happyness = omen_global_freemen_happiness_svalue } #Bonus from Omen
+	religion = revelationist
+	deity_category = economy
+	deification_trigger = {
+		can_deify_trigger = yes
+	}
+
+	on_activate = {
+		economy_apotheosis_capital_citizens_effect = yes
+	}
+}
+deity_revvie_guardian_angels = { # Guardian Angels
+	trigger = {
+		polytheistic_check_religion_trigger = yes
+		OR = {
+			rare_deity_trigger = {
+				RELIGION = revelationist
+			}
+			deity:omen_revvie_guardian_angels = {
+				holy_site_deity_check_trigger = yes
+			}
+		}
+	}
+	icon = deity_tribal_eloquence
+	passive_modifier = { stability_monthly_change = deity_stability_monthly_change }
+    omen = { global_defensive = omen_global_defensive_svalue } # Bonus from Omen
+	religion = revelationist
+	deity_category = culture
+	deification_trigger = {
+		can_deify_trigger = yes
+	}
+
+	on_activate = {
+        culture_apotheosis_capital_effect = yes
+    }
+}
+deity_burning_bush = { #Moses and the Burning Bush
+	trigger = {
+		polytheistic_check_religion_trigger = yes
+		OR = {
+			very_rare_deity_trigger = {
+				RELIGION = revelationist
+			}
+			deity:omen_burning_bush = {
+				holy_site_deity_check_trigger = yes
+			}
+		}
+	}
+	icon = deity_tribal_eloquence
+	passive_modifier = { monthly_wage_modifier = deity_monthly_wage_modifier_svalue }
+	omen = { global_pop_conversion_speed_modifier = omen_global_pop_conversion_speed_modifier_svalue }
+	religion = revelationist
+	deity_category = economy
+	deification_trigger = {
+		can_deify_trigger = yes
+	}
+
+	on_activate = {
+		economy_apotheosis_province_improvement_effect = yes
+	}
+}
+deity_serpent = { #Serpent and the Garden of Eden
+	trigger = {
+		polytheistic_check_religion_trigger = yes
+		OR = {
+			rare_deity_trigger = {
+				RELIGION = revelationist
+			}
+			deity:omen_serpent = {
+				holy_site_deity_check_trigger = yes
+			}
+		}
+	}
+	icon = deity_tribal_eloquence
+	passive_modifier = { research_points_modifier = deity_research_points_modifier_svalue }
+	omen = { monthly_tyranny = omen_monthly_tyranny_svalue } #Bonus from Omen
+	religion = revelationist
+	deity_category = culture
+	deification_trigger = {
+		can_deify_trigger = yes
+	}
+
+	on_activate = {
+		culture_apotheosis_civic_tech_effect = yes
+	}
+}
+deity_four_horsemen = { #Four Horsemen of the Apocalypse
+	trigger = {
+		polytheistic_check_religion_trigger = yes
+		OR = {
+			common_deity_trigger = {
+				RELIGION = revelationist
+			}
+			deity:omen_four_horsemen = {
+				holy_site_deity_check_trigger = yes
+			}
+		}
+	}
+	icon = deity_tribal_war
+	passive_modifier = { agressive_expansion_impact = deity_aggressive_expansion_impact_svalue }
+	omen = { discipline = omen_discipline_svalue } #Bonus from Omen
+	religion = revelationist
+	deity_category = war
+	deification_trigger = {
+		can_deify_trigger = yes
+	}
+
+	on_activate = {
+		military_apotheosis_capital_freemen_effect = yes
+	}
+}
+deity_false_messiah = { #Antichrist
+	trigger = {
+		polytheistic_check_religion_trigger = yes
+		OR = {
+			rare_deity_trigger = {
+				RELIGION = revelationist
+			}
+			deity:omen_false_messiah = {
+				holy_site_deity_check_trigger = yes
+			}
+		}
+	}
+	icon = deity_tribal_war
+	passive_modifier = { war_score_cost = deity_war_score_cost_svalue }
+	omen = { fabricate_claim_speed = omen_fabricate_claim_speed_svalue }
+	religion = revelationist
+	deity_category = war
+	deification_trigger = {
+		can_deify_trigger = yes
+	}
+
+	on_activate = {
+		economy_apotheosis_province_improvement_effect = yes
+	}
+}
+deity_sun_cloaked_woman = { #Virgin Mary, stuff from Revelations
+	trigger = {
+		polytheistic_check_religion_trigger = yes
+		OR = {
+			rare_deity_trigger = {
+				RELIGION = revelationist
+			}
+			deity:omen_sun_cloaked_woman = {
+				holy_site_deity_check_trigger = yes
+			}
+		}
+	}
+	icon = deity_tribal_eloquence
+	passive_modifier = { happiness_for_same_culture_modifier = deity_happiness_for_same_culture_modifier_svalue }
+	omen = { happiness_for_same_religion_modifier = omen_happiness_for_same_religion_modifier_svalue } #Bonus from Omen
+	religion = revelationist
+	deity_category = culture
+	deification_trigger = {
+		can_deify_trigger = yes
+	}
+
+	on_activate = {
+        culture_apotheosis_assimilate_effect = yes
+    }
+}
+deity_ten_crowned_king = { #Ocean beast from Revelations
+	trigger = {
+		polytheistic_check_religion_trigger = yes
+		OR = {
+			common_deity_trigger = {
+				RELIGION = revelationist
+			}
+			deity:omen_ten_crowned_king = {
+				holy_site_deity_check_trigger = yes
+			}
+		}
+	}
+	icon = deity_tribal_eloqeunce
+	passive_modifier = { naval_morale_modifier = deity_naval_morale_modifier_svalue }
+	omen = { global_monthly_state_loyalty = omen_global_monthly_state_loyalty } #Bonus from Omen
+	religion = revelationist
+	deity_category = culture
+	deification_trigger = {
+		can_deify_trigger = yes
+	}
+
+	on_activate = {
+		military_apotheosis_capital_freemen_effect = yes
+	}
+}
+deity_revvie_reaper = { #Grim Reaper
+	trigger = {
+		polytheistic_check_religion_trigger = yes
+		OR = {
+			common_deity_trigger = {
+				RELIGION = revelationist
+			}
+			deity:omen_revvie_reaper = {
+				holy_site_deity_check_trigger = yes
+			}
+		}
+	}
+	icon = deity_tribal_wealth
+	passive_modifier = { religious_tech_investment = deity_religious_tech_investment_svalue }
+	omen = { research_points_modifier = omen_research_points_modifier_svalue } #Bonus from Omen
+	religion = revelationist
+	deity_category = economy
+	deification_trigger = {
+		can_deify_trigger = yes
+	}
+
+	on_activate = {
+		culture_apotheosis_rel_tech_effect = yes
+	}
+}
+deity_beast = { #Mark of the Beast, 666
+	trigger = {
+		polytheistic_check_religion_trigger = yes
+		OR = {
+			rare_deity_trigger = {
+				RELIGION = revelationist
+			}
+			deity:omen_beast = {
+				holy_site_deity_check_trigger = yes
+			}
+		}
+	}
+	icon = deity_tribal_war
+	passive_modifier = { global_cohort_start_experience = deity_global_cohort_start_experience_svalue }
+    omen = { land_morale_modifier = omen_land_morale_modifier_svalue } #Bonus from Omen
+	religion = revelationist
+	deity_category = war 
+	deification_trigger = {
+		can_deify_trigger = yes
+	}
+
+	on_activate = {
+        military_apotheosis_manpower_effect = yes
+    }
 }

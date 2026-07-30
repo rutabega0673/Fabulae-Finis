@@ -43,3 +43,60 @@
  deity_cat_five:0 "$omen_cat_five$"
  omen_cat_five:0 "Cat Five"
  omen_cat_five_desc:0 "#Y Springsearcher God#!\nMostly a deity of destruction, Cat Five summons the mighty hurricanes that wrack the coasts of Florida. Cat Five is viewed with fear, but also reverence, for her power is indeed mighty."
+
+ ## Revelationist Pantheon ##
+ deity_enthroned:0 "$omen_enthroned$"
+ omen_enthroned:0 "The Enthroned"
+ omen_enthroned_desc:0 "#Y Revelationist God#!\nAnd immediately I was in the spirit: and, behold, a throne was set in heaven, and one sat on the throne. And he that sat was to look upon like a jasper and a sardine stone: and there was a rainbow round about the throne, in sight like unto an emerald. And round about the throne were four and twenty seats: and upon the seats I saw four and twenty elders sitting, clothed in white raiment; and they had on their heads crowns of gold."
+
+ deity_voice:0 "$omen_voice$"
+ omen_voice:0 "The Voice"
+ omen_voice_desc:0 "#Y Revelationist God#!\nAnd I heard a voice from heaven, as the voice of many waters, and as the voice of a great thunder: and I heard the voice of harpers harping with their harps: And they sung as it were a new song before the throne, and before the four beasts, and the elders: and no man could learn that song but the hundred and forty and four thousand, which were redeemed from the earth."
+
+ deity_white_lamb:0 "$omen_white_lamb$"
+ omen_white_lamb:0 "The White Lamb"
+ omen_white_lamb_desc:0 "#Y Revelationist God#!\nAnd I saw when the Lamb opened one of the seals, and I heard, as it were the noise of thunder, one of the four beasts saying, Come and see."
+
+ deity_mother:0 "$omen_mother$"
+ omen_mother:0 "The Mother"
+ omen_mother_desc:0 "#Y Revelationist God#!\nMy soul magnifies the Lord, and my spirit rejoices in God my Savior, for he has looked on the humble estate of his servant. For behold, from now on all generations will call me blessed; for he who is mighty has done great things for me, and holy is his name. And his mercy is for those who fear him from generation to generation."
+
+ deity_golden_bull:0 "$omen_golden_bull$"
+ omen_golden_bull:0 "The Golden Bull"
+ omen_golden_bull_desc:0 "#Y Revelationist God#!\nAnd Aaron said unto them, Break off the golden earrings, which are in the ears of your wives, of your sons, and of your daughters, and bring them unto me. And all the people brake off the golden earrings which were in their ears, and brought them unto Aaron. And he received them at their hand, and fashioned it with a graving tool, after he had made it a molten calf: and they said, These be thy gods, O Israel, which brought thee up out of the land of Egypt."
+
+ deity_revvie_guardian_angels:0 "$omen_revvie_guardian_angels$"
+ omen_revvie_guardian_angels:0 "The Guardian Angels"
+ omen_revvie_guardian_angels_desc:0 "#Y Revelationist Gods#!\nFor he will command his angels concerning you to guard you in all your ways; they will lift you up in their hands, so that you will not strike your foot against a stone."
+
+ deity_burning_bush:0 "$omen_burning_bush$"
+ omen_burning_bush:0 "The Burning Bush"
+ omen_burning_bush_desc:0 "#Y Revelationist God#!\nAnd the angel of the Lord appeared unto him in a flame of fire out of the midst of a bush: and he looked, and, behold, the bush burned with fire, and the bush was not consumed."
+
+ deity_serpent:0 "$omen_serpent$"
+ omen_serpent:0 "The Serpent"
+ omen_serpent_desc:0 "#Y Revelationist God#!\nNow the serpent was more subtil than any beast of the field which the Lord God had made. And he said unto the woman, Yea, hath God said, Ye shall not eat of every tree of the garden."
+
+ deity_four_horsemen:0 "$omen_four_horsemen$"
+ omen_four_horsemen:0 "The Four Horsemen"
+ omen_four_horsemen_desc:0 "#Y Revelationist Gods#!\nAnd I saw, and behold a white horse: and he that sat on him had a bow; and a crown was given unto him: and he went forth conquering, and to conquer. And when he had opened the second seal, I heard the second beast say, Come and see. And there went out another horse that was red: and power was given to him that sat thereon to take peace from the earth, and that they should kill one another: and there was given unto him a great sword. And when he had opened the third seal, I heard the third beast say, Come and see. And I beheld, and lo a black horse; and he that sat on him had a pair of balances in his hand. And I heard a voice in the midst of the four beasts say, A measure of wheat for a penny, and three measures of barley for a penny; and see thou hurt not the oil and the wine. And when he had opened the fourth seal, I heard the voice of the fourth beast say, Come and see. And I looked, and behold a pale horse: and his name that sat on him was Death, and Hell followed with him. And power was given unto them over the fourth part of the earth, to kill with sword, and with hunger, and with death, and with the beasts of the earth."
+
+ deity_false_messiah:0 "$omen_false_messiah$"
+ omen_false_messiah:0 "The False Messiah"
+ omen_false_messiah_desc:0 "#Y Revelationist God#!\nAnd all that dwell upon the earth shall worship him, whose names are not written in the book of life of the Lamb slain from the foundation of the world."
+
+ deity_sun_cloaked_woman:0 "$omen_sun_cloaked_woman$"
+ omen_sun_cloaked_woman:0 "The Sun-Cloaked Woman"
+ omen_sun_cloaked_woman_desc:0 "#Y Revelationist God#!\nAnd there appeared a great wonder in heaven; a woman clothed with the sun, and the moon under her feet, and upon her head a crown of twelve stars."
+
+ deity_ten_crowned_king:0 "$omen_ten_crowned_king$"
+ omen_ten_crowned_king:0 "Ten-Crowned King"
+ omen_ten_crowned_king_desc:0 "#Y Revelationist God#!\nAnd I stood upon the sand of the sea, and saw a beast rise up out of the sea, having seven heads and ten horns, and upon his horns ten crowns, and upon his heads the name of blasphemy."
+
+ deity_revvie_reaper:0 "$omen_revvie_reaper$"
+ omen_revvie_reaper:0 "The Reaper"
+ omen_revvie_reaper_desc:0 "#Y Revelationist God#!\nAnd I looked, and behold a pale horse: and his name that sat on him was Death, and Hell followed with him. And power was given unto them over the fourth part of the earth, to kill with sword, and with hunger, and with death, and with the beasts of the earth."
+
+ deity_beast:0 "$omen_beast$"
+ omen_beast:0 "The Beast"
+ omen_beast_desc:0 "#Y Revelationist God#!\nHere is wisdom. Let him that hath understanding count the number of the beast: for it is the number of a man; and his number is Six hundred threescore and six."
