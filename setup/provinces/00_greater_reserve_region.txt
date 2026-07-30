@@ -79,7 +79,7 @@
 2956={ #Logan
 	terrain="forest"
 	culture="buckeye"
-	religion="hearthtender"
+	religion="revelationist"
 	trade_goods="glass"
 	civilization_value=10
 	barbarian_power=0
@@ -378,7 +378,7 @@
 7840={ #Marietta
 	terrain="forest"
 	culture="butternutter"
-	religion="hearthtender"
+	religion="revelationist"
 	trade_goods="cattle"
 	civilization_value=10
 	barbarian_power=0
@@ -391,7 +391,7 @@
 8611={ #Uhrichsville
 	terrain="forest"
 	culture="yinzic"
-	religion="hearthtender"
+	religion="revelationist"
 	trade_goods="maple"
 	civilization_value=10
 	barbarian_power=0
@@ -404,7 +404,7 @@
 8612={ #New Martinsville
 	terrain="forest"
 	culture="yinzic"
-	religion="hearthtender"
+	religion="revelationist"
 	trade_goods="vegetables"
 	civilization_value=10
 	barbarian_power=0
@@ -417,7 +417,7 @@
 8613={ #Caldwell
 	terrain="forest"
 	culture="yinzic"
-	religion="hearthtender"
+	religion="revelationist"
 	trade_goods="horses"
 	civilization_value=10
 	barbarian_power=0
@@ -430,7 +430,7 @@
 8614={ #Martins Ferry
 	terrain="forest"
 	culture="yinzic"
-	religion="hearthtender"
+	religion="revelationist"
 	trade_goods="clay"
 	civilization_value=10
 	barbarian_power=0
@@ -443,7 +443,7 @@
 8615={ #Duncan Falls
 	terrain="forest"
 	culture="yinzic"
-	religion="hearthtender"
+	religion="revelationist"
 	trade_goods="maple"
 	civilization_value=10
 	barbarian_power=0
@@ -456,7 +456,7 @@
 8616={ #Cambridge
 	terrain="forest"
 	culture="yinzic"
-	religion="hearthtender"
+	religion="revelationist"
 	trade_goods="bodark"
 	civilization_value=10
 	barbarian_power=0

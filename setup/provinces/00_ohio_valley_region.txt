@@ -1,7 +1,7 @@
 ﻿180={ #Seymour
 	terrain="forest"
 	culture="butternutter"
-	religion="hearthtender"
+	religion="americanist"
 	trade_goods="bodark"
 	civilization_value=10
 	barbarian_power=0
@@ -14,7 +14,7 @@
 181={ #Salem
 	terrain="forest"
 	culture="butternutter"
-	religion="hearthtender"
+	religion="americanist"
 	trade_goods="wood"
 	civilization_value=10
 	barbarian_power=0
@@ -27,7 +27,7 @@
 183={ #Jeffersonville
 	terrain="forest"
 	culture="butternutter"
-	religion="hearthtender"
+	religion="americanist"
 	trade_goods="glass"
 	civilization_value=10
 	barbarian_power=0
@@ -53,7 +53,7 @@
 185={ #New Albany
 	terrain="forest"
 	culture="butternutter"
-	religion="hearthtender"
+	religion="americanist"
 	trade_goods="fruits"
 	civilization_value=10
 	barbarian_power=0
@@ -79,7 +79,7 @@
 414={ #Oxford
 	terrain="forest"
 	culture="butternutter"
-	religion="hearthtender"
+	religion="americanist"
 	trade_goods="earthware"
 	civilization_value=10
 	barbarian_power=0
@@ -92,7 +92,7 @@
 415={ #Hamilton
 	terrain="farmland"
 	culture="butternutter"
-	religion="hearthtender"
+	religion="americanist"
 	trade_goods="honey"
 	civilization_value=10
 	barbarian_power=0
@@ -118,7 +118,7 @@
 2402={ #Georgetown
 	terrain="forest"
 	culture="butternutter"
-	religion="hearthtender"
+	religion="revelationist"
 	trade_goods="tubers"
 	civilization_value=10
 	barbarian_power=0
@@ -131,7 +131,7 @@
 2403={ #Portsmouth
 	terrain="forest"
 	culture="butternutter"
-	religion="hearthtender"
+	religion="revelationist"
 	trade_goods="earthware"
 	civilization_value=10
 	barbarian_power=0
@@ -144,7 +144,7 @@
 2404={ #Wilmington
 	terrain="forest"
 	culture="butternutter"
-	religion="hearthtender"
+	religion="revelationist"
 	trade_goods="tubers"
 	civilization_value=10
 	barbarian_power=0
@@ -157,7 +157,7 @@
 2405={ #Chillicothe
 	terrain="forest"
 	culture="butternutter"
-	religion="hearthtender"
+	religion="revelationist"
 	trade_goods="cattle"
 	civilization_value=10
 	barbarian_power=0
@@ -170,7 +170,7 @@
 2406={ #Washington Court House
 	terrain="forest"
 	culture="butternutter"
-	religion="hearthtender"
+	religion="revelationist"
 	trade_goods="beer"
 	civilization_value=10
 	barbarian_power=0
@@ -209,7 +209,7 @@
 3760={ #Tell City
 	terrain="plains"
 	culture="butternutter"
-	religion="hearthtender"
+	religion="revelationist"
 	trade_goods="base_metals"
 	civilization_value=10
 	barbarian_power=0
@@ -222,7 +222,7 @@
 3761={ #Jasper
 	terrain="forest"
 	culture="butternutter"
-	religion="hearthtender"
+	religion="revelationist"
 	trade_goods="stone"
 	civilization_value=10
 	barbarian_power=0
@@ -235,7 +235,7 @@
 3762={ #Evansville
 	terrain="plains"
 	culture="butternutter"
-	religion="hearthtender"
+	religion="americanist"
 	trade_goods="maple"
 	civilization_value=10
 	barbarian_power=0
@@ -248,7 +248,7 @@
 3763={ #Princeton
 	terrain="forest"
 	culture="butternutter"
-	religion="hearthtender"
+	religion="revelationist"
 	trade_goods="base_metals"
 	civilization_value=10
 	barbarian_power=0
@@ -261,7 +261,7 @@
 4273={ #Eaton
 	terrain="forest"
 	culture="butternutter"
-	religion="hearthtender"
+	religion="revelationist"
 	trade_goods="tubers"
 	civilization_value=10
 	barbarian_power=0
@@ -274,7 +274,7 @@
 4274={ #Xenia
 	terrain="forest"
 	culture="butternutter"
-	religion="hearthtender"
+	religion="revelationist"
 	trade_goods="maple"
 	civilization_value=10
 	barbarian_power=0
@@ -287,7 +287,7 @@
 4276={ #Dayton
 	terrain="farmland"
 	culture="butternutter"
-	religion="hearthtender"
+	religion="revelationist"
 	trade_goods="base_metals"
 	civilization_value=10
 	barbarian_power=0
@@ -300,7 +300,7 @@
 4431={ #Ellettsville
 	terrain="forest"
 	culture="hoosier"
-	religion="hearthtender"
+	religion="revelationist"
 	trade_goods="maple"
 	civilization_value=10
 	barbarian_power=0
@@ -313,7 +313,7 @@
 4432={ #Linton
 	terrain="forest"
 	culture="hoosier"
-	religion="hearthtender"
+	religion="revelationist"
 	trade_goods="clay"
 	civilization_value=10
 	barbarian_power=0
@@ -326,7 +326,7 @@
 4433={ #Vincennes
 	terrain="forest"
 	culture="butternutter"
-	religion="hearthtender"
+	religion="revelationist"
 	trade_goods="hemp"
 	civilization_value=10
 	barbarian_power=0
@@ -378,7 +378,7 @@
 5696={ #Rising Sun
 	terrain="forest"
 	culture="butternutter"
-	religion="hearthtender"
+	religion="revelationist"
 	trade_goods="vegetables"
 	civilization_value=10
 	barbarian_power=0
@@ -391,7 +391,7 @@
 5697={ #Columbus
 	terrain="hills"
 	culture="butternutter"
-	religion="hearthtender"
+	religion="revelationist"
 	trade_goods="iron"
 	civilization_value=10
 	barbarian_power=0
@@ -404,7 +404,7 @@
 5698={ #Greensburg
 	terrain="forest"
 	culture="butternutter"
-	religion="hearthtender"
+	religion="revelationist"
 	trade_goods="horses"
 	civilization_value=10
 	barbarian_power=0
@@ -469,7 +469,7 @@
 6759={ #Bloomington
 	terrain="hills"
 	culture="hoosier"
-	religion="hearthtender"
+	religion="revelationist"
 	trade_goods="fur"
 	civilization_value=10
 	barbarian_power=0
@@ -547,7 +547,7 @@
 7838={ #Point Pleasant
 	terrain="forest"
 	culture="butternutter"
-	religion="hearthtender"
+	religion="revelationist"
 	trade_goods="maple"
 	civilization_value=10
 	barbarian_power=0
@@ -560,7 +560,7 @@
 7839={ #Athens
 	terrain="forest"
 	culture="butternutter"
-	religion="hearthtender"
+	religion="revelationist"
 	trade_goods="maize"
 	civilization_value=10
 	barbarian_power=0
@@ -573,7 +573,7 @@
 9549={ #Wheelersburg
 	terrain="forest"
 	culture="butternutter"
-	religion="hearthtender"
+	religion="revelationist"
 	trade_goods="clay"
 	civilization_value=10
 	barbarian_power=0
@@ -586,7 +586,7 @@
 9550={ #Jackson
 	terrain="forest"
 	culture="butternutter"
-	religion="hearthtender"
+	religion="revelationist"
 	trade_goods="tubers"
 	civilization_value=10
 	barbarian_power=0
@@ -599,7 +599,7 @@
 9551={ #Lesage
 	terrain="forest"
 	culture="butternutter"
-	religion="hearthtender"
+	religion="revelationist"
 	trade_goods="vegetables"
 	civilization_value=10
 	barbarian_power=0
@@ -612,7 +612,7 @@
 11636={ #Goshen
 	terrain="forest"
 	culture="butternutter"
-	religion="hearthtender"
+	religion="americanist"
 	trade_goods="cattle"
 	civilization_value=10
 	barbarian_power=0
@@ -625,7 +625,7 @@
 11638={ #Connersville
 	terrain="forest"
 	culture="buckeye"
-	religion="hearthtender"
+	religion="revelationist"
 	trade_goods="leather"
 	civilization_value=10
 	barbarian_power=0
@@ -677,7 +677,7 @@
 11645={ #Boonville
 	terrain="forest"
 	culture="butternutter"
-	religion="hearthtender"
+	religion="americanist"
 	trade_goods="base_metals"
 	civilization_value=10
 	barbarian_power=0

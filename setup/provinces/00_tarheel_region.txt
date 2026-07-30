@@ -118,7 +118,7 @@
 2064={ #Kill Devil Hills
 	terrain="marsh"
 	culture="hoi_toider"
-	religion="evangelical"
+	religion="episcopalian"
 	trade_goods="fish"
 	civilization_value=10
 	barbarian_power=0
@@ -209,7 +209,7 @@
 2726={ #Leland
 	terrain="marsh"
 	culture="sandlapper"
-	religion="evangelical"
+	religion="episcopalian"
 	trade_goods="fish"
 	civilization_value=10
 	barbarian_power=0
@@ -222,7 +222,7 @@
 2727={ #Burgaw
 	terrain="forest"
 	culture="sandlapper"
-	religion="evangelical"
+	religion="episcopalian"
 	trade_goods="beans"
 	civilization_value=10
 	barbarian_power=0
@@ -235,7 +235,7 @@
 2728={ #Wilmington
 	terrain="marsh"
 	culture="sandlapper"
-	religion="evangelical"
+	religion="episcopalian"
 	trade_goods="salt"
 	civilization_value=10
 	barbarian_power=0
@@ -248,7 +248,7 @@
 2729={ #Whiteville
 	terrain="forest"
 	culture="sandlapper"
-	religion="evangelical"
+	religion="episcopalian"
 	trade_goods="tobacco"
 	civilization_value=10
 	barbarian_power=0
@@ -378,7 +378,7 @@
 3876={ #Hampstead
 	terrain="marsh"
 	culture="sandlapper"
-	religion="evangelical"
+	religion="episcopalian"
 	trade_goods="fish"
 	civilization_value=10
 	barbarian_power=0
@@ -391,7 +391,7 @@
 3877={ #Jacksonville
 	terrain="marsh"
 	culture="hoi_toider"
-	religion="evangelical"
+	religion="episcopalian"
 	trade_goods="rice"
 	civilization_value=10
 	barbarian_power=0
@@ -404,7 +404,7 @@
 4356={ #Mount Olive
 	terrain="plains"
 	culture="piedmontese"
-	religion="evangelical"
+	religion="episcopalian"
 	trade_goods="earthware"
 	civilization_value=10
 	barbarian_power=0
@@ -417,7 +417,7 @@
 4357={ #Wallace
 	terrain="forest"
 	culture="sandlapper"
-	religion="evangelical"
+	religion="episcopalian"
 	trade_goods="leather"
 	civilization_value=10
 	barbarian_power=0
@@ -430,7 +430,7 @@
 4358={ #Richlands
 	terrain="forest"
 	culture="sandlapper"
-	religion="evangelical"
+	religion="episcopalian"
 	trade_goods="leather"
 	civilization_value=10
 	barbarian_power=0
@@ -443,7 +443,7 @@
 4522={ #Havelock
 	terrain="marsh"
 	culture="hoi_toider"
-	religion="evangelical"
+	religion="episcopalian"
 	trade_goods="fish"
 	civilization_value=10
 	barbarian_power=0
@@ -482,7 +482,7 @@
 4611={ #Marion
 	terrain="hills"
 	culture="appalachian"
-	religion="revelationist"
+	religion="omenteller"
 	trade_goods="clay"
 	civilization_value=10
 	barbarian_power=0
@@ -638,7 +638,7 @@
 6687={ #Mount Airy
 	terrain="hills"
 	culture="appalachian"
-	religion="revelationist"
+	religion="omenteller"
 	trade_goods="precious_metals"
 	civilization_value=10
 	barbarian_power=0
@@ -872,7 +872,7 @@
 8601={ #Elizabeth City
 	terrain="marsh"
 	culture="hoi_toider"
-	religion="evangelical"
+	religion="episcopalian"
 	trade_goods="spices"
 	civilization_value=10
 	barbarian_power=0

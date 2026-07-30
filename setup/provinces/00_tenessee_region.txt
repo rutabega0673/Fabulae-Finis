@@ -79,7 +79,7 @@
 643={ #Smithville
 	terrain="forest"
 	culture="riverlander"
-	religion="omenteller"
+	religion="revelationist"
 	trade_goods="horses"
 	civilization_value=10
 	barbarian_power=0
@@ -92,7 +92,7 @@
 644={ #Murfreesboro
 	terrain="forest"
 	culture="riverlander"
-	religion="omenteller"
+	religion="revelationist"
 	trade_goods="tobacco"
 	civilization_value=10
 	barbarian_power=0
@@ -144,7 +144,7 @@
 1729={ #Kingsport
 	terrain="mountain"
 	culture="appalachian"
-	religion="fissionist"
+	religion="omenteller"
 	trade_goods="precious_metals"
 	civilization_value=10
 	barbarian_power=0
@@ -235,7 +235,7 @@
 2072={ #Maryville
 	terrain="mountain"
 	culture="appalachian"
-	religion="revelationist"
+	religion="omenteller"
 	trade_goods="precious_metals"
 	civilization_value=10
 	barbarian_power=0
@@ -248,7 +248,7 @@
 2073={ #Sevierville
 	terrain="mountain"
 	culture="appalachian"
-	religion="revelationist"
+	religion="omenteller"
 	trade_goods="stone"
 	civilization_value=10
 	barbarian_power=0
@@ -261,7 +261,7 @@
 2074={ #Knoxville
 	terrain="mountain"
 	culture="riverlander"
-	religion="revelationist"
+	religion="omenteller"
 	trade_goods="clay"
 	civilization_value=10
 	barbarian_power=0
@@ -417,7 +417,7 @@
 5885={ #Cookeville
 	terrain="hills"
 	culture="riverlander"
-	religion="omenteller"
+	religion="revelationist"
 	trade_goods="wood"
 	civilization_value=10
 	barbarian_power=0
@@ -430,7 +430,7 @@
 5886={ #Mcminnville
 	terrain="hills"
 	culture="riverlander"
-	religion="omenteller"
+	religion="revelationist"
 	trade_goods="stone"
 	civilization_value=10
 	barbarian_power=0
@@ -443,7 +443,7 @@
 5887={ #Livingston
 	terrain="hills"
 	culture="riverlander"
-	religion="omenteller"
+	religion="revelationist"
 	trade_goods="maple"
 	civilization_value=10
 	barbarian_power=0
@@ -508,7 +508,7 @@
 7027={ #Columbia
 	terrain="forest"
 	culture="riverlander"
-	religion="omenteller"
+	religion="revelationist"
 	trade_goods="wood"
 	civilization_value=10
 	barbarian_power=0
@@ -521,7 +521,7 @@
 7028={ #Pulaski
 	terrain="forest"
 	culture="riverlander"
-	religion="omenteller"
+	religion="revelationist"
 	trade_goods="stone"
 	civilization_value=10
 	barbarian_power=0
@@ -534,7 +534,7 @@
 7029={ #Winchester
 	terrain="hills"
 	culture="riverlander"
-	religion="omenteller"
+	religion="revelationist"
 	trade_goods="gems"
 	civilization_value=10
 	barbarian_power=0
@@ -547,7 +547,7 @@
 7030={ #Shelbyville
 	terrain="hills"
 	culture="riverlander"
-	religion="omenteller"
+	religion="revelationist"
 	trade_goods="vegetables"
 	civilization_value=10
 	barbarian_power=0
@@ -612,7 +612,7 @@
 9578={ #Cleveland
 	terrain="mountain"
 	culture="appalachian"
-	religion="revelationist"
+	religion="omenteller"
 	trade_goods="wood"
 	civilization_value=10
 	barbarian_power=0
@@ -625,7 +625,7 @@
 9579={ #Athens
 	terrain="mountain"
 	culture="appalachian"
-	religion="revelationist"
+	religion="omenteller"
 	trade_goods="gems"
 	civilization_value=10
 	barbarian_power=0
@@ -638,7 +638,7 @@
 9580={ #East Chattanooga
 	terrain="hills"
 	culture="appalachian"
-	religion="revelationist"
+	religion="omenteller"
 	trade_goods="precious_metals"
 	civilization_value=10
 	barbarian_power=0

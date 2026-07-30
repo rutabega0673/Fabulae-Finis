@@ -1,7 +1,7 @@
 ﻿2547={ #Williamson
 	terrain="hills"
 	culture="riverlander"
-	religion="omenteller"
+	religion="revelationist"
 	trade_goods="limestone"
 	civilization_value=10
 	barbarian_power=0
@@ -14,7 +14,7 @@
 2548={ #Huntington
 	terrain="hills"
 	culture="riverlander"
-	religion="omenteller"
+	religion="revelationist"
 	trade_goods="tobacco"
 	civilization_value=10
 	barbarian_power=0
@@ -27,7 +27,7 @@
 2824={ #Georgetown
 	terrain="forest"
 	culture="riverlander"
-	religion="ophiolatry"
+	religion="revelationist"
 	trade_goods="cattle"
 	civilization_value=10
 	barbarian_power=0
@@ -40,7 +40,7 @@
 2825={ #Lexington Fayette
 	terrain="forest"
 	culture="riverlander"
-	religion="ophiolatry"
+	religion="revelationist"
 	trade_goods="horses"
 	civilization_value=10
 	barbarian_power=0
@@ -53,7 +53,7 @@
 3065={ #Meads
 	terrain="hills"
 	culture="riverlander"
-	religion="omenteller"
+	religion="revelationist"
 	trade_goods="horses"
 	civilization_value=10
 	barbarian_power=0
@@ -66,7 +66,7 @@
 3066={ #Morehead
 	terrain="hills"
 	culture="riverlander"
-	religion="omenteller"
+	religion="revelationist"
 	trade_goods="wood"
 	civilization_value=10
 	barbarian_power=0
@@ -79,7 +79,7 @@
 3067={ #Frenchburg
 	terrain="hills"
 	culture="riverlander"
-	religion="omenteller"
+	religion="revelationist"
 	trade_goods="tobacco"
 	civilization_value=10
 	barbarian_power=0
@@ -92,7 +92,7 @@
 3068={ #Paintsville
 	terrain="hills"
 	culture="riverlander"
-	religion="omenteller"
+	religion="revelationist"
 	trade_goods="maple"
 	civilization_value=10
 	barbarian_power=0
@@ -105,7 +105,7 @@
 4078={ #Albany
 	terrain="forest"
 	culture="riverlander"
-	religion="omenteller"
+	religion="revelationist"
 	trade_goods="stone"
 	civilization_value=10
 	barbarian_power=0
@@ -118,7 +118,7 @@
 4079={ #Somerset
 	terrain="hills"
 	culture="riverlander"
-	religion="ophiolatry"
+	religion="revelationist"
 	trade_goods="grain"
 	civilization_value=10
 	barbarian_power=0
@@ -131,7 +131,7 @@
 4080={ #Monticello
 	terrain="hills"
 	culture="riverlander"
-	religion="omenteller"
+	religion="revelationist"
 	trade_goods="horses"
 	civilization_value=10
 	barbarian_power=0
@@ -144,7 +144,7 @@
 4404={ #Oneida
 	terrain="hills"
 	culture="riverlander"
-	religion="omenteller"
+	religion="revelationist"
 	trade_goods="iron"
 	civilization_value=10
 	barbarian_power=0
@@ -157,7 +157,7 @@
 4405={ #London
 	terrain="hills"
 	culture="riverlander"
-	religion="omenteller"
+	religion="revelationist"
 	trade_goods="maple"
 	civilization_value=10
 	barbarian_power=0
@@ -170,7 +170,7 @@
 4406={ #Middlesboro
 	terrain="mountain"
 	culture="riverlander"
-	religion="omenteller"
+	religion="revelationist"
 	trade_goods="stone"
 	civilization_value=10
 	barbarian_power=0
@@ -183,7 +183,7 @@
 4407={ #Pineville
 	terrain="hills"
 	culture="riverlander"
-	religion="omenteller"
+	religion="revelationist"
 	trade_goods="limestone"
 	civilization_value=10
 	barbarian_power=0
@@ -196,7 +196,7 @@
 4617={ #Clarksville
 	terrain="forest"
 	culture="riverlander"
-	religion="ophiolatry"
+	religion="revelationist"
 	trade_goods="clay"
 	civilization_value=10
 	barbarian_power=0
@@ -209,7 +209,7 @@
 4618={ #Princeton
 	terrain="forest"
 	culture="riverlander"
-	religion="ophiolatry"
+	religion="revelationist"
 	trade_goods="tubers"
 	civilization_value=10
 	barbarian_power=0
@@ -222,7 +222,7 @@
 4619={ #Hopkinsville
 	terrain="forest"
 	culture="riverlander"
-	religion="ophiolatry"
+	religion="revelationist"
 	trade_goods="tobacco"
 	civilization_value=10
 	barbarian_power=0
@@ -235,7 +235,7 @@
 4958={ #Maysville
 	terrain="forest"
 	culture="riverlander"
-	religion="ophiolatry"
+	religion="revelationist"
 	trade_goods="glass"
 	civilization_value=10
 	barbarian_power=0
@@ -248,7 +248,7 @@
 4959={ #Paris
 	terrain="forest"
 	culture="riverlander"
-	religion="ophiolatry"
+	religion="revelationist"
 	trade_goods="maple"
 	civilization_value=10
 	barbarian_power=0
@@ -261,7 +261,7 @@
 4960={ #Winchester
 	terrain="forest"
 	culture="riverlander"
-	religion="ophiolatry"
+	religion="revelationist"
 	trade_goods="wood"
 	civilization_value=10
 	barbarian_power=0
@@ -274,7 +274,7 @@
 5385={ #Hendersonville
 	terrain="hills"
 	culture="riverlander"
-	religion="ophiolatry"
+	religion="revelationist"
 	trade_goods="clay"
 	civilization_value=10
 	barbarian_power=0
@@ -287,7 +287,7 @@
 5386={ #Russellville
 	terrain="forest"
 	culture="riverlander"
-	religion="ophiolatry"
+	religion="revelationist"
 	trade_goods="limestone"
 	civilization_value=10
 	barbarian_power=0
@@ -300,7 +300,7 @@
 5387={ #Bowling Green
 	terrain="hills"
 	culture="riverlander"
-	religion="ophiolatry"
+	religion="revelationist"
 	trade_goods="bodark"
 	civilization_value=10
 	barbarian_power=0
@@ -313,7 +313,7 @@
 5388={ #Gallatin
 	terrain="hills"
 	culture="riverlander"
-	religion="ophiolatry"
+	religion="revelationist"
 	trade_goods="maple"
 	civilization_value=10
 	barbarian_power=0
@@ -339,7 +339,7 @@
 6211={ #Henderson
 	terrain="forest"
 	culture="riverlander"
-	religion="ophiolatry"
+	religion="revelationist"
 	trade_goods="cattle"
 	civilization_value=10
 	barbarian_power=0
@@ -352,7 +352,7 @@
 6212={ #Morehead
 	terrain="hills"
 	culture="riverlander"
-	religion="ophiolatry"
+	religion="revelationist"
 	trade_goods="horses"
 	civilization_value=10
 	barbarian_power=0
@@ -365,7 +365,7 @@
 7174={ #Columbia
 	terrain="forest"
 	culture="riverlander"
-	religion="ophiolatry"
+	religion="revelationist"
 	trade_goods="limestone"
 	civilization_value=10
 	barbarian_power=0
@@ -378,7 +378,7 @@
 7175={ #Hodgenville
 	terrain="forest"
 	culture="riverlander"
-	religion="ophiolatry"
+	religion="americanist"
 	trade_goods="tobacco"
 	civilization_value=10
 	barbarian_power=0
@@ -391,7 +391,7 @@
 7176={ #Tompkinsville
 	terrain="forest"
 	culture="riverlander"
-	religion="ophiolatry"
+	religion="revelationist"
 	trade_goods="tobacco"
 	civilization_value=10
 	barbarian_power=0
@@ -404,7 +404,7 @@
 7177={ #Campbellsville
 	terrain="forest"
 	culture="riverlander"
-	religion="ophiolatry"
+	religion="revelationist"
 	trade_goods="grain"
 	civilization_value=10
 	barbarian_power=0
@@ -417,7 +417,7 @@
 7178={ #Glasgow
 	terrain="forest"
 	culture="riverlander"
-	religion="ophiolatry"
+	religion="revelationist"
 	trade_goods="honey"
 	civilization_value=10
 	barbarian_power=0
@@ -456,7 +456,7 @@
 7516={ #Bardstown
 	terrain="forest"
 	culture="riverlander"
-	religion="ophiolatry"
+	religion="americanist"
 	trade_goods="horses"
 	civilization_value=10
 	barbarian_power=0
@@ -469,7 +469,7 @@
 7686={ #Richmond
 	terrain="forest"
 	culture="riverlander"
-	religion="ophiolatry"
+	religion="revelationist"
 	trade_goods="cloth"
 	civilization_value=10
 	barbarian_power=0
@@ -482,7 +482,7 @@
 7687={ #Lawrenceburg
 	terrain="forest"
 	culture="riverlander"
-	religion="ophiolatry"
+	religion="americanist"
 	trade_goods="tobacco"
 	civilization_value=10
 	barbarian_power=0
@@ -495,7 +495,7 @@
 7688={ #Danville
 	terrain="forest"
 	culture="riverlander"
-	religion="ophiolatry"
+	religion="revelationist"
 	trade_goods="honey"
 	civilization_value=10
 	barbarian_power=0
@@ -508,7 +508,7 @@
 7689={ #Mount Vernon
 	terrain="hills"
 	culture="riverlander"
-	religion="ophiolatry"
+	religion="revelationist"
 	trade_goods="tobacco"
 	civilization_value=10
 	barbarian_power=0
@@ -521,7 +521,7 @@
 7772={ #Hindman
 	terrain="hills"
 	culture="riverlander"
-	religion="omenteller"
+	religion="revelationist"
 	trade_goods="stone"
 	civilization_value=10
 	barbarian_power=0
@@ -534,7 +534,7 @@
 7773={ #Hazard
 	terrain="hills"
 	culture="riverlander"
-	religion="omenteller"
+	religion="revelationist"
 	trade_goods="base_metals"
 	civilization_value=10
 	barbarian_power=0
@@ -547,7 +547,7 @@
 7774={ #Pikeville
 	terrain="hills"
 	culture="riverlander"
-	religion="omenteller"
+	religion="revelationist"
 	trade_goods="bodark"
 	civilization_value=10
 	barbarian_power=0
@@ -560,7 +560,7 @@
 7775={ #Jackson
 	terrain="hills"
 	culture="riverlander"
-	religion="omenteller"
+	religion="revelationist"
 	trade_goods="horses"
 	civilization_value=10
 	barbarian_power=0
@@ -573,7 +573,7 @@
 7811={ #Williamstown
 	terrain="hills"
 	culture="riverlander"
-	religion="ophiolatry"
+	religion="revelationist"
 	trade_goods="tobacco"
 	civilization_value=10
 	barbarian_power=0
@@ -586,7 +586,7 @@
 7812={ #Warsaw
 	terrain="hills"
 	culture="riverlander"
-	religion="ophiolatry"
+	religion="revelationist"
 	trade_goods="leather"
 	civilization_value=10
 	barbarian_power=0
@@ -599,7 +599,7 @@
 7813={ #Covington
 	terrain="hills"
 	culture="riverlander"
-	religion="ophiolatry"
+	religion="revelationist"
 	trade_goods="fish"
 	civilization_value=10
 	barbarian_power=0
@@ -638,7 +638,7 @@
 8633={ #Leitchfield
 	terrain="forest"
 	culture="riverlander"
-	religion="ophiolatry"
+	religion="americanist"
 	trade_goods="cattle"
 	civilization_value=10
 	barbarian_power=0

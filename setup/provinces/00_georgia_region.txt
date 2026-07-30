@@ -66,7 +66,7 @@
 1045={ #Kennesaw
 	terrain="hills"
 	culture="appalachian"
-	religion="omenteller"
+	religion="revelationist"
 	trade_goods="honey"
 	civilization_value=10
 	barbarian_power=0
@@ -469,7 +469,7 @@
 5045={ #Toccoa
 	terrain="hills"
 	culture="appalachian"
-	religion="omenteller"
+	religion="revelationist"
 	trade_goods="honey"
 	civilization_value=10
 	barbarian_power=0
@@ -482,7 +482,7 @@
 5046={ #Commerce
 	terrain="forest"
 	culture="atlantean"
-	religion="omenteller"
+	religion="revelationist"
 	trade_goods="clay"
 	civilization_value=10
 	barbarian_power=0
@@ -599,7 +599,7 @@
 5947={ #Dahlonega
 	terrain="hills"
 	culture="appalachian"
-	religion="omenteller"
+	religion="revelationist"
 	trade_goods="clay"
 	civilization_value=10
 	barbarian_power=0
@@ -638,7 +638,7 @@
 5950={ #Gainesville
 	terrain="forest"
 	culture="atlantean"
-	religion="omenteller"
+	religion="revelationist"
 	trade_goods="clay"
 	civilization_value=10
 	barbarian_power=0

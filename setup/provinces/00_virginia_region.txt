@@ -612,7 +612,7 @@
 8682={ #Patrick
 	terrain="hills"
 	culture="appalachian"
-	religion="evangelical"
+	religion="omenteller"
 	trade_goods="wild_game"
 	civilization_value=10
 	barbarian_power=0
@@ -625,7 +625,7 @@
 8683={ #Martinsville
 	terrain="hills"
 	culture="appalachian"
-	religion="evangelical"
+	religion="omenteller"
 	trade_goods="horses"
 	civilization_value=10
 	barbarian_power=0

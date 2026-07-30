@@ -616,7 +616,7 @@
 	}
 }
 
-9035={ #Penn Hills
+9035={ #Pittsburgh
 	terrain="hills"
 	culture="yinzic"
 	religion="promethean"
@@ -674,7 +674,7 @@
 	}
 }
 
-9038={ #Pittsburgh
+9038={ #Crafton
 	terrain="hills"
 	culture="yinzic"
 	religion="promethean"

@@ -391,7 +391,7 @@
 6672={ #Myrtle Beach
 	terrain="marsh"
 	culture="sandlapper"
-	religion="bahai"
+	religion="episcopalian"
 	trade_goods="fish"
 	civilization_value=10
 	barbarian_power=0
