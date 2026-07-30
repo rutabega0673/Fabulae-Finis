@@ -366,7 +366,7 @@
 
 744={ #Villas
 	terrain="plains"
-	culture="youser"
+	culture="yiddish"
 	religion="haredi"
 	trade_goods="cloth"
 	civilization_value=22
@@ -385,7 +385,7 @@
 
 745={ #Egg Hardbor
 	terrain="plains"
-	culture="youser"
+	culture="yiddish"
 	religion="catholic"
 	trade_goods="fish"
 	civilization_value=22
@@ -543,14 +543,22 @@
 	culture="youser"
 	religion="americanist"
 	trade_goods="artifacts"
-	civilization_value=22
+	civilization_value=28
 	barbarian_power=0
-	province_rank="settlement"
+	province_rank="city"
+	nobles={
+		amount=2
+	}
 	citizen={
+		religion="quaker"
 		amount=2
 	}
 	freemen={
-		amount=6
+		culture="deitsch"
+		amount=2
+	}
+	freemen={
+		amount=7
 	}
 	slaves={
 		amount=4
@@ -1003,8 +1011,8 @@
 
 3670={ #Airville
 	terrain="plains"
-	culture="beltway"
-	religion="americanist"
+	culture="deitsch"
+	religion="old_order"
 	trade_goods="grain"
 	civilization_value=22
 	barbarian_power=0
@@ -1089,17 +1097,26 @@
 	barbarian_power=0
 	province_rank="city"
 	nobles={
-		amount=4
+		amount=6
 	}
 	citizen={
 		religion="quaker"
 		amount=3
 	}
 	citizen={
-		amount=5
+		amount=6
 	}
 	freemen={
 		amount=10
+	}
+	freemen={
+		culture="yiddish"
+		religion="haredi"
+		amount=2
+	}
+	freemen={
+		culture="deitsch"
+		amount=2
 	}
 	freemen={
 		culture="aybidi"
@@ -1525,7 +1542,7 @@
 
 5960={ #Ashbury Park
 	terrain="plains"
-	culture="gothamite"
+	culture="yiddish"
 	religion="haredi"
 	trade_goods="dye"
 	civilization_value=22
@@ -1620,8 +1637,8 @@
 
 7135={ #Oxford
 	terrain="hills"
-	culture="youser"
-	religion="americanist"
+	culture="deitsch"
+	religion="old_order"
 	trade_goods="tobacco"
 	civilization_value=22
 	barbarian_power=0
@@ -1639,8 +1656,8 @@
 
 7136={ #Coatesville
 	terrain="hills"
-	culture="youser"
-	religion="americanist"
+	culture="deitsch"
+	religion="old_order"
 	trade_goods="cattle"
 	civilization_value=22
 	barbarian_power=0
@@ -1728,7 +1745,7 @@
 
 9523={ #Vineland
 	terrain="plains"
-	culture="youser"
+	culture="yiddish"
 	religion="haredi"
 	trade_goods="wine"
 	civilization_value=22

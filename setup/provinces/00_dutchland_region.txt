@@ -1,7 +1,7 @@
 ﻿1062={ #Hagerstown
 	terrain="hills"
-	culture="susquehannan"
-	religion="omenteller"
+	culture="yinzic"
+	religion="sustainablist"
 	trade_goods="cattle"
 	civilization_value=10
 	barbarian_power=0
@@ -13,8 +13,8 @@
 
 2094={ #Bedford
 	terrain="hills"
-	culture="susquehannan"
-	religion="omenteller"
+	culture="yinzic"
+	religion="sustainablist"
 	trade_goods="grain"
 	civilization_value=10
 	barbarian_power=0
@@ -26,21 +26,35 @@
 
 2095={ #Altoona
 	terrain="hills"
-	culture="susquehannan"
-	religion="fissionist"
+	culture="yinzic"
+	religion="sustainablist"
 	trade_goods="wine"
-	civilization_value=10
+	civilization_value=23
 	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=1
+	province_rank="city"
+	nobles={
+		amount=2
+	}
+	citizen={
+		amount=3
+	}
+	freemen={
+		culture="deitsch"
+		religion="old_order"
+		amount=3
+	}
+	freemen={
+		amount=3
+	}
+	slaves={
+		amount=4
 	}
 }
 
 2096={ #Mifflintown
 	terrain="hills"
 	culture="susquehannan"
-	religion="fissionist"
+	religion="sustainablist"
 	trade_goods="papyrus"
 	civilization_value=10
 	barbarian_power=0
@@ -53,7 +67,7 @@
 2097={ #Park Forest
 	terrain="hills"
 	culture="susquehannan"
-	religion="fissionist"
+	religion="sustainablist"
 	trade_goods="tobacco"
 	civilization_value=10
 	barbarian_power=0
@@ -93,12 +107,41 @@
 	terrain="farmland"
 	culture="deitsch"
 	religion="old_order"
-	trade_goods="grain"
-	civilization_value=10
+	trade_goods="cloth"
+	civilization_value=22
 	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
+	province_rank="city"
+	nobles={
+		amount=3
+	}
+	citizen={
 		amount=2
+	}
+	citizen={
+		culture="youser"
+		religion="americanist"
+		amount=2
+	}
+	citizen={
+		culture="susquehannan"
+		religion="americanist"
+		amount=2
+	}
+	freemen={
+		culture="susquehannan"
+		religion="americanist"
+		amount=5
+	}
+	freemen={
+		culture="susquehannan"
+		religion="fissionist"
+		amount=3
+	}
+	freemen={
+		amount=5
+	}
+	slaves={
+		amount=7
 	}
 }
 
@@ -130,7 +173,7 @@
 
 3287={ #Bloomsburg
 	terrain="hills"
-	culture="deitsch"
+	culture="susquehannan"
 	religion="old_order"
 	trade_goods="vegetables"
 	civilization_value=10
@@ -143,7 +186,7 @@
 
 3371={ #Binghampton
 	terrain="hills"
-	culture="pocono"
+	culture="upstater"
 	religion="catholic"
 	trade_goods="clay"
 	civilization_value=10
@@ -156,8 +199,8 @@
 
 3668={ #York
 	terrain="plains"
-	culture="susquehannan"
-	religion="fissionist"
+	culture="deitsch"
+	religion="old_order"
 	trade_goods="grain"
 	civilization_value=10
 	barbarian_power=0
@@ -169,8 +212,8 @@
 
 3669={ #New Freedom
 	terrain="plains"
-	culture="beltway"
-	religion="americanist"
+	culture="deitsch"
+	religion="old_order"
 	trade_goods="clay"
 	civilization_value=10
 	barbarian_power=0
@@ -182,8 +225,8 @@
 
 3795={ #Honesdale
 	terrain="mountain"
-	culture="pocono"
-	religion="americanist"
+	culture="susquehannan"
+	religion="catholic"
 	trade_goods="clay"
 	civilization_value=10
 	barbarian_power=0
@@ -195,7 +238,7 @@
 
 3796={ #Port Jervis
 	terrain="hills"
-	culture="pocono"
+	culture="susquehannan"
 	religion="americanist"
 	trade_goods="fish"
 	civilization_value=10
@@ -221,7 +264,7 @@
 
 5459={ #Mansfield
 	terrain="hills"
-	culture="yinzic"
+	culture="susquehannan"
 	religion="catholic"
 	trade_goods="maple"
 	civilization_value=10
@@ -234,7 +277,7 @@
 
 5493={ #Noxen
 	terrain="hills"
-	culture="pocono"
+	culture="susquehannan"
 	religion="quaker"
 	trade_goods="wild_game"
 	civilization_value=10
@@ -247,7 +290,7 @@
 
 5494={ #Sayre
 	terrain="marsh"
-	culture="pocono"
+	culture="susquehannan"
 	religion="catholic"
 	trade_goods="cattle"
 	civilization_value=10
@@ -260,8 +303,8 @@
 
 5495={ #Tunkhannock
 	terrain="hills"
-	culture="pocono"
-	religion="quaker"
+	culture="susquehannan"
+	religion="catholic"
 	trade_goods="bodark"
 	civilization_value=10
 	barbarian_power=0
@@ -273,7 +316,7 @@
 
 5496={ #Susquehanna
 	terrain="hills"
-	culture="pocono"
+	culture="susquehannan"
 	religion="catholic"
 	trade_goods="tobacco"
 	civilization_value=10
@@ -286,7 +329,7 @@
 
 6213={ #Wilkes Barre
 	terrain="marsh"
-	culture="pocono"
+	culture="susquehannan"
 	religion="quaker"
 	trade_goods="leather"
 	civilization_value=10
@@ -299,7 +342,7 @@
 
 6214={ #Scranton
 	terrain="hills"
-	culture="pocono"
+	culture="susquehannan"
 	religion="quaker"
 	trade_goods="wood"
 	civilization_value=10
@@ -312,7 +355,7 @@
 
 6215={ #Back Mountain
 	terrain="marsh"
-	culture="pocono"
+	culture="susquehannan"
 	religion="quaker"
 	trade_goods="clay"
 	civilization_value=10
@@ -325,8 +368,8 @@
 
 7721={ #Chambersburg
 	terrain="hills"
-	culture="susquehannan"
-	religion="fissionist"
+	culture="deitsch"
+	religion="old_order"
 	trade_goods="wood"
 	civilization_value=10
 	barbarian_power=0
@@ -338,8 +381,8 @@
 
 7722={ #Hanover
 	terrain="farmland"
-	culture="susquehannan"
-	religion="fissionist"
+	culture="deitsch"
+	religion="old_order"
 	trade_goods="honey"
 	civilization_value=10
 	barbarian_power=0
@@ -353,12 +396,26 @@
 	terrain="hills"
 	culture="susquehannan"
 	religion="fissionist"
-	trade_goods="cattle"
-	civilization_value=10
+	trade_goods="marble"
+	civilization_value=26
 	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=1
+	province_rank="city"
+	nobles={
+		amount=3
+	}
+	citizen={
+		amount=2
+	}
+	freemen={
+		culture="deitsch"
+		religion="old_order"
+		amount=3
+	}
+	freemen={
+		amount=3
+	}
+	slaves={
+		amount=4
 	}
 }
 
@@ -391,7 +448,7 @@
 8637={ #Kutztown
 	terrain="hills"
 	culture="deitsch"
-	religion="americanist"
+	religion="old_order"
 	trade_goods="wood"
 	civilization_value=10
 	barbarian_power=0
@@ -403,14 +460,32 @@
 
 8638={ #Reading
 	terrain="hills"
-	culture="youser"
-	religion="americanist"
+	culture="deitsch"
+	religion="old_order"
 	trade_goods="iron"
-	civilization_value=10
+	civilization_value=28
 	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=1
+	province_rank="city"
+	nobles={
+		culture="youser"
+		religion="americanist"
+		amount=2
+	}
+	citizen={
+		culture="youser"
+		religion="americanist"
+		amount=2
+	}
+	freemen={
+		culture="youser"
+		religion="americanist"
+		amount=2
+	}
+	freemen={
+		amount=7
+	}
+	slaves={
+		amount=4
 	}
 }
 
@@ -419,11 +494,24 @@
 	culture="youser"
 	religion="americanist"
 	trade_goods="iron"
-	civilization_value=10
+	civilization_value=28
 	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=1
+	province_rank="city"
+	nobles={
+		amount=2
+	}
+	citizen={
+		amount=2
+	}
+	freemen={
+		culture="deitsch"
+		amount=2
+	}
+	freemen={
+		amount=7
+	}
+	slaves={
+		amount=4
 	}
 }
 
@@ -443,7 +531,7 @@
 9332={ #Williamsport
 	terrain="hills"
 	culture="susquehannan"
-	religion="old_order"
+	religion="catholic"
 	trade_goods="grain"
 	civilization_value=10
 	barbarian_power=0
@@ -468,7 +556,7 @@
 
 9587={ #Slatington
 	terrain="hills"
-	culture="pocono"
+	culture="susquehannan"
 	religion="americanist"
 	trade_goods="cattle"
 	civilization_value=10
@@ -494,7 +582,7 @@
 
 9589={ #East Stroudsburg
 	terrain="hills"
-	culture="pocono"
+	culture="susquehannan"
 	religion="americanist"
 	trade_goods="cattle"
 	civilization_value=10

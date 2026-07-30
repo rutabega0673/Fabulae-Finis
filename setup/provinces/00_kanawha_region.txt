@@ -40,7 +40,7 @@
 835={ #Cumberland
 	terrain="mountain"
 	culture="appalachian"
-	religion="omenteller"
+	religion="sustainablist"
 	trade_goods="wood"
 	civilization_value=10
 	barbarian_power=0

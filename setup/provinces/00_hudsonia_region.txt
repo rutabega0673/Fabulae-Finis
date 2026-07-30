@@ -189,7 +189,7 @@
 
 1691={ #Walton
 	terrain="mountain"
-	culture="hudsonian"
+	culture="yiddish"
 	religion="haredi"
 	trade_goods="wild_game"
 	civilization_value=10
@@ -202,7 +202,7 @@
 
 1692={ #Thompson
 	terrain="mountain"
-	culture="hudsonian"
+	culture="yiddish"
 	religion="haredi"
 	trade_goods="bodark"
 	civilization_value=10
@@ -584,7 +584,7 @@
 3372={ #Union
 	terrain="farmland"
 	culture="upstater"
-	religion="clairvoyant"
+	religion="catholic"
 	trade_goods="grain"
 	civilization_value=10
 	barbarian_power=0
@@ -597,7 +597,7 @@
 3373={ #Owego
 	terrain="hills"
 	culture="upstater"
-	religion="clairvoyant"
+	religion="catholic"
 	trade_goods="vegetables"
 	civilization_value=10
 	barbarian_power=0
@@ -975,7 +975,7 @@
 6057={ #Elmira
 	terrain="farmland"
 	culture="upstater"
-	religion="old_order"
+	religion="catholic"
 	trade_goods="fruits"
 	civilization_value=18
 	barbarian_power=0
@@ -1525,7 +1525,7 @@
 
 9421={ #Shandaken
 	terrain="hills"
-	culture="hudsonian"
+	culture="yiddish"
 	religion="haredi"
 	trade_goods="base_metals"
 	civilization_value=10

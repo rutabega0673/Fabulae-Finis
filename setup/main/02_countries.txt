@@ -330,7 +330,7 @@ country = {
 			government = titanate
 			primary_culture = yinzic
 			religion = promethean
-			capital = 9038
+			capital = 9035
 
 			technology={
 				military_tech={ level=2 progress=0 }

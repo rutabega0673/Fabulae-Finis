@@ -38,6 +38,10 @@
 	civilization_value=22
 	barbarian_power=0
 	province_rank="settlement"
+	citizen={
+		religion="fissionist"
+		amount=2
+	}
 	freemen={
 		amount=5
 	}
@@ -179,14 +183,20 @@
 	culture="buckeye"
 	religion="promethean"
 	trade_goods="wootz_steel"
-	civilization_value=22
+	civilization_value=29
 	barbarian_power=0
-	province_rank="settlement"
+	province_rank="city"
+	nobles={
+		amount=2
+	}
+	citizen={
+		amount=3
+	}
 	freemen={
-		amount=5
+		amount=6
 	}
 	slaves={
-		amount=3
+		amount=5
 	}
 }
 
@@ -320,7 +330,7 @@
 
 5460={ #Plymptonville
 	terrain="forest"
-	culture="yinzic"
+	culture="susquehannan"
 	religion="sustainablist"
 	trade_goods="maple"
 	civilization_value=22
@@ -336,7 +346,7 @@
 
 5461={ #Shiloh
 	terrain="mountain"
-	culture="yinzic"
+	culture="susquehannan"
 	religion="sustainablist"
 	trade_goods="cattle"
 	civilization_value=22
@@ -368,7 +378,7 @@
 
 5463={ #Emporium
 	terrain="hills"
-	culture="yinzic"
+	culture="susquehannan"
 	religion="catholic"
 	trade_goods="leather"
 	civilization_value=22
@@ -610,15 +620,25 @@
 	terrain="hills"
 	culture="yinzic"
 	religion="promethean"
-	trade_goods="iron"
-	civilization_value=22
+	trade_goods="wootz_steel"
+	civilization_value=33
 	barbarian_power=0
-	province_rank="settlement"
-	freemen={
+	province_rank="city"
+	nobles={
+		amount=4
+	}
+	citizen={
 		amount=5
 	}
-	slaves={
+	freemen={
+		religion="fissionist"
 		amount=3
+	}
+	freemen={
+		amount=6
+	}
+	slaves={
+		amount=10
 	}
 }
 
