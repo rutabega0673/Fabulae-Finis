@@ -1,5 +1,5 @@
 ﻿320={ #Harrisburg
-	terrain="plains"
+	terrain="forest"
 	culture="butternutter"
 	religion="catholic"
 	trade_goods="cattle"
@@ -25,7 +25,7 @@
 }
 
 322={ #Carbondale
-	terrain="plains"
+	terrain="forest"
 	culture="butternutter"
 	religion="twainist"
 	trade_goods="grain"
@@ -103,7 +103,7 @@
 }
 
 2733={ #Upper Alton
-	terrain="farmland"
+	terrain="plains"
 	culture="gatewayan"
 	religion="catholic"
 	trade_goods="tubers"
@@ -270,7 +270,7 @@
 }
 
 4050={ #West Frankfort
-	terrain="plains"
+	terrain="forest"
 	culture="butternutter"
 	religion="catholic"
 	trade_goods="bodark"
@@ -348,7 +348,7 @@
 }
 
 4684={ #Pekin
-	terrain="plains"
+	terrain="farmland"
 	culture="heartlander"
 	religion="catholic"
 	trade_goods="salt"
@@ -680,7 +680,7 @@
 }
 
 7923={ #Hamilton
-	terrain="flood_plain"
+	terrain="plains"
 	culture="heartlander"
 	religion="twainist"
 	trade_goods="clay"
@@ -706,7 +706,7 @@
 }
 
 7925={ #Oquawka
-	terrain="flood_plain"
+	terrain="plains"
 	culture="heartlander"
 	religion="twainist"
 	trade_goods="leather"
@@ -719,7 +719,7 @@
 }
 
 8334={ #Charleston
-	terrain="forest"
+	terrain="plains"
 	culture="hoosier"
 	religion="promethean"
 	trade_goods="horses"
@@ -771,7 +771,7 @@
 }
 
 8338={ #Effingham
-	terrain="forest"
+	terrain="plains"
 	culture="hoosier"
 	religion="promethean"
 	trade_goods="wood"

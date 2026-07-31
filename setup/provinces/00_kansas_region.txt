@@ -220,7 +220,7 @@
 }
 
 961={ #Fremont
-	terrain="plains"
+	terrain="hills"
 	culture="dhegihan"
 	religion="lutheran"
 	trade_goods="incense"
@@ -272,7 +272,7 @@
 }
 
 1515={ #Wichita
-	terrain="farmland"
+	terrain="plains"
 	culture="grangelander"
 	religion="heartful"
 	trade_goods="hemp"
@@ -636,7 +636,7 @@
 }
 
 5880={ #Omaha
-	terrain="farmland"
+	terrain="hills"
 	culture="dhegihan"
 	religion="lutheran"
 	trade_goods="glass"
@@ -649,7 +649,7 @@
 }
 
 5881={ #Nebraska City
-	terrain="plains"
+	terrain="hills"
 	culture="dhegihan"
 	religion="lutheran"
 	trade_goods="buffalo"
@@ -675,7 +675,7 @@
 }
 
 5883={ #Wahoo
-	terrain="plains"
+	terrain="hills"
 	culture="dhegihan"
 	religion="lutheran"
 	trade_goods="leather"

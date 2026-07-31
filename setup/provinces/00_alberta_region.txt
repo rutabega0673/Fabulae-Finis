@@ -1,5 +1,5 @@
 ﻿382={ #Coalhurst
-	terrain="plains"
+	terrain="steppes"
 	culture="prairielander"
 	religion="sun_dance"
 	trade_goods="fruits"
@@ -12,7 +12,7 @@
 }
 
 383={ #Raymond
-	terrain="plains"
+	terrain="steppes"
 	culture="blackfoot"
 	religion="sun_dance"
 	trade_goods="cattle"
@@ -25,7 +25,7 @@
 }
 
 384={ #Lethbridge
-	terrain="plains"
+	terrain="steppes"
 	culture="blackfoot"
 	religion="sun_dance"
 	trade_goods=""
@@ -181,7 +181,7 @@
 }
 
 1916={ #Sylvan Lake
-	terrain="plains"
+	terrain="steppes"
 	culture="prairielander"
 	religion="loneranger"
 	trade_goods="steppe_horses"
@@ -194,7 +194,7 @@
 }
 
 1917={ #Olds
-	terrain="plains"
+	terrain="steppes"
 	culture="prairielander"
 	religion="loneranger"
 	trade_goods="woad"
@@ -207,7 +207,7 @@
 }
 
 1921={ #Calgary
-	terrain="plains"
+	terrain="steppes"
 	culture="prairielander"
 	religion="loneranger"
 	trade_goods="grain"
@@ -220,7 +220,7 @@
 }
 
 1922={ #Chestermere
-	terrain="plains"
+	terrain="steppes"
 	culture="prairielander"
 	religion="loneranger"
 	trade_goods=""
@@ -233,7 +233,7 @@
 }
 
 1923={ #Westcott
-	terrain="plains"
+	terrain="steppes"
 	culture="prairielander"
 	religion="loneranger"
 	trade_goods="fish"
@@ -246,7 +246,7 @@
 }
 
 1924={ #Didsbury
-	terrain="plains"
+	terrain="steppes"
 	culture="prairielander"
 	religion="loneranger"
 	trade_goods="vegetables"
@@ -259,7 +259,7 @@
 }
 
 1925={ #Airdrie
-	terrain="plains"
+	terrain="steppes"
 	culture="prairielander"
 	religion="loneranger"
 	trade_goods="hemp"
@@ -272,7 +272,7 @@
 }
 
 1926={ #Okotoks
-	terrain="plains"
+	terrain="steppes"
 	culture="prairielander"
 	religion="loneranger"
 	trade_goods="grain"
@@ -298,7 +298,7 @@
 }
 
 2447={ #Winfield
-	terrain="plains"
+	terrain="steppes"
 	culture="prairielander"
 	religion="mennonite"
 	trade_goods="fish"
@@ -311,7 +311,7 @@
 }
 
 2448={ #Rimbey
-	terrain="plains"
+	terrain="steppes"
 	culture="prairielander"
 	religion="mennonite"
 	trade_goods="cattle"
@@ -324,7 +324,7 @@
 }
 
 2449={ #Drayton Valley
-	terrain="plains"
+	terrain="steppes"
 	culture="prairielander"
 	religion="mennonite"
 	trade_goods="hemp"
@@ -402,7 +402,7 @@
 }
 
 3025={ #Jarvie
-	terrain="plains"
+	terrain="steppes"
 	culture="metis"
 	religion="peyotist"
 	trade_goods="fish"
@@ -415,7 +415,7 @@
 }
 
 3026={ #Westlock
-	terrain="plains"
+	terrain="steppes"
 	culture="prairielander"
 	religion="mennonite"
 	trade_goods="cattle"
@@ -519,7 +519,7 @@
 }
 
 4031={ #Fort Macleod
-	terrain="plains"
+	terrain="steppes"
 	culture="blackfoot"
 	religion="sun_dance"
 	trade_goods="honey"
@@ -532,7 +532,7 @@
 }
 
 4032={ #Cardston
-	terrain="plains"
+	terrain="steppes"
 	culture="blackfoot"
 	religion="sun_dance"
 	trade_goods="fur"
@@ -558,7 +558,7 @@
 }
 
 5341={ #Ullin
-	terrain="plains"
+	terrain="steppes"
 	culture="prairielander"
 	religion="mennonite"
 	trade_goods="grain"
@@ -571,7 +571,7 @@
 }
 
 5342={ #Rocky Mountain House
-	terrain="plains"
+	terrain="steppes"
 	culture="prairielander"
 	religion="loneranger"
 	trade_goods="hemp"
@@ -584,7 +584,7 @@
 }
 
 5354={ #Strathmore
-	terrain="plains"
+	terrain="steppes"
 	culture="prairielander"
 	religion="loneranger"
 	trade_goods="fish"
@@ -714,7 +714,7 @@
 }
 
 6701={ #Claresholm
-	terrain="plains"
+	terrain="steppes"
 	culture="blackfoot"
 	religion="sun_dance"
 	trade_goods="fish"
@@ -727,7 +727,7 @@
 }
 
 7068={ #Vauxhall
-	terrain="plains"
+	terrain="steppes"
 	culture="prairielander"
 	religion="loneranger"
 	trade_goods="fish"
@@ -740,7 +740,7 @@
 }
 
 7069={ #Vulcan
-	terrain="plains"
+	terrain="steppes"
 	culture="prairielander"
 	religion="loneranger"
 	trade_goods="steppe_horses"
@@ -753,7 +753,7 @@
 }
 
 7070={ #Siksika
-	terrain="plains"
+	terrain="steppes"
 	culture="prairielander"
 	religion="loneranger"
 	trade_goods="grain"
@@ -766,7 +766,7 @@
 }
 
 7481={ #Edson
-	terrain="plains"
+	terrain="steppes"
 	culture="prairielander"
 	religion="mennonite"
 	trade_goods="steppe_horses"
@@ -779,7 +779,7 @@
 }
 
 7482={ #Weald
-	terrain="plains"
+	terrain="steppes"
 	culture="prairielander"
 	religion="mennonite"
 	trade_goods="cattle"
@@ -792,7 +792,7 @@
 }
 
 7483={ #Hinton
-	terrain="plains"
+	terrain="steppes"
 	culture="prairielander"
 	religion="mennonite"
 	trade_goods="woad"
@@ -818,7 +818,7 @@
 }
 
 7598={ #Wild Horse
-	terrain="plains"
+	terrain="steppes"
 	culture="blackfoot"
 	religion="sun_dance"
 	trade_goods="vegetables"
@@ -870,7 +870,7 @@
 }
 
 8472={ #Barrhead
-	terrain="plains"
+	terrain="steppes"
 	culture="prairielander"
 	religion="mennonite"
 	trade_goods="leather"
@@ -883,7 +883,7 @@
 }
 
 8473={ #Mayerthorpe
-	terrain="plains"
+	terrain="steppes"
 	culture="prairielander"
 	religion="mennonite"
 	trade_goods="cattle"
@@ -896,7 +896,7 @@
 }
 
 8474={ #Whitecourt
-	terrain="plains"
+	terrain="steppes"
 	culture="prairielander"
 	religion="mennonite"
 	trade_goods="vegetables"
@@ -909,7 +909,7 @@
 }
 
 8542={ #Pakowki
-	terrain="plains"
+	terrain="steppes"
 	culture="blackfoot"
 	religion="sun_dance"
 	trade_goods="steppe_horses"
@@ -922,7 +922,7 @@
 }
 
 8543={ #Bow Island
-	terrain="plains"
+	terrain="steppes"
 	culture="prairielander"
 	religion="loneranger"
 	trade_goods="hemp"
@@ -1000,7 +1000,7 @@
 }
 
 8921={ #Duffield
-	terrain="plains"
+	terrain="steppes"
 	culture="prairielander"
 	religion="mennonite"
 	trade_goods="wild_game"

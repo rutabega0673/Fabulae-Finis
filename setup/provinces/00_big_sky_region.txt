@@ -12,7 +12,7 @@
 }
 
 661={ #Winnett
-	terrain="plains"
+	terrain="steppes"
 	culture="badlander"
 	religion="loneranger"
 	trade_goods="honey"
@@ -25,7 +25,7 @@
 }
 
 662={ #Denton
-	terrain="plains"
+	terrain="steppes"
 	culture="badlander"
 	religion="loneranger"
 	trade_goods="grain"
@@ -51,7 +51,7 @@
 }
 
 1289={ #Chester
-	terrain="plains"
+	terrain="steppes"
 	culture="blackfoot"
 	religion="sun_dance"
 	trade_goods="fish"
@@ -103,7 +103,7 @@
 }
 
 1524={ #Watson Flats
-	terrain="plains"
+	terrain="steppes"
 	culture="badlander"
 	religion="loneranger"
 	trade_goods="cattle"
@@ -116,7 +116,7 @@
 }
 
 1525={ #Jordan
-	terrain="plains"
+	terrain="steppes"
 	culture="badlander"
 	religion="loneranger"
 	trade_goods="steppe_horses"
@@ -142,7 +142,7 @@
 }
 
 1787={ #Choteau
-	terrain="plains"
+	terrain="steppes"
 	culture="badlander"
 	religion="loneranger"
 	trade_goods="leather"
@@ -259,7 +259,7 @@
 }
 
 3596={ #Fort Benton
-	terrain="plains"
+	terrain="steppes"
 	culture="badlander"
 	religion="loneranger"
 	trade_goods="fur"
@@ -272,7 +272,7 @@
 }
 
 3597={ #Shelby
-	terrain="plains"
+	terrain="steppes"
 	culture="blackfoot"
 	religion="sun_dance"
 	trade_goods="steppe_horses"
@@ -285,7 +285,7 @@
 }
 
 3598={ #Cut Bank
-	terrain="plains"
+	terrain="steppes"
 	culture="blackfoot"
 	religion="sun_dance"
 	trade_goods="fish"
@@ -337,7 +337,7 @@
 }
 
 4402={ #Colstrip
-	terrain="plains"
+	terrain="steppes"
 	culture="cheyenne"
 	religion="sun_dance"
 	trade_goods="beans"
@@ -350,7 +350,7 @@
 }
 
 4403={ #Vananda
-	terrain="plains"
+	terrain="steppes"
 	culture="badlander"
 	religion="sun_dance"
 	trade_goods="grain"
@@ -402,7 +402,7 @@
 }
 
 4918={ #Zurich
-	terrain="plains"
+	terrain="steppes"
 	culture="blackfoot"
 	religion="sun_dance"
 	trade_goods="grain"
@@ -415,7 +415,7 @@
 }
 
 4919={ #Malta
-	terrain="plains"
+	terrain="steppes"
 	culture="badlander"
 	religion="sun_dance"
 	trade_goods="leather"
@@ -428,7 +428,7 @@
 }
 
 4920={ #Harlem
-	terrain="plains"
+	terrain="steppes"
 	culture="badlander"
 	religion="sun_dance"
 	trade_goods="grain"
@@ -519,7 +519,7 @@
 }
 
 7080={ #Busby
-	terrain="plains"
+	terrain="steppes"
 	culture="crow"
 	religion="sun_dance"
 	trade_goods="steppe_horses"
@@ -545,7 +545,7 @@
 }
 
 8963={ #Saco
-	terrain="plains"
+	terrain="steppes"
 	culture="badlander"
 	religion="loneranger"
 	trade_goods="woad"
@@ -558,7 +558,7 @@
 }
 
 8964={ #Glasgow
-	terrain="plains"
+	terrain="steppes"
 	culture="badlander"
 	religion="loneranger"
 	trade_goods="buffalo"

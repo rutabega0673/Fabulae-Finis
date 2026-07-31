@@ -324,7 +324,7 @@
 }
 
 2169={ #New Bedford
-	terrain="plains"
+	terrain="farmland"
 	culture="bayfolk"
 	religion="americanist"
 	trade_goods="cloth"
@@ -766,7 +766,7 @@
 }
 
 5295={ #Portland
-	terrain="farmland"
+	terrain="plains"
 	culture="bayfolk"
 	religion="gothic"
 	trade_goods="fish"
@@ -844,7 +844,7 @@
 }
 
 6222={ #Coventry
-	terrain="plains"
+	terrain="farmland"
 	culture="bayfolk"
 	religion="americanist"
 	trade_goods="fish"

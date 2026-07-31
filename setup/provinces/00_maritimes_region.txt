@@ -207,7 +207,7 @@
 }
 
 1145={ #Tatamagouche
-	terrain="forest"
+	terrain="hills"
 	culture="gaidheal"
 	religion="veteranic"
 	trade_goods="stone"
@@ -220,7 +220,7 @@
 }
 
 1146={ #Pictou
-	terrain="forest"
+	terrain="plains"
 	culture="gaidheal"
 	religion="veteranic"
 	trade_goods="shells"
@@ -233,7 +233,7 @@
 }
 
 1147={ #New Glasgow
-	terrain="forest"
+	terrain="plains"
 	culture="gaidheal"
 	religion="veteranic"
 	trade_goods="leather"
@@ -259,7 +259,7 @@
 }
 
 1720={ #Annapolis Royal
-	terrain="forest"
+	terrain="plains"
 	culture="acadien"
 	religion="mervivant"
 	trade_goods="precious_metals"
@@ -285,7 +285,7 @@
 }
 
 1722={ #Greenwood
-	terrain="forest"
+	terrain="plains"
 	culture="acadien"
 	religion="mervivant"
 	trade_goods="shells"
@@ -337,7 +337,7 @@
 }
 
 2133={ #Halifax
-	terrain="forest"
+	terrain="plains"
 	culture="maritimer"
 	religion="veteranic"
 	trade_goods="earthware"
@@ -363,7 +363,7 @@
 }
 
 2135={ #Musquodoboit Harbour
-	terrain="forest"
+	terrain="plains"
 	culture="maritimer"
 	religion="veteranic"
 	trade_goods="cloth"
@@ -376,7 +376,7 @@
 }
 
 2136={ #Dartmouth
-	terrain="forest"
+	terrain="plains"
 	culture="maritimer"
 	religion="veteranic"
 	trade_goods=""
@@ -532,7 +532,7 @@
 }
 
 3702={ #Stratford
-	terrain="forest"
+	terrain="plains"
 	culture="maritimer"
 	religion="veteranic"
 	trade_goods="vegetables"
@@ -636,7 +636,7 @@
 }
 
 6393={ #Cheticamp
-	terrain="forest"
+	terrain="hills"
 	culture="maritimer"
 	religion="ursuline"
 	trade_goods="fur"
@@ -714,7 +714,7 @@
 }
 
 6580={ #Springhill
-	terrain="forest"
+	terrain="hills"
 	culture="maritimer"
 	religion="veteranic"
 	trade_goods="stone"
@@ -727,7 +727,7 @@
 }
 
 6581={ #Amherst
-	terrain="forest"
+	terrain="hills"
 	culture="maritimer"
 	religion="veteranic"
 	trade_goods="maple"
@@ -740,7 +740,7 @@
 }
 
 6582={ #Parrsboro
-	terrain="forest"
+	terrain="hills"
 	culture="maritimer"
 	religion="veteranic"
 	trade_goods="salt"
@@ -753,7 +753,7 @@
 }
 
 6670={ #Truro
-	terrain="forest"
+	terrain="plains"
 	culture="maritimer"
 	religion="veteranic"
 	trade_goods="salt"
@@ -766,7 +766,7 @@
 }
 
 6671={ #Stewiacke
-	terrain="forest"
+	terrain="plains"
 	culture="maritimer"
 	religion="veteranic"
 	trade_goods="leather"
@@ -857,7 +857,7 @@
 }
 
 7286={ #Shubenacadie
-	terrain="forest"
+	terrain="plains"
 	culture="maritimer"
 	religion="veteranic"
 	trade_goods="cattle"
@@ -883,7 +883,7 @@
 }
 
 7288={ #Berwick
-	terrain="forest"
+	terrain="plains"
 	culture="maritimer"
 	religion="veteranic"
 	trade_goods="fish"
@@ -974,7 +974,7 @@
 }
 
 8067={ #Kensington
-	terrain="forest"
+	terrain="plains"
 	culture="maritimer"
 	religion="veteranic"
 	trade_goods="cloth"
@@ -987,7 +987,7 @@
 }
 
 8068={ #Summerside
-	terrain="forest"
+	terrain="plains"
 	culture="maritimer"
 	religion="veteranic"
 	trade_goods="grain"

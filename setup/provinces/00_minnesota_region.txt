@@ -28,7 +28,7 @@
 }
 
 70={ #Kandi'oh-hi'-yu
-	terrain="farmland"
+	terrain="plains"
 	culture="minnesotan"
 	religion="lutheran"
 	trade_goods="grain"
@@ -373,7 +373,7 @@
 }
 
 1907={ #Washecha
-	terrain="farmland"
+	terrain="plains"
 	culture="minnesotan"
 	religion="lutheran"
 	trade_goods="honey"
@@ -436,7 +436,7 @@
 }
 
 1909={ #New Ulm
-	terrain="farmland"
+	terrain="plains"
 	culture="minnesotan"
 	religion="lutheran"
 	trade_goods="marble"
@@ -628,7 +628,7 @@
 }
 
 7074={ #Little Falls
-	terrain="farmland"
+	terrain="plains"
 	culture="minnesotan"
 	religion="viking"
 	trade_goods="wood"
@@ -895,7 +895,7 @@
 }
 
 8026={ #Bloomington
-	terrain="marsh"
+	terrain="farmland"
 	culture="minnesotan"
 	religion="promethean"
 	trade_goods="earthware"
@@ -1074,7 +1074,7 @@
 }
 
 8405={ #Shák'pí
-	terrain="farmland"
+	terrain="plains"
 	culture="minnesotan"
 	religion="lutheran"
 	trade_goods="maize"

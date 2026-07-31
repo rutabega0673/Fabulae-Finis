@@ -387,7 +387,7 @@
 }
 
 7559={ #Fort Madison
-	terrain="flood_plain"
+	terrain="plains"
 	culture="heartlander"
 	religion="twainist"
 	trade_goods="iron"
@@ -499,7 +499,7 @@
 }
 
 8218={ #Maquoketa
-	terrain="flood_plain"
+	terrain="plains"
 	culture="driftlander"
 	religion="twainist"
 	trade_goods="stone"
@@ -600,7 +600,7 @@
 }
 
 8329={ #Red Oak
-	terrain="plains"
+	terrain="hills"
 	culture="heartlander"
 	religion="lutheran"
 	trade_goods="tubers"
@@ -626,7 +626,7 @@
 }
 
 8331={ #Harlan
-	terrain="plains"
+	terrain="hills"
 	culture="heartlander"
 	religion="lutheran"
 	trade_goods="horses"
@@ -639,7 +639,7 @@
 }
 
 8332={ #Council Bluffs
-	terrain="plains"
+	terrain="hills"
 	culture="heartlander"
 	religion="lutheran"
 	trade_goods="buffalo"

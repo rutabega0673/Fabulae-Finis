@@ -103,7 +103,7 @@
 }
 
 526={ #Caldwell
-	terrain="plains"
+	terrain="steppes"
 	culture="blackfoot"
 	religion="sun_dance"
 	trade_goods="grain"
@@ -116,7 +116,7 @@
 }
 
 527={ #Robsart
-	terrain="plains"
+	terrain="steppes"
 	culture="blackfoot"
 	religion="sun_dance"
 	trade_goods="earthware"

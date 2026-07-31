@@ -688,7 +688,7 @@
 }
 
 7815={ #Trinidad
-	terrain="plains"
+	terrain="steppes"
 	culture="neomexicano"
 	religion="loneranger"
 	trade_goods="steppe_horses"

@@ -30,6 +30,15 @@
 		}
 		trigger_else_if = {
 			limit = {
+				country_culture_group = plains
+			}
+			custom_tooltip = {
+				text = "began_with_tradition_group"
+			}
+			country_culture_group = plains
+		}
+		trigger_else_if = {
+			limit = {
 				has_variable = unlock_bactrian_mil_trads_var
 			}
 			custom_tooltip = {

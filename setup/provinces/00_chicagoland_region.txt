@@ -208,7 +208,7 @@
 }
 
 2229={ #Naperville
-	terrain="plains"
+	terrain="farmland"
 	culture="chicagoan"
 	religion="catholic"
 	trade_goods="cloth"
@@ -377,7 +377,7 @@
 }
 
 2234={ #Orland Park
-	terrain="plains"
+	terrain="farmland"
 	culture="chicagoan"
 	religion="catholic"
 	trade_goods="cattle"
@@ -476,7 +476,7 @@
 }
 
 2513={ #Kenosha
-	terrain="plains"
+	terrain="farmland"
 	culture="chicagoan"
 	religion="catholic"
 	trade_goods="glass"
@@ -530,7 +530,7 @@
 }
 
 2514={ #Elgin
-	terrain="plains"
+	terrain="farmland"
 	culture="chicagoan"
 	religion="catholic"
 	trade_goods="grain"
@@ -881,7 +881,7 @@
 }
 
 9511={ #Galena
-	terrain="flood_plain"
+	terrain="plains"
 	culture="driftlander"
 	religion="twainist"
 	trade_goods="maize"
@@ -919,7 +919,7 @@
 }
 
 9513={ #Sterling
-	terrain="flood_plain"
+	terrain="plains"
 	culture="heartlander"
 	religion="twainist"
 	trade_goods="grain"

@@ -662,6 +662,58 @@ silesian_heritage = {
         primary_culture = silesian
 	}
 }
+ozark_heritage = {
+   	modifier = {
+        #good
+        archers_offensive = 0.10
+        global_tribesmen_happyness = 0.05
+       #bad
+        light_cavalry_morale = -0.10
+   }
+
+   trigger = {
+        primary_culture = ozark
+	}
+}
+sunshiner_heritage = {
+   	modifier = {
+        #good
+        light_infantry_morale = 0.10
+        happiness_for_same_religion_modifier = 0.04
+       #bad
+        hills_combat_bonus = -0.10
+   }
+
+   trigger = {
+        primary_culture = sunshiner
+	}
+}
+sofloano_heritage = {
+   	modifier = {
+        #good
+        mercenary_land_maintenance_cost = -0.15
+        build_cost = -0.05
+       #bad
+        naval_morale_recovery = -0.05
+   }
+
+   trigger = {
+        primary_culture = sofloano
+	}
+}
+hellenican_heritage = {
+   	modifier = {
+        #good
+        country_civilization_value = 5
+        spearmen_morale = 0.10
+       #bad
+        fort_maintenance_cost = 0.15
+   }
+
+   trigger = {
+        primary_culture = amerikaniotis
+	}
+}
 #Culture Group
 midwestern_heritage = {
    	modifier = {
@@ -778,5 +830,18 @@ sioux_heritage = {
 
    trigger = {
         country_culture_group = sioux
+	}
+}
+seminole_heritage = {
+   	modifier = {
+      #good
+       land_morale_modifier = 0.03
+       global_commerce_modifier = 0.05
+       #bad
+       global_manpower_modifier = -0.05
+   }
+
+   trigger = {
+        country_culture_group = seminole
 	}
 }

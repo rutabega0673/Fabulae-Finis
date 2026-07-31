@@ -12,7 +12,7 @@
 }
 
 114={ #Lynx Creek
-	terrain="plains"
+	terrain="steppes"
 	culture="dane_zaa"
 	religion="catholic"
 	trade_goods="hemp"
@@ -77,7 +77,7 @@
 }
 
 555={ #Dawson Creek
-	terrain="plains"
+	terrain="steppes"
 	culture="plautdeitsch"
 	religion="mennonite"
 	trade_goods="fish"
@@ -90,7 +90,7 @@
 }
 
 556={ #Gordondale
-	terrain="plains"
+	terrain="steppes"
 	culture="plautdeitsch"
 	religion="mennonite"
 	trade_goods=""
@@ -103,7 +103,7 @@
 }
 
 557={ #Willow Valley
-	terrain="plains"
+	terrain="steppes"
 	culture="plautdeitsch"
 	religion="mennonite"
 	trade_goods="fish"
@@ -116,7 +116,7 @@
 }
 
 938={ #Faust
-	terrain="plains"
+	terrain="steppes"
 	culture="prairielander"
 	religion="mennonite"
 	trade_goods="steppe_horses"
@@ -129,7 +129,7 @@
 }
 
 939={ #Swan Hills
-	terrain="plains"
+	terrain="steppes"
 	culture="prairielander"
 	religion="mennonite"
 	trade_goods="fur"
@@ -389,7 +389,7 @@
 }
 
 2752={ #Taylor
-	terrain="plains"
+	terrain="steppes"
 	culture="plautdeitsch"
 	religion="mennonite"
 	trade_goods="grain"
@@ -402,7 +402,7 @@
 }
 
 2753={ #Chetwynd
-	terrain="mountain"
+	terrain="steppes"
 	culture="plautdeitsch"
 	religion="mennonite"
 	trade_goods="wood"
@@ -415,7 +415,7 @@
 }
 
 2754={ #Tumbler Ridge
-	terrain="mountain"
+	terrain="steppes"
 	culture="plautdeitsch"
 	religion="mennonite"
 	trade_goods="leather"
@@ -441,7 +441,7 @@
 }
 
 3044={ #Valleyview
-	terrain="plains"
+	terrain="steppes"
 	culture="prairielander"
 	religion="mennonite"
 	trade_goods="leather"
@@ -454,7 +454,7 @@
 }
 
 3045={ #Fox Creek
-	terrain="plains"
+	terrain="steppes"
 	culture="prairielander"
 	religion="mennonite"
 	trade_goods="fur"
@@ -467,7 +467,7 @@
 }
 
 3046={ #Pedley
-	terrain="mountain"
+	terrain="steppes"
 	culture="prairielander"
 	religion="mennonite"
 	trade_goods="fish"
@@ -480,7 +480,7 @@
 }
 
 3047={ #Grande Cache
-	terrain="mountain"
+	terrain="steppes"
 	culture="prairielander"
 	religion="mennonite"
 	trade_goods="vegetables"
@@ -597,7 +597,7 @@
 }
 
 4408={ #High Prairie
-	terrain="plains"
+	terrain="steppes"
 	culture="metis"
 	religion="mennonite"
 	trade_goods="grain"
@@ -610,7 +610,7 @@
 }
 
 4409={ #Falher
-	terrain="plains"
+	terrain="steppes"
 	culture="metis"
 	religion="mennonite"
 	trade_goods=""
@@ -740,7 +740,7 @@
 }
 
 7426={ #Grande Prairie
-	terrain="plains"
+	terrain="steppes"
 	culture="plautdeitsch"
 	religion="mennonite"
 	trade_goods="grain"
@@ -753,7 +753,7 @@
 }
 
 7427={ #Ojay
-	terrain="mountain"
+	terrain="steppes"
 	culture="plautdeitsch"
 	religion="mennonite"
 	trade_goods="fur"
@@ -766,7 +766,7 @@
 }
 
 7428={ #Beaverlodge
-	terrain="plains"
+	terrain="steppes"
 	culture="plautdeitsch"
 	religion="mennonite"
 	trade_goods="fur"
@@ -779,7 +779,7 @@
 }
 
 7429={ #Wapiti
-	terrain="plains"
+	terrain="steppes"
 	culture="plautdeitsch"
 	religion="mennonite"
 	trade_goods="steppe_horses"
@@ -792,7 +792,7 @@
 }
 
 7430={ #Goodwin
-	terrain="plains"
+	terrain="steppes"
 	culture="plautdeitsch"
 	religion="mennonite"
 	trade_goods="fish"
@@ -1052,7 +1052,7 @@
 }
 
 9013={ #Spirit River
-	terrain="plains"
+	terrain="steppes"
 	culture="plautdeitsch"
 	religion="mennonite"
 	trade_goods="fish"
@@ -1065,7 +1065,7 @@
 }
 
 9014={ #Eaglesham
-	terrain="plains"
+	terrain="steppes"
 	culture="metis"
 	religion="mennonite"
 	trade_goods="earthware"

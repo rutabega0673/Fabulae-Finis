@@ -1,21 +1,56 @@
-﻿anatolian_philosophy_2 = { #Armeno-Pontic Path
+﻿anatolian_philosophy_2 = { #Southern Path
 	color = hsv { 0.99 0.64 0.7 }
 	image = persian_achaemenid_path_1
 	
 	allow = {
 		trigger_if = {
-			limit = { country_culture_group = frontieran }
+			limit = { country_culture_group = deep_southern }
 			custom_tooltip = {
 				text = "began_with_tradition_group"
 			}
-			country_culture_group = frontieran
+			country_culture_group = deep_southern
 		}
 		trigger_else_if = {
-			limit = { country_culture_group = rockland }
+			limit = { country_culture_group = upland }
 			custom_tooltip = {
 				text = "began_with_tradition_group"
 			}
-			country_culture_group = rockland
+			country_culture_group = upland
+		}
+		trigger_else_if = {
+			limit = { country_culture_group = floridian }
+			custom_tooltip = {
+				text = "began_with_tradition_group"
+			}
+			country_culture_group = floridian
+		}
+		trigger_else_if = {
+			limit = { country_culture_group = louisianais }
+			custom_tooltip = {
+				text = "began_with_tradition_group"
+			}
+			country_culture_group = louisianais
+		}
+		trigger_else_if = {
+			limit = { country_culture_group = czexan }
+			custom_tooltip = {
+				text = "began_with_tradition_group"
+			}
+			country_culture_group = czexan
+		}
+		trigger_else_if = {
+			limit = { country_culture_group = geechee }
+			custom_tooltip = {
+				text = "began_with_tradition_group"
+			}
+			country_culture_group = geechee
+		}
+		trigger_else_if = {
+			limit = { country_culture_group = old_southern }
+			custom_tooltip = {
+				text = "began_with_tradition_group"
+			}
+			country_culture_group = old_southern
 		}
 		trigger_else_if = {
 			custom_tooltip = {

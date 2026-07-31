@@ -1,5 +1,5 @@
 ﻿793={ #Alliance
-	terrain="forest"
+	terrain="hills"
 	culture="yinzic"
 	religion="promethean"
 	trade_goods="glass"
@@ -79,7 +79,7 @@
 2956={ #Logan
 	terrain="forest"
 	culture="buckeye"
-	religion="revelationist"
+	religion="hearthtender"
 	trade_goods="glass"
 	civilization_value=10
 	barbarian_power=0
@@ -103,7 +103,7 @@
 }
 
 3462={ #New Philadelphia
-	terrain="forest"
+	terrain="plains"
 	culture="buckeye"
 	religion="promethean"
 	trade_goods="maize"
@@ -116,7 +116,7 @@
 }
 
 3463={ #Wooster
-	terrain="plains"
+	terrain="forest"
 	culture="buckeye"
 	religion="promethean"
 	trade_goods="honey"
@@ -129,7 +129,7 @@
 }
 
 3464={ #Akron
-	terrain="plains"
+	terrain="forest"
 	culture="buckeye"
 	religion="promethean"
 	trade_goods="leather"
@@ -261,7 +261,7 @@
 6586={ #Lancaster
 	terrain="forest"
 	culture="buckeye"
-	religion="promethean"
+	religion="hearthtender"
 	trade_goods="woad"
 	civilization_value=10
 	barbarian_power=0
@@ -285,7 +285,7 @@
 }
 
 6630={ #Napoleon
-	terrain="farmland"
+	terrain="plains"
 	culture="buckeye"
 	religion="promethean"
 	trade_goods="vegetables"
@@ -311,7 +311,7 @@
 }
 
 6632={ #Findlay
-	terrain="farmland"
+	terrain="plains"
 	culture="buckeye"
 	religion="promethean"
 	trade_goods="earthware"
@@ -324,7 +324,7 @@
 }
 
 7495={ #Vermillion on the Lake
-	terrain="plains"
+	terrain="farmland"
 	culture="buckeye"
 	religion="promethean"
 	trade_goods="fish"
@@ -337,7 +337,7 @@
 }
 
 7496={ #Lorain
-	terrain="plains"
+	terrain="farmland"
 	culture="buckeye"
 	religion="promethean"
 	trade_goods="salt"
@@ -350,7 +350,7 @@
 }
 
 7497={ #Strongsville
-	terrain="plains"
+	terrain="farmland"
 	culture="buckeye"
 	religion="promethean"
 	trade_goods="tobacco"
@@ -378,7 +378,7 @@
 7840={ #Marietta
 	terrain="forest"
 	culture="butternutter"
-	religion="revelationist"
+	religion="hearthtender"
 	trade_goods="cattle"
 	civilization_value=10
 	barbarian_power=0
@@ -389,9 +389,9 @@
 }
 
 8611={ #Uhrichsville
-	terrain="forest"
+	terrain="hills"
 	culture="yinzic"
-	religion="revelationist"
+	religion="hearthtender"
 	trade_goods="maple"
 	civilization_value=10
 	barbarian_power=0
@@ -402,9 +402,9 @@
 }
 
 8612={ #New Martinsville
-	terrain="forest"
+	terrain="hills"
 	culture="yinzic"
-	religion="revelationist"
+	religion="hearthtender"
 	trade_goods="vegetables"
 	civilization_value=10
 	barbarian_power=0
@@ -415,9 +415,9 @@
 }
 
 8613={ #Caldwell
-	terrain="forest"
+	terrain="hills"
 	culture="yinzic"
-	religion="revelationist"
+	religion="hearthtender"
 	trade_goods="horses"
 	civilization_value=10
 	barbarian_power=0
@@ -428,9 +428,9 @@
 }
 
 8614={ #Martins Ferry
-	terrain="forest"
+	terrain="hills"
 	culture="yinzic"
-	religion="revelationist"
+	religion="hearthtender"
 	trade_goods="clay"
 	civilization_value=10
 	barbarian_power=0
@@ -441,9 +441,9 @@
 }
 
 8615={ #Duncan Falls
-	terrain="forest"
+	terrain="hills"
 	culture="yinzic"
-	religion="revelationist"
+	religion="hearthtender"
 	trade_goods="maple"
 	civilization_value=10
 	barbarian_power=0
@@ -454,9 +454,9 @@
 }
 
 8616={ #Cambridge
-	terrain="forest"
+	terrain="hills"
 	culture="yinzic"
-	religion="revelationist"
+	religion="hearthtender"
 	trade_goods="bodark"
 	civilization_value=10
 	barbarian_power=0
@@ -467,7 +467,7 @@
 }
 
 8742={ #Sylvania
-	terrain="farmland"
+	terrain="plains"
 	culture="motowner"
 	religion="promethean"
 	trade_goods="limestone"
@@ -528,7 +528,7 @@
 }
 
 8966={ #Mentor
-	terrain="plains"
+	terrain="farmland"
 	culture="buckeye"
 	religion="promethean"
 	trade_goods="cattle"
@@ -541,7 +541,7 @@
 }
 
 8969={ #London
-	terrain="forest"
+	terrain="plains"
 	culture="buckeye"
 	religion="galvanist"
 	trade_goods="bodark"
@@ -554,7 +554,7 @@
 }
 
 8970={ #Springfield
-	terrain="forest"
+	terrain="plains"
 	culture="buckeye"
 	religion="promethean"
 	trade_goods="fur"
@@ -645,7 +645,7 @@
 }
 
 11643={ #Massillon
-	terrain="forest"
+	terrain="plains"
 	culture="buckeye"
 	religion="promethean"
 	trade_goods="salt"

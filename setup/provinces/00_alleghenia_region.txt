@@ -15,7 +15,7 @@
 }
 
 795={ #Steubenville
-	terrain="forest"
+	terrain="hills"
 	culture="yinzic"
 	religion="promethean"
 	trade_goods="base_metals"
@@ -31,7 +31,7 @@
 }
 
 2007={ #Weirton
-	terrain="forest"
+	terrain="hills"
 	culture="yinzic"
 	religion="fissionist"
 	trade_goods="base_metals"
@@ -51,7 +51,7 @@
 }
 
 2477={ #Chili
-	terrain="forest"
+	terrain="plains"
 	culture="upstater"
 	religion="clairvoyant"
 	trade_goods="hemp"
@@ -83,7 +83,7 @@
 }
 
 2479={ #Batavia
-	terrain="forest"
+	terrain="plains"
 	culture="upstater"
 	religion="clairvoyant"
 	trade_goods="maple"
@@ -115,7 +115,7 @@
 }
 
 2790={ #Attica
-	terrain="forest"
+	terrain="plains"
 	culture="upstater"
 	religion="clairvoyant"
 	trade_goods="fur"
@@ -147,7 +147,7 @@
 }
 
 3745={ #Olean
-	terrain="hills"
+	terrain="forest"
 	culture="yinzic"
 	religion="sustainablist"
 	trade_goods="cattle"
@@ -179,7 +179,7 @@
 }
 
 3773={ #Erie
-	terrain="plains"
+	terrain="farmland"
 	culture="buckeye"
 	religion="promethean"
 	trade_goods="wootz_steel"
@@ -201,7 +201,7 @@
 }
 
 3774={ #Corry
-	terrain="plains"
+	terrain="forest"
 	culture="buckeye"
 	religion="promethean"
 	trade_goods="fruits"
@@ -217,7 +217,7 @@
 }
 
 3775={ #Meadville
-	terrain="forest"
+	terrain="hills"
 	culture="buckeye"
 	religion="promethean"
 	trade_goods="spices"
@@ -233,7 +233,7 @@
 }
 
 3776={ #Jamestown
-	terrain="plains"
+	terrain="forest"
 	culture="buckeye"
 	religion="promethean"
 	trade_goods="fruits"
@@ -249,7 +249,7 @@
 }
 
 4011={ #Beaver Falls
-	terrain="forest"
+	terrain="plains"
 	culture="yinzic"
 	religion="promethean"
 	trade_goods="beans"
@@ -265,7 +265,7 @@
 }
 
 4012={ #Homeacre Lyndora
-	terrain="forest"
+	terrain="hills"
 	culture="yinzic"
 	religion="promethean"
 	trade_goods="wild_game"
@@ -281,7 +281,7 @@
 }
 
 4013={ #Hermitage
-	terrain="forest"
+	terrain="plains"
 	culture="yinzic"
 	religion="promethean"
 	trade_goods="horses"
@@ -377,7 +377,7 @@
 }
 
 5463={ #Emporium
-	terrain="hills"
+	terrain="forest"
 	culture="susquehannan"
 	religion="catholic"
 	trade_goods="leather"
@@ -473,7 +473,7 @@
 }
 
 8590={ #Clarence
-	terrain="forest"
+	terrain="plains"
 	culture="upstater"
 	religion="clairvoyant"
 	trade_goods="fur"
@@ -537,7 +537,7 @@
 }
 
 8769={ #Indiana
-	terrain="hills"
+	terrain="forest"
 	culture="yinzic"
 	religion="sustainablist"
 	trade_goods="wood"
@@ -569,7 +569,7 @@
 }
 
 8771={ #Vandergrift
-	terrain="forest"
+	terrain="hills"
 	culture="yinzic"
 	religion="promethean"
 	trade_goods="wood"
@@ -585,7 +585,7 @@
 }
 
 8967={ #Ashtabula
-	terrain="plains"
+	terrain="forest"
 	culture="buckeye"
 	religion="promethean"
 	trade_goods="fish"
@@ -601,7 +601,7 @@
 }
 
 8968={ #Middlefield
-	terrain="plains"
+	terrain="forest"
 	culture="buckeye"
 	religion="promethean"
 	trade_goods="fur"
@@ -659,7 +659,7 @@
 }
 
 9037={ #Cranberry
-	terrain="forest"
+	terrain="hills"
 	culture="yinzic"
 	religion="promethean"
 	trade_goods="beer"
@@ -723,7 +723,7 @@
 }
 
 11648={ #Butler
-	terrain="forest"
+	terrain="hills"
 	culture="yinzic"
 	religion="promethean"
 	trade_goods="cloth"
@@ -771,7 +771,7 @@
 }
 
 11664={ #Aliquippa
-	terrain="forest"
+	terrain="hills"
 	culture="yinzic"
 	religion="promethean"
 	trade_goods="iron"

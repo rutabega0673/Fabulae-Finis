@@ -1,48 +1,48 @@
-﻿afro_arabian_philosophy = { #Nubian Path
+﻿afro_arabian_philosophy = { #Great Divide Path
 	color = hsv { 0.99 0.64 0.7 }
 	image = persian_achaemenid_path_6
 	
 	allow = {
 		trigger_if = {
-			limit = { country_culture_group = south_levantine }
+			limit = { country_culture_group = frontieran }
 			custom_tooltip = {
 				text = "began_with_tradition_group"
 			}
-			country_culture_group = south_levantine
+			country_culture_group = frontieran
 		}
 		trigger_else_if = {
-			limit = { country_culture_group = south_arabian }
+			limit = { country_culture_group = rockland }
 			custom_tooltip = {
 				text = "began_with_tradition_group"
 			}
-			country_culture_group = south_arabian
-		}
-		trigger_else_if = {
-			limit = {
-				country_culture_group = meroitic_group
-			}
-			custom_tooltip = {
-				text = "began_with_tradition_group"
-			}
-			country_culture_group = meroitic_group
+			country_culture_group = rockland
 		}
 		trigger_else_if = {
 			limit = {
-				country_culture_group = aksumite_group
+				country_culture_group = great_basin
 			}
 			custom_tooltip = {
 				text = "began_with_tradition_group"
 			}
-			country_culture_group = aksumite_group
+			country_culture_group = great_basin
 		}
 		trigger_else_if = {
 			limit = {
-				country_culture_group = nilotic_group
+				country_culture_group = basque
 			}
 			custom_tooltip = {
 				text = "began_with_tradition_group"
 			}
-			country_culture_group = nilotic_group
+			country_culture_group = basque
+		}
+		trigger_else_if = {
+			limit = {
+				country_culture_group = plateau
+			}
+			custom_tooltip = {
+				text = "began_with_tradition_group"
+			}
+			country_culture_group = plateau
 		}
 		trigger_else = {
 			custom_tooltip = {

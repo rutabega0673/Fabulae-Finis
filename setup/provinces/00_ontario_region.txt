@@ -129,7 +129,7 @@
 }
 
 1105={ #Dorchester
-	terrain="forest"
+	terrain="plains"
 	culture="ontarian"
 	religion="united_church"
 	trade_goods="limestone"
@@ -142,7 +142,7 @@
 }
 
 1106={ #Strathroy
-	terrain="forest"
+	terrain="plains"
 	culture="ontarian"
 	religion="united_church"
 	trade_goods="wood"
@@ -271,7 +271,7 @@
 }
 
 2148={ #Elmira
-	terrain="forest"
+	terrain="plains"
 	culture="sixer"
 	religion="united_church"
 	trade_goods="woad"
@@ -375,7 +375,7 @@
 }
 
 2931={ #Stratford
-	terrain="forest"
+	terrain="plains"
 	culture="deitsch"
 	religion="old_order"
 	trade_goods="wood"
@@ -388,7 +388,7 @@
 }
 
 2932={ #Woodstock
-	terrain="forest"
+	terrain="plains"
 	culture="deitsch"
 	religion="old_order"
 	trade_goods="maize"
@@ -401,7 +401,7 @@
 }
 
 2933={ #North Perth
-	terrain="forest"
+	terrain="plains"
 	culture="ontarian"
 	religion="united_church"
 	trade_goods="clay"
@@ -622,7 +622,7 @@
 }
 
 6132={ #Markham
-	terrain="farmland"
+	terrain="plains"
 	culture="sixer"
 	religion="united_church"
 	trade_goods="horses"
@@ -687,7 +687,7 @@
 }
 
 7023={ #Brantford
-	terrain="forest"
+	terrain="plains"
 	culture="haudenosaunee"
 	religion="gaiwiio"
 	trade_goods="earthware"
@@ -719,7 +719,7 @@
 }
 
 7374={ #Leamington
-	terrain="plains"
+	terrain="farmland"
 	culture="ontarian"
 	religion="promethean"
 	trade_goods="cloth"
@@ -775,7 +775,7 @@
 }
 
 7376={ #Chatham
-	terrain="plains"
+	terrain="farmland"
 	culture="ontarian"
 	religion="promethean"
 	trade_goods="maize"
@@ -914,7 +914,7 @@
 }
 
 7846={ #Ajax
-	terrain="plains"
+	terrain="farmland"
 	culture="sixer"
 	religion="united_church"
 	trade_goods="cloth"
@@ -940,7 +940,7 @@
 }
 
 7848={ #Oshawa
-	terrain="plains"
+	terrain="farmland"
 	culture="sixer"
 	religion="united_church"
 	trade_goods="horses"
@@ -1057,7 +1057,7 @@
 }
 
 8062={ #Mount Forest
-	terrain="forest"
+	terrain="plains"
 	culture="ontarian"
 	religion="united_church"
 	trade_goods="maple"
@@ -1174,7 +1174,7 @@
 }
 
 8599={ #Goderich
-	terrain="forest"
+	terrain="plains"
 	culture="ontarian"
 	religion="united_church"
 	trade_goods="grain"
@@ -1200,7 +1200,7 @@
 }
 
 8719={ #Port Elgin
-	terrain="forest"
+	terrain="plains"
 	culture="odawa"
 	religion="midewiwin"
 	trade_goods="cattle"
@@ -1213,7 +1213,7 @@
 }
 
 8720={ #Kincardine
-	terrain="forest"
+	terrain="plains"
 	culture="odawa"
 	religion="midewiwin"
 	trade_goods="earthware"
@@ -1309,7 +1309,7 @@
 }
 
 9404={ #Hanover
-	terrain="forest"
+	terrain="plains"
 	culture="ontarian"
 	religion="veteranic"
 	trade_goods="cattle"
@@ -1387,7 +1387,7 @@
 }
 
 11608={ #Kitchener
-	terrain="forest"
+	terrain="plains"
 	culture="sixer"
 	religion="united_church"
 	trade_goods="clay"

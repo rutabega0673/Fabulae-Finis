@@ -51,7 +51,7 @@
 }
 
 1584={ #Muskogee
-	terrain="plains"
+	terrain="farmland"
 	culture="muscogee"
 	religion="peyotist"
 	trade_goods="leather"
@@ -64,7 +64,7 @@
 }
 
 1585={ #Bixby
-	terrain="plains"
+	terrain="farmland"
 	culture="muscogee"
 	religion="peyotist"
 	trade_goods="vegetables"
@@ -129,7 +129,7 @@
 }
 
 1854={ #Newport
-	terrain="forest"
+	terrain="plains"
 	culture="ozark"
 	religion="revelationist"
 	trade_goods="rice"
@@ -156,7 +156,7 @@
 
 1919={ #Grove
 	terrain="forest"
-	culture="cherokee"
+	culture="ozark"
 	religion="revelationist"
 	trade_goods="wood"
 	civilization_value=10
@@ -168,7 +168,7 @@
 }
 
 1920={ #Tahlequah
-	terrain="plains"
+	terrain="hills"
 	culture="cherokee"
 	religion="unitarian_universialism"
 	trade_goods="clay"
@@ -208,7 +208,7 @@
 
 2474={ #Russellville
 	terrain="mountain"
-	culture="arkansawyer"
+	culture="ozark"
 	religion="revelationist"
 	trade_goods="wood"
 	civilization_value=10
@@ -221,7 +221,7 @@
 
 2475={ #Van Buren
 	terrain="mountain"
-	culture="cherokee"
+	culture="ozark"
 	religion="revelationist"
 	trade_goods="stone"
 	civilization_value=10
@@ -234,7 +234,7 @@
 
 2476={ #Clarksville
 	terrain="mountain"
-	culture="arkansawyer"
+	culture="ozark"
 	religion="revelationist"
 	trade_goods="woad"
 	civilization_value=10
@@ -260,7 +260,7 @@
 
 2793={ #El Dorado
 	terrain="forest"
-	culture="arkalatexan"
+	culture="arkansawyer"
 	religion="colossalist"
 	trade_goods="wild_game"
 	civilization_value=10
@@ -273,7 +273,7 @@
 
 2794={ #Arkadelphia
 	terrain="forest"
-	culture="arkalatexan"
+	culture="arkansawyer"
 	religion="revelationist"
 	trade_goods="cloth"
 	civilization_value=10
@@ -312,7 +312,7 @@
 
 3015={ #Hampton
 	terrain="forest"
-	culture="arkalatexan"
+	culture="arkansawyer"
 	religion="colossalist"
 	trade_goods="cloth"
 	civilization_value=10
@@ -442,7 +442,7 @@
 
 5187={ #Mena
 	terrain="hills"
-	culture="arkalatexan"
+	culture="arkansawyer"
 	religion="revelationist"
 	trade_goods="stone"
 	civilization_value=10
@@ -520,7 +520,7 @@
 
 5406={ #Blytheville
 	terrain="plains"
-	culture="ozark"
+	culture="bootheeler"
 	religion="egyptology"
 	trade_goods="fish"
 	civilization_value=10
@@ -546,7 +546,7 @@
 
 5488={ #Conway
 	terrain="forest"
-	culture="arkansawyer"
+	culture="ozark"
 	religion="revelationist"
 	trade_goods="wild_game"
 	civilization_value=10
@@ -585,7 +585,7 @@
 
 5831={ #Lake Village
 	terrain="flood_plain"
-	culture="deltaic"
+	culture="arkansawyer"
 	religion="colossalist"
 	trade_goods="cotton"
 	civilization_value=10
@@ -611,7 +611,7 @@
 
 5833={ #Crossett
 	terrain="forest"
-	culture="arkalatexan"
+	culture="arkansawyer"
 	religion="colossalist"
 	trade_goods="woad"
 	civilization_value=10
@@ -623,7 +623,7 @@
 }
 
 5837={ #Imboden
-	terrain="forest"
+	terrain="plains"
 	culture="ozark"
 	religion="revelationist"
 	trade_goods="beer"
@@ -636,7 +636,7 @@
 }
 
 5838={ #Batesville
-	terrain="forest"
+	terrain="plains"
 	culture="ozark"
 	religion="revelationist"
 	trade_goods="honey"
@@ -675,8 +675,8 @@
 }
 
 5857={ #Searcy
-	terrain="forest"
-	culture="ozark"
+	terrain="plains"
+	culture="arkansawyer"
 	religion="revelationist"
 	trade_goods="rice"
 	civilization_value=10
@@ -727,7 +727,7 @@
 }
 
 6260={ #Walnut Ridge
-	terrain="forest"
+	terrain="plains"
 	culture="ozark"
 	religion="revelationist"
 	trade_goods="wood"
@@ -753,8 +753,8 @@
 }
 
 6262={ #Jonesboro
-	terrain="plains"
-	culture="ozark"
+	terrain="farmland"
+	culture="bootheeler"
 	religion="revelationist"
 	trade_goods="cattle"
 	civilization_value=10
@@ -792,7 +792,7 @@
 }
 
 6502={ #Stigler
-	terrain="plains"
+	terrain="hills"
 	culture="muscogee"
 	religion="revelationist"
 	trade_goods="fruits"
@@ -805,7 +805,7 @@
 }
 
 6509={ #Bartlesville
-	terrain="plains"
+	terrain="forest"
 	culture="dhegihan"
 	religion="unitarian_universialism"
 	trade_goods="earthware"
@@ -818,7 +818,7 @@
 }
 
 6510={ #Claremore
-	terrain="plains"
+	terrain="forest"
 	culture="cherokee"
 	religion="unitarian_universialism"
 	trade_goods="cattle"
@@ -831,7 +831,7 @@
 }
 
 6511={ #Tulsa
-	terrain="plains"
+	terrain="farmland"
 	culture="cherokee"
 	religion="unitarian_universialism"
 	trade_goods="marble"
@@ -845,7 +845,7 @@
 
 7398={ #Fayetteville
 	terrain="hills"
-	culture="cherokee"
+	culture="ozark"
 	religion="revelationist"
 	trade_goods="leather"
 	civilization_value=10
@@ -871,7 +871,7 @@
 
 7827={ #Dardanelle
 	terrain="mountain"
-	culture="arkansawyer"
+	culture="ozark"
 	religion="revelationist"
 	trade_goods="iron"
 	civilization_value=10
@@ -884,7 +884,7 @@
 
 7828={ #Fort Smith
 	terrain="mountain"
-	culture="arkansawyer"
+	culture="ozark"
 	religion="revelationist"
 	trade_goods="bodark"
 	civilization_value=10
@@ -897,7 +897,7 @@
 
 7829={ #Waldron
 	terrain="mountain"
-	culture="arkansawyer"
+	culture="ozark"
 	religion="revelationist"
 	trade_goods="leather"
 	civilization_value=10
@@ -936,7 +936,7 @@
 
 8293={ #Rockwell
 	terrain="hills"
-	culture="arkalatexan"
+	culture="arkansawyer"
 	religion="revelationist"
 	trade_goods="wood"
 	civilization_value=10

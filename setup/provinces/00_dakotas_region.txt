@@ -1000,7 +1000,7 @@
 }
 
 7584={ #Gregory
-	terrain="steppes"
+	terrain="hills"
 	culture="lakota"
 	religion="peyotist"
 	trade_goods="maize"

@@ -220,7 +220,7 @@
 }
 
 2159={ #Wright
-	terrain="plains"
+	terrain="steppes"
 	culture="crow"
 	religion="peyotist"
 	trade_goods="leather"
@@ -259,7 +259,7 @@
 }
 
 2428={ #Casper
-	terrain="plains"
+	terrain="steppes"
 	culture="crow"
 	religion="peyotist"
 	trade_goods="steppe_horses"
@@ -311,7 +311,7 @@
 }
 
 3810={ #Lochbuie
-	terrain="plains"
+	terrain="steppes"
 	culture="coloradan"
 	religion="buddhism"
 	trade_goods="beans"
@@ -324,7 +324,7 @@
 }
 
 3811={ #Greeley
-	terrain="plains"
+	terrain="steppes"
 	culture="coloradan"
 	religion="loneranger"
 	trade_goods="leather"
@@ -350,7 +350,7 @@
 }
 
 3813={ #Wellington
-	terrain="plains"
+	terrain="steppes"
 	culture="coloradan"
 	religion="loneranger"
 	trade_goods="bodark"
@@ -441,7 +441,7 @@
 }
 
 4532={ #Moorcroft
-	terrain="plains"
+	terrain="steppes"
 	culture="crow"
 	religion="sun_dance"
 	trade_goods="honey"
@@ -454,7 +454,7 @@
 }
 
 4533={ #Gillette
-	terrain="plains"
+	terrain="steppes"
 	culture="crow"
 	religion="sun_dance"
 	trade_goods="cattle"
@@ -844,7 +844,7 @@
 }
 
 7356={ #Ponderosa Park
-	terrain="plains"
+	terrain="steppes"
 	culture="coloradan"
 	religion="buddhism"
 	trade_goods="bodark"
@@ -857,7 +857,7 @@
 }
 
 7357={ #Colorado Springs
-	terrain="plains"
+	terrain="steppes"
 	culture="coloradan"
 	religion="caesarist"
 	trade_goods="steppe_horses"
@@ -883,7 +883,7 @@
 }
 
 7485={ #Torrington
-	terrain="plains"
+	terrain="steppes"
 	culture="grangelander"
 	religion="loneranger"
 	trade_goods="steppe_horses"
@@ -896,7 +896,7 @@
 }
 
 7487={ #Cheyenne
-	terrain="plains"
+	terrain="steppes"
 	culture="grangelander"
 	religion="loneranger"
 	trade_goods="cattle"
@@ -974,7 +974,7 @@
 }
 
 7715={ #Ordway
-	terrain="plains"
+	terrain="steppes"
 	culture="coloradan"
 	religion="loneranger"
 	trade_goods="cattle"
@@ -1000,7 +1000,7 @@
 }
 
 7717={ #La Junta
-	terrain="plains"
+	terrain="steppes"
 	culture="coloradan"
 	religion="loneranger"
 	trade_goods="tubers"
@@ -1013,7 +1013,7 @@
 }
 
 7745={ #Kimball
-	terrain="plains"
+	terrain="steppes"
 	culture="grangelander"
 	religion="loneranger"
 	trade_goods="cattle"
@@ -1039,7 +1039,7 @@
 }
 
 7814={ #Aguilar
-	terrain="plains"
+	terrain="steppes"
 	culture="coloradan"
 	religion="loneranger"
 	trade_goods="bodark"
@@ -1091,7 +1091,7 @@
 }
 
 8205={ #Edgemont
-	terrain="plains"
+	terrain="steppes"
 	culture="crow"
 	religion="peyotist"
 	trade_goods="fur"
@@ -1104,7 +1104,7 @@
 }
 
 8206={ #Rolling Hills
-	terrain="plains"
+	terrain="steppes"
 	culture="crow"
 	religion="peyotist"
 	trade_goods="leather"
@@ -1117,7 +1117,7 @@
 }
 
 8207={ #Douglas
-	terrain="plains"
+	terrain="steppes"
 	culture="crow"
 	religion="peyotist"
 	trade_goods="cattle"
@@ -1182,7 +1182,7 @@
 }
 
 9109={ #Bennett
-	terrain="plains"
+	terrain="steppes"
 	culture="coloradan"
 	religion="buddhism"
 	trade_goods="vegetables"

@@ -185,7 +185,7 @@
 }
 
 3371={ #Binghampton
-	terrain="hills"
+	terrain="forest"
 	culture="upstater"
 	religion="catholic"
 	trade_goods="clay"
@@ -289,7 +289,7 @@
 }
 
 5494={ #Sayre
-	terrain="marsh"
+	terrain="hills"
 	culture="susquehannan"
 	religion="catholic"
 	trade_goods="cattle"
@@ -328,7 +328,7 @@
 }
 
 6213={ #Wilkes Barre
-	terrain="marsh"
+	terrain="hills"
 	culture="susquehannan"
 	religion="quaker"
 	trade_goods="leather"
@@ -371,7 +371,7 @@
 }
 
 6215={ #Back Mountain
-	terrain="marsh"
+	terrain="hills"
 	culture="susquehannan"
 	religion="quaker"
 	trade_goods="clay"

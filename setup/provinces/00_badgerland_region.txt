@@ -155,7 +155,7 @@
 }
 
 2025={ #Neillsville
-	terrain="forest"
+	terrain="plains"
 	culture="hoocak"
 	religion="viking"
 	trade_goods="tobacco"
@@ -456,7 +456,7 @@
 }
 
 4015={ #Omīnīw
-	terrain="marsh"
+	terrain="plains"
 	culture="wisconsindeutsch"
 	religion="lakeshore"
 	trade_goods="beer"
@@ -560,7 +560,7 @@
 }
 
 4948={ #Monroe
-	terrain="marsh"
+	terrain="plains"
 	culture="wisconsindeutsch"
 	religion="unitarian_universialism"
 	trade_goods="beer"
@@ -586,7 +586,7 @@
 }
 
 5121={ #Oskas
-	terrain="marsh"
+	terrain="plains"
 	culture="wisconsindeutsch"
 	religion="lakeshore"
 	trade_goods="rice"
@@ -599,7 +599,7 @@
 }
 
 5122={ #Sakēmaewataenoh
-	terrain="marsh"
+	terrain="plains"
 	culture="cheesehead"
 	religion="lakeshore"
 	trade_goods="tubers"
@@ -612,7 +612,7 @@
 }
 
 5123={ #Ahkōnemeh
-	terrain="marsh"
+	terrain="plains"
 	culture="cheesehead"
 	religion="lakeshore"
 	trade_goods="wild_game"
@@ -820,7 +820,7 @@
 }
 
 8847={ #Omīniahkan
-	terrain="marsh"
+	terrain="plains"
 	culture="menominee"
 	religion="lakeshore"
 	trade_goods="tubers"
@@ -833,7 +833,7 @@
 }
 
 8848={ #Wāpanahkīw-Otaeskonekan
-	terrain="forest"
+	terrain="plains"
 	culture="menominee"
 	religion="lakeshore"
 	trade_goods="woad"

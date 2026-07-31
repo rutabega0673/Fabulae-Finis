@@ -183,7 +183,7 @@
 2129={ #Madisonville
 	terrain="forest"
 	culture="texan"
-	religion="loneranger"
+	religion="colossalist"
 	trade_goods="beans"
 	civilization_value=10
 	barbarian_power=0
@@ -196,7 +196,7 @@
 2130={ #Navasota
 	terrain="forest"
 	culture="texaner"
-	religion="catholic"
+	religion="colossalist"
 	trade_goods="tubers"
 	civilization_value=10
 	barbarian_power=0
@@ -222,7 +222,7 @@
 2132={ #Huntsville
 	terrain="forest"
 	culture="texan"
-	religion="loneranger"
+	religion="colossalist"
 	trade_goods="wood"
 	civilization_value=10
 	barbarian_power=0
@@ -287,7 +287,7 @@
 3342={ #Hearne
 	terrain="plains"
 	culture="texanane"
-	religion="americanist"
+	religion="colossalist"
 	trade_goods="fruits"
 	civilization_value=10
 	barbarian_power=0
@@ -313,7 +313,7 @@
 3344={ #Bryan
 	terrain="plains"
 	culture="texanane"
-	religion="catholic"
+	religion="colossalist"
 	trade_goods="beer"
 	civilization_value=10
 	barbarian_power=0
@@ -326,7 +326,7 @@
 3398={ #Brenham
 	terrain="plains"
 	culture="texaner"
-	religion="catholic"
+	religion="colossalist"
 	trade_goods="beer"
 	civilization_value=10
 	barbarian_power=0
@@ -339,7 +339,7 @@
 3399={ #Rockdale
 	terrain="plains"
 	culture="texanane"
-	religion="catholic"
+	religion="colossalist"
 	trade_goods="beans"
 	civilization_value=10
 	barbarian_power=0
@@ -352,7 +352,7 @@
 3401={ #Caldwell
 	terrain="plains"
 	culture="texanane"
-	religion="catholic"
+	religion="colossalist"
 	trade_goods="horses"
 	civilization_value=10
 	barbarian_power=0
@@ -482,7 +482,7 @@
 5040={ #Round Rock
 	terrain="steppes"
 	culture="texanane"
-	religion="catholic"
+	religion="colossalist"
 	trade_goods="tubers"
 	civilization_value=10
 	barbarian_power=0
@@ -495,7 +495,7 @@
 5043={ #Georgetown
 	terrain="steppes"
 	culture="texanane"
-	religion="catholic"
+	religion="colossalist"
 	trade_goods="grain"
 	civilization_value=10
 	barbarian_power=0
@@ -508,7 +508,7 @@
 5044={ #Burnet
 	terrain="steppes"
 	culture="texan"
-	religion="catholic"
+	religion="colossalist"
 	trade_goods="fruits"
 	civilization_value=10
 	barbarian_power=0
@@ -937,7 +937,7 @@
 7884={ #Camp Swift
 	terrain="steppes"
 	culture="texanane"
-	religion="catholic"
+	religion="colossalist"
 	trade_goods="earthware"
 	civilization_value=10
 	barbarian_power=0
@@ -963,7 +963,7 @@
 7886={ #Giddings
 	terrain="plains"
 	culture="texan"
-	religion="catholic"
+	religion="colossalist"
 	trade_goods="earthware"
 	civilization_value=10
 	barbarian_power=0
@@ -1028,7 +1028,7 @@
 8277={ #Sparks
 	terrain="plains"
 	culture="texanane"
-	religion="loneranger"
+	religion="colossalist"
 	trade_goods="beer"
 	civilization_value=10
 	barbarian_power=0
@@ -1041,7 +1041,7 @@
 8278={ #Killeen
 	terrain="steppes"
 	culture="texan"
-	religion="loneranger"
+	religion="colossalist"
 	trade_goods="beer"
 	civilization_value=10
 	barbarian_power=0

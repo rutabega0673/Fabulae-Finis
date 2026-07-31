@@ -361,7 +361,7 @@
  ######
  #####Persian Traditions
  ######
- persian_philosophy:0 "Persian Traditions"
+ persian_philosophy:0 "Mexican Traditions"
  persian_philosophydesc:4 "The Persian Traditions cover the tactics of the peoples of the Scythian steppe and satellites of the former Achaemenid empire. Life on and around the steppe has shaped these peoples into exquisite horsemen who, armed with a bow, can harry and surround their opponents from beyond their reach, while their infantry concentrates on whittling down the worn out formation.\n\nCan unlock '#Y Octere#!' Ships\nCan unlock the '#Y Cavalry Skirmish#!' Tactic\nCan unlock the '#Y Raise Levies#!' Ability\nCan unlock the '#Y Military Colonies#!' Ability\n\n#G Tradition Focuses#!\nStrong #Y Horse Archers#!\nGood #Y Heavy Infantry#!, #Y Heavy Cavalry#!"
  persian_philosophy_start_bonus:0 "Scythian Horse Archers"
  persian_philosophy_start_bonus_desc:0 "Strong-backed Scythian horses have been used by the nomadic tribes of the steppe for generations. Unparalleled as skirmishing troops, the chaos they could incur was a major advantage to thsoe lucky enough to be able to raise or hire them."
@@ -458,7 +458,7 @@
  levantine_philosophy_2:0 "Levantine Maritime Traditions"
  mauryan_philosophy_2:0 "Indian Tribe Traditions"
  north_african_philosophy_2:0 "Numidian Traditions"
- persian_philosophy_2:1 "Persian Rural Traditions"
+ persian_philosophy_2:1 "Mexican Rural Traditions"
  military_colonia_here_tt:0 "A military colony will be founded in this territory."
  tradition_unlock_requirement_base:0 "The sum of our integrated cultures must be at least [SCOPE.ScriptValue('percent_size_culture_group_comparison')|R0] pops in size and belong to any of the following culture groups:"
 
@@ -591,9 +591,9 @@
  thracian_path_13_desc:0 "Many of our warriors do not even fight with shields, preferring instead to focus all their energy on relentlessly attacking the enemy."
 
  ###New Afro-Arabian Traditions###
- afro_arabian_philosophy:0 "Nubian Traditions"
+ afro_arabian_philosophy:0 "Great Divide Traditions"
  afro_arabian_philosophy_desc:0 "."
- afro_arabian_philosophy_2:0 "Arabian Traditions"
+ afro_arabian_philosophy_2:0 "Frontier Traditions"
  afro_arabian_philosophy_2_desc:0 "."
 
  #Nubian Tree
@@ -659,9 +659,9 @@
  arabian_path_15_desc:0 "Swiftly and lightly we gallop across the landscape."
 
  ###New Anatolian Traditions###
- anatolian_philosophy:0 "Anatolian Military Traditions"
+ anatolian_philosophy:0 "Upland Military Traditions"
  anatolian_philosophy_desc:0 "Describe"
- anatolian_philosophy_2:0 "Armeno-Pontic Military Traditions"
+ anatolian_philosophy_2:0 "Southern Military Traditions"
  anatolian_philosophy_2_desc:0 "Describe"
 
  #Lydo-Cilician Tree

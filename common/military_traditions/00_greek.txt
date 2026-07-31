@@ -1,4 +1,4 @@
-﻿greek_philosophy = { 
+﻿greek_philosophy = { #Californian Traditions
 	color = hsv { 0.6 0.8 0.5 }
 	image = greek_philosophy_start_bonus
 	

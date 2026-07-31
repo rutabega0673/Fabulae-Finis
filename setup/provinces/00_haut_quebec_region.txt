@@ -246,7 +246,7 @@
 }
 
 1966={ #Salaberry-de-Valleyfield
-	terrain="forest"
+	terrain="plains"
 	culture="montrealais"
 	religion="ursuline"
 	trade_goods="clay"
@@ -259,7 +259,7 @@
 }
 
 1967={ #Vaudreuil-Dorion
-	terrain="forest"
+	terrain="plains"
 	culture="montrealais"
 	religion="ursuline"
 	trade_goods="grain"
@@ -324,7 +324,7 @@
 }
 
 2254={ #Napierville
-	terrain="forest"
+	terrain="farmland"
 	culture="haudenosaunee"
 	religion="gaiwiio"
 	trade_goods="fur"
@@ -350,7 +350,7 @@
 }
 
 2256={ #Saint-Jean-sur-Richelieu
-	terrain="plains"
+	terrain="farmland"
 	culture="haudenosaunee"
 	religion="ursuline"
 	trade_goods="salt"
@@ -363,7 +363,7 @@
 }
 
 3599={ #Beauharnois
-	terrain="forest"
+	terrain="plains"
 	culture="haudenosaunee"
 	religion="gaiwiio"
 	trade_goods="grain"
@@ -753,7 +753,7 @@
 }
 
 7654={ #Saint Eustache
-	terrain="forest"
+	terrain="plains"
 	culture="montrealais"
 	religion="ursuline"
 	trade_goods="horses"
@@ -805,7 +805,7 @@
 }
 
 8304={ #Louiseville
-	terrain="plains"
+	terrain="farmland"
 	culture="montrealais"
 	religion="ursuline"
 	trade_goods="leather"
@@ -948,7 +948,7 @@
 }
 
 9506={ #Pierreville
-	terrain="plains"
+	terrain="farmland"
 	culture="montrealais"
 	religion="ursuline"
 	trade_goods="fish"
@@ -961,7 +961,7 @@
 }
 
 9507={ #Nicolet
-	terrain="plains"
+	terrain="farmland"
 	culture="montrealais"
 	religion="ursuline"
 	trade_goods="salt"

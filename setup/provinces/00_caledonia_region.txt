@@ -90,7 +90,7 @@
 }
 
 74={ #Sparwood
-	terrain="impassable_terrain"
+	terrain="mountain"
 	culture="ktunaxa"
 	religion="dreamer"
 	trade_goods="iron"

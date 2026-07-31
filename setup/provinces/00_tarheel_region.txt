@@ -77,7 +77,7 @@
 }
 
 2043={ #Roxboro
-	terrain="forest"
+	terrain="plains"
 	culture="piedmontese"
 	religion="evangelical"
 	trade_goods="grain"
@@ -285,7 +285,7 @@
 }
 
 3367={ #Washington
-	terrain="plains"
+	terrain="flood_plain"
 	culture="hoi_toider"
 	religion="episcopalian"
 	trade_goods="vegetables"
@@ -298,7 +298,7 @@
 }
 
 3683={ #Henderson
-	terrain="forest"
+	terrain="plains"
 	culture="southron"
 	religion="evangelical"
 	trade_goods="clay"
@@ -493,7 +493,7 @@
 }
 
 5170={ #River Road
-	terrain="forest"
+	terrain="flood_plain"
 	culture="hoi_toider"
 	religion="episcopalian"
 	trade_goods="leather"
@@ -831,7 +831,7 @@
 }
 
 8019={ #Ahoskie
-	terrain="plains"
+	terrain="flood_plain"
 	culture="southron"
 	religion="episcopalian"
 	trade_goods="dye"
@@ -883,7 +883,7 @@
 }
 
 8602={ #Edenton
-	terrain="forest"
+	terrain="flood_plain"
 	culture="hoi_toider"
 	religion="episcopalian"
 	trade_goods="salt"

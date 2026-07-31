@@ -103,7 +103,7 @@
 }
 
 1626={ #Triangle
-	terrain="desert_hills"
+	terrain="dry_plains"
 	culture="paiute"
 	religion="loneranger"
 	trade_goods="gems"
@@ -116,7 +116,7 @@
 }
 
 1627={ #Homedale
-	terrain="desert_hills"
+	terrain="dry_plains"
 	culture="paiute"
 	religion="loneranger"
 	trade_goods="leather"
@@ -129,7 +129,7 @@
 }
 
 1628={ #Williams Cabin
-	terrain="desert_hills"
+	terrain="dry_plains"
 	culture="paiute"
 	religion="loneranger"
 	trade_goods="limestone"
@@ -194,7 +194,7 @@
 }
 
 2552={ #Ontario
-	terrain="forest"
+	terrain="dry_plains"
 	culture="inlander"
 	religion="loneranger"
 	trade_goods="fruits"

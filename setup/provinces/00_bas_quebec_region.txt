@@ -25,7 +25,7 @@
 }
 
 755={ #Saint Marc Des Carri Res
-	terrain="forest"
+	terrain="plains"
 	culture="quebecois"
 	religion="ursuline"
 	trade_goods="vegetables"
@@ -38,7 +38,7 @@
 }
 
 756={ #Portneuf
-	terrain="forest"
+	terrain="plains"
 	culture="quebecois"
 	religion="ursuline"
 	trade_goods="tubers"
@@ -376,7 +376,7 @@
 }
 
 4197={ #Baie Saint Paul
-	terrain="forest"
+	terrain="plains"
 	culture="quebecois"
 	religion="ursuline"
 	trade_goods="earthware"
@@ -389,7 +389,7 @@
 }
 
 4198={ #Beaupre
-	terrain="forest"
+	terrain="plains"
 	culture="quebecois"
 	religion="ursuline"
 	trade_goods="fish"
@@ -701,7 +701,7 @@
 }
 
 7642={ #Shannon
-	terrain="forest"
+	terrain="plains"
 	culture="quebecois"
 	religion="ursuline"
 	trade_goods="wood"
@@ -883,7 +883,7 @@
 }
 
 9462={ #La Pocati Re
-	terrain="hills"
+	terrain="plains"
 	culture="quebecois"
 	religion="ursuline"
 	trade_goods="tubers"
@@ -922,7 +922,7 @@
 }
 
 9465={ #Saint Andr
-	terrain="forest"
+	terrain="plains"
 	culture="quebecois"
 	religion="ursuline"
 	trade_goods="salt"

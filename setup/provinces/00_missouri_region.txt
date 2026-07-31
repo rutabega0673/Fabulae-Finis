@@ -51,7 +51,7 @@
 }
 
 1090={ #West Plains
-	terrain="forest"
+	terrain="plains"
 	culture="ozark"
 	religion="revelationist"
 	trade_goods="wood"
@@ -90,7 +90,7 @@
 }
 
 1492={ #Springfield
-	terrain="forest"
+	terrain="plains"
 	culture="ozark"
 	religion="revelationist"
 	trade_goods="fruits"
@@ -145,7 +145,7 @@
 
 2959={ #Fredericktown
 	terrain="forest"
-	culture="gatewayan"
+	culture="bootheeler"
 	religion="twainist"
 	trade_goods="clay"
 	civilization_value=20
@@ -169,7 +169,7 @@
 }
 
 3650={ #Troy
-	terrain="farmland"
+	terrain="plains"
 	culture="gatewayan"
 	religion="twainist"
 	trade_goods="wild_game"
@@ -343,7 +343,7 @@
 }
 
 4001={ #Charleston
-	terrain="flood_plain"
+	terrain="farmland"
 	culture="bootheeler"
 	religion="twainist"
 	trade_goods="cloth"
@@ -446,7 +446,7 @@
 }
 
 4207={ #Wildwood
-	terrain="farmland"
+	terrain="plains"
 	culture="gatewayan"
 	religion="promethean"
 	trade_goods="grain"
@@ -532,7 +532,7 @@
 }
 
 5251={ #Ava
-	terrain="forest"
+	terrain="plains"
 	culture="ozark"
 	religion="revelationist"
 	trade_goods="bodark"
@@ -545,7 +545,7 @@
 }
 
 5252={ #Lebanon
-	terrain="forest"
+	terrain="plains"
 	culture="ozark"
 	religion="heartful"
 	trade_goods="wood"
@@ -610,7 +610,7 @@
 }
 
 5537={ #Dexter
-	terrain="forest"
+	terrain="plains"
 	culture="bootheeler"
 	religion="twainist"
 	trade_goods="vegetables"
@@ -636,7 +636,7 @@
 }
 
 5600={ #Hermann
-	terrain="plains"
+	terrain="hills"
 	culture="hermanndeutsch"
 	religion="catholic"
 	trade_goods="wine"
@@ -683,7 +683,7 @@
 }
 
 5602={ #Osage Beach
-	terrain="plains"
+	terrain="hills"
 	culture="ozark"
 	religion="heartful"
 	trade_goods="maple"
@@ -696,7 +696,7 @@
 }
 
 5951={ #Bolivar
-	terrain="forest"
+	terrain="plains"
 	culture="ozark"
 	religion="heartful"
 	trade_goods="honey"
@@ -759,8 +759,8 @@
 }
 
 6337={ #Rolla
-	terrain="forest"
-	culture="gatewayan"
+	terrain="hills"
+	culture="ozark"
 	religion="catholic"
 	trade_goods="base_metals"
 	civilization_value=18
@@ -783,7 +783,7 @@
 }
 
 6338={ #Warshington
-	terrain="plains"
+	terrain="hills"
 	culture="hermanndeutsch"
 	religion="lutheran"
 	trade_goods="grain"
@@ -918,7 +918,7 @@
 }
 
 6800={ #Canton
-	terrain="flood_plain"
+	terrain="plains"
 	culture="heartlander"
 	religion="twainist"
 	trade_goods="fish"
@@ -1022,7 +1022,7 @@
 
 7613={ #Ellington
 	terrain="hills"
-	culture="bootheeler"
+	culture="ozark"
 	religion="catholic"
 	trade_goods="wood"
 	civilization_value=10
@@ -1048,7 +1048,7 @@
 
 8494={ #Butler
 	terrain="plains"
-	culture="heartlander"
+	culture="ozark"
 	religion="heartful"
 	trade_goods="buffalo"
 	civilization_value=20
@@ -1194,7 +1194,7 @@
 }
 
 9450={ #Clarinda
-	terrain="plains"
+	terrain="hills"
 	culture="heartlander"
 	religion="lutheran"
 	trade_goods="grain"
@@ -1241,7 +1241,7 @@
 
 9508={ #Pocahontas
 	terrain="forest"
-	culture="bootheeler"
+	culture="ozark"
 	religion="revelationist"
 	trade_goods="stone"
 	civilization_value=10
@@ -1253,7 +1253,7 @@
 }
 
 9509={ #Piedmont
-	terrain="forest"
+	terrain="hills"
 	culture="bootheeler"
 	religion="catholic"
 	trade_goods="bodark"

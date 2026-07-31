@@ -103,7 +103,7 @@
 }
 
 2549={ #Logan
-	terrain="hills"
+	terrain="forest"
 	culture="riverlander"
 	religion="revelationist"
 	trade_goods="wood"
@@ -116,7 +116,7 @@
 }
 
 2550={ #Charleston
-	terrain="hills"
+	terrain="forest"
 	culture="riverlander"
 	religion="revelationist"
 	trade_goods="stone"
@@ -129,7 +129,7 @@
 }
 
 2551={ #Teays Valley
-	terrain="hills"
+	terrain="forest"
 	culture="riverlander"
 	religion="revelationist"
 	trade_goods="leather"
@@ -155,7 +155,7 @@
 }
 
 2633={ #Cross Lanes
-	terrain="hills"
+	terrain="forest"
 	culture="appalachian"
 	religion="revelationist"
 	trade_goods="glass"
@@ -207,7 +207,7 @@
 }
 
 2865={ #Pinch
-	terrain="hills"
+	terrain="forest"
 	culture="appalachian"
 	religion="revelationist"
 	trade_goods="vegetables"
@@ -337,7 +337,7 @@
 }
 
 6507={ #Oak Hill
-	terrain="hills"
+	terrain="forest"
 	culture="riverlander"
 	religion="revelationist"
 	trade_goods="vegetables"

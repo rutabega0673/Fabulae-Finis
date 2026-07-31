@@ -1,4 +1,4 @@
-﻿steppe_philosophy = { #Scythian Path
+﻿steppe_philosophy = { #Great Plains Path
 	color = hsv { 0.99 0.64 0.7 }
 	image = persian_scythian_path_2
 	
@@ -27,6 +27,22 @@
 				text = "began_with_tradition_group"
 			}
 			country_culture_group = prairie
+		}
+		trigger_else_if = {
+			limit = {
+				country_culture_group = plains
+			}
+			custom_tooltip = {
+				text = "began_with_tradition_group"
+			}
+			country_culture_group = plains
+		}
+		trigger_else_if = {
+			limit = { primary_culture = estacadan }
+			custom_tooltip = {
+				text = "began_with_tradition_group"
+			}
+			primary_culture = estacadan
 		}
 		trigger_else = {
 			custom_tooltip = {
