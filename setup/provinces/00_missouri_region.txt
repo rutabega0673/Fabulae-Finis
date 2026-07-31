@@ -28,7 +28,7 @@
 	terrain="forest"
 	culture="ozark"
 	religion="revelationist"
-	trade_goods="wood"
+	trade_goods="wine"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -80,7 +80,7 @@
 	terrain="forest"
 	culture="ozark"
 	religion="revelationist"
-	trade_goods="wild_game"
+	trade_goods="wine"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -548,7 +548,7 @@
 	terrain="plains"
 	culture="ozark"
 	religion="heartful"
-	trade_goods="wood"
+	trade_goods="wine"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -1050,7 +1050,7 @@
 	terrain="plains"
 	culture="ozark"
 	religion="heartful"
-	trade_goods="buffalo"
+	trade_goods="wine"
 	civilization_value=20
 	barbarian_power=0
 	province_rank="settlement"

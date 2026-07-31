@@ -1,7 +1,7 @@
 ﻿530={ #Jasper
 	terrain="forest"
 	culture="texan"
-	religion="loneranger"
+	religion="traiteurism"
 	trade_goods="beans"
 	civilization_value=10
 	barbarian_power=0
@@ -521,7 +521,7 @@
 5058={ #Marshall
 	terrain="forest"
 	culture="arkalatexan"
-	religion="catholic"
+	religion="loneranger"
 	trade_goods="vegetables"
 	civilization_value=10
 	barbarian_power=0
@@ -664,7 +664,7 @@
 5523={ #Carthage
 	terrain="forest"
 	culture="texan"
-	religion="catholic"
+	religion="loneranger"
 	trade_goods="beans"
 	civilization_value=10
 	barbarian_power=0
@@ -859,7 +859,7 @@
 7195={ #Lumberton
 	terrain="forest"
 	culture="louisianais"
-	religion="loneranger"
+	religion="traiteurism"
 	trade_goods="vegetables"
 	civilization_value=10
 	barbarian_power=0
@@ -989,7 +989,7 @@
 7888={ #San Augustine
 	terrain="forest"
 	culture="texan"
-	religion="loneranger"
+	religion="traiteurism"
 	trade_goods="leather"
 	civilization_value=10
 	barbarian_power=0
@@ -1197,7 +1197,7 @@
 9218={ #Sour Lake
 	terrain="forest"
 	culture="lway_viet"
-	religion="loneranger"
+	religion="traiteurism"
 	trade_goods="leather"
 	civilization_value=10
 	barbarian_power=0

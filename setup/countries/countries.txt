@@ -227,6 +227,9 @@ TPS = "setup/countries/south/tarpon_springs.txt"
 NPR = "setup/countries/south/new_port_richey.txt"
 HMM = "setup/countries/south/homosassa_springs.txt"
 JSV = "setup/countries/south/jacksonville.txt"
+FYT = "setup/countries/south/fayettville.txt"
+NZO = "setup/countries/south/north_ozarks.txt"
+FTS = "setup/countries/south/fort_smith.txt"
 
 #West Coast
 SAC = "setup/countries/west_coast/sacramento.txt"

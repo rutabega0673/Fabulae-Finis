@@ -1,0 +1,22 @@
+﻿"PAP"={
+	country="PAP"
+	11={ # Leo Strauss, German-American historian and philosopher
+		first_name="Atticus"
+		family_name="Strauss"
+		birth_date=2299.9.20
+		culture="chicagoan"
+		religion="haredi"
+		no_stats=yes
+		add_martial=3
+		add_charisma=3
+		add_finesse=9
+		add_zeal=7
+		no_traits=yes
+		add_trait="scholar"
+		add_trait="intelligent"
+		add_trait="blunt"
+		give_office=office_philosopher
+		#add FF easter egg character/dev trait
+		dna = "LMwszK52rnZLcktyApcClwJ/An8CbQJtApACkAJpAmkCbgJuAocChwFWAVYCjQKNApYClgOyA7ICeAJ4Am8CbwFyAoUCSAKPAdMCgQJ1AoECZwJnAnECmQJbApQEwATeAnQCfAKbApECjgKOAWMBYwKYApgCjgKOApECkQKXApcCcgJyAnsCewKDAoMChgKGAn0CfQKBAoECbwJvApUClQJqAmoCfQJ9AVoBWgJsAmwCfAJ8AmgCaAJ4AngCjwKPAmwCbAKRApECmAKYApUClQJ2AnYCeAJ4ApICkgJ4AngCaQJpAm4CbgRdBA0AZgBmAU0AvgEOAQ4AIwAjAHgAeAAAAAABXgAQAFABaQLzAvgDRwNTApgC/QBgAH8AYgCPAT0BPQFnAXAANQA1AVoBWgDUANQA5gDmAJ8AnwB/AH8AlgCWABQAFAB/AH8ApQClANoA2gABAAEBXgFeA2gDaABVAFUDUgNSAPoA+gNxA3EHlgCWABwAfwAVABUFpP8aAGwA7wWABYA5Kv/Z/2X/ZQAAAAAAAAAAAAAAAA=="
+	}
+}

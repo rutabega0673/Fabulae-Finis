@@ -468,7 +468,7 @@
 5525={ #Shreveport
 	terrain="forest"
 	culture="arkalatexan"
-	religion="catholic"
+	religion="traiteurism"
 	trade_goods="earthware"
 	civilization_value=23
 	barbarian_power=0

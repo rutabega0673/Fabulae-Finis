@@ -234,7 +234,7 @@ country = {
 			}
 
 			own_control_core = {
-				5482 5481 5479 5480 5503 5504 8484 8217 8216 8485
+				5482 5481 5479 5480 5503 5504 8484 8216 8485
 				2696 7232 7231 7230 7517 7233 7518 7519
 				887
 			}
@@ -486,10 +486,10 @@ country = {
 			capital = 5250
 
 			technology={
-				military_tech={ level=2 progress=0 }
-				civic_tech={ level=2 progress=0 }
-				religious_tech= { level=2 progress=0  }
-				oratory_tech= { level=2 progress =0 }
+				military_tech={ level=1 progress=0 }
+				civic_tech={ level=1 progress=0 }
+				religious_tech= { level=1 progress=0  }
+				oratory_tech= { level=1 progress =0 }
 			}
 
 			own_control_core = {
@@ -522,15 +522,15 @@ country = {
 			capital = 1492
 
 			technology={
-				military_tech={ level=2 progress=0 }
-				civic_tech={ level=2 progress=0 }
-				religious_tech= { level=2 progress=0  }
-				oratory_tech= { level=2 progress =0 }
+				military_tech={ level=1 progress=0 }
+				civic_tech={ level=1 progress=0 }
+				religious_tech= { level=1 progress=0  }
+				oratory_tech= { level=1 progress =0 }
 			}
 
 			own_control_core = {
-				1490 1492 5251 5252 #joplin_area
-				5952 5951 5953
+				1490 1492 5252 5251 #joplin_area
+				5952 5951 5953 1491 
 			}
 		}
 		JOP = { #Joplin
@@ -540,10 +540,10 @@ country = {
 			capital = 9346
 
 			technology={
-				military_tech={ level=2 progress=0 }
-				civic_tech={ level=2 progress=0 }
-				religious_tech= { level=2 progress=0  }
-				oratory_tech= { level=2 progress =0 }
+				military_tech={ level=1 progress=0 }
+				civic_tech={ level=1 progress=0 }
+				religious_tech= { level=1 progress=0  }
+				oratory_tech= { level=1 progress =0 }
 			}
 
 			own_control_core = {
@@ -557,10 +557,10 @@ country = {
 			capital = 5536
 
 			technology={
-				military_tech={ level=2 progress=0 }
-				civic_tech={ level=2 progress=0 }
-				religious_tech= { level=2 progress=0  }
-				oratory_tech= { level=2 progress =0 }
+				military_tech={ level=1 progress=0 }
+				civic_tech={ level=1 progress=0 }
+				religious_tech= { level=1 progress=0  }
+				oratory_tech= { level=1 progress =0 }
 			}
 
 			own_control_core = {
@@ -613,7 +613,7 @@ country = {
 
 			own_control_core = {
 				9500 9501 9499 5955 7718 7719 7720 2413 
-				3575 2412 2411 7197 530 531 
+				3575 2412 530 531 
 			}
 		}
 
@@ -1316,7 +1316,7 @@ country = {
 
 		PCN = { #Poconia
 			government = tribal_federation
-			primary_culture = pocono
+			primary_culture = susquehannan
 			religion = quaker
 			capital = 8565
 
@@ -2207,7 +2207,7 @@ country = {
 			}
 
 			own_control_core = {
-				5059 6286 6287 9219 9221 9218 9220 7195 7196
+				5059 6286 6287 9219 9221 9218 9220 7195
 			}
 		}
 		GAS = { #Galveston
@@ -2345,7 +2345,7 @@ country = {
 			}
 
 			own_control_core = {
-				8294 8292 3017 5830 1830 1829 1831 5489 5487 8291 5488 2474 7827
+				8294 8292 3017 5830 1830 1829 1831 5489 5487 8291 5488 2474 8293 5187
 			}
 		}
 		TMB = { # Timberland
@@ -2362,7 +2362,7 @@ country = {
 			}
 
 			own_control_core = {
-				2793 3016 2794 2792 2795 2794 5833 395 5831 394 3015 3014 5832
+				2793 3016 2794 2792 2795 2794 5833 395 5831 394 3015 3014 5832 5190 5189
 			}
 		}
 		TXR = { # Texarkana
@@ -4645,7 +4645,7 @@ country = {
 			}
 
 			own_control_core = {
-				4754 4755 6501 4099 4100
+				4754 4755 6501 4099 4100 4098 5188
 			}
 		}
 		OKC = { # Oklahoma City
@@ -5202,6 +5202,43 @@ country = {
 
 			own_control_core = {
 				1188 6350 1191
+			}
+		}
+		FYT = { #Fayettville
+			government = tribal_kingdom
+			primary_culture = ozark
+			religion = revelationist
+			capital = 7398
+
+			technology={
+				military_tech={ level=1 progress=0 }
+				civic_tech={ level=1 progress=0 }
+				religious_tech= { level=1 progress=0  }
+				oratory_tech= { level=1 progress =0 }
+			}
+
+			own_control_core = {
+				7398 1919
+			}
+		}
+		NZO = { #North Ozarks
+			government = tribal_kingdom
+			primary_culture = ozark
+			religion = revelationist
+			capital = 5856
+
+			own_control_core = {
+				5856 7399 6181 6180 5858 5857 8977 8976 5838 8975 5839 5837
+			}
+		}
+		FTS = { #Fort Smith
+			government = tribal_kingdom
+			primary_culture = ozark
+			religion = revelationist
+			capital = 7828
+
+			own_control_core = {
+				7828 2475 2476 7827 7829
 			}
 		}
 	}
