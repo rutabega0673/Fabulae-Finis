@@ -36,7 +36,7 @@
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
-		religion="viking"
+		religion="lakeshore"
 		amount=1
 	}
 	slaves={
@@ -50,7 +50,7 @@
 237={ #Brainerd
 	terrain="forest"
 	culture="northlander"
-	religion="viking"
+	religion="lakeshore"
 	trade_goods="cattle"
 	civilization_value=12
 	barbarian_power=0
@@ -87,7 +87,7 @@
 238={ #Grand Rapids
 	terrain="forest"
 	culture="ojibwe"
-	religion="viking"
+	religion="lakeshore"
 	trade_goods="maple"
 	civilization_value=6
 	barbarian_power=0
@@ -104,7 +104,7 @@
 239={ #Long Prairie
 	terrain="plains"
 	culture="northlander"
-	religion="catholic"
+	religion="lakeshore"
 	trade_goods="horses"
 	civilization_value=10
 	barbarian_power=0
@@ -121,7 +121,7 @@
 240={ #Walker
 	terrain="forest"
 	culture="ojibwe"
-	religion="viking"
+	religion="lakeshore"
 	trade_goods="wood"
 	civilization_value=7
 	barbarian_power=0
@@ -166,7 +166,7 @@
 328={ #Wapaha ša
 	terrain="hills"
 	culture="driftlander"
-	religion="viking"
+	religion="lakeshore"
 	trade_goods="tubers"
 	civilization_value=22
 	barbarian_power=0
@@ -206,7 +206,7 @@
 		amount=3
 	}
 	freemen={
-		religion="viking"
+		religion="lakeshore"
 		amount=3
 	}
 	freemen={
@@ -299,7 +299,7 @@
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
-		religion="viking"
+		religion="lakeshore"
 		amount=1
 	}
 	tribesmen={
@@ -415,7 +415,7 @@
 		amount=3
 	}
 	freemen={
-		religion="viking"
+		religion="lakeshore"
 		amount=1
 	}
 	freemen={
@@ -454,7 +454,7 @@
 		amount=3
 	}
 	freemen={
-		religion="viking"
+		religion="lakeshore"
 		amount=3
 	}
 	freemen={
@@ -480,7 +480,7 @@
 		amount=2
 	}
 	tribesmen={
-		religion="viking"
+		religion="lakeshore"
 		amount=2
 	}
 }
@@ -488,7 +488,7 @@
 3555={ #Crosby
 	terrain="forest"
 	culture="ojibwe"
-	religion="viking"
+	religion="lakeshore"
 	trade_goods="wood"
 	civilization_value=8
 	barbarian_power=0
@@ -501,7 +501,7 @@
 3556={ #Mato
 	terrain="forest"
 	culture="ojibwe"
-	religion="viking"
+	religion="lakeshore"
 	trade_goods="beer"
 	civilization_value=8
 	barbarian_power=0
@@ -514,7 +514,7 @@
 3557={ #Mní wa
 	terrain="forest"
 	culture="ojibwe"
-	religion="viking"
+	religion="lakeshore"
 	trade_goods="leather"
 	civilization_value=8
 	barbarian_power=0
@@ -527,7 +527,7 @@
 3558={ #Wakan
 	terrain="forest"
 	culture="ojibwe"
-	religion="viking"
+	religion="lakeshore"
 	trade_goods="fish"
 	civilization_value=8
 	barbarian_power=0
@@ -556,7 +556,7 @@
 3938={ #Baudette
 	terrain="forest"
 	culture="ojibwe"
-	religion="viking"
+	religion="lakeshore"
 	trade_goods="wood"
 	civilization_value=4
 	barbarian_power=0
@@ -572,7 +572,7 @@
 3939={ #Littlefork
 	terrain="marsh"
 	culture="ojibwe"
-	religion="viking"
+	religion="lakeshore"
 	trade_goods="amber"
 	civilization_value=4
 	barbarian_power=0
@@ -604,7 +604,7 @@
 5676={ #Warren
 	terrain="forest"
 	culture="metis"
-	religion="midewiwin"
+	religion="lakeshore"
 	trade_goods="buffalo"
 	civilization_value=3
 	barbarian_power=0
@@ -617,7 +617,7 @@
 5677={ #Thief River Falls
 	terrain="forest"
 	culture="metis"
-	religion="midewiwin"
+	religion="lakeshore"
 	trade_goods="tubers"
 	civilization_value=3
 	barbarian_power=0
@@ -630,7 +630,7 @@
 7074={ #Little Falls
 	terrain="plains"
 	culture="minnesotan"
-	religion="viking"
+	religion="lakeshore"
 	trade_goods="wood"
 	civilization_value=20
 	barbarian_power=0
@@ -657,7 +657,7 @@
 7075={ #East Bethel
 	terrain="plains"
 	culture="minnesotan"
-	religion="viking"
+	religion="lakeshore"
 	trade_goods="stone"
 	civilization_value=20
 	barbarian_power=0
@@ -684,7 +684,7 @@
 7076={ #Mato bde
 	terrain="plains"
 	culture="minnesotan"
-	religion="viking"
+	religion="lakeshore"
 	trade_goods="fish"
 	civilization_value=20
 	barbarian_power=0
@@ -711,7 +711,7 @@
 7077={ #Anunka
 	terrain="plains"
 	culture="minnesotan"
-	religion="viking"
+	religion="lakeshore"
 	trade_goods="wine"
 	civilization_value=20
 	barbarian_power=0
@@ -720,11 +720,7 @@
 		amount=1
 	}
 	freemen={
-		amount=3
-	}
-	freemen={
-		religion="viking"
-		amount=2
+		amount=5
 	}
 	freemen={
 		religion="catholic"
@@ -738,7 +734,7 @@
 7342={ #Bagley
 	terrain="forest"
 	culture="ojibwe"
-	religion="viking"
+	religion="lakeshore"
 	trade_goods="tubers"
 	civilization_value=7
 	barbarian_power=0
@@ -751,7 +747,7 @@
 7343={ #Detroit Lakes
 	terrain="plains"
 	culture="northlander"
-	religion="viking"
+	religion="lakeshore"
 	trade_goods="rice"
 	civilization_value=4
 	barbarian_power=0
@@ -764,7 +760,7 @@
 7344={ #Bemidji
 	terrain="forest"
 	culture="northlander"
-	religion="viking"
+	religion="lakeshore"
 	trade_goods="earthware"
 	civilization_value=11
 	barbarian_power=0
@@ -790,7 +786,7 @@
 7454={ #Hibbing
 	terrain="forest"
 	culture="copperhead"
-	religion="viking"
+	religion="lakeshore"
 	trade_goods="base_metals"
 	civilization_value=4
 	barbarian_power=0
@@ -806,7 +802,7 @@
 7456={ #International Falls
 	terrain="marsh"
 	culture="ojibwe"
-	religion="rivertracer"
+	religion="lakeshore"
 	trade_goods="fish"
 	civilization_value=4
 	barbarian_power=0
@@ -833,17 +829,13 @@
 	citizen={
 		amount=4
 	}
-	citizen={
-		religion="caesarist"
-		amount=1
-	}
 	freemen={
 		religion="lutheran"
 		amount=2
 	}
 	freemen={
-		religion="viking"
-		amount=2
+		religion="lakeshore"
+		amount=4
 	}
 	freemen={
 		religion="catholic"
@@ -881,7 +873,7 @@
 		amount=4
 	}
 	freemen={
-		religion="viking"
+		religion="lakeshore"
 		amount=3
 	}
 	freemen={
@@ -910,7 +902,7 @@
 		amount=3
 	}
 	freemen={
-		religion="viking"
+		religion="lakeshore"
 		amount=2
 	}
 	freemen={
@@ -950,7 +942,7 @@
 		amount=3
 	}
 	freemen={
-		religion="viking"
+		religion="lakeshore"
 		amount=2
 	}
 	freemen={
@@ -983,7 +975,7 @@
 		amount=4
 	}
 	tribesmen={
-		religion="viking"
+		religion="lakeshore"
 		amount=2
 	}
 }
@@ -991,7 +983,7 @@
 8306={ #Deer River
 	terrain="marsh"
 	culture="ojibwe"
-	religion="viking"
+	religion="lakeshore"
 	trade_goods="wood"
 	civilization_value=4
 	barbarian_power=0
@@ -1033,7 +1025,7 @@
 8372={ #Crookston
 	terrain="plains"
 	culture="northlander"
-	religion="lutheran"
+	religion="lakeshore"
 	trade_goods="cloth"
 	civilization_value=4
 	barbarian_power=0
@@ -1059,7 +1051,7 @@
 8374={ #Moorhead
 	terrain="farmland"
 	culture="northlander"
-	religion="lutheran"
+	religion="lakeshore"
 	trade_goods="buffalo"
 	civilization_value=9
 	barbarian_power=0
@@ -1068,7 +1060,6 @@
 		amount=7
 	}
 	slaves={
-		religion="viking"
 		amount=2
 	}
 }
@@ -1092,7 +1083,7 @@
 		amount=2
 	}
 	tribesmen={
-		religion="viking"
+		religion="lakeshore"
 		amount=2
 	}
 }
@@ -1131,7 +1122,7 @@
 		amount=3
 	}
 	freemen={
-		religion="viking"
+		religion="lakeshore"
 		amount=2
 	}
 	freemen={
@@ -1146,7 +1137,7 @@
 8647={ #Itasca
 	terrain="plains"
 	culture="northlander"
-	religion="viking"
+	religion="lakeshore"
 	trade_goods="fish"
 	civilization_value=7
 	barbarian_power=0
@@ -1163,7 +1154,7 @@
 8648={ #Alec
 	terrain="farmland"
 	culture="minnesotan"
-	religion="viking"
+	religion="lakeshore"
 	trade_goods="grain"
 	civilization_value=13
 	barbarian_power=0
@@ -1202,7 +1193,7 @@
 8649={ #Perham
 	terrain="plains"
 	culture="northlander"
-	religion="viking"
+	religion="lakeshore"
 	trade_goods="grain"
 	civilization_value=4
 	barbarian_power=0

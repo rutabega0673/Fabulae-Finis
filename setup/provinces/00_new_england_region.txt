@@ -1,7 +1,7 @@
 ﻿1={ #Skowhegan
 	terrain="hills"
 	culture="nouvelle_angleterrais"
-	religion="viking"
+	religion="gothic"
 	trade_goods="maple"
 	civilization_value=10
 	barbarian_power=0
@@ -14,7 +14,7 @@
 2={ #Dover Foxcroft
 	terrain="hills"
 	culture="nouvelle_angleterrais"
-	religion="viking"
+	religion="gothic"
 	trade_goods="woad"
 	civilization_value=10
 	barbarian_power=0
@@ -170,7 +170,7 @@
 1071={ #Hatfield
 	terrain="forest"
 	culture="vermonter"
-	religion="transcendentalist"
+	religion="gothic"
 	trade_goods="precious_metals"
 	civilization_value=10
 	barbarian_power=0
@@ -508,7 +508,7 @@
 2906={ #Huntington
 	terrain="forest"
 	culture="vermonter"
-	religion="transcendentalist"
+	religion="gothic"
 	trade_goods="horses"
 	civilization_value=10
 	barbarian_power=0
@@ -521,7 +521,7 @@
 2907={ #Chicopee
 	terrain="forest"
 	culture="vermonter"
-	religion="transcendentalist"
+	religion="gothic"
 	trade_goods="maize"
 	civilization_value=10
 	barbarian_power=0
@@ -690,7 +690,7 @@
 4627={ #Plainfield
 	terrain="farmland"
 	culture="bayfolk"
-	religion="gothic"
+	religion="americanist"
 	trade_goods="grain"
 	civilization_value=10
 	barbarian_power=0
@@ -833,7 +833,7 @@
 6125={ #Lebanon
 	terrain="forest"
 	culture="vermonter"
-	religion="transcendentalist"
+	religion="gothic"
 	trade_goods="vegetables"
 	civilization_value=10
 	barbarian_power=0
@@ -859,7 +859,7 @@
 6223={ #Attleboro
 	terrain="plains"
 	culture="bayfolk"
-	religion="gothic"
+	religion="americanist"
 	trade_goods="fruits"
 	civilization_value=10
 	barbarian_power=0
@@ -950,7 +950,7 @@
 7032={ #Pittsfield
 	terrain="hills"
 	culture="vermonter"
-	religion="transcendentalist"
+	religion="gothic"
 	trade_goods="maple"
 	civilization_value=10
 	barbarian_power=0

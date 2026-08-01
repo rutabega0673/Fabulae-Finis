@@ -325,7 +325,7 @@
 1768={ #Tupper Lake
 	terrain="mountain"
 	culture="upstater"
-	religion="transcendentalist"
+	religion="clairvoyant"
 	trade_goods="maple"
 	civilization_value=10
 	barbarian_power=0
@@ -351,7 +351,7 @@
 1770={ #Saranac Lake
 	terrain="hills"
 	culture="upstater"
-	religion="transcendentalist"
+	religion="clairvoyant"
 	trade_goods="wood"
 	civilization_value=10
 	barbarian_power=0
@@ -377,7 +377,7 @@
 2313={ #Long Lake
 	terrain="mountain"
 	culture="hudsonian"
-	religion="transcendentalist"
+	religion="clairvoyant"
 	trade_goods="fur"
 	civilization_value=10
 	barbarian_power=0
@@ -1271,7 +1271,7 @@
 7031={ #Great Barrington
 	terrain="hills"
 	culture="hudsonian"
-	religion="transcendentalist"
+	religion="gothic"
 	trade_goods="vegetables"
 	civilization_value=10
 	barbarian_power=0
@@ -1409,7 +1409,7 @@
 7969={ #Ramapo
 	terrain="plains"
 	culture="gothamite"
-	religion="catholic"
+	religion="americanist"
 	trade_goods="fish"
 	civilization_value=10
 	barbarian_power=0
@@ -1422,7 +1422,7 @@
 7970={ #Monroe
 	terrain="plains"
 	culture="hudsonian"
-	religion="catholic"
+	religion="americanist"
 	trade_goods="honey"
 	civilization_value=10
 	barbarian_power=0

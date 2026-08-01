@@ -455,7 +455,7 @@
 3496={ #Stonecliffe
 	terrain="forest"
 	culture="francontarien"
-	religion="viking"
+	religion="lakeshore"
 	trade_goods="cattle"
 	civilization_value=10
 	barbarian_power=0
@@ -1124,7 +1124,7 @@
 8503={ #Barry S Bay
 	terrain="marsh"
 	culture="ontarian"
-	religion="viking"
+	religion="lakeshore"
 	trade_goods="vegetables"
 	civilization_value=10
 	barbarian_power=0
@@ -1137,7 +1137,7 @@
 8504={ #Arnprior
 	terrain="plains"
 	culture="ontarian"
-	religion="viking"
+	religion="lakeshore"
 	trade_goods="wood"
 	civilization_value=10
 	barbarian_power=0
@@ -1150,7 +1150,7 @@
 8505={ #Pembroke
 	terrain="forest"
 	culture="ontarian"
-	religion="viking"
+	religion="lakeshore"
 	trade_goods="earthware"
 	civilization_value=10
 	barbarian_power=0

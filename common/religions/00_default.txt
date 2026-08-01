@@ -1,4 +1,4 @@
-﻿mayan_pantheon = { # Maya
+mayan_pantheon = { # Maya
 	color = hsv { 0.05 1 0.9 }
 	modifier = { 
 		global_goods_from_slaves = -1
@@ -471,12 +471,12 @@ hearthtender = { # Hearthtender
 	sacrifice_sound = "event:/SFX/UI/Religion/sfx_ui_religion_generic_sacrifice"
 }
 ## Lacustrine ##
-lakeshore = { # Lakeshore
+lakeshore = { # Lacustrine
 	color = rgb { 19 14 80 }
 	modifier = { 
 		stability_cost_modifier = -0.15
-		naval_damage_taken = -0.15
-		general_loyalty = -5
+		global_freemen_happyness = 0.04
+		price_found_city_cost_modifier = 0.15
 	}
 	religion_category = pantheon
 }

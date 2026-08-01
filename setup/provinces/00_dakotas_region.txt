@@ -235,7 +235,7 @@
 1644={ #West Fargo
 	terrain="farmland"
 	culture="northlander"
-	religion="viking"
+	religion="lakeshore"
 	trade_goods="steppe_horses"
 	civilization_value=10
 	barbarian_power=0
@@ -248,7 +248,7 @@
 1645={ #Enderlin
 	terrain="steppes"
 	culture="northlander"
-	religion="viking"
+	religion="lakeshore"
 	trade_goods="leather"
 	civilization_value=10
 	barbarian_power=0
@@ -287,7 +287,7 @@
 1859={ #Devils Lake
 	terrain="steppes"
 	culture="dakota"
-	religion="viking"
+	religion="lakeshore"
 	trade_goods="fish"
 	civilization_value=10
 	barbarian_power=0
@@ -846,7 +846,7 @@
 6944={ #Grafton
 	terrain="steppes"
 	culture="northlander"
-	religion="viking"
+	religion="lakeshore"
 	trade_goods="leather"
 	civilization_value=10
 	barbarian_power=0
@@ -859,7 +859,7 @@
 6945={ #Park River
 	terrain="steppes"
 	culture="northlander"
-	religion="viking"
+	religion="lakeshore"
 	trade_goods="horses"
 	civilization_value=10
 	barbarian_power=0
@@ -872,7 +872,7 @@
 6946={ #Grand Forks
 	terrain="steppes"
 	culture="northlander"
-	religion="viking"
+	religion="lakeshore"
 	trade_goods="cattle"
 	civilization_value=10
 	barbarian_power=0
@@ -885,7 +885,7 @@
 6947={ #Langdon
 	terrain="steppes"
 	culture="northlander"
-	religion="viking"
+	religion="lakeshore"
 	trade_goods="buffalo"
 	civilization_value=10
 	barbarian_power=0

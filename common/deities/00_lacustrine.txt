@@ -3,9 +3,6 @@
 		polytheistic_check_religion_trigger = yes
 		OR = {
 			common_deity_trigger = {
-				RELIGION = viking
-			}
-			common_deity_trigger = {
 				RELIGION = lakeshore
 			}
 			common_deity_trigger = {
@@ -19,7 +16,7 @@
 	icon = deity_tribal_war
 	passive_modifier = { happiness_for_wrong_culture_modifier = deity_happiness_for_wrong_culture_modifier_svalue }
 	omen = { discipline = omen_discipline_svalue } #Bonus from Omen
-	religion = viking
+	religion = lakeshore
 	deity_category = war #This Deity uses a War slot.
 	deification_trigger = {
 		can_deify_trigger = yes
@@ -34,11 +31,11 @@ deity_hermann= {
 		polytheistic_check_religion_trigger = yes
 		OR = {
 			rare_deity_culture_trigger = {
-				RELIGION = viking
+				RELIGION = lakeshore
 				CULTURE = minnesotan
 			}
 			rare_deity_culture_trigger = {
-				RELIGION = viking
+				RELIGION = lakeshore
 				CULTURE = northlander
 			}
 			deity:omen_hermann = {
@@ -49,7 +46,7 @@ deity_hermann= {
 	icon = deity_tribal_war
 	passive_modifier = { land_morale_modifier = deity_land_morale_modifier_svalue }
 	omen = { hostile_attrition = omen_hostile_attrition_svalue }
-	religion = viking
+	religion = lakeshore
 	deity_category = war #This Deity uses a War slot.
 	deification_trigger = {
 		can_deify_trigger = yes
@@ -64,7 +61,7 @@ deity_green_giant= {
 		polytheistic_check_religion_trigger = yes
 		OR = {
 			rare_deity_trigger = {
-				RELIGION = viking
+				RELIGION = lakeshore
 			}
 			deity:omen_green_giant = {
 				holy_site_deity_check_trigger = yes
@@ -74,7 +71,7 @@ deity_green_giant= {
 	icon = deity_tribal_love
 	passive_modifier = { global_monthly_food_modifier = deity_global_monthly_food_modifier_svalue }
 	omen = { global_population_growth = omen_global_population_growth } #Bonus from Omen
-	religion = viking
+	religion = lakeshore
 	deity_category = fertility #This Deity uses a War slot.
 	deification_trigger = {
 		can_deify_trigger = yes
@@ -89,9 +86,6 @@ deity_urho= {
 		polytheistic_check_religion_trigger = yes
 		OR = {
 			rare_deity_trigger = {
-				RELIGION = viking
-			}
-			rare_deity_trigger = {
 				RELIGION = lakeshore
 			}
 			deity:omen_urho = {
@@ -102,7 +96,7 @@ deity_urho= {
 	icon = deity_tribal_love
 	passive_modifier = { global_food_capacity = deity_global_food_capacity_svalue }
 	omen = { global_pop_conversion_speed_modifier = omen_global_pop_conversion_speed_modifier_svalue } #Bonus from Omen
-	religion = viking
+	religion = lakeshore
 	deity_category = fertility #This Deity uses a War slot.
 	deification_trigger = {
 		can_deify_trigger = yes
@@ -117,7 +111,7 @@ deity_febold= {
 		polytheistic_check_religion_trigger = yes
 		OR = {
 			rare_deity_trigger = {
-				RELIGION = viking
+				RELIGION = lakeshore
 			}
 			deity:omen_febold = {
 				holy_site_deity_check_trigger = yes
@@ -127,7 +121,7 @@ deity_febold= {
 	icon = deity_tribal_eloquence
 	passive_modifier = { happiness_for_same_culture_modifier = deity_happiness_for_same_culture_modifier_svalue }
 	omen = { global_monthly_civilization = omen_global_monthly_civilization_svalue }
-	religion = viking
+	religion = lakeshore
 	deity_category = culture #This Deity uses a War slot.
 	deification_trigger = {
 		can_deify_trigger = yes
@@ -142,11 +136,11 @@ deity_gustavus= { # Gustavus Adolphus College in St. Peter, Minnesota
 		polytheistic_check_religion_trigger = yes
 		OR = {
 			rare_deity_culture_trigger = {
-				RELIGION = viking
+				RELIGION = lakeshore
 				CULTURE = minnesotan
 			}
 			rare_deity_culture_trigger = {
-				RELIGION = viking
+				RELIGION = lakeshore
 				CULTURE = northlander
 			}
 			deity:omen_gustavus = {
@@ -157,7 +151,7 @@ deity_gustavus= { # Gustavus Adolphus College in St. Peter, Minnesota
 	icon = deity_wealth
 	passive_modifier = { global_tax_modifier = deity_global_tax_modifier_svalue }
 	omen = { research_points_modifier = omen_research_points_modifier_svalue }
-	religion = viking
+	religion = lakeshore
 	deity_category = economy 
 	deification_trigger = {
 		can_deify_trigger = yes
@@ -172,7 +166,7 @@ deity_antoine= { # Antoine Barada, Nebraskan semi-mythical folk hero
 		polytheistic_check_religion_trigger = yes
 		OR = {
 			rare_deity_trigger = {
-				RELIGION = viking
+				RELIGION = lakeshore
 			}
 			deity:omen_antoine = {
 				holy_site_deity_check_trigger = yes
@@ -182,7 +176,7 @@ deity_antoine= { # Antoine Barada, Nebraskan semi-mythical folk hero
 	icon = deity_wealth
 	passive_modifier = { global_commerce_modifier = deity_global_commerce_modifier_svalue }
 	omen = { build_time = omen_build_cost_svalue }
-	religion = viking
+	religion = lakeshore
 	deity_category = economy 
 	deification_trigger = {
 		can_deify_trigger = yes
@@ -197,7 +191,7 @@ deity_the_twins= { # Based on the merger of the Minneaplis Millers and the St. P
 		polytheistic_check_religion_trigger = yes
 		OR = {
 			rare_deity_culture_trigger = {
-				RELIGION = viking
+				RELIGION = lakeshore
 				CULTURE = minnesotan
 			}
 			deity:omen_the_twins = {
@@ -208,7 +202,7 @@ deity_the_twins= { # Based on the merger of the Minneaplis Millers and the St. P
 	icon = deity_tribal_wealth
 	passive_modifier = { global_monthly_state_loyalty = deity_global_monthly_state_loyalty_svalue }
 	omen = { price_found_city_cost_modifier = -0.15 }
-	religion = viking
+	religion = lakeshore
 	deity_category = economy
 	deification_trigger = {
 		can_deify_trigger = yes
@@ -223,7 +217,7 @@ deity_mufferaw = {
 		polytheistic_check_religion_trigger = yes
 		OR = {
 			common_deity_trigger = {
-				RELIGION = viking
+				RELIGION = lakeshore
 			}
 			deity:omen_mufferaw = {
 				holy_site_deity_check_trigger = yes
@@ -233,7 +227,7 @@ deity_mufferaw = {
 	icon = deity_tribal_war
 	passive_modifier = { manpower_recovery_speed = deity_global_manpower_recovery_speed_svalue }
 	omen = { global_defensive = omen_global_defensive_svalue } #Bonus from Omen
-	religion = viking
+	religion = lakeshore
 	deity_category = war #This Deity uses a War slot.
 	deification_trigger = {
 		can_deify_trigger = yes
@@ -247,8 +241,8 @@ deity_father_twain= { # Tall-Taler interpretation of Mark Twain
 	trigger = {
 		polytheistic_check_religion_trigger = yes
 		OR = {
-			rare_deity_trigger = {
-				RELIGION = viking
+			very_rare_deity_trigger = {
+				RELIGION = lakeshore
 			}
 			deity:omen_father_twain = {
 				holy_site_deity_check_trigger = yes
@@ -258,7 +252,7 @@ deity_father_twain= { # Tall-Taler interpretation of Mark Twain
 	icon = deity_kemetic_eloquence
 	passive_modifier = { diplomatic_relations = deity_diplomatic_relations_svalue }
 	omen = { oratory_tech_investment = omen_oratory_tech_investment } #Bonus from Omen
-	religion = viking
+	religion = lakeshore
 	deity_category = culture
 	deification_trigger = {
 		can_deify_trigger = yes
@@ -272,8 +266,8 @@ deity_mother_mississippi = { # Tall-Taler personification of the river Mississip
 	trigger = {
 		polytheistic_check_religion_trigger = yes
 		OR = {
-			rare_deity_trigger = {
-				RELIGION = viking
+			very_rare_deity_trigger = {
+				RELIGION = lakeshore
 			}
 			deity:omen_mother_mississippi = {
 				holy_site_deity_check_trigger = yes
@@ -283,7 +277,7 @@ deity_mother_mississippi = { # Tall-Taler personification of the river Mississip
 	icon = deity_kemetic_fertility
 	passive_modifier = { global_population_capacity_modifier = deity_global_population_capacity_modifier_svalue }
 	omen = { global_population_happiness = omen_global_population_happiness } #Bonus f
-	religion = viking
+	religion = lakeshore
 	deity_category = fertility
 	deification_trigger = {
 		can_deify_trigger = yes
@@ -298,11 +292,11 @@ deity_ole_olson = { # Paul Bunyan's blacksmith
 		polytheistic_check_religion_trigger = yes
 		OR = {
 			rare_deity_culture_trigger = {
-				RELIGION = viking
+				RELIGION = lakeshore
 				CULTURE = cheesehead
 			}
 			rare_deity_culture_trigger = {
-				RELIGION = viking
+				RELIGION = lakeshore
 				CULTURE = minnesotan
 			}
 			deity:omen_ol_olson = {
@@ -313,7 +307,7 @@ deity_ole_olson = { # Paul Bunyan's blacksmith
 	icon = deity_tribal_wealth
 	passive_modifier = { military_tech_investment = deity_military_tech_investment_svalue }
 	omen = { fort_maintenance_cost = omen_fort_maintenance_cost_svalue } #Bonus from Omen
-	religion = viking
+	religion = lakeshore
 	deity_category = economy
 	deification_trigger = {
 		can_deify_trigger = yes
@@ -328,11 +322,11 @@ deity_dylan = { # Bob Dylan
 		polytheistic_check_religion_trigger = yes
 		OR = {
 			rare_deity_culture_trigger = {
-				RELIGION = viking
+				RELIGION = lakeshore
 				CULTURE = northlander
 			}
 			rare_deity_culture_trigger = {
-				RELIGION = viking
+				RELIGION = lakeshore
 				CULTURE = minnesotan
 			}
 			deity:omen_dylan = {
@@ -343,7 +337,7 @@ deity_dylan = { # Bob Dylan
 	icon = deity_tribal_eloquence
 	passive_modifier = { global_supply_limit_modifier = deity_global_supply_limit_modifier_svalue }
 	omen = { happiness_for_same_culture_modifier = omen_happiness_for_same_culture_modifier_svalue }
-	religion = viking
+	religion = lakeshore
 	deity_category = culture
 	deification_trigger = {
 		can_deify_trigger = yes
@@ -358,7 +352,7 @@ deity_prince = { # Prince
 		polytheistic_check_religion_trigger = yes
 		OR = {
 			rare_deity_culture_trigger = {
-				RELIGION = viking
+				RELIGION = lakeshore
 				CULTURE = minnesotan
 			}
 			deity:omen_prince = {
@@ -369,7 +363,7 @@ deity_prince = { # Prince
 	icon = deity_tribal_eloquence
 	passive_modifier = { global_citizen_happyness = deity_global_citizen_happiness_svalue }
 	omen = { religious_tech_investment = omen_religious_tech_investment_svalue } #Bonus from Omen
-	religion = viking
+	religion = lakeshore
 	deity_category = culture
 	deification_trigger = {
 		can_deify_trigger = yes
@@ -384,11 +378,11 @@ deity_big_ole= {
 		polytheistic_check_religion_trigger = yes
 		OR = {
 			rare_deity_culture_trigger = {
-				RELIGION = viking
+				RELIGION = lakeshore
 				CULTURE = minnesotan
 			}
 			rare_deity_culture_trigger = {
-				RELIGION = viking
+				RELIGION = lakeshore
 				CULTURE = northlander
 			}
 			deity:omen_big_ole = {
@@ -399,7 +393,7 @@ deity_big_ole= {
 	icon = deity_tribal_war
 	passive_modifier = { global_supply_limit_modifier = deity_global_supply_limit_modifier_svalue }
 	omen = { naval_morale_modifier = omen_naval_morale_modifier_svalue } #Bonus from Omen
-	religion = viking
+	religion = lakeshore
 	deity_category = war #This Deity uses a War slot.
 	deification_trigger = {
 		can_deify_trigger = yes
@@ -414,7 +408,7 @@ deity_brewer = { # Milauwkee Brewer's mascot
 		polytheistic_check_religion_trigger = yes
 		OR = {
 			rare_deity_culture_trigger = {
-				RELIGION = viking
+				RELIGION = lakeshore
 				CULTURE = cheesehead
 			}
 			deity:omen_brewer = {
@@ -425,7 +419,7 @@ deity_brewer = { # Milauwkee Brewer's mascot
 	icon = deity_tribal_wealth
 	passive_modifier = { global_freemen_happyness = deity_global_freemen_happyness_svalue }
 	omen = { global_monthly_food_modifier = omen_global_monthly_food_modifier } #Bonus from Omen
-	religion = viking
+	religion = lakeshore
 	deity_category = fertility
 	deification_trigger = {
 		can_deify_trigger = yes
@@ -440,7 +434,7 @@ deity_leif_erikson= {
 		polytheistic_check_religion_trigger = yes
 		OR = {
 			common_deity_trigger = {
-				RELIGION = viking
+				RELIGION = lakeshore
 			}
 			deity:omen_leif_erikson = {
 				holy_site_deity_check_trigger = yes
@@ -450,7 +444,7 @@ deity_leif_erikson= {
 	icon = deity_tribal_war
 	passive_modifier = { naval_damage_taken = deity_naval_damage_taken_svalue }
 	omen = { navy_maintenance_cost = -0.05 } # Bonus from Omen
-	religion = viking
+	religion = lakeshore
 	deity_category = war #This Deity uses a War slot.
 	deification_trigger = {
 		can_deify_trigger = yes
@@ -460,15 +454,12 @@ deity_leif_erikson= {
 		military_apotheosis_military_experience_effect = yes
 	}
 }
-#Lakeshore
+
 deity_heikki_lunta= { 
 	trigger = {
 		polytheistic_check_religion_trigger = yes
 		OR = {
-			rare_deity_trigger = {
-				RELIGION = viking
-			}
-			rare_deity_trigger = {
+			common_deity_trigger = {
 				RELIGION = lakeshore
 			}
 			deity:omen_heikki_lunta = {
@@ -539,9 +530,6 @@ deity_polaris = {
 		OR = {
 			common_deity_trigger = {
 				RELIGION = lakeshore
-			}
-			rare_deity_trigger = {
-				RELIGION = viking
 			}
 			deity:omen_polaris = {
 				holy_site_deity_check_trigger = yes
@@ -642,9 +630,6 @@ deity_ole_fitz = {
 		OR = {
 			common_deity_trigger = {
 				RELIGION = lakeshore
-			}
-			rare_deity_trigger = {
-				RELIGION = viking
 			}
 			deity:omen_ole_fitz = {
 				holy_site_deity_check_trigger = yes

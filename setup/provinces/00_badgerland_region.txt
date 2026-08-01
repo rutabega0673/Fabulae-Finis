@@ -14,7 +14,7 @@
 573={ #Sīsepikamiw
 	terrain="farmland"
 	culture="cheesehead"
-	religion="viking"
+	religion="lakeshore"
 	trade_goods="leather"
 	civilization_value=10
 	barbarian_power=0
@@ -66,7 +66,7 @@
 1096={ #St. Croix Falls
 	terrain="forest"
 	culture="ojibwe"
-	religion="viking"
+	religion="lakeshore"
 	trade_goods="vegetables"
 	civilization_value=10
 	barbarian_power=0
@@ -118,7 +118,7 @@
 1126={ #Oconomowoc
 	terrain="plains"
 	culture="cheesehead"
-	religion="viking"
+	religion="lakeshore"
 	trade_goods="cattle"
 	civilization_value=10
 	barbarian_power=0
@@ -144,7 +144,7 @@
 2024={ #Niikokiri
 	terrain="hills"
 	culture="cheesehead"
-	religion="viking"
+	religion="lakeshore"
 	trade_goods="cattle"
 	civilization_value=10
 	barbarian_power=0
@@ -157,7 +157,7 @@
 2025={ #Neillsville
 	terrain="plains"
 	culture="hoocak"
-	religion="viking"
+	religion="lakeshore"
 	trade_goods="tobacco"
 	civilization_value=10
 	barbarian_power=0
@@ -170,7 +170,7 @@
 2026={ #Marshfield
 	terrain="plains"
 	culture="hoocak"
-	religion="viking"
+	religion="lakeshore"
 	trade_goods="horses"
 	civilization_value=10
 	barbarian_power=0
@@ -183,7 +183,7 @@
 2027={ #Medford
 	terrain="forest"
 	culture="cheesehead"
-	religion="viking"
+	religion="lakeshore"
 	trade_goods="fur"
 	civilization_value=10
 	barbarian_power=0
@@ -209,7 +209,7 @@
 2083={ #Nįoxawanį
 	terrain="hills"
 	culture="driftlander"
-	religion="viking"
+	religion="lakeshore"
 	trade_goods="beer"
 	civilization_value=10
 	barbarian_power=0
@@ -222,7 +222,7 @@
 2084={ #Sparta
 	terrain="hills"
 	culture="driftlander"
-	religion="viking"
+	religion="lakeshore"
 	trade_goods="tubers"
 	civilization_value=10
 	barbarian_power=0
@@ -235,7 +235,7 @@
 2085={ #Mondovi
 	terrain="hills"
 	culture="driftlander"
-	religion="viking"
+	religion="lakeshore"
 	trade_goods="tubers"
 	civilization_value=10
 	barbarian_power=0
@@ -365,7 +365,7 @@
 3993={ #River Falls
 	terrain="hills"
 	culture="minnesotan"
-	religion="viking"
+	religion="lakeshore"
 	trade_goods="limestone"
 	civilization_value=22
 	barbarian_power=0
@@ -392,7 +392,7 @@
 3994={ #Kaaghi Hoci
 	terrain="forest"
 	culture="cheesehead"
-	religion="viking"
+	religion="lakeshore"
 	trade_goods="horses"
 	civilization_value=8
 	barbarian_power=0
@@ -419,7 +419,7 @@
 3995={ #Barron
 	terrain="forest"
 	culture="ojibwe"
-	religion="viking"
+	religion="lakeshore"
 	trade_goods="tubers"
 	civilization_value=10
 	barbarian_power=0
@@ -432,7 +432,7 @@
 3996={ #New Richmond
 	terrain="forest"
 	culture="cheesehead"
-	religion="viking"
+	religion="lakeshore"
 	trade_goods="honey"
 	civilization_value=10
 	barbarian_power=0
@@ -484,7 +484,7 @@
 4697={ #Pasīpahkīhnen
 	terrain="plains"
 	culture="cheesehead"
-	religion="viking"
+	religion="lakeshore"
 	trade_goods="cattle"
 	civilization_value=10
 	barbarian_power=0
@@ -497,7 +497,7 @@
 4698={ #Wašjikra
 	terrain="farmland"
 	culture="cheesehead"
-	religion="viking"
+	religion="lakeshore"
 	trade_goods="earthware"
 	civilization_value=10
 	barbarian_power=0
@@ -510,7 +510,7 @@
 4699={ #Xeešuc
 	terrain="plains"
 	culture="hoocak"
-	religion="viking"
+	religion="lakeshore"
 	trade_goods="wood"
 	civilization_value=10
 	barbarian_power=0
@@ -523,7 +523,7 @@
 4700={ #Wausau
 	terrain="plains"
 	culture="cheesehead"
-	religion="viking"
+	religion="lakeshore"
 	trade_goods="woad"
 	civilization_value=10
 	barbarian_power=0
@@ -770,7 +770,7 @@
 7916={ #Merrill
 	terrain="forest"
 	culture="cheesehead"
-	religion="viking"
+	religion="lakeshore"
 	trade_goods="bodark"
 	civilization_value=10
 	barbarian_power=0
@@ -887,7 +887,7 @@
 11734={ #Reegaci Hoxawani
 	terrain="forest"
 	culture="cheesehead"
-	religion="viking"
+	religion="lakeshore"
 	trade_goods="maple"
 	civilization_value=10
 	barbarian_power=0

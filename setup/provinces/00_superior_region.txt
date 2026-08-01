@@ -454,11 +454,7 @@
 	barbarian_power=0
 	province_rank="city"
 	citizen={
-		amount=2
-	}
-	citizen={
-		religion="viking"
-		amount=1
+		amount=3
 	}
 	freemen={
 		religion="catholic"
@@ -491,11 +487,7 @@
 		amount=1
 	}
 	citizen={
-		amount=2
-	}
-	citizen={
-		religion="viking"
-		amount=1
+		amount=4
 	}
 	freemen={
 		religion="catholic"

@@ -545,7 +545,7 @@
 	}
 	citizen={
 		culture="minnesotan"
-		religion="viking"
+		religion="lakeshore"
 		amount=1
 	}
 	freemen={

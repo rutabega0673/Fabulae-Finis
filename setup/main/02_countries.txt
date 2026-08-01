@@ -1631,7 +1631,7 @@ country = {
 		ALX = { #Alexandria
 			government = tribal_kingdom
 			primary_culture = minnesotan
-			religion = viking
+			religion =lakeshore
 			capital = 8648
 			family=3
 
@@ -1684,7 +1684,7 @@ country = {
 		BRN = { #Brainerd
 			government = tribal_chiefdom
 			primary_culture = northlander
-			religion = viking
+			religion = lakeshore
 			capital = 237
 
 			technology={
@@ -1701,7 +1701,7 @@ country = {
 		MOH = { #Moorhead
 			government = tribal_chiefdom
 			primary_culture = northlander
-			religion = viking
+			religion = lakeshore
 			capital = 8374
 
 			technology={
@@ -1718,7 +1718,7 @@ country = {
 		FRG = { #Fargo
 			government = tribal_chiefdom
 			primary_culture = northlander
-			religion = viking
+			religion = lakeshore
 			capital = 1646
 
 			technology={
@@ -2179,7 +2179,7 @@ country = {
 		PTS = { #Upnorth
 			government = tribal_kingdom
 			primary_culture = upnorther
-			religion = viking
+			religion = lakeshore
 			capital = 3072
 
 			technology={
@@ -2892,7 +2892,7 @@ country = {
 		EAU = { #Eau Claire
 			government = tribal_kingdom
 			primary_culture = driftlander
-			religion = viking
+			religion = lakeshore
 			capital = 2024 
 
 			technology={
@@ -3309,7 +3309,7 @@ country = {
 		WPC = { #Waupaca
 			government = tribal_kingdom
 			primary_culture = cheesehead
-			religion = viking
+			religion = lakeshore
 			capital = 573
 
 			technology={
@@ -3343,7 +3343,7 @@ country = {
 		HCK = { #Ho-Chunk
 			government = tribal_kingdom
 			primary_culture = hoocak
-			religion = viking
+			religion = lakeshore
 			capital = 4699
 
 			technology={
@@ -3370,7 +3370,7 @@ country = {
 		WSR = { #Wisconsin Rapids
 			government = tribal_kingdom
 			primary_culture = cheesehead
-			religion = viking
+			religion = lakeshore
 			capital = 4698
 
 			technology={
@@ -3766,7 +3766,7 @@ country = {
 		DVL = { #Devil's Lake
 			government = tribal_chiefdom
 			primary_culture = dakota
-			religion = viking
+			religion = lakeshore
 			capital = 1859
 		
 			own_control_core = {

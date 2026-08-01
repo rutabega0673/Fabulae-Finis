@@ -5,7 +5,7 @@
 		family = c:ALX.fam:Hicks
 		birth_date=2292.3.26
 		culture="minnesotan"
-		religion="viking"
+		religion="lakeshore"
 		no_stats=yes
 		add_martial=5
 		add_charisma=8
@@ -30,7 +30,7 @@
 		birth_date=2293.11.5
 		female=yes
 		culture="minnesotan"
-		religion="viking"
+		religion="lakeshore"
 		marry_character=char:7
 		no_stats=yes
 		add_martial=4
@@ -44,8 +44,8 @@
 		first_name="Woodhull"
 		family = c:ALX.fam:Hicks
 		birth_date=2320.9.6
-		culture="cheesehead"
-		religion="promethean"
+		culture="minnesotan"
+		religion="lakeshore"
 		father=char:7
 		mother=char:8
 		no_stats=yes

@@ -1,7 +1,7 @@
 ﻿82={ #Danbury
 	terrain="forest"
 	culture="gothamite"
-	religion="transcendentalist"
+	religion="americanist"
 	trade_goods="honey"
 	civilization_value=22
 	barbarian_power=0
@@ -904,7 +904,7 @@
 3425={ #New Milford
 	terrain="forest"
 	culture="vermonter"
-	religion="transcendentalist"
+	religion="americanist"
 	trade_goods="grain"
 	civilization_value=22
 	barbarian_power=0
@@ -923,7 +923,7 @@
 3426={ #West Torrington
 	terrain="forest"
 	culture="vermonter"
-	religion="transcendentalist"
+	religion="americanist"
 	trade_goods="cattle"
 	civilization_value=22
 	barbarian_power=0
@@ -961,7 +961,7 @@
 3506={ #Waterbury
 	terrain="plains"
 	culture="bayfolk"
-	religion="transcendentalist"
+	religion="americanist"
 	trade_goods="wine"
 	civilization_value=22
 	barbarian_power=0
@@ -1239,7 +1239,7 @@
 4628={ #Mansfield
 	terrain="plains"
 	culture="bayfolk"
-	religion="transcendentalist"
+	religion="americanist"
 	trade_goods="tobacco"
 	civilization_value=22
 	barbarian_power=0
@@ -1315,7 +1315,7 @@
 5240={ #Bristol
 	terrain="plains"
 	culture="vermonter"
-	religion="transcendentalist"
+	religion="americanist"
 	trade_goods="cattle"
 	civilization_value=22
 	barbarian_power=0
@@ -1600,7 +1600,7 @@
 6167={ #Sparta
 	terrain="hills"
 	culture="youser"
-	religion="catholic"
+	religion="americanist"
 	trade_goods="wood"
 	civilization_value=22
 	barbarian_power=0
@@ -1619,7 +1619,7 @@
 6168={ #Dover
 	terrain="plains"
 	culture="youser"
-	religion="catholic"
+	religion="americanist"
 	trade_goods="wood"
 	civilization_value=22
 	barbarian_power=0

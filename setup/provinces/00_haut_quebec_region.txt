@@ -638,7 +638,7 @@
 7281={ #Sheen Esher Aberdeen Et Malakoff
 	terrain="forest"
 	culture="algonquin"
-	religion="viking"
+	religion="lakeshore"
 	trade_goods="vegetables"
 	civilization_value=10
 	barbarian_power=0
