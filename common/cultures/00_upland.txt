@@ -1,7 +1,7 @@
 ﻿upland = {
 	color = rgb { 50 114 50 }
 
-	levy_template = levy_central_asia
+	levy_template = levy_upland
 	
 	primary = light_infantry
 	second = heavy_cavalry
@@ -2663,6 +2663,7 @@
 	}
 	culture = {
 		appalachian = {
+			levy_template = levy_appalachian
 				male_names = {
 				Aaron Abel Abial Absalom Ace Adam Adolphus Adron Alan Aldis Alvin Am Ambrose Amos Ancil Anderson Anse Arch Arden Aris Armond Arwin Arzander Asa Asenath Ashby Aubrey Austin
 				Barnabas Bascom Bearlen Beau Beecher Beeson Belford Benjamin Benton Berkeley Berlin Bethuel Billy Blue Bo Bobby Bond Boone Booth Boward Boyd Brine Bryson Buck Bud Buddy Burdock Burnis
@@ -2716,6 +2717,7 @@
 			}
 		}
 		ozark = {
+			levy_template = levy_ozark
 			male_names = {
 				Abibo Abishai Adam Adonias Alf Allen Amon Arach Aram Arlo Arroll Art Asaph Ashford Azor
 				Backus Baptist Barret Bentley Bennett Bill Boston Brighton Bucyrus Buford Burl Burris Byron
@@ -2766,6 +2768,7 @@
 			}
 		}
 		butternutter = {
+			levy_template = levy_butternutter
 			male_names = {
 				Aaron Abraham Adam Addison Adelph Adrian Aftab Albert Alden Aldrich Alexander Alfred Allen Ambrose Andrew Anthony Arion Arthur Augustus Aurelius Austin
 				Benjamin Bernard Bootsy Byron

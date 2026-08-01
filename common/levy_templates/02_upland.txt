@@ -5,20 +5,55 @@
 #	3rd NOTE: If a specific subunit cannot be constructed for some reason another one that can from that tier will replace it ( if possible )
 #
 
-levy_louisianais = { # Cajun/Creole mixed archers and infantry with noble Mardi Gras cavalry
+levy_southern = { #General Southern
 	default = no
 
 	light_infantry = 0.3
-	horse_skirmishers = 0.2
-	archers = 0.3
-	heavy_cavalry = 0.2
+	light_cavalry = 0.15
+	archers = 0.25
+	heavy_cavalry = 0.3
 }
 
-levy_nolan = { # New Orleans spearmen with assorted skirmishers / noble cavalry
+levy_texan = { #Texan
 	default = no
 
-	spearmen = 0.3
+	light_infantry = 0.2
+	light_cavalry = 0.3
+	horse_skirmishers = 0.25
+	heavy_cavalry = 0.25
+}
+
+levy_upland = {	
+	default = no
+
+	light_infantry = 0.35
+	light_cavalry = 0.4
+	archers = 0.1
+	heavy_cavalry = 0.15
+}
+
+levy_ozark = {
+	default = no
+
+	light_infantry = 0.4
+	light_cavalry = 0.2
+	archers = 0.4
+}
+
+levy_butternutter = {
+	default = no
+
 	light_infantry = 0.3
-	horse_skirmishers = 0.1
-	heavy_cavalry = 0.3
+	archers = 0.2
+	light_cavalry = 0.2
+	heavy_infantry = 0.3
+}
+
+levy_appalachian = {
+	default = no
+
+	light_infantry = 0.4
+	archers = 0.3
+	light_cavalry = 0.2
+	heavy_infantry = 0.1
 }

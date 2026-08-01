@@ -143,7 +143,8 @@
 	
 	greek_antigonid_path_5 = {
 		modifier = { 
-			light_infantry_discipline = 0.1
+			slingers_discipline = 0.1
+			slingers_hills_combat_bonus = 0.05
 		}
 		requires = { greek_seleucid_path_1 }
 		icon = greek_antigonid_path_5
