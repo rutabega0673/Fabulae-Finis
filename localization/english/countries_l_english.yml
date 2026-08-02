@@ -249,6 +249,10 @@
  MNE_ADJ:0 "Menominee"
  HCK:0 "Ho-Chunk"
  HCK_ADJ:0 "Hoocąk"
+ MCB:0 "Macomb"
+ MCB_ADJ:0 "Macombian"
+ MNR:0 "Monroe"
+ MNR_ADJ:0 "Monroan"
 
  ## Great Plains ##
  NDK:0 "Dakhóta Wazíyata"

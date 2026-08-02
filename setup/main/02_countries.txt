@@ -301,7 +301,41 @@ country = {
 			}
 
 			own_control_core = {
-				571 6796 6797 5720 5719 5718 1258 1259 1257 6795 848 850 849 851
+				571 6797 5720 5719 1258 1259 1257 6795 848 850 849 851
+			}
+		}
+		MCB = { #Macomb
+			government = despotic_monarchy
+			primary_culture = motowner
+			religion = twelver
+			capital = 6796
+
+			technology={
+				military_tech={ level=2 progress=0 }
+				civic_tech={ level=2 progress=0 }
+				religious_tech= { level=2 progress=0  }
+				oratory_tech= { level=2 progress =0 }
+			}
+
+			own_control_core = {
+				6796
+			}
+		}
+		MNR = { #Monroe
+			government = despotic_monarchy
+			primary_culture = michiganais
+			religion = catholic
+			capital = 5718
+
+			technology={
+				military_tech={ level=2 progress=0 }
+				civic_tech={ level=2 progress=0 }
+				religious_tech= { level=2 progress=0  }
+				oratory_tech= { level=2 progress =0 }
+			}
+
+			own_control_core = {
+				5718
 			}
 		}
 		OHO = { #Greater Reserve
@@ -896,7 +930,7 @@ country = {
 
 		BTL = { #Battle Creek
 			government = titanate
-			primary_culture = michigander
+			primary_culture = potowatomi
 			religion = promethean
 			capital = 560
 			technology={

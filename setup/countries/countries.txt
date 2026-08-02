@@ -124,6 +124,8 @@ IRN = "setup/countries/midwest/ironton.txt"
 FTL = "setup/countries/midwest/fort_leonard.txt"
 MNE = "setup/countries/midwest/menominee.txt"
 HCK = "setup/countries/midwest/ho_chunk.txt"
+MCB = "setup/countries/midwest/macomb.txt"
+MNR = "setup/countries/midwest/monroe.txt"
 
 #Great Plains
 NDK = "setup/countries/great_plains/north_dakota.txt"
