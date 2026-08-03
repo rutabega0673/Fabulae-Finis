@@ -670,7 +670,7 @@ country = {
 		}
 
 		SAC = { #Second Californian Republic
-			government = military_dictatorship
+			government = aristocratic_republic
 			primary_culture = valleyan
 			religion = caesarist
 			capital = 4469
@@ -711,7 +711,7 @@ country = {
 		}
 
 		NCR = { # New California Republic
-			government = military_dictatorship
+			government = aristocratic_republic
 			primary_culture = socaleno
 			religion = caesarist
 			capital = 9127
@@ -764,7 +764,7 @@ country = {
 		SJN = { # San Joaquin
 			government = despotic_monarchy
 			primary_culture = joaquino
-			religion = catholic
+			religion = la_hermandad
 			capital = 4911
 
 			technology={
@@ -801,7 +801,7 @@ country = {
 		}
 
 		CLA = { #Californian Liberation Army
-			government = stratocratic_monarchy
+			government = military_dictatorship
 			primary_culture = joaquino
 			religion = caesarist
 			capital = 3339

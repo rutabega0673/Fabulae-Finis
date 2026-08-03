@@ -540,3 +540,26 @@
  office_elder_lakelander:0 ""
  office_apothecary_lakelander:0 ""
  office_wise_person_lakelander:0 ""
+ 
+ #Californian Monarchy Offices
+ office_foreign_minister_californian:0 "Chief Secretary"
+ office_royal_tutor_californian:0 "Resident Instructor"
+ office_marshal_californian:0 "Army Supervisor"
+ office_master_of_the_guard_californian:0 "Officer-in-Charge"
+ office_high_priest_monarchy_californian:0 "Chief Acolyte"
+ office_philosopher_californian:0 "Director of Education"
+ office_steward_californian:0 "Fiscal Comissioner"
+ office_physician_californian:0 "Holistic Physician"
+
+ #Californian Republic Offices
+ office_augur_californian:0 "Head Astrologer"
+ office_plebeian_aedile_californian:0 "Majority Leader of the Senate"
+ office_censor_californian:0 "Speaker of the House"
+ office_tribune_of_the_soldiers_californian:0 "Army Supervisor"
+ office_pontifex_californian:0 "Chief Acolyte"
+ office_republic_physician_californian:0 "Holistic Physician"
+ office_praetor_californian:0 "Chief Executive Officer"
+ office_tribune_of_the_treasury_californian:0 "Secretary of the Treasury"
+
+ #Californian Extra Loc
+ office_governor_californian:0 "Prefect"
