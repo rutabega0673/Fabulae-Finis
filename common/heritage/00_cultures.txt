@@ -714,6 +714,99 @@ hellenican_heritage = {
         primary_culture = amerikaniotis
 	}
 }
+ojibwe_heritage = {
+   	modifier = {
+        #good
+        happiness_for_same_religion_modifier = 0.03
+        archers_forest_combat_bonus = 0.10
+       #bad
+        fort_maintenance_cost = 0.15
+   }
+
+   trigger = {
+        primary_culture = ojibwe
+	}
+}
+metis_heritage = {
+   	modifier = {
+        #good
+        light_infantry_morale = 0.10
+        global_commerce_modifier = 0.05
+       #bad
+        navy_maintenance_cost = 0.10
+   }
+
+   trigger = {
+        primary_culture = metis
+	}
+}
+neomexicano_heritage = {
+   	modifier = {
+        #good
+        global_monthly_state_loyalty = 0.03
+        light_cavalry_morale = 0.10
+       #bad
+        global_commerce_modifier = -0.05
+   }
+
+   trigger = {
+        primary_culture = neomexicano
+	}
+}
+prairiedeutsch_heritage = {
+   	modifier = {
+        #good
+        global_monthly_food_modifier = 0.05
+        light_infantry_steppes_combat_bonus = 0.10
+       #bad
+        global_defensive = -0.05
+   }
+
+   trigger = {
+        primary_culture = wolgadeutsche
+	}
+}
+utahn_heritage = {
+   	modifier = {
+        #good
+        global_nobles_happyness = 0.05
+        global_pop_conversion_speed_modifier = 0.05
+       #bad
+        happiness_for_wrong_culture_modifier = -0.04
+   }
+
+   trigger = {
+        primary_culture = utahn
+	}
+}
+haida_heritage = {
+
+   	modifier = {
+        #good
+        land_morale_modifier = 0.05
+        discipline = 0.05
+
+        #bad
+        global_slaves_happyness = -0.10
+    }
+
+   trigger = {
+        primary_culture = haida
+	}
+}
+francontarien_heritage = {
+   	modifier = {
+        #good
+        global_capital_trade_routes = 1
+        forest_combat_bonus = 0.10
+      #bad
+        global_population_capacity_modifier = -0.05
+   }
+
+   trigger = {
+        primary_culture = francontarien
+	}
+}
 #Culture Group
 midwestern_heritage = {
    	modifier = {

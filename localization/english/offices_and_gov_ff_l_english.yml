@@ -107,17 +107,6 @@
  #Clairvoyant Monarchy Ruler Titles
  theocratic_monarchy_ruler_clairvoyant:0 "High Medium"
  theocratic_monarchy_ruler_female_clairvoyant:0 "High Medium"
- 
- #Clairvoyant Monarchy Offices
- office_foreign_minister_clairvoyant:0 "Foreign Minister"
- office_royal_tutor_clairvoyant:0 "Royal Tutor"
- office_marshal_clairvoyant:0 "Marshal"
- office_master_of_the_guard_clairvoyant:0 "Master of the Guard"
- office_high_priest_monarchy_clairvoyant:0 "Medium"
- office_philosopher_clairvoyant:0 "Librarian"
- office_steward_clairvoyant:0 "Steward"
- office_physician_clairvoyant:0 "Doctor"
- 
 
  ## Culture Titles and Offices
  #Maya Monarchy Ruler
@@ -516,20 +505,20 @@
  office_royal_tutor_lakelander:0 "Royal Tutor"
  office_marshal_lakelander:0 "Brigadier General"
  office_master_of_the_guard_lakelander:0 "Pinkerton"
- office_high_priest_monarchy_lakelander:0 "Court Engineer"
+ office_high_priest_monarchy_lakelander:0 "Chief Engineer"
  office_philosopher_lakelander:0 "Chief Librarian"
- office_steward_lakelander:0 "Steward"
+ office_steward_lakelander:0 "Port Authority"
  office_physician_lakelander:0 "Assistant Secretary of Labor"
 
  #Steelfolk Republic Offices
- office_augur_lakelander:0 "Court Engineer"
- office_plebeian_aedile_lakelander:0 "Union Organizer"
- office_censor_lakelander:0 "Speaker"
+ office_augur_lakelander:0 "Chief Engineer"
+ office_plebeian_aedile_lakelander:0 "Union Rep"
+ office_censor_lakelander:0 "Chairman"
  office_tribune_of_the_soldiers_lakelander:0 "Brigadier General"
  office_pontifex_lakelander:0 "Engineer"
  office_republic_physician_lakelander:0 "Assistant Secretary of Labor"
- office_praetor_lakelander:0 "Dockyard Offical"
- office_tribune_of_the_treasury_lakelander:0 "Comissioner of Revenue"
+ office_praetor_lakelander:0 "Port Authority"
+ office_tribune_of_the_treasury_lakelander:0 "Treasurer"
  
  #Steelfolk Tribal Offices
  office_bodyguard_lakelander:0 ""
@@ -561,5 +550,42 @@
  office_praetor_californian:0 "Chief Executive Officer"
  office_tribune_of_the_treasury_californian:0 "Secretary of the Treasury"
 
- #Californian Extra Loc
- office_governor_californian:0 "Prefect"
+ # Old Southern Monarchy Offices
+ office_foreign_minister_old_southern:0 "Burgess of the House"
+ office_royal_tutor_old_southern:0 "Burgess of Education"
+ office_marshal_old_southern:0 "Burgess-Marshal"
+ office_master_of_the_guard_old_southern:0 "Burgess of Defense"
+ office_high_priest_monarchy_old_southern:0 "Court Chaplain"
+ office_philosopher_old_southern:0 "Burgess-Judge"
+ office_steward_old_southern:0 "Burgess of the Treasury"
+ office_physician_old_southern:0 "Burgess of Health"
+
+ #Old Southern Republic Offices
+ office_augur_old_southern:0 "Burgess-Judge"
+ office_plebeian_aedile_old_southern:0 "Speaker of the Assembly"
+ office_censor_old_southern:0 "Burgess of the House"
+ office_tribune_of_the_soldiers_old_southern:0 "Burgess-Marshal"
+ office_pontifex_old_southern:0 "Court Chaplain"
+ office_republic_physician_old_southern:0 "Burgess of Health"
+ office_praetor_old_southern:0 "Burgess of Commerce"
+ office_tribune_of_the_treasury_old_southern:0 "Burgess of the Treasury"
+
+ #Deep Southern Monarchy Offices
+ office_foreign_minister_deep_southern:0 "Council President"
+ office_royal_tutor_deep_southern:0 "Royal Tutor"
+ office_marshal_deep_southern:0 "Head Coach"
+ office_master_of_the_guard_deep_southern:0 "Knight"
+ office_high_priest_monarchy_deep_southern:0 "Court Pastor"
+ office_philosopher_deep_southern:0 "Gentleman"
+ office_steward_deep_southern:0 "Inspector General"
+ office_physician_deep_southern:0 "Doc"
+
+ #Deep Southern Republic Offices
+ office_augur_deep_southern:0 "Head Pastor"
+ office_plebeian_aedile_deep_southern:0 "Council President"
+ office_censor_deep_southern:0 "Judge"
+ office_tribune_of_the_soldiers_deep_southern:0 "Head Coach"
+ office_pontifex_deep_southern:0 "Pastor"
+ office_republic_physician_deep_southern:0 "Doc"
+ office_praetor_deep_southern:0 "Inspector General"
+ office_tribune_of_the_treasury_deep_southern:0 "Treasurer"

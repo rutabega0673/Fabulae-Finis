@@ -1,6 +1,6 @@
 ﻿1062={ #Hagerstown
 	terrain="hills"
-	culture="yinzic"
+	culture="beltway"
 	religion="sustainablist"
 	trade_goods="cattle"
 	civilization_value=10

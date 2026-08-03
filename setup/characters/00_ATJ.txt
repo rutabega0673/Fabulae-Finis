@@ -6,16 +6,16 @@
 		family = c:ATJ.fam:Patterson-Bonaparte
 		birth_date=2299.12.2
 		culture="youser"
-		religion="bostonian"
+		religion="catholic"
 		no_stats=yes
-		add_martial=10
-		add_charisma=5
-		add_finesse=5
+		add_martial=8
+		add_charisma=9
+		add_finesse=7
 		add_zeal=8
 		no_traits=yes
 		add_trait="conqueror"
 		add_trait="ambitious"
-		add_trait="disciplined"
+		add_trait="rash"
 		add_trait="charming"
 		#add FF easter egg character/dev trait
 		add_gold=500

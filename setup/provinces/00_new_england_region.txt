@@ -1,6 +1,6 @@
 ﻿1={ #Skowhegan
 	terrain="hills"
-	culture="nouvelle_angleterrais"
+	culture="bayfolk"
 	religion="gothic"
 	trade_goods="maple"
 	civilization_value=10
@@ -13,7 +13,7 @@
 
 2={ #Dover Foxcroft
 	terrain="hills"
-	culture="nouvelle_angleterrais"
+	culture="vermonter"
 	religion="gothic"
 	trade_goods="woad"
 	civilization_value=10
@@ -221,7 +221,7 @@
 
 1407={ #Rangeley
 	terrain="hills"
-	culture="nouvelle_angleterrais"
+	culture="bayfolk"
 	religion="gothic"
 	trade_goods="fur"
 	civilization_value=10
@@ -234,7 +234,7 @@
 
 1408={ #Rumford
 	terrain="hills"
-	culture="nouvelle_angleterrais"
+	culture="bayfolk"
 	religion="gothic"
 	trade_goods="maple"
 	civilization_value=10
@@ -390,7 +390,7 @@
 
 2383={ #Campton
 	terrain="hills"
-	culture="bayfolk"
+	culture="vermonter"
 	religion="gothic"
 	trade_goods="vegetables"
 	civilization_value=10
@@ -403,7 +403,7 @@
 
 2384={ #Littleton
 	terrain="hills"
-	culture="nouvelle_angleterrais"
+	culture="vermonter"
 	religion="gothic"
 	trade_goods="wood"
 	civilization_value=10
@@ -481,7 +481,7 @@
 
 2782={ #Morristown
 	terrain="hills"
-	culture="nouvelle_angleterrais"
+	culture="vermonter"
 	religion="ursuline"
 	trade_goods="precious_metals"
 	civilization_value=10
@@ -637,7 +637,7 @@
 
 4180={ #Barre
 	terrain="forest"
-	culture="nouvelle_angleterrais"
+	culture="vermonter"
 	religion="ursuline"
 	trade_goods="maple"
 	civilization_value=10
@@ -819,7 +819,7 @@
 
 6124={ #Franklin
 	terrain="forest"
-	culture="bayfolk"
+	culture="vermonter"
 	religion="gothic"
 	trade_goods="wood"
 	civilization_value=10

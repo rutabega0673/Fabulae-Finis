@@ -86,7 +86,7 @@ country = {
 		ATJ = {
 			government = aristocratic_republic
 			primary_culture = youser
-			religion = americanist
+			religion = catholic
 			capital = 746 
 			republic_election_reforms = republican_election_4
 			family=4
@@ -109,7 +109,7 @@ country = {
 		PRN = {
 			government = aristocratic_republic
 			primary_culture = gothamite
-			religion = americanist
+			religion = catholic
 			capital = 7761
 
 			technology={
@@ -3562,7 +3562,7 @@ country = {
 		HOL = { # Holton
 			government = tribal_federation
 			primary_culture = wolastoqiyik
-			religion = bostonian
+			religion = ursuline
 			capital = 2041
 
 			technology={
@@ -3579,7 +3579,7 @@ country = {
 		PNB = { # Penobscot
 			government = tribal_federation
 			primary_culture = penobscot
-			religion = bostonian
+			religion = gothic
 			capital = 9569
 
 			technology={
@@ -3596,7 +3596,7 @@ country = {
 		PSM = { # Passamquoddy
 			government = tribal_federation
 			primary_culture = passamaquoddy
-			religion = bostonian
+			religion = gothic
 			capital = 7161
 
 			technology={

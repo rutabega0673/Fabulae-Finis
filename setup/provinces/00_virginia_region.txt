@@ -13,7 +13,7 @@
 
 1060={ #Martinsburg
 	terrain="farmland"
-	culture="appalachian"
+	culture="beltway"
 	religion="americanist"
 	trade_goods="earthware"
 	civilization_value=10
@@ -26,7 +26,7 @@
 
 1061={ #Winchester
 	terrain="mountain"
-	culture="appalachian"
+	culture="beltway"
 	religion="americanist"
 	trade_goods="hallucinogenics"
 	civilization_value=10
@@ -39,7 +39,7 @@
 
 1063={ #Augusta
 	terrain="hills"
-	culture="appalachian"
+	culture="beltway"
 	religion="americanist"
 	trade_goods="wild_game"
 	civilization_value=10
@@ -169,7 +169,7 @@
 
 1941={ #Linton Hall
 	terrain="plains"
-	culture="southron"
+	culture="beltway"
 	religion="americanist"
 	trade_goods="tobacco"
 	civilization_value=10
@@ -182,7 +182,7 @@
 
 1942={ #Warrenton
 	terrain="forest"
-	culture="southron"
+	culture="beltway"
 	religion="americanist"
 	trade_goods="wood"
 	civilization_value=10
@@ -286,7 +286,7 @@
 
 3151={ #Spotsylvania Courthouse
 	terrain="forest"
-	culture="southron"
+	culture="beltway"
 	religion="americanist"
 	trade_goods="horses"
 	civilization_value=10
@@ -559,7 +559,7 @@
 
 6952={ #Fredericksburg
 	terrain="marsh"
-	culture="southron"
+	culture="beltway"
 	religion="americanist"
 	trade_goods="marble"
 	civilization_value=10
@@ -572,7 +572,7 @@
 
 6953={ #Caroline
 	terrain="forest"
-	culture="southron"
+	culture="beltway"
 	religion="americanist"
 	trade_goods="tobacco"
 	civilization_value=10
@@ -585,7 +585,7 @@
 
 6954={ #King George
 	terrain="marsh"
-	culture="southron"
+	culture="beltway"
 	religion="americanist"
 	trade_goods="horses"
 	civilization_value=10

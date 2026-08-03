@@ -586,7 +586,7 @@
 
 2089={ #Pocomoke City
 	terrain="flood_plain"
-	culture="youser"
+	culture="beltway"
 	religion="americanist"
 	trade_goods="fish"
 	civilization_value=22
@@ -1485,7 +1485,7 @@
 
 5853={ #Cambridge
 	terrain="marsh"
-	culture="youser"
+	culture="beltway"
 	religion="americanist"
 	trade_goods="rice"
 	civilization_value=22
@@ -1504,7 +1504,7 @@
 
 5854={ #Easton
 	terrain="marsh"
-	culture="youser"
+	culture="beltway"
 	religion="americanist"
 	trade_goods="salt"
 	civilization_value=22
@@ -1523,7 +1523,7 @@
 
 5855={ #Chestertown
 	terrain="marsh"
-	culture="youser"
+	culture="beltway"
 	religion="americanist"
 	trade_goods="honey"
 	civilization_value=22
