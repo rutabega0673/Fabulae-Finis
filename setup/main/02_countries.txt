@@ -399,7 +399,7 @@ country = {
 			}
 
 			own_control_core = {
-				4206 4207 4208 3651 3650 3652 6338 2957 6430 6431 2733 9203
+				4206 4207 3651 3650 3652 6338 2957 6430 6431 2733 9203
 				6429 4000 2959 9205 9204
 
 			}
@@ -976,9 +976,9 @@ country = {
 			}
 
 			own_control_core = {
-				640 639 6649 1037 1036 3032 5111 6648 6647 638 5109 5110 
+				640 639 3032 5111 6647 638 5109 5110 
 				3031 6608 6607 6606 6108 6109 6110 8739 6111 8736 8738
-				217 218 6477 6476 219 6475 8737 7873
+				6477 6476 6475 8737 7873
 				6288
 			}
 		}
@@ -1695,7 +1695,7 @@ country = {
 			}
 
 			own_control_core = {
-				8308 8373 3937 8307 7342 3939 3938 5675 8306 7344 240 7456
+				8308 8307 7342 3939 8306 7344 240 7456
 			}
 		}
 		DUL = { #Duluth
@@ -1746,7 +1746,7 @@ country = {
 			}
 
 			own_control_core = {
-				8374 8649 1755 7343 8372
+				8374 8649 1755 7343
 			}
 		}
 		FRG = { #Fargo
@@ -1763,7 +1763,7 @@ country = {
 			}
 
 			own_control_core = {
-				1646 1644 1645 6946 6944 5676 5677 6945
+				1646 1644 1645
 			}
 		}
 		NEU = { #New Ulm
@@ -2196,18 +2196,17 @@ country = {
 			capital = 8059
 
 			own_control_core = {
-				8059 8060 9272 9273 8324 8323 772 771 3073 6289
-				9271 8849
+				8059 8060 9273 8324 8323 772 771 3073 6289
 			}
 		}
-		CPR = { #Copperland
+		CPR = { #Houghton
 			government = tribal_chiefdom
-			primary_culture = copperhead
+			primary_culture = fingelska
 			religion = lakeshore
-			capital = 2457
+			capital = 1739
 
 			own_control_core = {
-				2457 1740 2458 2456 1741 1739 
+				1739 1741 8060
 			}
 		}
 		PTS = { #Upnorth
@@ -2955,7 +2954,7 @@ country = {
 			}
 
 			own_control_core = {
-				1097 7452 1095 1098 7451 1096 3995 3994 3996
+				1097 7452 1095 1098 1096 3995 3994 3996
 			}
 		}
 		KAS = { # Kansas
@@ -3398,7 +3397,7 @@ country = {
 			capital = 6283
 
 			own_control_core = {
-				6283 6282 8851 7919 7918 7917 6281 2027 7916
+				6283 8851 7918 7917 6281 2027 7916
 			}
 		}
 		WSR = { #Wisconsin Rapids
@@ -3425,10 +3424,10 @@ country = {
 			capital = 9393
 
 			technology={
-				military_tech={ level=2 progress=0 }
-				civic_tech={ level=2 progress=0 }
-				religious_tech= { level=2 progress=0  }
-				oratory_tech= { level=2 progress =0 }
+				military_tech={ level=1 progress=0 }
+				civic_tech={ level=1 progress=0 }
+				religious_tech= { level=1 progress=0  }
+				oratory_tech= { level=1 progress =0 }
 			}
 
 			own_control_core = {
@@ -3442,10 +3441,10 @@ country = {
 			capital = 6117
 
 			technology={
-				military_tech={ level=2 progress=0 }
-				civic_tech={ level=2 progress=0 }
-				religious_tech= { level=2 progress=0  }
-				oratory_tech= { level=2 progress =0 }
+				military_tech={ level=1 progress=0 }
+				civic_tech={ level=1 progress=0 }
+				religious_tech= { level=1 progress=0  }
+				oratory_tech= { level=1 progress =0 }
 			}
 
 			own_control_core = {
@@ -3475,13 +3474,13 @@ country = {
 			}
 		}
 		BMS = { #Bismarck
-			government = tribal_kingdom
+			government = tribal_chiefdom
 			primary_culture = wolgadeutsche
 			religion = lutheran
 			capital = 5297
 
 			own_control_core = {
-				5297 5299 7681 4159 5298
+				5297 5299 7681 4159 5298 9315
 			}
 		}
 		YKN = { #Yankton
@@ -3702,7 +3701,7 @@ country = {
 
 			own_control_core = {
 				9282 1494 1497 1496 1493 9281 1495
-				2122 2121 3331 3333 3332 2120
+				2122 2121 3331 3333 3332 2120 6405
 			}
 		}
 		INT = { # Interlake
@@ -3743,7 +3742,7 @@ country = {
 			capital = 9458
 
 			own_control_core = {
-				9458 9459 9460 9461 2067 2066
+				9458 9459 9460 9461 2066 1392 1389 1390 2068
 			}
 		}
 		STP = { # Saint Pierre et Miquelon
@@ -3804,7 +3803,7 @@ country = {
 			capital = 1859
 		
 			own_control_core = {
-				1859 6947 7149 1860 1858 3516
+				1859 7149 1860 1858 3516
 			}
 		}
 		MND = { #Minot
@@ -4898,7 +4897,7 @@ country = {
 			centralization = -20
 		
 			own_control_core = {
-				8206 4531 4533 4532 2429 2428 8207 8205 2159 2158
+				8206 4531 4533 4532 2429 2428 8207 8205 2159 2158 2160
 			}
 		}
 		CHY = { #Cheyenne
@@ -5273,6 +5272,83 @@ country = {
 
 			own_control_core = {
 				7828 2475 2476 7827 7829
+			}
+		}
+		LND = { #Langdon
+			government = tribal_chiefdom
+			primary_culture = bandarikjamenn
+			religion = lakeshore
+			capital = 6947
+		
+			own_control_core = {
+				6947 6945
+			}
+		}
+		GND = { #Grand Forks
+			government = tribal_chiefdom
+			primary_culture = norskamerikanere
+			religion = lakeshore
+			capital = 6946
+		
+			own_control_core = {
+				6946 6944 5676 5677 8372
+			}
+		}
+		SVK = { #Roseau
+			government = tribal_chiefdom
+			primary_culture = svenskamerikaner
+			religion = lakeshore
+			capital = 5675
+		
+			own_control_core = {
+				5675 8373 3937 3938 6406
+			}
+		}
+		IWN = { #Ironwood
+			government = tribal_chiefdom
+			primary_culture = fingelska
+			religion = lakeshore
+			capital = 2457
+		
+			own_control_core = {
+				2457 1740 7451 7919
+			}
+		}
+		IRM = { #Iron Mountain
+			government = tribal_chiefdom
+			primary_culture = yooper
+			religion = lakeshore
+			capital = 9272
+		
+			own_control_core = {
+				9272 2458 6282 8849 9271 2456
+			}
+		}
+		WAW = { #Wawa
+			government = oligarchic_republic
+			primary_culture = ojibwe
+			religion = lakeshore
+			capital = 1037
+
+			technology={
+				military_tech={ level=1 progress=0 }
+				civic_tech={ level=1 progress=0 }
+				religious_tech= { level=1 progress=0  }
+				oratory_tech= { level=1 progress =0 }
+			}
+
+			own_control_core = {
+				1037 6649 6648 1036 1038
+			}
+		}
+		SUM = { #Suomi
+			government = tribal_chiefdom
+			primary_culture = ojibwe
+			religion = rivertracer
+			capital = 9519
+		
+			own_control_core = {
+				9519 9518 5905 2067 2065 9517
 			}
 		}
 	}

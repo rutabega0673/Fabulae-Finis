@@ -221,7 +221,7 @@
 
 1475={ #Napoleon
 	terrain="steppes"
-	culture="wolgadeutsche"
+	culture="northlander"
 	religion="peyotist"
 	trade_goods="cattle"
 	civilization_value=10
@@ -845,7 +845,7 @@
 
 6944={ #Grafton
 	terrain="steppes"
-	culture="northlander"
+	culture="norskamerikanere"
 	religion="lakeshore"
 	trade_goods="leather"
 	civilization_value=10
@@ -858,7 +858,7 @@
 
 6945={ #Park River
 	terrain="steppes"
-	culture="northlander"
+	culture="bandarikjamenn"
 	religion="lakeshore"
 	trade_goods="horses"
 	civilization_value=10
@@ -871,7 +871,7 @@
 
 6946={ #Grand Forks
 	terrain="steppes"
-	culture="northlander"
+	culture="norskamerikanere"
 	religion="lakeshore"
 	trade_goods="cattle"
 	civilization_value=10
@@ -884,7 +884,7 @@
 
 6947={ #Langdon
 	terrain="steppes"
-	culture="northlander"
+	culture="bandarikjamenn"
 	religion="lakeshore"
 	trade_goods="buffalo"
 	civilization_value=10

@@ -1,5 +1,5 @@
-﻿northwestern = {
-	color = rgb { 254 19 16 }
+﻿interior_northwestern = {
+	color = rgb { 120 18 17 }
 
 	levy_template = levy_northwestern
 	
@@ -37,20 +37,20 @@
 		Aynian.Aynian.Aynian.Aynian
 	}
 	culture = {
-		haida = {}
-		tlingit = {}
-		tsimshianic = {}
-		wakashan = {}
-		chinook = {}
-		coast_salish = {}
-		kalapuya = {}
-		#interior_salish = {}
-		#dakelh = {}
-		##ktunaxa = {}
-		#klamath = {}
-		#nez_perce = {}
-		#umatilla = {}
-		#yakama = {}
+		#haida = {}
+		#tlingit = {}
+		#tsimshianic = {}
+		#wakashan = {}
+		#chinook = {}
+		#coast_salish = {}
+		#kalapuya = {}
+		interior_salish = {}
+		dakelh = {}
+		ktunaxa = {}
+		klamath = {}
+		nez_perce = {}
+		umatilla = {}
+		yakama = {}
 	}
 	
 	barbarian_names = { 

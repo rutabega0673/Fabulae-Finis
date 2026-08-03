@@ -323,6 +323,16 @@
  YEW_ADJ:0 "Yellowstoner"
  RHH:0 "Rolling Hills"
  RHH_ADJ:0 "Crow"
+ LND:0 "Langdon"
+ LND_ADJ:0 "Langdonian"
+ GND:0 "Grand Forks"
+ GND_ADJ:0 "Norsk"
+ SVK:0 "Roseau"
+ SVK_ADJ:0 "Svensk"
+ IWN:0 "Ironwood"
+ IWN_ADJ:0 "Ironwooder"
+ IRM:0 "Iron Mountain"
+ IRM_ADJ:0 "Yooper"
 
  ## South ##
  NOL:0 "New Orleans"
@@ -627,6 +637,10 @@
  PTP_ADJ:0 "Terreneuvien"
  AVA:0 "Avalon"
  AVA_ADJ:0 "Avalonian"
+ SUM:0 "Suomi"
+ SUM_ADJ:0 "Ojibwe"
+ WAW:0 "Wawa"
+ WAW_ADJ:0 "Wawan"
 
 # West Canada #
  WNP:0 "Winnipeg"

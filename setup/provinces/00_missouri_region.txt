@@ -104,7 +104,7 @@
 
 2957={ #Farmington
 	terrain="forest"
-	culture="gatewayan"
+	culture="paw_paw"
 	religion="twainist"
 	trade_goods="wood"
 	civilization_value=20
@@ -317,7 +317,7 @@
 
 4000={ #Cape Giradeau
 	terrain="farmland"
-	culture="gatewayan"
+	culture="paw_paw"
 	religion="twainist"
 	trade_goods="tobacco"
 	civilization_value=25
@@ -482,7 +482,7 @@
 
 4208={ #Arnold
 	terrain="farmland"
-	culture="gatewayan"
+	culture="bosniak"
 	religion="promethean"
 	trade_goods="tubers"
 	civilization_value=25

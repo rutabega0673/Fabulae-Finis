@@ -188,7 +188,7 @@
  deutschamerikaner:0 "Deutschamerikaner"
  hermanndeutsch:0 "Weinstrasser" #Named after prominent Missouri wine making corridor
  texaner:0 "Freidenker" #Free-Thinker
- wolgadeutsche:0 "Bismarcker" #North Dakota Russian Germans
+ wolgadeutsche:0 "Prairiedeutsch" #North Dakota Russian Germans / Midwestern Germans, name from NENW
  wisconsindeutsch:0 "Grünbuchtlander" #Wisconsin High German
  plautdeitsch:0 "Plautsdeutsch"
  yiddish:0 "Yiddish"
@@ -350,6 +350,16 @@
  basque:0 "Basque"
  euskal:0 "Euskal"
 
+ ## Nordic ##
+ nordic:0 "Nordic"
+ bandarikjamenn:0 "Bandaríkjamenn" 
+ svenskamerikaner:0 "Svensk" 
+ norskamerikanere:0 "Norsk" 
+ fingelska:0 "Fingelska"
+
+ ## Interior Northwestern ##
+ interior_northwestern:0 "Interior Northwestern"
+
  ## NAMING ##
  yankee_malename:1 "$NAME_MALE$ $REGNALNUMBER$ $NICKNAME$ $FAMILY_MALE$"
  yankee_femalename:1 "$NAME_FEMALE$ $REGNALNUMBER$ $NICKNAME$ $FAMILY_MALE$"
@@ -441,3 +451,7 @@
  basque_femalename:1 "$NAME_FEMALE$ $REGNALNUMBER$ $NICKNAME$ $FAMILY_MALE$"
  normexa_malename:1 "$NAME_MALE$ $REGNALNUMBER$ $NICKNAME$ $FAMILY_MALE$"
  normexa_femalename:1 "$NAME_FEMALE$ $REGNALNUMBER$ $NICKNAME$ $FAMILY_MALE$"
+ nordic_malename:1 "$NAME_MALE$ $REGNALNUMBER$ $NICKNAME$ $FAMILY_MALE$"
+ nordic_femalename:1 "$NAME_FEMALE$ $REGNALNUMBER$ $NICKNAME$ $FAMILY_MALE$"
+ interior_northwestern_malename:1 "$NAME_MALE$ $REGNALNUMBER$ $NICKNAME$ $FAMILY_MALE$"
+ interior_northwestern_femalename:1 "$NAME_FEMALE$ $REGNALNUMBER$ $NICKNAME$ $FAMILY_MALE$"

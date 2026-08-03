@@ -1,7 +1,7 @@
-﻿northwestern = {
-	color = rgb { 254 19 16 }
+﻿nordic = {
+	color = rgb { 15 42 77 }
 
-	levy_template = levy_northwestern
+	levy_template = levy_thracian
 	
 	primary = light_infantry
 	second = heavy_cavalry
@@ -37,20 +37,10 @@
 		Aynian.Aynian.Aynian.Aynian
 	}
 	culture = {
-		haida = {}
-		tlingit = {}
-		tsimshianic = {}
-		wakashan = {}
-		chinook = {}
-		coast_salish = {}
-		kalapuya = {}
-		#interior_salish = {}
-		#dakelh = {}
-		##ktunaxa = {}
-		#klamath = {}
-		#nez_perce = {}
-		#umatilla = {}
-		#yakama = {}
+		bandarikjamenn = {} #Icelandic Americans
+		svenskamerikaner = {} #Swedish Americans (Rutabega larpfest)
+		norskamerikanere = {} #Norwegian Americans
+		fingelska = {} #Finnish Americans
 	}
 	
 	barbarian_names = { 

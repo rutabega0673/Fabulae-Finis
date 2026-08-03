@@ -808,7 +808,7 @@
 
 7919={ #Minocqua
 	terrain="forest"
-	culture="cheesehead"
+	culture="fingelska"
 	religion="lakeshore"
 	trade_goods="wood"
 	civilization_value=10

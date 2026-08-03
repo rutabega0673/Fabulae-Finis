@@ -1,5 +1,5 @@
 ﻿interior = {
-	color = rgb { 117 114 55 }
+	color = rgb { 98 134 138 }
 
 	levy_template = levy_cascadian
 	

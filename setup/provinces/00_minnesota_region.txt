@@ -121,7 +121,7 @@
 240={ #Walker
 	terrain="forest"
 	culture="ojibwe"
-	religion="lakeshore"
+	religion="midewiwin"
 	trade_goods="wood"
 	civilization_value=7
 	barbarian_power=0
@@ -539,8 +539,8 @@
 
 3937={ #Thorhult
 	terrain="marsh"
-	culture="ojibwe"
-	religion="midewiwin"
+	culture="svenskamerikaner"
+	religion="lakeshore"
 	trade_goods="wild_game"
 	civilization_value=4
 	barbarian_power=0
@@ -555,7 +555,7 @@
 
 3938={ #Baudette
 	terrain="forest"
-	culture="ojibwe"
+	culture="svenskamerikaner"
 	religion="lakeshore"
 	trade_goods="wood"
 	civilization_value=4
@@ -572,7 +572,7 @@
 3939={ #Littlefork
 	terrain="marsh"
 	culture="ojibwe"
-	religion="lakeshore"
+	religion="midewiwin"
 	trade_goods="amber"
 	civilization_value=4
 	barbarian_power=0
@@ -587,8 +587,8 @@
 
 5675={ #Roseau
 	terrain="forest"
-	culture="metis"
-	religion="midewiwin"
+	culture="svenskamerikaner"
+	religion="lakeshore"
 	trade_goods="fur"
 	civilization_value=4
 	barbarian_power=0
@@ -603,7 +603,7 @@
 
 5676={ #Warren
 	terrain="forest"
-	culture="metis"
+	culture="norskamerikanere"
 	religion="lakeshore"
 	trade_goods="buffalo"
 	civilization_value=3
@@ -616,7 +616,7 @@
 
 5677={ #Thief River Falls
 	terrain="forest"
-	culture="metis"
+	culture="norskamerikanere"
 	religion="lakeshore"
 	trade_goods="tubers"
 	civilization_value=3
@@ -734,7 +734,7 @@
 7342={ #Bagley
 	terrain="forest"
 	culture="ojibwe"
-	religion="lakeshore"
+	religion="midewiwin"
 	trade_goods="tubers"
 	civilization_value=7
 	barbarian_power=0
@@ -760,7 +760,7 @@
 7344={ #Bemidji
 	terrain="forest"
 	culture="northlander"
-	religion="lakeshore"
+	religion="midewiwin"
 	trade_goods="earthware"
 	civilization_value=11
 	barbarian_power=0
@@ -801,8 +801,8 @@
 
 7456={ #International Falls
 	terrain="marsh"
-	culture="ojibwe"
-	religion="lakeshore"
+	culture="copperhead"
+	religion="rivertracer"
 	trade_goods="fish"
 	civilization_value=4
 	barbarian_power=0
@@ -983,7 +983,7 @@
 8306={ #Deer River
 	terrain="marsh"
 	culture="ojibwe"
-	religion="lakeshore"
+	religion="midewiwin"
 	trade_goods="wood"
 	civilization_value=4
 	barbarian_power=0
@@ -1024,7 +1024,7 @@
 
 8372={ #Crookston
 	terrain="plains"
-	culture="northlander"
+	culture="norskamerikanere"
 	religion="lakeshore"
 	trade_goods="cloth"
 	civilization_value=4
@@ -1037,8 +1037,8 @@
 
 8373={ #Oklee
 	terrain="forest"
-	culture="ojibwe"
-	religion="midewiwin"
+	culture="svenskamerikaner"
+	religion="lakeshore"
 	trade_goods="vegetables"
 	civilization_value=7
 	barbarian_power=0

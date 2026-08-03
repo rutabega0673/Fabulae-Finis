@@ -27,7 +27,7 @@
 1389={ #Bissett
 	terrain="taiga"
 	culture="metis"
-	religion="midewiwin"
+	religion="rivertracer"
 	trade_goods="fur"
 	civilization_value=10
 	barbarian_power=0
@@ -40,7 +40,7 @@
 1391={ #Manigotagan
 	terrain="forest"
 	culture="metis"
-	religion="midewiwin"
+	religion="rivertracer"
 	trade_goods="rice"
 	civilization_value=10
 	barbarian_power=0
@@ -53,7 +53,7 @@
 1392={ #Powerview
 	terrain="forest"
 	culture="metis"
-	religion="midewiwin"
+	religion="rivertracer"
 	trade_goods="amber"
 	civilization_value=10
 	barbarian_power=0
@@ -417,7 +417,7 @@
 6405={ #Falcon Lake
 	terrain="forest"
 	culture="metis"
-	religion="midewiwin"
+	religion="rivertracer"
 	trade_goods="vegetables"
 	civilization_value=10
 	barbarian_power=0
@@ -429,8 +429,8 @@
 
 6406={ #Warroad
 	terrain="marsh"
-	culture="metis"
-	religion="midewiwin"
+	culture="svenskamerikaner"
+	religion="rivertracer"
 	trade_goods="wood"
 	civilization_value=10
 	barbarian_power=0

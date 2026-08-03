@@ -162,6 +162,11 @@ CHY = "setup/countries/great_plains/cheyenne.txt"
 BTR = "setup/countries/great_plains/beartooth.txt"
 YEW = "setup/countries/great_plains/yellowstone.txt"
 RHH = "setup/countries/great_plains/rolling_hills.txt"
+LND = "setup/countries/great_plains/langdon.txt"
+GND = "setup/countries/great_plains/grand_forks.txt"
+SVK = "setup/countries/great_plains/roseau.txt"
+IWN = "setup/countries/great_plains/ironwood.txt"
+IRM = "setup/countries/great_plains/iron_mountain.txt"
 
 
 #South
@@ -319,6 +324,8 @@ GSP = "setup/countries/east_canada/gaspesie.txt"
 STP = "setup/countries/east_canada/saint_pierre_et_miquelon.txt"
 PTP = "setup/countries/east_canada/port_au_port.txt"
 AVA = "setup/countries/east_canada/avalon.txt"
+SUM = "setup/countries/east_canada/suomi.txt"
+WAW = "setup/countries/east_canada/wawa.txt"
 
 #West Canada
 WNP = "setup/countries/west_canada/winnipeg.txt"
