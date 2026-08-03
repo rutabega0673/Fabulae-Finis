@@ -40,10 +40,13 @@
  new_federalism_desc:0 "placeholder"
  
  titanate:0 "Titanate"
- titanate_desc:0 "Ruled by the divinely ordained rulers of Promethean Society, these powerful despots claim descent from various Titans worshiped by various Industrialists. They serve as priest-kings, responsible for securing the blessings of Industry and directing the labor of their subjects towards prosperity. Balancing religious and political authority, they act as intermediaries between the mortal realm and Industry, governing society and ensuring the harmonious interplay between divine forces and mortal endeavors."
+ titanate_desc:0 "Ruled by the divinely ordained rulers of Promethean Society, these powerful despots claim descent from various Titans worshiped by various Industrialists. They serve as priest-kings, responsible for securing the blessings of Industry and directing the labor of their subjects towards prosperity. Titanates are often extremly unpopular amongst the lower classes, as their divine rulers often enact harsh labor quotas, all in the interest of Industry of course."
  titanate_ruler:0 "Titan-King"
  titanate_ruler_female:0 "Titan-Queen"
- titanate_consort:0 "Titan-Queen"
+ titanate_consort:0 "Titan-King"
+ titanate_consort_female:0 "Titan-Queen"
+ titanate_ruler_deutschamerikaner:0 "Titan-König"
+ titanate_ruler_female_deutschamerikaner:0 "Titan-Königin"
 
  military_dictatorship:0 "Military Dictatorship"
  military_dictatorship_desc:0 "The military has seized power in this state, claiming legitimacy from military might, as well as divine ordination. The General or Dictator is the supreme leader of this state, abandoning all pretenses of democratic rule in favor of an absolute one."
@@ -114,11 +117,11 @@
  stratocratic_monarchy_ruler_galvanist:0 "Tycoon"
  theocratic_monarchy_ruler_galvanist:0 "Tycoon"
 
- despotic_monarchy_ruler_romano_humanist:0 "Basileus"
- aristocratic_monarchy_ruler_romano_humanist:0 "Basileus"
- plutocratic_monarchy_ruler_romano_humanist:0 "Basileus"
- stratocratic_monarchy_ruler_romano_humanist:0 "Basileus"
- theocratic_monarchy_ruler_romano_humanist:0 "Basileus"
+ despotic_monarchy_ruler_romano_humanism:0 "Basileus"
+ aristocratic_monarchy_ruler_romano_humanism:0 "Basileus"
+ plutocratic_monarchy_ruler_romano_humanism:0 "Basileus"
+ stratocratic_monarchy_ruler_romano_humanism:0 "Basileus"
+ theocratic_monarchy_ruler_romano_humanism:0 "Basileus"
 
  plutocratic_republic_ruler_galvanist:0 "Foreman"
  democratic_republic_ruler_galvanist:0 "Foreman"
