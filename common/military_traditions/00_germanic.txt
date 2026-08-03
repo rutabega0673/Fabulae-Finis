@@ -21,6 +21,43 @@
 			}
 			country_culture_group = anishinaabe
 		}
+		trigger_else_if = {
+			limit = {
+				country_culture_group = nordic
+			}
+			custom_tooltip = {
+				text = "began_with_tradition_group"
+			}
+			country_culture_group = nordic
+		}
+		trigger_else_if = {
+			limit = { primary_culture = wisconsindeutsch }
+			custom_tooltip = {
+				text = "began_with_tradition_group"
+			}
+			primary_culture = wisconsindeutsch
+		}
+		trigger_else_if = {
+			limit = { primary_culture = hollander }
+			custom_tooltip = {
+				text = "began_with_tradition_group"
+			}
+			primary_culture = hollander
+		}
+		trigger_else_if = {
+			limit = { primary_culture = walloon }
+			custom_tooltip = {
+				text = "began_with_tradition_group"
+			}
+			primary_culture = walloon
+		}
+		trigger_else_if = {
+			limit = { primary_culture = hoocak }
+			custom_tooltip = {
+				text = "began_with_tradition_group"
+			}
+			primary_culture = hoocak
+		}
 		trigger_else = {
 			custom_tooltip = {
 				text = "tradition_unlock_requirement_cultural_decision"

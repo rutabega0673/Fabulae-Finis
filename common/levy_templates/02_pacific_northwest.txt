@@ -9,16 +9,24 @@ levy_northwestern = {
 	default = no
 
 	light_infantry = 0.25
-	archers = 0.2
-	light_cavalry = 0.2
-	spearmen = 0.35
+	archers = 0.3
+	#light_cavalry = 0.2
+	spearmen = 0.45
 }
 
-levy_cascadians = {
+levy_cascadian = { 
+	default = no
+
+	light_infantry = 0.2
+	light_cavalry = 0.2
+	spearmen = 0.4
+	heavy_infantry = 0.2
+}
+
+levy_ciscascadian = {
 	default = no
 
 	light_infantry = 0.4
-	light_cavalry = 0.2
-	axemen = 0.2
+	light_cavalry = 0.4
 	heavy_cavalry = 0.2
 }

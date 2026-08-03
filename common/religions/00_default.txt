@@ -25,7 +25,7 @@ caesarist = { # Caesarist
 	color = rgb { 4 17 50 }
 	modifier = {
 		heavy_infantry_discipline = 0.10
-		agressive_expansion_impact = -0.05
+		agressive_expansion_impact = -0.03
 		happiness_for_same_religion_modifier = -0.03
 	}
 	religion_category = pantheon
@@ -35,9 +35,9 @@ caesarist = { # Caesarist
 heartful = { # Heartful
 	color = rgb { 97 113 164 }
 	modifier = {
-		global_manpower_modifier = 0.10
-		build_time = -0.20
-		war_score_cost = 0.10
+		global_manpower_modifier = 0.05
+		build_time = -0.10
+		war_score_cost = 0.05
 	}
 	religion_category = pantheon
 	sacrifice_icon = sacrifice_penny
@@ -288,8 +288,8 @@ sunni = { # Sunni
 		
 	}
 	religion_category = pantheon
-	is_monotheistic = yes
-	sacrifice_icon = sacrifice_muslim
+	#is_monotheistic = yes
+	#sacrifice_icon = sacrifice_muslim
 	sacrifice_sound = "event:/SFX/UI/Religion/sfx_ui_religion_generic_sacrifice"
 }
 twelver = { # Twelver- Jaffari Shia
@@ -301,8 +301,8 @@ twelver = { # Twelver- Jaffari Shia
 		
 	}
 	religion_category = pantheon
-	is_monotheistic = yes
-	sacrifice_icon = sacrifice_muslim
+	#is_monotheistic = yes
+	#sacrifice_icon = sacrifice_muslim
 	sacrifice_sound = "event:/SFX/UI/Religion/sfx_ui_religion_generic_sacrifice"
 }
 ismaili = { # Ismaili- Ismaili Shia
@@ -314,8 +314,8 @@ ismaili = { # Ismaili- Ismaili Shia
 		
 	}
 	religion_category = pantheon
-	is_monotheistic = yes
-	sacrifice_icon = sacrifice_muslim
+	#is_monotheistic = yes
+	#sacrifice_icon = sacrifice_muslim
 	sacrifice_sound = "event:/SFX/UI/Religion/sfx_ui_religion_generic_sacrifice"
 }
 ahmadi = { # Ahmadi
@@ -327,8 +327,8 @@ ahmadi = { # Ahmadi
 		
 	}
 	religion_category = pantheon
-	is_monotheistic = yes
-	sacrifice_icon = sacrifice_muslim
+	#is_monotheistic = yes
+	#sacrifice_icon = sacrifice_muslim
 	sacrifice_sound = "event:/SFX/UI/Religion/sfx_ui_religion_generic_sacrifice"
 }
 ahl_al_qibla = { # Ahl al-Qibla- Nondenominational
@@ -340,8 +340,8 @@ ahl_al_qibla = { # Ahl al-Qibla- Nondenominational
 		
 	}
 	religion_category = pantheon
-	is_monotheistic = yes
-	sacrifice_icon = sacrifice_muslim
+	#is_monotheistic = yes
+	#sacrifice_icon = sacrifice_muslim
 	sacrifice_sound = "event:/SFX/UI/Religion/sfx_ui_religion_generic_sacrifice"
 }
 shriner = { # Shriner- Freemason converts to Islam

@@ -652,7 +652,7 @@ country = {
 		}
 
 		HOM = { #Houma
-			government = tribal_federation
+			government = tribal_kingdom
 			primary_culture = houma
 			religion = traiteurism
 			capital = 5506
@@ -1140,7 +1140,7 @@ country = {
 			capital = 7647
 
 			own_control_core = {
-				7647 7646 7645 7643 11941 7644 9630 9631 11940 9492 6612 
+				7647 7646 7645 7643 11941 7644 9630 11940 9492 6612 
 			}
 		}
 		TMP = { # Tampa
@@ -1763,7 +1763,7 @@ country = {
 			}
 
 			own_control_core = {
-				1646 1644 1645
+				1646 1644 1645 3514 387
 			}
 		}
 		NEU = { #New Ulm
@@ -5136,17 +5136,10 @@ country = {
 			}
 		}
 		EVL = { #Everglades
-			government = tribal_kingdom
+			government = tribal_chiefdom
 			primary_culture = miccosukee
 			religion = insular
 			capital = 3965
-
-			technology={
-				military_tech={ level=1 progress=0 }
-				civic_tech={ level=1 progress=0 }
-				religious_tech= { level=1 progress=0  }
-				oratory_tech= { level=1 progress =0 }
-			}
 
 			own_control_core = {
 				3965 11944 3966
@@ -5349,6 +5342,87 @@ country = {
 		
 			own_control_core = {
 				9519 9518 5905 2067 2065 9517
+			}
+		}
+		RRT = { #Rat Rapids
+			government = tribal_chiefdom
+			primary_culture = anisininew
+			religion = midewiwin
+			capital = 2076
+		
+			own_control_core = {
+				2076 2078 2077 2075 5904 5906
+			}
+		}
+		PLK = { #Palatka
+			government = tribal_chiefdom
+			primary_culture = sunshiner
+			religion = springsearcher
+			capital = 1190
+
+			own_control_core = {
+				1190 11932 6756 9631
+			}
+		}
+		SBR = { #Sebring
+			government = tribal_chiefdom
+			primary_culture = sofloano
+			religion = americanist
+			capital = 3967
+
+			own_control_core = {
+				3967 11942 11943 4819
+			}
+		}
+		STB = { # St. Petersburg
+			government = oligarchic_republic
+			primary_culture = sunshiner
+			religion = shriner
+			capital = 4817
+
+			technology={
+				military_tech={ level=1 progress=0 }
+				civic_tech={ level=1 progress=0 }
+				religious_tech= { level=1 progress=0  }
+				oratory_tech= { level=1 progress =0 }
+			}
+
+			own_control_core = {
+				4817
+			}
+		}
+		BSK = { #Bosniak tag
+			government = plutocratic_republic
+			primary_culture = bosniak
+			religion = sunni
+			capital = 4208
+
+			technology={
+				military_tech={ level=2 progress=0 }
+				civic_tech={ level=2 progress=0 }
+				religious_tech= { level=2 progress=0  }
+				oratory_tech= { level=2 progress =0 }
+			}
+
+			own_control_core = {
+				4208
+			}
+		}
+		BEU = { #Beaumount
+			government = tribal_kingdom
+			primary_culture = lway_viet
+			religion = traiteurism
+			capital = 7196
+
+			technology={
+				military_tech={ level=1 progress=0 }
+				civic_tech={ level=1 progress=0 }
+				religious_tech= { level=1 progress=0  }
+				oratory_tech= { level=1 progress =0 }
+			}
+
+			own_control_core = {
+				7196 7197 2411
 			}
 		}
 	}

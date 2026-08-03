@@ -84,10 +84,10 @@
 	thracian_path_10 = { #Thracian Cavalry
 		requires = { thracian_path_7 }
 		modifier = {
-			heavy_cavalry_plains_combat_bonus = 0.15
-			heavy_cavalry_farmland_combat_bonus = 0.15
-			light_cavalry_plains_combat_bonus = 0.15
-			light_cavalry_farmland_combat_bonus = 0.15
+			heavy_cavalry_dry_plains_combat_bonus = 0.15
+			heavy_cavalry_dry_hills_combat_bonus = 0.15
+			light_cavalry_dry_plains_combat_bonus = 0.15
+			light_cavalry_dry_hills_combat_bonus = 0.15
 		}
 		icon = persian_scythian_path_end_bonus
 	}

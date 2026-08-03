@@ -234,7 +234,7 @@
 
 3140={ #Port Saint Lucie
 	terrain="plains"
-	culture="amerikaniotis"
+	culture="sofloano"
 	religion="springsearcher"
 	trade_goods="sugar"
 	civilization_value=10
@@ -247,7 +247,7 @@
 
 3141={ #Sebastian
 	terrain="plains"
-	culture="amerikaniotis"
+	culture="sofloano"
 	religion="springsearcher"
 	trade_goods="fruits"
 	civilization_value=10
@@ -559,7 +559,7 @@
 
 6612={ #Saint Cloud
 	terrain="marsh"
-	culture="sunshiner"
+	culture="sofloano"
 	religion="americanist"
 	trade_goods="fruits"
 	civilization_value=10
@@ -819,7 +819,7 @@
 
 9491={ #Melbourne
 	terrain="plains"
-	culture="sunshiner"
+	culture="sofloano"
 	religion="springsearcher"
 	trade_goods="vegetables"
 	civilization_value=10
@@ -988,7 +988,7 @@
 
 11940={ #Cocoa
 	terrain="marsh"
-	culture="sunshiner"
+	culture="sofloano"
 	religion="springsearcher"
 	trade_goods="clay"
 	civilization_value=10
@@ -1053,7 +1053,7 @@
 
 11945={ #Fort Pierce
 	terrain="plains"
-	culture="amerikaniotis"
+	culture="sofloano"
 	religion="springsearcher"
 	trade_goods="salt"
 	civilization_value=10

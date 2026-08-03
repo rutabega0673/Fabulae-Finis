@@ -199,6 +199,7 @@
 		enable_tactic = triplex_acies
 		requires = { illyrian_path_8 }		
 		modifier = {
+			heavy_infantry_movement_speed = 0.05
 			global_manpower_modifier = 0.05
 		}
 		icon = latin_roman_path_3

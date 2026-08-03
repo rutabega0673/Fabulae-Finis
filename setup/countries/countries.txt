@@ -126,6 +126,7 @@ MNE = "setup/countries/midwest/menominee.txt"
 HCK = "setup/countries/midwest/ho_chunk.txt"
 MCB = "setup/countries/midwest/macomb.txt"
 MNR = "setup/countries/midwest/monroe.txt"
+BSK = "setup/countries/midwest/arnold.txt"
 
 #Great Plains
 NDK = "setup/countries/great_plains/north_dakota.txt"
@@ -237,6 +238,10 @@ JSV = "setup/countries/south/jacksonville.txt"
 FYT = "setup/countries/south/fayettville.txt"
 NZO = "setup/countries/south/north_ozarks.txt"
 FTS = "setup/countries/south/fort_smith.txt"
+PLK = "setup/countries/south/palatka.txt"
+SBR = "setup/countries/south/sebring.txt"
+STB = "setup/countries/south/st_petersburg.txt"
+BEU = "setup/countries/south/beaumont.txt"
 
 #West Coast
 SAC = "setup/countries/west_coast/sacramento.txt"
@@ -326,6 +331,7 @@ PTP = "setup/countries/east_canada/port_au_port.txt"
 AVA = "setup/countries/east_canada/avalon.txt"
 SUM = "setup/countries/east_canada/suomi.txt"
 WAW = "setup/countries/east_canada/wawa.txt"
+RRT = "setup/countries/east_canada/rat_rapids.txt"
 
 #West Canada
 WNP = "setup/countries/west_canada/winnipeg.txt"

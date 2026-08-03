@@ -5,7 +5,7 @@
 		family_name="Red-Hand"
 		birth_date=2310.9.9
 		female=yes
-		culture="gatewayan"
+		culture="svenskamerikaner"
 		religion="heartful"
 		no_stats=yes
 		add_martial=7

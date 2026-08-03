@@ -264,7 +264,7 @@
 }
 
 1739={ #Houghton
-	terrain="forest"
+	terrain="hills"
 	culture="fingelska"
 	religion="lakeshore"
 	trade_goods="iron"
@@ -277,7 +277,7 @@
 }
 
 1740={ #Ontonagon
-	terrain="forest"
+	terrain="hills"
 	culture="fingelska"
 	religion="lakeshore"
 	trade_goods="fur"
@@ -290,7 +290,7 @@
 }
 
 1741={ #Baraga
-	terrain="forest"
+	terrain="hills"
 	culture="fingelska"
 	religion="lakeshore"
 	trade_goods="fish"
@@ -420,7 +420,7 @@
 }
 
 2457={ #Ironwood
-	terrain="forest"
+	terrain="hills"
 	culture="fingelska"
 	religion="lakeshore"
 	trade_goods="rice"
@@ -433,7 +433,7 @@
 }
 
 2458={ #Phelps
-	terrain="forest"
+	terrain="hills"
 	culture="yooper"
 	religion="lakeshore"
 	trade_goods="iron"
@@ -1105,7 +1105,7 @@
 }
 
 8059={ #Marquette
-	terrain="forest"
+	terrain="hills"
 	culture="yooper"
 	religion="lakeshore"
 	trade_goods="iron"
@@ -1118,7 +1118,7 @@
 }
 
 8060={ #Ishpeming
-	terrain="forest"
+	terrain="hills"
 	culture="fingelska"
 	religion="lakeshore"
 	trade_goods="base_metals"
@@ -1222,7 +1222,7 @@
 }
 
 9272={ #Iron Mountain
-	terrain="hills"
+	terrain="mountain"
 	culture="yooper"
 	religion="lakeshore"
 	trade_goods="iron"

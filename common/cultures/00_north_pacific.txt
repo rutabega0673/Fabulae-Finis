@@ -1,5 +1,5 @@
 ﻿north_pacific = {
-	color = rgb { 29 125 136  }
+	color = rgb { 29 125 136 }
 
 	levy_template = levy_cascadian
 	

@@ -38,6 +38,34 @@
 			country_culture_group = plains
 		}
 		trigger_else_if = {
+			limit = { primary_culture = hermanndeutsch }
+			custom_tooltip = {
+				text = "began_with_tradition_group"
+			}
+			primary_culture = hermanndeutsch
+		}
+		trigger_else_if = {
+			limit = { primary_culture = wolgadeutsche }
+			custom_tooltip = {
+				text = "began_with_tradition_group"
+			}
+			primary_culture = wolgadeutsche
+		}
+		trigger_else_if = {
+			limit = { primary_culture = paw_paw }
+			custom_tooltip = {
+				text = "began_with_tradition_group"
+			}
+			primary_culture = paw_paw
+		}
+		trigger_else_if = {
+			limit = { primary_culture = bosniak }
+			custom_tooltip = {
+				text = "began_with_tradition_group"
+			}
+			primary_culture = bosniak
+		}
+		trigger_else_if = {
 			limit = {
 				has_variable = unlock_bactrian_mil_trads_var
 			}

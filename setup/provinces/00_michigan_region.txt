@@ -465,7 +465,7 @@
 
 1311={ #Mount Pleasant
 	terrain="forest"
-	culture="michigander"
+	culture="hollander"
 	religion="promethean"
 	trade_goods="beer"
 	civilization_value=23
@@ -497,7 +497,7 @@
 
 1313={ #Clare
 	terrain="plains"
-	culture="michigander"
+	culture="hollander"
 	religion="promethean"
 	trade_goods="beer"
 	civilization_value=23
@@ -577,7 +577,7 @@
 
 1566={ #Harrison
 	terrain="forest"
-	culture="michigander"
+	culture="hollander"
 	religion="promethean"
 	trade_goods="horses"
 	civilization_value=23

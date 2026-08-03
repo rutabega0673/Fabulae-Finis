@@ -458,7 +458,7 @@
 		amount=3
 	}
 	freemen={
-		culture="heartlander"
+		culture="wolgadeutsche"
 		religion="catholic"
 		amount=2
 	}

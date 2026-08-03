@@ -253,6 +253,8 @@
  MCB_ADJ:0 "Macombian"
  MNR:0 "Monroe"
  MNR_ADJ:0 "Monroan"
+ BSK:0 "Arnold"
+ BSK_ADJ:0 "Bosniak"
 
  ## Great Plains ##
  NDK:0 "Dakhóta Wazíyata"
@@ -469,6 +471,14 @@
  NZO_ADJ:0 "Batesvillean"
  FTS:0 "Fort Smith"
  FTS_ADJ:0 "Ozarkian"
+ PLK:0 "Palatka"
+ PLK_ADJ:0 "Palatkan"
+ SBR:0 "Sebring"
+ SBR_ADJ:0 "Sebringer"
+ STB:0 "St. Petersburg" 
+ STB_ADJ:0 "St. Petersburger"
+ BEU:0 "Beaumont"
+ BEU_ADJ:0 "Beaumontais"
 
  ## West Coast ##
  SAC:0 "Second Californian Republic"
@@ -641,6 +651,8 @@
  SUM_ADJ:0 "Ojibwe"
  WAW:0 "Wawa"
  WAW_ADJ:0 "Wawan"
+ RRT:0 "Rat Rapids"
+ RRT_ADJ:0 "Rapidian"
 
 # West Canada #
  WNP:0 "Winnipeg"

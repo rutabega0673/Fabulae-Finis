@@ -38,6 +38,7 @@ diplomacy = {
 	dependency = { first = STL second = PAW subject_type = tributary }
 	dependency = { first = STL second = HRM subject_type = tributary }
 	dependency = { first = STL second = HAB subject_type = tributary }
+	dependency = { first = STL second = BSK subject_type = tributary }
 
 	## Holy Texan Empire ##
 	dependency = { first = TEX second = CZH subject_type = feudatory }

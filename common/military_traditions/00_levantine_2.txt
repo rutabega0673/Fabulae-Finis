@@ -6,35 +6,21 @@
 	allow = {
 		trigger_if = {
 			limit = {
-				country_culture_group = deep_southern		
+				country_culture_group = greater_antillean	
 			}
 			custom_tooltip = {
 				text = "began_with_tradition_group"
 			}
-			country_culture_group = deep_southern
+			country_culture_group = greater_antillean
 		}
-		trigger_else_if = {
+		trigger_if = {
 			limit = {
-				country_culture_group = texian		
+				country_culture_group = lesser_antillean	
 			}
 			custom_tooltip = {
 				text = "began_with_tradition_group"
 			}
-			country_culture_group = texian
-		}
-		trigger_else_if = {
-			limit = { country_culture_group = louisianais }
-			custom_tooltip = {
-				text = "began_with_tradition_group"
-			}
-			country_culture_group = louisianais
-		}
-		trigger_else_if = {
-			limit = { country_culture_group = floridian }
-			custom_tooltip = {
-				text = "began_with_tradition_group"
-			}
-			country_culture_group = floridian
+			country_culture_group = lesser_antillean
 		}
 		trigger_else_if = {
 			limit = {
