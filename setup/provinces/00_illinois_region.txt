@@ -1,13 +1,13 @@
 ﻿320={ #Harrisburg
 	terrain="forest"
 	culture="butternutter"
-	religion="catholic"
+	religion="hearthtender"
 	trade_goods="cattle"
-	civilization_value=10
+	civilization_value=8
 	barbarian_power=0
 	province_rank="settlement"
 	tribesmen={
-		amount=1
+		amount=5
 	}
 }
 
@@ -16,11 +16,17 @@
 	culture="butternutter"
 	religion="egyptology"
 	trade_goods="clay"
-	civilization_value=10
+	civilization_value=12
 	barbarian_power=0
 	province_rank="settlement"
+	freemen={
+		amount=2
+	}
+	slaves={
+		amount=2
+	}
 	tribesmen={
-		amount=1
+		amount=5
 	}
 }
 
@@ -29,11 +35,18 @@
 	culture="butternutter"
 	religion="twainist"
 	trade_goods="grain"
-	civilization_value=10
+	civilization_value=8
 	barbarian_power=0
 	province_rank="settlement"
 	tribesmen={
+		culture="paw_paw"
+		amount=2
+	}
+	slaves={
 		amount=1
+	}
+	tribesmen={
+		amount=3
 	}
 }
 
@@ -42,11 +55,18 @@
 	culture="butternutter"
 	religion="twainist"
 	trade_goods="fish"
-	civilization_value=10
+	civilization_value=12
 	barbarian_power=0
 	province_rank="settlement"
 	tribesmen={
-		amount=1
+		culture="paw_paw"
+		amount=2
+	}
+	slaves={
+		amount=3
+	}
+	tribesmen={
+		amount=4
 	}
 }
 
@@ -55,11 +75,11 @@
 	culture="hoosier"
 	religion="promethean"
 	trade_goods="maize"
-	civilization_value=10
+	civilization_value=9
 	barbarian_power=0
 	province_rank="settlement"
 	tribesmen={
-		amount=1
+		amount=6
 	}
 }
 
@@ -68,11 +88,20 @@
 	culture="hoosier"
 	religion="promethean"
 	trade_goods="clay"
-	civilization_value=10
+	civilization_value=13
 	barbarian_power=0
 	province_rank="settlement"
-	tribesmen={
+	nobles={
 		amount=1
+	}
+	citizen={
+		amount=1
+	}
+	freemen={
+		amount=1
+	}
+	tribesmen={
+		amount=7
 	}
 }
 
@@ -81,11 +110,11 @@
 	culture="hoosier"
 	religion="promethean"
 	trade_goods="earthware"
-	civilization_value=10
+	civilization_value=9
 	barbarian_power=0
 	province_rank="settlement"
 	tribesmen={
-		amount=1
+		amount=7
 	}
 }
 
@@ -94,11 +123,11 @@
 	culture="hoosier"
 	religion="promethean"
 	trade_goods="wood"
-	civilization_value=10
+	civilization_value=9
 	barbarian_power=0
 	province_rank="settlement"
 	tribesmen={
-		amount=1
+		amount=7
 	}
 }
 
@@ -131,11 +160,14 @@
 	culture="gatewayan"
 	religion="catholic"
 	trade_goods="maize"
-	civilization_value=10
+	civilization_value=20
 	barbarian_power=0
 	province_rank="settlement"
-	tribesmen={
-		amount=1
+	freemen={
+		amount=3
+	}
+	slaves={
+		amount=4
 	}
 }
 
@@ -144,11 +176,14 @@
 	culture="gatewayan"
 	religion="catholic"
 	trade_goods="cloth"
-	civilization_value=10
+	civilization_value=20
 	barbarian_power=0
 	province_rank="settlement"
-	tribesmen={
-		amount=1
+	freemen={
+		amount=3
+	}
+	slaves={
+		amount=4
 	}
 }
 
@@ -157,11 +192,14 @@
 	culture="gatewayan"
 	religion="catholic"
 	trade_goods="wood"
-	civilization_value=10
+	civilization_value=20
 	barbarian_power=0
 	province_rank="settlement"
-	tribesmen={
-		amount=1
+	freemen={
+		amount=3
+	}
+	slaves={
+		amount=4
 	}
 }
 
@@ -170,11 +208,14 @@
 	culture="heartlander"
 	religion="catholic"
 	trade_goods="vegetables"
-	civilization_value=10
+	civilization_value=20
 	barbarian_power=0
 	province_rank="settlement"
-	tribesmen={
-		amount=1
+	freemen={
+		amount=3
+	}
+	slaves={
+		amount=4
 	}
 }
 
@@ -183,11 +224,14 @@
 	culture="heartlander"
 	religion="catholic"
 	trade_goods="maple"
-	civilization_value=10
+	civilization_value=20
 	barbarian_power=0
 	province_rank="settlement"
-	tribesmen={
-		amount=1
+	freemen={
+		amount=3
+	}
+	slaves={
+		amount=4
 	}
 }
 
@@ -196,11 +240,14 @@
 	culture="heartlander"
 	religion="catholic"
 	trade_goods="dye"
-	civilization_value=10
+	civilization_value=20
 	barbarian_power=0
 	province_rank="settlement"
-	tribesmen={
-		amount=1
+	freemen={
+		amount=3
+	}
+	slaves={
+		amount=4
 	}
 }
 
@@ -209,11 +256,14 @@
 	culture="heartlander"
 	religion="catholic"
 	trade_goods="grain"
-	civilization_value=10
+	civilization_value=20
 	barbarian_power=0
 	province_rank="settlement"
-	tribesmen={
-		amount=1
+	freemen={
+		amount=3
+	}
+	slaves={
+		amount=4
 	}
 }
 
@@ -222,63 +272,72 @@
 	culture="heartlander"
 	religion="catholic"
 	trade_goods="clay"
-	civilization_value=10
+	civilization_value=20
 	barbarian_power=0
 	province_rank="settlement"
-	tribesmen={
-		amount=1
+	freemen={
+		amount=3
+	}
+	slaves={
+		amount=4
 	}
 }
 
 4046={ #Mount Vernon
 	terrain="plains"
 	culture="hoosier"
-	religion="catholic"
+	religion="hearthtender"
 	trade_goods="wood"
-	civilization_value=10
+	civilization_value=8
 	barbarian_power=0
 	province_rank="settlement"
 	tribesmen={
-		amount=1
+		amount=5
 	}
 }
 
 4048={ #Centralia
 	terrain="farmland"
 	culture="hoosier"
-	religion="catholic"
+	religion="hearthtender"
 	trade_goods="horses"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
+	freemen={
+		amount=3
+	}
+	slaves={
+		amount=2
+	}
 	tribesmen={
-		amount=1
+		amount=6
 	}
 }
 
 4049={ #Salem
 	terrain="plains"
 	culture="hoosier"
-	religion="catholic"
+	religion="hearthtender"
 	trade_goods="grain"
-	civilization_value=10
+	civilization_value=9
 	barbarian_power=0
 	province_rank="settlement"
 	tribesmen={
-		amount=1
+		amount=5
 	}
 }
 
 4050={ #West Frankfort
 	terrain="forest"
 	culture="butternutter"
-	religion="catholic"
+	religion="hearthtender"
 	trade_goods="bodark"
-	civilization_value=10
+	civilization_value=8
 	barbarian_power=0
 	province_rank="settlement"
 	tribesmen={
-		amount=1
+		amount=4
 	}
 }
 
@@ -287,11 +346,14 @@
 	culture="hoosier"
 	religion="catholic"
 	trade_goods="beer"
-	civilization_value=10
+	civilization_value=20
 	barbarian_power=0
 	province_rank="settlement"
-	tribesmen={
-		amount=1
+	freemen={
+		amount=3
+	}
+	slaves={
+		amount=4
 	}
 }
 
@@ -300,11 +362,14 @@
 	culture="hoosier"
 	religion="catholic"
 	trade_goods="beer"
-	civilization_value=10
+	civilization_value=20
 	barbarian_power=0
 	province_rank="settlement"
-	tribesmen={
-		amount=1
+	freemen={
+		amount=3
+	}
+	slaves={
+		amount=4
 	}
 }
 
@@ -313,11 +378,14 @@
 	culture="hoosier"
 	religion="catholic"
 	trade_goods="limestone"
-	civilization_value=10
+	civilization_value=20
 	barbarian_power=0
 	province_rank="settlement"
-	tribesmen={
-		amount=1
+	freemen={
+		amount=3
+	}
+	slaves={
+		amount=4
 	}
 }
 
@@ -326,11 +394,14 @@
 	culture="hoosier"
 	religion="catholic"
 	trade_goods="gunpowder"
-	civilization_value=10
+	civilization_value=20
 	barbarian_power=0
 	province_rank="settlement"
-	tribesmen={
-		amount=1
+	freemen={
+		amount=3
+	}
+	slaves={
+		amount=4
 	}
 }
 
@@ -339,11 +410,14 @@
 	culture="heartlander"
 	religion="catholic"
 	trade_goods="grain"
-	civilization_value=10
+	civilization_value=20
 	barbarian_power=0
 	province_rank="settlement"
-	tribesmen={
-		amount=1
+	freemen={
+		amount=3
+	}
+	slaves={
+		amount=4
 	}
 }
 
@@ -352,11 +426,14 @@
 	culture="heartlander"
 	religion="catholic"
 	trade_goods="salt"
-	civilization_value=10
+	civilization_value=20
 	barbarian_power=0
 	province_rank="settlement"
-	tribesmen={
-		amount=1
+	freemen={
+		amount=3
+	}
+	slaves={
+		amount=4
 	}
 }
 
@@ -365,11 +442,14 @@
 	culture="hoosier"
 	religion="catholic"
 	trade_goods="horses"
-	civilization_value=10
+	civilization_value=20
 	barbarian_power=0
 	province_rank="settlement"
-	tribesmen={
-		amount=1
+	freemen={
+		amount=3
+	}
+	slaves={
+		amount=4
 	}
 }
 
@@ -378,50 +458,60 @@
 	culture="hoosier"
 	religion="promethean"
 	trade_goods="stone"
-	civilization_value=10
+	civilization_value=9
 	barbarian_power=0
 	province_rank="settlement"
-	tribesmen={
-		amount=1
+	freemen={
+		amount=3
+	}
+	slaves={
+		amount=4
 	}
 }
 
 5126={ #Fairfield
 	terrain="plains"
 	culture="butternutter"
-	religion="catholic"
+	religion="hearthtender"
 	trade_goods="stone"
-	civilization_value=10
+	civilization_value=12
 	barbarian_power=0
 	province_rank="settlement"
-	tribesmen={
-		amount=1
+	freemen={
+		amount=3
+	}
+	slaves={
+		amount=4
 	}
 }
 
 5127={ #Carmi
 	terrain="plains"
 	culture="butternutter"
-	religion="catholic"
+	religion="hearthtender"
 	trade_goods="cattle"
-	civilization_value=10
+	civilization_value=12
 	barbarian_power=0
 	province_rank="settlement"
 	tribesmen={
-		amount=1
+		amount=6
 	}
 }
 
 5128={ #Olney
 	terrain="plains"
 	culture="butternutter"
-	religion="catholic"
+	religion="hearthtender"
 	trade_goods="grain"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
 	tribesmen={
+		culture="paw_paw"
 		amount=1
+	}
+	tribesmen={
+		amount=6
 	}
 }
 
@@ -430,11 +520,14 @@
 	culture="heartlander"
 	religion="twainist"
 	trade_goods="horses"
-	civilization_value=10
+	civilization_value=20
 	barbarian_power=0
 	province_rank="settlement"
-	tribesmen={
-		amount=1
+	freemen={
+		amount=3
+	}
+	slaves={
+		amount=4
 	}
 }
 
@@ -597,7 +690,7 @@
 6432={ #Pinckneyville
 	terrain="plains"
 	culture="gatewayan"
-	religion="catholic"
+	religion="hearthtender"
 	trade_goods="honey"
 	civilization_value=8
 	barbarian_power=0
@@ -619,11 +712,14 @@
 	culture="gatewayan"
 	religion="catholic"
 	trade_goods="hemp"
-	civilization_value=10
+	civilization_value=20
 	barbarian_power=0
 	province_rank="settlement"
-	tribesmen={
-		amount=1
+	freemen={
+		amount=3
+	}
+	slaves={
+		amount=4
 	}
 }
 
@@ -632,11 +728,14 @@
 	culture="hoosier"
 	religion="catholic"
 	trade_goods="base_metals"
-	civilization_value=10
+	civilization_value=20
 	barbarian_power=0
 	province_rank="settlement"
-	tribesmen={
-		amount=1
+	freemen={
+		amount=3
+	}
+	slaves={
+		amount=4
 	}
 }
 
@@ -645,11 +744,14 @@
 	culture="heartlander"
 	religion="catholic"
 	trade_goods="maize"
-	civilization_value=10
+	civilization_value=20
 	barbarian_power=0
 	province_rank="settlement"
-	tribesmen={
-		amount=1
+	freemen={
+		amount=3
+	}
+	slaves={
+		amount=4
 	}
 }
 
@@ -658,11 +760,14 @@
 	culture="heartlander"
 	religion="catholic"
 	trade_goods="grain"
-	civilization_value=10
+	civilization_value=20
 	barbarian_power=0
 	province_rank="settlement"
-	tribesmen={
-		amount=1
+	freemen={
+		amount=3
+	}
+	slaves={
+		amount=4
 	}
 }
 
@@ -671,11 +776,14 @@
 	culture="heartlander"
 	religion="catholic"
 	trade_goods="maple"
-	civilization_value=10
+	civilization_value=20
 	barbarian_power=0
 	province_rank="settlement"
-	tribesmen={
-		amount=1
+	freemen={
+		amount=3
+	}
+	slaves={
+		amount=4
 	}
 }
 
@@ -684,11 +792,14 @@
 	culture="heartlander"
 	religion="twainist"
 	trade_goods="clay"
-	civilization_value=10
+	civilization_value=20
 	barbarian_power=0
 	province_rank="settlement"
-	tribesmen={
-		amount=1
+	freemen={
+		amount=3
+	}
+	slaves={
+		amount=4
 	}
 }
 
@@ -697,11 +808,14 @@
 	culture="heartlander"
 	religion="twainist"
 	trade_goods="grain"
-	civilization_value=10
+	civilization_value=20
 	barbarian_power=0
 	province_rank="settlement"
-	tribesmen={
-		amount=1
+	freemen={
+		amount=3
+	}
+	slaves={
+		amount=4
 	}
 }
 
@@ -710,11 +824,14 @@
 	culture="heartlander"
 	religion="twainist"
 	trade_goods="leather"
-	civilization_value=10
+	civilization_value=20
 	barbarian_power=0
 	province_rank="settlement"
-	tribesmen={
-		amount=1
+	freemen={
+		amount=3
+	}
+	slaves={
+		amount=4
 	}
 }
 
@@ -723,11 +840,14 @@
 	culture="hoosier"
 	religion="promethean"
 	trade_goods="horses"
-	civilization_value=10
+	civilization_value=9
 	barbarian_power=0
 	province_rank="settlement"
+	freemen={
+		amount=3
+	}
 	tribesmen={
-		amount=1
+		amount=4
 	}
 }
 
@@ -736,11 +856,14 @@
 	culture="hoosier"
 	religion="catholic"
 	trade_goods="grain"
-	civilization_value=10
+	civilization_value=20
 	barbarian_power=0
 	province_rank="settlement"
-	tribesmen={
-		amount=1
+	freemen={
+		amount=5
+	}
+	slaves={
+		amount=4
 	}
 }
 
@@ -749,11 +872,14 @@
 	culture="hoosier"
 	religion="catholic"
 	trade_goods="grain"
-	civilization_value=10
+	civilization_value=20
 	barbarian_power=0
 	province_rank="settlement"
-	tribesmen={
-		amount=1
+	freemen={
+		amount=3
+	}
+	slaves={
+		amount=4
 	}
 }
 
@@ -762,11 +888,14 @@
 	culture="hoosier"
 	religion="catholic"
 	trade_goods="fruits"
-	civilization_value=10
+	civilization_value=20
 	barbarian_power=0
 	province_rank="settlement"
-	tribesmen={
-		amount=1
+	freemen={
+		amount=3
+	}
+	slaves={
+		amount=4
 	}
 }
 
@@ -775,11 +904,14 @@
 	culture="hoosier"
 	religion="promethean"
 	trade_goods="wood"
-	civilization_value=10
+	civilization_value=7
 	barbarian_power=0
 	province_rank="settlement"
-	tribesmen={
+	slaves={
 		amount=1
+	}
+	tribesmen={
+		amount=5
 	}
 }
 
@@ -869,11 +1001,14 @@
 	culture="hoosier"
 	religion="catholic"
 	trade_goods="grain"
-	civilization_value=10
+	civilization_value=20
 	barbarian_power=0
 	province_rank="settlement"
-	tribesmen={
-		amount=1
+	freemen={
+		amount=3
+	}
+	slaves={
+		amount=4
 	}
 }
 
@@ -882,24 +1017,27 @@
 	culture="hoosier"
 	religion="promethean"
 	trade_goods="grain"
-	civilization_value=10
+	civilization_value=9
 	barbarian_power=0
 	province_rank="settlement"
 	tribesmen={
-		amount=1
+		amount=3
+	}
+	slaves={
+		amount=4
 	}
 }
 
 11649={ #Vandalia
 	terrain="plains"
 	culture="hoosier"
-	religion="catholic"
+	religion="hearthtender"
 	trade_goods="maple"
-	civilization_value=10
+	civilization_value=8
 	barbarian_power=0
 	province_rank="settlement"
 	tribesmen={
-		amount=1
+		amount=5
 	}
 }
 
@@ -908,11 +1046,11 @@
 	culture="hoosier"
 	religion="catholic"
 	trade_goods="bodark"
-	civilization_value=10
+	civilization_value=19
 	barbarian_power=0
 	province_rank="settlement"
-	tribesmen={
-		amount=1
+	freemen={
+		amount=8
 	}
 }
 

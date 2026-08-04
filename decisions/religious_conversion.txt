@@ -31,13 +31,356 @@ country_decisions = {
 					dominant_province_religion = buddhism
 				}
 			}
+		}
+	}
+
+	convert_to_americanist = {
+		
+		potential = {
+			num_of_cities >= 1
+			potential_change_religion_trigger = {
+				RELIGION = americanist
+			}
+		}
+
+		allow = {
+			could_change_religion_trigger = {
+				RELIGION = americanist
+			}
+		}
+		
+		effect = {
+			change_religion_effect = {
+				RELIGION = americanist
+			}
+		}
+		
+		ai_will_do = {
+			factor = 0
 			modifier = {
-				factor = 0
-				NOT = {
-					tag = MRY
+				add = 1
+				capital_scope = {
+					dominant_province_religion = americanist
 				}
-				NOT = {
-					tag = BAC
+			}
+		}
+	}
+
+	convert_to_catholic = {
+		
+		potential = {
+			num_of_cities >= 1
+			potential_change_religion_trigger = {
+				RELIGION = catholic
+			}
+		}
+
+		allow = {
+			could_change_religion_trigger = {
+				RELIGION = catholic
+			}
+		}
+		
+		effect = {
+			change_religion_effect = {
+				RELIGION = catholic
+			}
+		}
+		
+		ai_will_do = {
+			factor = 0
+			modifier = {
+				add = 1
+				capital_scope = {
+					dominant_province_religion = catholic
+				}
+			}
+		}
+	}
+
+	convert_to_twainist = {
+		
+		potential = {
+			num_of_cities >= 1
+			potential_change_religion_trigger = {
+				RELIGION = twainist
+			}
+		}
+
+		allow = {
+			could_change_religion_trigger = {
+				RELIGION = twainist
+			}
+		}
+		
+		effect = {
+			change_religion_effect = {
+				RELIGION = twainist
+			}
+		}
+		
+		ai_will_do = {
+			factor = 0
+			modifier = {
+				add = 1
+				capital_scope = {
+					dominant_province_religion = twainist
+				}
+			}
+		}
+	}
+
+	convert_to_lacustrine = {
+		
+		potential = {
+			num_of_cities >= 1
+			potential_change_religion_trigger = {
+				RELIGION = lakeshore
+			}
+		}
+
+		allow = {
+			could_change_religion_trigger = {
+				RELIGION = lakeshore
+			}
+		}
+		
+		effect = {
+			change_religion_effect = {
+				RELIGION = lakeshore
+			}
+		}
+		
+		ai_will_do = {
+			factor = 0
+			modifier = {
+				add = 1
+				capital_scope = {
+					dominant_province_religion = lakeshore
+				}
+			}
+		}
+	}
+
+	convert_to_promethean = {
+		
+		potential = {
+			num_of_cities >= 1
+			potential_change_religion_trigger = {
+				RELIGION = promethean
+			}
+		}
+
+		allow = {
+			could_change_religion_trigger = {
+				RELIGION = promethean
+			}
+		}
+		
+		effect = {
+			change_religion_effect = {
+				RELIGION = promethean
+			}
+		}
+		
+		ai_will_do = {
+			factor = 0
+			modifier = {
+				add = 1
+				capital_scope = {
+					dominant_province_religion = promethean
+				}
+			}
+		}
+	}
+
+	convert_to_galvanist = {
+		
+		potential = {
+			num_of_cities >= 1
+			potential_change_religion_trigger = {
+				RELIGION = galvanist
+			}
+		}
+
+		allow = {
+			could_change_religion_trigger = {
+				RELIGION = galvanist
+			}
+		}
+		
+		effect = {
+			change_religion_effect = {
+				RELIGION = galvanist
+			}
+		}
+		
+		ai_will_do = {
+			factor = 0
+			modifier = {
+				add = 1
+				capital_scope = {
+					dominant_province_religion = galvanist
+				}
+			}
+		}
+	}
+
+	convert_to_arsenalist = {
+		
+		potential = {
+			num_of_cities >= 1
+			potential_change_religion_trigger = {
+				RELIGION = arsenalist
+			}
+		}
+
+		allow = {
+			could_change_religion_trigger = {
+				RELIGION = arsenalist
+			}
+		}
+		
+		effect = {
+			change_religion_effect = {
+				RELIGION = arsenalist
+			}
+		}
+		
+		ai_will_do = {
+			factor = 0
+			modifier = {
+				add = 1
+				capital_scope = {
+					dominant_province_religion = arsenalist
+				}
+			}
+		}
+	}
+
+	convert_to_lutheran = {
+		
+		potential = {
+			num_of_cities >= 1
+			potential_change_religion_trigger = {
+				RELIGION = lutheran
+			}
+		}
+
+		allow = {
+			could_change_religion_trigger = {
+				RELIGION = lutheran
+			}
+		}
+		
+		effect = {
+			change_religion_effect = {
+				RELIGION = lutheran
+			}
+		}
+		
+		ai_will_do = {
+			factor = 0
+			modifier = {
+				add = 1
+				capital_scope = {
+					dominant_province_religion = lutheran
+				}
+			}
+		}
+	}
+
+	convert_to_revelationist = {
+		
+		potential = {
+			num_of_cities >= 1
+			potential_change_religion_trigger = {
+				RELIGION = revelationist
+			}
+		}
+
+		allow = {
+			could_change_religion_trigger = {
+				RELIGION = revelationist
+			}
+		}
+		
+		effect = {
+			change_religion_effect = {
+				RELIGION = revelationist
+			}
+		}
+		
+		ai_will_do = {
+			factor = 0
+			modifier = {
+				add = 1
+				capital_scope = {
+					dominant_province_religion = revelationist
+				}
+			}
+		}
+	}
+
+	convert_to_springsearcher = {
+		
+		potential = {
+			num_of_cities >= 1
+			potential_change_religion_trigger = {
+				RELIGION = springsearcher
+			}
+		}
+
+		allow = {
+			could_change_religion_trigger = {
+				RELIGION = springsearcher
+			}
+		}
+		
+		effect = {
+			change_religion_effect = {
+				RELIGION = springsearcher
+			}
+		}
+		
+		ai_will_do = {
+			factor = 0
+			modifier = {
+				add = 1
+				capital_scope = {
+					dominant_province_religion = springsearcher
+				}
+			}
+		}
+	}
+
+	convert_to_trailwalker = {
+		
+		potential = {
+			num_of_cities >= 1
+			potential_change_religion_trigger = {
+				RELIGION = loneranger
+			}
+		}
+
+		allow = {
+			could_change_religion_trigger = {
+				RELIGION = loneranger
+			}
+		}
+		
+		effect = {
+			change_religion_effect = {
+				RELIGION = loneranger
+			}
+		}
+		
+		ai_will_do = {
+			factor = 0
+			modifier = {
+				add = 1
+				capital_scope = {
+					dominant_province_religion = loneranger
 				}
 			}
 		}
