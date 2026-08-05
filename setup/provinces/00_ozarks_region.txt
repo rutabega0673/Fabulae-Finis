@@ -130,7 +130,7 @@
 
 1854={ #Newport
 	terrain="plains"
-	culture="ozark"
+	culture="bootheeler"
 	religion="revelationist"
 	trade_goods="rice"
 	civilization_value=10
@@ -728,7 +728,7 @@
 
 6260={ #Walnut Ridge
 	terrain="plains"
-	culture="ozark"
+	culture="bootheeler"
 	religion="revelationist"
 	trade_goods="wood"
 	civilization_value=10

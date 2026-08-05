@@ -330,10 +330,12 @@
 		amount=2
 	}
 	freemen={
+		culture="bootheeler"
 		religion="lutheran"
 		amount=3
 	}
 	freemen={
+		culture="bootheeler"
 		religion="catholic"
 		amount=3
 	}

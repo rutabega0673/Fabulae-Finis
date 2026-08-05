@@ -1659,7 +1659,7 @@
 				Xavier
 				Z_e_act_non Z_e_act_phirin Zachary Zerben
 				## FF Added ##
-				Joe Joseph Mattheaw Dennis
+				Joe Joseph Mattheaw Matthew Dennis Joseph Ward
 			}
 			female_names = {
 				Ab_e_act_lia Acadie Ad_e_act_la_i_uml_de Ad_e_grv_le Adeline Adrienne Agathe Aldegonde Alice Alida Althea Am_e_act_lie Aminthe Anastasie Ang_e_act_lique Angela Anne Anne-Louise Anne-Marie Antoinette Apolline Arabelle Armentine Arvilia Ath_e_act_na_i_uml_se Aur_e_act_lie Aurore Az_e_act_lie Az_e_act_lina Az_e_act_ma
@@ -1684,7 +1684,7 @@
 				Yvette Yvonne
 				Z_e_act_ph_e_act_rine Zelianne Zelide Zelmire Zita
 				## FF Added ##
-				Natalie
+				Natalie Kate
 			}
 			family = {
 				Ancelet
@@ -1871,6 +1871,16 @@
 				Villmer
 				Pratt
 				Stroughmatt
+				Carriere
+				Cortambert
+				Dorrance
+				Quesnel
+				Bequette
+				Bonhomme
+				Boyer
+				Themoure
+				Gasconade
+				Chopin
 			}
 		}
 		lway_viet = { #Vietnamese Louisians/Texans 

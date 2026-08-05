@@ -172,6 +172,7 @@
 	terrain="forest"
 	culture="ojibwe"
 	religion="lakeshore"
+	trade_goods=""
 	civilization_value=4
 	barbarian_power=0
 	province_rank="settlement"

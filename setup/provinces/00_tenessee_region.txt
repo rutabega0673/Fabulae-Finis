@@ -1,6 +1,6 @@
 ﻿334={ #Arlington
 	terrain="plains"
-	culture="riverlander"
+	culture="bootheeler"
 	religion="egyptology"
 	trade_goods="cotton"
 	civilization_value=10
@@ -39,7 +39,7 @@
 
 337={ #Whiteville
 	terrain="plains"
-	culture="riverlander"
+	culture="bootheeler"
 	religion="revelationist"
 	trade_goods="grain"
 	civilization_value=10
@@ -468,7 +468,7 @@
 
 6152={ #Brownsville
 	terrain="plains"
-	culture="riverlander"
+	culture="bootheeler"
 	religion="egyptology"
 	trade_goods="grain"
 	civilization_value=10
@@ -481,7 +481,7 @@
 
 6153={ #Martin
 	terrain="plains"
-	culture="riverlander"
+	culture="bootheeler"
 	religion="revelationist"
 	trade_goods="leather"
 	civilization_value=10

@@ -2523,15 +2523,8 @@ country = {
 		CNT = { #Centralia
 			government = tribal_kingdom
 			primary_culture = hoosier
-			religion = catholic
+			religion = hearthtender
 			capital = 4048
-
-			technology={
-				military_tech={ level=1 progress=0 }
-				civic_tech={ level=1 progress=0 }
-				religious_tech= { level=1 progress=0  }
-				oratory_tech= { level=1 progress =0 }
-			}
 
 			own_control_core = {
 				4048 4049 4046 6432
@@ -2542,13 +2535,6 @@ country = {
 			primary_culture = butternutter
 			religion = egyptology
 			capital = 321
-
-			technology={
-				military_tech={ level=1 progress=0 }
-				civic_tech={ level=1 progress=0 }
-				religious_tech= { level=1 progress=0  }
-				oratory_tech= { level=1 progress =0 }
-			}
 
 			own_control_core = {
 				321 323 322 4050 320 5127 5126
