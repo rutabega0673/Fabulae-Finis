@@ -3,11 +3,14 @@
 	culture="yinzic"
 	religion="promethean"
 	trade_goods="glass"
-	civilization_value=10
+	civilization_value=24
 	barbarian_power=0
 	province_rank="settlement"
-	tribesmen={
-		amount=1
+	freemen={
+		amount=4
+	}
+	slaves={
+		amount=4
 	}
 }
 
@@ -16,11 +19,14 @@
 	culture="buckeye"
 	religion="promethean"
 	trade_goods="beer"
-	civilization_value=10
+	civilization_value=24
 	barbarian_power=0
 	province_rank="settlement"
-	tribesmen={
-		amount=1
+	freemen={
+		amount=4
+	}
+	slaves={
+		amount=4
 	}
 }
 
@@ -29,11 +35,14 @@
 	culture="buckeye"
 	religion="promethean"
 	trade_goods="cattle"
-	civilization_value=10
+	civilization_value=24
 	barbarian_power=0
 	province_rank="settlement"
-	tribesmen={
-		amount=1
+	freemen={
+		amount=4
+	}
+	slaves={
+		amount=4
 	}
 }
 
@@ -42,11 +51,14 @@
 	culture="buckeye"
 	religion="promethean"
 	trade_goods="grain"
-	civilization_value=10
+	civilization_value=24
 	barbarian_power=0
 	province_rank="settlement"
-	tribesmen={
-		amount=1
+	freemen={
+		amount=4
+	}
+	slaves={
+		amount=4
 	}
 }
 
@@ -55,11 +67,14 @@
 	culture="buckeye"
 	religion="promethean"
 	trade_goods="grain"
-	civilization_value=10
+	civilization_value=24
 	barbarian_power=0
 	province_rank="settlement"
-	tribesmen={
-		amount=1
+	freemen={
+		amount=4
+	}
+	slaves={
+		amount=4
 	}
 }
 
@@ -68,11 +83,14 @@
 	culture="buckeye"
 	religion="promethean"
 	trade_goods="vegetables"
-	civilization_value=10
+	civilization_value=24
 	barbarian_power=0
 	province_rank="settlement"
-	tribesmen={
-		amount=1
+	freemen={
+		amount=4
+	}
+	slaves={
+		amount=4
 	}
 }
 
@@ -81,11 +99,14 @@
 	culture="buckeye"
 	religion="hearthtender"
 	trade_goods="glass"
-	civilization_value=10
+	civilization_value=24
 	barbarian_power=0
 	province_rank="settlement"
-	tribesmen={
-		amount=1
+	freemen={
+		amount=4
+	}
+	slaves={
+		amount=4
 	}
 }
 
@@ -94,11 +115,14 @@
 	culture="buckeye"
 	religion="catholic"
 	trade_goods="limestone"
-	civilization_value=10
+	civilization_value=24
 	barbarian_power=0
 	province_rank="settlement"
-	tribesmen={
-		amount=1
+	freemen={
+		amount=4
+	}
+	slaves={
+		amount=4
 	}
 }
 
@@ -107,11 +131,14 @@
 	culture="buckeye"
 	religion="promethean"
 	trade_goods="maize"
-	civilization_value=10
+	civilization_value=24
 	barbarian_power=0
 	province_rank="settlement"
-	tribesmen={
-		amount=1
+	freemen={
+		amount=4
+	}
+	slaves={
+		amount=4
 	}
 }
 
@@ -120,11 +147,14 @@
 	culture="buckeye"
 	religion="promethean"
 	trade_goods="honey"
-	civilization_value=10
+	civilization_value=24
 	barbarian_power=0
 	province_rank="settlement"
-	tribesmen={
-		amount=1
+	freemen={
+		amount=4
+	}
+	slaves={
+		amount=4
 	}
 }
 
@@ -133,11 +163,24 @@
 	culture="buckeye"
 	religion="promethean"
 	trade_goods="leather"
-	civilization_value=10
+	civilization_value=31
 	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=1
+	province_rank="city"
+	nobles={
+		amount=3
+	}
+	citizen={
+		amount=4
+	}
+	freemen={
+		culture="yinzic"
+		amount=2
+	}
+	freemen={
+		amount=3
+	}
+	slaves={
+		amount=6
 	}
 }
 
@@ -146,11 +189,14 @@
 	culture="buckeye"
 	religion="promethean"
 	trade_goods="maple"
-	civilization_value=10
+	civilization_value=24
 	barbarian_power=0
 	province_rank="settlement"
-	tribesmen={
-		amount=1
+	freemen={
+		amount=4
+	}
+	slaves={
+		amount=4
 	}
 }
 
@@ -159,11 +205,14 @@
 	culture="buckeye"
 	religion="promethean"
 	trade_goods="beer"
-	civilization_value=10
+	civilization_value=24
 	barbarian_power=0
 	province_rank="settlement"
-	tribesmen={
-		amount=1
+	freemen={
+		amount=4
+	}
+	slaves={
+		amount=4
 	}
 }
 
@@ -172,11 +221,14 @@
 	culture="buckeye"
 	religion="promethean"
 	trade_goods="iron"
-	civilization_value=10
+	civilization_value=24
 	barbarian_power=0
 	province_rank="settlement"
-	tribesmen={
-		amount=1
+	freemen={
+		amount=4
+	}
+	slaves={
+		amount=4
 	}
 }
 
@@ -185,11 +237,14 @@
 	culture="buckeye"
 	religion="fissionist"
 	trade_goods="earthware"
-	civilization_value=10
+	civilization_value=24
 	barbarian_power=0
 	province_rank="settlement"
-	tribesmen={
-		amount=1
+	freemen={
+		amount=4
+	}
+	slaves={
+		amount=4
 	}
 }
 
@@ -198,11 +253,14 @@
 	culture="buckeye"
 	religion="promethean"
 	trade_goods="glass"
-	civilization_value=10
+	civilization_value=24
 	barbarian_power=0
 	province_rank="settlement"
-	tribesmen={
-		amount=1
+	freemen={
+		amount=4
+	}
+	slaves={
+		amount=4
 	}
 }
 
@@ -211,11 +269,14 @@
 	culture="buckeye"
 	religion="promethean"
 	trade_goods="honey"
-	civilization_value=10
+	civilization_value=24
 	barbarian_power=0
 	province_rank="settlement"
-	tribesmen={
-		amount=1
+	freemen={
+		amount=4
+	}
+	slaves={
+		amount=4
 	}
 }
 
@@ -224,11 +285,14 @@
 	culture="buckeye"
 	religion="promethean"
 	trade_goods="fruits"
-	civilization_value=10
+	civilization_value=24
 	barbarian_power=0
 	province_rank="settlement"
-	tribesmen={
-		amount=1
+	freemen={
+		amount=4
+	}
+	slaves={
+		amount=4
 	}
 }
 
@@ -237,11 +301,14 @@
 	culture="buckeye"
 	religion="promethean"
 	trade_goods="horses"
-	civilization_value=10
+	civilization_value=24
 	barbarian_power=0
 	province_rank="settlement"
-	tribesmen={
-		amount=1
+	freemen={
+		amount=4
+	}
+	slaves={
+		amount=4
 	}
 }
 
@@ -250,11 +317,32 @@
 	culture="buckeye"
 	religion="galvanist"
 	trade_goods="iron"
-	civilization_value=10
+	civilization_value=36
 	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=1
+	province_rank="city"
+	nobles={
+		amount=5
+	}
+	citizen={
+		culture="butternutter"
+		amount=2
+	}
+	citizen={
+		amount=3
+	}
+	freemen={
+		culture="butternutter"
+		amount=2
+	}
+	freemen={
+		amount=5
+	}
+	freemen={
+		religion="catholic"
+		amount=4
+	}
+	slaves={
+		amount=4
 	}
 }
 
@@ -263,11 +351,14 @@
 	culture="buckeye"
 	religion="hearthtender"
 	trade_goods="woad"
-	civilization_value=10
+	civilization_value=24
 	barbarian_power=0
 	province_rank="settlement"
-	tribesmen={
-		amount=1
+	freemen={
+		amount=4
+	}
+	slaves={
+		amount=4
 	}
 }
 
@@ -276,11 +367,14 @@
 	culture="buckeye"
 	religion="catholic"
 	trade_goods="grain"
-	civilization_value=10
+	civilization_value=24
 	barbarian_power=0
 	province_rank="settlement"
-	tribesmen={
-		amount=1
+	freemen={
+		amount=4
+	}
+	slaves={
+		amount=4
 	}
 }
 
@@ -289,11 +383,14 @@
 	culture="buckeye"
 	religion="promethean"
 	trade_goods="vegetables"
-	civilization_value=10
+	civilization_value=24
 	barbarian_power=0
 	province_rank="settlement"
-	tribesmen={
-		amount=1
+	freemen={
+		amount=4
+	}
+	slaves={
+		amount=4
 	}
 }
 
@@ -302,11 +399,14 @@
 	culture="buckeye"
 	religion="catholic"
 	trade_goods="vegetables"
-	civilization_value=10
+	civilization_value=24
 	barbarian_power=0
 	province_rank="settlement"
-	tribesmen={
-		amount=1
+	freemen={
+		amount=4
+	}
+	slaves={
+		amount=4
 	}
 }
 
@@ -315,11 +415,14 @@
 	culture="buckeye"
 	religion="promethean"
 	trade_goods="earthware"
-	civilization_value=10
+	civilization_value=24
 	barbarian_power=0
 	province_rank="settlement"
-	tribesmen={
-		amount=1
+	freemen={
+		amount=4
+	}
+	slaves={
+		amount=4
 	}
 }
 
@@ -328,11 +431,14 @@
 	culture="buckeye"
 	religion="promethean"
 	trade_goods="fish"
-	civilization_value=10
+	civilization_value=24
 	barbarian_power=0
 	province_rank="settlement"
-	tribesmen={
-		amount=1
+	freemen={
+		amount=4
+	}
+	slaves={
+		amount=4
 	}
 }
 
@@ -341,11 +447,14 @@
 	culture="buckeye"
 	religion="promethean"
 	trade_goods="salt"
-	civilization_value=10
+	civilization_value=24
 	barbarian_power=0
 	province_rank="settlement"
-	tribesmen={
-		amount=1
+	freemen={
+		amount=4
+	}
+	slaves={
+		amount=4
 	}
 }
 
@@ -354,11 +463,14 @@
 	culture="buckeye"
 	religion="promethean"
 	trade_goods="tobacco"
-	civilization_value=10
+	civilization_value=24
 	barbarian_power=0
 	province_rank="settlement"
-	tribesmen={
-		amount=1
+	freemen={
+		amount=4
+	}
+	slaves={
+		amount=4
 	}
 }
 
@@ -367,11 +479,32 @@
 	culture="buckeye"
 	religion="promethean"
 	trade_goods="wootz_steel"
-	civilization_value=10
+	civilization_value=35
 	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=1
+	province_rank="city"
+	nobles={
+		amount=3
+	}
+	citizen={
+		culture="yinzic"
+		amount=2
+	}
+	citizen={
+		amount=3
+	}
+	freemen={
+		culture="yinzic"
+		amount=2
+	}
+	freemen={
+		amount=4
+	}
+	freemen={
+		religion="catholic"
+		amount=4
+	}
+	slaves={
+		amount=5
 	}
 }
 
@@ -380,11 +513,14 @@
 	culture="butternutter"
 	religion="hearthtender"
 	trade_goods="cattle"
-	civilization_value=10
+	civilization_value=24
 	barbarian_power=0
 	province_rank="settlement"
-	tribesmen={
-		amount=1
+	freemen={
+		amount=4
+	}
+	slaves={
+		amount=4
 	}
 }
 
@@ -393,11 +529,14 @@
 	culture="yinzic"
 	religion="hearthtender"
 	trade_goods="maple"
-	civilization_value=10
+	civilization_value=24
 	barbarian_power=0
 	province_rank="settlement"
-	tribesmen={
-		amount=1
+	freemen={
+		amount=4
+	}
+	slaves={
+		amount=4
 	}
 }
 
@@ -406,11 +545,14 @@
 	culture="yinzic"
 	religion="hearthtender"
 	trade_goods="vegetables"
-	civilization_value=10
+	civilization_value=24
 	barbarian_power=0
 	province_rank="settlement"
-	tribesmen={
-		amount=1
+	freemen={
+		amount=4
+	}
+	slaves={
+		amount=4
 	}
 }
 
@@ -419,11 +561,14 @@
 	culture="yinzic"
 	religion="hearthtender"
 	trade_goods="horses"
-	civilization_value=10
+	civilization_value=24
 	barbarian_power=0
 	province_rank="settlement"
-	tribesmen={
-		amount=1
+	freemen={
+		amount=4
+	}
+	slaves={
+		amount=4
 	}
 }
 
@@ -432,11 +577,14 @@
 	culture="yinzic"
 	religion="hearthtender"
 	trade_goods="clay"
-	civilization_value=10
+	civilization_value=24
 	barbarian_power=0
 	province_rank="settlement"
-	tribesmen={
-		amount=1
+	freemen={
+		amount=4
+	}
+	slaves={
+		amount=4
 	}
 }
 
@@ -445,11 +593,14 @@
 	culture="yinzic"
 	religion="hearthtender"
 	trade_goods="maple"
-	civilization_value=10
+	civilization_value=24
 	barbarian_power=0
 	province_rank="settlement"
-	tribesmen={
-		amount=1
+	freemen={
+		amount=4
+	}
+	slaves={
+		amount=4
 	}
 }
 
@@ -458,11 +609,14 @@
 	culture="yinzic"
 	religion="hearthtender"
 	trade_goods="bodark"
-	civilization_value=10
+	civilization_value=24
 	barbarian_power=0
 	province_rank="settlement"
-	tribesmen={
-		amount=1
+	freemen={
+		amount=4
+	}
+	slaves={
+		amount=4
 	}
 }
 
@@ -471,11 +625,14 @@
 	culture="motowner"
 	religion="promethean"
 	trade_goods="limestone"
-	civilization_value=10
+	civilization_value=24
 	barbarian_power=0
 	province_rank="settlement"
-	tribesmen={
-		amount=1
+	freemen={
+		amount=4
+	}
+	slaves={
+		amount=4
 	}
 }
 
@@ -519,11 +676,14 @@
 	culture="motowner"
 	religion="promethean"
 	trade_goods="maize"
-	civilization_value=10
+	civilization_value=24
 	barbarian_power=0
 	province_rank="settlement"
-	tribesmen={
-		amount=1
+	freemen={
+		amount=4
+	}
+	slaves={
+		amount=4
 	}
 }
 
@@ -532,11 +692,14 @@
 	culture="buckeye"
 	religion="promethean"
 	trade_goods="cattle"
-	civilization_value=10
+	civilization_value=24
 	barbarian_power=0
 	province_rank="settlement"
-	tribesmen={
-		amount=1
+	freemen={
+		amount=4
+	}
+	slaves={
+		amount=4
 	}
 }
 
@@ -545,11 +708,14 @@
 	culture="buckeye"
 	religion="galvanist"
 	trade_goods="bodark"
-	civilization_value=10
+	civilization_value=24
 	barbarian_power=0
 	province_rank="settlement"
-	tribesmen={
-		amount=1
+	freemen={
+		amount=4
+	}
+	slaves={
+		amount=4
 	}
 }
 
@@ -558,11 +724,14 @@
 	culture="buckeye"
 	religion="promethean"
 	trade_goods="fur"
-	civilization_value=10
+	civilization_value=24
 	barbarian_power=0
 	province_rank="settlement"
-	tribesmen={
-		amount=1
+	freemen={
+		amount=4
+	}
+	slaves={
+		amount=4
 	}
 }
 
@@ -571,11 +740,14 @@
 	culture="buckeye"
 	religion="promethean"
 	trade_goods="horses"
-	civilization_value=10
+	civilization_value=24
 	barbarian_power=0
 	province_rank="settlement"
-	tribesmen={
-		amount=1
+	freemen={
+		amount=4
+	}
+	slaves={
+		amount=4
 	}
 }
 
@@ -584,11 +756,14 @@
 	culture="buckeye"
 	religion="promethean"
 	trade_goods="cattle"
-	civilization_value=10
+	civilization_value=24
 	barbarian_power=0
 	province_rank="settlement"
-	tribesmen={
-		amount=1
+	freemen={
+		amount=4
+	}
+	slaves={
+		amount=4
 	}
 }
 
@@ -597,11 +772,14 @@
 	culture="buckeye"
 	religion="promethean"
 	trade_goods="maize"
-	civilization_value=10
+	civilization_value=24
 	barbarian_power=0
 	province_rank="settlement"
-	tribesmen={
-		amount=1
+	freemen={
+		amount=4
+	}
+	slaves={
+		amount=4
 	}
 }
 
@@ -610,11 +788,14 @@
 	culture="buckeye"
 	religion="promethean"
 	trade_goods="grain"
-	civilization_value=10
+	civilization_value=24
 	barbarian_power=0
 	province_rank="settlement"
-	tribesmen={
-		amount=1
+	freemen={
+		amount=4
+	}
+	slaves={
+		amount=4
 	}
 }
 
@@ -623,11 +804,14 @@
 	culture="buckeye"
 	religion="promethean"
 	trade_goods="vegetables"
-	civilization_value=10
+	civilization_value=24
 	barbarian_power=0
 	province_rank="settlement"
-	tribesmen={
-		amount=1
+	freemen={
+		amount=4
+	}
+	slaves={
+		amount=4
 	}
 }
 
@@ -636,11 +820,14 @@
 	culture="buckeye"
 	religion="promethean"
 	trade_goods="grain"
-	civilization_value=10
+	civilization_value=24
 	barbarian_power=0
 	province_rank="settlement"
-	tribesmen={
-		amount=1
+	freemen={
+		amount=4
+	}
+	slaves={
+		amount=4
 	}
 }
 
@@ -649,11 +836,14 @@
 	culture="buckeye"
 	religion="promethean"
 	trade_goods="salt"
-	civilization_value=10
+	civilization_value=24
 	barbarian_power=0
 	province_rank="settlement"
-	tribesmen={
-		amount=1
+	freemen={
+		amount=4
+	}
+	slaves={
+		amount=4
 	}
 }
 
@@ -662,11 +852,14 @@
 	culture="buckeye"
 	religion="promethean"
 	trade_goods="grain"
-	civilization_value=10
+	civilization_value=24
 	barbarian_power=0
 	province_rank="settlement"
-	tribesmen={
-		amount=1
+	freemen={
+		amount=4
+	}
+	slaves={
+		amount=4
 	}
 }
 
@@ -675,11 +868,14 @@
 	culture="buckeye"
 	religion="promethean"
 	trade_goods="beer"
-	civilization_value=10
+	civilization_value=24
 	barbarian_power=0
 	province_rank="settlement"
-	tribesmen={
-		amount=1
+	freemen={
+		amount=4
+	}
+	slaves={
+		amount=4
 	}
 }
 

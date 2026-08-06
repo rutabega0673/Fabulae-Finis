@@ -2651,23 +2651,23 @@ price_found_city_cost_modifier = {
 }
 
 latifundia_building_cost = {
-	positive = "gfx/interface/icons/_default.dds" #Unused
+	positive = "gfx/interface/icons/modifiers/build_cost.dds"
 }
 
 slave_mine_building_cost = {
-	positive = "gfx/interface/icons/_default.dds" #Unused
+	positive = "gfx/interface/icons/modifiers/build_cost.dds"
 }
 
 basic_settlement_infratructure_building_cost = {
-	positive = "gfx/interface/icons/_default.dds" #Unused
+	positive = "gfx/interface/icons/modifiers/build_cost.dds"
 }
 
 hill_fort_cost = {
-	positive = "gfx/interface/icons/_default.dds" #Unused
+	positive = "gfx/interface/icons/modifiers/build_cost.dds"
 }
 
 local_forum_building_cost = {
-	positive = "gfx/interface/icons/_default.dds" #Unused
+	positive = "gfx/interface/icons/modifiers/build_cost.dds"
 }
 
 local_monthly_food = {

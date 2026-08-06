@@ -107,11 +107,36 @@
 	culture="butternutter"
 	religion="americanist"
 	trade_goods="wootz_steel"
-	civilization_value=10
+	civilization_value=33
 	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=1
+	province_rank="city"
+	nobles={
+		amount=3
+	}
+	citizen={
+		religion="promethean"
+		amount=2
+	}
+	citizen={
+		amount=3
+	}
+	freemen={
+		religion="galvanist"
+		amount=2
+	}
+	freemen={
+		amount=4
+	}
+	freemen={
+		religion="hearthtender"
+		amount=4
+	}
+	slaves={
+		religion="hearthtender"
+		amount=3
+	}
+	slaves={
+		amount=3
 	}
 }
 
