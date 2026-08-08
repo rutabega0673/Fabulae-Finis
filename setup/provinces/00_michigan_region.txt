@@ -37,7 +37,7 @@
 560={ #Battle Creek
 	terrain="farmland"
 	culture="potowatomi"
-	religion="catholic"
+	religion="promethean"
 	trade_goods="wootz_steel"
 	civilization_value=23
 	barbarian_power=0
@@ -53,7 +53,7 @@
 561={ #Three Rivers
 	terrain="forest"
 	culture="potowatomi"
-	religion="catholic"
+	religion="promethean"
 	trade_goods="maize"
 	civilization_value=23
 	barbarian_power=0
@@ -69,7 +69,7 @@
 562={ #Bronson
 	terrain="forest"
 	culture="potowatomi"
-	religion="catholic"
+	religion="promethean"
 	trade_goods="maize"
 	civilization_value=23
 	barbarian_power=0
@@ -85,7 +85,7 @@
 563={ #Kalamazoo
 	terrain="forest"
 	culture="potowatomi"
-	religion="catholic"
+	religion="promethean"
 	trade_goods="leather"
 	civilization_value=23
 	barbarian_power=0

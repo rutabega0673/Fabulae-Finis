@@ -573,7 +573,7 @@
 5311={ #Bryan
 	terrain="plains"
 	culture="buckeye"
-	religion="catholic"
+	religion="promethean"
 	trade_goods="vegetables"
 	civilization_value=18
 	barbarian_power=0

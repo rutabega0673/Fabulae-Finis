@@ -390,7 +390,7 @@
 
 5550={ #Gimli
 	terrain="forest"
-	culture="metis"
+	culture="bandarikjamenn"
 	religion="rivertracer"
 	trade_goods="fish"
 	civilization_value=10
@@ -403,7 +403,7 @@
 
 5551={ #Lake St George
 	terrain="forest"
-	culture="metis"
+	culture="bandarikjamenn"
 	religion="rivertracer"
 	trade_goods="wood"
 	civilization_value=10

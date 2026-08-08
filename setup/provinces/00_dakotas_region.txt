@@ -159,10 +159,18 @@
 	culture="dakota"
 	religion="peyotist"
 	trade_goods="woad"
-	civilization_value=10
+	civilization_value=4
 	barbarian_power=0
 	province_rank="settlement"
+	freemen={
+		amount=1
+	}
 	tribesmen={
+		amount=3
+	}
+	slaves={
+		culture="wolgadeutsche"
+		religion="lutheran"
 		amount=1
 	}
 }
@@ -172,11 +180,19 @@
 	culture="dakota"
 	religion="peyotist"
 	trade_goods="fur"
-	civilization_value=10
+	civilization_value=4
 	barbarian_power=0
 	province_rank="settlement"
-	tribesmen={
+	freemen={
 		amount=1
+	}
+	tribesmen={
+		amount=2
+	}
+	slaves={
+		culture="wolgadeutsche"
+		religion="lutheran"
+		amount=2
 	}
 }
 
@@ -211,24 +227,32 @@
 	culture="northlander"
 	religion="lutheran"
 	trade_goods="leather"
-	civilization_value=10
+	civilization_value=3
 	barbarian_power=0
 	province_rank="settlement"
 	tribesmen={
+		culture="wolgadeutsche"
 		amount=1
+	}
+	tribesmen={
+		amount=2
 	}
 }
 
 1475={ #Napoleon
 	terrain="steppes"
 	culture="northlander"
-	religion="peyotist"
+	religion="lutheran"
 	trade_goods="cattle"
-	civilization_value=10
+	civilization_value=3
 	barbarian_power=0
 	province_rank="settlement"
 	tribesmen={
+		culture="wolgadeutsche"
 		amount=1
+	}
+	tribesmen={
+		amount=2
 	}
 }
 
@@ -237,10 +261,18 @@
 	culture="northlander"
 	religion="lakeshore"
 	trade_goods="steppe_horses"
-	civilization_value=10
+	civilization_value=7
 	barbarian_power=0
 	province_rank="settlement"
 	tribesmen={
+		amount=4
+	}
+	tribesmen={
+		culture="norskamerikanere"
+		amount=1
+	}
+	tribesmen={
+		culture="svenskamerikaner"
 		amount=1
 	}
 }
@@ -250,10 +282,18 @@
 	culture="northlander"
 	religion="lakeshore"
 	trade_goods="leather"
-	civilization_value=10
+	civilization_value=5
 	barbarian_power=0
 	province_rank="settlement"
 	tribesmen={
+		amount=4
+	}
+	tribesmen={
+		culture="norskamerikanere"
+		amount=1
+	}
+	tribesmen={
+		culture="svenskamerikaner"
 		amount=1
 	}
 }
@@ -263,10 +303,28 @@
 	culture="northlander"
 	religion="lutheran"
 	trade_goods="fur"
-	civilization_value=10
+	civilization_value=11
 	barbarian_power=0
-	province_rank="settlement"
+	province_rank="city"
+	citizen={
+		amount=1
+	}
+	freemen={
+		amount=1
+	}
 	tribesmen={
+		amount=5
+	}
+	tribesmen={
+		culture="wolgadeutsche"
+		amount=1
+	}
+	tribesmen={
+		culture="norskamerikanere"
+		amount=1
+	}
+	tribesmen={
+		culture="svenskamerikaner"
 		amount=1
 	}
 }
@@ -276,11 +334,15 @@
 	culture="dakota"
 	religion="lutheran"
 	trade_goods="grain"
-	civilization_value=10
+	civilization_value=4
 	barbarian_power=0
 	province_rank="settlement"
-	tribesmen={
+	freemen={
+		culture="wolgadeutsche"
 		amount=1
+	}
+	tribesmen={
+		amount=3
 	}
 }
 
@@ -289,10 +351,14 @@
 	culture="dakota"
 	religion="lakeshore"
 	trade_goods="fish"
-	civilization_value=10
+	civilization_value=8
 	barbarian_power=0
 	province_rank="settlement"
 	tribesmen={
+		amount=6
+	}
+	slaves={
+		culture="northlander"
 		amount=1
 	}
 }
@@ -302,11 +368,11 @@
 	culture="dakota"
 	religion="lutheran"
 	trade_goods="wild_game"
-	civilization_value=10
+	civilization_value=5
 	barbarian_power=0
 	province_rank="settlement"
 	tribesmen={
-		amount=1
+		amount=4
 	}
 }
 
@@ -341,11 +407,16 @@
 	culture="dakota"
 	religion="peyotist"
 	trade_goods="buffalo"
-	civilization_value=10
+	civilization_value=4
 	barbarian_power=0
 	province_rank="settlement"
 	tribesmen={
+		culture="wolgadeutsche"
+		religion="lutheran"
 		amount=1
+	}
+	tribesmen={
+		amount=4
 	}
 }
 
@@ -354,11 +425,24 @@
 	culture="dakota"
 	religion="peyotist"
 	trade_goods="beer"
-	civilization_value=10
+	civilization_value=8
 	barbarian_power=0
 	province_rank="settlement"
+	freemen={
+		amount=2
+	}
 	tribesmen={
+		amount=5
+	}
+	tribesmen={
+		culture="wolgadeutsche"
+		religion="lutheran"
 		amount=1
+	}
+	slaves={
+		culture="northlander"
+		religion="lakeshore"
+		amount=2
 	}
 }
 
@@ -367,11 +451,16 @@
 	culture="dakota"
 	religion="peyotist"
 	trade_goods="fur"
-	civilization_value=10
+	civilization_value=4
 	barbarian_power=0
 	province_rank="settlement"
 	tribesmen={
-		amount=1
+		culture="wolgadeutsche"
+		religion="lutheran"
+		amount=2
+	}
+	slaves={
+		amount=2
 	}
 }
 
@@ -380,11 +469,16 @@
 	culture="dakota"
 	religion="peyotist"
 	trade_goods="buffalo"
-	civilization_value=10
+	civilization_value=4
 	barbarian_power=0
 	province_rank="settlement"
 	tribesmen={
-		amount=1
+		culture="wolgadeutsche"
+		religion="lutheran"
+		amount=2
+	}
+	slaves={
+		amount=3
 	}
 }
 
@@ -536,11 +630,15 @@
 	culture="badlander"
 	religion="lutheran"
 	trade_goods="beer"
-	civilization_value=10
+	civilization_value=4
 	barbarian_power=0
 	province_rank="settlement"
 	tribesmen={
-		amount=1
+		culture="wolgadeutsche"
+		amount=2
+	}
+	slaves={
+		amount=3
 	}
 }
 
@@ -614,11 +712,32 @@
 	culture="wolgadeutsche"
 	religion="lutheran"
 	trade_goods="beer"
-	civilization_value=10
+	civilization_value=13
 	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
+	province_rank="city"
+	citizen={
 		amount=1
+	}
+	freemen={
+		culture="dakota"
+		amount=1
+	}
+	freemen={
+		culture="lakota"
+		amount=1
+	}
+	freemen={
+		amount=1
+	}
+	tribesmen={
+		culture="northlander"
+		amount=1
+	}
+	tribesmen={
+		amount=3
+	}
+	slaves={
+		amount=3
 	}
 }
 
@@ -627,11 +746,15 @@
 	culture="badlander"
 	religion="lutheran"
 	trade_goods="cattle"
-	civilization_value=10
+	civilization_value=4
 	barbarian_power=0
 	province_rank="settlement"
+	freemen={
+		culture="wolgadeutsche"
+		amount=2
+	}
 	tribesmen={
-		amount=1
+		amount=3
 	}
 }
 
@@ -640,11 +763,15 @@
 	culture="badlander"
 	religion="lutheran"
 	trade_goods="wild_game"
-	civilization_value=10
+	civilization_value=4
 	barbarian_power=0
 	province_rank="settlement"
-	tribesmen={
+	freemen={
+		culture="wolgadeutsche"
 		amount=1
+	}
+	tribesmen={
+		amount=3
 	}
 }
 
@@ -852,7 +979,14 @@
 	barbarian_power=0
 	province_rank="settlement"
 	tribesmen={
+		culture="northlander"
 		amount=1
+	}
+	slaves={
+		amount=2
+	}
+	tribesmen={
+		amount=3
 	}
 }
 
@@ -861,10 +995,14 @@
 	culture="bandarikjamenn"
 	religion="lakeshore"
 	trade_goods="horses"
-	civilization_value=10
+	civilization_value=5
 	barbarian_power=0
 	province_rank="settlement"
 	tribesmen={
+		amount=2
+	}
+	tribesmen={
+		culture="northlander"
 		amount=1
 	}
 }
@@ -874,11 +1012,19 @@
 	culture="norskamerikanere"
 	religion="lakeshore"
 	trade_goods="cattle"
-	civilization_value=10
+	civilization_value=8
 	barbarian_power=0
 	province_rank="settlement"
 	tribesmen={
+		amount=5
+	}
+	tribesmen={
+		culture="northlander"
 		amount=1
+	}
+	tribesmen={
+		culture="svenskamerikaner"
+		amount=2
 	}
 }
 
@@ -891,7 +1037,7 @@
 	barbarian_power=0
 	province_rank="settlement"
 	tribesmen={
-		amount=1
+		amount=3
 	}
 }
 
@@ -1004,24 +1150,36 @@
 	culture="lakota"
 	religion="peyotist"
 	trade_goods="maize"
-	civilization_value=10
+	civilization_value=4
 	barbarian_power=0
 	province_rank="settlement"
+	freemen={
+		culture="wolgadeutsche"
+		religion="lutheran"
+		amount=2
+	}
 	tribesmen={
-		amount=1
+		amount=2
+	}
+	slaves={
+		amount=2
 	}
 }
 
 7679={ #Wishek
 	terrain="steppes"
 	culture="wolgadeutsche"
-	religion="peyotist"
+	religion="lutheran"
 	trade_goods="steppe_horses"
-	civilization_value=10
+	civilization_value=3
 	barbarian_power=0
 	province_rank="settlement"
 	tribesmen={
+		culture="northlander"
 		amount=1
+	}
+	tribesmen={
+		amount=3
 	}
 }
 
@@ -1030,11 +1188,15 @@
 	culture="wolgadeutsche"
 	religion="peyotist"
 	trade_goods="cattle"
-	civilization_value=10
+	civilization_value=3
 	barbarian_power=0
 	province_rank="settlement"
-	tribesmen={
+	freemen={
+		culture="lakota"
 		amount=1
+	}
+	tribesmen={
+		amount=4
 	}
 }
 
@@ -1043,11 +1205,11 @@
 	culture="wolgadeutsche"
 	religion="lutheran"
 	trade_goods="leather"
-	civilization_value=10
+	civilization_value=4
 	barbarian_power=0
 	province_rank="settlement"
 	tribesmen={
-		amount=1
+		amount=5
 	}
 }
 
@@ -1186,11 +1348,19 @@
 	culture="lakota"
 	religion="peyotist"
 	trade_goods="fish"
-	civilization_value=10
+	civilization_value=4
 	barbarian_power=0
 	province_rank="settlement"
-	tribesmen={
+	freemen={
 		amount=1
+	}
+	tribesmen={
+		amount=2
+	}
+	slaves={
+		culture="wolgadeutsche"
+		religion="lutheran"
+		amount=2
 	}
 }
 
@@ -1199,11 +1369,19 @@
 	culture="lakota"
 	religion="peyotist"
 	trade_goods="buffalo"
-	civilization_value=10
+	civilization_value=4
 	barbarian_power=0
 	province_rank="settlement"
-	tribesmen={
+	freemen={
 		amount=1
+	}
+	tribesmen={
+		amount=2
+	}
+	slaves={
+		culture="wolgadeutsche"
+		religion="lutheran"
+		amount=2
 	}
 }
 
@@ -1215,8 +1393,18 @@
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
+	freemen={
+		culture="lakota"
+		religion="peyotist"
+		amount=4
+	}
+	slaves={
+		culture="lakota"
+		religion="peyotist"
+		amount=3
+	}
 	tribesmen={
-		amount=1
+		amount=4
 	}
 }
 

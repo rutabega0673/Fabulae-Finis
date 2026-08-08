@@ -1279,7 +1279,7 @@ country = {
 		HUD = { #Albany
 			government = aristocratic_monarchy
 			primary_culture = hudsonian
-			religion = bostonian
+			religion = catholic
 			capital = 6678
 
 			technology={
@@ -3438,7 +3438,7 @@ country = {
 			}
 		}
 		PLT = { # Republican
-			government = tribal_chiefdom
+			government = range_tribal_kingdom
 			primary_culture = grangelander
 			religion = loneranger
 			capital = 9139
@@ -3692,7 +3692,7 @@ country = {
 		}
 		INT = { # Interlake
 			government = tribal_chiefdom
-			primary_culture = metis
+			primary_culture = bandarikjamenn
 			religion = rivertracer
 			capital = 5550
 
@@ -4461,7 +4461,7 @@ country = {
 			}
 		}
 		YKK = { # Yakama Confederation
-			government = tribal_federation
+			government = range_tribal_kingdom
 			primary_culture = yakama
 			religion = dreamer
 			capital = 2506

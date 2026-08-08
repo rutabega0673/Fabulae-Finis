@@ -53,7 +53,7 @@
 2477={ #Chili
 	terrain="plains"
 	culture="upstater"
-	religion="clairvoyant"
+	religion="promethean"
 	trade_goods="hemp"
 	civilization_value=22
 	barbarian_power=0
@@ -69,7 +69,7 @@
 2478={ #Greece
 	terrain="plains"
 	culture="upstater"
-	religion="clairvoyant"
+	religion="promethean"
 	trade_goods="fish"
 	civilization_value=22
 	barbarian_power=0
@@ -85,7 +85,7 @@
 2479={ #Batavia
 	terrain="plains"
 	culture="upstater"
-	religion="clairvoyant"
+	religion="promethean"
 	trade_goods="maple"
 	civilization_value=22
 	barbarian_power=0
@@ -101,7 +101,7 @@
 2789={ #Alfred
 	terrain="hills"
 	culture="upstater"
-	religion="clairvoyant"
+	religion="promethean"
 	trade_goods="maple"
 	civilization_value=22
 	barbarian_power=0
@@ -117,7 +117,7 @@
 2790={ #Attica
 	terrain="plains"
 	culture="upstater"
-	religion="clairvoyant"
+	religion="promethean"
 	trade_goods="fur"
 	civilization_value=22
 	barbarian_power=0
@@ -475,7 +475,7 @@
 8590={ #Clarence
 	terrain="plains"
 	culture="upstater"
-	religion="clairvoyant"
+	religion="promethean"
 	trade_goods="fur"
 	civilization_value=22
 	barbarian_power=0
@@ -491,7 +491,7 @@
 8591={ #Lockport
 	terrain="plains"
 	culture="upstater"
-	religion="clairvoyant"
+	religion="promethean"
 	trade_goods="hemp"
 	civilization_value=22
 	barbarian_power=0
@@ -507,7 +507,7 @@
 8592={ #Buffalo
 	terrain="farmland"
 	culture="upstater"
-	religion="clairvoyant"
+	religion="promethean"
 	trade_goods="iron"
 	civilization_value=22
 	barbarian_power=0
@@ -523,7 +523,7 @@
 8593={ #Niagra Falls
 	terrain="hills"
 	culture="haudenosaunee"
-	religion="gaiwiio"
+	religion="promethean"
 	trade_goods="stone"
 	civilization_value=22
 	barbarian_power=0

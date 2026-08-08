@@ -843,19 +843,6 @@
 	}
 }
 
-7930={ #Pine Point
-	terrain="taiga"
-	culture="denesuline"
-	religion="catholic"
-	trade_goods="steppe_horses"
-	civilization_value=10
-	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=1
-	}
-}
-
 7931={ #Rocher River
 	terrain="taiga"
 	culture="denesuline"

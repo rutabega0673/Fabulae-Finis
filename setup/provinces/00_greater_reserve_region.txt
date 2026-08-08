@@ -113,7 +113,7 @@
 3348={ #Decatur
 	terrain="plains"
 	culture="buckeye"
-	religion="catholic"
+	religion="promethean"
 	trade_goods="limestone"
 	civilization_value=24
 	barbarian_power=0
@@ -365,7 +365,7 @@
 6629={ #Defiance
 	terrain="plains"
 	culture="buckeye"
-	religion="catholic"
+	religion="promethean"
 	trade_goods="grain"
 	civilization_value=24
 	barbarian_power=0
@@ -397,7 +397,7 @@
 6631={ #Van Wert
 	terrain="plains"
 	culture="buckeye"
-	religion="catholic"
+	religion="promethean"
 	trade_goods="vegetables"
 	civilization_value=24
 	barbarian_power=0

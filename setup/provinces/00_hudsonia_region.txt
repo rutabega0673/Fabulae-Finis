@@ -1283,7 +1283,7 @@
 7052={ #North Dansville
 	terrain="hills"
 	culture="upstater"
-	religion="clairvoyant"
+	religion="promethean"
 	trade_goods="maize"
 	civilization_value=18
 	barbarian_power=0
