@@ -1,0 +1,45 @@
+﻿"ALG"={
+	country="ALG"
+	12={ 
+		first_name="Invar"
+		family = c:ALG.fam:Clayton
+		birth_date=2280.1.1
+		culture="yinzic"
+		religion="promethean"
+		no_stats=yes
+		add_martial=8
+		add_charisma=9
+		add_finesse=8
+		add_zeal=4
+		no_traits=yes
+		add_trait="honest"
+		add_trait="patient"
+		add_trait="vengeful"
+		add_gold=500
+		add_popularity=55
+		c:ALG={
+			set_as_ruler=char:12
+		}
+		dna = "Vd9V3797v3ve8d7xAnACcAOoA6gDsgOyAnYCdgJxAnECdwJ3ApgCmAKYApgDrAOsAmkCaQJyAnICagJqAogCiAKDAoMCbQJtAoECgQA1ADUCbwJvApUClQKIAogCbwJvAm8CbwJoAmgCiQKJAngCeAJnAmcCZgJmApECkQKAAoABZQFlAogCiAKQApACgAKABL0EvQJoAmgBZgFmAmYCZgJ4AngCgwKDAncCdwJoAmgEswSzApUClQKRApECawJrApgCmAKHAocCkQKRAoACgAFgAWACmQKZAokCiQJ3AncCiwKLAooCigJ7AnsAqgCqANQA1AExATEC8ALwAL4AvgAIAAgBRQFFAs0CzQK8ArwDKwMrASEBIQB/AH8A6ADoAu8C7wDOAM4CkgKSAOQA5AFoAWgAgwCDAEYARgB/AH8AqQCpAHAAcABGAEYBaAFoAWwBbAFVAVUARgBGADkAOQBvAG8AqgCqAF0AXQNWA1YAxwnHAH8AfwKSApIBSAWnAMEADAUbBRs5GzkbDf0eLgAAAAAAAAAAAAAAAA=="
+	}
+	13={ 
+		first_name="Ingrid"
+		family = c:ALG.fam:Clayton
+		birth_date=2300.1.1
+		culture="yinzic"
+		religion="promethean"
+		female=yes
+		marry_character=char:12
+		no_stats=yes
+		add_martial=3
+		add_charisma=7
+		add_finesse=4
+		add_zeal=5
+		no_traits=yes
+		add_trait="stubborn"
+		add_trait="silver_tongued"
+		add_gold=200
+		add_popularity=55
+		dna = "Vd9V3797v3ve8d7xAnACcAOoA6gDsgOyAnYCdgJxAnECdwJ3ApgCmAKYApgDrAOsAmkCaQJyAnICagJqAogCiAKDAoMCbQJtAoECgQA1ADUCbwJvApUClQKIAogCbwJvAm8CbwJoAmgCiQKJAngCeAJnAmcCZgJmApECkQKAAoABZQFlAogCiAKQApACgAKABL0EvQJoAmgBZgFmAmYCZgJ4AngCgwKDAncCdwJoAmgEswSzApUClQKRApECawJrApgCmAKHAocCkQKRAoACgAFgAWACmQKZAokCiQJ3AncCiwKLAooCigJ7AnsAqgCqANQA1AExATEC8ALwAL4AvgAIAAgBRQFFAs0CzQK8ArwDKwMrASEBIQB/AH8A6ADoAu8C7wDOAM4CkgKSAOQA5AFoAWgAgwCDAEYARgB/AH8AqQCpAHAAcABGAEYBaAFoAWwBbAFVAVUARgBGADkAOQBvAG8AqgCqAF0AXQNWA1YAxwnHAH8AfwKSApIHLAWnAMEADAUbBRsFDjkbDf0eLgAAAAAAAAAAAAAAAA=="
+	}
+}

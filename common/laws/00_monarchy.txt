@@ -53,6 +53,16 @@
 		}
 		succession = old_egyptian_succession
 	}
+
+	cascadian_succession_law = {
+		allow = {
+			religion = gaian
+		}
+		modifier = {
+			
+		}
+		succession = cognatic
+	}
 }
 
 monarchy_military_reforms = {

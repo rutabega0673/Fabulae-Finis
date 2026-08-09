@@ -95,6 +95,13 @@
  league_republic_ruler_gothamite:0 "Mayor"
  league_republic_ruler_female_gothamite:0 "Mayor"
 
+ cascadian_diarchy:0 "Cascadian Diarchy"
+ cascadian_diarchy_desc:0 "A theocratical diarchy, this government is headed by the Captain, a Cascadian military and political leader, and a Dryad, a powerful religious leader. The matriarchal societies favor the rule of women, a practice seen as strange and foreign to some of their neighbors."
+ cascadian_diarchy_ruler:0 "Captain"
+ cascadian_diarchy_ruler_female:0 "Captain"
+ cascadian_diarchy_co_ruler:0 "Dryad"
+ cascadian_diarchy_co_ruler_female:0 "Dryad"
+ RULER_TERM_DESCRIPTION_MONARCHY_CORULER:0 "The August Reign of [GovernmentView.GetPlayer.GetRuler.GetPraenomen] and [GovernmentView.GetPlayer.GetCoRuler.GetPraenomen]"
 
  ## Religion Specific Office Names ##
  #Clairvoyant Monarchy Ruler Titles

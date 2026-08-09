@@ -1,0 +1,89 @@
+﻿##Agnatic Succession - Sons only can inherit 
+
+namespace = agnatic_succession_calculation
+
+agnatic_succession_calculation.1 = {
+	type = country_event
+	hidden = yes
+
+    trigger = {
+		current_ruler = {
+			exists = yes
+		}
+	}
+
+    immediate = {
+        current_ruler = {
+		    save_scope_as = the_true_ruler
+	    }
+
+        scope:the_true_ruler = {
+            family = {
+                ordered_family_member = {
+                    limit = {
+                        is_male = yes
+                        NOT = { has_character_modifier = retired_ruler }
+                        is_ruler = no
+                    }
+                    order_by = calc_agnatic_succession_svalue
+                    max = 4
+                    check_range_bounds = no
+                    
+                    ##Primary Heir
+                    if = {
+                        limit = {
+                            NOT = {
+                                exists = scope:primary_heir_temp_scope
+                            }
+                        }
+                        save_scope_as = primary_heir_temp_scope
+                        add_character_modifier = {
+                            name = primary_heir_succession_value
+                            duration = -1
+                        }
+                    }
+                    ##Secondary Heir
+                    else_if = {
+                        limit = {
+                            NOT = {
+                                exists = scope:secondary_heir_temp_scope
+                            }
+                        }
+                        save_scope_as = secondary_heir_temp_scope
+                        add_character_modifier = {
+                            name = pretender_succession_value_1
+                            duration = -1
+                        }
+                    }
+                    ##Tertiary Heir
+                    else_if = {
+                        limit = {
+                            NOT = {
+                                exists = scope:tertiary_heir_temp_scope
+                            }
+                        }
+                        save_scope_as = tertiary_heir_temp_scope
+                        add_character_modifier = {
+                            name = pretender_succession_value_2
+                            duration = -1
+                        }
+                    }
+                    ##Last Heir
+                    else = {
+                        add_character_modifier = {
+                            name = pretender_succession_value_3
+                            duration = -1
+                        }
+                    }
+                }
+
+                clear_saved_scope = primary_heir_temp_scope
+                clear_saved_scope = secondary_heir_temp_scope
+                clear_saved_scope = tertiary_heir_temp_scope
+            }
+        }
+
+        ## END OF CALCULATIONS - Tell game to update succession
+        recalc_succession = yes        
+    }
+}
