@@ -1,6 +1,6 @@
 ﻿deity_twain = {
 	trigger = {
-		polytheistic_check_religion_trigger = yes
+		
 		OR = {
 			common_deity_trigger = {
 				RELIGION = twainist
@@ -25,7 +25,7 @@
 }
 deity_muir = {
 	trigger = {
-		polytheistic_check_religion_trigger = yes
+		
 		OR = {
 			common_deity_trigger = {
 				RELIGION = twainist
@@ -50,7 +50,7 @@ deity_muir = {
 }
 deity_columbia = {
 	trigger = {
-		polytheistic_check_religion_trigger = yes
+		
 		OR = {
 			common_deity_trigger = {
 				RELIGION = twainist
@@ -78,7 +78,7 @@ deity_columbia = {
 }
 deity_mississippi = {
 	trigger = {
-		polytheistic_check_religion_trigger = yes
+		
 		OR = {
 			common_deity_trigger = {
 				RELIGION = twainist
@@ -106,7 +106,7 @@ deity_mississippi = {
 }
 deity_whitman = {
 	trigger = {
-		polytheistic_check_religion_trigger = yes
+		
 		OR = {
 			rare_deity_trigger = {
 				RELIGION = twainist
@@ -131,7 +131,7 @@ deity_whitman = {
 }
 deity_the_comet = { # Inspired by Halley's Coment and Mark Twain's birth and death on the passing of that comet, + general notions about comets as omens
 	trigger = {
-		polytheistic_check_religion_trigger = yes
+		
 		OR = {
 			rare_deity_trigger = {
 				RELIGION = twainist
@@ -156,7 +156,7 @@ deity_the_comet = { # Inspired by Halley's Coment and Mark Twain's birth and dea
 }
 deity_the_pilot = {
 	trigger = {
-		polytheistic_check_religion_trigger = yes
+		
 		OR = {
 			rare_deity_trigger = {
 				RELIGION = twainist
@@ -181,7 +181,7 @@ deity_the_pilot = {
 }
 deity_the_king = {
 	trigger = {
-		polytheistic_check_religion_trigger = yes
+		
 		OR = {
 			rare_deity_trigger = {
 				RELIGION = twainist
@@ -206,7 +206,7 @@ deity_the_king = {
 }
 deity_the_yankee = { #based off of the character Hank Morgan from “A Connecticut Yankee in King Arthur’s Court” by Mark Twain
 	trigger = {
-		polytheistic_check_religion_trigger = yes
+		
 		OR = {
 			rare_deity_trigger = {
 				RELIGION = twainist
@@ -231,7 +231,7 @@ deity_the_yankee = { #based off of the character Hank Morgan from “A Connectic
 }
 deity_sawyer = { # Tom Sawyer and Huckleberry Finn
 	trigger = {
-		polytheistic_check_religion_trigger = yes
+		
 		OR = {
 			rare_deity_trigger = {
 				RELIGION = twainist
@@ -256,7 +256,7 @@ deity_sawyer = { # Tom Sawyer and Huckleberry Finn
 }
 deity_faulkner = { #William Faulkner
 	trigger = {
-		polytheistic_check_religion_trigger = yes
+		
 		OR = {
 			rare_deity_trigger = {
 				RELIGION = twainist
@@ -281,7 +281,7 @@ deity_faulkner = { #William Faulkner
 }
 deity_baron = { #Loosely based off of Johan Wilhelm Von Bock, founder of the first German settlement in Missouri. Represents change and time.
 	trigger = {
-		polytheistic_check_religion_trigger = yes
+		
 		OR = {
 			rare_deity_trigger = {
 				RELIGION = twainist
@@ -306,7 +306,7 @@ deity_baron = { #Loosely based off of Johan Wilhelm Von Bock, founder of the fir
 }
 deity_big_muddy = { #Personificiation of the confluence of the Missouri and Mississippi around St. Louis
 	trigger = {
-		polytheistic_check_religion_trigger = yes
+		
 		OR = {
 			rare_deity_culture_trigger = {
 				RELIGION = twainist
@@ -332,7 +332,7 @@ deity_big_muddy = { #Personificiation of the confluence of the Missouri and Miss
 }
 deity_missouri = { #Personification of the Missouri River, represents 1800's settler colonialism and the path to the west
 	trigger = {
-		polytheistic_check_religion_trigger = yes
+		
 		OR = {
 			very_rare_deity_trigger = {
 				RELIGION = twainist
@@ -357,7 +357,7 @@ deity_missouri = { #Personification of the Missouri River, represents 1800's set
 }
 deity_illinois = { #Personification of the Illinois River, represents great metropolises and urban centers (Chicago)
 	trigger = {
-		polytheistic_check_religion_trigger = yes
+		
 		OR = {
 			very_rare_deity_trigger = {
 				RELIGION = twainist
@@ -382,7 +382,7 @@ deity_illinois = { #Personification of the Illinois River, represents great metr
 }
 deity_bellamy = { #Edward Bellamy, pseudo-socialist who wrote the utopian novel 'Looking Backward'
 	trigger = {
-		polytheistic_check_religion_trigger = yes
+		
 		OR = {
 			very_rare_deity_trigger = {
 				RELIGION = twainist
@@ -407,7 +407,7 @@ deity_bellamy = { #Edward Bellamy, pseudo-socialist who wrote the utopian novel 
 }
 deity_spirit_of_st_louis = { #Charles Lindbergh's famous airplane voyage
 	trigger = {
-		polytheistic_check_religion_trigger = yes
+		
 		OR = {
 			rare_deity_culture_trigger = {
 				RELIGION = twainist
@@ -433,7 +433,7 @@ deity_spirit_of_st_louis = { #Charles Lindbergh's famous airplane voyage
 }
 deity_ulysses = {
 	trigger = {
-		polytheistic_check_religion_trigger = yes
+		
 		OR = {
 			rare_deity_trigger = {
 				RELIGION = twainist
@@ -458,7 +458,7 @@ deity_ulysses = {
 }
 deity_garland = {
 	trigger = {
-		polytheistic_check_religion_trigger = yes
+		
 		OR = {
 			rare_deity_culture_trigger = {
 				RELIGION = twainist
@@ -484,7 +484,7 @@ deity_garland = {
 }
 deity_chopin = { #Kate Chopin, French St. Louisian author, early feminist author
 	trigger = {
-		polytheistic_check_religion_trigger = yes
+		
 		OR = {
 			rare_deity_trigger = {
 				RELIGION = twainist

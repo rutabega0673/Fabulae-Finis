@@ -1,6 +1,6 @@
 ﻿deity_paul_bunyan= {
 	trigger = {
-		polytheistic_check_religion_trigger = yes
+		
 		OR = {
 			common_deity_trigger = {
 				RELIGION = lakeshore
@@ -28,7 +28,7 @@
 }
 deity_hermann= {
 	trigger = {
-		polytheistic_check_religion_trigger = yes
+		
 		OR = {
 			rare_deity_culture_trigger = {
 				RELIGION = lakeshore
@@ -58,7 +58,7 @@ deity_hermann= {
 }
 deity_green_giant= { 
 	trigger = {
-		polytheistic_check_religion_trigger = yes
+		
 		OR = {
 			rare_deity_trigger = {
 				RELIGION = lakeshore
@@ -83,7 +83,7 @@ deity_green_giant= {
 }
 deity_urho= { 
 	trigger = {
-		polytheistic_check_religion_trigger = yes
+		
 		OR = {
 			rare_deity_trigger = {
 				RELIGION = lakeshore
@@ -108,7 +108,7 @@ deity_urho= {
 }
 deity_febold= {
 	trigger = {
-		polytheistic_check_religion_trigger = yes
+		
 		OR = {
 			rare_deity_trigger = {
 				RELIGION = lakeshore
@@ -133,7 +133,7 @@ deity_febold= {
 }
 deity_gustavus= { # Gustavus Adolphus College in St. Peter, Minnesota
 	trigger = {
-		polytheistic_check_religion_trigger = yes
+		
 		OR = {
 			rare_deity_culture_trigger = {
 				RELIGION = lakeshore
@@ -163,7 +163,7 @@ deity_gustavus= { # Gustavus Adolphus College in St. Peter, Minnesota
 }
 deity_antoine= { # Antoine Barada, Nebraskan semi-mythical folk hero
 	trigger = {
-		polytheistic_check_religion_trigger = yes
+		
 		OR = {
 			rare_deity_trigger = {
 				RELIGION = lakeshore
@@ -188,7 +188,7 @@ deity_antoine= { # Antoine Barada, Nebraskan semi-mythical folk hero
 }
 deity_the_twins= { # Based on the merger of the Minneaplis Millers and the St. Paul Saints baseball team
 	trigger = {
-		polytheistic_check_religion_trigger = yes
+		
 		OR = {
 			rare_deity_culture_trigger = {
 				RELIGION = lakeshore
@@ -214,7 +214,7 @@ deity_the_twins= { # Based on the merger of the Minneaplis Millers and the St. P
 }
 deity_mufferaw = {
 	trigger = {
-		polytheistic_check_religion_trigger = yes
+		
 		OR = {
 			common_deity_trigger = {
 				RELIGION = lakeshore
@@ -239,7 +239,7 @@ deity_mufferaw = {
 }
 deity_father_twain= { # Tall-Taler interpretation of Mark Twain
 	trigger = {
-		polytheistic_check_religion_trigger = yes
+		
 		OR = {
 			very_rare_deity_trigger = {
 				RELIGION = lakeshore
@@ -264,7 +264,7 @@ deity_father_twain= { # Tall-Taler interpretation of Mark Twain
 }
 deity_mother_mississippi = { # Tall-Taler personification of the river Mississipi - consort of Father Twain (like greek River gods)
 	trigger = {
-		polytheistic_check_religion_trigger = yes
+		
 		OR = {
 			very_rare_deity_trigger = {
 				RELIGION = lakeshore
@@ -289,7 +289,7 @@ deity_mother_mississippi = { # Tall-Taler personification of the river Mississip
 }
 deity_ole_olson = { # Paul Bunyan's blacksmith
 	trigger = {
-		polytheistic_check_religion_trigger = yes
+		
 		OR = {
 			rare_deity_culture_trigger = {
 				RELIGION = lakeshore
@@ -319,7 +319,7 @@ deity_ole_olson = { # Paul Bunyan's blacksmith
 }
 deity_dylan = { # Bob Dylan
 	trigger = {
-		polytheistic_check_religion_trigger = yes
+		
 		OR = {
 			rare_deity_culture_trigger = {
 				RELIGION = lakeshore
@@ -349,7 +349,7 @@ deity_dylan = { # Bob Dylan
 }
 deity_prince = { # Prince
 	trigger = {
-		polytheistic_check_religion_trigger = yes
+		
 		OR = {
 			rare_deity_culture_trigger = {
 				RELIGION = lakeshore
@@ -375,7 +375,7 @@ deity_prince = { # Prince
 }
 deity_big_ole= {
 	trigger = {
-		polytheistic_check_religion_trigger = yes
+		
 		OR = {
 			rare_deity_culture_trigger = {
 				RELIGION = lakeshore
@@ -405,7 +405,7 @@ deity_big_ole= {
 }
 deity_brewer = { # Milauwkee Brewer's mascot
 	trigger = {
-		polytheistic_check_religion_trigger = yes
+		
 		OR = {
 			rare_deity_culture_trigger = {
 				RELIGION = lakeshore
@@ -431,7 +431,7 @@ deity_brewer = { # Milauwkee Brewer's mascot
 }
 deity_leif_erikson= {
 	trigger = {
-		polytheistic_check_religion_trigger = yes
+		
 		OR = {
 			common_deity_trigger = {
 				RELIGION = lakeshore
@@ -457,7 +457,7 @@ deity_leif_erikson= {
 
 deity_heikki_lunta= { 
 	trigger = {
-		polytheistic_check_religion_trigger = yes
+		
 		OR = {
 			common_deity_trigger = {
 				RELIGION = lakeshore
@@ -526,7 +526,7 @@ deity_heikki_lunta= {
 }
 deity_polaris = {
 	trigger = {
-		polytheistic_check_religion_trigger = yes
+		
 		OR = {
 			common_deity_trigger = {
 				RELIGION = lakeshore
@@ -551,7 +551,7 @@ deity_polaris = {
 }
 deity_great_turtle = {
 	trigger = {
-		polytheistic_check_religion_trigger = yes
+		
 		OR = {
 			common_deity_trigger = {
 				RELIGION = lakeshore
@@ -576,7 +576,7 @@ deity_great_turtle = {
 }
 deity_sleeping_bear = { #To Do
 	trigger = {
-		polytheistic_check_religion_trigger = yes
+		
 		OR = {
 			common_deity_trigger = {
 				RELIGION = lakeshore
@@ -601,7 +601,7 @@ deity_sleeping_bear = { #To Do
 }
 deity_minnehaha = { # To Do
 	trigger = {
-		polytheistic_check_religion_trigger = yes
+		
 		OR = {
 			common_deity_trigger = {
 				RELIGION = lakeshore
@@ -626,7 +626,7 @@ deity_minnehaha = { # To Do
 }
 deity_ole_fitz = {
 	trigger = {
-		polytheistic_check_religion_trigger = yes
+		
 		OR = {
 			common_deity_trigger = {
 				RELIGION = lakeshore
@@ -651,7 +651,7 @@ deity_ole_fitz = {
 }
 deity_thunderbird = { #To Do
 	trigger = {
-		polytheistic_check_religion_trigger = yes
+		
 		OR = {
 			common_deity_trigger = {
 				RELIGION = lakeshore
@@ -676,7 +676,7 @@ deity_thunderbird = { #To Do
 }
 deity_the_lady = {
 	trigger = {
-		polytheistic_check_religion_trigger = yes
+		
 		OR = {
 			common_deity_trigger = {
 				RELIGION = lakeshore
@@ -701,7 +701,7 @@ deity_the_lady = {
 }
 deity_the_witch = {
 	trigger = {
-		polytheistic_check_religion_trigger = yes
+		
 		OR = {
 			common_deity_trigger = {
 				RELIGION = lakeshore

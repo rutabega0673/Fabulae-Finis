@@ -275,3 +275,12 @@
  ## Jewish ##
  haredi:0 "Haredi"
  desc_haredi:0 "Haredim are the successors of the most traditional pre-Event communities, who banded together and accepted many other Jews into their ranks during the chaos after the Event. Although there is a great deal of diversity in Haredi religious practice, they are united in their anticipation of Moshiach, or the Jewish Messiah. Haredim believe that Moshiach's arrival will be accompanied by the return of the Jewish people to Eretz Yisrael and the ushering in of peace on earth. In the meantime, Haredim fastidiously study and adhere to Halakha, or Jewish religious law, believing that this will facilitate Moshiach's imminent arrival. Haredim are notable for their tendency to limit participation with the culture of outsiders, although they do not go out of their way to antagonize non-Jews or otherwise interfere with their lives."
+
+ ## New Pantheon Categories ##
+ religion_category_founders:0 "Founder"
+ religion_category_saints:0 "Saint"
+ religion_category_gurus:0 "Guru"
+ religion_category_titans:0 "Titan"
+ religion_category_force:0 "Force"
+ religion_category_authors:0 "Author"
+ religion_category_spirits:0 "Spirit"

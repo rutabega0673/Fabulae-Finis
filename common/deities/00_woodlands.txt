@@ -1,6 +1,6 @@
 ﻿deity_shakwayatisu = { #Great Creator
 	trigger = {
-		polytheistic_check_religion_trigger = yes
+		
 		OR = {
 			common_deity_trigger = {
 				RELIGION = gaiwiio
@@ -25,7 +25,7 @@
 }
 deity_skanatalihyo = { #Handsome Lake
 	trigger = {
-		polytheistic_check_religion_trigger = yes
+		
 		OR = {
 			common_deity_trigger = {
 				RELIGION = gaiwiio
@@ -50,7 +50,7 @@ deity_skanatalihyo = { #Handsome Lake
 }
 deity_four_messengers = {
 	trigger = {
-		polytheistic_check_religion_trigger = yes
+		
 		OR = {
 			rare_deity_trigger = {
 				RELIGION = gaiwiio
@@ -75,7 +75,7 @@ deity_four_messengers = {
 }
 deity_cornplanter = {
 	trigger = {
-		polytheistic_check_religion_trigger = yes
+		
 		OR = {
 			rare_deity_trigger = {
 				RELIGION = gaiwiio
@@ -100,7 +100,7 @@ deity_cornplanter = {
 }
 deity_he_no = {
 	trigger = {
-		polytheistic_check_religion_trigger = yes
+		
 		OR = {
 			rare_deity_trigger = {
 				RELIGION = gaiwiio

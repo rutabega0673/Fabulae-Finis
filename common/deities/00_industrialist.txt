@@ -1,6 +1,6 @@
 ﻿deity_carnegie = {
 	trigger = {
-		polytheistic_check_religion_trigger = yes
+		
 		OR = {
 			common_deity_trigger = {
 				RELIGION = promethean
@@ -28,7 +28,7 @@
 }
 deity_industry = {
 	trigger = {
-		polytheistic_check_religion_trigger = yes
+		
 		OR = {
 			common_deity_trigger = {
 				RELIGION = promethean
@@ -59,7 +59,7 @@ deity_industry = {
 }
 deity_rockefeller = {
 	trigger = {
-		polytheistic_check_religion_trigger = yes
+		
 		OR = {
 			common_deity_trigger = {
 				RELIGION = promethean
@@ -87,7 +87,7 @@ deity_rockefeller = {
 }
 deity_johnsons = {
 	trigger = {
-		polytheistic_check_religion_trigger = yes
+		
 		OR = {
 			rare_deity_trigger = {
 				RELIGION = promethean
@@ -115,7 +115,7 @@ deity_johnsons = {
 }
 deity_titan_kings = {
 	trigger = {
-		polytheistic_check_religion_trigger = yes
+		
 		NOT = { religion = galvanist }
 		OR = {
 			NOT = { religion = arsenalist } 
@@ -144,7 +144,7 @@ deity_titan_kings = {
 }
 deity_vanderbilt = {
 	trigger = {
-		polytheistic_check_religion_trigger = yes
+		
 		OR = {
 			rare_deity_trigger = {
 				RELIGION = promethean
@@ -172,7 +172,7 @@ deity_vanderbilt = {
 }
 deity_edison = {
 	trigger = {
-		polytheistic_check_religion_trigger = yes
+		
 		OR = {
 			common_deity_trigger = {
 				RELIGION = promethean
@@ -200,7 +200,7 @@ deity_edison = {
 }
 deity_hughes = {
 	trigger = {
-		polytheistic_check_religion_trigger = yes
+		
 		OR = {
 			rare_deity_trigger = {
 				RELIGION = promethean
@@ -231,7 +231,7 @@ deity_hughes = {
 }
 deity_avro = {
 	trigger = {
-		polytheistic_check_religion_trigger = yes
+		
 		OR = {
 			rare_deity_culture_group_trigger = {
 				RELIGION = promethean
@@ -261,7 +261,7 @@ deity_avro = {
 }
 deity_ford = {
 	trigger = {
-		polytheistic_check_religion_trigger = yes
+		
 		OR = {
 			common_deity_trigger = {
 				RELIGION = promethean
@@ -289,7 +289,7 @@ deity_ford = {
 }
 deity_mccormick = {
 	trigger = {
-		polytheistic_check_religion_trigger = yes
+		
 		NOT = { religion = galvanist }
 		OR = {
 			NOT = { religion = arsenalist } 
@@ -318,7 +318,7 @@ deity_mccormick = {
 }
 deity_annheuser_busch = {
 	trigger = {
-		polytheistic_check_religion_trigger = yes
+		
 		OR = {
 			rare_deity_culture_trigger = {
 				RELIGION = promethean
@@ -348,7 +348,7 @@ deity_annheuser_busch = {
 }
 deity_sears = {
 	trigger = {
-		polytheistic_check_religion_trigger = yes
+		
 		OR = {
 			rare_deity_trigger = {
 				RELIGION = promethean
@@ -376,7 +376,7 @@ deity_sears = {
 }
 deity_margarac = {
 	trigger = {
-		polytheistic_check_religion_trigger = yes
+		
 		OR = {
 			rare_deity_trigger = {
 				RELIGION = promethean
@@ -407,7 +407,7 @@ deity_margarac = {
 }
 deity_guardian_titans = {
 	trigger = {
-		polytheistic_check_religion_trigger = yes
+		
 		OR = {
 			rare_deity_culture_trigger = {
 				RELIGION = promethean
@@ -437,7 +437,7 @@ deity_guardian_titans = {
 }
 deity_deere = {
 	trigger = {
-		polytheistic_check_religion_trigger = yes
+		
 		OR = {
 			rare_deity_trigger = {
 				RELIGION = promethean
@@ -465,7 +465,7 @@ deity_deere = {
 }
 deity_longshoreman = {
 	trigger = {
-		polytheistic_check_religion_trigger = yes
+		
 		OR = {
 			rare_deity_trigger = {
 				RELIGION = galvanist
@@ -493,7 +493,7 @@ deity_longshoreman = {
 }
 deity_sinclair = {
 	trigger = {
-		polytheistic_check_religion_trigger = yes
+		
 		NOT = { religion = promethean }
 		OR = {
 			rare_deity_trigger = {
@@ -522,7 +522,7 @@ deity_sinclair = {
 }
 deity_osha = {
 	trigger = {
-		polytheistic_check_religion_trigger = yes
+		
 		NOT = { religion = promethean }
 		OR = {
 			rare_deity_trigger = {
@@ -548,7 +548,7 @@ deity_osha = {
 }
 deity_reuther = {
 	trigger = {
-		polytheistic_check_religion_trigger = yes
+		
 		NOT = { religion = promethean }
 		OR = {
 			rare_deity_culture_trigger = {
@@ -583,7 +583,7 @@ deity_reuther = {
 }
 deity_rosie = {
 	trigger = {
-		polytheistic_check_religion_trigger = yes
+		
 		NOT = { religion = promethean }
 		OR = {
 			rare_deity_trigger = {
@@ -612,7 +612,7 @@ deity_rosie = {
 }
 deity_kellogg = {
 	trigger = {
-		polytheistic_check_religion_trigger = yes
+		
 		OR = {
 			rare_deity_culture_trigger = {
 				RELIGION = promethean
@@ -658,7 +658,7 @@ deity_kellogg = {
 }
 deity_pinkerton = {
 	trigger = {
-		polytheistic_check_religion_trigger = yes
+		
 		NOT = { religion = galvanist }
 		OR = {
 			NOT = { religion = arsenalist } 
@@ -687,7 +687,7 @@ deity_pinkerton = {
 }
 deity_haymarket_martyrs = {
 	trigger = {
-		polytheistic_check_religion_trigger = yes
+		
 		NOT = { religion = promethean }
 		OR = {
 			rare_deity_trigger = {
@@ -713,7 +713,7 @@ deity_haymarket_martyrs = {
 }
 deity_uso = {
 	trigger = {
-		polytheistic_check_religion_trigger = yes
+		
 		NOT = { religion = promethean }
 		OR = {
 			NOT = { religion = galvanist } 
@@ -742,7 +742,7 @@ deity_uso = {
 }
 deity_usda = {
 	trigger = {
-		polytheistic_check_religion_trigger = yes
+		
 		NOT = { religion = promethean }
 		OR = {
 			NOT = { religion = galvanist } 
@@ -771,7 +771,7 @@ deity_usda = {
 }
 deity_titan_roosevelt = {
 	trigger = {
-		polytheistic_check_religion_trigger = yes
+		
 		OR = {
 			common_deity_trigger = {
 				RELIGION = arsenalist
@@ -799,7 +799,7 @@ deity_titan_roosevelt = {
 }
 deity_kaiser = {
 	trigger = {
-		polytheistic_check_religion_trigger = yes
+		
 		OR = {
 			rare_deity_trigger = {
 				RELIGION = arsenalist
@@ -827,7 +827,7 @@ deity_kaiser = {
 }
 deity_titan_oppenheimer = {
 	trigger = {
-		polytheistic_check_religion_trigger = yes
+		
 		OR = {
 			rare_deity_trigger = {
 				RELIGION = arsenalist
@@ -852,7 +852,7 @@ deity_titan_oppenheimer = {
 }
 deity_titan_eisenhower = {
 	trigger = {
-		polytheistic_check_religion_trigger = yes
+		
 		OR = {
 			rare_deity_trigger = {
 				RELIGION = arsenalist
@@ -878,7 +878,7 @@ deity_titan_eisenhower = {
 ## Fissionist ##
 deity_fission = {
 	trigger = {
-		polytheistic_check_religion_trigger = yes
+		
 		OR = {
 			common_deity_trigger = {
 				RELIGION = fissionist
@@ -903,7 +903,7 @@ deity_fission = {
 }
 deity_prometheus = {  # J. Robert Oppenheimer
 	trigger = {
-		polytheistic_check_religion_trigger = yes
+		
 		OR = {
 			common_deity_trigger = {
 				RELIGION = fissionist
@@ -928,7 +928,7 @@ deity_prometheus = {  # J. Robert Oppenheimer
 }
 deity_doomsday = { # The stupid Doomsday clock and MAD
 	trigger = {
-		polytheistic_check_religion_trigger = yes
+		
 		OR = {
 			very_rare_deity_trigger = {
 				RELIGION = fissionist
@@ -953,7 +953,7 @@ deity_doomsday = { # The stupid Doomsday clock and MAD
 }
 deity_nrc = { #Nrc 'Nuclear Regulatory Comission'
 	trigger = {
-		polytheistic_check_religion_trigger = yes
+		
 		OR = {
 			rare_deity_trigger = {
 				RELIGION = fissionist
@@ -978,7 +978,7 @@ deity_nrc = { #Nrc 'Nuclear Regulatory Comission'
 }
 deity_einstein = { # Albert Einstein
 	trigger = {
-		polytheistic_check_religion_trigger = yes
+		
 		OR = {
 			rare_deity_trigger = {
 				RELIGION = fissionist
@@ -1003,7 +1003,7 @@ deity_einstein = { # Albert Einstein
 }
 deity_curie = { #Marie Curie
 	trigger = {
-		polytheistic_check_religion_trigger = yes
+		
 		OR = {
 			rare_deity_trigger = {
 				RELIGION = fissionist
@@ -1029,7 +1029,7 @@ deity_curie = { #Marie Curie
 }
 deity_manhattan = { # The Manhattan Project and Fat Man and Little Boy
 	trigger = {
-		polytheistic_check_religion_trigger = yes
+		
 		OR = {
 			rare_deity_trigger = {
 				RELIGION = fissionist
@@ -1054,7 +1054,7 @@ deity_manhattan = { # The Manhattan Project and Fat Man and Little Boy
 }
 deity_democritus = { #Democritus, ancient greek philosopher
 	trigger = {
-		polytheistic_check_religion_trigger = yes
+		
 		OR = {
 			very_rare_deity_trigger = {
 				RELIGION = fissionist
@@ -1079,7 +1079,7 @@ deity_democritus = { #Democritus, ancient greek philosopher
 }
 deity_titan_browning = { # John Moses Browning, American manufacturer of firearms (M1911, Browning M2, BAR, etc.)
 	trigger = {
-		polytheistic_check_religion_trigger = yes
+		
 		OR = {
 			rare_deity_trigger = {
 				RELIGION = promethean
@@ -1110,7 +1110,7 @@ deity_titan_browning = { # John Moses Browning, American manufacturer of firearm
 }
 deity_wobbly = { #IWW, members were nicknamed 'Wobblies'
 	trigger = {
-		polytheistic_check_religion_trigger = yes
+		
 		NOT = { religion = promethean }
 		OR = {
 			very_rare_deity_trigger = {
@@ -1139,7 +1139,7 @@ deity_wobbly = { #IWW, members were nicknamed 'Wobblies'
 }
 deity_titan_debs = { #Eugene Debs, prominent American Socialist who was imprisoned durinf WW1 for being ant-war and against the interests of the bourgeoisie
 	trigger = {
-		polytheistic_check_religion_trigger = yes
+		
 		NOT = { 
 			religion = promethean 
 			religion = arsenalist
@@ -1168,7 +1168,7 @@ deity_titan_debs = { #Eugene Debs, prominent American Socialist who was imprison
 }
 deity_pullman_porters = { #Railroad porters
 	trigger = {
-		polytheistic_check_religion_trigger = yes
+		
 		NOT = { 
 			religion = promethean 
 			religion = arsenalist
@@ -1198,7 +1198,7 @@ deity_pullman_porters = { #Railroad porters
 }
 deity_titan_tesla = { #Nikola Tesla, Serbian-American inventor
 	trigger = {
-		polytheistic_check_religion_trigger = yes
+		
 		NOT = { 
 			religion = promethean 
 		}

@@ -1,7 +1,7 @@
 ﻿## Clairvoyant ##
 deity_spirit_guides = {
 	trigger = {
-		polytheistic_check_religion_trigger = yes
+		
 		OR = {
 			common_deity_trigger = {
 				RELIGION = clairvoyant
@@ -26,7 +26,7 @@ deity_spirit_guides = {
 }
 deity_jehovah = {
 	trigger = {
-		polytheistic_check_religion_trigger = yes
+		
 		OR = {
 			common_deity_trigger = {
 				RELIGION = clairvoyant
@@ -51,7 +51,7 @@ deity_jehovah = {
 }
 deity_temperance = {
 	trigger = {
-		polytheistic_check_religion_trigger = yes
+		
 		OR = {
 			common_deity_trigger = {
 				RELIGION = clairvoyant
@@ -75,7 +75,7 @@ deity_temperance = {
 }
 deity_empress = {
 	trigger = {
-		polytheistic_check_religion_trigger = yes
+		
 		OR = {
 			rare_deity_trigger = {
 				RELIGION = clairvoyant
@@ -100,7 +100,7 @@ deity_empress = {
 }
 deity_wheel_of_fortune = {
 	trigger = {
-		polytheistic_check_religion_trigger = yes
+		
 		OR = {
 			rare_deity_trigger = {
 				RELIGION = clairvoyant
@@ -125,7 +125,7 @@ deity_wheel_of_fortune = {
 }
 deity_guardian_angels = {
 	trigger = {
-		polytheistic_check_religion_trigger = yes
+		
 		OR = {
 			rare_deity_trigger = {
 				RELIGION = clairvoyant
@@ -150,7 +150,7 @@ deity_guardian_angels = {
 }
 deity_justice = {
 	trigger = {
-		polytheistic_check_religion_trigger = yes
+		
 		OR = {
 			common_deity_trigger = {
 				RELIGION = clairvoyant
@@ -175,7 +175,7 @@ deity_justice = {
 }
 deity_hermit = {
 	trigger = {
-		polytheistic_check_religion_trigger = yes
+		
 		OR = {
 			rare_deity_trigger = {
 				RELIGION = clairvoyant
@@ -203,7 +203,7 @@ deity_hermit = {
 }
 deity_knight_of_swords = {
 	trigger = {
-		polytheistic_check_religion_trigger = yes
+		
 		OR = {
 			very_rare_deity_trigger = {
 				RELIGION = clairvoyant
@@ -228,7 +228,7 @@ deity_knight_of_swords = {
 }
 deity_houdini = {
 	trigger = {
-		polytheistic_check_religion_trigger = yes
+		
 		OR = {
 			very_rare_deity_trigger = {
 				RELIGION = clairvoyant
@@ -253,7 +253,7 @@ deity_houdini = {
 }
 deity_moon = {
 	trigger = {
-		polytheistic_check_religion_trigger = yes
+		
 		OR = {
 			very_rare_deity_trigger = {
 				RELIGION = clairvoyant
@@ -278,7 +278,7 @@ deity_moon = {
 }
 deity_reaper = {
 	trigger = {
-		polytheistic_check_religion_trigger = yes
+		
 		OR = {
 			very_rare_deity_trigger = {
 				RELIGION = clairvoyant
@@ -303,7 +303,7 @@ deity_reaper = {
 }
 deity_fox_sisters = {
 	trigger = {
-		polytheistic_check_religion_trigger = yes
+		
 		OR = {
 			very_rare_deity_trigger = {
 				RELIGION = clairvoyant
@@ -328,7 +328,7 @@ deity_fox_sisters = {
 }
 deity_emperor = {
 	trigger = {
-		polytheistic_check_religion_trigger = yes
+		
 		OR = {
 			rare_deity_trigger = {
 				RELIGION = clairvoyant
@@ -353,7 +353,7 @@ deity_emperor = {
 }
 deity_sun = {
 	trigger = {
-		polytheistic_check_religion_trigger = yes
+		
 		OR = {
 			very_rare_deity_trigger = {
 				RELIGION = clairvoyant
@@ -378,7 +378,7 @@ deity_sun = {
 }
 deity_the_fool = {
 	trigger = {
-		polytheistic_check_religion_trigger = yes
+		
 		OR = {
 			very_rare_deity_trigger = {
 				RELIGION = clairvoyant
@@ -403,7 +403,7 @@ deity_the_fool = {
 }
 deity_the_hanged_man = {
 	trigger = {
-		polytheistic_check_religion_trigger = yes
+		
 		OR = {
 			very_rare_deity_trigger = {
 				RELIGION = clairvoyant
@@ -428,7 +428,7 @@ deity_the_hanged_man = {
 }
 deity_hierophant = {
 	trigger = {
-		polytheistic_check_religion_trigger = yes
+		
 		OR = {
 			rare_deity_trigger = {
 				RELIGION = clairvoyant
@@ -453,7 +453,7 @@ deity_hierophant = {
 }
 deity_chariot = {
 	trigger = {
-		polytheistic_check_religion_trigger = yes
+		
 		OR = {
 			rare_deity_trigger = {
 				RELIGION = clairvoyant
@@ -477,7 +477,7 @@ deity_chariot = {
 }
 deity_star = {
 	trigger = {
-		polytheistic_check_religion_trigger = yes
+		
 		OR = {
 			very_rare_deity_trigger = {
 				RELIGION = clairvoyant
@@ -502,7 +502,7 @@ deity_star = {
 }
 deity_judgement = {
 	trigger = {
-		polytheistic_check_religion_trigger = yes
+		
 		OR = {
 			very_rare_deity_trigger = {
 				RELIGION = clairvoyant
@@ -527,7 +527,7 @@ deity_judgement = {
 }
 deity_the_lovers = {
 	trigger = {
-		polytheistic_check_religion_trigger = yes
+		
 		OR = {
 			very_rare_deity_trigger = {
 				RELIGION = clairvoyant

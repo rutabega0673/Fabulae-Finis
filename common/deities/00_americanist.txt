@@ -1,6 +1,6 @@
 ﻿deity_washington = {
 	trigger = {
-		polytheistic_check_religion_trigger = yes
+		
 		OR = {
 			common_deity_trigger = {
 				RELIGION = americanist
@@ -25,7 +25,7 @@
 }
 deity_roosevelt = {
 	trigger = {
-		polytheistic_check_religion_trigger = yes
+		
 		OR = {
 			rare_deity_trigger = {
 				RELIGION = americanist
@@ -50,7 +50,7 @@ deity_roosevelt = {
 }
 deity_providence = {
 	trigger = {
-		polytheistic_check_religion_trigger = yes
+		
 		OR = {
 			common_deity_trigger = {
 				RELIGION = americanist
@@ -81,7 +81,7 @@ deity_providence = {
 }
 deity_usa_dream = {
 	trigger = {
-		polytheistic_check_religion_trigger = yes
+		
 		OR = {
 			common_deity_trigger = {
 				RELIGION = americanist
@@ -106,7 +106,7 @@ deity_usa_dream = {
 }
 deity_founders = {
 	trigger = {
-		polytheistic_check_religion_trigger = yes
+		
 		OR = {
 			rare_deity_trigger = {
 				RELIGION = americanist
@@ -131,7 +131,7 @@ deity_founders = {
 }
 deity_ironsides = {
 	trigger = {
-		polytheistic_check_religion_trigger = yes
+		
 		OR = {
 			rare_deity_trigger = {
 				RELIGION = americanist
@@ -159,7 +159,7 @@ deity_ironsides = {
 }
 deity_revere = {
 	trigger = {
-		polytheistic_check_religion_trigger = yes
+		
 		OR = {
 			rare_deity_trigger = {
 				RELIGION = americanist
@@ -187,7 +187,7 @@ deity_revere = {
 }
 deity_lady_liberty = {
 	trigger = {
-		polytheistic_check_religion_trigger = yes
+		
 		OR = {
 			rare_deity_trigger = {
 				RELIGION = americanist
@@ -212,7 +212,7 @@ deity_lady_liberty = {
 }
 deity_lincoln = {
 	trigger = {
-		polytheistic_check_religion_trigger = yes
+		
 		OR = {
 			rare_deity_trigger = {
 				RELIGION = americanist
@@ -237,7 +237,7 @@ deity_lincoln = {
 }
 deity_pulaski = {
 	trigger = {
-		#polytheistic_check_religion_trigger = yes
+		#
 		OR = {
 			rare_deity_culture_trigger = {
 				RELIGION = americanist
@@ -276,7 +276,7 @@ deity_pulaski = {
 ## Heartful Pantheon ##
 deity_borlaug = {
 	trigger = {
-		polytheistic_check_religion_trigger = yes
+		
 		OR = {
 			rare_deity_trigger = {
 				RELIGION = heartful
@@ -301,7 +301,7 @@ deity_borlaug = {
 }
 deity_jefferson = {
 	trigger = {
-		polytheistic_check_religion_trigger = yes
+		
 		OR = {
 			common_deity_trigger = {
 				RELIGION = heartful
@@ -326,7 +326,7 @@ deity_jefferson = {
 }
 deity_john_brown = {
 	trigger = {
-		polytheistic_check_religion_trigger = yes
+		
 		OR = {
 			common_deity_trigger = {
 				RELIGION = heartful
@@ -351,7 +351,7 @@ deity_john_brown = {
 }
 deity_eisenhower = {
 	trigger = {
-		polytheistic_check_religion_trigger = yes
+		
 		OR = {
 			common_deity_trigger = {
 				RELIGION = heartful
@@ -376,7 +376,7 @@ deity_eisenhower = {
 }
 deity_iowa = {
 	trigger = {
-		polytheistic_check_religion_trigger = yes
+		
 		OR = {
 			rare_deity_trigger = {
 				RELIGION = heartful
@@ -401,7 +401,7 @@ deity_iowa = {
 }
 deity_wjb = { #William Jennings Bryan
 	trigger = {
-		polytheistic_check_religion_trigger = yes
+		
 		OR = {
 			common_deity_trigger = {
 				RELIGION = heartful
@@ -426,7 +426,7 @@ deity_wjb = { #William Jennings Bryan
 }
 deity_knute_nelson = {
 	trigger = {
-		polytheistic_check_religion_trigger = yes
+		
 		OR = {
 			rare_deity_culture_trigger = {
 				RELIGION = heartful
@@ -456,7 +456,7 @@ deity_knute_nelson = {
 }
 deity_independence = {
 	trigger = {
-		polytheistic_check_religion_trigger = yes
+		
 		OR = {
 			very_rare_deity_trigger = {
 				RELIGION = heartful
@@ -481,7 +481,7 @@ deity_independence = {
 }
 deity_humility = {
 	trigger = {
-		polytheistic_check_religion_trigger = yes
+		
 		OR = {
 			very_rare_deity_trigger = {
 				RELIGION = heartful
@@ -506,7 +506,7 @@ deity_humility = {
 }
 deity_heartful_justice = {
 	trigger = {
-		polytheistic_check_religion_trigger = yes
+		
 		OR = {
 			very_rare_deity_trigger = {
 				RELIGION = heartful
@@ -531,7 +531,7 @@ deity_heartful_justice = {
 }
 deity_honesty = {
 	trigger = {
-		polytheistic_check_religion_trigger = yes
+		
 		OR = {
 			very_rare_deity_trigger = {
 				RELIGION = heartful
@@ -556,7 +556,7 @@ deity_honesty = {
 }
 deity_education = {
 	trigger = {
-		polytheistic_check_religion_trigger = yes
+		
 		OR = {
 			very_rare_deity_trigger = {
 				RELIGION = heartful
@@ -581,7 +581,7 @@ deity_education = {
 }
 deity_bravery = {
 	trigger = {
-		polytheistic_check_religion_trigger = yes
+		
 		OR = {
 			very_rare_deity_trigger = {
 				RELIGION = heartful
@@ -606,7 +606,7 @@ deity_bravery = {
 }
 deity_heart = {
 	trigger = {
-		polytheistic_check_religion_trigger = yes
+		
 		OR = {
 			rare_deity_trigger = {
 				RELIGION = heartful
@@ -631,7 +631,7 @@ deity_heart = {
 }
 deity_soul = {
 	trigger = {
-		polytheistic_check_religion_trigger = yes
+		
 		OR = {
 			rare_deity_trigger = {
 				RELIGION = heartful
@@ -656,7 +656,7 @@ deity_soul = {
 }
 deity_labor = {
 	trigger = {
-		polytheistic_check_religion_trigger = yes
+		
 		OR = {
 			very_rare_deity_trigger = {
 				RELIGION = heartful
@@ -681,7 +681,7 @@ deity_labor = {
 }
 deity_faith = {
 	trigger = {
-		polytheistic_check_religion_trigger = yes
+		
 		OR = {
 			very_rare_deity_trigger = {
 				RELIGION = heartful
@@ -706,7 +706,7 @@ deity_faith = {
 }
 deity_perseverence = {
 	trigger = {
-		polytheistic_check_religion_trigger = yes
+		
 		OR = {
 			very_rare_deity_trigger = {
 				RELIGION = heartful
@@ -731,7 +731,7 @@ deity_perseverence = {
 }
 deity_prosperity = {
 	trigger = {
-		polytheistic_check_religion_trigger = yes
+		
 		OR = {
 			very_rare_deity_trigger = {
 				RELIGION = heartful
@@ -756,7 +756,7 @@ deity_prosperity = {
 }
 deity_lewis_and_clark = {
 	trigger = {
-		polytheistic_check_religion_trigger = yes
+		
 		OR = {
 			rare_deity_trigger = {
 				RELIGION = heartful
@@ -781,7 +781,7 @@ deity_lewis_and_clark = {
 }
 deity_union = {
 	trigger = {
-		polytheistic_check_religion_trigger = yes
+		
 		OR = {
 			common_deity_trigger = {
 				RELIGION = heartful
@@ -806,7 +806,7 @@ deity_union = {
 }
 deity_clark_kent = {
 	trigger = {
-		polytheistic_check_religion_trigger = yes
+		
 		OR = {
 			very_rare_deity_trigger = {
 				RELIGION = heartful
@@ -831,7 +831,7 @@ deity_clark_kent = {
 }
 deity_steinbeck = {
 	trigger = {
-		polytheistic_check_religion_trigger = yes
+		
 		OR = {
 			rare_deity_trigger = {
 				RELIGION = heartful

@@ -1,0 +1,27 @@
+﻿"ALB"={
+	country="ALB"
+	15={ 
+		first_name="Nickolai"
+		add_nickname="NICKNAME_SORCEROUS"
+		family = c:ALB.fam:Saban
+		birth_date=2301.10.31
+		culture="dixie"
+		religion="revelationist"
+		no_stats=yes
+		add_martial=12
+		add_charisma=9
+		add_finesse=9
+		add_zeal=10
+		no_traits=yes
+		add_trait="stubborn"
+		add_trait= "tactician"
+		add_trait="deceitful"
+		add_trait="intelligent"
+		add_gold=200
+		add_popularity=30
+		c:ALB={
+			set_as_ruler=char:15
+		}
+		dna = "R2lHaXNjc2P/YideAnoCegKSApIASQBJAVkBWQJ0AnQCgAKAAngCeAKKAooCgwKDAm4CbgFcAVwCfgJ+ApMCkwJaAnIChQKFAmYCZgKZApkCkgKSApUClQKDAoMCmQKZAmcCZwFkAWQBZQFlAoQChAKVApUCdwJ3AnQCdAKFAoUCkgKSAo0CjQJ9An0CfQJ9AngCeAKQApACdgJ2AoYChgJ/An8CaAJoApACkAJoAmgCiwKLApICkgJ9An0BZgFmAoUChQJoAmgChAKEAnICcgKKAooCaQJpAokCiQKUApQClgKWAoACgAEmAnIBHgEeAP8A/wC/AL8AmQCZAOIA4gEmASYBGAEYAL0AvQBbAFsBdgF2AOkA6QB/AH8AwgDCAS4BLgBcAFwAjwCPAPcA9wCaAJoDoQBrAXgBeAB/AH8AcwBzAXUBdQD4APgBNAE0AesA6ALTAF4C/wAGAw8ADAE1AN4CywLLAUsBSwT3BPcFdgNwAH8AfwE2ATYJ/wdOAF4AZgVbBBgHXgVPBTEN9QAAAAAAAAAAAAAAAA=="
+	}
+}

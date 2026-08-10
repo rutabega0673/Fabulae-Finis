@@ -1,6 +1,6 @@
 ﻿deity_acan = {
 	trigger = {
-		polytheistic_check_religion_trigger = yes
+		
 		OR = {
 			rare_deity_trigger = {
 				RELIGION = mayan_pantheon

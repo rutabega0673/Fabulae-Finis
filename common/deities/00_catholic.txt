@@ -141,7 +141,7 @@ deity_joan_of_arc = {
 ## Traiteurist Pantheon ##
 deity_st_charlene = {
 	trigger = {
-		polytheistic_check_religion_trigger = yes
+		
 		OR = {
 			common_deity_trigger = {
 				RELIGION = traiteurism
@@ -166,7 +166,7 @@ deity_st_charlene = {
 }
 deity_st_evangeline = {
 	trigger = {
-		polytheistic_check_religion_trigger = yes
+		
 		OR = {
 			very_rare_deity_trigger = {
 				RELIGION = traiteurism
@@ -191,7 +191,7 @@ deity_st_evangeline = {
 }
 deity_st_expedite = {
 	trigger = {
-		polytheistic_check_religion_trigger = yes
+		
 		OR = {
 			rare_deity_trigger = {
 				RELIGION = traiteurism
@@ -216,7 +216,7 @@ deity_st_expedite = {
 }
 deity_st_joseph = {
 	trigger = {
-		polytheistic_check_religion_trigger = yes
+		
 		OR = {
 			rare_deity_trigger = {
 				RELIGION = traiteurism
@@ -241,7 +241,7 @@ deity_st_joseph = {
 }
 deity_our_lady_of_prompt_succor = {
 	trigger = {
-		polytheistic_check_religion_trigger = yes
+		
 		OR = {
 			common_deity_trigger = {
 				RELIGION = traiteurism
@@ -266,7 +266,7 @@ deity_our_lady_of_prompt_succor = {
 }
 deity_gabriel_lajeunesse = {
 	trigger = {
-		polytheistic_check_religion_trigger = yes
+		
 		OR = {
 			common_deity_trigger = {
 				RELIGION = traiteurism
@@ -291,7 +291,7 @@ deity_gabriel_lajeunesse = {
 }
 deity_traiteurist_micheal = {
 	trigger = {
-		polytheistic_check_religion_trigger = yes
+		
 		OR = {
 			common_deity_trigger = {
 				RELIGION = traiteurism
@@ -316,7 +316,7 @@ deity_traiteurist_micheal = {
 }
 deity_rougarou = {
 	trigger = {
-		polytheistic_check_religion_trigger = yes
+		
 		OR = {
 			very_rare_deity_trigger = {
 				RELIGION = traiteurism
@@ -341,7 +341,7 @@ deity_rougarou = {
 }
 deity_st_anthony = {
 	trigger = {
-		polytheistic_check_religion_trigger = yes
+		
 		OR = {
 			rare_deity_trigger = {
 				RELIGION = traiteurism
@@ -366,7 +366,7 @@ deity_st_anthony = {
 }
 deity_our_lady_death = {
 	trigger = {
-		polytheistic_check_religion_trigger = yes
+		
 		OR = {
 			very_rare_deity_trigger = {
 				RELIGION = traiteurism
@@ -391,7 +391,7 @@ deity_our_lady_death = {
 }
 deity_saint_marie_laveau = {
 	trigger = {
-		polytheistic_check_religion_trigger = yes
+		
 		OR = {
 			rare_deity_trigger = {
 				RELIGION = traiteurism

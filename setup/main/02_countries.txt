@@ -1805,6 +1805,7 @@ country = {
 			primary_culture = dixie
 			religion = revelationist
 			capital = 2718
+			family = 7
 
 			technology={
 				military_tech={ level=2 progress=0 }

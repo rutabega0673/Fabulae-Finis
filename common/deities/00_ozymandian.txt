@@ -1,6 +1,6 @@
 ﻿deity_oz = {
 	trigger = {
-		polytheistic_check_religion_trigger = yes
+		
 		OR = {
 			common_deity_trigger = {
 				RELIGION = ozymandism
@@ -25,7 +25,7 @@
 }
 deity_civilization = {
 	trigger = {
-		polytheistic_check_religion_trigger = yes
+		
 		OR = {
 			common_deity_trigger = {
 				RELIGION = ozymandism
@@ -50,7 +50,7 @@ deity_civilization = {
 }
 deity_cosmopolitan = {
 	trigger = {
-		polytheistic_check_religion_trigger = yes
+		
 		OR = {
 			rare_deity_trigger = {
 				RELIGION = ozymandism
@@ -75,7 +75,7 @@ deity_cosmopolitan = {
 }
 deity_altruria = {
 	trigger = {
-		polytheistic_check_religion_trigger = yes
+		
 		OR = {
 			rare_deity_trigger = {
 				RELIGION = ozymandism

@@ -51,5 +51,12 @@ family={
 			prestige=150
 			color = 0
 		}
+		7 = {
+			key = "Saban"
+			owner=ALB
+			culture=dixie
+			prestige=150
+			color = 0
+		}
 	}
 }

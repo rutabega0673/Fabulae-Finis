@@ -17,7 +17,7 @@ americanist = { # Presidential
 		country_civilization_value = 3
 		governor_loyalty = -5
 	}
-	religion_category = pantheon
+	religion_category = founders
 	sacrifice_icon = sacrifice_penny
 	sacrifice_sound = "event:/SFX/UI/Religion/sfx_ui_religion_generic_sacrifice"
 }
@@ -39,7 +39,7 @@ heartful = { # Heartful
 		build_time = -0.10
 		war_score_cost = 0.05
 	}
-	religion_category = pantheon
+	religion_category = saints
 	sacrifice_icon = sacrifice_penny
 	sacrifice_sound = "event:/SFX/UI/Religion/sfx_ui_religion_generic_sacrifice"
 }
@@ -49,17 +49,6 @@ continental = { # Continental
 		land_morale_modifier = 0.03
 		monthly_tyranny = -0.03
 		global_nobles_happyness = -0.05
-	}
-	religion_category = pantheon
-	sacrifice_icon = sacrifice_penny
-	sacrifice_sound = "event:/SFX/UI/Religion/sfx_ui_religion_generic_sacrifice"
-}
-byzantine_americanists = { # Neoellinismós
-	color = rgb { 64 44 143 }
-	modifier = {
-		global_citizen_happyness = 0.04
-		spearmen_discipline = 0.10
-		army_maintenance_cost = 0.15
 	}
 	religion_category = pantheon
 	sacrifice_icon = sacrifice_penny
@@ -171,7 +160,7 @@ catholic = { # Catholic- All catholic derived faiths for now
 		global_tax_modifier = -0.05
 		
 	}
-	religion_category = pantheon
+	religion_category = saints
 	is_monotheistic = yes
 	sacrifice_icon = sacrifice_communion
 	sacrifice_sound = "event:/SFX/UI/Religion/sfx_ui_religion_generic_sacrifice"
@@ -183,7 +172,7 @@ ursuline = { # Ursuline
 		religious_tech_investment = 0.05
 		monthly_political_influence_modifier = -0.05
 	}
-	religion_category = pantheon
+	religion_category = saints
 	is_monotheistic = yes
 	sacrifice_icon = sacrifice_communion
 	sacrifice_sound = "event:/SFX/UI/Religion/sfx_ui_religion_generic_sacrifice"
@@ -207,7 +196,7 @@ traiteurism = { # Traiteurism
 		global_population_growth = 0.03
 		global_pop_promotion_speed_modifier = -0.05
 	}
-	religion_category = pantheon
+	religion_category = saints
 	sacrifice_icon = sacrifice_communion
 	sacrifice_sound = "event:/SFX/UI/Religion/sfx_ui_religion_generic_sacrifice"
 }
@@ -218,7 +207,7 @@ exovedate = { # Exovedate
 		global_pop_conversion_speed_modifier = 0.10
 		global_manpower_modifier = -0.05
 	}
-	religion_category = pantheon
+	religion_category = saints
 	sacrifice_icon = sacrifice_communion
 	sacrifice_sound = "event:/SFX/UI/Religion/sfx_ui_religion_generic_sacrifice"
 }
@@ -229,7 +218,7 @@ la_hermandad = { # La Hermandad
 		religious_tech_investment = 0.10
 		global_pop_conversion_speed_modifier = -0.10
 	}
-	religion_category = pantheon
+	religion_category = saints
 	sacrifice_icon = sacrifice_communion
 	sacrifice_sound = "event:/SFX/UI/Religion/sfx_ui_religion_generic_sacrifice"
 }
@@ -240,7 +229,7 @@ particularist = { # Particularist
 		religious_tech_investment = 0.10
 		global_monthly_state_loyalty = -0.03
 	}
-	religion_category = pantheon
+	religion_category = saints
 	sacrifice_icon = sacrifice_communion
 	sacrifice_sound = "event:/SFX/UI/Religion/sfx_ui_religion_generic_sacrifice"
 }
@@ -251,7 +240,7 @@ animist = { # Animist
 		religious_tech_investment = 0.10
 		global_monthly_state_loyalty = -0.03
 	}
-	religion_category = pantheon
+	religion_category = saints
 	sacrifice_icon = sacrifice_communion
 	sacrifice_sound = "event:/SFX/UI/Religion/sfx_ui_religion_generic_sacrifice"
 }
@@ -262,7 +251,7 @@ cristero = { # Cristero
 		religious_tech_investment = 0.10
 		global_monthly_state_loyalty = -0.03
 	}
-	religion_category = pantheon
+	religion_category = saints
 	sacrifice_icon = sacrifice_communion
 	sacrifice_sound = "event:/SFX/UI/Religion/sfx_ui_religion_generic_sacrifice"
 }
@@ -273,7 +262,7 @@ insular = { # Insular
 		religious_tech_investment = 0.10
 		global_monthly_state_loyalty = -0.03
 	}
-	religion_category = pantheon
+	religion_category = saints
 	sacrifice_icon = sacrifice_communion
 	sacrifice_sound = "event:/SFX/UI/Religion/sfx_ui_religion_generic_sacrifice"
 }
@@ -365,7 +354,7 @@ promethean = { # Promethean
 		deify_ruler_cost_modifier = -0.15
 		monthly_tyranny = 0.03
 	}
-	religion_category = pantheon
+	religion_category = titans
 	sacrifice_icon = sacrifice_anvil
 	sacrifice_sound = "event:/SFX/UI/Religion/sfx_ui_religion_generic_sacrifice"
 }
@@ -376,7 +365,7 @@ arsenalist = { # Arsenalist
 		diplomatic_relations = 1
 		global_citizen_output = -0.05
 	}
-	religion_category = pantheon
+	religion_category = titans
 	sacrifice_icon = sacrifice_anvil
 	sacrifice_sound = "event:/SFX/UI/Religion/sfx_ui_religion_generic_sacrifice"
 }
@@ -387,7 +376,7 @@ galvanist = { # Galvanist
 		global_tax_modifier = 0.05
 		global_pop_promotion_speed_modifier = -0.25
 	}
-	religion_category = pantheon
+	religion_category = titans
 	sacrifice_icon = sacrifice_anvil
 	sacrifice_sound = "event:/SFX/UI/Religion/sfx_ui_religion_generic_sacrifice"
 }
@@ -398,7 +387,7 @@ sustainablist = { # Sustainablist
 		global_population_happiness = 0.03
 		country_civilization_value = -5
 	}
-	religion_category = pantheon
+	religion_category = force
 	sacrifice_icon = sacrifice_anvil
 	sacrifice_sound = "event:/SFX/UI/Religion/sfx_ui_religion_generic_sacrifice"
 }
@@ -665,9 +654,8 @@ guruist = { # Guruist
 		happiness_for_wrong_religion_modifier = 0.05
 		global_pop_promotion_speed_modifier = 0.25
 		monthly_wage_modifier = 0.20
-		
 	}
-	religion_category = pantheon
+	religion_category = gurus
 	sacrifice_icon = sacrifice_weed
 	sacrifice_sound = "event:/SFX/UI/Religion/sfx_ui_religion_generic_sacrifice"
 }
@@ -815,7 +803,7 @@ clairvoyant = { # Clairvoyant
 		price_state_investment_religious_cost_modifier = 0.25
 
 	}
-	religion_category = pantheon
+	religion_category = spirits
 	sacrifice_icon = sacrifice_ouija_board
 	sacrifice_sound = "event:/SFX/UI/Religion/sfx_ui_religion_generic_sacrifice"
 }
@@ -840,7 +828,7 @@ twainist = { # Twainist
 		build_cost = 0.10
 
 	}
-	religion_category = pantheon
+	religion_category = authors
 	sacrifice_icon = sacrifice_incense
 	sacrifice_sound = "event:/SFX/UI/Religion/sfx_ui_religion_generic_sacrifice"
 }
