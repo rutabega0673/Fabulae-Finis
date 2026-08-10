@@ -653,6 +653,14 @@
  WAW_ADJ:0 "Wawan"
  RRT:0 "Rat Rapids"
  RRT_ADJ:0 "Rapidian"
+ SNB:0 "Saint Boniface"
+ SNB_ADJ:0 "Algonquin"
+ GAT:0 "Gatineau"
+ GAT_ADJ:0 "Gatineauais"
+ ELG:0 "Elgin"
+ ELG_ADJ:0 "Elginer"
+ MDN:0 "Manidoowaaning"
+ MDN_ADJ:0 "Odawa"
 
 # West Canada #
  WNP:0 "Winnipeg"

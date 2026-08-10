@@ -332,6 +332,10 @@ AVA = "setup/countries/east_canada/avalon.txt"
 SUM = "setup/countries/east_canada/suomi.txt"
 WAW = "setup/countries/east_canada/wawa.txt"
 RRT = "setup/countries/east_canada/rat_rapids.txt"
+SNB = "setup/countries/east_canada/saint_boniface.txt"
+GAT = "setup/countries/east_canada/gatineau.txt"
+ELG = "setup/countries/east_canada/elgin.txt"
+MDN = "setup/countries/east_canada/manidoowaaning.txt"
 
 #West Canada
 WNP = "setup/countries/west_canada/winnipeg.txt"

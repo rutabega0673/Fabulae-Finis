@@ -26,7 +26,7 @@
 
 612={ #Arcadia
 	terrain="plains"
-	culture="haudenosaunee"
+	culture="upstater"
 	religion="gaiwiio"
 	trade_goods="wood"
 	civilization_value=20
@@ -50,7 +50,7 @@
 
 613={ #Hannibal
 	terrain="plains"
-	culture="haudenosaunee"
+	culture="upstater"
 	religion="gaiwiio"
 	trade_goods="fish"
 	civilization_value=20
@@ -137,7 +137,7 @@
 
 1099={ #Ticonderoga
 	terrain="hills"
-	culture="vermonter"
+	culture="hudsonian"
 	religion="americanist"
 	trade_goods="gunpowder"
 	civilization_value=10
@@ -150,7 +150,7 @@
 
 1100={ #North Elba
 	terrain="mountain"
-	culture="vermonter"
+	culture="upstater"
 	religion="ursuline"
 	trade_goods="vegetables"
 	civilization_value=10
@@ -163,7 +163,7 @@
 
 1101={ #Moriah
 	terrain="hills"
-	culture="vermonter"
+	culture="hudsonian"
 	religion="ursuline"
 	trade_goods="grain"
 	civilization_value=10
@@ -835,7 +835,7 @@
 
 5776={ #Seneca Falls
 	terrain="hills"
-	culture="haudenosaunee"
+	culture="upstater"
 	religion="gaiwiio"
 	trade_goods="horses"
 	civilization_value=18
@@ -861,7 +861,7 @@
 
 5777={ #Ithaca
 	terrain="hills"
-	culture="haudenosaunee"
+	culture="upstater"
 	religion="gaiwiio"
 	trade_goods="beer"
 	civilization_value=20
@@ -1312,7 +1312,7 @@
 
 7053={ #Victor
 	terrain="hills"
-	culture="haudenosaunee"
+	culture="upstater"
 	religion="gaiwiio"
 	trade_goods="maple"
 	civilization_value=18
@@ -1368,7 +1368,7 @@
 
 7825={ #Dannemora
 	terrain="hills"
-	culture="vermonter"
+	culture="upstater"
 	religion="ursuline"
 	trade_goods="wild_game"
 	civilization_value=10
@@ -1381,7 +1381,7 @@
 
 7826={ #Plattsburgh
 	terrain="hills"
-	culture="vermonter"
+	culture="hudsonian"
 	religion="ursuline"
 	trade_goods="cloth"
 	civilization_value=10

@@ -1405,7 +1405,7 @@ country = {
 
 		TIN = { # Ticonderoga
 			government = aristocratic_republic
-			primary_culture = vermonter
+			primary_culture = hudsonian
 			religion = americanist
 			capital = 1099
 
@@ -2704,14 +2704,14 @@ country = {
 			}
 
 			own_control_core = {
-				8721 9406 8719 8720 8599 8598 8062 9404 8063
+				8599 8598 8062 9404 8063
 				7954 7953 7955 1274 447 1272 449 448 1273 
 				3098 7847 6133 3097 3099 2565 2563 9495 9494
 				3707 2873 2872 3705 2871 3706
 				7872 7870 3498 3497 8505 8503 3496 8504 6302
 				4669 8061 9405 4671 4670 3562 3563 3564 2149 
 				1405 1403 1404 8380 7782 7780 8379 8378 7281 7280 7282 
-				7701 7704 7702 7703 1135 1136 7781
+				7701 7704 7702 7703 1135 7781
 			}
 		}
 		MTC = { # Montreal
@@ -3011,7 +3011,7 @@ country = {
 		}
 		CMP = { #Champlain
 			government = despotic_monarchy
-			primary_culture = vermonter
+			primary_culture = hudsonian
 			religion = ursuline
 			capital = 7826
 
@@ -3522,7 +3522,7 @@ country = {
 			}
 
 			own_control_core = {
-				2227 2226 2228 7512 7511 7513 7510 
+				2227 2226 2228 7512 7511 7513 7510 7346 7347
 			}
 		}
 		PRS = { # Presque Isle
@@ -5406,6 +5406,74 @@ country = {
 
 			own_control_core = {
 				7196 7197 2411
+			}
+		}
+		SNB = { # Saint-Boniface
+			government = despotic_monarchy
+			primary_culture = algonquin
+			religion = ursuline
+			capital = 3882
+
+			technology={
+				military_tech={ level=2 progress=0 }
+				civic_tech={ level=2 progress=0 }
+				religious_tech= { level=2 progress=0  }
+				oratory_tech= { level=2 progress =0 }
+			}
+
+			own_control_core = {
+				3882 3881 9347 9348 9349 9350
+			} 
+		}
+		GAT = { # Gatineau
+			government = despotic_monarchy
+			primary_culture = francontarien
+			religion = ursuline
+			capital = 1136
+
+			technology={
+				military_tech={ level=2 progress=0 }
+				civic_tech={ level=2 progress=0 }
+				religious_tech= { level=2 progress=0  }
+				oratory_tech= { level=2 progress =0 }
+			}
+
+			own_control_core = {
+				1136 1933 1931 1932 7345
+			}
+		}
+		ELG = { #Elgin
+			government = tribal_kingdom
+			primary_culture = odawa
+			religion = midewiwin
+			capital = 8719
+
+			technology={
+				military_tech={ level=1 progress=0 }
+				civic_tech={ level=1 progress=0 }
+				religious_tech= { level=1 progress=0  }
+				oratory_tech= { level=1 progress =0 }
+			}
+
+			own_control_core = {
+				8719 8720 9406 8721
+			}
+		}
+		MDN = { #Manidoowaaning
+			government = tribal_kingdom
+			primary_culture = odawa
+			religion = midewiwin
+			capital = 219
+
+			technology={
+				military_tech={ level=1 progress=0 }
+				civic_tech={ level=1 progress=0 }
+				religious_tech= { level=1 progress=0  }
+				oratory_tech= { level=1 progress =0 }
+			}
+
+			own_control_core = {
+				219 217 218
 			}
 		}
 	}

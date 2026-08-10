@@ -18,7 +18,7 @@ diplomacy = {
 	#}
 
 	#Virginia
-	dependency = { first = VIN second = VMI subject_type = feudatory }
+	#dependency = { first = VIN second = VMI subject_type = feudatory }
 
 	## Seven Nations ##
 	dependency = { first = HAD second = YNK subject_type = feudatory }
@@ -51,6 +51,11 @@ diplomacy = {
 	dependency = { first = TEX second = RIO subject_type = tributary }
 	dependency = { first = TEX second = ELD subject_type = tributary }
 	dependency = { first = TEX second = HRN subject_type = tributary }
+
+	## USA
+	dependency = { first = PRI second = DLV subject_type = feudatory }
+	dependency = { first = PRI second = TIN subject_type = feudatory }
+	dependency = { first = PRI second = CRT subject_type = feudatory }
 
 	## Oklahoman Tribes
 	defensive_league = {
