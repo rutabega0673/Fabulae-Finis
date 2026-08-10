@@ -31,13 +31,13 @@
 		female=yes
 		culture="minnesotan"
 		religion="lakeshore"
-		marry_character=char:7
 		no_stats=yes
 		add_martial=4
 		add_charisma=6
 		add_finesse=7
 		add_zeal=7
 		no_traits=yes
+		marry_character = char:7
 		add_trait="zealous"
 	}
 	9={ # One of W.E Hicks Sons

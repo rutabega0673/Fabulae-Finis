@@ -92,7 +92,7 @@
 1608={ #Powhatan
 	terrain="forest"
 	culture="southron"
-	religion="evangelical"
+	religion="americanist"
 	trade_goods="maple"
 	civilization_value=10
 	barbarian_power=0
@@ -118,7 +118,7 @@
 1764={ #Appomatox
 	terrain="forest"
 	culture="southron"
-	religion="evangelical"
+	religion="americanist"
 	trade_goods="horses"
 	civilization_value=10
 	barbarian_power=0
@@ -131,7 +131,7 @@
 1765={ #Farmville
 	terrain="plains"
 	culture="southron"
-	religion="evangelical"
+	religion="americanist"
 	trade_goods="cattle"
 	civilization_value=10
 	barbarian_power=0
@@ -144,7 +144,7 @@
 1766={ #Lynchburg
 	terrain="forest"
 	culture="southron"
-	religion="evangelical"
+	religion="americanist"
 	trade_goods="tobacco"
 	civilization_value=10
 	barbarian_power=0
@@ -157,7 +157,7 @@
 1767={ #Bedford
 	terrain="hills"
 	culture="southron"
-	religion="evangelical"
+	religion="americanist"
 	trade_goods="horses"
 	civilization_value=10
 	barbarian_power=0
@@ -248,7 +248,7 @@
 2003={ #Norfolk
 	terrain="marsh"
 	culture="hoi_toider"
-	religion="evangelical"
+	religion="americanist"
 	trade_goods="fruits"
 	civilization_value=10
 	barbarian_power=0
@@ -261,7 +261,7 @@
 2004={ #Virginia Beach
 	terrain="marsh"
 	culture="hoi_toider"
-	religion="evangelical"
+	religion="americanist"
 	trade_goods="fish"
 	civilization_value=10
 	barbarian_power=0
@@ -326,7 +326,7 @@
 5064={ #Petersburg
 	terrain="plains"
 	culture="southron"
-	religion="evangelical"
+	religion="americanist"
 	trade_goods="horses"
 	civilization_value=10
 	barbarian_power=0
@@ -339,7 +339,7 @@
 5065={ #Amelia
 	terrain="forest"
 	culture="southron"
-	religion="evangelical"
+	religion="americanist"
 	trade_goods="fruits"
 	civilization_value=10
 	barbarian_power=0
@@ -365,7 +365,7 @@
 5067={ #Chesterfield
 	terrain="plains"
 	culture="southron"
-	religion="evangelical"
+	religion="americanist"
 	trade_goods="horses"
 	civilization_value=10
 	barbarian_power=0
@@ -378,7 +378,7 @@
 5068={ #Richmond
 	terrain="farmland"
 	culture="southron"
-	religion="evangelical"
+	religion="americanist"
 	trade_goods="cloth"
 	civilization_value=10
 	barbarian_power=0
@@ -469,7 +469,7 @@
 6139={ #Sussex
 	terrain="forest"
 	culture="southron"
-	religion="evangelical"
+	religion="americanist"
 	trade_goods="tobacco"
 	civilization_value=10
 	barbarian_power=0
@@ -482,7 +482,7 @@
 6140={ #Smithfield
 	terrain="plains"
 	culture="southron"
-	religion="evangelical"
+	religion="americanist"
 	trade_goods="cattle"
 	civilization_value=10
 	barbarian_power=0
@@ -638,7 +638,7 @@
 8684={ #Danville
 	terrain="forest"
 	culture="southron"
-	religion="evangelical"
+	religion="revelationist"
 	trade_goods="grain"
 	civilization_value=10
 	barbarian_power=0
@@ -651,7 +651,7 @@
 8685={ #Pittsylvania
 	terrain="forest"
 	culture="southron"
-	religion="evangelical"
+	religion="americanist"
 	trade_goods="tubers"
 	civilization_value=10
 	barbarian_power=0
@@ -703,7 +703,7 @@
 9581={ #Brunswick
 	terrain="forest"
 	culture="southron"
-	religion="evangelical"
+	religion="americanist"
 	trade_goods="tobacco"
 	civilization_value=10
 	barbarian_power=0
@@ -716,7 +716,7 @@
 9582={ #Emporia
 	terrain="plains"
 	culture="southron"
-	religion="evangelical"
+	religion="americanist"
 	trade_goods="wood"
 	civilization_value=10
 	barbarian_power=0
@@ -729,7 +729,7 @@
 9583={ #Lunenburg
 	terrain="plains"
 	culture="southron"
-	religion="evangelical"
+	religion="americanist"
 	trade_goods="grain"
 	civilization_value=10
 	barbarian_power=0
@@ -742,7 +742,7 @@
 9584={ #Charlotte
 	terrain="farmland"
 	culture="southron"
-	religion="evangelical"
+	religion="americanist"
 	trade_goods="wood"
 	civilization_value=10
 	barbarian_power=0

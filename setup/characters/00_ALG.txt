@@ -29,13 +29,13 @@
 		culture="yinzic"
 		religion="promethean"
 		female=yes
-		marry_character=char:12
 		no_stats=yes
 		add_martial=3
 		add_charisma=7
 		add_finesse=4
 		add_zeal=5
 		no_traits=yes
+		marry_character = char:12
 		add_trait="stubborn"
 		add_trait="silver_tongued"
 		add_gold=200

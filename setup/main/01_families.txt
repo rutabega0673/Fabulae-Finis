@@ -23,28 +23,28 @@ family={
 			prestige=100
 			color = 3
 		}
-		4 = {
+		3 = {
 			key = "Hicks"
 			owner=ALX
 			culture=minnesotan
 			prestige=100
 			color = 2
 		}
-		5 = {
+		4 = {
 			key = "Patterson-Bonaparte"
 			owner=ATJ
 			culture=youser
 			prestige=150
 			color = 3
 		}
-		1000 = {
+		5 = {
 			key = "Clayton"
 			owner=ALG
 			culture=yinzic
 			prestige=200
 			color = 0
 		}
-		1001 = {
+		6 = {
 			key = "Alavrowski"
 			owner=HSY
 			culture=susquehannan
