@@ -958,8 +958,9 @@ clothes = {
 				is_female = no
 				age >= 13
 				OR = {
-					has_trait = pharaoh
-					has_trait = dishonored_pharaoh
+					country = {
+						religion = egyptology
+					}
 				}
 				is_ruler = yes
 			}
@@ -1002,6 +1003,273 @@ clothes = {
 					}
 				}
 				
+			}
+		}
+	}
+	## AtE Governments ##
+
+	#Americanist Rulers
+	americanist_male_ruler_modifier = {
+		dna_modifiers = {
+			accessory = {
+				mode = replace_template				
+				gene = hairstyles
+				template = americanist_hairstyles
+			}
+			accessory = {
+				mode = replace_template				
+				gene = clothes
+				template = american_clothes
+			}	
+			accessory = {
+				mode = replace_template
+				gene = clothes_layer2
+				template = no_top_layer
+			}			
+		}
+		weight = {
+			base = 0
+			
+			modifier = {
+				add = 100
+				is_female = no
+				age >= 13
+				OR = {
+					country = {
+						religion = americanist
+					}
+					country = {
+						religion = caesarist
+					}
+				}
+				is_ruler = yes
+			}
+		}
+	}
+	americanist_female_ruler_modifier = {
+		dna_modifiers = {
+			accessory = {
+				mode = replace_template				
+				gene = hairstyles
+				template = americanist_hairstyles
+			}
+			accessory = {
+				mode = replace_template				
+				gene = clothes
+				template = american_clothes
+			}	
+			accessory = {
+				mode = replace_template
+				gene = clothes_layer2
+				template = no_top_layer
+			}			
+		}
+		weight = {
+			base = 0
+			
+			modifier = {
+				add = 100
+				is_female = yes
+				age >= 13
+				OR = {
+					country = {
+						religion = americanist
+					}
+					country = {
+						religion = caesarist
+					}
+				}
+				is_ruler = yes
+			}
+		}
+	}
+	americanist_male_co_ruler_modifier = {
+		dna_modifiers = {
+			accessory = {
+				mode = replace_template				
+				gene = hairstyles
+				template = americanist_hairstyles
+			}
+			accessory = {
+				mode = replace_template				
+				gene = clothes
+				template = american_clothes
+			}	
+			accessory = {
+				mode = replace_template
+				gene = clothes_layer2
+				template = no_top_layer
+			}			
+		}
+		weight = {
+			base = 0
+			
+			modifier = {
+				add = 100
+				is_female = no
+				age >= 13
+				OR = {
+					country = {
+						religion = americanist
+					}
+					country = {
+						religion = caesarist
+					}
+				}
+				is_co_ruler = yes
+			}
+		}
+	}
+	americanist_female_co_ruler_modifier = {
+		dna_modifiers = {
+			accessory = {
+				mode = replace_template				
+				gene = hairstyles
+				template = americanist_hairstyles
+			}
+			accessory = {
+				mode = replace_template				
+				gene = clothes
+				template = american_clothes
+			}	
+			accessory = {
+				mode = replace_template
+				gene = clothes_layer2
+				template = no_top_layer
+			}			
+		}
+		weight = {
+			base = 0
+			
+			modifier = {
+				add = 100
+				is_female = yes
+				age >= 13
+				OR = {
+					country = {
+						religion = americanist
+					}
+					country = {
+						religion = caesarist
+					}
+				}
+				is_co_ruler = yes
+			}
+		}
+	}
+
+	#Industrialist Rulers
+	industrialist_male_ruler_modifier = {
+		dna_modifiers = {
+			#accessory = {
+			#	mode = replace_template				
+			#	gene = hairstyles
+			#	template = american_hairstyles
+			#}
+			accessory = {
+				mode = replace_template				
+				gene = clothes
+				template = bussines_clothes
+			}
+			accessory = {
+				mode = replace_template
+				gene = clothes_layer2
+				template = no_top_layer
+			}			
+		}
+		weight = {
+			base = 0
+			
+			modifier = {
+				add = 100
+				is_female = no
+				age >= 13
+				OR = {
+					country = {
+						religion = promethean
+					}
+					country = {
+						religion = galvanist
+					}
+					country = {
+						religion = arsenalist
+					}
+				}
+				is_ruler = yes
+			}
+		}
+	}
+	industrialist_female_ruler_modifier = {
+		dna_modifiers = {
+			#accessory = {
+			#	mode = replace_template				
+			#	gene = hairstyles
+			#	template = american_hairstyles
+			#}
+			accessory = {
+				mode = replace_template				
+				gene = clothes
+				template = bussines_clothes
+			}	
+			accessory = {
+				mode = replace_template
+				gene = clothes_layer2
+				template = no_top_layer
+			}			
+		}
+		weight = {
+			base = 0
+			
+			modifier = {
+				add = 100
+				is_female = yes
+				age >= 13
+				OR = {
+					country = {
+						religion = promethean
+					}
+					country = {
+						religion = galvanist
+					}
+					country = {
+						religion = arsenalist
+					}
+				}
+				is_ruler = yes
+			}
+		}
+	}
+
+	#Ate Commanders 
+	ursuline_soldier_clothes_modifier = {
+		dna_modifiers = {
+			accessory = {
+				mode = replace_template				
+				gene = clothes
+				template = knight_soldier_french_clothes_template 
+			}
+			accessory = {
+				mode = replace_template				
+				gene = clothes_layer2
+				template = no_top_layer
+			}			
+		}
+		weight = {
+			base = 0	
+			
+			modifier = {
+				add = 100 
+				is_female = no			
+				OR = {
+					country = {
+						religion = ursuline
+					}	
+				}
+				OR = { 		
+					is_general = yes
+					is_admiral = yes
+					has_trait = gladiator
+				}
 			}
 		}
 	}

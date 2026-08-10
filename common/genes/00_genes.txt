@@ -9134,12 +9134,19 @@ accessory_genes = {
         knight_soldier_clothes_template = {
             index = 60
             male = {
-                1 = male_clothes_american_3
-                1 = male_clothes_american_3_color2
-                1 = male_clothes_american_3_color3
-                1 = male_clothes_american_3_color4
-                1 = male_clothes_american_3_color5
-                1 = male_clothes_american_3_color6
+                1 = male_clothes_american_3 #USA
+                1 = male_clothes_american_3_color2 #Industrialist
+                1 = male_clothes_american_3_color3 #Fleur de Lis
+                1 = male_clothes_american_3_color4 #Green
+                1 = male_clothes_american_3_color5 #Knights Templar
+                1 = male_clothes_american_3_color6 #Red / Spartacist
+            }
+        }
+
+        knight_soldier_french_clothes_template = {
+            index = 61
+            male = {
+                1 = male_clothes_american_3_color3 #Fleur de Lis
             }
         }
     }       

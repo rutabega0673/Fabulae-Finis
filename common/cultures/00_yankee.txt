@@ -2137,6 +2137,7 @@
 	
 	graphical_culture = roman_gfx
 	ethnicities = {
-		10 = east_coast
+		10 = roman
+		2 = greek
 	}
 }
