@@ -134,8 +134,60 @@ deity_manager = {
 			deity = deity_steinbeck
 		}
 		333 = {
-			key = omen_pulaski
-			deity = deity_pulaski
+			key = omen_macarthur
+			deity = deity_macarthur
+		}
+		334 = {
+			key = omen_grant
+			deity = deity_grant
+		}
+		335 = {
+			key = omen_sherman
+			deity = deity_sherman
+		}
+		336 = {
+			key = omen_fremont
+			deity = deity_fremont
+		}
+		337 = {
+			key = omen_caesarist_eisenhower
+			deity = deity_caesarist_eisenhower
+		}
+		338 = {
+			key = omen_nimitz
+			deity = deity_nimitz
+		}
+		339 = {
+			key = omen_kimball
+			deity = deity_kimball
+		}
+		340 = {
+			key = omen_patton
+			deity = deity_patton
+		}
+		341 = {
+			key = omen_polk
+			deity = deity_polk
+		}
+		342 = {
+			key = omen_gadsen
+			deity = deity_gadsen
+		}
+		343 = {
+			key = omen_seward
+			deity = deity_seward
+		}
+		344 = {
+			key = omen_marshall
+			deity = deity_marshall
+		}
+		345 = {
+			key = omen_soul_of_america
+			deity = deity_soul_of_america
+		}
+		346 = {
+			key = omen_caesarist_jefferson
+			deity = deity_caesarist_jefferson
 		}
 	}
 }

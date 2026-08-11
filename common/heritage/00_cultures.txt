@@ -807,6 +807,19 @@ francontarien_heritage = {
         primary_culture = francontarien
 	}
 }
+muskrat_french_heritage = {
+   	modifier = {
+        #good
+        happiness_for_same_culture_modifier = 0.03
+        global_commerce_modifier = 0.05
+      #bad
+        loyalty_to_overlord = -10
+   }
+
+   trigger = {
+        primary_culture = michiganais
+	}
+}
 #Culture Group
 midwestern_heritage = {
    	modifier = {

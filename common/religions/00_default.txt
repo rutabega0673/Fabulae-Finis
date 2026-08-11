@@ -39,7 +39,7 @@ heartful = { # Heartful
 		build_time = -0.10
 		war_score_cost = 0.05
 	}
-	religion_category = saints
+	religion_category = virtues
 	sacrifice_icon = sacrifice_penny
 	sacrifice_sound = "event:/SFX/UI/Religion/sfx_ui_religion_generic_sacrifice"
 }

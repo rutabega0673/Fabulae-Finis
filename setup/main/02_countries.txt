@@ -4476,7 +4476,7 @@ country = {
 		}
 		PDT = { # Pendleton
 			government = military_district
-			primary_culture = inlander
+			primary_culture = meseteno
 			religion = caesarist
 			capital = 194
 

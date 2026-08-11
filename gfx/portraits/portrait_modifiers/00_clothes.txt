@@ -1038,9 +1038,6 @@ clothes = {
 					country = {
 						religion = americanist
 					}
-					country = {
-						religion = caesarist
-					}
 				}
 				is_ruler = yes
 			}
@@ -1074,9 +1071,6 @@ clothes = {
 				OR = {
 					country = {
 						religion = americanist
-					}
-					country = {
-						religion = caesarist
 					}
 				}
 				is_ruler = yes
@@ -1112,9 +1106,6 @@ clothes = {
 					country = {
 						religion = americanist
 					}
-					country = {
-						religion = caesarist
-					}
 				}
 				is_co_ruler = yes
 			}
@@ -1148,9 +1139,6 @@ clothes = {
 				OR = {
 					country = {
 						religion = americanist
-					}
-					country = {
-						religion = caesarist
 					}
 				}
 				is_co_ruler = yes
