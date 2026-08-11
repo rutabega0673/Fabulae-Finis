@@ -1,9 +1,9 @@
-﻿HEAD DEV
+HEAD DEV
 rutabega6
 
 DEV TEAM
 Izn
-Chopped Strawberries/Mai
+Chopped Strawberries
 Thakia
 Haghog
 
@@ -13,7 +13,10 @@ Terra Indomita
 Gift of the Nile
 Imperatrix: Victoria
 
+
 AtE CK3 Dev Team 
+
+New Era, New World for some culture namelists
 
 3D MODEL CREDITS
 "Male Fashion Hair collection 01 & 02 lowpoly" (https://skfb.ly/oVr9P) & (https://skfb.ly/oVrKr) by Vincent Freelance is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).

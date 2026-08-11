@@ -241,7 +241,7 @@
 
 1475={ #Napoleon
 	terrain="steppes"
-	culture="northlander"
+	culture="wolgadeutsche"
 	religion="lutheran"
 	trade_goods="cattle"
 	civilization_value=3

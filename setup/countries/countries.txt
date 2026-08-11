@@ -295,6 +295,8 @@ ELK = "setup/countries/west_coast/elko.txt"
 MMT = "setup/countries/west_coast/mammoth_lakes.txt"
 VCI = "setup/countries/west_coast/victoria_canada.txt"
 BHL = "setup/countries/west_coast/bellingham.txt"
+KLM = "setup/countries/west_coast/klamath.txt"
+ROG = "setup/countries/west_coast/rogue.txt"
 
 
 #East Canada

@@ -87,7 +87,7 @@ types religions {
 		}
 		religion_icon = {
 			texture = "gfx/interface/icons/religions/decadentist.dds"
-			visible = "[EqualTo_string(Religion.GetNameWithNoTooltip, Localize('decadentist'))]"
+			visible = "[EqualTo_string(Religion.GetNameWithNoTooltip, Localize('capitalist'))]"
 		}
 		religion_icon = {
 			texture = "gfx/interface/icons/religions/ozymandism.dds"
@@ -176,6 +176,30 @@ types religions {
 		religion_icon = {
 			texture = "gfx/interface/icons/religions/exovedate.dds"
 			visible = "[EqualTo_string(Religion.GetNameWithNoTooltip, Localize('exovedate'))]"
+		}
+		religion_icon = {
+			texture = "gfx/interface/icons/religions/sun_dance.dds"
+			visible = "[EqualTo_string(Religion.GetNameWithNoTooltip, Localize('sun_dance'))]"
+		}
+		religion_icon = {
+			texture = "gfx/interface/icons/religions/bahai.dds"
+			visible = "[EqualTo_string(Religion.GetNameWithNoTooltip, Localize('bahai'))]"
+		}
+		religion_icon = {
+			texture = "gfx/interface/icons/religions/fogsong.dds"
+			visible = "[EqualTo_string(Religion.GetNameWithNoTooltip, Localize('fogsong'))]"
+		}
+		religion_icon = {
+			texture = "gfx/interface/icons/religions/rivertracer.dds"
+			visible = "[EqualTo_string(Religion.GetNameWithNoTooltip, Localize('rivertracer'))]"
+		}
+		religion_icon = {
+			texture = "gfx/interface/icons/religions/colossalist.dds"
+			visible = "[EqualTo_string(Religion.GetNameWithNoTooltip, Localize('colossalist'))]"
+		}
+		religion_icon = {
+			texture = "gfx/interface/icons/religions/midewiwin.dds"
+			visible = "[EqualTo_string(Religion.GetNameWithNoTooltip, Localize('midewiwin'))]"
 		}
 	}
 }

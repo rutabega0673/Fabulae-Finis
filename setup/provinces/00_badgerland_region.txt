@@ -761,7 +761,7 @@
 
 5122={ #Sakēmaewataenoh
 	terrain="plains"
-	culture="cheesehead"
+	culture="wisconsindeutsch"
 	religion="lakeshore"
 	trade_goods="tubers"
 	civilization_value=9
@@ -778,7 +778,7 @@
 
 5123={ #Ahkōnemeh
 	terrain="plains"
-	culture="cheesehead"
+	culture="wisconsindeutsch"
 	religion="lakeshore"
 	trade_goods="wild_game"
 	civilization_value=8

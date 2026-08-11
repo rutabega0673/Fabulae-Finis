@@ -583,6 +583,10 @@
  VCI_ADJ:0 "Victorian"
  BHL:0 "Bellingham"
  BHL_ADJ:0 "Bellinghammer"
+ ROG:0 "Rogue"
+ ROG_ADJ:0 "Rogue"
+ KLM:0 "Klamath"
+ KLM_ADJ:0 "Klamathian"
 
  ## East Canada ##
  FRO:0 "Francontario"

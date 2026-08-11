@@ -4157,7 +4157,7 @@ country = {
 			}
 		}
 		PTT = { # Portland
-			government = theocratic_monarchy
+			government = cascadian_diarchy
 			primary_culture = cascadian
 			religion = gaian
 			capital = 2749
@@ -4175,7 +4175,7 @@ country = {
 			}
 		}
 		BVT = { # Beaverton
-			government = theocratic_monarchy
+			government = cascadian_diarchy
 			primary_culture = cascadian
 			religion = gaian
 			capital = 2693
@@ -4193,7 +4193,7 @@ country = {
 			}
 		}
 		VCC = { # Vancouver WA
-			government = theocratic_monarchy
+			government = cascadian_diarchy
 			primary_culture = cascadian
 			religion = gaian
 			capital = 3325
@@ -4296,7 +4296,7 @@ country = {
 			}
 		}
 		AST = { # Astoria
-			government = theocratic_monarchy
+			government = cascadian_diarchy
 			primary_culture = cascadian
 			religion = gaian
 			capital = 2725
@@ -4314,7 +4314,7 @@ country = {
 			}
 		}
 		WDB = { # Woodburn
-			government = theocratic_monarchy
+			government = cascadian_diarchy
 			primary_culture = cascadian
 			religion = gaian
 			capital = 653
@@ -4332,7 +4332,7 @@ country = {
 			}
 		}
 		INO = { # Independence OR
-			government = theocratic_monarchy
+			government = cascadian_diarchy
 			primary_culture = kalapuya
 			religion = gaian
 			capital = 4937
@@ -4350,7 +4350,7 @@ country = {
 			}
 		}
 		EUG = { # Eugene
-			government = theocratic_monarchy
+			government = cascadian_diarchy
 			primary_culture = cascadian
 			religion = gaian
 			capital = 5429
@@ -4368,7 +4368,7 @@ country = {
 			}
 		}
 		SLL = { # Seattle
-			government = theocratic_monarchy
+			government = cascadian_diarchy
 			primary_culture = cascadian
 			religion = gaian
 			capital = 4871
@@ -4386,7 +4386,7 @@ country = {
 			}
 		}
 		VCI = { # Victoria Canada
-			government = theocratic_monarchy
+			government = cascadian_diarchy
 			primary_culture = canuck
 			religion = gaian
 			capital = 4602
@@ -4404,7 +4404,7 @@ country = {
 			}
 		}
 		BHL = { # Bellingham
-			government = theocratic_monarchy
+			government = cascadian_diarchy
 			primary_culture = coast_salish
 			religion = gaian
 			capital = 7864
@@ -4422,7 +4422,7 @@ country = {
 			}
 		}
 		ABL = { # Albany OR
-			government = theocratic_monarchy
+			government = cascadian_diarchy
 			primary_culture = cascadian
 			religion = gaian
 			capital = 4780
@@ -5474,6 +5474,40 @@ country = {
 
 			own_control_core = {
 				219 217 218
+			}
+		}
+		KLM = { # Klamath
+			government = tribal_kingdom
+			primary_culture = klamath
+			religion = loneranger
+			capital = 390
+
+			technology={
+				military_tech={ level=1 progress=0 }
+				civic_tech={ level=1 progress=0 }
+				religious_tech= { level=1 progress=0  }
+				oratory_tech= { level=1 progress =0 }
+			}
+
+			own_control_core = {
+				390 8397 8805 8804 3422 2424
+			}
+		}
+		ROG = { # Rogue
+			government = tribal_kingdom
+			primary_culture = cascadian
+			religion = gaian
+			capital = 4440
+
+			technology={
+				military_tech={ level=1 progress=0 }
+				civic_tech={ level=1 progress=0 }
+				religious_tech= { level=1 progress=0  }
+				oratory_tech= { level=1 progress =0 }
+			}
+
+			own_control_core = {
+				4440 4438 4439 6721 4076 6722 4075 6723
 			}
 		}
 	}
