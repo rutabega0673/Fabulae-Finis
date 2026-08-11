@@ -688,21 +688,6 @@ mormon = { # Mainline Mormonism
 	sacrifice_sound = "event:/SFX/UI/Religion/sfx_ui_religion_generic_sacrifice"
 }
 
-## Scientology ##
-scientology = { # 
-	color = rgb { 62 119 119 }
-	modifier = { #placeholder
-		monthly_political_influence_modifier = 0.05
-		global_pop_conversion_speed_modifier = 0.25
-		agressive_expansion_impact = 0.10
-		
-	}
-	religion_category = pantheon
-	is_monotheistic = yes
-	sacrifice_icon = sacrifice_incense
-	sacrifice_sound = "event:/SFX/UI/Religion/sfx_ui_religion_generic_sacrifice"
-}
-
 ## Kinemite ##
 kinemite = { # Kinemite
 	color = rgb { 82 82 82 }
@@ -713,7 +698,7 @@ kinemite = { # Kinemite
 		
 	}
 	religion_category = pantheon
-	is_monotheistic = yes
+	#is_monotheistic = yes
 	sacrifice_icon = sacrifice_incense
 	sacrifice_sound = "event:/SFX/UI/Religion/sfx_ui_religion_generic_sacrifice"
 }
@@ -722,13 +707,13 @@ kinemite = { # Kinemite
 romano_humanism = { # Romano-Humanism
 	color = rgb { 30 100 250 }
 	modifier = { #placeholder
-		global_citizen_output = 0.10
-		country_civilization_value = 0.05
+		global_citizen_output = 0.05
+		country_civilization_value = 5
 		global_freemen_happyness = -0.05
 		
 	}
 	religion_category = pantheon
-	is_monotheistic = yes
+	#is_monotheistic = yes
 	sacrifice_icon = sacrifice_incense
 	sacrifice_sound = "event:/SFX/UI/Religion/sfx_ui_religion_generic_sacrifice"
 }

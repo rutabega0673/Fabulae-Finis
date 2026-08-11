@@ -554,14 +554,14 @@
  office_foreign_minister_old_southern:0 "Burgess of the House"
  office_royal_tutor_old_southern:0 "Burgess of Education"
  office_marshal_old_southern:0 "Burgess-Marshal"
- office_master_of_the_guard_old_southern:0 "Burgess of Defense"
+ office_master_of_the_guard_old_southern:0 "Burgess-Constable"
  office_high_priest_monarchy_old_southern:0 "Court Chaplain"
- office_philosopher_old_southern:0 "Burgess-Judge"
+ office_philosopher_old_southern:0 "Chief Justice"
  office_steward_old_southern:0 "Burgess of the Treasury"
  office_physician_old_southern:0 "Burgess of Health"
 
  #Old Southern Republic Offices
- office_augur_old_southern:0 "Burgess-Judge"
+ office_augur_old_southern:0 "Chief Justice"
  office_plebeian_aedile_old_southern:0 "Speaker of the Assembly"
  office_censor_old_southern:0 "Burgess of the House"
  office_tribune_of_the_soldiers_old_southern:0 "Burgess-Marshal"

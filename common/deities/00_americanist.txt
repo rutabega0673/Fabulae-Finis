@@ -1204,3 +1204,103 @@ deity_caesarist_jefferson = {
 		culture_apotheosis_assimilate_effect = yes
 	}
 }
+deity_pershing = {
+	trigger = {
+		
+		OR = {
+			common_deity_trigger = {
+				RELIGION = caesarist
+			}
+			deity:omen_pershing = {
+				holy_site_deity_check_trigger = yes
+			}
+		}
+	}
+	icon = deity_eloquence
+	passive_modifier = { happiness_for_same_religion_modifier = deity_happiness_for_same_religion_modifier }
+	omen = { happiness_for_wrong_culture_modifier = omen_happiness_for_wrong_culture_modifier_svalue }
+	religion = caesarist
+	deity_category = culture
+	deification_trigger = {
+		can_deify_trigger = yes
+	}
+
+	on_activate = {
+		culture_apotheosis_assimilate_effect = yes
+	}
+}
+deity_stoner = {
+	trigger = {
+		
+		OR = {
+			common_deity_trigger = {
+				RELIGION = caesarist
+			}
+			deity:omen_stoner = {
+				holy_site_deity_check_trigger = yes
+			}
+		}
+	}
+	icon = deity_war
+	passive_modifier = { military_tech_investment = deity_military_tech_investment_svalue }
+	omen = { light_infantry_offensive = 0.10 } #Bonus from Omen
+	religion = caesarist
+	deity_category = war
+	deification_trigger = {
+		can_deify_trigger = yes
+	}
+
+	on_activate = {
+		war_apotheosis_martial_tech_effect = yes
+	}
+}
+deity_seabees = {
+	trigger = {
+		
+		OR = {
+			very_rare_deity_trigger = {
+				RELIGION = caesarist
+			}
+			deity:omen_seabees = {
+				holy_site_deity_check_trigger = yes
+			}
+		}
+	}
+	icon = deity_wealth
+	passive_modifier = { build_time = deity_build_time_svalue }
+	omen = { oratory_tech_investment = omen_oratory_tech_investment } #Bonus from Omen
+	religion = caesarist
+	deity_category = economy
+	deification_trigger = {
+		can_deify_trigger = yes
+	}
+
+	on_activate = {
+		war_apotheosis_martial_tech_effect = yes
+	}
+}
+deity_garand = {
+	trigger = {
+		
+		OR = {
+			very_rare_deity_trigger = {
+				RELIGION = caesarist
+			}
+			deity:omen_garand = {
+				holy_site_deity_check_trigger = yes
+			}
+		}
+	}
+	icon = deity_war
+	passive_modifier = { discipline = deity_discipline_svalue }
+	omen = { archers_offensive = 0.1 }
+	religion = caesarist
+	deity_category = war
+	deification_trigger = {
+		can_deify_trigger = yes
+	}
+
+	on_activate = {
+		military_apotheosis_manpower_effect = yes
+	}
+}

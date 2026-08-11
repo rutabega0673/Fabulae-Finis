@@ -341,6 +341,10 @@
 	civilization_value=9
 	barbarian_power=0
 	province_rank="settlement"
+	freemen={
+		culture="wolgadeutsche"
+		amount=1
+	}
 	tribesmen={
 		amount=5
 	}
@@ -1033,6 +1037,10 @@
 	tribesmen={
 		amount=4
 	}
+	slaves={
+		culture="northlander"
+		amount=1
+	}
 }
 
 8373={ #Oklee
@@ -1044,7 +1052,11 @@
 	barbarian_power=0
 	province_rank="settlement"
 	tribesmen={
-		amount=4
+		amount=3
+	}
+	slaves={
+		culture="northlander"
+		amount=1
 	}
 }
 
@@ -1058,6 +1070,14 @@
 	province_rank="settlement"
 	tribesmen={
 		amount=7
+	}
+	tribesmen={
+		culture="svenskamerikaner"
+		amount=2
+	}
+	tribesmen={
+		culture="norskamerikanere"
+		amount=1
 	}
 	slaves={
 		amount=2

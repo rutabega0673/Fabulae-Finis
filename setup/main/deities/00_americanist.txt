@@ -189,5 +189,21 @@ deity_manager = {
 			key = omen_caesarist_jefferson
 			deity = deity_caesarist_jefferson
 		}
+		347 = {
+			key = omen_pershing
+			deity = deity_pershing
+		}
+		348 = {
+			key = omen_stoner
+			deity = deity_stoner
+		}
+		349 = {
+			key = omen_seabees
+			deity = deity_seabees
+		}
+		350 = {
+			key = omen_garand
+			deity = deity_garand
+		}
 	}
 }
