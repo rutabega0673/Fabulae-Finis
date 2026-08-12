@@ -1,0 +1,44 @@
+﻿"INR"={
+	country="INR"
+	16={ 
+		first_name="Lancelot"
+		family = c:INR.fam:Roundling
+		birth_date=2300.10.5
+		culture="southron"
+		religion="episcopalian"
+		no_stats=yes
+		add_martial=11
+		add_charisma=8
+		add_finesse=3
+		add_zeal=9
+		no_traits=yes
+		add_trait="charming"
+		add_trait="brave"
+		add_trait="pious"
+		add_gold=100
+		add_popularity=70
+		c:INR={
+			set_as_ruler=char:16
+		}
+		dna = "Nt023XmenlSvza/NAoECgQJvAm8CfgJ+AoICggKCAoICgAKAAoQChAKMAowBVAFUAn0CfQKLAosCagJqAncCdwJ7AnsDpAOkAnMCcwKAAoACdwJ3AVkBWQJnAmcCfgJ+AncCdwJ1AnUCdAJ0AokCiQAcABwCeAJ4Am0CbQKGAoYDpwOnAmkCaQJ2AnYClgKWBN0E3QJyAnIEuAS4AmoCagFXAVcChQKFAnACcAOvA68CcwJzApECkQKJAokCiAKIAoUChQKMAowCcgJyAmoCagJoAmgClgKWAnwCfAKIAogCjAKMAngCeAIWAhYARABEAKoAqgDNAM0C7gLuACoAKgBuAG4A4gDiAT4BPgEzATMDFQMVAO8A7wB/AH8AHQAdARwBHADgAOAC5ALkALAAsAB+AH4BSQFJAI8AjwB/AH8A4gDiANMA0wCdAJ0APAA8AGoAagNSA1IBWgFaAMEAwQASABIBHwEfA30DfQC/AL8I7AjsAH8AfwBJAEkVggf1ADAAMAQCBJgNDgbWBU8e4wAAAAAAAAAAAAAAAA=="
+	}
+	17={ 
+		first_name="Guinevere"
+		family = c:INR.fam:Roundling
+		birth_date=2291.4.19
+		culture="piedmontese"
+		religion="episcopalian"
+		female=yes
+		no_stats=yes
+		add_martial=3
+		add_charisma=8
+		add_finesse=9
+		add_zeal=5
+		no_traits=yes
+		marry_character=char:16
+		add_trait="wise"
+		add_trait="lustful" 
+		add_trait="loving"
+		dna = "aD423XmenlSvza/NAoECgQJvAm8CfgJ+AoICggKCAoICgAKAAoQChAKMAowBVAFUAn0CfQKLAosCagJqAncCdwJ7AnsDpAOkAnMCcwKAAoACdwJ3AVkBWQJnAmcCfgJ+AncCdwJ1AnUCdAJ0AokCiQAcABwCeAJ4Am0CbQKGAoYDpwOnAmkCaQJ2AnYClgKWBN0E3QJyAnIEuAS4AmoCagFXAVcChQKFAnACcAOvA68CcwJzApECkQKJAokCiAKIAoUChQKMAowCcgJyAmoCagJoAmgClgKWAnwCfAKIAogCjAKMAngCeAIWAhYARABEAKoAqgDNAM0C7gLuACoAKgBuAG4A4gDiAT4BPgEzATMDFQMVAO8A7wB/AH8AHQAdARwBHADgAOAC5ALkALAAsAB+AH4BSQFJAI8AjwB/AH8A4gDiANMA0wCdAJ0APAA8AGoAagNSA1IBWgFaAMEAwQASABIBHwEfA30DfQC/AL8I7AjsAH8AfwBJAEkI+Qf1ADAAMAQCBJgNDgbWBU8e4wAAAAAAAAAAAAAAAA=="
+	}
+}

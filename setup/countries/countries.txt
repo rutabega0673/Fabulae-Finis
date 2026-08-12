@@ -45,6 +45,18 @@ PSM = "setup/countries/east_coast/passamquoddy.txt"
 STJ = "setup/countries/east_coast/saint_johnsbury.txt"
 MNN = "setup/countries/east_coast/maine.txt"
 FVV = "setup/countries/east_coast/frenchville.txt"
+NMB = "setup/countries/east_coast/northumberland.txt"
+WMP = "setup/countries/east_coast/williamsport_real.txt"
+BLT = "setup/countries/east_coast/beltway.txt"
+FDG = "setup/countries/east_coast/fredericksburg.txt"
+HGG = "setup/countries/east_coast/hagerstown.txt"
+TRT = "setup/countries/east_coast/trenton.txt"
+APL = "setup/countries/east_coast/appalachian_league.txt"
+NFK = "setup/countries/east_coast/norfolk.txt"
+VMS = "setup/countries/east_coast/williamsburg.txt"
+WDC = "setup/countries/east_coast/washington.txt"
+ARL = "setup/countries/east_coast/arlington.txt"
+VLL = "setup/countries/east_coast/villas.txt"
 
 
 #Midwest

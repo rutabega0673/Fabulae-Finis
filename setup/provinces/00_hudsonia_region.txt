@@ -898,7 +898,7 @@
 6054={ #Bath
 	terrain="hills"
 	culture="upstater"
-	religion="old_order"
+	religion="catholic"
 	trade_goods="wood"
 	civilization_value=18
 	barbarian_power=0
@@ -922,7 +922,7 @@
 6055={ #Hornell
 	terrain="hills"
 	culture="upstater"
-	religion="old_order"
+	religion="catholic"
 	trade_goods="tubers"
 	civilization_value=20
 	barbarian_power=0
@@ -948,7 +948,7 @@
 6056={ #Corning
 	terrain="forest"
 	culture="upstater"
-	religion="old_order"
+	religion="catholic"
 	trade_goods="vegetables"
 	civilization_value=18
 	barbarian_power=0

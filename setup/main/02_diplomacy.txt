@@ -55,7 +55,7 @@ diplomacy = {
 	## USA
 	dependency = { first = PRI second = DLV subject_type = feudatory }
 	dependency = { first = PRI second = TIN subject_type = feudatory }
-	dependency = { first = PRI second = CRT subject_type = feudatory }
+	dependency = { first = PRI second = BLT subject_type = feudatory }
 
 	## Oklahoman Tribes
 	defensive_league = {
@@ -74,7 +74,6 @@ diplomacy = {
 	defensive_league = {
 		member = ATJ
 		member = PRN
-		member = NWK
-		member = HAK
+		member = TRT
 	}
 }

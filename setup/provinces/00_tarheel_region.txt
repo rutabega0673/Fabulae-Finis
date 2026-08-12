@@ -726,6 +726,19 @@
 	}
 }
 
+7390={ #Goldsboro
+	terrain="plains"
+	culture="piedmontese"
+	religion="revelationist"
+	trade_goods="stone"
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
 7391={ #Clayton
 	terrain="forest"
 	culture="piedmontese"

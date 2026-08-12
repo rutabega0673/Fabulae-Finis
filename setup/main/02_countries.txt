@@ -20,10 +20,10 @@ country = {
 
 			own_control_core = {
 				4077 1708 3710 3709 9588 8639 3708 1706 8638 1704 1707 7136 7135 1705 
-				3183 3670 3186 3185 5855 5854 5853 
+				3183 3670 4490
 				9524 4491 9525 9523 6168 6167 482
 				82 84 3506 3507 3505 5237 
-				3668 3669 8449
+				3668 3669
 			}
 		}
 
@@ -79,7 +79,7 @@ country = {
 			}
 
 			own_control_core = {
-				2812 2811 2813 538 537 536 2089 2090
+				2812 2811 2813 538 537 536 2089 2090 5855 5854 5853
 			}
 		}
 		ATJ = {
@@ -119,7 +119,7 @@ country = {
 			}
 
 			own_control_core = {
-				7761 5961 480
+				7761 5961 480 5960
 			}
 		}
 		NWK = {
@@ -187,7 +187,7 @@ country = {
 			}
 
 			own_control_core = {
-				5068 6955 5066 5064 5067 1608 1605 1607 1763 1606 5065 1765 1764
+				5068 6955 5066 5064 5067 1608 1605 1607 1763 1606 5065 1765 1764 9582 9581 9583 9584 1766 8685 8684 1767 8683 3150 3152 8682
 			}
 		}
 		VMI = {
@@ -204,7 +204,7 @@ country = {
 			}
 
 			own_control_core = {
-				6523
+				6523 8832 8833 6524 6435 8834
 			}
 		}
 		NOL = { #New Orleans
@@ -371,8 +371,8 @@ country = {
 			own_control_core = {
 				9038 9035 9037 4011 11648 8771 8769 8770 9036 2007 11664 795
 				3776 3774 3773 3775 4013 4012 8967 8968 794
-				11652 11644 11646 4983 3746 3745 5463 5462
-				8592 8590 6595 2790 6593 6594 2791 5459
+				11652 11644 11646 4983 3746 3745
+				6593 6594 2791
 			}
 		}
 		STL = { #St. Louis
@@ -737,7 +737,7 @@ country = {
 		SCL = { # Socal
 			government = despotic_monarchy
 			primary_culture = socaleno
-			religion = colossalist
+			religion = twelver
 			capital = 3530
 
 			technology={
@@ -1266,8 +1266,8 @@ country = {
 			}
 
 			own_control_core = {
-				612 2480 613 615 7053 5776 614 5777 2477 2479 2478 7054
-				3373 9489 3372 7874 8593 8591 6851 6850 6054
+				612 2480 613 615 7053 5776 614 5777 2477 2479 2478
+				3373 9489 3372 7874 8593 8591 6851 6850
 			}
 		}
 
@@ -1357,7 +1357,7 @@ country = {
 			}
 
 			own_control_core = {
-				6214 5495 3371 5496 6215 6213 9589 9587 5493 5494 3796 3795
+				6214 5495 3371 5496 6213 9589 9587 3796 3795
 			}
 		}
 
@@ -1943,7 +1943,6 @@ country = {
 
 			own_control_core = {
 				3240 3285 3286 3241 3239 8637
-			    3287
 			}
 		}
 		HSY = { #Three Mile
@@ -2140,6 +2139,7 @@ country = {
 			primary_culture = southron
 			religion = episcopalian
 			capital = 3365
+			family = 8
 
 			technology={
 				military_tech={ level=2 progress=0 }
@@ -2544,7 +2544,7 @@ country = {
 			capital = 7353
 
 			own_control_core = {
-				7353 7355 7354 7352 6378 6379 935 936
+				7353 7355 7354 7352 6378 6379 935 936 937
 			}
 		}
 		BLE = { #Blue Ridge
@@ -3116,6 +3116,7 @@ country = {
 			primary_culture = piedmontese
 			religion = revelationist
 			capital = 7392
+			family = 9
 
 			technology={
 				military_tech={ level=2 progress=0 }
@@ -3285,7 +3286,7 @@ country = {
 			}
 
 			own_control_core = {
-				7052 6055 6056 6057 2789
+				7052 6055 6056 6057 2789 7054 6054
 			}
 		}
 		SNH = { #Shenandoah
@@ -3302,7 +3303,7 @@ country = {
 			}
 
 			own_control_core = {
-				834 9250 835 679 678 9250 9249 8834 5913 11656
+				834 9250 835 679 678 9250 9249 5913 11656
 			}
 		}
 		CLM = { #Columbus
@@ -5508,6 +5509,215 @@ country = {
 
 			own_control_core = {
 				4440 4438 4439 6721 4076 6722 4075 6723
+			}
+		}
+		TRT = { #Trenton
+			government = aristocratic_republic
+			primary_culture = youser
+			religion = catholic
+			capital = 1845
+
+			technology={
+				military_tech={ level=2 progress=0 }
+				civic_tech={ level=2 progress=0 }
+				religious_tech= { level=2 progress=0  }
+				oratory_tech= { level=2 progress =0 }
+			}
+
+			own_control_core = {
+				1845 7760
+			}
+		}
+		NMB = { #Northumberland
+			government = tribal_kingdom
+			primary_culture = susquehannan
+			religion = sustainablist
+			capital = 9331
+
+			technology={
+				military_tech={ level=1 progress=0 }
+				civic_tech={ level=1 progress=0 }
+				religious_tech= { level=1 progress=0  }
+				oratory_tech= { level=1 progress =0 }
+			}
+
+			own_control_core = {
+				2097 9333 9331
+			}
+		}
+		WMP = { #Williamsport
+			government = tribal_federation
+			primary_culture = susquehannan
+			religion = catholic
+			capital = 9332
+
+			technology={
+				military_tech={ level=1 progress=0 }
+				civic_tech={ level=1 progress=0 }
+				religious_tech= { level=1 progress=0  }
+				oratory_tech= { level=1 progress =0 }
+			}
+
+			own_control_core = {
+				9332 3287 6215 5493 5494 5459 5462 5463
+			}
+		}
+		BLT = { #Chesapeake
+			government = oligarchic_republic
+			primary_culture = beltway
+			religion = americanist
+			capital = 3184
+			republic_election_reforms = republican_election_4
+
+			technology={
+				military_tech={ level=2 progress=0 }
+				civic_tech={ level=2 progress=0 }
+				religious_tech= { level=2 progress=0  }
+				oratory_tech= { level=2 progress =0 }
+			}
+
+			own_control_core = {
+				3184 3186 8449 3185 5766 5767 8450 8448 5765 5280 5279 5483 5485 5484
+			}
+		}
+		FDG = { #Fredericksburg
+			government = aristocratic_republic
+			primary_culture = beltway
+			religion = americanist
+			capital = 6952
+			republic_election_reforms = republican_election_4
+
+			technology={
+				military_tech={ level=2 progress=0 }
+				civic_tech={ level=2 progress=0 }
+				religious_tech= { level=2 progress=0  }
+				oratory_tech= { level=2 progress =0 }
+			}
+
+			own_control_core = {
+				6952 6954 6953 5801 5802
+			}
+		}
+		HGG = { #Hagerstown
+			government = aristocratic_republic
+			primary_culture = beltway
+			religion = americanist
+			capital = 1062
+			#republic_election_reforms = republican_election_4
+
+			technology={
+				military_tech={ level=2 progress=0 }
+				civic_tech={ level=2 progress=0 }
+				religious_tech= { level=2 progress=0  }
+				oratory_tech= { level=2 progress =0 }
+			}
+
+			own_control_core = {
+				1062
+			}
+		}
+		ARL = { #Arlington
+			government = league_republic
+			primary_culture = beltway
+			religion = americanist
+			capital = 5486
+			republic_election_reforms = republican_election_4
+
+			technology={
+				military_tech={ level=2 progress=0 }
+				civic_tech={ level=2 progress=0 }
+				religious_tech= { level=2 progress=0  }
+				oratory_tech= { level=2 progress =0 }
+			}
+
+			own_control_core = {
+				5486 5281 1941 1943 1944 1942 3151 
+			}
+		}
+		WDC = { #Washington 
+			government = democratic_republic
+			primary_culture = southron
+			religion = americanist
+			capital = 5800
+
+			technology={
+				military_tech={ level=2 progress=0 }
+				civic_tech={ level=2 progress=0 }
+				religious_tech= { level=2 progress=0  }
+				oratory_tech= { level=2 progress =0 }
+			}
+
+			own_control_core = {
+				5800
+			}
+		}
+		APL = { #Appalachian League
+			government = league_republic
+			primary_culture = appalachian
+			religion = americanist
+			capital = 1061
+			republic_election_reforms = republican_election_4
+
+			technology={
+				military_tech={ level=2 progress=0 }
+				civic_tech={ level=2 progress=0 }
+				religious_tech= { level=2 progress=0  }
+				oratory_tech= { level=2 progress =0 }
+			}
+
+			own_control_core = {
+				6434 6436 1063 1060 1061
+			}
+		}
+		VMS = { #Williamsburg
+			government = democratic_republic
+			primary_culture = southron
+			religion = americanist
+			capital = 5803
+
+			technology={
+				military_tech={ level=2 progress=0 }
+				civic_tech={ level=2 progress=0 }
+				religious_tech= { level=2 progress=0  }
+				oratory_tech= { level=2 progress =0 }
+			}
+
+			own_control_core = {
+				5803 5063
+			}
+		}
+		NFK = { #Norfolk
+			government = democratic_republic
+			primary_culture = southron
+			religion = americanist
+			capital = 2003
+
+			technology={
+				military_tech={ level=2 progress=0 }
+				civic_tech={ level=2 progress=0 }
+				religious_tech= { level=2 progress=0  }
+				oratory_tech= { level=2 progress =0 }
+			}
+
+			own_control_core = {
+				2003 6140 6138 6139 2001 2002 2004
+			}
+		}
+		VLL = {
+			government = despotic_monarchy
+			primary_culture = yiddish
+			religion = haredi
+			capital = 744
+
+			technology={
+				military_tech={ level=2 progress=0 }
+				civic_tech={ level=2 progress=0 }
+				religious_tech= { level=2 progress=0  }
+				oratory_tech= { level=2 progress =0 }
+			}
+
+			own_control_core = {
+				744
 			}
 		}
 	}

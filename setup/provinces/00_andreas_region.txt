@@ -105,7 +105,7 @@
 1814={ #Santa Rosa
 	terrain="hills"
 	culture="socaleno"
-	religion="catholic"
+	religion="caesarist"
 	trade_goods="bodark"
 	civilization_value=10
 	barbarian_power=0
@@ -287,7 +287,7 @@
 3526={ #Santa Monica
 	terrain="farmland"
 	culture="socaleno"
-	religion="colossalist"
+	religion="kinemite"
 	trade_goods="stone"
 	civilization_value=10
 	barbarian_power=0
@@ -300,7 +300,7 @@
 3527={ #Van Nuys
 	terrain="hills"
 	culture="socaleno"
-	religion="colossalist"
+	religion="twelver"
 	trade_goods="beans"
 	civilization_value=10
 	barbarian_power=0
@@ -313,7 +313,7 @@
 3528={ #Malibu
 	terrain="farmland"
 	culture="socaleno"
-	religion="colossalist"
+	religion="twelver"
 	trade_goods="stone"
 	civilization_value=10
 	barbarian_power=0
@@ -326,7 +326,7 @@
 3529={ #Long Beach
 	terrain="farmland"
 	culture="socaleno"
-	religion="colossalist"
+	religion="kinemite"
 	trade_goods="grain"
 	civilization_value=10
 	barbarian_power=0
@@ -339,7 +339,7 @@
 3530={ #Los Angeles
 	terrain="farmland"
 	culture="socaleno"
-	religion="colossalist"
+	religion="kinemite"
 	trade_goods="artifacts"
 	civilization_value=10
 	barbarian_power=0
@@ -352,7 +352,7 @@
 3531={ #Inglewood
 	terrain="farmland"
 	culture="socaleno"
-	religion="colossalist"
+	religion="kinemite"
 	trade_goods="grain"
 	civilization_value=10
 	barbarian_power=0
@@ -365,7 +365,7 @@
 3532={ #Ponoma
 	terrain="hills"
 	culture="socaleno"
-	religion="colossalist"
+	religion="twelver"
 	trade_goods="spices"
 	civilization_value=10
 	barbarian_power=0
@@ -378,7 +378,7 @@
 3533={ #San Gabriel
 	terrain="farmland"
 	culture="socaleno"
-	religion="colossalist"
+	religion="kinemite"
 	trade_goods="spices"
 	civilization_value=10
 	barbarian_power=0
@@ -417,7 +417,7 @@
 5730={ #Santa Clarita
 	terrain="hills"
 	culture="socaleno"
-	religion="colossalist"
+	religion="twelver"
 	trade_goods="cattle"
 	civilization_value=10
 	barbarian_power=0
@@ -755,7 +755,7 @@
 8314={ #San Luis Obispo
 	terrain="plains"
 	culture="montereyan"
-	religion="colossalist"
+	religion="la_hermandad"
 	trade_goods="wine"
 	civilization_value=10
 	barbarian_power=0
@@ -781,7 +781,7 @@
 8560={ #Lompoc
 	terrain="hills"
 	culture="montereyan"
-	religion="caesarist"
+	religion="la_hermandad"
 	trade_goods="cattle"
 	civilization_value=10
 	barbarian_power=0
@@ -794,7 +794,7 @@
 8561={ #Santa Maria
 	terrain="plains"
 	culture="montereyan"
-	religion="colossalist"
+	religion="la_hermandad"
 	trade_goods="horses"
 	civilization_value=10
 	barbarian_power=0
@@ -807,7 +807,7 @@
 8562={ #Santa Barbara
 	terrain="hills"
 	culture="montereyan"
-	religion="colossalist"
+	religion="la_hermandad"
 	trade_goods="fish"
 	civilization_value=10
 	barbarian_power=0
@@ -820,7 +820,7 @@
 8689={ #Oxnard
 	terrain="plains"
 	culture="socaleno"
-	religion="colossalist"
+	religion="twelver"
 	trade_goods="fruits"
 	civilization_value=10
 	barbarian_power=0
@@ -833,7 +833,7 @@
 8690={ #Simi Valley
 	terrain="plains"
 	culture="socaleno"
-	religion="colossalist"
+	religion="twelver"
 	trade_goods="vegetables"
 	civilization_value=10
 	barbarian_power=0
@@ -846,7 +846,7 @@
 8691={ #Fillmore
 	terrain="hills"
 	culture="socaleno"
-	religion="colossalist"
+	religion="twelver"
 	trade_goods="wood"
 	civilization_value=10
 	barbarian_power=0
@@ -859,7 +859,7 @@
 8692={ #San Buenaventura
 	terrain="hills"
 	culture="socaleno"
-	religion="colossalist"
+	religion="twelver"
 	trade_goods="wood"
 	civilization_value=10
 	barbarian_power=0
@@ -1067,7 +1067,7 @@
 11605={ #Pasadena
 	terrain="hills"
 	culture="socaleno"
-	religion="colossalist"
+	religion="twelver"
 	trade_goods="beans"
 	civilization_value=10
 	barbarian_power=0

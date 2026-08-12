@@ -58,5 +58,19 @@ family={
 			prestige=150
 			color = 0
 		}
+		8 = {
+			key = "Roundling"
+			owner=INR
+			culture=southron
+			prestige=150
+			color = 3
+		}
+		9 = {
+			key = "Raleigh"
+			owner=RAG
+			culture=piedmontese
+			prestige=200
+			color = 2
+		}
 	}
 }

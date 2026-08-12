@@ -1,0 +1,25 @@
+﻿"RAG"={
+	country="RAG"
+	18={ 
+		first_name="Arthur"
+		family = c:RAG.fam:Raleigh
+		birth_date=2283.5.10
+		culture="piedmontese"
+		religion="revelationist"
+		no_stats=yes
+		add_martial=12
+		add_charisma=5
+		add_finesse=8
+		add_zeal=9
+		no_traits=yes
+		add_trait="founder"
+		add_trait="righteous"
+		add_trait="proud"
+		add_gold=300
+		add_popularity=70
+		c:RAG={
+			set_as_ruler=char:18
+		}
+		dna = "YtNi0793v3cVRRVFAnYCdgKDAoMCcQJxAoMCgwJ3AncCmAKYAo8CjwKAAoADpgOmAm0CbQFYAVgCfAJ8AnkCeQJ5AnkChwKHAnkCeQOyA7IATABMAo0CjQJ4AngCfwJ/AmkCaQJsAmwCdwJ3AooCigKRApECkgKSAnECcQKRApECdAJ0AngCeAKVApUCdwJ3BM4EzgJ4AngCgAKAAmwCbAJrAmsCdQJ1Am8CbwJuAm4CdAJ0AnUCdQKNAo0CjgKOBLIEsgKLAosCiQKJApYClgOdA50CawJrAnwCfAKZApkCdgJ2AoUChQChAKEBMAEwAIcAhwKgAqABDwEPAHEAcQKtAq0ALAAsABAAEAEEAQQDAQMBAOsA6wB/AH8AHwAfAUYBRgFZAVkA2QDZAIQAhABAAEAChAKEAAcABwB/AH8AvgC+AGsAawALAAsBEwETAHUAdQESARIBQAFABNgE2ACbAJsAewB7AIAAgADFAMUIwQvBAH8AfwEmASYJ1wmVAF4AXgXuBRYHRwdHCHkIeQAAAAAAAAAAAAAAAA=="
+	}
+}

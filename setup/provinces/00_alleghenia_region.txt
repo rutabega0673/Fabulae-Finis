@@ -148,7 +148,7 @@
 
 3745={ #Olean
 	terrain="forest"
-	culture="yinzic"
+	culture="upstater"
 	religion="sustainablist"
 	trade_goods="cattle"
 	civilization_value=22
@@ -234,7 +234,7 @@
 
 3776={ #Jamestown
 	terrain="forest"
-	culture="buckeye"
+	culture="upstater"
 	religion="promethean"
 	trade_goods="fruits"
 	civilization_value=22
@@ -362,7 +362,7 @@
 
 5462={ #Coudersport
 	terrain="hills"
-	culture="yinzic"
+	culture="susquehannan"
 	religion="catholic"
 	trade_goods="cattle"
 	civilization_value=22
@@ -426,7 +426,7 @@
 
 6593={ #Pomfret
 	terrain="plains"
-	culture="buckeye"
+	culture="upstater"
 	religion="promethean"
 	trade_goods="leather"
 	civilization_value=22
@@ -442,7 +442,7 @@
 
 6594={ #Gowanda
 	terrain="plains"
-	culture="buckeye"
+	culture="upstater"
 	religion="promethean"
 	trade_goods="maple"
 	civilization_value=22
@@ -458,7 +458,7 @@
 
 6595={ #Hamburg
 	terrain="plains"
-	culture="buckeye"
+	culture="upstater"
 	religion="promethean"
 	trade_goods="cattle"
 	civilization_value=22
@@ -692,7 +692,7 @@
 
 11644={ #Salamanca
 	terrain="forest"
-	culture="yinzic"
+	culture="upstater"
 	religion="sustainablist"
 	trade_goods="beer"
 	civilization_value=22

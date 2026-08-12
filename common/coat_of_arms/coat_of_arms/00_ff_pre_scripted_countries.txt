@@ -409,21 +409,21 @@ SAC ={
 		texture="ce_star_05.dds"
 		color1= "epirus_yellow"
 		instance={
-			position={ 0.130000 0.200000 }
+			position={ 0.130000 0.2500000 }
 			scale={ 0.30 0.30 }
 		}
 		instance={
-			position={ 0.130000 0.400000 }
+			position={ 0.130000 0.500000 }
 			scale={ 0.30 0.30 }
 		}
 		instance={
-			position={ 0.130000 0.600000 }
+			position={ 0.130000 0.7500000 }
 			scale={ 0.30 0.30 }
 		}
-		instance={
-			position={ 0.130000 0.800000 }
-			scale={ 0.30 0.30 }
-		}
+		#instance={
+		#	position={ 0.130000 0.800000 }
+		#	scale={ 0.30 0.30 }
+		#}
 
 	}
 }
@@ -1366,5 +1366,55 @@ WNO ={ # Winona
 	colored_emblem={
 		texture= "ce_border_greek_09.dds"
 		color2="offwhite"
+	}
+}
+
+INR = {
+	pattern = "pattern_horizontal_stripes_01.tga"
+	color1 = "navy_blue"
+	color2 = "offwhite"
+	colored_emblem = {
+		texture = "ce_crosslet_fitchy.dds"
+		color1 = "ck2_red"
+		color2 = "ck2_red"
+		instance = { position = { 0.25 0.2 } scale = { 0.3 0.3 }  }
+		instance = { position = { 0.5 0.2 } scale = { 0.3 0.3 }  }
+		instance = { position = { 0.75 0.2 } scale = { 0.3 0.3 }  }
+			
+		instance = { position = { 0.25 0.8 } scale = { 0.3 0.3 }  }
+		instance = { position = { 0.5 0.8 } scale = { 0.3 0.3 }  }
+		instance = { position = { 0.75 0.8 } scale = { 0.3 0.3 }  }
+
+		instance = { position = { 0.5 0.5 } scale = { 0.3 0.3 }  }
+		instance = { position = { 0.25 0.5 } scale = { 0.3 0.3 }  }
+		instance = { position = { 0.75 0.5 } scale = { 0.3 0.3 }  }
+	}
+	
+	#colored_emblem = {
+	#	texture = "ce_fleur.dds"
+	#	color1 = "ck2_black"
+	#	instance = { position = { 0.5 0.35 } scale = { 0.25 0.25 }  }
+	#	instance = { position = { 0.5 0.6 } scale = { 0.25 0.25 }  }
+	#	instance = { position = { 0.5 0.85 } scale = { 0.25 0.25 }  }
+	#	instance = { position = { 0.25 0.6 } scale = { 0.25 0.25 }  }
+	#	instance = { position = { 0.75 0.6 } scale = { 0.25 0.25 }  }
+	#}
+}
+	
+RAG = { #Raleigh
+	pattern = "pattern_vertical_split_01.tga"
+	color1 = rgb { 143 123 38 }
+	color2 = "ck2_blue"
+
+	colored_emblem = {
+		texture = "ce_diamond_01.dds"
+		color1 = "offwhite"
+		color2 = "offwhite"
+		instance = { position = { 0.5 0.25 } scale = { 0.35 0.35 } }
+		instance = { position = { 0.375 0.5 } scale = { 0.35 0.35 } }
+		instance = { position = { 0.625 0.5 } scale = { 0.35 0.35 } }
+		instance = { position = { 0.25 0.75 } scale = { 0.35 0.35 } }
+		instance = { position = { 0.5 0.75 } scale = { 0.35 0.35 } }
+		instance = { position = { 0.75 0.75 } scale = { 0.35 0.35 } }
 	}
 }
