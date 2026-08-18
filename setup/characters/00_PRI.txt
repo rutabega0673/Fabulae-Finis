@@ -1,0 +1,48 @@
+﻿"PRI"={
+	country="PRI"
+	19={ 
+		first_name="Bannister"
+		family = c:PRI.fam:Smithson
+		birth_date=2264.2.27
+		culture="youser"
+		religion="americanist"
+		no_stats=yes
+		add_martial=10
+		add_charisma=7
+		add_finesse=5
+		add_zeal=9
+		no_traits=yes
+		add_trait="honest"
+		add_trait="founder"
+		add_trait="orator"
+		add_trait="humble"
+		add_gold=300
+		add_popularity=90
+		c:PRI={
+			set_as_ruler=char:19
+		}
+		dna = "DfcN91plrXnahdqFADQANAKHAocChQKFAmoCagJoAmgCmQKZApECkQKJAokDngOeApQClAKOAo4CgQKBAnYCdgJnAmcCagJqAVYBVgJnAmcChwKHAoICggKKAooCfgJ+AnsCewKQApACagJqAoECgQKPAo8CZgJmAmkCaQJ0AnQCegJ6ApgCmAJ+An4ChwKHApgCmAJ+An4CcwJzAnACcAKKAooCkgKSAmkCaQJxAnECjQKNAn8CfwJtAm0CggKCAogCiAJtAm0ChwKHAn0CfQKFAoUCcwJzApICkgFiAWICgQKBAoUChQK8ArwBIgEiAMwAzAA1ADUA7ADsAIAAgAC+AL4CyQLJAtsC2wCMAIwAYgBiAQIBAgB/AH8AuwC7AAkACQBXAFcA7wDvAtAC0AD7APsBgwGDAQ0BDQB/AH8ABAAEAV4BXgBZAFkA6gDqAJUAlQEDAQMCpwKnA3wDfACQAJABbQFtAU8BTwBkAGQI8wzzAH8AfwBjAGMT6gECAP0AWAP9CYI4twGCAP0AwAAAAAAAAAAAAAAAAA=="
+	}
+	20={ 
+		first_name="Cecil"
+		family_name="Hymer"
+		birth_date=2275.10.30
+		culture="bayfolk"
+		religion="americanist"
+		no_stats=yes
+		add_martial=5
+		add_charisma=7
+		add_finesse=9
+		add_zeal=5
+		no_traits=yes
+		add_trait="secure"
+		add_trait="resourceful"
+		add_trait="gluttonous"
+		add_gold=200
+		add_popularity=55
+		c:PRI={
+			set_as_coruler=char:20
+		}
+		dna = "DvIO8qGBoYG/07/TA5wDnAKTApMCkwKTAn8CfwJ4AngCcAJwAnQCdAKAAoAClgKWAoACgAOoA6gCawJrAm4CbgJ6AoMDgAOpApICdgA1ADUCawJrApQClAJtAm0CkQKRAn4CfgOqA6oCjgKOADEAMQJlAmUCagJqA54DngKZApkCaQJpApMCkwKGAoYCVgJWAnYCdgJ9An0CgQKBAncCdwKBAoECiwKLAooCigKCAoICjAKMA6QDpAKSApICigKKAnQCdAAkACQCeAJ4AoQChAKQApADoAOgA7ADsAKTApMClAKUA6cDpwKvAq8ACAAIAGYAZgC7ALsAIwAjAMIAwgCwALAAQQBBARYBFgAqACoE2QTZAvcC9wB/AH8AlgCWAOoA6gDRANEAtAC0ACYAJgF+AX4BlQGVAScBJwB/AH8C4QLhAC4ALgA1ADUAXgBeAWYBZgCtAK0A2wDbADYANgDeAN4BFgEWAt4C3gTlBOUHjAqfAH8AfwUKBQoTUgfVAbIBJQLGBlA4UgzjC/0LyQAAAAAAAAAAAAAAAA=="
+	}
+}

@@ -14,7 +14,7 @@
 69={ #Mde Iyedan
 	terrain="plains"
 	culture="minnesotan"
-	religion="lutheran"
+	religion="catholic"
 	trade_goods="buffalo"
 	civilization_value=10
 	barbarian_power=0
@@ -104,7 +104,7 @@
 239={ #Long Prairie
 	terrain="plains"
 	culture="northlander"
-	religion="lakeshore"
+	religion="catholic"
 	trade_goods="horses"
 	civilization_value=10
 	barbarian_power=0
@@ -353,7 +353,7 @@
 1754={ #Morris
 	terrain="plains"
 	culture="minnesotan"
-	religion="lutheran"
+	religion="catholic"
 	trade_goods="fur"
 	civilization_value=9
 	barbarian_power=0
@@ -806,7 +806,7 @@
 7456={ #International Falls
 	terrain="marsh"
 	culture="copperhead"
-	religion="rivertracer"
+	religion="loneranger"
 	trade_goods="fish"
 	civilization_value=4
 	barbarian_power=0
@@ -1174,7 +1174,7 @@
 8648={ #Alec
 	terrain="farmland"
 	culture="minnesotan"
-	religion="lakeshore"
+	religion="catholic"
 	trade_goods="grain"
 	civilization_value=13
 	barbarian_power=0

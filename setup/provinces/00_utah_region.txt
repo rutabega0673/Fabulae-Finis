@@ -430,7 +430,7 @@
 4412={ #Tuweep
 	terrain="desert_hills"
 	culture="arixan"
-	religion="zetanologist"
+	religion="mormon"
 	trade_goods="fur"
 	civilization_value=10
 	barbarian_power=0

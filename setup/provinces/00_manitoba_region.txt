@@ -1,7 +1,7 @@
 ﻿186={ #Swan River
 	terrain="steppes"
 	culture="preiryansky"
-	religion="rivertracer"
+	religion="loneranger"
 	trade_goods="grain"
 	civilization_value=10
 	barbarian_power=0
@@ -14,7 +14,7 @@
 187={ #Whitmore
 	terrain="marsh"
 	culture="preiryansky"
-	religion="rivertracer"
+	religion="loneranger"
 	trade_goods="fish"
 	civilization_value=10
 	barbarian_power=0
@@ -27,7 +27,7 @@
 1389={ #Bissett
 	terrain="taiga"
 	culture="metis"
-	religion="rivertracer"
+	religion="loneranger"
 	trade_goods="fur"
 	civilization_value=10
 	barbarian_power=0
@@ -40,7 +40,7 @@
 1391={ #Manigotagan
 	terrain="forest"
 	culture="metis"
-	religion="rivertracer"
+	religion="loneranger"
 	trade_goods="rice"
 	civilization_value=10
 	barbarian_power=0
@@ -53,7 +53,7 @@
 1392={ #Powerview
 	terrain="forest"
 	culture="metis"
-	religion="rivertracer"
+	religion="loneranger"
 	trade_goods="amber"
 	civilization_value=10
 	barbarian_power=0
@@ -170,7 +170,7 @@
 2348={ #Camperville
 	terrain="forest"
 	culture="preiryansky"
-	religion="rivertracer"
+	religion="loneranger"
 	trade_goods="buffalo"
 	civilization_value=10
 	barbarian_power=0
@@ -183,7 +183,7 @@
 2349={ #Dauphin
 	terrain="steppes"
 	culture="preiryansky"
-	religion="rivertracer"
+	religion="loneranger"
 	trade_goods="grain"
 	civilization_value=10
 	barbarian_power=0
@@ -196,7 +196,7 @@
 2350={ #Weiden
 	terrain="forest"
 	culture="metis"
-	religion="rivertracer"
+	religion="loneranger"
 	trade_goods="hemp"
 	civilization_value=10
 	barbarian_power=0
@@ -248,7 +248,7 @@
 2746={ #Long Point
 	terrain="forest"
 	culture="metis"
-	religion="rivertracer"
+	religion="loneranger"
 	trade_goods="fish"
 	civilization_value=10
 	barbarian_power=0
@@ -261,7 +261,7 @@
 2747={ #Gypsumville
 	terrain="forest"
 	culture="metis"
-	religion="rivertracer"
+	religion="loneranger"
 	trade_goods="amber"
 	civilization_value=10
 	barbarian_power=0
@@ -274,7 +274,7 @@
 2748={ #Waterhen
 	terrain="forest"
 	culture="metis"
-	religion="rivertracer"
+	religion="loneranger"
 	trade_goods="wild_game"
 	civilization_value=10
 	barbarian_power=0
@@ -352,7 +352,7 @@
 3794={ #Mccreary
 	terrain="forest"
 	culture="metis"
-	religion="rivertracer"
+	religion="loneranger"
 	trade_goods="fish"
 	civilization_value=10
 	barbarian_power=0
@@ -365,7 +365,7 @@
 5548={ #Willowview
 	terrain="forest"
 	culture="metis"
-	religion="rivertracer"
+	religion="loneranger"
 	trade_goods="bodark"
 	civilization_value=10
 	barbarian_power=0
@@ -378,7 +378,7 @@
 5549={ #Ashern
 	terrain="forest"
 	culture="metis"
-	religion="rivertracer"
+	religion="loneranger"
 	trade_goods="hemp"
 	civilization_value=10
 	barbarian_power=0
@@ -391,7 +391,7 @@
 5550={ #Gimli
 	terrain="forest"
 	culture="bandarikjamenn"
-	religion="rivertracer"
+	religion="loneranger"
 	trade_goods="fish"
 	civilization_value=10
 	barbarian_power=0
@@ -404,7 +404,7 @@
 5551={ #Lake St George
 	terrain="forest"
 	culture="bandarikjamenn"
-	religion="rivertracer"
+	religion="loneranger"
 	trade_goods="wood"
 	civilization_value=10
 	barbarian_power=0
@@ -417,7 +417,7 @@
 6405={ #Falcon Lake
 	terrain="forest"
 	culture="metis"
-	religion="rivertracer"
+	religion="loneranger"
 	trade_goods="vegetables"
 	civilization_value=10
 	barbarian_power=0
@@ -430,7 +430,7 @@
 6406={ #Warroad
 	terrain="marsh"
 	culture="svenskamerikaner"
-	religion="rivertracer"
+	religion="loneranger"
 	trade_goods="wood"
 	civilization_value=10
 	barbarian_power=0
@@ -495,7 +495,7 @@
 6816={ #Hudson Bay
 	terrain="steppes"
 	culture="preiryansky"
-	religion="rivertracer"
+	religion="loneranger"
 	trade_goods="fur"
 	civilization_value=10
 	barbarian_power=0

@@ -1,0 +1,40 @@
+﻿"VIN"={
+	country="VIN"
+	21={ 
+		first_name="Marie" #Placeholder until i get her actual name
+		family = c:VIN.fam:Royall
+		birth_date=2280.1.1
+		culture="sandlapper"
+		religion="americanist"
+		female=yes
+		no_stats=yes
+		add_martial=3
+		add_charisma=6
+		add_finesse=6
+		add_zeal=4
+		no_traits=yes
+	}
+	22={ 
+		first_name="Leonidas"
+		family = c:VIN.fam:Royall
+		birth_date=2299.7.4
+		mother=char:21
+		culture="southron"
+		religion="americanist"
+		no_stats=yes
+		add_martial=10
+		add_charisma=7
+		add_finesse=4
+		add_zeal=7
+		no_traits=yes
+		add_trait="ambitious"
+		add_trait="proud"
+		add_trait="just"
+		add_gold=200
+		add_popularity=55
+		c:VIN={
+			set_as_ruler=char:22
+		}
+		dna = "DPoM+qftp+3p6enpApcCaAKEAoQDrgOuAn4CmAKHAocEqgSqAVoBWgJ3AncCfgJ+AogCiAOuA64DpgOmApQClATPBM8CcwJzApMCkwKDAoMDVwNXAH4AfgJ/An8CkAKQA58DnwLEAsQDrAOsAnsCewJoAmgCawJrAmgCaAKNAo0CdwJ3Ao0CjQKsAqwCZwJnA64DrgA7ADsAQABAA24DtgKjAm0ChwKHA1UDqQJlAowAUAOtAogCiALJAskDegPhAn8CfgN0A3QCgwKDAoACgAOpA/ICfwJ/BLAEsAJxAnEBXwFfApICkgI9Aj0BeAF4AJMAkwLyAvIAPQA9AskCyQDmAOYBOwE7AAAAAABWAFYBeQF5APIA8gB/AH8A+wD7ANcA8ABKAEoBdwETASoBKgEyATIAeQClAKYApgB/AH8BcgFyAuUC5QDqAOoA2gDaAV4C1wCmAKYAOgA6AIgAiAD0APQByALrAW4BwwMjAygI+QP5AH8AfwKWApYOQQ7iAXEAyAWSB/cBHQyPAF4LXQAAAAAAAAAAAAAAAA=="
+	}
+}

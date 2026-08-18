@@ -53,7 +53,7 @@
 539={ #Lynn Lake
 	terrain="taiga"
 	culture="nihithaw"
-	religion="rivertracer"
+	religion="loneranger"
 	trade_goods="fur"
 	civilization_value=10
 	barbarian_power=0
@@ -66,7 +66,7 @@
 540={ #The Two Rivers
 	terrain="taiga"
 	culture="nihithaw"
-	religion="rivertracer"
+	religion="loneranger"
 	trade_goods="vegetables"
 	civilization_value=10
 	barbarian_power=0
@@ -79,7 +79,7 @@
 541={ #Island Falls
 	terrain="taiga"
 	culture="nihithaw"
-	religion="rivertracer"
+	religion="loneranger"
 	trade_goods="vegetables"
 	civilization_value=10
 	barbarian_power=0
@@ -92,7 +92,7 @@
 542={ #Sherridon
 	terrain="taiga"
 	culture="metis"
-	religion="rivertracer"
+	religion="loneranger"
 	trade_goods="wood"
 	civilization_value=10
 	barbarian_power=0
@@ -105,7 +105,7 @@
 543={ #York Factory
 	terrain="taiga"
 	culture="nihithaw"
-	religion="rivertracer"
+	religion="loneranger"
 	trade_goods="base_metals"
 	civilization_value=10
 	barbarian_power=0
@@ -118,7 +118,7 @@
 544={ #Kischiayamweekemow
 	terrain="taiga"
 	culture="nihithaw"
-	religion="rivertracer"
+	religion="loneranger"
 	trade_goods="fish"
 	civilization_value=10
 	barbarian_power=0
@@ -131,7 +131,7 @@
 545={ #Port Nelson
 	terrain="taiga"
 	culture="nihithaw"
-	religion="rivertracer"
+	religion="loneranger"
 	trade_goods="fur"
 	civilization_value=10
 	barbarian_power=0
@@ -144,7 +144,7 @@
 546={ #Wapawsik
 	terrain="taiga"
 	culture="metis"
-	religion="rivertracer"
+	religion="loneranger"
 	trade_goods="vegetables"
 	civilization_value=10
 	barbarian_power=0
@@ -157,7 +157,7 @@
 547={ #Leaf Rapids
 	terrain="taiga"
 	culture="metis"
-	religion="rivertracer"
+	religion="loneranger"
 	trade_goods="amber"
 	civilization_value=10
 	barbarian_power=0
@@ -170,7 +170,7 @@
 548={ #South Indian Lake
 	terrain="taiga"
 	culture="nihithaw"
-	religion="rivertracer"
+	religion="loneranger"
 	trade_goods="wood"
 	civilization_value=10
 	barbarian_power=0
@@ -183,7 +183,7 @@
 549={ #Amisk
 	terrain="taiga"
 	culture="metis"
-	religion="rivertracer"
+	religion="loneranger"
 	trade_goods="fur"
 	civilization_value=10
 	barbarian_power=0
@@ -235,7 +235,7 @@
 1159={ #Warren Landing
 	terrain="forest"
 	culture="metis"
-	religion="rivertracer"
+	religion="loneranger"
 	trade_goods="fur"
 	civilization_value=10
 	barbarian_power=0
@@ -248,7 +248,7 @@
 1160={ #Moose Lake
 	terrain="taiga"
 	culture="metis"
-	religion="rivertracer"
+	religion="loneranger"
 	trade_goods="fish"
 	civilization_value=10
 	barbarian_power=0
@@ -261,7 +261,7 @@
 1161={ #Wabowden
 	terrain="marsh"
 	culture="metis"
-	religion="rivertracer"
+	religion="loneranger"
 	trade_goods="precious_metals"
 	civilization_value=10
 	barbarian_power=0
@@ -300,7 +300,7 @@
 2220={ #Carrot River
 	terrain="forest"
 	culture="preiryansky"
-	religion="rivertracer"
+	religion="loneranger"
 	trade_goods="wild_game"
 	civilization_value=10
 	barbarian_power=0
@@ -313,7 +313,7 @@
 2221={ #Smoky Burn
 	terrain="forest"
 	culture="preiryansky"
-	religion="rivertracer"
+	religion="loneranger"
 	trade_goods="hallucinogenics"
 	civilization_value=10
 	barbarian_power=0
@@ -326,7 +326,7 @@
 2222={ #The Pas
 	terrain="forest"
 	culture="preiryansky"
-	religion="rivertracer"
+	religion="loneranger"
 	trade_goods="precious_metals"
 	civilization_value=10
 	barbarian_power=0
@@ -339,7 +339,7 @@
 2580={ #Thompson
 	terrain="marsh"
 	culture="metis"
-	religion="rivertracer"
+	religion="loneranger"
 	trade_goods="fish"
 	civilization_value=10
 	barbarian_power=0
@@ -352,7 +352,7 @@
 2581={ #Thicket Portage
 	terrain="marsh"
 	culture="metis"
-	religion="rivertracer"
+	religion="loneranger"
 	trade_goods="wood"
 	civilization_value=10
 	barbarian_power=0
@@ -365,7 +365,7 @@
 2582={ #Osborne Lake
 	terrain="taiga"
 	culture="metis"
-	religion="rivertracer"
+	religion="loneranger"
 	trade_goods="fur"
 	civilization_value=10
 	barbarian_power=0
@@ -430,7 +430,7 @@
 5165={ #Flin Flon
 	terrain="taiga"
 	culture="metis"
-	religion="rivertracer"
+	religion="loneranger"
 	trade_goods="fur"
 	civilization_value=10
 	barbarian_power=0
@@ -443,7 +443,7 @@
 5166={ #Sandy Narrows
 	terrain="forest"
 	culture="nihithaw"
-	religion="rivertracer"
+	religion="loneranger"
 	trade_goods="fish"
 	civilization_value=10
 	barbarian_power=0
@@ -456,7 +456,7 @@
 5167={ #Sturgeon Landing
 	terrain="forest"
 	culture="metis"
-	religion="rivertracer"
+	religion="loneranger"
 	trade_goods="wood"
 	civilization_value=10
 	barbarian_power=0
@@ -469,7 +469,7 @@
 5894={ #Split Lake
 	terrain="taiga"
 	culture="nihithaw"
-	religion="rivertracer"
+	religion="loneranger"
 	trade_goods="vegetables"
 	civilization_value=10
 	barbarian_power=0
@@ -482,7 +482,7 @@
 5895={ #Weir River
 	terrain="taiga"
 	culture="nihithaw"
-	religion="rivertracer"
+	religion="loneranger"
 	trade_goods="fur"
 	civilization_value=10
 	barbarian_power=0
@@ -495,7 +495,7 @@
 5896={ #Gillam
 	terrain="taiga"
 	culture="nihithaw"
-	religion="rivertracer"
+	religion="loneranger"
 	trade_goods="fish"
 	civilization_value=10
 	barbarian_power=0
@@ -508,7 +508,7 @@
 5897={ #Ilford
 	terrain="taiga"
 	culture="nihithaw"
-	religion="rivertracer"
+	religion="loneranger"
 	trade_goods="fur"
 	civilization_value=10
 	barbarian_power=0

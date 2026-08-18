@@ -10,6 +10,7 @@ country = {
 			religion = americanist
 			capital = 4077
 			republic_election_reforms_federal = martial_law
+			family=10
 
 			technology={
 				military_tech={ level=2 progress=0 }
@@ -178,6 +179,7 @@ country = {
 			primary_culture = southron
 			religion = americanist
 			capital = 5068
+			family=11
 
 			technology={
 				military_tech={ level=2 progress=0 }
@@ -1328,7 +1330,7 @@ country = {
 		HFT = { #Hartford
 			government = despotic_monarchy
 			primary_culture = vermonter
-			religion = transcendentalist
+			religion = americanist
 			capital = 5239
 
 			technology={

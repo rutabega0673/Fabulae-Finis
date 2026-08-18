@@ -157,7 +157,7 @@
 688={ #St Isidore De Bellevue
 	terrain="steppes"
 	culture="prairielander"
-	religion="rivertracer"
+	religion="loneranger"
 	trade_goods="woad"
 	civilization_value=10
 	barbarian_power=0
@@ -170,7 +170,7 @@
 689={ #Birch Hills
 	terrain="steppes"
 	culture="preiryansky"
-	religion="rivertracer"
+	religion="loneranger"
 	trade_goods="cattle"
 	civilization_value=10
 	barbarian_power=0
@@ -183,7 +183,7 @@
 690={ #Melfort
 	terrain="steppes"
 	culture="preiryansky"
-	religion="rivertracer"
+	religion="loneranger"
 	trade_goods="fish"
 	civilization_value=10
 	barbarian_power=0
@@ -443,7 +443,7 @@
 4095={ #Pelican Cove
 	terrain="steppes"
 	culture="nehiyaw"
-	religion="rivertracer"
+	religion="loneranger"
 	trade_goods="cattle"
 	civilization_value=10
 	barbarian_power=0
@@ -456,7 +456,7 @@
 4096={ #Rosthern
 	terrain="steppes"
 	culture="nehiyaw"
-	religion="rivertracer"
+	religion="loneranger"
 	trade_goods="fish"
 	civilization_value=10
 	barbarian_power=0
@@ -469,7 +469,7 @@
 4097={ #Shellbrook
 	terrain="steppes"
 	culture="nehiyaw"
-	religion="rivertracer"
+	religion="loneranger"
 	trade_goods="fur"
 	civilization_value=10
 	barbarian_power=0
@@ -482,7 +482,7 @@
 4305={ #Mayfair
 	terrain="steppes"
 	culture="nehiyaw"
-	religion="rivertracer"
+	religion="loneranger"
 	trade_goods="cattle"
 	civilization_value=10
 	barbarian_power=0
@@ -495,7 +495,7 @@
 4306={ #Spruce Bay
 	terrain="steppes"
 	culture="nehiyaw"
-	religion="rivertracer"
+	religion="loneranger"
 	trade_goods="buffalo"
 	civilization_value=10
 	barbarian_power=0
@@ -508,7 +508,7 @@
 4307={ #North Battleford
 	terrain="steppes"
 	culture="nehiyaw"
-	religion="rivertracer"
+	religion="loneranger"
 	trade_goods="grain"
 	civilization_value=10
 	barbarian_power=0
@@ -573,7 +573,7 @@
 5060={ #Meadow Lake
 	terrain="steppes"
 	culture="metis"
-	religion="rivertracer"
+	religion="loneranger"
 	trade_goods="cattle"
 	civilization_value=10
 	barbarian_power=0
@@ -586,7 +586,7 @@
 5061={ #Waterhen Lake
 	terrain="forest"
 	culture="nihithaw"
-	religion="rivertracer"
+	religion="loneranger"
 	trade_goods="steppe_horses"
 	civilization_value=10
 	barbarian_power=0
@@ -599,7 +599,7 @@
 5062={ #Phillips Grove
 	terrain="forest"
 	culture="nihithaw"
-	religion="rivertracer"
+	religion="loneranger"
 	trade_goods="hemp"
 	civilization_value=10
 	barbarian_power=0
@@ -846,7 +846,7 @@
 7340={ #Stanley Mission
 	terrain="forest"
 	culture="nihithaw"
-	religion="rivertracer"
+	religion="loneranger"
 	trade_goods="wood"
 	civilization_value=10
 	barbarian_power=0
@@ -859,7 +859,7 @@
 7341={ #La Ronge
 	terrain="forest"
 	culture="nihithaw"
-	religion="rivertracer"
+	religion="loneranger"
 	trade_goods="hallucinogenics"
 	civilization_value=10
 	barbarian_power=0
@@ -872,7 +872,7 @@
 7442={ #Nesslin Lake
 	terrain="forest"
 	culture="nihithaw"
-	religion="rivertracer"
+	religion="loneranger"
 	trade_goods="steppe_horses"
 	civilization_value=10
 	barbarian_power=0
@@ -885,7 +885,7 @@
 7443={ #Minowukaw Beach
 	terrain="forest"
 	culture="nihithaw"
-	religion="rivertracer"
+	religion="loneranger"
 	trade_goods="fur"
 	civilization_value=10
 	barbarian_power=0
@@ -898,7 +898,7 @@
 7444={ #Weyakwin
 	terrain="forest"
 	culture="nihithaw"
-	religion="rivertracer"
+	religion="loneranger"
 	trade_goods="cattle"
 	civilization_value=10
 	barbarian_power=0
@@ -1002,7 +1002,7 @@
 7684={ #Pine River
 	terrain="forest"
 	culture="nihithaw"
-	religion="rivertracer"
+	religion="loneranger"
 	trade_goods="fish"
 	civilization_value=10
 	barbarian_power=0
@@ -1015,7 +1015,7 @@
 7685={ #Sakamayack
 	terrain="forest"
 	culture="nihithaw"
-	religion="rivertracer"
+	religion="loneranger"
 	trade_goods="vegetables"
 	civilization_value=10
 	barbarian_power=0
@@ -1028,7 +1028,7 @@
 7783={ #Macdowall
 	terrain="steppes"
 	culture="nehiyaw"
-	religion="rivertracer"
+	religion="loneranger"
 	trade_goods="earthware"
 	civilization_value=10
 	barbarian_power=0
@@ -1041,7 +1041,7 @@
 7784={ #Prince Albert
 	terrain="farmland"
 	culture="nehiyaw"
-	religion="rivertracer"
+	religion="loneranger"
 	trade_goods="earthware"
 	civilization_value=10
 	barbarian_power=0
@@ -1054,7 +1054,7 @@
 7785={ #Nipawin
 	terrain="forest"
 	culture="nehiyaw"
-	religion="rivertracer"
+	religion="loneranger"
 	trade_goods="grain"
 	civilization_value=10
 	barbarian_power=0
@@ -1106,7 +1106,7 @@
 8745={ #Whelan
 	terrain="steppes"
 	culture="metis"
-	religion="rivertracer"
+	religion="loneranger"
 	trade_goods="vegetables"
 	civilization_value=10
 	barbarian_power=0
@@ -1119,7 +1119,7 @@
 8746={ #Sunset View Beach
 	terrain="steppes"
 	culture="nehiyaw"
-	religion="rivertracer"
+	religion="loneranger"
 	trade_goods="hemp"
 	civilization_value=10
 	barbarian_power=0
@@ -1132,7 +1132,7 @@
 8747={ #Spruce Lake
 	terrain="steppes"
 	culture="metis"
-	religion="rivertracer"
+	religion="loneranger"
 	trade_goods="fish"
 	civilization_value=10
 	barbarian_power=0
@@ -1158,7 +1158,7 @@
 9402={ #Tisdale
 	terrain="steppes"
 	culture="preiryansky"
-	religion="rivertracer"
+	religion="loneranger"
 	trade_goods="cattle"
 	civilization_value=10
 	barbarian_power=0

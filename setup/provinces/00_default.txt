@@ -84696,7 +84696,7 @@
 10715={ #
 	terrain="forest"
 	culture="metis"
-	religion="rivertracer"
+	religion="loneranger"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -85021,7 +85021,7 @@
 10740={ #
 	terrain="impassable_terrain"
 	culture="battleborn"
-	religion="caesarist"
+	religion="atomicist"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -86048,7 +86048,7 @@
 10819={ #
 	terrain="impassable_terrain"
 	culture="navajo"
-	religion="zetanologist"
+	religion="peyotist"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -87296,7 +87296,7 @@
 10915={ #
 	terrain="impassable_terrain"
 	culture="arixan"
-	religion="aphite"
+	religion="mormon"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -88011,7 +88011,7 @@
 10970={ #
 	terrain="impassable_terrain"
 	culture="nihithaw"
-	religion="catholic"
+	religion="loneranger"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -88453,7 +88453,7 @@
 11004={ #
 	terrain="impassable_terrain"
 	culture="nihithaw"
-	religion="rivertracer"
+	religion="loneranger"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -90455,7 +90455,7 @@
 11158={ #
 	terrain="impassable_terrain"
 	culture="preiryansky"
-	religion="catholic"
+	religion="loneranger"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -93211,7 +93211,7 @@
 11370={ #
 	terrain="impassable_terrain"
 	culture="preiryansky"
-	religion="catholic"
+	religion="loneranger"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -95434,7 +95434,7 @@
 11541={ #
 	terrain="impassable_terrain"
 	culture="ojibwe"
-	religion="lakeshore"
+	religion="loneranger"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0

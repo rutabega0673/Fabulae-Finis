@@ -72,5 +72,19 @@ family={
 			prestige=200
 			color = 2
 		}
+		10 = {
+			key = "Smithson"
+			owner=PRI
+			culture=youser
+			prestige=350
+			color = 2
+		}
+		11 = {
+			key = "Royall"
+			owner=VIN
+			culture=youser
+			prestige=350
+			color = 1
+		}
 	}
 }
