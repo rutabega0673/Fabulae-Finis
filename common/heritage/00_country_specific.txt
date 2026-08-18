@@ -265,3 +265,45 @@ texas_heritage = {
       tag = TEX
    }
 }
+american_heritage = {
+    modifier = {
+        #good
+        diplomatic_reputation = 2
+        monthly_military_experience_modifier = 0.05
+
+        #bad
+        global_defensive = -0.10
+    }
+
+    trigger = {
+        tag = PRI
+    }
+}
+bonaparte_heritage = {
+    modifier = {
+        #good
+        global_defensive = 0.05
+        monthly_political_influence_modifier = 0.05
+
+        #bad
+        global_manpower_modifier = -0.05
+    }
+
+    trigger = {
+        tag = ATJ
+    }
+}
+vmi_heritage = {
+    modifier = {
+        #good
+        discipline = 0.03
+        global_nobles_happyness = 0.05
+
+        #bad
+        global_pop_conversion_speed_modifier = -0.10
+    }
+
+    trigger = {
+        tag = VMI
+    }
+}

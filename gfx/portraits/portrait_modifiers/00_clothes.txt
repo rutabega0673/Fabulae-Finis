@@ -89,7 +89,7 @@ clothes = {
 				is_female = no
 				OR = { 
 					has_culture_group = louisianais
-					has_culture_group = sunshiner					
+					has_culture_group = floridian					
 				}
 				OR = { 		
 					is_general = yes
@@ -151,8 +151,8 @@ clothes = {
 				add = 100 
 				is_female = no
 				OR = {
-					has_culture_group = east_levantine
-					has_culture_group = persia
+					has_culture_group = deep_southern
+					has_culture_group = old_southern
 				}
 				OR = { 		
 					is_general = yes
@@ -183,7 +183,7 @@ clothes = {
 				add = 100 
 				is_female = no				
 				OR = {
-					has_culture_group = deltaic
+					religion = egyptology
 				}
 				OR = { 		
 					is_general = yes
@@ -214,8 +214,9 @@ clothes = {
 				add = 100 
 				is_female = no				
 				OR = {
-					has_culture_group = germanic
-					has_culture_group = baltic
+					has_culture_group = midwestern
+					has_culture_group = northlake
+					has_culture_group = nordic
 				}
 				OR = { 		
 					is_general = yes
@@ -246,8 +247,8 @@ clothes = {
 				add = 100 
 				is_female = no				
 				OR = {
-					has_culture_group = scythia
-					has_culture_group = scythian_east
+					has_culture_group = sioux
+					has_culture_group = plains
 				}
 				OR = { 		
 					is_general = yes
@@ -278,9 +279,10 @@ clothes = {
 				add = 100 
 				is_female = no				
 				OR = {
-					has_culture_group = celt_iberia
-					has_culture_group = iberia
-					has_culture_group = proto_european
+					has_culture_group = north_pacific
+					has_culture_group = interior
+					has_culture_group = northwestern
+					has_culture_group = interior_northwestern
 				}
 				OR = { 		
 					is_general = yes
@@ -311,8 +313,7 @@ clothes = {
 				add = 100 
 				is_female = no				
 				OR = {
-					has_culture_group = south_levantine
-					has_culture_group = south_arabian
+					has_culture_group = frontieran
 				}
 				OR = { 		
 					is_general = yes
@@ -343,7 +344,7 @@ clothes = {
 				add = 100 
 				is_female = no				
 				OR = {
-					has_culture_group = indian
+					has_culture_group = desi
 				}
 				OR = { 		
 					is_general = yes
@@ -374,9 +375,7 @@ clothes = {
 				add = 100 
 				is_female = no				
 				OR = {
-					has_culture_group = aryan
-					has_culture_group = tibetan
-					has_culture_group = pu
+					has_culture_group = normexa
 				}
 				OR = { 		
 					is_general = yes
@@ -407,8 +406,7 @@ clothes = {
 				add = 100 
 				is_female = no			
 				OR = {
-					has_culture_group = aksumite_group
-					has_culture_group = nilotic_group
+					has_culture_group = centromexa
 				}
 				OR = { 		
 					is_general = yes
@@ -439,7 +437,7 @@ clothes = {
 				add = 100 
 				is_female = no			
 				OR = {
-					has_culture_group = bactrian	
+					has_culture_group = rockland
 				}
 				OR = { 		
 					is_general = yes
@@ -470,463 +468,12 @@ clothes = {
 			
 			modifier = {
 				add = 50 
-				has_culture_group = latin
+				has_culture_group = yankee
 				NOR = { 		
 					is_general = yes
 					is_admiral = yes
 					has_trait = gladiator
 				}
-			}
-		}
-	}
-	
-
-	###GREEK###	
-	greek_clothing_replace = {
-		dna_modifiers = {
-			accessory = {
-				mode = replace_template				
-				gene = clothes
-				template = greek_clothes
-			}	
-			accessory = {
-				mode = replace_template				
-				gene = clothes_layer2
-				template = greek_top_layer
-			}				
-		}
-		weight = {
-			base = 0	
-			
-			modifier = {
-				add = 50 
-				OR = {
-					has_culture_group = hellenic
-					has_culture_group = thrace_group
-					has_culture_group = illyrian_group
-				}
-				NOR = { 		
-					is_general = yes
-					is_admiral = yes
-					has_trait = gladiator
-				}
-			}
-		}
-	}
-
-
-	###CARTHAGINIAN###	
-	carthaginian_clothing_replace = {
-		dna_modifiers = {
-			accessory = {
-				mode = replace_template				
-				gene = clothes
-				template = carthaginian_clothes
-			}	
-			accessory = {
-				mode = replace_template				
-				gene = clothes_layer2
-				template = carthaginian_top_layer
-			}				
-		}
-		weight = {
-			base = 0	
-			
-			modifier = {
-				add = 50 
-				OR = {
-					has_culture_group = west_levantine
-					has_culture_group = numidian
-					has_culture_group = fezzani
-				}
-				NOR = { 		
-					is_general = yes
-					is_admiral = yes
-					has_trait = gladiator
-				}
-			}
-		}
-	}
-	
-
-	###PERSIAN###	
-	persian_clothing_replace = {
-		dna_modifiers = {
-			accessory = {
-				mode = replace_template				
-				gene = clothes
-				template = persian_clothes
-			}	
-			accessory = {
-				mode = replace_template				
-				gene = clothes_layer2
-				template = persian_top_layer
-			}				
-		}
-		weight = {
-			base = 0	
-			
-			modifier = {
-				add = 50 
-				OR = {
-					has_culture_group = east_levantine
-					has_culture_group = persia
-				}
-				NOR = { 		
-					is_general = yes
-					is_admiral = yes
-					has_trait = gladiator
-				}
-			}
-		}
-	}
-	
-
-	###GERMANIC###	
-	germanic_clothing_replace = {
-		dna_modifiers = {
-			accessory = {
-				mode = replace_template				
-				gene = clothes
-				template = germanic_clothes
-			}	
-			accessory = {
-				mode = replace_template				
-				gene = clothes_layer2
-				template = germanic_top_layer
-			}				
-		}
-		weight = {
-			base = 0	
-			
-			modifier = {
-				add = 50 
-				OR = {
-					has_culture_group = germanic
-					has_culture_group = baltic
-				}
-				NOR = { 		
-					is_general = yes
-					is_admiral = yes
-					has_trait = gladiator
-				}
-			}
-		}
-	}
-	
-
-	###CELTIC###	
-	celtic_clothing_replace = {
-		dna_modifiers = {
-			accessory = {
-				mode = replace_template				
-				gene = clothes
-				template = celtic_clothes
-			}	
-			accessory = {
-				mode = replace_template				
-				gene = clothes_layer2
-				template = celtic_top_layer
-			}				
-		}
-		weight = {
-			base = 0	
-			
-			modifier = {
-				add = 50 
-				OR = {
-					has_culture_group = gaelic
-					has_culture_group = gallic
-					has_culture_group = britannic
-					has_culture_group = belgae_group
-					has_culture_group = dacia_group
-				}
-				NOR = { 		
-					is_general = yes
-					is_admiral = yes
-					has_trait = gladiator
-				}
-			}
-		}
-	}
-	
-
-	###IBERIAN###	
-	iberian_clothing_replace = {
-		dna_modifiers = {
-			accessory = {
-				mode = replace_template				
-				gene = clothes
-				template = iberian_clothes
-			}	
-			accessory = {
-				mode = replace_template				
-				gene = clothes_layer2
-				template = iberian_top_layer
-			}				
-		}
-		weight = {
-			base = 0	
-			
-			modifier = {
-				add = 50 
-				OR = {
-					has_culture_group = celt_iberia
-					has_culture_group = iberia
-					has_culture_group = proto_european
-				}
-				NOR = { 		
-					is_general = yes
-					is_admiral = yes
-					has_trait = gladiator
-				}
-			}
-		}
-	}
-
-
-	###EGYPTIAN###	
-	egyptian_clothing_replace = {
-		dna_modifiers = {
-			accessory = {
-				mode = replace_template				
-				gene = clothes
-				template = egyptian_clothes
-			}	
-			accessory = {
-				mode = replace_template				
-				gene = clothes_layer2
-				template = egyptian_top_layer
-			}				
-		}
-		weight = {
-			base = 0	
-			
-			modifier = {
-				add = 50 
-				has_culture_group = north_african
-				NOR = { 		
-					is_general = yes
-					is_admiral = yes
-					has_trait = gladiator
-				}
-			}
-		}
-	}
-	
-
-	###MAURYAN###	
-	mauryan_clothing_replace = {
-		dna_modifiers = {
-			accessory = {
-				mode = replace_template				
-				gene = clothes
-				template = mauryan_clothes
-			}	
-			accessory = {
-				mode = replace_template				
-				gene = clothes_layer2
-				template = mauryan_top_layer
-			}				
-		}
-		weight = {
-			base = 0	
-			
-			modifier = {
-				add = 50 
-				OR = {
-					has_culture_group = aryan
-					has_culture_group = tibetan
-					has_culture_group = pu
-				}
-				NOR = { 		
-					is_general = yes
-					is_admiral = yes
-					has_trait = gladiator
-				}
-			}
-		}
-	}
-			
-
-	###DRAVIDIAN###	
-	dravidian_clothing_replace = {
-		dna_modifiers = {
-			accessory = {
-				mode = replace_template				
-				gene = clothes
-				template = dravidian_clothes
-			}	
-			accessory = {
-				mode = replace_template				
-				gene = clothes_layer2
-				template = dravidian_top_layer
-			}				
-		}
-		weight = {
-			base = 0	
-			
-			modifier = {
-				add = 50 
-				has_culture_group = indian
-				NOR = { 		
-					is_general = yes
-					is_admiral = yes
-					has_trait = gladiator
-				}
-			}
-		}
-	}
-	
-
-	###SCYTHIAN###	
-	scythian_clothing_replace = {
-		dna_modifiers = {
-			accessory = {
-				mode = replace_template				
-				gene = clothes
-				template = scythian_clothes
-			}	
-			accessory = {
-				mode = replace_template				
-				gene = clothes_layer2
-				template = scythian_top_layer
-			}				
-		}
-		weight = {
-			base = 0	
-			
-			modifier = {
-				add = 50 
-				OR = {
-					has_culture_group = scythia
-					has_culture_group = scythian_east
-				}
-				NOR = { 		
-					is_general = yes
-					is_admiral = yes
-					has_trait = gladiator
-				}
-			}
-		}
-	}
-	
-	
-	###ARABIAN###	
-	arabian_clothing_replace = {
-		dna_modifiers = {
-			accessory = {
-				mode = replace_template				
-				gene = clothes
-				template = arabian_clothes
-			}	
-			accessory = {
-				mode = replace_template				
-				gene = clothes_layer2
-				template = arabian_top_layer
-			}				
-		}
-		weight = {
-			base = 0	
-			
-			modifier = {
-				add = 50 
-				OR = {
-					has_culture_group = south_levantine
-					has_culture_group = south_arabian
-				}
-				NOR = { 		
-					is_general = yes
-					is_admiral = yes
-					has_trait = gladiator
-				}
-			}
-		}
-	}
-	
-	
-	###BACTRIAN###	
-	bactrian_clothing_replace = {
-		dna_modifiers = {
-			accessory = {
-				mode = replace_template				
-				gene = clothes
-				template = bactrian_clothes
-			}	
-			accessory = {
-				mode = replace_template				
-				gene = clothes_layer2
-				template = bactrian_top_layer
-			}				
-		}
-		weight = {
-			base = 0	
-			
-			modifier = {
-				add = 50 
-				has_culture_group = bactrian
-				NOR = { 		
-					is_general = yes
-					is_admiral = yes
-					has_trait = gladiator
-				}
-			}
-		}
-	}
-	
-	
-	###ETHIOPIAN###	
-	ethiopian_clothing_replace = {
-		dna_modifiers = {
-			accessory = {
-				mode = replace_template				
-				gene = clothes
-				template = ethiopian_clothes
-			}	
-			accessory = {
-				mode = replace_template				
-				gene = clothes_layer2
-				template = ethiopian_top_layer
-			}				
-		}
-		weight = {
-			base = 0	
-			
-			modifier = {
-				add = 50 
-				OR = {
-					has_culture_group = aksumite_group	
-					has_culture_group = nilotic_group
-				}
-				NOR = { 		
-					is_general = yes
-					is_admiral = yes
-					has_trait = gladiator
-				}
-			}
-		}
-	}
-
-	goblin_crown_headgear_modifier = {
-		dna_modifiers = {
-			accessory = {
-				mode = replace_template
-				gene = clothes_layer2
-				template = horn_crown_top_layer
-			}		
-		}
-		weight = {
-			base = 0
-
-			modifier = {
-				add = 100
-				employer = {
-					OR = {
-						has_completed_mission_task = nuragic_mission_02_inv_task_71
-						has_completed_mission_task = 01_adriatic_pirate_missions_task_15
-					}
-				}
-				is_ruler = yes
 			}
 		}
 	}
