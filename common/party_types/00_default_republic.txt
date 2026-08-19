@@ -1,12 +1,12 @@
 ﻿
-# Roman Parties
+# Federal Parties
 optimates_party = {
 	allow = {
 		government = federal
 	}
 
 	ruler_modifier = {
-		global_nobles_output = 0.12
+		global_citizen_happyness = 0.08
 	}
 
 	can_character_belong = {
@@ -22,11 +22,12 @@ boni_party = {
 	}
 
 	ruler_modifier = {
-		monthly_wage_modifier = -0.1
-		build_cost = -0.15
+		omen_power = 0.1
+		monthly_wage_modifier = -0.05
 	}
 
 	can_character_belong = {
+		this.religion = this.employer.religion
 	}
 
 	description = boni_party_description
@@ -38,7 +39,7 @@ populares_party = {
 	}
 
 	ruler_modifier = {
-		global_freemen_happyness = 0.08
+		global_nobles_output = 0.12
 	}
 
 	description = populares_party_description

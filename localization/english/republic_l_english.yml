@@ -1,22 +1,22 @@
 ﻿l_english:
  ### Basic Party Stuff
  # Optimates
- optimates_party:0 "Democratic Party"
+ optimates_party:0 "Democrats"
  optimates_party_description:0 "The Democrats are the elected officals who work for the common man, or at least claim so to get popular backing and make their own political platforms relevant. Popular generals and corrupt politicians have a tendency to join this party, as it lets them toss aside ancient traditions that might negatively affect their own rise to power.\n\nThey approve of actions that reduce the influence of the Republicans, and disagree with any moves to cement the control of the upper class."
  optimates_party_influence:1 "Monthly Democratic Party Approval"
  monthly_optimates_party_conviction:0 "Monthly Democratic Party Conviction"
 
  # Populares
- populares_party:0 "Republican Party"
+ populares_party:0 "Republicans"
  populares_party_description:0 "The Republicans are the elite of our nation, rich and powerful elected officals who want to divide the power of the Republic between themselves rather than letting the unwashed masses affect the rule of law.\n\nThey approve of changes made for the established greater families and elite, and hold a deep disdain for any would be populist upstart"
  populares_party_influence:1 "Monthly Republican Party Approval"
  monthly_populares_party_conviction:0 "Monthly Republican Party Conviction"
 
  # Boni
- boni_party:0 "Centrists"
- boni_party_description:0 "The Centrists are elected officals who fall outside of the Republicans or Democrats, maintaining no party alignment of their own. They fall inbetween the Republicans and Democrats, prefering a bi-partisan administration.\n\nThey approve of leaders who actively seek to preserve the peace and stability of the nation, and disapprove of anything that would break the current balance."
- boni_party_influence:1 "Monthly Centrists Approval"
- monthly_boni_party_conviction:0 "Monthly Centrist Conviction"
+ boni_party:0 "Independents"
+ boni_party_description:0 "The Independents are elected officals who fall outside of the Republicans or Democrats, maintaining no party alignment of their own. They fall inbetween the other two parties, prefering a bi-partisan administration.\n\nThey approve of leaders who actively seek to preserve the peace and stability of the nation, and disapprove of anything that would break the current balance."
+ boni_party_influence:1 "Monthly Independents Approval"
+ monthly_boni_party_conviction:0 "Monthly Independent Conviction"
 
  # Oligarchic
  oligarchic_party:0 "Oligarchs"

@@ -774,6 +774,123 @@ clothes = {
 			}
 		}
 	}
+	#Twainist Rulers
+	twainist_male_ruler_modifier = {
+		dna_modifiers = {
+			accessory = {
+				mode = replace_template				
+				gene = clothes
+				template = black_and_white_suits_template
+			}	
+			accessory = {
+				mode = replace_template
+				gene = clothes_layer2
+				template = no_top_layer
+			}			
+		}
+		weight = {
+			base = 0
+			
+			modifier = {
+				add = 100
+				is_female = no
+				age >= 13
+				OR = {
+					country = {
+						religion = twainist
+					}
+				}
+				is_ruler = yes
+			}
+		}
+	}
+	twainist_female_ruler_modifier = {
+		dna_modifiers = {
+			accessory = {
+				mode = replace_template				
+				gene = clothes
+				template = black_and_white_suits_template
+			}	
+			accessory = {
+				mode = replace_template
+				gene = clothes_layer2
+				template = no_top_layer
+			}			
+		}
+		weight = {
+			base = 0
+			
+			modifier = {
+				add = 100
+				is_female = yes
+				age >= 13
+				OR = {
+					country = {
+						religion = twainist
+					}
+				}
+				is_ruler = yes
+			}
+		}
+	}
+	twainist_male_co_ruler_modifier = {
+		dna_modifiers = {
+			accessory = {
+				mode = replace_template				
+				gene = clothes
+				template = black_and_white_suits_template
+			}	
+			accessory = {
+				mode = replace_template
+				gene = clothes_layer2
+				template = no_top_layer
+			}			
+		}
+		weight = {
+			base = 0
+			
+			modifier = {
+				add = 100
+				is_female = no
+				age >= 13
+				OR = {
+					country = {
+						religion = twainist
+					}
+				}
+				is_co_ruler = yes
+			}
+		}
+	}
+	twainist_female_co_ruler_modifier = {
+		dna_modifiers = {
+			accessory = {
+				mode = replace_template				
+				gene = clothes
+				template = black_and_white_suits_template
+			}	
+			accessory = {
+				mode = replace_template
+				gene = clothes_layer2
+				template = no_top_layer
+			}			
+		}
+		weight = {
+			base = 0
+			
+			modifier = {
+				add = 100
+				is_female = yes
+				age >= 13
+				OR = {
+					country = {
+						religion = twainist
+					}
+				}
+				is_co_ruler = yes
+			}
+		}
+	}
 
 	#Ate Commanders 
 	ursuline_soldier_clothes_modifier = {

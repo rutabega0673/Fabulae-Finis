@@ -9149,6 +9149,18 @@ accessory_genes = {
                 1 = male_clothes_american_3_color3 #Fleur de Lis
             }
         }
+
+        black_and_white_suits_template = {
+            index = 62
+            male = {
+                1 = male_clothes_bussines_4
+                1 = male_clothes_bussines_4_color2
+            }
+            female = {
+                1 = female_clothes_bussines_3
+                1 = female_clothes_bussines_3_color2
+            }
+        }
     }       
  
 

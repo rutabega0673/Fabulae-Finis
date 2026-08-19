@@ -1,0 +1,71 @@
+﻿"HAB"={
+	country="HAB"
+	23={  #23-25 are all former pen names of Mark Twain
+		first_name="Thomas Jefferson"
+		family_name="Snodgrass"
+		birth_date=2295.1.30
+		culture="gatewayan"
+		religion="twainist"
+		no_stats=yes
+		add_martial=3
+		add_charisma=6
+		add_finesse=9
+		add_zeal=5
+		no_traits=yes
+		add_trait="sarcastic"
+		add_trait="scholar"
+		add_gold=100
+		add_popularity=55
+		c:HAB={
+			set_as_ruler=char:23
+		}
+	}
+	24={ 
+		first_name="Sieur Louis"
+		family_name="De Conte"
+		birth_date=2300.10.12
+		culture="paw_paw"
+		religion="twainist"
+		no_stats=yes
+		add_martial=9
+		add_charisma=4
+		add_finesse=4
+		add_zeal=3
+		no_traits=yes
+		add_trait="comradely"
+		add_trait="explorer"
+		add_trait="resourceful"
+		add_popularity=55
+		give_office=office_plebeian_aedile
+	}
+	25={ 
+		first_name="John"
+		family_name="Snook"
+		birth_date=2290.5.6
+		culture="gatewayan"
+		religion="twainist"
+		no_stats=yes
+		add_martial=1
+		add_charisma=1
+		add_finesse=1
+		add_zeal=3
+		no_traits=yes
+		add_trait="dumb"
+	}
+	26={ #Mark Twain supposedly got his pen name from this guy
+		first_name="Isiah"
+		family_name="Sellers"
+		birth_date=2283.5.6
+		culture="buckeye"
+		religion="twainist"
+		no_stats=yes
+		add_martial=8
+		add_charisma=4
+		add_finesse=7
+		add_zeal=3
+		no_traits=yes
+		add_trait="disciplined"
+		add_trait="poet"
+		give_office=office_censor
+	}
+}
