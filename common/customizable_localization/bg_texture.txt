@@ -456,6 +456,18 @@ character_bg = {
 		}
 	}
 	text = {
+		localization_key = background_city_new_york
+		trigger = {
+			is_at_location = p:4381
+		}
+	}
+	text = {
+		localization_key = background_city_boston
+		trigger = {
+			is_at_location = p:6535
+		}
+	}
+	text = {
 		localization_key = transparent_character_bg
 	}
 }

@@ -1209,6 +1209,34 @@ types InvictusGuiTypes
 			}
 			visible = "[And( EqualTo_int32(Character.GetLocation.GetId, '(int32)4077'), And( Not(Character.HasArmy), Character.IsAlive )))]"
 		}
+		#Huge background for New Tork
+		icon = {
+			texture = "gfx/interface/portrait/background_city_new_york_huge.dds"
+			spriteType = Corneredtiled
+			size = { 100% 100% }
+			modify_texture = {
+				name = "Alpha"
+				block "AlphaTexture" { texture = "gfx/interface/base_parts/portrait_x32y32bd_alpha.dds" }
+				blend_mode = alphamultiply
+				spriteType = Corneredtiled
+				spriteborder = { 4 4 }
+			}
+			visible = "[And( EqualTo_int32(Character.GetLocation.GetId, '(int32)4381'), And( Not(Character.HasArmy), Character.IsAlive )))]"
+		}
+		#Huge background for Boston
+		icon = {
+			texture = "gfx/interface/portrait/background_city_boston_huge.dds"
+			spriteType = Corneredtiled
+			size = { 100% 100% }
+			modify_texture = {
+				name = "Alpha"
+				block "AlphaTexture" { texture = "gfx/interface/base_parts/portrait_x32y32bd_alpha.dds" }
+				blend_mode = alphamultiply
+				spriteType = Corneredtiled
+				spriteborder = { 4 4 }
+			}
+			visible = "[And( EqualTo_int32(Character.GetLocation.GetId, '(int32)6535'), And( Not(Character.HasArmy), Character.IsAlive )))]"
+		}
 
 		# Imprisoned character, this has to be last otherwise it wont show up
 		icon = {

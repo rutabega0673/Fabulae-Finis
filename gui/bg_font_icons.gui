@@ -407,6 +407,22 @@ texticon = {
     }
 }
 texticon = {
+    icon = background_city_new_york
+    iconsize = {
+        texture = "gfx/interface/portrait/background_city_new_york.dds"
+        size = { 160 240 }
+        fontsize = 16
+    }
+}
+texticon = {
+    icon = background_city_boston
+    iconsize = {
+        texture = "gfx/interface/portrait/background_city_boston.dds"
+        size = { 160 240 }
+        fontsize = 16
+    }
+}
+texticon = {
     icon = transparent_character_bg
     iconsize = {
         texture = "gfx/interface/transparent.dds"
