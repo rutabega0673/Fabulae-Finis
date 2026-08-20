@@ -155,7 +155,7 @@
  weinstrasser_heritage:0 "Weinstrasser Heritage"
  weinstrasser_heritage_desc:0 "The Weinstrasser inhabit a region called the Missouri Rhineland, as it bears many similarities to the Rhineland in the distant Germany. The Weinstrasser's primary trade is winemaking, and they have become so skilled at it that their name is ubiqitious with the drink. A pastoral people, they live mostly in small farms and communities along the Missouri River. They speak a German tongue called Rhenish (Rheindeutsch), sometimes referred to as Hermanndeutsch."
  freidenker_heritage:0 "Freidenker Heritage"
- freidenker_heritage_desc:0 "Freidenkers are descendended from the legendary Forty-eighters, 'Free-Thinkers' who taught in tolerance of other faiths and cultures, and democratic values. The Freidenkers reside primarily in the hill country of Texas, and sometimes refer to themselves as the 'Bergbewohner', hill-dwellers. They are cousins with their Czexan kin, and although they speak separate languages, they are united in many customs."
+ freidenker_heritage_desc:0 "Freidenkers are descendended from the legendary Forty-eighters, 'Free-Thinkers' who taught in tolerance of other faiths and cultures, and democratic values. The Freidenkers reside primarily in the hill country of Texas, although they are spread somewhat throughout Texas. They are cousins with their Czexan and Silesian kin, and although they speak separate languages, they are united in many customs."
  czexan_heritage:0 "Czexan Heritage"
  czexan_heritage_desc:0 "Czexans are a simple, rural folk. They care not for the pomp and glamour of the coastal Americanists, prefering their time-honored traditions. Despite their way of life, they are surprisingly learned, with many of their cities containing sizable libraries, full of books in the Czech language."
  texian_heritage:0 "Texian Heritage"
@@ -222,6 +222,16 @@
  utahn_heritage_desc:0 "The proud Utahns are defined by their religious zealotry and powerful nobility. They have no great love of outsiders, although they often venture from their lands to preach to them."
  muskrat_french_heritage:0 "Michiganase Heritage"
  muskrat_french_heritage_desc:0 "A people who have long inhabited North America, the Michiganaise, or 'Muskrat French' as they are sometimes referred to, inhabit both sides of Detroit River. They are, for the most part, a staunchly Catholic people, as were their forefathers. Their habit of eating Muskrat is due to the Catholic practice of withholding from eating red meat on Lenten Fridays - Muskrat was deemed a 'fish' by the Church, and thus permitted to be eaten. They are merchants and fur trappers, trading goods from Detroit across to Windsor. In pre-Event times, their culture suffered greatly, as a result of the U.S-Canadian border that divided their communities. They perservered, still being found in great numbers in this region."
+ valleyan_heritage:0 "Valleyan Heritage" 
+ valleyan_heritage_desc:0 ""
+ joaquino_heritage:0 "Joaquino Heritage"
+ joaquino_heritage_desc:0 ""
+ bayfolk_heritage:0 "Bayfolk Heritage"
+ bayfolk_heritage_desc:0 ""
+ montereyan_heritage:0 "Montereyan Heritage"
+ montereyan_heritage_desc:0 ""
+ socaleno_heritage:0 "Socaleno Heritage"
+ socaleno_heritage_desc:0 ""
  
  
  

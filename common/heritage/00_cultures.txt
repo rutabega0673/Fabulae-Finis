@@ -820,6 +820,71 @@ muskrat_french_heritage = {
         primary_culture = michiganais
 	}
 }
+valleyan_heritage = {
+   	modifier = {
+        #good
+        global_goods_from_slaves = -1
+        global_monthly_food_modifier = 0.10
+      #bad
+        civil_war_threshold = -0.04
+   }
+
+   trigger = {
+        primary_culture = valleyan
+	}
+}
+joaquino_heritage = {
+   	modifier = {
+        #good
+        global_freemen_happyness = 0.08
+        global_manpower_modifier = 0.05
+      #bad
+       global_nobles_happyness = -0.04 
+   }
+
+   trigger = {
+        primary_culture = joaquino
+	}
+}
+bayfolk_heritage = {
+   	modifier = {
+        #good
+        global_capital_trade_routes = 1
+        civic_tech_investment = 0.10
+      #bad
+        global_slaves_output = -0.05
+   }
+
+   trigger = {
+        primary_culture = bayrean
+	}
+}
+montereyan_heritage = {
+   	modifier = {
+        #good
+        light_cavalry_discipline = 0.10
+        omen_power = 0.05
+      #bad
+        stability_cost_modifier = 0.10
+   }
+
+   trigger = {
+        primary_culture = montereyan
+	}
+}
+socaleno_heritage = {
+   	modifier = {
+        #good
+        ruler_popularity_gain = 0.05
+        monthly_political_influence_modifier = 0.10
+      #bad
+        loyalty_gain_chance_modifier = 0.05
+   }
+
+   trigger = {
+        primary_culture = socaleno
+	}
+}
 #Culture Group
 midwestern_heritage = {
    	modifier = {

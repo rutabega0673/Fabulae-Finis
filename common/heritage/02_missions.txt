@@ -26,3 +26,17 @@ mississippi_heritage = {
        always = no
     }
 }
+california_empire_heritage = {
+   	modifier = {
+        #good
+        global_monthly_civilization = 5
+        global_population_capacity_modifier = 0.10
+
+       #bad
+        agressive_expansion_impact = 0.10
+   }
+
+   trigger = {
+       always = no
+    }
+}

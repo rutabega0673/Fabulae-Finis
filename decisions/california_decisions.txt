@@ -1,0 +1,17 @@
+﻿country_decisions = {
+
+	california_new_capital = {
+		potential = {
+			num_of_cities >= 1
+			has_variable = formed_california
+		}
+		allow = {
+			treasury >= 200
+		}
+		effect = {
+			hidden_effect = {
+				trigger_event = { id = california_event.1 }
+			}
+		}
+	}
+}

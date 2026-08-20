@@ -2797,6 +2797,7 @@
 		Zuniga
 	}
 	culture = {
+		californian_culture = {} #Via formable
 		valleyan = {}
 		socaleno = {
 			levy_template = levy_socaleno

@@ -69,6 +69,23 @@
  columbia_twainist_heritage:0 "Heritage of the Age of Columbia"
  columbia_twainist_heritage_desc:0 "In times of yore, Old America was governed by the wise and stern Uncle Sam. However, he succumbed to the ravages of time, destroying the old world in the chaos of The Event. After his death, Columbia and her daughters came to populate the land that was once the United States. Now it seems, Columbia has been reborn, led by the prosperous and entreprising Twainists."
 
+ form_california:0 "Unite California"
+ form_california_desc:0 "Ever since the Event and the collapse of the Californian Republic, the golden lands of California have been in a state of perpetual chaos and conflict. Although many have tried to claim the mantle of California, their attempts have been foolish, and in vain. It is through our efforts alone, that a new eurekan dawn can rise upon California."
+ formable_not_california_exists:0 "#Y California#! does not exist."
+ CALIFORNIA_NAME:0 "California"
+ CALIFORNIA_ADJ:0 "Californian"
+ california_new_culture_tt:0 "We will have the option to adopt a unified #Y Californian#! culture."
+ california_claims_tt:0 "#Y California#! will gain claims on the regions of #Y Valley#!, #Y Great Basin#!, #Y Coast#!, #Y Jefferson#!, and #Y Baja California#!."
+ california_assimilation_effect_tt:0 "Up to #Y 15%#! of our pops in the #E Californian#! culture group will be #E assimilated#! into our new #E Californian#! culture."
+ dont_change_culture_group_tt:0 "We will keep our current culture."
+ californian_culture:0 "Californian"
+ ff_formable_event_4_title:0 "A New Eurekan Dawn"
+ ff_formable_event_4_desc:0 "California, once a fractured and disunited land, has been made whole once again. Despite the differences between our peoples, we share one identity above all - Californian. Are we to cast aside these petty differences, and forge a new path together, or will we remain fractured?"
+ ff_formable_event_4.a:0 "We are first Californian."
+ ff_formable_event_4.b:0 "Our differences make us all stronger."
+ california_empire_heritage:0 "Californian Empire Heritage"
+ california_empire_heritage_desc:0 "Once again, the mighty bear stands strong. The formerly disparate lands of California have been brought together, under one ruler, and a new age can begin for California - one of learning, civilization, and prosperity."
+
  ## Formable Events ##
  ff_formable_event_1_t:0 "A New Capital?"
  ff_formable_event_1_desc:0 "Now that the lands of the Hudson has been brought under our control, there is talk amongst the nobles in our court of a new capital. In times of old, all of Hudsonia was ruled from the capital city of [GetProvince('(int32)6678').GetName].\n\nThere is certainly some benefits to relocating here, however our current capital could be spruced up."

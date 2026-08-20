@@ -188,3 +188,45 @@ ff_formable_event.3 = {
 		}
 	} 
 }
+
+ff_formable_event.4 = { # New Californian Culture Group Event
+	type = country_event
+	title = ff_formable_event_4_title
+    desc = ff_formable_event_4_desc
+    picture = event_crowd_speech_celebration
+
+    option = {
+    	name = ff_formable_event_4.a
+    	custom_tooltip = california_assimilation_effect_tt
+		hidden_effect = {
+			every_owned_province = {
+				every_pops_in_province = {
+					limit = {
+						OR = {
+							pop_culture = valleyan
+							pop_culture = montereyan
+							pop_culture = socaleno
+							pop_culture = joaquino
+							pop_culture = cahuilla
+							pop_culture = bayrean
+						}
+					}
+					random_list = {
+						85 = { }
+						15 = { set_pop_culture = californian_culture }
+					}
+				}
+			}
+		}
+		set_primary_culture_cleanup_effect = {
+	  		NEW_PRIMARY_CULTURE = californian_culture
+  			MAKE_OLD_CULTURE_INTEGRATED = yes
+		}
+    }
+
+    option = {
+    	name = ff_formable_event_4.b
+    	custom_tooltip = dont_change_culture_group_tt
+		add_stability = 10
+    }
+}

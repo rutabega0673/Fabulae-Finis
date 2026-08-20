@@ -106,7 +106,6 @@
 				set_variable = formed_twainist_empire
 				change_country_color = "twainist_blue"
 				change_country_adjective = "TWAINIST_EMPIRE_ADJECTIVE"
-				change_country_color =  "twainist_blue"
 				change_country_flag = TWAINIST_EMPIRE_FLAG
 			}
 		}

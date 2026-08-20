@@ -1,0 +1,147 @@
+﻿country_decisions = {
+	
+	# Form California
+	form_california = {
+		
+		potential = {
+			NOT = { has_variable = formed_california }
+			num_of_cities >= 1
+			country_culture_group = californian
+			NOT = {
+				tag = CF1
+			}
+			#OR = {
+			#	is_ai = no
+			#	#num_of_cities >= 40
+			#}
+		}
+		
+		highlight = {
+			scope:province = {
+				OR = {
+					province_id = 4498
+					province_id = 315
+					province_id = 4083
+					province_id = 2848
+					province_id = 9172
+					province_id = 273
+					province_id = 2128
+					province_id = 4288
+					province_id = 4469
+					province_id = 4468
+					province_id = 2997
+					province_id = 2323
+					province_id = 3339
+					province_id = 6895
+					province_id = 5979
+					province_id = 4911
+					province_id = 8093
+					province_id = 8094
+					province_id = 8562
+					province_id = 1815
+					province_id = 3530
+					province_id = 290
+					province_id = 292
+					province_id = 9127
+					province_id = 5520
+					province_id = 439
+					province_id = 5732
+					province_id = 6599
+				}
+			}
+		}
+		
+		allow = {
+			custom_tooltip = {
+				text = formable_not_california_exists
+				NOT = {
+					any_country = {
+						tag = CF1
+					}
+				}
+			}
+			#is_monarchy = no
+			can_form_nation_trigger = yes
+			owns_or_subject_owns = 4498
+			owns_or_subject_owns = 315
+			owns_or_subject_owns = 4083
+			owns_or_subject_owns = 2848
+			owns_or_subject_owns = 9172
+			owns_or_subject_owns = 273
+			owns_or_subject_owns = 2128
+			owns_or_subject_owns = 4288
+			owns_or_subject_owns = 4469
+			owns_or_subject_owns = 4468
+			owns_or_subject_owns = 2997
+			owns_or_subject_owns = 2323
+			owns_or_subject_owns = 3339
+			owns_or_subject_owns = 6895
+			owns_or_subject_owns = 5979
+			owns_or_subject_owns = 4911
+			owns_or_subject_owns = 8093
+			owns_or_subject_owns = 8094
+			owns_or_subject_owns = 8562
+			owns_or_subject_owns = 1815
+			owns_or_subject_owns = 3530
+			owns_or_subject_owns = 290
+			owns_or_subject_owns = 292
+			owns_or_subject_owns = 9127
+			owns_or_subject_owns = 5520
+			owns_or_subject_owns = 439
+			owns_or_subject_owns = 5732
+			owns_or_subject_owns = 6599
+		}
+		
+		
+		effect = {
+			custom_tooltip = "tier_3_formable_tooltip"
+			change_country_name = "CALIFORNIA_NAME"
+			if = { limit = { is_tribal = yes} change_government = imperium tribal_formable_government_change_effect = yes }
+			else_if = { limit = { is_republic = yes } change_government = grand_republic switch_government_type_event_clearup_effect = yes }
+			else_if = { limit = { is_monarchy = yes } change_government = imperium switch_government_type_event_clearup_effect = yes }
+			set_country_heritage = california_empire_heritage
+			monarchy_republic_into_imperium_formable_effect = yes
+			custom_tooltip = "california_claims_tt"
+			custom_tooltip = "california_new_culture_tt"
+			if = {
+				limit = { NOT = { tag = CLA } }
+				current_ruler = {
+					add_trait = founder
+					add_trait = conqueror
+					add_finesse=2
+					add_zeal=2
+					add_nickname = "NICKNAME_BEAR"
+				}
+			}
+			if = {
+				limit = { is_tribal = yes }
+				add_country_modifier = {
+					name = civilized_tribe
+					duration = 5475
+				}
+			}
+			add_5_free_province_investments = yes
+			trigger_event = { id = ff_formable_event.4 }
+			hidden_effect = {
+				set_variable = formed_california
+				change_country_color = "california_red"
+				change_country_adjective = "CALIFORNIA_ADJECTIVE"
+				change_country_flag = CALIFORNIA_FLAG
+				change_country_tag = CF1
+			}
+			hidden_effect = {
+				region:andreas_region = { formable_region_province_effect = yes }
+				region:nevada_region = { formable_region_province_effect = yes }
+				region:the_valley_region = { formable_region_province_effect = yes }
+				region:baja_california_region = { formable_region_province_effect = yes }
+				region:jefferson_region = { formable_region_province_effect = yes }
+			}
+		}
+		
+		ai_will_do = {
+			base = 1
+		}
+	}
+
+} 
+
