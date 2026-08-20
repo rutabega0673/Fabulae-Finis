@@ -1,0 +1,25 @@
+﻿"SAC"={
+	country="SAC"
+	28={ 
+		first_name="Zeke"
+		family = c:SAC.fam:Fremont
+		birth_date=2266.11.9
+		culture="valleyan"
+		religion="caesarist"
+		no_stats=yes
+		add_martial=12
+		add_charisma=3
+		add_finesse=7
+		add_zeal=4
+		no_traits=yes
+		add_trait="gluttonous"
+		add_trait="harsh"
+		add_trait="vengeful"
+		add_gold=300
+		add_popularity=10
+		c:SAC={
+			set_as_ruler=char:28
+		}
+		dna = "qMKowrR+tH7t0e3RApMCkwKUApQCjAKMAnwCfAKDAoMCewJ7AngCeAJ8AnwCfwJ/AmYCZgKUApQCfAJ8AnsCewJ+An4CgQKBApkCmQOqA6oCfgJ+AoACgAJ/An8ChwKHAnECcQJ2AoECeAJ4AlsCfgKIAogCUAJtAnwCawJMAnAE4wTjAosCiwJ+An4CcQJxAmYCZgJnAmcCdQJ1Ao0CjQKPAo8CiwKLAnQCdAKFAoUCawJrAocChwJrAmsCjwKPAncCdwKFAoUCaQJpAngCeAJ7AnsCagJqAnMCcwFgAWACfgJ+Ao8CjwGEAosAOgA6AAAAAADsAOwArACsAMIAwgLKAsoAogCiAaUAHgDkAOQAmACYACoAKgB/AH8BcAFwAuMC4wLnAucAsQCxAJcAlwFtAW0ByQOuAEcARwB/AH8AQQBBAJUAlQKBAoEBUAAEAE0ATQDtAO0AXgDtAOkA6QCUAJQBVwEnAX8BfwE1ATUBjQONAH8AfwTsBOwFqgXDAGwAEwRHBeMB6gIoAv8CHQAAAAAAAAAAAAAAAA=="
+	}
+}

@@ -1,8 +1,9 @@
 ﻿l_english:
- startup_events_1_title:0 "Maya Preclassic Collapse"
- startup_events_1_desc:0 "Sometime, as early as the #E 8th Baktun, 3rd Katun#! (27th October 100CE), the age of brilliant Maya culture known as the #E Preclassic#!, severe decline took hold. The greatest of Maya cities, El Mirador, Nakbe, and Kaminaljuyu among others, have fallen into disrepair after spending centuries producing a masterclass of cultural works. Maya civilization has yet to produce cities as great.\n\nYet followed by darkness is a new light. Cities such as Yax Mutal (Tikal) have begun to rise, and the powerful Puh (Teotihuacan) have started to influence the Maya world. A new age of prosperity will soon be upon us, should we only survive the final shadows of the giants who fell before us. Our priests and wisemen believe this will take approximately 2.5 Katuns (50 years)"
- startup_events_1.a:0 "We will endure hardship before harnessing greatness."
- startup_events_1_modifier:0 "Shadow of the Giants" #50 Years
- mayan_long_count_display:0 "[SCOPE.ScriptValue('baktun_final')|0].[SCOPE.ScriptValue('katun_final')|0].[SCOPE.ScriptValue('tun_final')|0].[SCOPE.ScriptValue('uinal_final')|0].[SCOPE.ScriptValue('kin_final')|0]"
+ ff_startup_event_1:0 "American Resurgence"
+ ff_startup_event_1_desc:0 "News has reached us of the rebirth of the [GetCountry('PRI').GetName], led by the venerable and mighty [GetCharacter('(int32)19').GetName]. From his capital in [GetProvince('(int32)4077').GetName], the [GetCountry('PRI').GetReligion.GetName] faith has seen a massive resurgence. Such unified leadership of the #Y Americanists#! has not been seen since pre-Event times, and even some of our own have begun to doubt our ability to restore the #Y Republic#!, claiming that we should pledge our allegiance to [GetCharacter('(int32)19').GetName]. However, it is certain that the collapse of the #Y West Coast Command#!, all those years ago has spelled disaster for the [SCOPE.GetRootScope.GetCountry.GetReligion.GetName] nations. We have fallen into disarray, clinging to the scraps of what once were.\n\nWhatever choice we make, it is clear that a great change is occuring - what choice are we to make?"
+ ff_startup_event_1.a:0 "Hail, Columbia!"
+ ff_startup_event_1.b:0 "We will place our faith in the American Caesar."
+ ff_startup_event_1.c:0 "The teachings of the Heartfuls intrigue us..."
+ caesarist_startup_mod:0 "The Last Stand of the Caesarists"
 
  CURRENT_DATE_TOOLTIP:2 "#T Current Date#!\nThe game counts using the Gregorian calendar, which was commonly used by the great empires before The Event.\n\n#TF Pythagoras, when he was asked what time was, answered that it was the soul of this world.#!"

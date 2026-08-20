@@ -1,0 +1,109 @@
+﻿namespace = ff_startup_event
+
+ff_startup_event.1 = { #Caesarist Startup Event
+	type = country_event
+	title = "ff_startup_event_1"
+	desc = "ff_startup_event_1_desc"
+	
+	left_portrait = current_ruler
+	right_portrait = c:PRI.current_ruler
+	
+	picture = Event_praying_washington
+	
+	fire_only_once = yes
+
+	trigger = {
+		religion = caesarist
+	}
+	
+	option = {
+		name = "ff_startup_event_1.a"
+		add_political_influence = -100
+		add_stability = -10
+		set_country_religion = americanist
+		change_government = aristocratic_republic
+		current_ruler = {
+		if = {
+			limit = {
+				NOT = { has_religion = americanist }
+			}
+			set_character_religion = americanist
+		}
+	}
+	hidden_effect = {
+		every_character = {
+			limit = { NOT = { has_same_religion_as = employer.current_ruler } }
+			add_loyalty = national_conversion_l
+		}
+		current_ruler.family = {
+			every_family_member = {
+				limit = {
+					employer = ROOT
+					loyalty >= 60
+					NOT = { has_religion = americanist }
+				}
+				set_character_religion = americanist
+			}
+		}
+	}
+		add_country_modifier = {
+			name = "recent_convert_modifier"
+			duration = 3650
+		}
+		ai_chance = {
+			factor = 0
+		}
+	}
+	option = {
+		name = "ff_startup_event_1.b"
+		add_stability_effect = yes
+		add_country_modifier = {
+			name = caesarist_startup_mod
+			duration = 3650
+		}
+		ai_chance = {
+			factor = 100
+		}
+	}
+	option = {
+		name = "ff_startup_event_1.c"
+		trigger = { 
+			tag = PUE
+		}
+		add_political_influence = -100
+		add_stability = -10
+		set_country_religion = heartful
+		change_government = aristocratic_republic
+		current_ruler = {
+		if = {
+			limit = {
+				NOT = { has_religion = heartful }
+			}
+			set_character_religion = heartful
+		}
+	}
+	hidden_effect = {
+		every_character = {
+			limit = { NOT = { has_same_religion_as = employer.current_ruler } }
+			add_loyalty = national_conversion_l
+		}
+		current_ruler.family = {
+			every_family_member = {
+				limit = {
+					employer = ROOT
+					loyalty >= 60
+					NOT = { has_religion = heartful }
+				}
+				set_character_religion = heartful
+			}
+		}
+	}
+		add_country_modifier = {
+			name = "recent_convert_modifier"
+			duration = 3650
+		}
+		ai_chance = {
+			factor = 0
+		}
+	}  
+}

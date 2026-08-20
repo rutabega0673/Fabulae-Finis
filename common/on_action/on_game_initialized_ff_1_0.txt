@@ -8,10 +8,8 @@
 	}
 
 	events = {
-		###Meso Startup Events
-		startup_events.1 # Maya Preclassic Collapse
-		startup_events.2 # Longcount Calendar
-		#startup_events.3 # K'in Tick
+		###FF Startup Events
+		ff_startup_event.1
 
 		###Birth Order Traits
 		firstborn_traits.1
@@ -20,8 +18,8 @@
 		#roman_name_order.1 idk what this is
 
 		###Bloodlines
-		bloodlines_startup.1 #Shark Dynasty
-		bloodlines_startup.2 #Snake Dynasty
+		#bloodlines_startup.1 #Shark Dynasty
+		#bloodlines_startup.2 #Snake Dynasty
 	}
 
 	effect = {

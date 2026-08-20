@@ -1,0 +1,26 @@
+﻿"ADS"={
+	country="ADS"
+	29={ 
+		first_name="Marcus"
+		family = c:ADS.fam:Aureus
+		birth_date=2298.4.21
+		culture="bayrean"
+		religion="romano_humanism"
+		no_stats=yes
+		add_martial=9
+		add_charisma=5
+		add_finesse=8
+		add_zeal=4
+		no_traits=yes
+		add_trait="scholar"
+		add_trait="cruel"
+		add_trait="lazy"
+		add_trait="drunkard"
+		add_gold=300
+		add_popularity=10
+		c:ADS={
+			set_as_ruler=char:29
+		}
+		dna = "ZNdk15B1nnqvwK/AAmcCZwKAAoACiAKIAqwCkAJxAnECbQJtAm0CbQKPAo8CjwKPApkCmQKAAoACmQKZAo0CjQJ9An0ChwKHBNkE2QFlAWUCkAKQA54DngKUApQDngOeAnYCdgFRAVEBUAFQAmYCZgJvAm8CaQJpAoYChgJ4AngCggKCAmwCbAJ8AnwCegJ6AnECcQTMBMwCeQJ5AncCdwFQAVAChwKHAC0ALQKXApcCdQJ1AbsBYgBUA6UCUgKMAmgCaAJ/An8CgAKAApgCmAJ0AnQClwKXAo8CjwJ3AncCjwKPApgCmAFjArgBWAFYAOkA6QAEAAQBUgFSAU8BTwFqAWoAowCjAUkBSQFMAUwADwAPAPQA9AB/AH8AkgCSADIAMgDRANEBWgFaAHAAcAFwAXAAIQAhAREBEQB/AH8AdgB2AUQBRAAeAB4BbgFuAK0ArQDyAPIAxwDHA0sAewE5AG4DBAMEAycDJwKFAoUEiglWAH8AfwNpAhMFwAVhAIUAKgWVBR8CJQIlAtEC0QAAAAAAAAAAAAAAAA=="
+	}
+}

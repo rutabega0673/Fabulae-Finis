@@ -1,0 +1,27 @@
+﻿"NCR"={
+	country="NCR"
+	30={ 
+		first_name="Bill"
+		nickname="NICKNAME_GI"
+		family = c:SAC.fam:Fremont
+		birth_date=2274.6.22
+		culture="valleyan"
+		religion="caesarist"
+		no_stats=yes
+		add_martial=10
+		add_charisma=3
+		add_finesse=9
+		add_zeal=5
+		no_traits=yes
+		add_trait="steadfast"
+		add_trait="blunt"
+		add_trait="proud"
+		add_trait="wise"
+		add_gold=200
+		add_popularity=55
+		c:NCR={
+			set_as_ruler=char:30
+		}
+		dna = "qMKowrR+tH7t0e3RApMCkwKUApQCjAKMAnwCfAKDAoMCewJ7AngCeAJ8AnwCfwJ/AmYCZgKUApQCfAJ8AnsCewJ+An4CgQKBApkCmQOqA6oCfgJ+AoACgAJ/An8ChwKHAnECcQJ2AoECeAJ4AlsCfgKIAogCUAJtAnwCawJMAnAE4wTjAosCiwJ+An4CcQJxAmYCZgJnAmcCdQJ1Ao0CjQKPAo8CiwKLAnQCdAKFAoUCawJrAocChwJrAmsCjwKPAncCdwKgAoUCegJpAlECeAJ2AnsCbAJqAnMCcwAAAWABNQJ+Ao8CjwKEAosBIQA6AQAAAADsAOwBBgCsAcIAwgLKAsoBAQCiAaUAHgDkAOQAmACYATkAKgB/AH8CPgFwAtcC4wLnAucAsQCxASYAlwAhAW0D/wOuAZ8ARwB/AH8AQQBBAJUAlQKBAoEBUAAEAE0ATQA1AO0BoADtA1YA6QEeAJQBXwEnAQ4BfwQKATUBjQONAH8AfwTsBOwB/wXDAIQAEwWYBeMBDAIoAGwCHQAAAAAAAAAAAAAAAA=="
+	}
+}

@@ -671,6 +671,7 @@ country = {
 			primary_culture = valleyan
 			religion = caesarist
 			capital = 4469
+			family=12
 
 			technology={
 				military_tech={ level=2 progress=0 }
@@ -781,6 +782,7 @@ country = {
 			primary_culture = bayrean
 			religion = romano_humanism
 			capital = 2128
+			family=13
 
 			technology={
 				military_tech={ level=2 progress=0 }
