@@ -39,7 +39,7 @@
 
 1051={ #Coaticook
 	terrain="forest"
-	culture="nouvelle_angleterrais"
+	culture="quebecois"
 	religion="gothic"
 	trade_goods="fur"
 	civilization_value=10
@@ -52,7 +52,7 @@
 
 1052={ #Magog
 	terrain="forest"
-	culture="nouvelle_angleterrais"
+	culture="quebecois"
 	religion="gothic"
 	trade_goods="tubers"
 	civilization_value=10
@@ -507,7 +507,7 @@
 
 5268={ #Lac M Gantic
 	terrain="forest"
-	culture="nouvelle_angleterrais"
+	culture="quebecois"
 	religion="gothic"
 	trade_goods="tubers"
 	civilization_value=10
@@ -533,7 +533,7 @@
 
 5270={ #La Patrie
 	terrain="forest"
-	culture="nouvelle_angleterrais"
+	culture="quebecois"
 	religion="gothic"
 	trade_goods="vegetables"
 	civilization_value=10

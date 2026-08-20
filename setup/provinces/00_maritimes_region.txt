@@ -1,6 +1,6 @@
 ﻿48={ #Saint L Onard
 	terrain="hills"
-	culture="nouvelle_angleterrais"
+	culture="acadien"
 	religion="ursuline"
 	trade_goods="stone"
 	civilization_value=10

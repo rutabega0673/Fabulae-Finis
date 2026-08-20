@@ -307,3 +307,89 @@ vmi_heritage = {
         tag = VMI
     }
 }
+delmarvan_heritage = {
+    modifier = {
+        #good
+        price_state_investment_civic_cost_modifier = -0.25
+        global_nobles_output = 0.05
+
+        #bad
+        loyalty_to_overlord = 15
+    }
+
+    trigger = {
+        tag = DLV
+    }
+}
+chesapeake_heritage = {
+    modifier = {
+        #good
+        omen_power = 0.10
+        global_monthly_civilization = 0.03
+
+        #bad
+        global_manpower_modifier = -0.05
+    }
+
+    trigger = {
+        tag = BLT
+      }
+}
+fredericksburg_heritage = {
+    modifier = {
+        #good
+        ruler_popularity_gain = 0.03
+        light_cavalry_morale = 0.10
+
+        #bad
+        agressive_expansion_monthly_change = 0.03
+    }
+
+    trigger = {
+        tag = FDG
+    }
+}
+newport_news_heritage = {
+    modifier = {
+        #good
+        diplomatic_relations = 2
+        monthly_party_approval = 0.03
+        monthly_legitimacy = 0.03
+        monthly_centralization = 0.03
+
+        #bad
+        fort_maintenance_cost = 0.10
+    }
+
+    trigger = {
+        tag = WDC
+    }
+}
+norfolk_heritage = {
+    modifier = {
+        #good
+        naval_morale_modifier = 0.10
+        ship_cost = -0.05 
+
+        #bad
+        navy_maintenance_cost = 0.10
+    }
+
+    trigger = {
+        tag = NFK
+    }
+}
+new_york_heritage = {
+    modifier = {
+        #good
+        global_import_commerce_modifier = 0.10
+        light_infantry_offensive = 0.15 
+
+        #bad
+        global_slaves_output = -0.05
+    }
+
+    trigger = {
+        tag = NYC
+    }
+}

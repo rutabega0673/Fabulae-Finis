@@ -1,0 +1,25 @@
+﻿"FDG"={
+	country="FDG"
+	27={ #Based off of Alexander Spotswood sort of
+		first_name="Quorum"
+		family_name="Spotswood"
+		birth_date=2299.12.12
+		culture="beltway"
+		religion="americanist"
+		no_stats=yes
+		add_martial=9
+		add_charisma=3
+		add_finesse=2
+		add_zeal=8
+		no_traits=yes
+		add_trait="stubborn"
+		add_trait="aggressive"
+		add_trait="narcissistic"
+		add_gold=200
+		add_popularity=20
+		c:FDG={
+			set_as_ruler=char:27
+		}
+		dna = "DPgM+JCikKLN483jAnICcgA7ADsCjgKOACMAIwKKAooBTQFNAWQBZAFSAVICaQJpApMCkwJyAnICkwKTAokCiQFeAV4CiQKJAo0CjQJzAnMCfQJ9Ao8CjwJsAmwClgKWAnYCdgOxA7EDsAOwAVMBUwJ+An4CjQKNApACkAKDAoMCcwJzAocChwJ1AnUCkAKQAn0CfQKDAoMCdQJ1AnMCcwJ7AnsCbAJsAoICggJ0AnQClgKWAnkCeQOoA6gDoAOgA6QDpAJoAmgCegJ6Am8CbwTeBN4CkAKQAmkCaQKBAoEEyATIAokCiQJwAnAACAAIAFMAUwAoACgAbwBvACgAKACIAIgA7QDtACMAIwCMAIwAVgBWANoA2gB/AH8AzQDNAS0BLQBUAFQC1gLWAFsAWwBqAGoCKgIqAQ8BDwB/AH8ALgAuAKYApgLEAsQBQAFAAFIAUgBOAE4C5wLnAioCKgD9AP0ChgKGAoUChQNCA0IJngmeAH8AfwUfBR8B/RAQAfkB+QWbBdINRQ1FBTUFNQAAAAAAAAAAAAAAAA=="
+	}
+}

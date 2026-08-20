@@ -13,7 +13,7 @@
 
 2={ #Dover Foxcroft
 	terrain="hills"
-	culture="vermonter"
+	culture="bayfolk"
 	religion="gothic"
 	trade_goods="woad"
 	civilization_value=10

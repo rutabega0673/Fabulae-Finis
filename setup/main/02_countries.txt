@@ -1620,7 +1620,7 @@ country = {
 			}
 
 			own_control_core = {
-				8025 8024 8026 3993 327 8405 8406 8407 8150 7077 7075 7076 7074 
+				8025 8024 8026 3993 327 8405 8406 8407 7077 7075 7076 7074 
 				1908 1907 329 328
 			}
 		}
@@ -1643,7 +1643,7 @@ country = {
 			}
 		}
 		STC = { #Saint Cloud
-			government = tribal_kingdom
+			government = theocratic_monarchy
 			primary_culture = minnesotan
 			religion = catholic
 			capital = 8151
@@ -1656,7 +1656,7 @@ country = {
 			}
 
 			own_control_core = {
-				8151 239 8149 68 70 8647
+				8151 239 8149 68 70 8150 69
 			}
 		}
 		ALX = { #Alexandria
@@ -1674,7 +1674,7 @@ country = {
 			}
 
 			own_control_core = {
-				8648 69 1753 1754 1752 389 5363 1478
+				8648 1753 1754 1752 5363 1478
 			}
 		}
 		BMJ = { #Bemidiji
@@ -1743,7 +1743,7 @@ country = {
 			}
 
 			own_control_core = {
-				8374 8649 1755 7343
+				8374 8649 1755 7343 8647
 			}
 		}
 		FRG = { #Fargo
@@ -1760,7 +1760,7 @@ country = {
 			}
 
 			own_control_core = {
-				1646 1644 1645 3514 387
+				1646 1644 1645 3514 387 389 388
 			}
 		}
 		NEU = { #New Ulm
@@ -3498,7 +3498,7 @@ country = {
 
 			own_control_core = {
 				9595 1425 1424 9594 9593 7366 1426 2369 2367 2368 9593 7364 7365 5782
-				5783 5781 3021 388 7680
+				5783 5781 3021 7680
 			}
 		}
 		NDK = { #South Dakota
@@ -5637,7 +5637,7 @@ country = {
 			}
 		}
 		WDC = { #Washington 
-			government = democratic_republic
+			government = theocratic_republic
 			primary_culture = southron
 			religion = americanist
 			capital = 5800
@@ -5689,7 +5689,7 @@ country = {
 			}
 		}
 		NFK = { #Norfolk
-			government = democratic_republic
+			government = aristocratic_republic
 			primary_culture = southron
 			religion = americanist
 			capital = 2003

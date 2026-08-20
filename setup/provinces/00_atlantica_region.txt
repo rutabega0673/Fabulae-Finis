@@ -1365,6 +1365,10 @@
 		amount=6
 	}
 	slaves={
+		religion="fissionist"
+		amount=1
+	}
+	slaves={
 		amount=4
 	}
 }
@@ -1381,7 +1385,15 @@
 		amount=2
 	}
 	freemen={
-		amount=6
+		religion="fissionist"
+		amount=3
+	}
+	freemen={
+		amount=3
+	}
+	slaves={
+		religion="fissionist"
+		amount=3
 	}
 	slaves={
 		amount=4
@@ -1400,7 +1412,11 @@
 		amount=2
 	}
 	freemen={
-		amount=6
+		religion="fissionist"
+		amount=3
+	}
+	freemen={
+		amount=3
 	}
 	slaves={
 		amount=4
@@ -1412,14 +1428,25 @@
 	culture="beltway"
 	religion="americanist"
 	trade_goods="marble"
-	civilization_value=22
+	civilization_value=33
 	barbarian_power=0
-	province_rank="settlement"
+	province_rank="city"
+	nobles={
+		amount=2
+	}
 	citizen={
 		amount=2
 	}
 	freemen={
 		amount=6
+	}
+	slaves={
+		religion="catholic"
+		amount=3
+	}
+	freemen={
+		religion="fissionist"
+		amount=3
 	}
 	slaves={
 		amount=4
