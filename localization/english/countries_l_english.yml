@@ -611,6 +611,12 @@
  ROG_ADJ:0 "Rogue"
  KLM:0 "Klamath"
  KLM_ADJ:0 "Klamathian"
+ RDD:0 "Redwood"
+ RDD_ADJ:0 "Redwooder"
+ SHC:0 "Shasta Cascade"
+ SHC_ADJ:0 "Shastan"
+ EUR:0 "Eureka"
+ EUR_ADj:0 "Eurekan"
 
  ## East Canada ##
  FRO:0 "Francontario"

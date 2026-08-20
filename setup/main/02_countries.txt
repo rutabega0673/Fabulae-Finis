@@ -4445,7 +4445,7 @@ country = {
 			}
 		}
 		LNG = { # Longview
-			government = theocratic_monarchy
+			government = cascadian_diarchy
 			primary_culture = cascadian
 			religion = gaian
 			capital = 1613
@@ -5722,6 +5722,57 @@ country = {
 
 			own_control_core = {
 				744
+			}
+		}
+		RDD = { # Redwood
+			government = tribal_kingdom
+			primary_culture = yurok
+			religion = gaian
+			capital = 4586
+
+			technology={
+				military_tech={ level=1 progress=0 }
+				civic_tech={ level=1 progress=0 }
+				religious_tech= { level=1 progress=0  }
+				oratory_tech= { level=1 progress =0 }
+			}
+
+			own_control_core = {
+				4586 4587 4584 4588 4585
+			}
+		}
+		SHC = { # Shasta Cascade
+			government = theocratic_monarchy
+			primary_culture = jeffersonian
+			religion = theosophy
+			capital = 315
+
+			technology={
+				military_tech={ level=1 progress=0 }
+				civic_tech={ level=1 progress=0 }
+				religious_tech= { level=1 progress=0  }
+				oratory_tech= { level=1 progress =0 }
+			}
+
+			own_control_core = {
+				315 391 392 316
+			}
+		}
+		EUR = { # Eureka
+			government = tribal_kingdom
+			primary_culture = jeffersonian
+			religion = gaian
+			capital = 4498
+
+			technology={
+				military_tech={ level=1 progress=0 }
+				civic_tech={ level=1 progress=0 }
+				religious_tech= { level=1 progress=0  }
+				oratory_tech= { level=1 progress =0 }
+			}
+
+			own_control_core = {
+				4498 4500 4499 1630 1631 4501
 			}
 		}
 	}
