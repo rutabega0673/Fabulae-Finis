@@ -404,7 +404,7 @@
 3149={ #Centralia
 	terrain="forest"
 	culture="chinook"
-	religion="caesarist"
+	religion="gaian"
 	trade_goods="grain"
 	civilization_value=10
 	barbarian_power=0
@@ -469,7 +469,7 @@
 4043={ #Brinnon
 	terrain="hills"
 	culture="cascadian"
-	religion="caesarist"
+	religion="gaian"
 	trade_goods="wood"
 	civilization_value=10
 	barbarian_power=0
@@ -482,7 +482,7 @@
 4044={ #Port Townsend
 	terrain="hills"
 	culture="cascadian"
-	religion="caesarist"
+	religion="gaian"
 	trade_goods="wood"
 	civilization_value=10
 	barbarian_power=0
@@ -638,7 +638,7 @@
 4868={ #Tacoma
 	terrain="farmland"
 	culture="cascadian"
-	religion="gaian"
+	religion="caesarist"
 	trade_goods="wine"
 	civilization_value=10
 	barbarian_power=0
@@ -755,7 +755,7 @@
 5421={ #Neilton
 	terrain="forest"
 	culture="wakashan"
-	religion="caesarist"
+	religion="gaian"
 	trade_goods="cedar"
 	civilization_value=10
 	barbarian_power=0
@@ -768,7 +768,7 @@
 5422={ #Wishkah
 	terrain="forest"
 	culture="wakashan"
-	religion="caesarist"
+	religion="gaian"
 	trade_goods="woad"
 	civilization_value=10
 	barbarian_power=0
@@ -1093,7 +1093,7 @@
 9048={ #Mccleary
 	terrain="plains"
 	culture="cascadian"
-	religion="caesarist"
+	religion="gaian"
 	trade_goods="earthware"
 	civilization_value=10
 	barbarian_power=0
@@ -1119,7 +1119,7 @@
 9050={ #Spanaway
 	terrain="farmland"
 	culture="cascadian"
-	religion="gaian"
+	religion="caesarist"
 	trade_goods="beer"
 	civilization_value=10
 	barbarian_power=0

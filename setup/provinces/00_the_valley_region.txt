@@ -183,7 +183,7 @@
 1772={ #Patterson
 	terrain="flood_plain"
 	culture="valleyan"
-	religion="caesarist"
+	religion="romano_humanism"
 	trade_goods="honey"
 	civilization_value=10
 	barbarian_power=0
@@ -196,7 +196,7 @@
 1773={ #Newman
 	terrain="flood_plain"
 	culture="valleyan"
-	religion="caesarist"
+	religion="romano_humanism"
 	trade_goods="vegetables"
 	civilization_value=10
 	barbarian_power=0
@@ -458,11 +458,25 @@
 	culture="joaquino"
 	religion="la_hermandad"
 	trade_goods="leather"
-	civilization_value=10
+	civilization_value=30
 	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=1
+	province_rank="city"
+	nobles={
+		religion="guruist"
+		amount=3
+	}
+	citizen={
+		amount=5
+	}
+	freemen={
+		amount=5
+	}
+	freemen={
+		religion="guruist"
+		amount=3
+	}
+	slaves={
+		amount=10
 	}
 }
 
@@ -1249,7 +1263,7 @@
 9172={ #Redding
 	terrain="forest"
 	culture="jeffersonian"
-	religion="theosophy"
+	religion="colossalist"
 	trade_goods="wood"
 	civilization_value=10
 	barbarian_power=0
@@ -1275,7 +1289,7 @@
 9175={ #Shasta Lake
 	terrain="mountain"
 	culture="jeffersonian"
-	religion="theosophy"
+	religion="colossalist"
 	trade_goods="fish"
 	civilization_value=10
 	barbarian_power=0

@@ -800,9 +800,9 @@ country = {
 		}
 
 		CLA = { #Californian Liberation Army
-			government = military_dictatorship
+			government = stratocratic_monarchy
 			primary_culture = joaquino
-			religion = caesarist
+			religion = guruist
 			capital = 3339
 
 			technology={

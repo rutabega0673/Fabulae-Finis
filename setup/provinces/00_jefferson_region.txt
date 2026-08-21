@@ -118,7 +118,7 @@
 1631={ #Shelter Cove
 	terrain="hills"
 	culture="jeffersonian"
-	religion="buddhism"
+	religion="gaian"
 	trade_goods="hemp"
 	civilization_value=10
 	barbarian_power=0
@@ -417,7 +417,7 @@
 6345={ #Weaverville
 	terrain="mountain"
 	culture="jeffersonian"
-	religion="theosophy"
+	religion="colossalist"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -456,7 +456,7 @@
 6348={ #Hayfork
 	terrain="mountain"
 	culture="pomo"
-	religion="theosophy"
+	religion="colossalist"
 	trade_goods="cedar"
 	civilization_value=10
 	barbarian_power=0
@@ -638,7 +638,7 @@
 9176={ #Lakehead
 	terrain="forest"
 	culture="jeffersonian"
-	religion="theosophy"
+	religion="colossalist"
 	trade_goods="incense"
 	civilization_value=10
 	barbarian_power=0

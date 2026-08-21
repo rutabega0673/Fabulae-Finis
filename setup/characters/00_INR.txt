@@ -7,7 +7,7 @@
 		culture="southron"
 		religion="episcopalian"
 		no_stats=yes
-		add_martial=11
+		add_martial=9
 		add_charisma=8
 		add_finesse=3
 		add_zeal=9

@@ -1,7 +1,7 @@
 ﻿271={ #Novato
 	terrain="farmland"
 	culture="bayrean"
-	religion="buddhism"
+	religion="romano_humanism"
 	trade_goods="dye"
 	civilization_value=10
 	barbarian_power=0
@@ -14,7 +14,7 @@
 272={ #Inverness
 	terrain="forest"
 	culture="bayrean"
-	religion="buddhism"
+	religion="romano_humanism"
 	trade_goods="grain"
 	civilization_value=10
 	barbarian_power=0
@@ -27,7 +27,7 @@
 273={ #San Rafael
 	terrain="hills"
 	culture="bayrean"
-	religion="buddhism"
+	religion="romano_humanism"
 	trade_goods="earthware"
 	civilization_value=10
 	barbarian_power=0
@@ -157,7 +157,7 @@
 2336={ #Discovery Bay
 	terrain="plains"
 	culture="bayrean"
-	religion="caesarist"
+	religion="romano_humanism"
 	trade_goods="precious_metals"
 	civilization_value=10
 	barbarian_power=0
@@ -196,7 +196,7 @@
 2339={ #Country Club
 	terrain="flood_plain"
 	culture="valleyan"
-	religion="caesarist"
+	religion="romano_humanism"
 	trade_goods="marijuana"
 	civilization_value=10
 	barbarian_power=0
@@ -534,7 +534,7 @@
 6834={ #Petaluma
 	terrain="farmland"
 	culture="bayrean"
-	religion="buddhism"
+	religion="romano_humanism"
 	trade_goods="grain"
 	civilization_value=10
 	barbarian_power=0
@@ -547,7 +547,7 @@
 6835={ #Santa Rosa 
 	terrain="hills"
 	culture="bayrean"
-	religion="buddhism"
+	religion="romano_humanism"
 	trade_goods="wine"
 	civilization_value=10
 	barbarian_power=0
@@ -560,7 +560,7 @@
 6836={ #Cloverdale
 	terrain="hills"
 	culture="bayrean"
-	religion="buddhism"
+	religion="romano_humanism"
 	trade_goods="wine"
 	civilization_value=10
 	barbarian_power=0
@@ -690,7 +690,7 @@
 8299={ #Fairfield
 	terrain="farmland"
 	culture="bayrean"
-	religion="buddhism"
+	religion="romano_humanism"
 	trade_goods="marijuana"
 	civilization_value=10
 	barbarian_power=0
@@ -703,7 +703,7 @@
 8300={ #Vallejo
 	terrain="farmland"
 	culture="bayrean"
-	religion="buddhism"
+	religion="romano_humanism"
 	trade_goods="wine"
 	civilization_value=10
 	barbarian_power=0
@@ -872,7 +872,7 @@
 8829={ #Napa
 	terrain="farmland"
 	culture="bayrean"
-	religion="buddhism"
+	religion="romano_humanism"
 	trade_goods="wine"
 	civilization_value=10
 	barbarian_power=0
@@ -898,7 +898,7 @@
 8831={ #Saint Helena
 	terrain="hills"
 	culture="bayrean"
-	religion="buddhism"
+	religion="romano_humanism"
 	trade_goods="vegetables"
 	civilization_value=10
 	barbarian_power=0

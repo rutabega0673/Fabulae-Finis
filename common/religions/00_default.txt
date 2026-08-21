@@ -653,7 +653,7 @@ guruist = { # Guruist
 	modifier = {
 		happiness_for_wrong_religion_modifier = 0.05
 		global_pop_promotion_speed_modifier = 0.25
-		monthly_wage_modifier = 0.20
+		monthly_wage_modifier = 0.15
 	}
 	religion_category = gurus
 	sacrifice_icon = sacrifice_weed

@@ -1,7 +1,113 @@
 ﻿l_english:
- ## Default ##
+ ## Guruist ##
+ deity_guru_sun_tzu:0 "$omen_guru_sun_tzu$"
+ omen_guru_sun_tzu:0 "Guru Sun Tzu"
+ omen_guru_sun_tzu_desc:0 "#Y Guruist Guru#!\nThe famed writer of the Art of War, Guru Sun Tzu is venerated as the father of strategy within Guruism. Considered one of the greatest military tacticians to ever live, his writings lay the foundation of Californian military strategy. Emphasizing more than battle tactics alone, Guru Sun Tzu taught strategists to consider all other factors surrounding war - economy, diplomacy, intelligence, logistics, and morale. According to the Guru, the ultimate victory is that in which no battle is fought, the ultimate principle which underpins Guruist ethics on war."
+
+ deity_guru_lee:0 "$omen_guru_lee$"
+ omen_guru_lee:0 "Guru Lee"
+ omen_guru_lee_desc:0 "#Y Guruist Guru#!\n"
+
+ deity_guru_lincoln:0 "$omen_guru_lincoln$"
+ omen_guru_lincoln:0 "Guru Lincoln"
+ omen_guru_lincoln_desc:0 "#Y Guruist Guru#!\n"
+
+ deity_guru_schwarzenegger:0 "$omen_guru_schwarzenegger$"
+ omen_guru_schwarzenegger:0 "Guru Schwarzenegger"
+ omen_guru_schwarzenegger_desc:0 "#Y Guruist Guru#!\n"
+
+ deity_guru_kal_el:0 "$omen_guru_kal_el$"
+ omen_guru_kal_el:0 "Guru Kal-El"
+ omen_guru_kal_el_desc:0 "#Y Guruist Guru#!\n"
+
+ deity_guru_patton:0 "$omen_guru_patton$"
+ omen_guru_patton:0 "Guru Patton"
+ omen_guru_patton_desc:0 "#Y Guruist Guru#!\n"
+
+ deity_guru_jobs:0 "$omen_guru_jobs$"
+ omen_guru_jobs:0 "Guru Jobs"
+ omen_guru_jobs_desc:0 "#Y Guruist Guru#!\n"
+
+ deity_guru_franklin:0 "$omen_guru_franklin$"
+ omen_guru_franklin:0 "Guru Franklin"
+ omen_guru_franklin_desc:0 "#Y Guruist Guru#!\n"
+
+ deity_guru_yogananda:0 "$omen_guru_yogananda$"
+ omen_guru_yogananda:0 "Guru Yogananda"
+ omen_guru_yogananda_desc:0 "#Y Guruist Guru#!\n"
+
+ deity_guru_disney:0 "$omen_guru_disney$"
+ omen_guru_disney:0 "Guru Disney"
+ omen_guru_disney_desc:0 "#Y Guruist Guru#!\n"
+
+ deity_guru_aurelius:0 "$omen_guru_aurelius$"
+ omen_guru_aurelius:0 "Guru Aurelius"
+ omen_guru_aurelius_desc:0 "#Y Guruist Guru#!\n"
+
  deity_:0 "$omen_$"
  omen_:0 ""
- omen__desc:0 ""
+ omen__desc:0 "#Y Guruist Guru#!\n"
 
+ deity_guru_smith:0 "$omen_guru_smith$"
+ omen_guru_smith:0 "Guru Smith"
+ omen_guru_smith_desc:0 "#Y Guruist Guru#!\n"
 
+ deityguru_confucius_:0 "$omen_guru_confucius$"
+ omen_guru_confucius:0 "Guru Confucius"
+ omen_guru_confucius_desc:0 "#Y Guruist Guru#!\n"
+
+ deity_guru_gautama:0 "$omen_guru_gautama$"
+ omen_guru_gautama:0 "Guru Gautama"
+ omen_guru_gautama_desc:0 "#Y Guruist Guru#!\n"
+
+ deity_guru_muir:0 "$omen_guru_muir$"
+ omen_guru_muir:0 "Guru Muir"
+ omen_guru_muir_desc:0 "#Y Guruist Guru#!\n"
+
+ deity_guru_zarathustra:0 "$omen_guru_zarathustra$"
+ omen_guru_zarathustra:0 "Guru Zarathustra"
+ omen_guru_zarathustra_desc:0 "#Y Guruist Guru#!\n"
+
+ deity_guru_muhammad:0 "$omen_guru_muhammad$"
+ omen_guru_muhammad:0 "Guru Muhammad"
+ omen_guru_muhammad_desc:0 "#Y Guruist Guru#!\n"
+
+ deity_guru_king:0 "$omen_guru_king$"
+ omen_guru_king:0 "Guru King"
+ omen_guru_king_desc:0 "#Y Guruist Guru#!\n"
+
+ deity_guru_moses:0 "$omen_guru_moses$"
+ omen_guru_moses:0 "Guru Moses"
+ omen_guru_moses_desc:0 "#Y Guruist Guru#!\n"
+
+ deity_guru_laozi:0 "$omen_guru_laozi$"
+ omen_guru_laozi:0 "Guru Laozi"
+ omen_guru_laozi_desc:0 "#Y Guruist Guru#!\n"
+
+ deity_guru_krishna:0 "$omen_guru_krishna$"
+ omen_guru_krishna:0 "Guru Krishna"
+ omen_guru_krishna_desc:0 "#Y Guruist Guru#!\n"
+
+ deity_guru_mahavira:0 "$omen_guru_mahavira$"
+ omen_guru_mahavira:0 "Guru Mahavira"
+ omen_guru_mahavira_desc:0 "#Y Guruist Guru#!\n"
+
+ deity_guru_jesus:0 "$omen_guru_jesus$"
+ omen_guru_jesus:0 "Guru Jesus"
+ omen_guru_jesus_desc:0 "#Y Guruist Guru#!\n"
+
+ deity_guru_nanak:0 "$omen_guru_nanak$"
+ omen_guru_nanak:0 "Guru Nanak"
+ omen_guru_nanak_desc:0 "#Y Guruist Guru#!\n"
+
+ deity_:0 "$omen_$"
+ omen_:0 ""
+ omen__desc:0 "#Y Guruist Guru#!\n"
+
+ deity_:0 "$omen_$"
+ omen_:0 ""
+ omen__desc:0 "#Y Guruist Guru#!\n"
+
+ deity_:0 "$omen_$"
+ omen_:0 ""
+ omen__desc:0 "#Y Guruist Guru#!\n"

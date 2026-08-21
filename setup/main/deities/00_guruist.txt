@@ -1,8 +1,100 @@
 deity_manager = {
     deities_database = { ### KEYS 200 - 299 ###
-		# {put number of deity here} = {
-		#	key = omen_
-		#	deity = deity_
-		#}
+		200 = {
+			key = omen_guru_sun_tzu
+			deity = deity_guru_sun_tzu
+		}
+		201 = {
+			key = omen_guru_lee
+			deity = deity_guru_lee
+		}
+		202 = {
+			key = omen_guru_lincoln
+			deity = deity_guru_lincoln
+		}
+		203 = {
+			key = omen_guru_schwarzenegger
+			deity = deity_guru_schwarzenegger
+		}
+		204 = {
+			key = omen_guru_kal_el
+			deity = deity_guru_kal_el
+		}
+		205 = {
+			key = omen_guru_patton
+			deity = deity_guru_patton
+		}
+		206 = {
+			key = omen_guru_jobs
+			deity = deity_guru_jobs
+		}
+		207 = {
+			key = omen_guru_franklin
+			deity = deity_guru_franklin
+		}
+		208 = {
+			key = omen_guru_yogananda
+			deity = deity_guru_yogananda
+		}
+		209 = {
+			key = omen_guru_disney
+			deity = deity_guru_disney
+		}
+		210 = {
+			key = omen_guru_aurelius
+			deity = deity_guru_aurelius
+		}
+		211 = {
+			key = omen_guru_smith
+			deity = deity_guru_smith
+		}
+		212 = {
+			key = omen_guru_confucius
+			deity = deity_guru_confucius
+		}
+		213 = {
+			key = omen_guru_gautama
+			deity = deity_guru_gautama
+		}
+		214 = {
+			key = omen_guru_muir
+			deity = deity_guru_muir
+		}
+		215 = {
+			key = omen_guru_zarathustra
+			deity = deity_guru_zarathustra
+		}
+		216 = {
+			key = omen_guru_muhammad
+			deity = deity_guru_muhammad
+		}
+		217 = {
+			key = omen_guru_king
+			deity = deity_guru_king
+		}
+		218 = {
+			key = omen_guru_moses
+			deity = deity_guru_moses
+		}
+		219 = {
+			key = omen_guru_laozi
+			deity = deity_guru_laozi
+		}
+		220 = {
+			key = omen_guru_krishna
+			deity = deity_guru_krishna
+		}
+		221 = {
+			key = omen_guru_mahavira
+			deity = deity_guru_mahavira
+		}
+		222 = {
+			key = omen_guru_jesus
+			deity = deity_guru_jesus
+		}
+		223 = {
+			key = omen_guru_nanak
+			deity = deity_guru_nanak
+		}
 	}
 }
