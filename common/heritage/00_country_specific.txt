@@ -393,3 +393,73 @@ new_york_heritage = {
         tag = NYC
     }
 }
+abbas_heritage = {
+    modifier = {
+        #good
+        happiness_for_wrong_religion_modifier = 0.04
+        subject_loyalty = 10
+
+        #bad
+        global_pop_conversion_speed_modifier = -0.10
+    }
+
+    trigger = {
+        tag = SCL
+    }
+}
+ncr_heritage = {
+    modifier = {
+        #good
+        war_score_cost = -0.05
+        monthly_military_experience_modifier = 0.05
+
+        #bad
+        manpower_recovery_speed = -0.05
+    }
+
+    trigger = {
+        tag = NCR
+    }
+}
+aureus_heritage = {
+    modifier = {
+        #good
+        global_citizen_output = 0.06
+        happiness_for_same_religion_modifier = 0.03
+
+        #bad
+        happiness_for_wrong_religion_modifier = -0.03
+    }
+
+    trigger = {
+        tag = ADS
+    }
+}
+scr_heritage = {
+    modifier = {
+        #good
+        heavy_infantry_offensive = 0.10
+        monthly_party_approval = 0.03
+
+        #bad
+        character_loyalty = -4
+    }
+
+    trigger = {
+        tag = SAC
+    }
+}
+cla_heritage = {
+    modifier = {
+        #good
+        land_morale_modifier = 0.03
+        global_slaves_happyness = 0.05
+
+        #bad
+        global_nobles_happyness = -0.05
+    }
+
+    trigger = {
+        tag = CLA
+    }
+}

@@ -476,7 +476,11 @@
 		amount=3
 	}
 	slaves={
-		amount=10
+		culture="californian_culture"
+		amount=3
+	}
+	slaves={
+		amount=7
 	}
 }
 

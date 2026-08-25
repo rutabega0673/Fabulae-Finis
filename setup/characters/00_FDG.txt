@@ -7,7 +7,7 @@
 		culture="beltway"
 		religion="americanist"
 		no_stats=yes
-		add_martial=9
+		add_martial=7
 		add_charisma=3
 		add_finesse=2
 		add_zeal=8
