@@ -672,6 +672,9 @@ country = {
 			religion = caesarist
 			capital = 4469
 			family=12
+			treasures = {
+				6
+			}
 
 			technology={
 				military_tech={ level=2 progress=0 }
@@ -764,6 +767,7 @@ country = {
 			primary_culture = joaquino
 			religion = la_hermandad
 			capital = 4911
+			treasures = { 2 }
 
 			technology={
 				military_tech={ level=2 progress=0 }
@@ -783,6 +787,9 @@ country = {
 			religion = romano_humanism
 			capital = 2128
 			family=13
+			treasures = {
+				4 5
+			}
 
 			technology={
 				military_tech={ level=2 progress=0 }
@@ -804,6 +811,7 @@ country = {
 			primary_culture = joaquino
 			religion = guruist
 			capital = 3339
+			treasures = { 1 3 }
 
 			technology={
 				military_tech={ level=2 progress=0 }

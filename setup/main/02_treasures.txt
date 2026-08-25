@@ -1,11 +1,47 @@
 treasure_manager = {
     database = {
-#    	1 = { # Thebes
-#			key = "treasure_tomb_of_semele"
-#			icon = "treasure_sarcophagus"
-#			state_modifier = {
-#				local_population_growth = 0.05
-#			}
-#		}
+   		1 = { # Mao's Little Red Book
+			key = "ff_treasure_little_red_book"
+			icon = "ff_treasure_little_red_book"
+			state_modifier = {
+				local_slaves_happyness = 0.10
+			}
+		}
+		2 = { # Itliong's Horn
+			key = "ff_treasure_itliongs_horn"
+			icon = "treasure_chest"
+			state_modifier = {
+				local_manpower_modifier = 0.05
+			}
+		}
+		3 = { # Tomcat Medal
+			key = "ff_treasure_tomcat_medal"
+			icon = "treasure_chest"
+			state_modifier = {
+				local_defensive = 0.05
+			}
+		}
+		4 = { # Plato's Republic
+			key = "ff_treasure_platos_republic"
+			icon = "old_script_1"
+			state_modifier = {
+				local_citizen_output = 0.05
+			}
+		}
+		5 = { # Meditations Marcus Aurelius
+			key = "ff_treasure_meditations"
+			icon = "old_script_2"
+			state_modifier = {
+				local_citizen_happyness = 0.10
+			}
+		}
+		6 = { # Bear Flag Banner
+			key = "ff_treasure_bear_flag_banner"
+			icon = "ff_treasure_bear_flag_banner"
+			state_modifier = {
+				local_cohort_start_experience = 5
+				local_manpower_modifier = 0.05
+			}
+		}
 	}
 }
