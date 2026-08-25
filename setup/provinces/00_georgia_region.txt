@@ -300,7 +300,7 @@
 3568={ #Donalsonville
 	terrain="marsh"
 	culture="tuskegean"
-	religion="revelationist"
+	religion="springsearcher"
 	trade_goods="fish"
 	civilization_value=10
 	barbarian_power=0
@@ -313,7 +313,7 @@
 3569={ #Newton
 	terrain="plains"
 	culture="tuskegean"
-	religion="revelationist"
+	religion="springsearcher"
 	trade_goods="leather"
 	civilization_value=10
 	barbarian_power=0

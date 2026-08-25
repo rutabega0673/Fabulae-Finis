@@ -10,5 +10,6 @@
 	minnesota_purple = rgb { 150 118 174 }
 	twainist_blue = rgb { 30 43 109 }
 	california_red = rgb { 201 22 57 }
+	upper_missouri_red = rgb { 156 0 21 }
 }
 

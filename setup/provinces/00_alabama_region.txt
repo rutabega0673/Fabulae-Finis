@@ -261,7 +261,7 @@
 4952={ #Tillmans Corner
 	terrain="marsh"
 	culture="gulfard"
-	religion="revelationist"
+	religion="springsearcher"
 	trade_goods="fish"
 	civilization_value=10
 	barbarian_power=0
@@ -274,7 +274,7 @@
 4953={ #Mobile
 	terrain="flood_plain"
 	culture="dixie"
-	religion="revelationist"
+	religion="springsearcher"
 	trade_goods="salt"
 	civilization_value=10
 	barbarian_power=0
@@ -287,7 +287,7 @@
 4954={ #Bay Minette
 	terrain="forest"
 	culture="dixie"
-	religion="revelationist"
+	religion="springsearcher"
 	trade_goods="fish"
 	civilization_value=10
 	barbarian_power=0
@@ -625,7 +625,7 @@
 7742={ #Dothan
 	terrain="hills"
 	culture="dixie"
-	religion="springsearcher"
+	religion="revelationist"
 	trade_goods="cotton"
 	civilization_value=10
 	barbarian_power=0
@@ -638,7 +638,7 @@
 7743={ #Headland
 	terrain="marsh"
 	culture="dixie"
-	religion="springsearcher"
+	religion="revelationist"
 	trade_goods="salt"
 	civilization_value=10
 	barbarian_power=0

@@ -225,3 +225,24 @@ CALIFORNIA_FLAG ={ # California Bear
 	}
 
 }
+
+UPPER_MISSOURI_FLAG = {
+	pattern = "pattern_solid.tga"
+	color1 = "upper_missouri_red"
+	color2 = "ck2_yellow"
+
+	colored_emblem = {
+		texture = "ce_waves_03_ck3.dds"
+		color1 = "ck2_blue"
+		color2 = "roman_gold"
+		instance = { scale = { 1.5 1.5 }}
+	}
+	
+	colored_emblem = {
+		texture = "ce_fleur_missouri.dds"
+		color1 = "roman_gold"
+		instance = { position = { 0.5 0.5 } scale = { 0.65 0.65 }  }
+		instance = { position = { 0.8 0.75 } scale = { 0.65 0.65 }  }
+		instance = { position = { 0.2 0.2 } scale = { 0.65 0.65 }  }
+	}
+}

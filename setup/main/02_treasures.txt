@@ -19,13 +19,14 @@ treasure_manager = {
 			icon = "treasure_chest"
 			state_modifier = {
 				local_defensive = 0.05
+				local_freemen_happyness = 0.05
 			}
 		}
 		4 = { # Plato's Republic
 			key = "ff_treasure_platos_republic"
 			icon = "old_script_1"
 			state_modifier = {
-				local_citizen_output = 0.05
+				local_citizen_output = 0.1
 			}
 		}
 		5 = { # Meditations Marcus Aurelius
@@ -41,6 +42,42 @@ treasure_manager = {
 			state_modifier = {
 				local_cohort_start_experience = 5
 				local_manpower_modifier = 0.05
+			}
+		}
+		7 = { # Liberty Bell
+			key = "ff_treasure_liberty_bell"
+			icon = "ff_treasure_liberty_bell"
+			state_modifier = {
+				local_country_civilization_value = 10.0
+			}
+		}
+		8 = { # Constitution Copy
+			key = "ff_treasure_constitution"
+			icon = "ff_treasure_constitution"
+			state_modifier = {
+				local_pop_conversion_speed_modifier = 0.05
+				local_happiness_for_same_religion_modifier = 0.05
+			}
+		}
+		9 = { # Revere's Spoon
+			key = "ff_treasure_reveres_spoon"
+			icon = "ff_treasure_revere_spoon"
+			state_modifier = {
+				local_citizen_output = 0.1
+			}
+		}
+		10 = { # Benjamin Franklin's Suit
+			key = "ff_treasure_ben_franklin_suit"
+			icon = "ff_treasure_ben_franklin_suit"
+			state_modifier = {
+				local_research_points_modifier = 0.10
+			}
+		}
+		11 = { # Redcoat Musket
+			key = "ff_treasure_redcoat_musket"
+			icon = "ff_treasure_redcoat_musket"
+			state_modifier = {
+				local_defensive = 0.2
 			}
 		}
 	}

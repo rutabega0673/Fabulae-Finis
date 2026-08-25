@@ -11,6 +11,9 @@ country = {
 			capital = 4077
 			republic_election_reforms_federal = martial_law
 			family=10
+			treasures = {
+				7 8 10
+			}
 
 			technology={
 				military_tech={ level=2 progress=0 }
@@ -741,7 +744,7 @@ country = {
 		}
 
 		SCL = { # Socal
-			government = despotic_monarchy
+			government = theocratic_monarchy #Imamate
 			primary_culture = socaleno
 			religion = twelver
 			capital = 3530
@@ -763,7 +766,7 @@ country = {
 		}
 
 		SJN = { # San Joaquin
-			government = despotic_monarchy
+			government = stratocratic_monarchy
 			primary_culture = joaquino
 			religion = la_hermandad
 			capital = 4911
@@ -1031,7 +1034,7 @@ country = {
 		}
 		COL = { # Columbus
 			government = aristocratic_republic
-			primary_culture = atlantean
+			primary_culture = tuskegean
 			religion = revelationist
 			capital = 7205
 
@@ -1420,6 +1423,9 @@ country = {
 			primary_culture = hudsonian
 			religion = americanist
 			capital = 1099
+			treasures = {
+				11
+			}
 
 			technology={
 				military_tech={ level=2 progress=0 }
@@ -1814,10 +1820,16 @@ country = {
 		}
 		ALB = { #Alabama
 			government = despotic_monarchy
-			primary_culture = dixie
+			primary_culture = tuskegean
 			religion = revelationist
 			capital = 2718
 			family = 7
+			poptype_rights = {
+				{
+					culture = dixie
+					type = citizen
+				}
+			}
 
 			technology={
 				military_tech={ level=2 progress=0 }
@@ -2046,7 +2058,7 @@ country = {
 		NAZ = { #Natchez
 			government = despotic_monarchy
 			primary_culture = deltaic
-			religion = revelationist
+			religion = colossalist
 			capital = 2695
 
 			technology={
@@ -2393,7 +2405,7 @@ country = {
 		TMB = { # Timberland
 			government = tribal_kingdom
 			primary_culture = arkalatexan
-			religion = revelationist
+			religion = colossalist
 			capital = 2793
 
 			technology={
@@ -2444,7 +2456,7 @@ country = {
 		VKS = { #Vicksburg
 			government = despotic_monarchy
 			primary_culture = deltaic
-			religion = revelationist
+			religion = colossalist
 			capital = 594
 
 			technology={
@@ -2463,7 +2475,7 @@ country = {
 		BXS = { #Biloxi
 			government = plutocratic_republic
 			primary_culture = gulfard
-			religion = revelationist
+			religion = springsearcher
 			capital = 886
 
 			technology={
@@ -2480,7 +2492,7 @@ country = {
 		JKS = { #Jackson
 			government = despotic_monarchy
 			primary_culture = dixie
-			religion = revelationist
+			religion = colossalist
 			capital = 9122
 
 			technology={
@@ -5580,6 +5592,9 @@ country = {
 			religion = americanist
 			capital = 3184
 			republic_election_reforms = republican_election_4
+			treasures = {
+				9
+			}
 
 			technology={
 				military_tech={ level=2 progress=0 }

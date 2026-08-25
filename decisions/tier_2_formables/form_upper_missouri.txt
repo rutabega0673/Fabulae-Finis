@@ -1,0 +1,117 @@
+﻿country_decisions = {
+	form_upper_missouri = {
+		
+		potential = {
+			num_of_cities >= 1
+			OR = {
+				country_culture_group = midwestern
+				country_culture_group = sioux
+				country_culture_group = deutschamerikaner
+				country_culture_group = prairie
+				country_culture_group = plains
+			}
+			OR = {
+				capital_scope = {
+					is_in_region = dakotas_region
+				}
+				capital_scope = {
+					is_in_region = kansas_region
+				}
+				capital_scope = {
+					is_in_region = big_sky_region
+				}
+				capital_scope = {
+					is_in_region = iowa_region
+				}
+			}
+			NOR = {
+				tag = UPM
+				is_tier_2_formable_trigger = yes
+				is_endgame_tag_trigger = yes
+				has_variable = has_formed_upper_missouri
+			}
+		}
+		highlight = {
+			scope:province = {
+				OR = {
+					province_id = 5880
+					province_id = 8332
+					province_id = 7313
+					province_id = 6364
+					province_id = 9595
+					province_id = 5297
+					province_id = 9076
+					province_id = 4631 
+					province_id = 1331
+					province_id = 8964
+					province_id = 1289
+				}
+			}
+		}
+		
+		allow = {
+			custom_tooltip = {
+				text = upper_missouri_does_not_exist
+				NOT = {
+					any_country = {
+						tag = UPM
+					}
+				}
+			}
+			can_form_nation_trigger = yes
+			owns_or_subject_owns = 5880
+			owns_or_subject_owns = 8332
+			owns_or_subject_owns = 7313
+			owns_or_subject_owns = 6364
+			owns_or_subject_owns = 9595
+			owns_or_subject_owns = 5297
+			owns_or_subject_owns = 9076
+			owns_or_subject_owns = 4631
+			owns_or_subject_owns = 1331
+			owns_or_subject_owns = 8964
+			owns_or_subject_owns = 1289
+		}
+		
+		
+		effect = {
+			custom_tooltip = "tier_2_formable_tooltip"
+			if = { limit = { is_tribal = yes} change_government = tribal_federation tribal_formable_government_change_effect = yes }
+			switch_government_type_event_clearup_effect = yes
+			if = {
+				limit = { country_culture_group = deutschamerikaner }
+				change_country_name = "UPPER_MISSOURI_NAME_GERMAN"
+			}
+			else = {
+				change_country_name = "UPPER_MISSOURI_NAME"
+			}
+			hidden_effect = {
+				change_country_adjective = "UPPER_MISSOURI_ADJ"
+				change_country_color = "upper_missouri_red"
+				change_country_tag = UPM
+				change_country_flag = UPPER_MISSOURI_FLAG
+				set_variable = has_formed_upper_missouri
+			}
+			capital_scope = {
+				capital_formable_medium_effect = yes
+				formable_capital_modifier_normal_effect = yes
+			}
+			custom_tooltip = upper_missouri_claims_tooltip
+			hidden_effect = {
+				region:dakotas_region = { formable_region_province_effect = yes }
+				region:big_sky_region = { formable_region_province_effect = yes }
+				area:buffalo_wy_area = { formable_area_province_effect = yes }
+				area:rolling_hills_area = { formable_area_province_effect = yes }
+				area:ogallala_area = { formable_area_province_effect = yes }
+				area:creighton_area = { formable_area_province_effect = yes }
+				area:omaha_area = { formable_area_province_effect = yes }
+				area:fort_dodge_area = { formable_area_province_effect = yes }
+				area:council_bluffs_area = { formable_area_province_effect = yes }
+			}
+			add_3_free_province_investments = yes
+		}
+		
+		ai_will_do = {
+			base = 1
+		}
+	}
+}

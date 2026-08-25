@@ -27,7 +27,7 @@
 885={ #Pascagoula
 	terrain="forest"
 	culture="gulfard"
-	religion="revelationist"
+	religion="springsearcher"
 	trade_goods="leather"
 	civilization_value=10
 	barbarian_power=0
@@ -40,7 +40,7 @@
 886={ #Biloxi
 	terrain="marsh"
 	culture="gulfard"
-	religion="revelationist"
+	religion="springsearcher"
 	trade_goods="earthware"
 	civilization_value=10
 	barbarian_power=0
@@ -690,7 +690,7 @@
 8364={ #Lucedale
 	terrain="forest"
 	culture="dixie"
-	religion="revelationist"
+	religion="springsearcher"
 	trade_goods="wood"
 	civilization_value=10
 	barbarian_power=0
@@ -807,7 +807,7 @@
 11626={ #Gulfport
 	terrain="marsh"
 	culture="gulfard"
-	religion="revelationist"
+	religion="springsearcher"
 	trade_goods="fish"
 	civilization_value=10
 	barbarian_power=0

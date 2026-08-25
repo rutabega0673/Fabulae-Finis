@@ -86,6 +86,14 @@
  california_empire_heritage:0 "Californian Empire Heritage"
  california_empire_heritage_desc:0 "Once again, the mighty bear stands strong. The formerly disparate lands of California have been brought together, under one ruler, and a new age can begin for California - one of learning, civilization, and prosperity."
 
+ form_upper_missouri:0 "Form Upper Missouri"
+ form_upper_missouri_desc:0 "The Upper section of the Missouri River, while not nearly as densely populated, still has a host of important cities and landmarks. Any one state who could control this wild expanse would be sure to profit greatly off of the trade routes in this region."
+ UPPER_MISSOURI_NAME:0 "Upper Missouri"
+ UPPER_MISSOURI_NAME_GERMAN:0 "Ober Missouri"
+ UPPER_MISSOURI_ADJ:0 "Missourian"
+ upper_missouri_does_not_exist:0 "#Y Upper Missouri#! does not exist."
+ upper_missouri_claims_tooltip:0 "#Y Upper Missouri#! will gain claims on the regions of #Y Dakotas#! and #Y Big Sky#!, and on the areas of #Y Buffalo#!, #Y Ogalla#!, #Y Creighton#!, #Y Omaha#!, #Y Fort Dodge#!, and #Y Council Bluffs#!."
+
  ## Formable Events ##
  ff_formable_event_1_t:0 "A New Capital?"
  ff_formable_event_1_desc:0 "Now that the lands of the Hudson has been brought under our control, there is talk amongst the nobles in our court of a new capital. In times of old, all of Hudsonia was ruled from the capital city of [GetProvince('(int32)6678').GetName].\n\nThere is certainly some benefits to relocating here, however our current capital could be spruced up."

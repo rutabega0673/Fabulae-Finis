@@ -66,7 +66,7 @@
 380={ #Upper Grand Lagoon
 	terrain="marsh"
 	culture="gulfard"
-	religion="revelationist"
+	religion="springsearcher"
 	trade_goods="rice"
 	civilization_value=10
 	barbarian_power=0
@@ -131,7 +131,7 @@
 1667={ #Navarre
 	terrain="marsh"
 	culture="gulfard"
-	religion="revelationist"
+	religion="springsearcher"
 	trade_goods="fish"
 	civilization_value=10
 	barbarian_power=0
@@ -144,7 +144,7 @@
 1668={ #Pensacola
 	terrain="marsh"
 	culture="gulfard"
-	religion="revelationist"
+	religion="springsearcher"
 	trade_goods="cotton"
 	civilization_value=10
 	barbarian_power=0
@@ -157,7 +157,7 @@
 1669={ #Crestview
 	terrain="plains"
 	culture="gulfard"
-	religion="revelationist"
+	religion="springsearcher"
 	trade_goods="cotton"
 	civilization_value=10
 	barbarian_power=0
@@ -456,7 +456,7 @@
 4955={ #Daphne
 	terrain="marsh"
 	culture="gulfard"
-	religion="revelationist"
+	religion="springsearcher"
 	trade_goods="rice"
 	civilization_value=10
 	barbarian_power=0
@@ -534,7 +534,7 @@
 6171={ #Defuniak Springs
 	terrain="farmland"
 	culture="gulfard"
-	religion="revelationist"
+	religion="springsearcher"
 	trade_goods="wood"
 	civilization_value=10
 	barbarian_power=0
