@@ -312,6 +312,14 @@ ROG = "setup/countries/west_coast/rogue.txt"
 RDD = "setup/countries/west_coast/redwood.txt"
 SHC = "setup/countries/west_coast/shasta_cascade.txt"
 EUR = "setup/countries/west_coast/eureka.txt"
+WNI = "setup/countries/west_coast/winelands.txt"
+FRB = "setup/countries/west_coast/fort_bragg.txt"
+RDG = "setup/countries/west_coast/redding.txt"
+MDR = "setup/countries/west_coast/mad_river.txt" 
+CLV = "setup/countries/west_coast/columbia_valley.txt" 
+HLF = "setup/countries/west_coast/halfway.txt"
+WSC = "setup/countries/west_coast/wasco.txt"
+DSH = "setup/countries/west_coast/deschutes.txt"
 
 
 #East Canada

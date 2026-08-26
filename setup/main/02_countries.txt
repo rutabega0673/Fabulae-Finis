@@ -691,7 +691,7 @@ country = {
 				4881 4883
 				2321 2323 2320 7103 2322 5930 5927 5929 5928 7104 7102 7101 4304 4303 4302 4301
 				8302 2336 2338 2339 2337 1772 1773 1771
-				1588 8301 1590 1356 1358 1359 1357 1589 1617 1619 6043 1618 6040 6041 6042 9172
+				1588 8301 1590 1356 1358 1359 1357 1589 1617 1619 6043 1618 6040
 			}
 		}
 
@@ -710,7 +710,7 @@ country = {
 
 			own_control_core = {
 				2848 2845 7150 7153 7151 2844 2846 2847 
-				7152 7802 7804 7806 7805 7803 9174 9175
+				7152 7802 7804 7806 7805 7803 9174
 			}
 		}
 
@@ -803,7 +803,7 @@ country = {
 
 			own_control_core = {
 				273 2128 271 272 6834 9280 2994 9279 9276 2999 2997
-				6836 6835 8831 8829 8300 8299
+				6836 6835 8300 8299
 				7623 7621 7620 7622 2998 2335 2996
 				8315 8312 8313 8090 8091 8094 8092 9278 9277 2995 9254 8093 9253
 			}
@@ -4060,13 +4060,13 @@ country = {
 			}
 		}
 		NVV = { #Nevada
-			government = tribal_kingdom
+			government = range_tribal_kingdom
 			primary_culture = paiute
 			religion = dreamer
 			capital = 1636
 
 			own_control_core = {
-				1636 3246 3247 6195 8857 8858 1628 1626
+				1636 3246 3247 6195 8857 8858 1628 1626 1627 3615
 			}
 		}
 		ELK = { #Elko
@@ -4513,7 +4513,7 @@ country = {
 			}
 
 			own_control_core = {
-				194 195 197 2964
+				194 195 2964
 			}
 		}
 		PHX = { # Phoenix
@@ -4580,7 +4580,7 @@ country = {
 			}
 		}
 		NEZ = { # Nez Perce
-			government = tribal_kingdom
+			government = range_tribal_kingdom
 			primary_culture = nez_perce
 			religion = loneranger
 			capital = 5598
@@ -4590,13 +4590,13 @@ country = {
 			}
 		}
 		BLU = { # Blue Mountains
-			government = tribal_kingdom
+			government = range_tribal_kingdom
 			primary_culture = umatilla
 			religion = loneranger
 			capital = 5425
 
 			own_control_core = {
-				5425 5424 5423 5426 9485 9487
+				5425 5424 5423 5426 9485 9487 
 			}
 		}
 		ETS = { #Estacado
@@ -5778,7 +5778,7 @@ country = {
 			}
 
 			own_control_core = {
-				315 391 392 316
+				315 391 392 316 6347
 			}
 		}
 		EUR = { # Eureka
@@ -5796,6 +5796,114 @@ country = {
 
 			own_control_core = {
 				4498 4500 4499 1630 1631 4501
+			}
+		}
+		WNI = { # Winelands
+			government = theocratic_monarchy
+			primary_culture = bayrean
+			religion = buddhism
+			capital = 8830
+
+			technology={
+				military_tech={ level=2 progress=0 }
+				civic_tech={ level=2 progress=0 }
+				religious_tech= { level=2 progress=0  }
+				oratory_tech= { level=2 progress =0 }
+			}
+
+			own_control_core = {
+				8830 5924 5923 5925 5926 8831 8829
+			}
+		}
+		FRB = { # Fort Bragg
+			government = tribal_kingdom
+			primary_culture = pomo
+			religion = buddhism
+			capital = 4287
+
+			technology={
+				military_tech={ level=1 progress=0 }
+				civic_tech={ level=1 progress=0 }
+				religious_tech= { level=1 progress=0  }
+				oratory_tech= { level=1 progress =0 }
+			}
+
+			own_control_core = {
+				4287 1629 4286 4288
+			}
+		}
+		RDG = { # Redding
+			government = theocratic_monarchy
+			primary_culture = jeffersonian
+			religion = colossalist
+			capital = 9172
+
+			technology={
+				military_tech={ level=2 progress=0 }
+				civic_tech={ level=2 progress=0 }
+				religious_tech= { level=2 progress=0  }
+				oratory_tech= { level=2 progress =0 }
+			}
+
+			own_control_core = {
+				9172 6345 9176 9173 9175 6042 6041
+			}
+		}
+		MDR = { # Mad River
+			government = tribal_kingdom
+			primary_culture = pomo
+			religion = buddhism
+			capital = 262
+
+			technology={
+				military_tech={ level=1 progress=0 }
+				civic_tech={ level=1 progress=0 }
+				religious_tech= { level=1 progress=0  }
+				oratory_tech= { level=1 progress =0 }
+			}
+
+			own_control_core = {
+				262 6346 263 6348
+			}
+		}
+		CLV = { # Columbia Valley
+			government = range_tribal_kingdom
+			primary_culture = meseteno
+			religion = loneranger
+			capital = 4951
+
+			own_control_core = {
+				4951 4950 7258 7256 7257 6784 8421 6785 8422 6786
+			}
+		}
+		HLF = { # Halfway
+			government = range_tribal_kingdom
+			primary_culture = inlander
+			religion = loneranger
+			capital = 1962
+
+			own_control_core = {
+				1962 1963 1964 1965 2552
+			}
+		}
+		WSC = { # Wasco
+			government = range_tribal_kingdom
+			primary_culture = meseteno
+			religion = loneranger
+			capital = 2967
+
+			own_control_core = {
+				2967 6079 429 2966 430
+			}
+		}
+		DSH = { # Deschutes
+			government = range_tribal_kingdom
+			primary_culture = inlander
+			religion = loneranger
+			capital = 8519
+
+			own_control_core = {
+				8519 8516 8517 8518 3424 2423 3423 5143 5141 5142
 			}
 		}
 	}
