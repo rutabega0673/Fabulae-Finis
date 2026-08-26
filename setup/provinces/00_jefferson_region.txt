@@ -235,7 +235,7 @@
 4285={ #Lakeview
 	terrain="desert_hills"
 	culture="inlander"
-	religion="loneranger"
+	religion="gaian"
 	trade_goods="vegetables"
 	civilization_value=10
 	barbarian_power=0
@@ -547,7 +547,7 @@
 8397={ #Altamont
 	terrain="desert_hills"
 	culture="klamath"
-	religion="dreamer"
+	religion="gaian"
 	trade_goods="vegetables"
 	civilization_value=10
 	barbarian_power=0
@@ -560,7 +560,7 @@
 8398={ #Yocum
 	terrain="desert_hills"
 	culture="achomawi"
-	religion="dreamer"
+	religion="gaian"
 	trade_goods="cedar"
 	civilization_value=10
 	barbarian_power=0
@@ -573,7 +573,7 @@
 8804={ #Chiloquin
 	terrain="desert_hills"
 	culture="klamath"
-	religion="loneranger"
+	religion="gaian"
 	trade_goods="salt"
 	civilization_value=10
 	barbarian_power=0
@@ -586,7 +586,7 @@
 8805={ #Chemult
 	terrain="desert_hills"
 	culture="klamath"
-	religion="loneranger"
+	religion="gaian"
 	trade_goods="leather"
 	civilization_value=10
 	barbarian_power=0

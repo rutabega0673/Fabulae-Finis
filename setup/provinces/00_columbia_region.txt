@@ -14,7 +14,7 @@
 195={ #Hermiston
 	terrain="dry_plains"
 	culture="meseteno"
-	religion="caesarist"
+	religion="la_hermandad"
 	trade_goods="wood"
 	civilization_value=10
 	barbarian_power=0
@@ -27,7 +27,7 @@
 196={ #Starkey
 	terrain="dry_hills"
 	culture="inlander"
-	religion="caesarist"
+	religion="loneranger"
 	trade_goods="vegetables"
 	civilization_value=10
 	barbarian_power=0
@@ -40,7 +40,7 @@
 197={ #Pilot Rock
 	terrain="dry_hills"
 	culture="inlander"
-	religion="caesarist"
+	religion="loneranger"
 	trade_goods="woad"
 	civilization_value=10
 	barbarian_power=0
@@ -235,7 +235,7 @@
 2104={ #Goldendale
 	terrain="dry_hills"
 	culture="yakama"
-	religion="la_hermandad"
+	religion="dreamer"
 	trade_goods="fish"
 	civilization_value=10
 	barbarian_power=0
@@ -248,7 +248,7 @@
 2105={ #Trout Lake
 	terrain="dry_hills"
 	culture="yakama"
-	religion="la_hermandad"
+	religion="dreamer"
 	trade_goods="leather"
 	civilization_value=10
 	barbarian_power=0
@@ -261,7 +261,7 @@
 2106={ #Klickitat
 	terrain="dry_plains"
 	culture="yakama"
-	religion="la_hermandad"
+	religion="dreamer"
 	trade_goods="wood"
 	civilization_value=10
 	barbarian_power=0
@@ -352,7 +352,7 @@
 2681={ #John Day
 	terrain="dry_hills"
 	culture="inlander"
-	religion="dreamer"
+	religion="loneranger"
 	trade_goods="stone"
 	civilization_value=10
 	barbarian_power=0
@@ -365,7 +365,7 @@
 2682={ #Long Creek
 	terrain="dry_hills"
 	culture="inlander"
-	religion="dreamer"
+	religion="loneranger"
 	trade_goods="incense"
 	civilization_value=10
 	barbarian_power=0
@@ -378,7 +378,7 @@
 2683={ #Prairie City
 	terrain="dry_hills"
 	culture="inlander"
-	religion="dreamer"
+	religion="loneranger"
 	trade_goods="steppe_horses"
 	civilization_value=10
 	barbarian_power=0
@@ -391,7 +391,7 @@
 2817={ #Chewelah
 	terrain="hills"
 	culture="inlander"
-	religion="gaian"
+	religion="loneranger"
 	trade_goods="fish"
 	civilization_value=10
 	barbarian_power=0
@@ -404,7 +404,7 @@
 2818={ #Newport
 	terrain="mountain"
 	culture="doukhobor"
-	religion="dreamer"
+	religion="loneranger"
 	trade_goods="gems"
 	civilization_value=10
 	barbarian_power=0
@@ -417,7 +417,7 @@
 2819={ #Post Falls
 	terrain="hills"
 	culture="inlander"
-	religion="gaian"
+	religion="loneranger"
 	trade_goods="steppe_horses"
 	civilization_value=10
 	barbarian_power=0
@@ -430,7 +430,7 @@
 2820={ #Colville
 	terrain="mountain"
 	culture="doukhobor"
-	religion="gaian"
+	religion="loneranger"
 	trade_goods="cedar"
 	civilization_value=10
 	barbarian_power=0
@@ -456,7 +456,7 @@
 2965={ #Fossil
 	terrain="dry_hills"
 	culture="inlander"
-	religion="dreamer"
+	religion="loneranger"
 	trade_goods="artifacts"
 	civilization_value=10
 	barbarian_power=0
@@ -469,7 +469,7 @@
 2966={ #Antelope
 	terrain="dry_hills"
 	culture="inlander"
-	religion="dreamer"
+	religion="loneranger"
 	trade_goods="hemp"
 	civilization_value=10
 	barbarian_power=0
@@ -664,7 +664,7 @@
 5424={ #Waitsburg
 	terrain="dry_hills"
 	culture="umatilla"
-	religion="caesarist"
+	religion="loneranger"
 	trade_goods="incense"
 	civilization_value=10
 	barbarian_power=0
@@ -677,7 +677,7 @@
 5425={ #Walla Walla
 	terrain="dry_hills"
 	culture="umatilla"
-	religion="caesarist"
+	religion="loneranger"
 	trade_goods="gems"
 	civilization_value=10
 	barbarian_power=0
@@ -729,7 +729,7 @@
 5834={ #Priest River
 	terrain="mountain"
 	culture="doukhobor"
-	religion="dreamer"
+	religion="loneranger"
 	trade_goods="fur"
 	civilization_value=10
 	barbarian_power=0
@@ -742,7 +742,7 @@
 5836={ #Coeur D Alene
 	terrain="hills"
 	culture="doukhobor"
-	religion="dreamer"
+	religion="loneranger"
 	trade_goods="stone"
 	civilization_value=10
 	barbarian_power=0
@@ -872,7 +872,7 @@
 8085={ #Inchelium
 	terrain="hills"
 	culture="inlander"
-	religion="gaian"
+	religion="loneranger"
 	trade_goods="hemp"
 	civilization_value=10
 	barbarian_power=0
@@ -924,7 +924,7 @@
 8516={ #Redmond
 	terrain="dry_hills"
 	culture="inlander"
-	religion="dreamer"
+	religion="loneranger"
 	trade_goods="woad"
 	civilization_value=10
 	barbarian_power=0
@@ -937,7 +937,7 @@
 8517={ #Spray
 	terrain="dry_hills"
 	culture="inlander"
-	religion="dreamer"
+	religion="loneranger"
 	trade_goods="vegetables"
 	civilization_value=10
 	barbarian_power=0
@@ -950,7 +950,7 @@
 8518={ #Seneca
 	terrain="desert_hills"
 	culture="inlander"
-	religion="dreamer"
+	religion="loneranger"
 	trade_goods="hemp"
 	civilization_value=10
 	barbarian_power=0
@@ -1041,7 +1041,7 @@
 9486={ #Elgin
 	terrain="dry_hills"
 	culture="umatilla"
-	religion="caesarist"
+	religion="loneranger"
 	trade_goods="leather"
 	civilization_value=10
 	barbarian_power=0

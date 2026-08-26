@@ -794,7 +794,7 @@
 8478={ #Williamsburg
 	terrain="mountain"
 	culture="montaneer"
-	religion="mormon"
+	religion="loneranger"
 	trade_goods="precious_metals"
 	civilization_value=10
 	barbarian_power=0

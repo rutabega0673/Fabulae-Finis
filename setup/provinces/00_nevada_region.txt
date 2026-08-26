@@ -1,7 +1,7 @@
 ﻿245={ #Ely
 	terrain="desert_hills"
 	culture="battleborn"
-	religion="dreamer"
+	religion="loneranger"
 	trade_goods="cacti"
 	civilization_value=10
 	barbarian_power=0
@@ -183,7 +183,7 @@
 1636={ #Owyhee
 	terrain="desert_hills"
 	culture="paiute"
-	religion="loneranger"
+	religion="dreamer"
 	trade_goods="hallucinogenics"
 	civilization_value=10
 	barbarian_power=0
@@ -209,7 +209,7 @@
 1952={ #Eureka
 	terrain="desert_hills"
 	culture="battleborn"
-	religion="dreamer"
+	religion="loneranger"
 	trade_goods="gems"
 	civilization_value=10
 	barbarian_power=0
@@ -222,7 +222,7 @@
 1953={ #Fallon
 	terrain="impassable_terrain"
 	culture="battleborn"
-	religion="dreamer"
+	religion="loneranger"
 	trade_goods="cattle"
 	civilization_value=10
 	barbarian_power=0
@@ -287,7 +287,7 @@
 3246={ #Tuscarora
 	terrain="desert_hills"
 	culture="paiute"
-	religion="loneranger"
+	religion="dreamer"
 	trade_goods="steppe_horses"
 	civilization_value=10
 	barbarian_power=0
@@ -300,7 +300,7 @@
 3247={ #Wilkins
 	terrain="desert_hills"
 	culture="paiute"
-	religion="mormon"
+	religion="dreamer"
 	trade_goods="vegetables"
 	civilization_value=10
 	barbarian_power=0
@@ -488,7 +488,7 @@
 5660={ #Crescent Valley
 	terrain="desert_hills"
 	culture="battleborn"
-	religion="dreamer"
+	religion="loneranger"
 	trade_goods="fur"
 	civilization_value=10
 	barbarian_power=0
@@ -631,7 +631,7 @@
 6195={ #Spring Creek
 	terrain="desert_hills"
 	culture="battleborn"
-	religion="mormon"
+	religion="loneranger"
 	trade_goods="cattle"
 	civilization_value=10
 	barbarian_power=0
@@ -644,7 +644,7 @@
 6196={ #West Wendover
 	terrain="desert_hills"
 	culture="battleborn"
-	religion="mormon"
+	religion="loneranger"
 	trade_goods="vegetables"
 	civilization_value=10
 	barbarian_power=0

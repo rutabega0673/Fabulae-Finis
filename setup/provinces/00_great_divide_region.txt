@@ -131,7 +131,7 @@
 1399={ #Jackson
 	terrain="mountain"
 	culture="montaneer"
-	religion="mormon"
+	religion="loneranger"
 	trade_goods="base_metals"
 	civilization_value=10
 	barbarian_power=0
@@ -144,7 +144,7 @@
 1400={ #Kelly
 	terrain="mountain"
 	culture="montaneer"
-	religion="loneranger"
+	religion="gaian"
 	trade_goods="limestone"
 	civilization_value=10
 	barbarian_power=0
@@ -469,7 +469,7 @@
 4757={ #Cooke City
 	terrain="mountain"
 	culture="montaneer"
-	religion="loneranger"
+	religion="gaian"
 	trade_goods="vegetables"
 	civilization_value=10
 	barbarian_power=0
@@ -482,7 +482,7 @@
 4758={ #West Yellowstone
 	terrain="mountain"
 	culture="montaneer"
-	religion="loneranger"
+	religion="gaian"
 	trade_goods="fur"
 	civilization_value=10
 	barbarian_power=0
@@ -495,7 +495,7 @@
 4759={ #Gardiner
 	terrain="mountain"
 	culture="montaneer"
-	religion="loneranger"
+	religion="gaian"
 	trade_goods="cattle"
 	civilization_value=10
 	barbarian_power=0
@@ -716,7 +716,7 @@
 6837={ #Island Park
 	terrain="forest"
 	culture="montaneer"
-	religion="loneranger"
+	religion="gaian"
 	trade_goods="steppe_horses"
 	civilization_value=10
 	barbarian_power=0
@@ -729,7 +729,7 @@
 6838={ #Victor
 	terrain="forest"
 	culture="montaneer"
-	religion="loneranger"
+	religion="gaian"
 	trade_goods="wood"
 	civilization_value=10
 	barbarian_power=0
@@ -742,7 +742,7 @@
 6839={ #Ashton
 	terrain="forest"
 	culture="montaneer"
-	religion="loneranger"
+	religion="gaian"
 	trade_goods="base_metals"
 	civilization_value=10
 	barbarian_power=0

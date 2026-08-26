@@ -27,7 +27,7 @@
 979={ #Deer Lodge
 	terrain="forest"
 	culture="montaneer"
-	religion="dreamer"
+	religion="loneranger"
 	trade_goods="wood"
 	civilization_value=10
 	barbarian_power=0
@@ -53,7 +53,7 @@
 981={ #Seeley Lake
 	terrain="forest"
 	culture="montaneer"
-	religion="dreamer"
+	religion="loneranger"
 	trade_goods="precious_metals"
 	civilization_value=10
 	barbarian_power=0
@@ -66,7 +66,7 @@
 1039={ #Libby
 	terrain="mountain"
 	culture="montaneer"
-	religion="dreamer"
+	religion="loneranger"
 	trade_goods="base_metals"
 	civilization_value=10
 	barbarian_power=0
@@ -79,7 +79,7 @@
 1040={ #Eureka
 	terrain="mountain"
 	culture="montaneer"
-	religion="dreamer"
+	religion="loneranger"
 	trade_goods="cedar"
 	civilization_value=10
 	barbarian_power=0
@@ -92,7 +92,7 @@
 1042={ #Bonners Ferry
 	terrain="mountain"
 	culture="doukhobor"
-	religion="dreamer"
+	religion="loneranger"
 	trade_goods="base_metals"
 	civilization_value=10
 	barbarian_power=0
@@ -105,7 +105,7 @@
 1626={ #Triangle
 	terrain="dry_plains"
 	culture="paiute"
-	religion="loneranger"
+	religion="dreamer"
 	trade_goods="gems"
 	civilization_value=10
 	barbarian_power=0
@@ -118,7 +118,7 @@
 1627={ #Homedale
 	terrain="dry_plains"
 	culture="paiute"
-	religion="loneranger"
+	religion="dreamer"
 	trade_goods="leather"
 	civilization_value=10
 	barbarian_power=0
@@ -131,7 +131,7 @@
 1628={ #Williams Cabin
 	terrain="dry_plains"
 	culture="paiute"
-	religion="loneranger"
+	religion="dreamer"
 	trade_goods="limestone"
 	civilization_value=10
 	barbarian_power=0
@@ -183,7 +183,7 @@
 2302={ #Big Sky
 	terrain="forest"
 	culture="montaneer"
-	religion="loneranger"
+	religion="gaian"
 	trade_goods="iron"
 	civilization_value=10
 	barbarian_power=0
@@ -391,7 +391,7 @@
 4862={ #Thompson Falls
 	terrain="forest"
 	culture="montaneer"
-	religion="dreamer"
+	religion="loneranger"
 	trade_goods="limestone"
 	civilization_value=10
 	barbarian_power=0
@@ -404,7 +404,7 @@
 4863={ #Pioneer Junction
 	terrain="mountain"
 	culture="montaneer"
-	religion="dreamer"
+	religion="loneranger"
 	trade_goods="wood"
 	civilization_value=10
 	barbarian_power=0
@@ -417,7 +417,7 @@
 4864={ #Sandpoint
 	terrain="mountain"
 	culture="doukhobor"
-	religion="dreamer"
+	religion="loneranger"
 	trade_goods="wood"
 	civilization_value=10
 	barbarian_power=0
@@ -469,7 +469,7 @@
 5398={ #Jerome
 	terrain="dry_plains"
 	culture="snakelander"
-	religion="mormon"
+	religion="loneranger"
 	trade_goods="vegetables"
 	civilization_value=10
 	barbarian_power=0
@@ -482,7 +482,7 @@
 5399={ #Twin Falls
 	terrain="dry_plains"
 	culture="snakelander"
-	religion="mormon"
+	religion="loneranger"
 	trade_goods="leather"
 	civilization_value=10
 	barbarian_power=0
@@ -495,7 +495,7 @@
 5400={ #Burley
 	terrain="dry_plains"
 	culture="utahn"
-	religion="mormon"
+	religion="loneranger"
 	trade_goods="honey"
 	civilization_value=10
 	barbarian_power=0
@@ -521,7 +521,7 @@
 5402={ #Rupert
 	terrain="dry_plains"
 	culture="snakelander"
-	religion="mormon"
+	religion="loneranger"
 	trade_goods="beans"
 	civilization_value=10
 	barbarian_power=0
@@ -586,7 +586,7 @@
 5835={ #Kellogg
 	terrain="hills"
 	culture="doukhobor"
-	religion="dreamer"
+	religion="loneranger"
 	trade_goods="iron"
 	civilization_value=10
 	barbarian_power=0
@@ -703,7 +703,7 @@
 8396={ #Missoula
 	terrain="forest"
 	culture="montaneer"
-	religion="dreamer"
+	religion="loneranger"
 	trade_goods="wood"
 	civilization_value=10
 	barbarian_power=0
@@ -716,7 +716,7 @@
 8441={ #Aberdeen
 	terrain="dry_plains"
 	culture="snakelander"
-	religion="mormon"
+	religion="loneranger"
 	trade_goods="steppe_horses"
 	civilization_value=10
 	barbarian_power=0
@@ -742,7 +742,7 @@
 8443={ #Wapi
 	terrain="dry_plains"
 	culture="snakelander"
-	religion="mormon"
+	religion="loneranger"
 	trade_goods="honey"
 	civilization_value=10
 	barbarian_power=0
@@ -755,7 +755,7 @@
 8857={ #Jackpot
 	terrain="desert_hills"
 	culture="paiute"
-	religion="mormon"
+	religion="dreamer"
 	trade_goods="cattle"
 	civilization_value=10
 	barbarian_power=0
@@ -768,7 +768,7 @@
 8858={ #Rosette
 	terrain="mountain"
 	culture="paiute"
-	religion="mormon"
+	religion="dreamer"
 	trade_goods="salt"
 	civilization_value=10
 	barbarian_power=0
@@ -794,7 +794,7 @@
 9007={ #Kalispell
 	terrain="mountain"
 	culture="montaneer"
-	religion="dreamer"
+	religion="loneranger"
 	trade_goods="gems"
 	civilization_value=10
 	barbarian_power=0
@@ -807,7 +807,7 @@
 9008={ #Hungry Horse
 	terrain="mountain"
 	culture="montaneer"
-	religion="dreamer"
+	religion="loneranger"
 	trade_goods="stone"
 	civilization_value=10
 	barbarian_power=0
@@ -820,7 +820,7 @@
 9009={ #Polson
 	terrain="hills"
 	culture="montaneer"
-	religion="dreamer"
+	religion="loneranger"
 	trade_goods="base_metals"
 	civilization_value=10
 	barbarian_power=0
@@ -833,7 +833,7 @@
 9010={ #Marion
 	terrain="mountain"
 	culture="montaneer"
-	religion="dreamer"
+	religion="loneranger"
 	trade_goods="fur"
 	civilization_value=10
 	barbarian_power=0
@@ -846,7 +846,7 @@
 9552={ #Idaho Falls
 	terrain="dry_plains"
 	culture="montaneer"
-	religion="mormon"
+	religion="loneranger"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -872,7 +872,7 @@
 9554={ #Blackfoot
 	terrain="dry_plains"
 	culture="montaneer"
-	religion="mormon"
+	religion="loneranger"
 	trade_goods="beans"
 	civilization_value=10
 	barbarian_power=0
@@ -885,7 +885,7 @@
 9555={ #Moreland
 	terrain="dry_plains"
 	culture="montaneer"
-	religion="mormon"
+	religion="loneranger"
 	trade_goods="steppe_horses"
 	civilization_value=10
 	barbarian_power=0
