@@ -205,6 +205,10 @@ types religions {
 			texture = "gfx/interface/icons/religions/guruist.dds"
 			visible = "[EqualTo_string(Religion.GetNameWithNoTooltip, Localize('guruist'))]"
 		}
+		religion_icon = {
+			texture = "gfx/interface/icons/religions/romano_humanism.dds"
+			visible = "[EqualTo_string(Religion.GetNameWithNoTooltip, Localize('romano_humanism'))]"
+		}
 	}
 }
 #catholic +

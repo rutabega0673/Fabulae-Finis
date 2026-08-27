@@ -885,6 +885,71 @@ socaleno_heritage = {
         primary_culture = socaleno
 	}
 }
+inlander_heritage = {
+   	modifier = {
+        #good
+        dry_hills_combat_bonus = 0.10
+        light_cavalry_offensive = 0.10
+      #bad
+        global_population_growth = -0.03
+   }
+
+   trigger = {
+        primary_culture = inlander
+	}
+}
+meseteno_heritage = {
+   	modifier = {
+        #good
+        light_cavalry_cost = -0.15
+        global_defensive = 0.05
+      #bad
+        fabricate_claim_speed = 0.25
+   }
+
+   trigger = {
+        primary_culture = meseteno
+	}
+}
+doukhobor_heritage = {
+   	modifier = {
+        #good
+        diplomatic_relations = 2
+        religious_tech_investment = 0.10  
+      #bad
+        war_score_cost = 10
+   }
+
+   trigger = {
+        primary_culture = doukhobor
+	}
+}
+jefffersonian_heritage = {
+   	modifier = {
+        #good
+        global_freemen_desired_pop_ratio = 0.10
+        spearmen_mountain_combat_bonus = 0.10  
+      #bad
+        loyalty_to_overlord = -10
+   }
+
+   trigger = {
+        primary_culture = jeffersonian
+	}
+}
+snakelander_heritage = {
+   	modifier = {
+        #good
+        archers_dry_plains_combat_bonus = 0.10
+        war_no_cb_cost_modifier = -0.35  
+      #bad
+        diplomatic_relations = -2
+   }
+
+   trigger = {
+        primary_culture = snakelander
+	}
+}
 #Culture Group
 midwestern_heritage = {
    	modifier = {
