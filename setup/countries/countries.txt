@@ -320,6 +320,13 @@ CLV = "setup/countries/west_coast/columbia_valley.txt"
 HLF = "setup/countries/west_coast/halfway.txt"
 WSC = "setup/countries/west_coast/wasco.txt"
 DSH = "setup/countries/west_coast/deschutes.txt"
+TWF = "setup/countries/west_coast/twin_falls.txt"
+IDH = "setup/countries/west_coast/idaho_falls.txt"
+SWT = "setup/countries/west_coast/sweetwater.txt"
+THF = "setup/countries/west_coast/three_forks.txt"
+LWS = "setup/countries/west_coast/lewiston.txt"
+WWS = "setup/countries/west_coast/western_slopes.txt"
+GNJ = "setup/countries/west_coast/grand_junction.txt"
 
 
 #East Canada

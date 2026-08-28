@@ -482,7 +482,7 @@
 6985={ #Livingston
 	terrain="mountain"
 	culture="montaneer"
-	religion="loneranger"
+	religion="gaian"
 	trade_goods="fur"
 	civilization_value=10
 	barbarian_power=0
@@ -677,7 +677,7 @@
 9338={ #Bozeman
 	terrain="forest"
 	culture="montaneer"
-	religion="loneranger"
+	religion="gaian"
 	trade_goods="fish"
 	civilization_value=10
 	barbarian_power=0
@@ -690,7 +690,7 @@
 9339={ #Three Forks
 	terrain="forest"
 	culture="montaneer"
-	religion="loneranger"
+	religion="gaian"
 	trade_goods="wood"
 	civilization_value=10
 	barbarian_power=0

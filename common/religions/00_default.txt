@@ -730,6 +730,17 @@ buddhism = { # Buddhism
 	sacrifice_icon = sacrifice_incense
 	sacrifice_sound = "event:/SFX/UI/Religion/sfx_ui_religion_generic_sacrifice"
 }
+shambhalaism = { # Shambhalaism
+	color = rgb { 252 3 198 }
+	modifier = { 
+		mountain_combat_bonus = 0.10
+		global_citizen_desired_pop_ratio = 0.10
+		monthly_tyranny = 0.03
+	}
+	religion_category = pantheon
+	sacrifice_icon = sacrifice_incense
+	sacrifice_sound = "event:/SFX/UI/Religion/sfx_ui_religion_generic_sacrifice"
+}
 
 ## Sikhism ##
 sikhism = { # Sikhism

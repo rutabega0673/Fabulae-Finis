@@ -222,7 +222,7 @@
 812={ #Las Cruces
 	terrain="desert"
 	culture="arixan"
-	religion="limpio"
+	religion="loneranger"
 	trade_goods="incense"
 	civilization_value=10
 	barbarian_power=0
@@ -248,7 +248,7 @@
 814={ #Santa Teresa
 	terrain="desert"
 	culture="arixan"
-	religion="limpio"
+	religion="loneranger"
 	trade_goods="clay"
 	civilization_value=10
 	barbarian_power=0
@@ -690,7 +690,7 @@
 7815={ #Trinidad
 	terrain="steppes"
 	culture="neomexicano"
-	religion="loneranger"
+	religion="shambhalaism"
 	trade_goods="steppe_horses"
 	civilization_value=10
 	barbarian_power=0

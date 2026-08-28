@@ -1314,7 +1314,7 @@
 9295={ #Cortez
 	terrain="desert_hills"
 	culture="navajo"
-	religion="buddhism"
+	religion="atomicist"
 	trade_goods="limestone"
 	civilization_value=10
 	barbarian_power=0

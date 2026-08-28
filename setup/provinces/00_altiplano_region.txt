@@ -937,7 +937,7 @@
 6856={ #Agua Prieta
 	terrain="desert"
 	culture="shiwawita"
-	religion="limpio"
+	religion="loneranger"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -1197,7 +1197,7 @@
 11968={ #
 	terrain="desert"
 	culture="shiwawita"
-	religion="limpio"
+	religion="loneranger"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0

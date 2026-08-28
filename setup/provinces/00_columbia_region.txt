@@ -391,7 +391,7 @@
 2817={ #Chewelah
 	terrain="hills"
 	culture="inlander"
-	religion="loneranger"
+	religion="gaian"
 	trade_goods="fish"
 	civilization_value=10
 	barbarian_power=0
@@ -404,7 +404,7 @@
 2818={ #Newport
 	terrain="mountain"
 	culture="doukhobor"
-	religion="loneranger"
+	religion="gaian"
 	trade_goods="gems"
 	civilization_value=10
 	barbarian_power=0
@@ -417,7 +417,7 @@
 2819={ #Post Falls
 	terrain="hills"
 	culture="inlander"
-	religion="loneranger"
+	religion="gaian"
 	trade_goods="steppe_horses"
 	civilization_value=10
 	barbarian_power=0
@@ -430,7 +430,7 @@
 2820={ #Colville
 	terrain="mountain"
 	culture="doukhobor"
-	religion="loneranger"
+	religion="gaian"
 	trade_goods="cedar"
 	civilization_value=10
 	barbarian_power=0
@@ -729,7 +729,7 @@
 5834={ #Priest River
 	terrain="mountain"
 	culture="doukhobor"
-	religion="loneranger"
+	religion="gaian"
 	trade_goods="fur"
 	civilization_value=10
 	barbarian_power=0
@@ -742,7 +742,7 @@
 5836={ #Coeur D Alene
 	terrain="hills"
 	culture="doukhobor"
-	religion="loneranger"
+	religion="gaian"
 	trade_goods="stone"
 	civilization_value=10
 	barbarian_power=0
@@ -872,7 +872,7 @@
 8085={ #Inchelium
 	terrain="hills"
 	culture="inlander"
-	religion="loneranger"
+	religion="gaian"
 	trade_goods="hemp"
 	civilization_value=10
 	barbarian_power=0

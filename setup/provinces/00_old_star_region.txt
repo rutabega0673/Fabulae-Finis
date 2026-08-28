@@ -794,7 +794,7 @@
 6284={ #Alief
 	terrain="plains"
 	culture="texan"
-	religion="colossalist"
+	religion="americanist"
 	trade_goods="leather"
 	civilization_value=10
 	barbarian_power=0
@@ -1223,7 +1223,7 @@
 9220={ #Winnie
 	terrain="plains"
 	culture="lway_viet"
-	religion="traiteurism"
+	religion="americanist"
 	trade_goods="earthware"
 	civilization_value=10
 	barbarian_power=0
@@ -1262,7 +1262,7 @@
 9234={ #Port Lavaca
 	terrain="marsh"
 	culture="texan"
-	religion="colossalist"
+	religion="americanist"
 	trade_goods="cotton"
 	civilization_value=10
 	barbarian_power=0
@@ -1275,7 +1275,7 @@
 9235={ #Victoria
 	terrain="farmland"
 	culture="texan"
-	religion="colossalist"
+	religion="americanist"
 	trade_goods="earthware"
 	civilization_value=10
 	barbarian_power=0

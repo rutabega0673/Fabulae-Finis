@@ -950,6 +950,32 @@ snakelander_heritage = {
         primary_culture = snakelander
 	}
 }
+coloradan_heritage = {
+   	modifier = {
+        #good
+        monthly_governor_wage = -0.10
+        archers_morale = 0.10
+      #bad
+        steppes_combat_bonus = -0.10
+   }
+
+   trigger = {
+        primary_culture = coloradan
+	}
+}
+montaneer_heritage = {
+   	modifier = {
+        #good
+        light_cavalry_mountain_combat_bonus = 0.10
+        agressive_expansion_impact = -0.05
+      #bad
+        improve_relation_cost_modifier = 0.25
+   }
+
+   trigger = {
+        primary_culture = montaneer
+	}
+}
 #Culture Group
 midwestern_heritage = {
    	modifier = {

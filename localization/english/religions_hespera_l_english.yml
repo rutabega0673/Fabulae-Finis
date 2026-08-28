@@ -276,6 +276,10 @@
  haredi:0 "Haredi"
  desc_haredi:0 "Haredim are the successors of the most traditional pre-Event communities, who banded together and accepted many other Jews into their ranks during the chaos after the Event. Although there is a great deal of diversity in Haredi religious practice, they are united in their anticipation of Moshiach, or the Jewish Messiah. Haredim believe that Moshiach's arrival will be accompanied by the return of the Jewish people to Eretz Yisrael and the ushering in of peace on earth. In the meantime, Haredim fastidiously study and adhere to Halakha, or Jewish religious law, believing that this will facilitate Moshiach's imminent arrival. Haredim are notable for their tendency to limit participation with the culture of outsiders, although they do not go out of their way to antagonize non-Jews or otherwise interfere with their lives."
 
+ ## Buddhism ##
+ shambhalaism:0 "Shambhalaism"
+ desc_shambhalaism:0 ""Brought down from the astral plane of Shambhala to the mountains of Tibet, then across oceans to the Americas, the ancient tradition of Shambhalaism has found purchase in the Rocky Mountains. Members of the sect await the imminent return of the Maitreya from Shambhala, who will triumph over the Asuras to usher in a new age of peace. The most important preparation is of the soul, primarily done through mediations which affirm the innate goodness of all human beings. In addition, the faithful attempt to create an enlightened and powerful society, one composed entirely of "spirit-warriors". Until the coming of the Maitreya, humans will be unable to reach their ultimate form as Dharmapalas, though those that are strong enough will ascend to Shambhala in order to join the armies of the Maitreya instead of reincarnating. However, while on Earth, followers are encouraged to not pursue violence, rather be ready to stand strong against it in whatever form it may take."
+
  ## New Pantheon Categories ##
  religion_category_founders:0 "Founder"
  religion_category_saints:0 "Saint"

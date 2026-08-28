@@ -92,7 +92,7 @@
 1042={ #Bonners Ferry
 	terrain="mountain"
 	culture="doukhobor"
-	religion="loneranger"
+	religion="gaian"
 	trade_goods="base_metals"
 	civilization_value=10
 	barbarian_power=0
@@ -144,7 +144,7 @@
 2299={ #Dillon
 	terrain="forest"
 	culture="montaneer"
-	religion="loneranger"
+	religion="gaian"
 	trade_goods="wood"
 	civilization_value=10
 	barbarian_power=0
@@ -417,7 +417,7 @@
 4864={ #Sandpoint
 	terrain="mountain"
 	culture="doukhobor"
-	religion="loneranger"
+	religion="gaian"
 	trade_goods="wood"
 	civilization_value=10
 	barbarian_power=0
@@ -586,7 +586,7 @@
 5835={ #Kellogg
 	terrain="hills"
 	culture="doukhobor"
-	religion="loneranger"
+	religion="gaian"
 	trade_goods="iron"
 	civilization_value=10
 	barbarian_power=0

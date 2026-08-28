@@ -144,7 +144,7 @@
 373={ #Nacozari Viejo
 	terrain="plains"
 	culture="sonoro"
-	religion="limpio"
+	religion="loneranger"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -157,7 +157,7 @@
 374={ #Hidalgo
 	terrain="plains"
 	culture="sonoro"
-	religion="limpio"
+	religion="loneranger"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -170,7 +170,7 @@
 375={ #Tepache
 	terrain="plains"
 	culture="sonoro"
-	religion="limpio"
+	religion="loneranger"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -183,7 +183,7 @@
 502={ #Estaci N Llano
 	terrain="plains"
 	culture="sonoro"
-	religion="limpio"
+	religion="loneranger"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -196,7 +196,7 @@
 503={ #Pitiquito
 	terrain="plains"
 	culture="sonoro"
-	religion="limpio"
+	religion="loneranger"
 	trade_goods="marijuana"
 	civilization_value=10
 	barbarian_power=0
@@ -209,7 +209,7 @@
 504={ #Benjam N Hill
 	terrain="plains"
 	culture="sonoro"
-	religion="limpio"
+	religion="loneranger"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -222,7 +222,7 @@
 1137={ #Josefa Ortiz De Dom Guez
 	terrain="hills"
 	culture="sonoro"
-	religion="limpio"
+	religion="loneranger"
 	trade_goods="cotton"
 	civilization_value=10
 	barbarian_power=0
@@ -235,7 +235,7 @@
 1138={ #La Casa Grande
 	terrain="hills"
 	culture="sonoro"
-	religion="limpio"
+	religion="loneranger"
 	trade_goods="fish"
 	civilization_value=10
 	barbarian_power=0
@@ -261,7 +261,7 @@
 1568={ #Hermosillo
 	terrain="plains"
 	culture="sonoro"
-	religion="limpio"
+	religion="loneranger"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -274,7 +274,7 @@
 1569={ #La Victoria
 	terrain="plains"
 	culture="sonoro"
-	religion="mayan_pantheon"
+	religion="loneranger"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -287,7 +287,7 @@
 1570={ #Miguel Alem N
 	terrain="plains"
 	culture="sonoro"
-	religion="limpio"
+	religion="loneranger"
 	trade_goods="hemp"
 	civilization_value=10
 	barbarian_power=0
@@ -521,7 +521,7 @@
 6066={ #Magdalena De Kino
 	terrain="plains"
 	culture="sonoro"
-	religion="limpio"
+	religion="loneranger"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -547,7 +547,7 @@
 6068={ #Imuris
 	terrain="plains"
 	culture="sonoro"
-	religion="limpio"
+	religion="loneranger"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -560,7 +560,7 @@
 6752={ #Arizpe
 	terrain="plains"
 	culture="sonoro"
-	religion="limpio"
+	religion="loneranger"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -573,7 +573,7 @@
 6753={ #San Patricio De La Mesa
 	terrain="plains"
 	culture="sonoro"
-	religion="limpio"
+	religion="loneranger"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -586,7 +586,7 @@
 6754={ #Cumpas
 	terrain="plains"
 	culture="sonoro"
-	religion="limpio"
+	religion="loneranger"
 	trade_goods="hallucinogenics"
 	civilization_value=10
 	barbarian_power=0
@@ -599,7 +599,7 @@
 6755={ #Cananea
 	terrain="plains"
 	culture="sonoro"
-	religion="limpio"
+	religion="loneranger"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -651,7 +651,7 @@
 6854={ #Esqueda
 	terrain="desert"
 	culture="sonoro"
-	religion="limpio"
+	religion="loneranger"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -664,7 +664,7 @@
 6855={ #Naco
 	terrain="desert"
 	culture="sonoro"
-	religion="limpio"
+	religion="loneranger"
 	trade_goods="marijuana"
 	civilization_value=10
 	barbarian_power=0
@@ -677,7 +677,7 @@
 7015={ #Heroica Guaymas
 	terrain="plains"
 	culture="sonoro"
-	religion="mayan_pantheon"
+	religion="loneranger"
 	trade_goods="hemp"
 	civilization_value=10
 	barbarian_power=0
@@ -690,7 +690,7 @@
 7016={ #Vicam
 	terrain="plains"
 	culture="sonoro"
-	religion="mayan_pantheon"
+	religion="loneranger"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -703,7 +703,7 @@
 7017={ #Jos Mar A Morelos Y Pav N
 	terrain="plains"
 	culture="sonoro"
-	religion="mayan_pantheon"
+	religion="loneranger"
 	trade_goods="cacti"
 	civilization_value=10
 	barbarian_power=0
@@ -807,7 +807,7 @@
 7975={ #San Pedro De La Cueva
 	terrain="plains"
 	culture="sonoro"
-	religion="limpio"
+	religion="loneranger"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -820,7 +820,7 @@
 7976={ #Suaqui Grande
 	terrain="plains"
 	culture="sonoro"
-	religion="mayan_pantheon"
+	religion="loneranger"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -833,7 +833,7 @@
 7977={ #Ures
 	terrain="plains"
 	culture="sonoro"
-	religion="limpio"
+	religion="loneranger"
 	trade_goods="marijuana"
 	civilization_value=10
 	barbarian_power=0
@@ -846,7 +846,7 @@
 7978={ #Mazat N
 	terrain="plains"
 	culture="sonoro"
-	religion="mayan_pantheon"
+	religion="loneranger"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -872,7 +872,7 @@
 8403={ #N Cori Chico
 	terrain="plains"
 	culture="sonoro"
-	religion="limpio"
+	religion="loneranger"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -885,7 +885,7 @@
 8404={ #Y Cora
 	terrain="plains"
 	culture="sonoro"
-	religion="limpio"
+	religion="loneranger"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -898,7 +898,7 @@
 8513={ #Bavi Cora
 	terrain="plains"
 	culture="sonoro"
-	religion="limpio"
+	religion="loneranger"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -911,7 +911,7 @@
 8514={ #Carbo
 	terrain="plains"
 	culture="sonoro"
-	religion="limpio"
+	religion="loneranger"
 	trade_goods="cacti"
 	civilization_value=10
 	barbarian_power=0
@@ -924,7 +924,7 @@
 8515={ #Pesqueira
 	terrain="plains"
 	culture="sonoro"
-	religion="limpio"
+	religion="loneranger"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -1093,7 +1093,7 @@
 11967={ #
 	terrain="plains"
 	culture="sonoro"
-	religion="limpio"
+	religion="loneranger"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
@@ -1158,7 +1158,7 @@
 11975={ #
 	terrain="plains"
 	culture="sonoro"
-	religion="limpio"
+	religion="loneranger"
 	trade_goods=""
 	civilization_value=10
 	barbarian_power=0

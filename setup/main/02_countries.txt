@@ -3902,7 +3902,7 @@ country = {
 		DEN = { # Denver
 			government = oligarchic_republic
 			primary_culture = coloradan
-			religion = buddhism
+			religion = shambhalaism
 			capital = 9108
 
 			technology={
@@ -3940,10 +3940,10 @@ country = {
 			capital = 4549
 
 			technology={
-				military_tech={ level=2 progress=0 }
-				civic_tech={ level=2 progress=0 }
-				religious_tech= { level=2 progress=0  }
-				oratory_tech= { level=2 progress =0 }
+				military_tech={ level=1 progress=0 }
+				civic_tech={ level=1 progress=0 }
+				religious_tech= { level=1 progress=0  }
+				oratory_tech= { level=1 progress =0 }
 			}
 
 			own_control_core = {
@@ -4931,7 +4931,7 @@ country = {
 		YEW = { #Yellowstone
 			government = tribal_chiefdom
 			primary_culture = montaneer
-			religion = loneranger
+			religion = gaian
 			capital = 4758
 		
 			own_control_core = {
@@ -5904,6 +5904,90 @@ country = {
 
 			own_control_core = {
 				8519 8516 8517 8518 3424 2423 3423 5143 5141 5142
+			}
+		}
+		TWF = { # Twin Falls
+			government = despotic_monarchy
+			primary_culture = snakelander
+			religion = loneranger
+			capital = 5399
+
+			technology={
+				military_tech={ level=1 progress=0 }
+				civic_tech={ level=1 progress=0 }
+				religious_tech= { level=1 progress=0  }
+				oratory_tech= { level=1 progress =0 }
+			}
+
+			own_control_core = {
+				5399 5398 5400 5402 8859
+			}
+		}
+		IDH = { # Idaho Falls
+			government = tribal_chiefdom
+			primary_culture = montaneer
+			religion = loneranger
+			capital = 9552
+
+			own_control_core = {
+				9552 9553 9554 9555 792
+			}
+		}
+		SWT = { # Sweetwater
+			government = tribal_chiefdom
+			primary_culture = utahn
+			religion = mormon
+			capital = 4813
+
+			own_control_core = {
+				4813 4812 4811
+			}
+		}
+		THF = { # Three Forks
+			government = tribal_chiefdom
+			primary_culture = montaneer
+			religion = gaian
+			capital = 9338
+
+			own_control_core = {
+				9338 9339 9341 6985 9340 9337 6985 4576
+			}
+		}
+		LWS = { # Lewiston
+			government = tribal_chiefdom
+			primary_culture = badlander
+			religion = loneranger
+			capital = 660
+
+			own_control_core = {
+				660 663 662 661 8963 8965 1291 3596
+			}
+		}
+		WWS = { # Western Slopes
+			government = tribal_chiefdom
+			primary_culture = coloradan
+			religion = shambhalaism
+			capital = 8160
+
+			own_control_core = {
+				8160 8241 8242 7694 7697 7696 8158
+			}
+		}
+		GNJ = { # Grand Junction
+			government = league_republic
+			primary_culture = coloradan
+			religion = atomicist
+			capital = 4362
+
+			technology={
+				military_tech={ level=1 progress=0 }
+				civic_tech={ level=1 progress=0 }
+				religious_tech= { level=1 progress=0  }
+				oratory_tech= { level=1 progress =0 }
+			}
+
+			own_control_core = {
+				4362 2155 132 131 2156 4363 8158 4363 4364 2157
 			}
 		}
 	}
