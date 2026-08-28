@@ -134,7 +134,7 @@ types religions {
 			visible = "[EqualTo_string(Religion.GetNameWithNoTooltip, Localize('arsenalist'))]"
 		}
 		religion_icon = {
-			texture = "gfx/interface/icons/religions/twainist.dds"
+			texture = "gfx/interface/icons/religions/twainist_new.dds"
 			visible = "[EqualTo_string(Religion.GetNameWithNoTooltip, Localize('twainist'))]"
 		}
 		religion_icon = {
@@ -212,6 +212,10 @@ types religions {
 		religion_icon = {
 			texture = "gfx/interface/icons/religions/theosophy.dds"
 			visible = "[EqualTo_string(Religion.GetNameWithNoTooltip, Localize('theosophy'))]"
+		}
+		religion_icon = {
+			texture = "gfx/interface/icons/religions/caesarist.dds"
+			visible = "[EqualTo_string(Religion.GetNameWithNoTooltip, Localize('caesarist'))]"
 		}
 	}
 }
