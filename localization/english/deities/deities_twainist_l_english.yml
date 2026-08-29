@@ -71,8 +71,13 @@
  omen_sun_king_louis_desc:0 "#Y Cahokian Sun King#!\nLe Roi Soleil, Louis built upon the charred ruins of Cahokia, establishing an equally as great city - Saint-Louis. He is most remembered for his patronage of the arts and sciences, setting an important precedent for future Sun Kings."
  deity_great_river:0 "$omen_great_river$"
  omen_great_river:0 "Great River"
- omen_great_river_desc:0 "#Y Cahokian Deity#!\nFlowing from the icy north of America to her warm south, the Great River is the life giver, the bestower of knowledge and prosperity. Her children, while lesser in importance, have also spread through North America."
- 
+ omen_great_river_desc:0 "#Y Cahokian Goddess#!\nFlowing from the icy north of America to her warm south, the Great River is the life giver, the bestower of knowledge and prosperity. Her children, while lesser in importance, have also spread through North America."
+ deity_great_sun:0 "$omen_great_sun$"
+ omen_great_sun:0 "Great Sun"
+ omen_great_sun_desc:0 "#Y Cahokian God#!\nHe-Who-Watches, Apollo, Ra, Helios, Inti, and many more are all names for Great Sun, the penultimate deity and creator of the universe. Those who achieve his favor will be crowned as divine Sun Kings, wordly manifestations of Great Sun."
+ deity_sun_king_faulkner:0 "$omen_sun_king_faulkner$"
+ omen_sun_king_faulkner:0 "Sun King Faulkner"
+ omen_sun_king_faulkner_desc:0 "#Y Cahokian Sun King#!\nMostly associated with death and funerary rites, Sun King Faulkner was known for carrying a coffin containing his mother, to her burial mound in Yoknapatawpha, chronicled in the tale 'As-I-Lay-Dying'. Under his rule, Magnolia flourished, becoming one of the mighty kingdoms of pre-Event times."
  
 
 

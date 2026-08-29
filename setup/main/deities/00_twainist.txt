@@ -93,5 +93,13 @@ deity_manager = {
 			key = omen_great_river
 			deity = deity_great_river
 		}
+		723 = {
+			key = omen_great_sun
+			deity = deity_great_sun
+		}
+		724 = {
+			key = omen_sun_king_faulkner
+			deity = deity_sun_king_faulkner
+		}
 	}
 }

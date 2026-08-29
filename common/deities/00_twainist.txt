@@ -568,12 +568,12 @@ deity_great_river = {
 			common_deity_trigger = {
 				RELIGION = missisippian
 			}
-			deity:omen_mississippi = {
+			deity:omen_great_river = {
 				holy_site_deity_check_trigger = yes
 			}
 		}
 	}
-	icon = deity_wealth
+	icon = deity_tribal_love
 	passive_modifier = { global_population_capacity_modifier = deity_global_population_capacity_modifier_svalue }
 	omen = { global_monthly_food_modifier = omen_global_monthly_food_modifier } #Bonus from Omen
 	religion = missisippian
@@ -584,5 +584,56 @@ deity_great_river = {
 
 	on_activate = {
 		fertility_apotheosis_food_effect = yes
+	}
+}
+deity_great_sun = {
+	trigger = {
+		
+		OR = {
+			common_deity_trigger = {
+				RELIGION = missisippian
+			}
+			deity:omen_great_sun = {
+				holy_site_deity_check_trigger = yes
+			}
+		}
+	}
+	icon = deity_tribal_eloquence
+	passive_modifier = { global_population_happiness = omen_global_population_happiness }
+	omen = { global_population_growth = omen_global_population_growth }
+	religion = missisippian
+	deity_category = culture
+	deification_trigger = {
+		can_deify_trigger = yes
+	}
+
+	on_activate = {
+		military_apotheosis_capital_freemen_effect = yes
+	}
+}
+deity_sun_king_faulkner = { #William Faulkner / As I Lay Dying
+	trigger = {
+		
+		OR = {
+			rare_deity_trigger = {
+				RELIGION = missisippian
+			}
+			deity:omen_sun_king_faulkner = {
+				holy_site_deity_check_trigger = yes
+			}
+		}
+	}
+	icon = deity_tribal_wealth
+	passive_modifier = { civic_tech_investment = deity_civic_tech_investment_svalue }
+	omen = { global_tax_modifier = omen_global_tax_modifier_svalue } #Bonus from Omen
+	religion = missisippian
+	deity_category = economy
+	deification_trigger = {
+		can_deify_trigger = yes
+	}
+
+	on_activate = {
+		economy_apotheosis_province_improvement_effect = yes
+		#deadly_apotheosis_effect = yes
 	}
 }
