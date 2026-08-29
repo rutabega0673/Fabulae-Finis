@@ -370,3 +370,9 @@ altiplano_region = { #10
 		el_bismarck_area campo_ocho_area tomochic_area camargo_area de_allende_area guanacev_area santa_teresa_area lerdo_area hercules_area la_madrid_area
 	}
 }
+caribbean_region = { #10
+	color = rgb { 125 69 27 }
+	areas = {
+		kingston_area christiana_area bahamas_area turks_and_caicos_area puerto_rico_area lesser_antilles_1_area santo_domingo_area port_de_paix_area les_cayes_area pedernales_area vega_area nuevo_laredo_area rio_bravo_mexico_area cancun_area palacios_area modelo_area tampico_area candela_area de_allende_area
+	}
+}
