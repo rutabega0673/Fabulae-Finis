@@ -228,8 +228,8 @@
  ## Midwestern ##
  twainist:0 "Twainist"
  desc_twainist:0 "The Twainists view the Mississippi and her tributaries as the soul and lifeblood of America, and to a greater extent the world. Twain, Muir, Whitman and other Authors were guided with knowledge that allowed them to ascertain the nature of the Great River, granting them divine insight. Twainist belief divides the world into three ages - the Age of Cahokia, dominated by the philospher-king Cahokia and his great mounds, the Age of Uncle Sam, in which Old America was borne in, and fell due to her warmongering and imperialism, and the current Age of Columbia - who is the daughter of Uncle Sam, taking the place of her now dead uncle. Twainists dedicate their life to discovering the Great Truth that all Authors seemed to understand. It is commonly understood that the only way to do this is to further one's relationship with the Great River - Mississippi, and the coexistence between Man and Nature."
- missisippian:0 "Mississippian"
- desc_missisippian:0 "An ancient cult, once worshipped by the Natchez people, the Mississippians venerate the Great Sun King Louis, and his brother, Serpent Huey. Mississippians worship not only these gods, but Mother Mississippi - the Great River. Their stratified society is dominated by Kings of the Sun, or those who claim divine descent. Another central tenet is the burning of a perpetual flame, which is only extinguished once a year."
+ missisippian:0 "Cahokian"
+ desc_missisippian:0 "An ancient cult once worshipped by the Natchez people, the Mississippians venerate the Great Sun King Cahokia, and his brother, Serpent Huey. Mississippians worship not only these gods, but the Great River, which is seen a direct manifestation of the Sun Kings. Their stratified society is dominated by Kings of the Sun, or those who claim divine descent. Another central tenet is the burning of a perpetual flame, which is only extinguished once a year. While the Twainists hold that the Great Truth can be ascertained by anyone seeking inspiration from the Mississippi, Cahokians posit that is the divine kings who are inherently born with this power, and it is their duty to not only maintain the Great River, but to spread and patronize the arts and sciences amongst their people."
 
  ## Capitalist ##
  capitalist:0 "Decadentist"
@@ -291,3 +291,4 @@
  religion_category_authors:0 "Author"
  religion_category_spirits:0 "Spirit"
  religion_category_virtues:0 "Virtue"
+ religion_category_sun_kings:0 "Sun King"

@@ -438,6 +438,9 @@ deity_ulysses = {
 			rare_deity_trigger = {
 				RELIGION = twainist
 			}
+			rare_deity_trigger = {
+				RELIGION = missisippian
+			}
 			deity:omen_ulysses = {
 				holy_site_deity_check_trigger = yes
 			}
@@ -506,4 +509,80 @@ deity_chopin = { #Kate Chopin, French St. Louisian author, early feminist author
 	on_activate = {
         culture_apotheosis_capital_effect = yes
     }
+}
+# Cahokian
+deity_cahokia = { # Great Sun King Cahokia - pre-columbian city on the site of modern day St. Louis
+	trigger = {
+		
+		OR = {
+			common_deity_trigger = {
+				RELIGION = missisippian
+			}
+			deity:omen_cahokia = {
+				holy_site_deity_check_trigger = yes
+			}
+		}
+	}
+	icon = deity_tribal_eloquence
+	passive_modifier = { build_cost = deity_build_cost_svalue }
+	omen = { happiness_for_same_religion_modifier = omen_happiness_for_same_religion_modifier_svalue } #Bonus from Omen
+	religion = missisippian
+	deity_category = culture
+	deification_trigger = {
+		can_deify_trigger = yes
+	}
+
+	on_activate = {
+        culture_apotheosis_capital_effect = yes
+    }
+}
+deity_sun_king_louis = { # Louis XIV
+	trigger = {
+		
+		OR = {
+			common_deity_trigger = {
+				RELIGION = missisippian
+			}
+			deity:omen_sun_king_louis = {
+				holy_site_deity_check_trigger = yes
+			}
+		}
+	}
+	icon = deity_tribal_eloquence
+	passive_modifier = { ruler_popularity_gain = deity_ruler_popularity_gain_svalue }
+	omen = { global_nobles_happyness = omen_global_nobles_happiness_svalue }
+	religion = missisippian
+	deity_category = culture
+	deification_trigger = {
+		can_deify_trigger = yes
+	}
+
+	on_activate = {
+        economy_income_effect = yes
+    }
+}
+deity_great_river = {
+	trigger = {
+		
+		OR = {
+			common_deity_trigger = {
+				RELIGION = missisippian
+			}
+			deity:omen_mississippi = {
+				holy_site_deity_check_trigger = yes
+			}
+		}
+	}
+	icon = deity_wealth
+	passive_modifier = { global_population_capacity_modifier = deity_global_population_capacity_modifier_svalue }
+	omen = { global_monthly_food_modifier = omen_global_monthly_food_modifier } #Bonus from Omen
+	religion = missisippian
+	deity_category = fertility
+	deification_trigger = {
+		can_deify_trigger = yes
+	}
+
+	on_activate = {
+		fertility_apotheosis_food_effect = yes
+	}
 }

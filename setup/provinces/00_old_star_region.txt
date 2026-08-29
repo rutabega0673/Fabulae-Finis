@@ -156,7 +156,7 @@
 
 1372={ #Paris
 	terrain="plains"
-	culture="atlantean"
+	culture="arkalatexan"
 	religion="loneranger"
 	trade_goods="cattle"
 	civilization_value=10

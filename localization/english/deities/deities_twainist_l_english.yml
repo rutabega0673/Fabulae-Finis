@@ -51,18 +51,27 @@
  deity_spirit_of_st_louis:0 "$omen_spirit_of_st_louis$"
  omen_spirit_of_st_louis:0 "Spirit of St. Louis"
  omen_spirit_of_st_louis_desc:0 "#Y Twainist Spirit#!\nIn an age now long gone, a great pilot flew a flying machine from St. Louis, to across the sea, an accomplishment no man had done before. From then on, the Spirit of St. Louis inhabited the city, taking the form of the red cardinal,blessing and protecting all of her children."
-
  deity_ulysses:0 "$omen_ulysses$"
  omen_ulysses:0 "Ulysses"
  omen_ulysses_desc:0 "#Y Twainist God#!\nUlysses, the wisest of all men and a great warrior in his own right, fought in a terrible war, one that raged on for ten years. Unable to return home, he became trapped at a cabin named Hardscrabble, where he forgot the ongoing troubles in his house. In these seven years that Ulysses was trapped at Hardscrabble, various suitors had run amuck, trying to seek the hand of his wife Columbia, and thus gain the throne of America. Eventually Ulysses snapped out of his imposed solitude, and embarked on a great campaign, driving the suitors out and reuniting with his wife."
-
+ deity_ulysses:0 "$omen_ulysses$"
+ omen_ulysses_missisippian:0 "Sun King Ulysses"
+ omen_ulysses_desc_missisippian:0 "#Y Cahokian Sun King#!\nSun King Ulysses united his divided house, restoring order and earning the favor of the Great River. He is a slayer of giants, outwitter of winds, and the patron of all wanderers."
  deity_garland:0 "$omen_garland$"
  omen_garland:0 "Author Garland"
  omen_garland_desc:0 "#Y Twainist Author#!\nA native son of the Driftless, Author Garland was the first to write about this wondrous land of valleys and her people."
-
  deity_chopin:0 "$omen_chopin$"
  omen_chopin:0 "Author Chopin"
  omen_chopin_desc:0 "#Y Twainist Author#!\nAuthor Chopin defined the difficult role of the mother, describing the challenges faced by them, and the sanctity of motherhood."
+ deity_cahokia:0 "$omen_cahokia$"
+ omen_cahokia:0 "Great Sun King Cahokia"
+ omen_cahokia_desc:0 "#Y Cahokian Sun King#!\nThe greatest of all men, Great Sun King Cahokia was the founder of the resplendent city of Cahokia, which flourished in pre-Event times, said to have been home to millions of people. The destruction wrought after the Age of Cahokia brought and end to this city. Although it was later built upon by Sun King Louis, it's great Mound can still bee seen."
+ deity_sun_king_louis:0 "$omen_sun_king_louis$"
+ omen_sun_king_louis:0 "Sun King Louis"
+ omen_sun_king_louis_desc:0 "#Y Cahokian Sun King#!\nLe Roi Soleil, Louis built upon the charred ruins of Cahokia, establishing an equally as great city - Saint-Louis. He is most remembered for his patronage of the arts and sciences, setting an important precedent for future Sun Kings."
+ deity_great_river:0 "$omen_great_river$"
+ omen_great_river:0 "Great River"
+ omen_great_river_desc:0 "#Y Cahokian Deity#!\nFlowing from the icy north of America to her warm south, the Great River is the life giver, the bestower of knowledge and prosperity. Her children, while lesser in importance, have also spread through North America."
  
  
 

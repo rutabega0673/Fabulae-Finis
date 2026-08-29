@@ -828,15 +828,15 @@ twainist = { # Twainist
 	sacrifice_icon = sacrifice_incense
 	sacrifice_sound = "event:/SFX/UI/Religion/sfx_ui_religion_generic_sacrifice"
 }
-missisippian = { # Missisippian / Natchez
+missisippian = { # Cahokian
 	color = rgb { 159 114 0 }
 	modifier = { 
 		global_nobles_happyness = 0.08
-		global_monthly_food_modifier = 0.05
+		build_cost = -0.05
 		global_monthly_state_loyalty = -0.03
 		
 	}
-	religion_category = pantheon
+	religion_category = sun_kings
 	sacrifice_icon = sacrifice_incense
 	sacrifice_sound = "event:/SFX/UI/Religion/sfx_ui_religion_generic_sacrifice"
 }

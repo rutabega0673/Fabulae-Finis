@@ -91,7 +91,7 @@
 
 1830={ #Stuttgart
 	terrain="forest"
-	culture="deltaic"
+	culture="arkalatexan"
 	religion="missisippian"
 	trade_goods="rice"
 	civilization_value=10
@@ -260,7 +260,7 @@
 
 2793={ #El Dorado
 	terrain="forest"
-	culture="arkansawyer"
+	culture="arkalatexan"
 	religion="missisippian"
 	trade_goods="wild_game"
 	civilization_value=10
@@ -273,7 +273,7 @@
 
 2794={ #Arkadelphia
 	terrain="forest"
-	culture="arkansawyer"
+	culture="arkalatexan"
 	religion="revelationist"
 	trade_goods="cloth"
 	civilization_value=10
@@ -299,7 +299,7 @@
 
 3014={ #Monticello
 	terrain="forest"
-	culture="deltaic"
+	culture="arkalatexan"
 	religion="missisippian"
 	trade_goods="wood"
 	civilization_value=10
@@ -312,7 +312,7 @@
 
 3015={ #Hampton
 	terrain="forest"
-	culture="arkansawyer"
+	culture="arkalatexan"
 	religion="missisippian"
 	trade_goods="cloth"
 	civilization_value=10
@@ -325,7 +325,7 @@
 
 3016={ #Fordyce
 	terrain="forest"
-	culture="arkansawyer"
+	culture="arkalatexan"
 	religion="missisippian"
 	trade_goods="cotton"
 	civilization_value=10
@@ -338,7 +338,7 @@
 
 3017={ #Pine Bluff
 	terrain="forest"
-	culture="deltaic"
+	culture="arkalatexan"
 	religion="missisippian"
 	trade_goods="cloth"
 	civilization_value=10
@@ -442,7 +442,7 @@
 
 5187={ #Mena
 	terrain="hills"
-	culture="arkansawyer"
+	culture="arkalatexan"
 	religion="revelationist"
 	trade_goods="stone"
 	civilization_value=10
@@ -533,7 +533,7 @@
 
 5487={ #England
 	terrain="forest"
-	culture="deltaic"
+	culture="arkalatexan"
 	religion="missisippian"
 	trade_goods="horses"
 	civilization_value=10
@@ -559,7 +559,7 @@
 
 5489={ #North Little Rock
 	terrain="forest"
-	culture="arkansawyer"
+	culture="arkalatexan"
 	religion="revelationist"
 	trade_goods="stone"
 	civilization_value=10
@@ -910,7 +910,7 @@
 
 8291={ #Hot Springs
 	terrain="forest"
-	culture="arkansawyer"
+	culture="arkalatexan"
 	religion="revelationist"
 	trade_goods="wild_game"
 	civilization_value=10
@@ -923,7 +923,7 @@
 
 8292={ #Hot Springs Village
 	terrain="hills"
-	culture="arkansawyer"
+	culture="arkalatexan"
 	religion="revelationist"
 	trade_goods="stone"
 	civilization_value=10
@@ -936,7 +936,7 @@
 
 8293={ #Rockwell
 	terrain="hills"
-	culture="arkansawyer"
+	culture="arkalatexan"
 	religion="revelationist"
 	trade_goods="wood"
 	civilization_value=10
@@ -949,7 +949,7 @@
 
 8294={ #Little Rock
 	terrain="forest"
-	culture="arkansawyer"
+	culture="arkalatexan"
 	religion="revelationist"
 	trade_goods="base_metals"
 	civilization_value=10

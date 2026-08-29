@@ -92,4 +92,11 @@ From;To;Type;Through;x;y;x;y;
 11947;5029;sea;9825;-1;-1;-1;-1;Galveston-League City
 1101;998;river_large;10429;-1;-1;-1;-1;Moriah-Middlebury
 7874;8593;sea;9862;-1;-1;-1;-1;Niagra Falls-Niagra Falls
+5830;8487;river_large;9686;-1;-1;-1;-1;Dumas-Cleveland
+5830;1829;river_large;10471;-1;-1;-1;-1;Dumas-Dewitt
+1829;676;river_large;10491;-1;-1;-1;-1;Dewitt-Helena
+8219;6035;river_large;10409;-1;-1;-1;-1;Rock Island-Moline
+7828;2475;river_large;10368;-1;-1;-1;-1;Fort Smith-Van Buren
+381;6999;river_large;10532;-1;-1;-1;-1;Panama City-Quincy
+5555;2615;river_large;10299;-1;-1;-1;-1;Nelson-Lake Havasu City
 ;-1;-1;-1;-1;

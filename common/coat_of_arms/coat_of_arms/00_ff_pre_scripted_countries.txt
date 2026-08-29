@@ -1454,3 +1454,83 @@ OUA = { # Ouachita
 		instance = { position = { 0.5 0.5 } scale = { 0.8 0.8 } }
 	}
 }
+
+MDL = { # Delta
+	pattern = "pattern_solid.tga"
+	color1 = "offwhite"
+	color2 = "offwhite"
+	colored_emblem = {
+		texture = "ce_sun_01.dds"
+		color1 = "epirus_yellow"
+		instance = { position = { 0.5 1.05 } }
+		instance = { position = { 0.5 -0.1 } }
+	}
+	colored_emblem = {
+		texture = "ce_star_05.dds"
+		color1 = "ck2_blue"
+		instance = { position = { 0.5 0.5 } scale = { 0.3 0.3 }  }
+		instance = { position = { 0.5 0.75 } scale = { 0.3 0.3 }  }
+		instance = { position = { 0.5 0.25 } scale = { 0.3 0.3 }  }
+	}
+}
+
+VKS ={
+	pattern="pattern_solid.tga"
+	color1=offwhite
+	color2=offwhite
+
+	colored_emblem={
+		color1=epirus_yellow
+		texture="ce_circle_03.dds"
+		instance={
+			scale={ 1.1 1.1 }
+			#depth=3.010000
+		}
+
+	}
+
+	colored_emblem={
+		color1=ck2_red
+		texture="ce_border_dotted_02.dds"
+		instance={
+			scale={ 0.99 0.99 }
+			#depth=3.010000
+		}
+	}
+
+	colored_emblem={
+		color1=offwhite
+		color2=ck2_black
+		texture="ce_fortress_random.dds"
+		instance={
+			scale={ 0.8 0.8 }
+			#depth=3.010000
+		}
+
+	}
+
+}
+
+NAZ = {
+	pattern = "pattern_horizontal_split_01.tga"
+	color1 = "ck2_green"
+	color2 = "ck2_green"
+
+	colored_emblem = {
+		texture = "ce_bend_thin.dds"
+		color1 = "offwhite"
+		instance = { position = { 0.5 0.5 } scale = { 1.0 1.0 }  }
+	}
+	colored_emblem = {
+		texture = "ce_rabbit.dds"
+		color1 = "offwhite"
+		color2 = "offwhite"
+		instance = { position = { 0.725 0.3 } scale = { -0.3 0.3 }  }
+	}
+	colored_emblem = {
+		texture = "ce_arrow.dds"
+		color1 = "offwhite"
+		color2 = "offwhite"
+		instance = { position = { 0.3 0.7 } scale = { 0.75 0.75 } rotation = 220 }
+	}
+}

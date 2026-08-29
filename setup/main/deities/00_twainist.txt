@@ -80,5 +80,18 @@ deity_manager = {
 			key = omen_chopin
 			deity = deity_chopin
 		}
+		#Cahokian
+		720 = {
+			key = omen_cahokia
+			deity = deity_cahokia
+		}
+		721 = {
+			key = omen_sun_king_louis
+			deity = deity_sun_king_louis
+		}
+		722 = {
+			key = omen_great_river
+			deity = deity_great_river
+		}
 	}
 }
