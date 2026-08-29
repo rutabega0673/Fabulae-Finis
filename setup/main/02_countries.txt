@@ -462,7 +462,7 @@ country = {
 		PAW = { #Bonne Terre
 			government = tribal_federation
 			primary_culture = paw_paw
-			religion = catholic
+			religion = missisippian
 			capital = 6336
 			centralization = 50
 
@@ -480,7 +480,7 @@ country = {
 		IRN = { #Ironton
 			government = tribal_federation
 			primary_culture = bootheeler
-			religion = catholic
+			religion = missisippian
 			capital = 2958
 			centralization = 30
 
@@ -498,7 +498,7 @@ country = {
 		HRM = { #Hermann
 			government = tribal_federation
 			primary_culture = hermanndeutsch
-			religion = lutheran
+			religion = missisippian
 			capital = 5600
 			centralization = 50
 
@@ -6023,7 +6023,7 @@ country = {
 			}
 		}
 		MDL = { #Middle Delta
-			government = despotic_monarchy
+			government = cahokian_monarchy
 			primary_culture = deltaic
 			religion = missisippian
 			capital = 8487

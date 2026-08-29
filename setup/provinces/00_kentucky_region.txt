@@ -3,11 +3,14 @@
 	culture="riverlander"
 	religion="revelationist"
 	trade_goods="limestone"
-	civilization_value=10
+	civilization_value=25
 	barbarian_power=0
 	province_rank="settlement"
-	tribesmen={
-		amount=1
+	freemen={
+		amount=3
+	}
+	slaves={
+		amount=3
 	}
 }
 
@@ -16,11 +19,14 @@
 	culture="riverlander"
 	religion="revelationist"
 	trade_goods="tobacco"
-	civilization_value=10
+	civilization_value=25
 	barbarian_power=0
 	province_rank="settlement"
-	tribesmen={
-		amount=1
+	freemen={
+		amount=3
+	}
+	slaves={
+		amount=3
 	}
 }
 
@@ -29,11 +35,14 @@
 	culture="riverlander"
 	religion="revelationist"
 	trade_goods="cattle"
-	civilization_value=10
+	civilization_value=25
 	barbarian_power=0
 	province_rank="settlement"
-	tribesmen={
-		amount=1
+	freemen={
+		amount=3
+	}
+	slaves={
+		amount=3
 	}
 }
 
@@ -42,11 +51,14 @@
 	culture="riverlander"
 	religion="revelationist"
 	trade_goods="horses"
-	civilization_value=10
+	civilization_value=25
 	barbarian_power=0
 	province_rank="settlement"
-	tribesmen={
-		amount=1
+	freemen={
+		amount=3
+	}
+	slaves={
+		amount=3
 	}
 }
 
@@ -55,11 +67,14 @@
 	culture="riverlander"
 	religion="revelationist"
 	trade_goods="horses"
-	civilization_value=10
+	civilization_value=25
 	barbarian_power=0
 	province_rank="settlement"
-	tribesmen={
-		amount=1
+	freemen={
+		amount=3
+	}
+	slaves={
+		amount=3
 	}
 }
 
@@ -68,11 +83,14 @@
 	culture="riverlander"
 	religion="revelationist"
 	trade_goods="wood"
-	civilization_value=10
+	civilization_value=25
 	barbarian_power=0
 	province_rank="settlement"
-	tribesmen={
-		amount=1
+	freemen={
+		amount=3
+	}
+	slaves={
+		amount=3
 	}
 }
 
@@ -81,11 +99,14 @@
 	culture="riverlander"
 	religion="revelationist"
 	trade_goods="tobacco"
-	civilization_value=10
+	civilization_value=25
 	barbarian_power=0
 	province_rank="settlement"
-	tribesmen={
-		amount=1
+	freemen={
+		amount=3
+	}
+	slaves={
+		amount=3
 	}
 }
 
@@ -94,11 +115,14 @@
 	culture="riverlander"
 	religion="revelationist"
 	trade_goods="maple"
-	civilization_value=10
+	civilization_value=25
 	barbarian_power=0
 	province_rank="settlement"
-	tribesmen={
-		amount=1
+	freemen={
+		amount=3
+	}
+	slaves={
+		amount=3
 	}
 }
 
@@ -107,11 +131,14 @@
 	culture="riverlander"
 	religion="revelationist"
 	trade_goods="stone"
-	civilization_value=10
+	civilization_value=25
 	barbarian_power=0
 	province_rank="settlement"
-	tribesmen={
-		amount=1
+	freemen={
+		amount=3
+	}
+	slaves={
+		amount=3
 	}
 }
 
@@ -120,11 +147,14 @@
 	culture="riverlander"
 	religion="revelationist"
 	trade_goods="grain"
-	civilization_value=10
+	civilization_value=25
 	barbarian_power=0
 	province_rank="settlement"
-	tribesmen={
-		amount=1
+	freemen={
+		amount=3
+	}
+	slaves={
+		amount=3
 	}
 }
 
@@ -133,11 +163,14 @@
 	culture="riverlander"
 	religion="revelationist"
 	trade_goods="horses"
-	civilization_value=10
+	civilization_value=25
 	barbarian_power=0
 	province_rank="settlement"
-	tribesmen={
-		amount=1
+	freemen={
+		amount=3
+	}
+	slaves={
+		amount=3
 	}
 }
 
@@ -146,11 +179,14 @@
 	culture="riverlander"
 	religion="revelationist"
 	trade_goods="iron"
-	civilization_value=10
+	civilization_value=25
 	barbarian_power=0
 	province_rank="settlement"
-	tribesmen={
-		amount=1
+	freemen={
+		amount=3
+	}
+	slaves={
+		amount=3
 	}
 }
 
@@ -159,11 +195,14 @@
 	culture="riverlander"
 	religion="revelationist"
 	trade_goods="maple"
-	civilization_value=10
+	civilization_value=25
 	barbarian_power=0
 	province_rank="settlement"
-	tribesmen={
-		amount=1
+	freemen={
+		amount=3
+	}
+	slaves={
+		amount=3
 	}
 }
 
@@ -172,11 +211,14 @@
 	culture="riverlander"
 	religion="revelationist"
 	trade_goods="stone"
-	civilization_value=10
+	civilization_value=25
 	barbarian_power=0
 	province_rank="settlement"
-	tribesmen={
-		amount=1
+	freemen={
+		amount=3
+	}
+	slaves={
+		amount=3
 	}
 }
 
@@ -185,11 +227,14 @@
 	culture="riverlander"
 	religion="revelationist"
 	trade_goods="limestone"
-	civilization_value=10
+	civilization_value=25
 	barbarian_power=0
 	province_rank="settlement"
-	tribesmen={
-		amount=1
+	freemen={
+		amount=3
+	}
+	slaves={
+		amount=3
 	}
 }
 
@@ -198,11 +243,14 @@
 	culture="riverlander"
 	religion="revelationist"
 	trade_goods="clay"
-	civilization_value=10
+	civilization_value=25
 	barbarian_power=0
 	province_rank="settlement"
-	tribesmen={
-		amount=1
+	freemen={
+		amount=3
+	}
+	slaves={
+		amount=3
 	}
 }
 
@@ -211,11 +259,14 @@
 	culture="riverlander"
 	religion="revelationist"
 	trade_goods="tubers"
-	civilization_value=10
+	civilization_value=25
 	barbarian_power=0
 	province_rank="settlement"
-	tribesmen={
-		amount=1
+	freemen={
+		amount=3
+	}
+	slaves={
+		amount=3
 	}
 }
 
@@ -224,11 +275,14 @@
 	culture="riverlander"
 	religion="revelationist"
 	trade_goods="tobacco"
-	civilization_value=10
+	civilization_value=25
 	barbarian_power=0
 	province_rank="settlement"
-	tribesmen={
-		amount=1
+	freemen={
+		amount=3
+	}
+	slaves={
+		amount=3
 	}
 }
 
@@ -237,11 +291,14 @@
 	culture="riverlander"
 	religion="revelationist"
 	trade_goods="glass"
-	civilization_value=10
+	civilization_value=25
 	barbarian_power=0
 	province_rank="settlement"
-	tribesmen={
-		amount=1
+	freemen={
+		amount=3
+	}
+	slaves={
+		amount=3
 	}
 }
 
@@ -250,11 +307,14 @@
 	culture="riverlander"
 	religion="revelationist"
 	trade_goods="maple"
-	civilization_value=10
+	civilization_value=25
 	barbarian_power=0
 	province_rank="settlement"
-	tribesmen={
-		amount=1
+	freemen={
+		amount=3
+	}
+	slaves={
+		amount=3
 	}
 }
 
@@ -263,11 +323,14 @@
 	culture="riverlander"
 	religion="revelationist"
 	trade_goods="wood"
-	civilization_value=10
+	civilization_value=25
 	barbarian_power=0
 	province_rank="settlement"
-	tribesmen={
-		amount=1
+	freemen={
+		amount=3
+	}
+	slaves={
+		amount=3
 	}
 }
 
@@ -276,11 +339,14 @@
 	culture="riverlander"
 	religion="revelationist"
 	trade_goods="clay"
-	civilization_value=10
+	civilization_value=25
 	barbarian_power=0
 	province_rank="settlement"
-	tribesmen={
-		amount=1
+	freemen={
+		amount=3
+	}
+	slaves={
+		amount=3
 	}
 }
 
@@ -289,11 +355,14 @@
 	culture="riverlander"
 	religion="revelationist"
 	trade_goods="limestone"
-	civilization_value=10
+	civilization_value=25
 	barbarian_power=0
 	province_rank="settlement"
-	tribesmen={
-		amount=1
+	freemen={
+		amount=3
+	}
+	slaves={
+		amount=3
 	}
 }
 
@@ -302,11 +371,14 @@
 	culture="riverlander"
 	religion="revelationist"
 	trade_goods="bodark"
-	civilization_value=10
+	civilization_value=25
 	barbarian_power=0
 	province_rank="settlement"
-	tribesmen={
-		amount=1
+	freemen={
+		amount=3
+	}
+	slaves={
+		amount=3
 	}
 }
 
@@ -315,11 +387,14 @@
 	culture="riverlander"
 	religion="revelationist"
 	trade_goods="maple"
-	civilization_value=10
+	civilization_value=25
 	barbarian_power=0
 	province_rank="settlement"
-	tribesmen={
-		amount=1
+	freemen={
+		amount=3
+	}
+	slaves={
+		amount=3
 	}
 }
 
@@ -328,11 +403,14 @@
 	culture="riverlander"
 	religion="americanist"
 	trade_goods="tubers"
-	civilization_value=10
+	civilization_value=25
 	barbarian_power=0
 	province_rank="settlement"
-	tribesmen={
-		amount=1
+	freemen={
+		amount=3
+	}
+	slaves={
+		amount=3
 	}
 }
 
@@ -341,11 +419,14 @@
 	culture="riverlander"
 	religion="revelationist"
 	trade_goods="cattle"
-	civilization_value=10
+	civilization_value=25
 	barbarian_power=0
 	province_rank="settlement"
-	tribesmen={
-		amount=1
+	freemen={
+		amount=3
+	}
+	slaves={
+		amount=3
 	}
 }
 
@@ -354,11 +435,14 @@
 	culture="riverlander"
 	religion="revelationist"
 	trade_goods="horses"
-	civilization_value=10
+	civilization_value=25
 	barbarian_power=0
 	province_rank="settlement"
-	tribesmen={
-		amount=1
+	freemen={
+		amount=3
+	}
+	slaves={
+		amount=3
 	}
 }
 
@@ -367,11 +451,14 @@
 	culture="riverlander"
 	religion="revelationist"
 	trade_goods="limestone"
-	civilization_value=10
+	civilization_value=25
 	barbarian_power=0
 	province_rank="settlement"
-	tribesmen={
-		amount=1
+	freemen={
+		amount=3
+	}
+	slaves={
+		amount=3
 	}
 }
 
@@ -380,11 +467,14 @@
 	culture="riverlander"
 	religion="americanist"
 	trade_goods="tobacco"
-	civilization_value=10
+	civilization_value=25
 	barbarian_power=0
 	province_rank="settlement"
-	tribesmen={
-		amount=1
+	freemen={
+		amount=3
+	}
+	slaves={
+		amount=3
 	}
 }
 
@@ -393,11 +483,14 @@
 	culture="riverlander"
 	religion="revelationist"
 	trade_goods="tobacco"
-	civilization_value=10
+	civilization_value=25
 	barbarian_power=0
 	province_rank="settlement"
-	tribesmen={
-		amount=1
+	freemen={
+		amount=3
+	}
+	slaves={
+		amount=3
 	}
 }
 
@@ -406,11 +499,14 @@
 	culture="riverlander"
 	religion="revelationist"
 	trade_goods="grain"
-	civilization_value=10
+	civilization_value=25
 	barbarian_power=0
 	province_rank="settlement"
-	tribesmen={
-		amount=1
+	freemen={
+		amount=3
+	}
+	slaves={
+		amount=3
 	}
 }
 
@@ -419,11 +515,14 @@
 	culture="riverlander"
 	religion="revelationist"
 	trade_goods="honey"
-	civilization_value=10
+	civilization_value=25
 	barbarian_power=0
 	province_rank="settlement"
-	tribesmen={
-		amount=1
+	freemen={
+		amount=3
+	}
+	slaves={
+		amount=3
 	}
 }
 
@@ -432,11 +531,25 @@
 	culture="riverlander"
 	religion="americanist"
 	trade_goods="maple"
-	civilization_value=10
+	civilization_value=33
 	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=1
+	province_rank="city"
+	nobles={
+		amount=5
+	}
+	citizen={
+		amount=10
+	}
+	freemen={
+		amount=10
+	}
+	slaves={
+		culture="butternutter"
+		religion="hearthtender"
+		amount=4
+	}
+	slaves={
+		amount=3
 	}
 }
 
@@ -445,11 +558,14 @@
 	culture="riverlander"
 	religion="americanist"
 	trade_goods="vegetables"
-	civilization_value=10
+	civilization_value=25
 	barbarian_power=0
 	province_rank="settlement"
-	tribesmen={
-		amount=1
+	freemen={
+		amount=3
+	}
+	slaves={
+		amount=3
 	}
 }
 
@@ -458,11 +574,14 @@
 	culture="riverlander"
 	religion="americanist"
 	trade_goods="horses"
-	civilization_value=10
+	civilization_value=25
 	barbarian_power=0
 	province_rank="settlement"
-	tribesmen={
-		amount=1
+	freemen={
+		amount=3
+	}
+	slaves={
+		amount=3
 	}
 }
 
@@ -471,11 +590,14 @@
 	culture="riverlander"
 	religion="revelationist"
 	trade_goods="cloth"
-	civilization_value=10
+	civilization_value=25
 	barbarian_power=0
 	province_rank="settlement"
-	tribesmen={
-		amount=1
+	freemen={
+		amount=3
+	}
+	slaves={
+		amount=3
 	}
 }
 
@@ -484,11 +606,14 @@
 	culture="riverlander"
 	religion="americanist"
 	trade_goods="tobacco"
-	civilization_value=10
+	civilization_value=25
 	barbarian_power=0
 	province_rank="settlement"
-	tribesmen={
-		amount=1
+	freemen={
+		amount=3
+	}
+	slaves={
+		amount=3
 	}
 }
 
@@ -497,11 +622,14 @@
 	culture="riverlander"
 	religion="revelationist"
 	trade_goods="honey"
-	civilization_value=10
+	civilization_value=25
 	barbarian_power=0
 	province_rank="settlement"
-	tribesmen={
-		amount=1
+	freemen={
+		amount=3
+	}
+	slaves={
+		amount=3
 	}
 }
 
@@ -510,11 +638,14 @@
 	culture="riverlander"
 	religion="revelationist"
 	trade_goods="tobacco"
-	civilization_value=10
+	civilization_value=25
 	barbarian_power=0
 	province_rank="settlement"
-	tribesmen={
-		amount=1
+	freemen={
+		amount=3
+	}
+	slaves={
+		amount=3
 	}
 }
 
@@ -523,11 +654,14 @@
 	culture="riverlander"
 	religion="revelationist"
 	trade_goods="stone"
-	civilization_value=10
+	civilization_value=25
 	barbarian_power=0
 	province_rank="settlement"
-	tribesmen={
-		amount=1
+	freemen={
+		amount=3
+	}
+	slaves={
+		amount=3
 	}
 }
 
@@ -536,11 +670,14 @@
 	culture="riverlander"
 	religion="revelationist"
 	trade_goods="base_metals"
-	civilization_value=10
+	civilization_value=25
 	barbarian_power=0
 	province_rank="settlement"
-	tribesmen={
-		amount=1
+	freemen={
+		amount=3
+	}
+	slaves={
+		amount=3
 	}
 }
 
@@ -549,11 +686,14 @@
 	culture="riverlander"
 	religion="revelationist"
 	trade_goods="bodark"
-	civilization_value=10
+	civilization_value=25
 	barbarian_power=0
 	province_rank="settlement"
-	tribesmen={
-		amount=1
+	freemen={
+		amount=3
+	}
+	slaves={
+		amount=3
 	}
 }
 
@@ -562,11 +702,14 @@
 	culture="riverlander"
 	religion="revelationist"
 	trade_goods="horses"
-	civilization_value=10
+	civilization_value=25
 	barbarian_power=0
 	province_rank="settlement"
-	tribesmen={
-		amount=1
+	freemen={
+		amount=3
+	}
+	slaves={
+		amount=3
 	}
 }
 
@@ -575,11 +718,14 @@
 	culture="riverlander"
 	religion="revelationist"
 	trade_goods="tobacco"
-	civilization_value=10
+	civilization_value=25
 	barbarian_power=0
 	province_rank="settlement"
-	tribesmen={
-		amount=1
+	freemen={
+		amount=3
+	}
+	slaves={
+		amount=3
 	}
 }
 
@@ -588,11 +734,14 @@
 	culture="riverlander"
 	religion="revelationist"
 	trade_goods="leather"
-	civilization_value=10
+	civilization_value=25
 	barbarian_power=0
 	province_rank="settlement"
-	tribesmen={
-		amount=1
+	freemen={
+		amount=3
+	}
+	slaves={
+		amount=3
 	}
 }
 
@@ -601,11 +750,14 @@
 	culture="riverlander"
 	religion="revelationist"
 	trade_goods="fish"
-	civilization_value=10
+	civilization_value=25
 	barbarian_power=0
 	province_rank="settlement"
-	tribesmen={
-		amount=1
+	freemen={
+		amount=3
+	}
+	slaves={
+		amount=3
 	}
 }
 
@@ -614,11 +766,14 @@
 	culture="riverlander"
 	religion="americanist"
 	trade_goods="tobacco"
-	civilization_value=10
+	civilization_value=25
 	barbarian_power=0
 	province_rank="settlement"
-	tribesmen={
-		amount=1
+	freemen={
+		amount=3
+	}
+	slaves={
+		amount=3
 	}
 }
 
@@ -627,11 +782,14 @@
 	culture="riverlander"
 	religion="americanist"
 	trade_goods="vegetables"
-	civilization_value=10
+	civilization_value=25
 	barbarian_power=0
 	province_rank="settlement"
-	tribesmen={
-		amount=1
+	freemen={
+		amount=3
+	}
+	slaves={
+		amount=3
 	}
 }
 
@@ -640,11 +798,14 @@
 	culture="riverlander"
 	religion="americanist"
 	trade_goods="cattle"
-	civilization_value=10
+	civilization_value=25
 	barbarian_power=0
 	province_rank="settlement"
-	tribesmen={
-		amount=1
+	freemen={
+		amount=3
+	}
+	slaves={
+		amount=3
 	}
 }
 

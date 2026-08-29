@@ -133,7 +133,7 @@
 2958={ #Ironton
 	terrain="hills"
 	culture="bootheeler"
-	religion="catholic"
+	religion="missisippian"
 	trade_goods="iron"
 	civilization_value=10
 	barbarian_power=0
@@ -640,7 +640,7 @@
 5600={ #Hermann
 	terrain="hills"
 	culture="hermanndeutsch"
-	religion="catholic"
+	religion="missisippian"
 	trade_goods="wine"
 	civilization_value=22
 	barbarian_power=0
@@ -739,7 +739,7 @@
 6336={ #Bonne Terre
 	terrain="hills"
 	culture="paw_paw"
-	religion="catholic"
+	religion="missisippian"
 	trade_goods="base_metals"
 	civilization_value=15
 	barbarian_power=0
@@ -763,7 +763,7 @@
 6337={ #Rolla
 	terrain="hills"
 	culture="ozark"
-	religion="catholic"
+	religion="missisippian"
 	trade_goods="base_metals"
 	civilization_value=18
 	barbarian_power=0
@@ -787,7 +787,7 @@
 6338={ #Warshington
 	terrain="hills"
 	culture="hermanndeutsch"
-	religion="catholic"
+	religion="missisippian"
 	trade_goods="grain"
 	civilization_value=20
 	barbarian_power=0
@@ -999,7 +999,7 @@
 7611={ #Winona
 	terrain="hills"
 	culture="ozark"
-	religion="catholic"
+	religion="missisippian"
 	trade_goods="buffalo"
 	civilization_value=10
 	barbarian_power=0
@@ -1012,7 +1012,7 @@
 7612={ #Van Buren
 	terrain="forest"
 	culture="ozark"
-	religion="revelationist"
+	religion="missisippian"
 	trade_goods="wild_game"
 	civilization_value=10
 	barbarian_power=0
@@ -1025,7 +1025,7 @@
 7613={ #Ellington
 	terrain="hills"
 	culture="ozark"
-	religion="catholic"
+	religion="missisippian"
 	trade_goods="wood"
 	civilization_value=10
 	barbarian_power=0
@@ -1244,7 +1244,7 @@
 9508={ #Pocahontas
 	terrain="forest"
 	culture="ozark"
-	religion="revelationist"
+	religion="missisippian"
 	trade_goods="stone"
 	civilization_value=10
 	barbarian_power=0
@@ -1257,7 +1257,7 @@
 9509={ #Piedmont
 	terrain="hills"
 	culture="bootheeler"
-	religion="catholic"
+	religion="missisippian"
 	trade_goods="bodark"
 	civilization_value=10
 	barbarian_power=0
@@ -1270,7 +1270,7 @@
 9510={ #Poplar Bluff
 	terrain="forest"
 	culture="bootheeler"
-	religion="revelationist"
+	religion="missisippian"
 	trade_goods="wood"
 	civilization_value=10
 	barbarian_power=0

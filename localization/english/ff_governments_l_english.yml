@@ -103,6 +103,17 @@
  cascadian_diarchy_co_ruler_female:0 "Dryad"
  RULER_TERM_DESCRIPTION_MONARCHY_CORULER:0 "The August Reign of [GovernmentView.GetPlayer.GetRuler.GetPraenomen] and [GovernmentView.GetPlayer.GetCoRuler.GetPraenomen]"
 
+ cahokian_monarchy:0 "Solar Kingdom"
+ cahokian_monarchy_desc:0 "Ruled by a divine Sun King, a Solar Kingdom is seen as the penultimate form of governance among the Cahokians. Emulating their namesake, Great Sun King Cahokia, Solar Kingdoms are notable for the construction of great mounds, and unwavering zealotry for their gods."
+ cahokian_monarchy_ruler:0 "Great Sun King"
+ cahokian_monarchy_ruler_female:0 "Great Sun Queen"
+ cahokian_monarchy_consort:0 "Great Sun King"
+ cahokian_monarchy_consort_female:0 "Great Sun Queen"
+ cahokian_monarchy_ruler_louisianais:0 "Grande Rwa Sóley"
+ cahokian_monarchy_ruler_female_louisianais:0 "Grande Larenne Sóley"
+ cahokian_monarchy_consort_louisianais:0 "Grande Larenne Sóley"
+ cahokian_monarchy_consort_female_louisianais:0 "Grande Larenne Sóley"
+
  ## Religion Specific Office Names ##
  #Clairvoyant Monarchy Ruler Titles
  theocratic_monarchy_ruler_clairvoyant:0 "High Medium"
@@ -165,6 +176,30 @@
  aristocratic_republic_twainist:0 "Bosun"
  oligarchic_republic_ruler_twainist:0 "Bosun"
  theocratic_republic_ruler_twainist:0 "Bosun"
+
+ despotic_monarchy_ruler_missisippian:0 "Sun King"
+ aristocratic_monarchy_ruler_missisippian:0 "Sun King"
+ plutocratic_monarchy_ruler_missisippian:0 "Sun King"
+ stratocratic_monarchy_ruler_missisippian:0 "Sun King"
+ theocratic_monarchy_ruler_missisippian:0 "Sun King"
+ despotic_monarchy_ruler_female_missisippian:0 "Sun Queen"
+ aristocratic_monarchy_ruler_female_missisippian:0 "Sun Queen"
+ plutocratic_monarchy_ruler_female_missisippian:0 "Sun Queen"
+ stratocratic_monarchy_ruler_female_missisippian:0 "Sun Queen"
+ theocratic_monarchy_ruler_female_missisippian:0 "Sun Queen"
+
+ tribal_kingdom_ruler_missisippian:0 "Sun Chief"
+ tribal_kingdom_ruler_female_missisippian:0 "Sun Chieftess"
+ tribal_kingdom_consort_missisippian:0 "Sun Chief"
+ tribal_kingdom_consort_female_missisippian:0 "Sun Chieftess"
+ tribal_chiefdom_ruler_missisippian:0 "Sun Chief"
+ tribal_chiefdom_ruler_female_missisippian:0 "Sun Chieftess"
+ tribal_chiefdom_consort_missisippian:0 "Sun Chief"
+ tribal_chiefdom_consort_female_missisippian:0 "Sun Chieftess"
+ tribal_federation_ruler_missisippian:0 "Sun Chief"
+ tribal_federation_ruler_female_missisippian:0 "Sun Chieftess"
+ tribal_federation_consort_missisippian:0 "Sun Chief"
+ tribal_federation_consort_female_missisippian:0 "Sun Chieftess"
 
  #Heartful
  despotic_monarchy_ruler_heartful:0 "Governor"

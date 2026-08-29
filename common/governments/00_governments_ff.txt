@@ -160,6 +160,30 @@ cascadian_diarchy = {
 	color = rgb { 20 112 55 }
 }
 
+cahokian_monarchy = { 
+	civic_ideas = 1
+	religious_ideas = 3
+	type = monarchy
+	
+	bonus = {
+		build_cost = -0.15
+		global_nobles_happyness = 0.08
+		happiness_for_same_religion_modifier = 0.1
+	}
+	base = {
+		country_civilization_value = 25
+		deify_ruler_cost_modifier = -0.15
+	}
+	
+	election_delay = 0
+	
+	use_regnal_numbers = yes
+	
+	ruler_consort_benefits = yes
+
+	color = rgb { 159 114 0 }
+}
+
 ## Ported from GotN ##
 
 egyptian_dynasty = { 
@@ -170,8 +194,8 @@ egyptian_dynasty = {
 	
 	bonus = {
 		global_slaves_output = 0.1
-		change_pantheon_cost_modifier = -0.9
-		happiness_for_same_religion_modifier = 0.15
+		change_pantheon_cost_modifier = -0.5
+		happiness_for_same_religion_modifier = 0.10
 	}
 	base = {
 		country_civilization_value = 25

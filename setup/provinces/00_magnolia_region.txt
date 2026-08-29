@@ -2,13 +2,41 @@
 	terrain="flood_plain"
 	culture="deltaic"
 	religion="missisippian"
-	trade_goods="grain"
-	civilization_value=10
+	trade_goods="marble"
+	civilization_value=24
 	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
+	province_rank="city"
+	nobles={
+		amount=4
+	}
+	citizen={
+		amount=2
+	}
+	citizen={
+		culture="nolan"
+		religion="traiteurism"
 		amount=1
 	}
+	citizen={
+		culture="louisianais"
+		religion="traiteurism"
+		amount=1
+	}
+	freemen={
+		amount=2
+	}
+	freemen={
+		religion="revelationist"
+		amount=3
+	}
+	slaves={
+		religion="revelationist"
+		amount=3
+	}
+	slaves={
+		amount=3
+	}
+	holy_site=omen_great_sun
 }
 
 595={ #Mayersville
