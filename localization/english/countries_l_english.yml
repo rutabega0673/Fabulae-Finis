@@ -503,6 +503,12 @@
  STB_ADJ:0 "St. Petersburger"
  BEU:0 "Beaumont"
  BEU_ADJ:0 "Beaumontais"
+ RUS:0 "Ruston"
+ RUS_ADJ:0 "Rustonian"
+ ELO:0 "El Dorado"
+ ELO_ADJ:0 "El Doradan"
+ MDL:0 "Delta"
+ MDL_ADJ:0 "Deltaic"
 
  ## West Coast ##
  SAC:0 "Second Californian Republic"

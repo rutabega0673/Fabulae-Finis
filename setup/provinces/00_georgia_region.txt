@@ -39,7 +39,7 @@
 
 1043={ #Rica
 	terrain="hills"
-	culture="appalachian"
+	culture="atlantean"
 	religion="revelationist"
 	trade_goods="wood"
 	civilization_value=10
@@ -65,7 +65,7 @@
 
 1045={ #Kennesaw
 	terrain="hills"
-	culture="appalachian"
+	culture="atlantean"
 	religion="revelationist"
 	trade_goods="honey"
 	civilization_value=10
@@ -390,7 +390,7 @@
 
 3818={ #Montezuma
 	terrain="forest"
-	culture="atlantean"
+	culture="tuskegean"
 	religion="scottish_rite"
 	trade_goods="clay"
 	civilization_value=10
@@ -468,7 +468,7 @@
 
 5045={ #Toccoa
 	terrain="hills"
-	culture="appalachian"
+	culture="atlantean"
 	religion="revelationist"
 	trade_goods="honey"
 	civilization_value=10
@@ -598,7 +598,7 @@
 
 5947={ #Dahlonega
 	terrain="hills"
-	culture="appalachian"
+	culture="atlantean"
 	religion="revelationist"
 	trade_goods="clay"
 	civilization_value=10

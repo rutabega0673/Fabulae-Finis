@@ -254,6 +254,9 @@ PLK = "setup/countries/south/palatka.txt"
 SBR = "setup/countries/south/sebring.txt"
 STB = "setup/countries/south/st_petersburg.txt"
 BEU = "setup/countries/south/beaumont.txt"
+RUS = "setup/countries/south/ruston.txt"
+ELO = "setup/countries/south/el_dorado_real.txt"
+MDL = "setup/countries/south/middle_delta.txt"
 
 #West Coast
 SAC = "setup/countries/west_coast/sacramento.txt"

@@ -1,6 +1,6 @@
 ﻿334={ #Arlington
 	terrain="plains"
-	culture="bootheeler"
+	culture="deltaic"
 	religion="egyptology"
 	trade_goods="cotton"
 	civilization_value=10
@@ -39,8 +39,8 @@
 
 337={ #Whiteville
 	terrain="plains"
-	culture="bootheeler"
-	religion="revelationist"
+	culture="deltaic"
+	religion="egyptology"
 	trade_goods="grain"
 	civilization_value=10
 	barbarian_power=0
@@ -131,7 +131,7 @@
 1014={ #Murray
 	terrain="plains"
 	culture="riverlander"
-	religion="revelationist"
+	religion="egyptology"
 	trade_goods="wood"
 	civilization_value=10
 	barbarian_power=0
@@ -468,7 +468,7 @@
 
 6152={ #Brownsville
 	terrain="plains"
-	culture="bootheeler"
+	culture="deltaic"
 	religion="egyptology"
 	trade_goods="grain"
 	civilization_value=10
@@ -482,7 +482,7 @@
 6153={ #Martin
 	terrain="plains"
 	culture="bootheeler"
-	religion="revelationist"
+	religion="egyptology"
 	trade_goods="leather"
 	civilization_value=10
 	barbarian_power=0

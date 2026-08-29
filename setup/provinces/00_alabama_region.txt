@@ -195,7 +195,7 @@
 
 4642={ #Decatur
 	terrain="forest"
-	culture="appalachian"
+	culture="tuskegean"
 	religion="revelationist"
 	trade_goods="wood"
 	civilization_value=10
@@ -208,7 +208,7 @@
 
 4643={ #Muscle Shoals
 	terrain="forest"
-	culture="appalachian"
+	culture="tuskegean"
 	religion="revelationist"
 	trade_goods="cotton"
 	civilization_value=10
@@ -221,7 +221,7 @@
 
 4644={ #Haleyville
 	terrain="forest"
-	culture="appalachian"
+	culture="tuskegean"
 	religion="revelationist"
 	trade_goods="wood"
 	civilization_value=10
@@ -429,7 +429,7 @@
 
 6462={ #Oneonta
 	terrain="forest"
-	culture="appalachian"
+	culture="tuskegean"
 	religion="revelationist"
 	trade_goods="maize"
 	civilization_value=10
@@ -442,7 +442,7 @@
 
 6463={ #Gadsden
 	terrain="hills"
-	culture="appalachian"
+	culture="tuskegean"
 	religion="revelationist"
 	trade_goods="maize"
 	civilization_value=10
@@ -455,7 +455,7 @@
 
 6464={ #Guntersville
 	terrain="forest"
-	culture="appalachian"
+	culture="tuskegean"
 	religion="revelationist"
 	trade_goods="cattle"
 	civilization_value=10
@@ -520,7 +520,7 @@
 
 7385={ #Rome
 	terrain="hills"
-	culture="appalachian"
+	culture="tuskegean"
 	religion="revelationist"
 	trade_goods="stone"
 	civilization_value=10
@@ -533,7 +533,7 @@
 
 7386={ #Heflin
 	terrain="hills"
-	culture="appalachian"
+	culture="tuskegean"
 	religion="revelationist"
 	trade_goods="fruits"
 	civilization_value=10
@@ -546,7 +546,7 @@
 
 7387={ #Anniston
 	terrain="hills"
-	culture="appalachian"
+	culture="tuskegean"
 	religion="revelationist"
 	trade_goods="wood"
 	civilization_value=10
@@ -572,7 +572,7 @@
 
 7469={ #Red Bay
 	terrain="forest"
-	culture="appalachian"
+	culture="tuskegean"
 	religion="revelationist"
 	trade_goods="maize"
 	civilization_value=10
@@ -754,7 +754,7 @@
 
 11628={ #Cullman
 	terrain="forest"
-	culture="appalachian"
+	culture="tuskegean"
 	religion="revelationist"
 	trade_goods="maize"
 	civilization_value=10

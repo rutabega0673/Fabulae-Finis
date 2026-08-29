@@ -273,7 +273,7 @@
 
 5047={ #Clemson
 	terrain="hills"
-	culture="appalachian"
+	culture="atlantean"
 	religion="colossalist"
 	trade_goods="precious_metals"
 	civilization_value=10

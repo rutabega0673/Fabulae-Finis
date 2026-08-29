@@ -1418,3 +1418,39 @@ RAG = { #Raleigh
 		instance = { position = { 0.75 0.75 } scale = { 0.35 0.35 } }
 	}
 }
+
+TMB = { # Timberland
+	pattern = "pattern_vertical_bar_01.tga"
+	color1 = rgb { 10 100 50 }
+	color2 = "ck2_blue"
+
+	colored_emblem = {
+		texture = "ce_pine.dds"
+		color1 = "offwhite"
+		color2 = "offwhite"
+		instance = { position = { 0.5 0.5 } scale = { 0.9 0.9 } }
+	}
+}
+
+OUA = { # Ouachita
+	pattern = "pattern_solid.tga"
+	color1 = "offwhite"
+	color2 = rgb { 1 22 56 }
+
+	colored_emblem = {
+		texture = "ce_waves_04_single.dds"
+		color1 = rgb { 1 22 56 }
+		instance = { position = { 0.5 0.25 } scale = { 1.8 1.8 } rotation = -20 }
+		instance = { position = { 0.5 0.75 } scale = { 1.8 1.8 } rotation = -20 }
+	}
+	colored_emblem = {
+		texture = "ce_waves_04_single.dds"
+		color1 = rgb { 127 0 0 }
+		instance = { position = { 0.5 0.5 } scale = { 1.8 1.8 } rotation = -20 }
+	}
+	colored_emblem = {
+		texture = "ce_fleur_florence.dds"
+		color1 = "roman_gold"
+		instance = { position = { 0.5 0.5 } scale = { 0.8 0.8 } }
+	}
+}

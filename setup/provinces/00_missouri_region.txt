@@ -231,7 +231,7 @@
 3652={ #Warrenton
 	terrain="farmland"
 	culture="gatewayan"
-	religion="lutheran"
+	religion="catholic"
 	trade_goods="beer"
 	civilization_value=25
 	barbarian_power=0
@@ -347,7 +347,7 @@
 4001={ #Charleston
 	terrain="farmland"
 	culture="bootheeler"
-	religion="twainist"
+	religion="egyptology"
 	trade_goods="cloth"
 	civilization_value=10
 	barbarian_power=0
@@ -614,7 +614,7 @@
 5537={ #Dexter
 	terrain="plains"
 	culture="bootheeler"
-	religion="twainist"
+	religion="egyptology"
 	trade_goods="vegetables"
 	civilization_value=10
 	barbarian_power=0
@@ -627,7 +627,7 @@
 5538={ #Malden
 	terrain="plains"
 	culture="bootheeler"
-	religion="revelationist"
+	religion="egyptology"
 	trade_goods="fur"
 	civilization_value=10
 	barbarian_power=0
@@ -787,7 +787,7 @@
 6338={ #Warshington
 	terrain="hills"
 	culture="hermanndeutsch"
-	religion="lutheran"
+	religion="catholic"
 	trade_goods="grain"
 	civilization_value=20
 	barbarian_power=0

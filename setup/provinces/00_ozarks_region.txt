@@ -1,7 +1,7 @@
 ﻿675={ #Brinkley
 	terrain="plains"
 	culture="deltaic"
-	religion="revelationist"
+	religion="missisippian"
 	trade_goods="grain"
 	civilization_value=10
 	barbarian_power=0
@@ -14,7 +14,7 @@
 676={ #Helena
 	terrain="flood_plain"
 	culture="deltaic"
-	religion="egyptology"
+	religion="missisippian"
 	trade_goods="fish"
 	civilization_value=10
 	barbarian_power=0
@@ -27,7 +27,7 @@
 677={ #Marianna
 	terrain="plains"
 	culture="deltaic"
-	religion="egyptology"
+	religion="missisippian"
 	trade_goods="rice"
 	civilization_value=10
 	barbarian_power=0
@@ -78,8 +78,8 @@
 
 1829={ #Dewitt
 	terrain="flood_plain"
-	culture="arkansawyer"
-	religion="revelationist"
+	culture="deltaic"
+	religion="missisippian"
 	trade_goods="maize"
 	civilization_value=10
 	barbarian_power=0
@@ -91,8 +91,8 @@
 
 1830={ #Stuttgart
 	terrain="forest"
-	culture="arkansawyer"
-	religion="revelationist"
+	culture="deltaic"
+	religion="missisippian"
 	trade_goods="rice"
 	civilization_value=10
 	barbarian_power=0
@@ -104,8 +104,8 @@
 
 1831={ #Hazen
 	terrain="plains"
-	culture="arkansawyer"
-	religion="revelationist"
+	culture="deltaic"
+	religion="missisippian"
 	trade_goods="wood"
 	civilization_value=10
 	barbarian_power=0
@@ -118,7 +118,7 @@
 1853={ #Wynne
 	terrain="plains"
 	culture="deltaic"
-	religion="revelationist"
+	religion="missisippian"
 	trade_goods="grain"
 	civilization_value=10
 	barbarian_power=0
@@ -131,7 +131,7 @@
 1854={ #Newport
 	terrain="plains"
 	culture="bootheeler"
-	religion="revelationist"
+	religion="missisippian"
 	trade_goods="rice"
 	civilization_value=10
 	barbarian_power=0
@@ -261,7 +261,7 @@
 2793={ #El Dorado
 	terrain="forest"
 	culture="arkansawyer"
-	religion="colossalist"
+	religion="missisippian"
 	trade_goods="wild_game"
 	civilization_value=10
 	barbarian_power=0
@@ -299,8 +299,8 @@
 
 3014={ #Monticello
 	terrain="forest"
-	culture="arkansawyer"
-	religion="colossalist"
+	culture="deltaic"
+	religion="missisippian"
 	trade_goods="wood"
 	civilization_value=10
 	barbarian_power=0
@@ -313,7 +313,7 @@
 3015={ #Hampton
 	terrain="forest"
 	culture="arkansawyer"
-	religion="colossalist"
+	religion="missisippian"
 	trade_goods="cloth"
 	civilization_value=10
 	barbarian_power=0
@@ -326,7 +326,7 @@
 3016={ #Fordyce
 	terrain="forest"
 	culture="arkansawyer"
-	religion="colossalist"
+	religion="missisippian"
 	trade_goods="cotton"
 	civilization_value=10
 	barbarian_power=0
@@ -338,8 +338,8 @@
 
 3017={ #Pine Bluff
 	terrain="forest"
-	culture="arkansawyer"
-	religion="colossalist"
+	culture="deltaic"
+	religion="missisippian"
 	trade_goods="cloth"
 	civilization_value=10
 	barbarian_power=0
@@ -508,7 +508,7 @@
 5405={ #Forrest City
 	terrain="plains"
 	culture="deltaic"
-	religion="egyptology"
+	religion="missisippian"
 	trade_goods="cotton"
 	civilization_value=10
 	barbarian_power=0
@@ -520,7 +520,7 @@
 
 5406={ #Blytheville
 	terrain="plains"
-	culture="bootheeler"
+	culture="deltaic"
 	religion="egyptology"
 	trade_goods="fish"
 	civilization_value=10
@@ -533,8 +533,8 @@
 
 5487={ #England
 	terrain="forest"
-	culture="arkansawyer"
-	religion="revelationist"
+	culture="deltaic"
+	religion="missisippian"
 	trade_goods="horses"
 	civilization_value=10
 	barbarian_power=0
@@ -572,8 +572,8 @@
 
 5830={ #Dumas
 	terrain="flood_plain"
-	culture="arkansawyer"
-	religion="colossalist"
+	culture="deltaic"
+	religion="missisippian"
 	trade_goods="maize"
 	civilization_value=10
 	barbarian_power=0
@@ -585,8 +585,8 @@
 
 5831={ #Lake Village
 	terrain="flood_plain"
-	culture="arkansawyer"
-	religion="colossalist"
+	culture="deltaic"
+	religion="missisippian"
 	trade_goods="cotton"
 	civilization_value=10
 	barbarian_power=0
@@ -598,8 +598,8 @@
 
 5832={ #Montrose
 	terrain="forest"
-	culture="arkansawyer"
-	religion="colossalist"
+	culture="deltaic"
+	religion="missisippian"
 	trade_goods="grain"
 	civilization_value=10
 	barbarian_power=0
@@ -611,8 +611,8 @@
 
 5833={ #Crossett
 	terrain="forest"
-	culture="arkansawyer"
-	religion="colossalist"
+	culture="deltaic"
+	religion="missisippian"
 	trade_goods="woad"
 	civilization_value=10
 	barbarian_power=0
@@ -676,7 +676,7 @@
 
 5857={ #Searcy
 	terrain="plains"
-	culture="arkansawyer"
+	culture="deltaic"
 	religion="revelationist"
 	trade_goods="rice"
 	civilization_value=10
@@ -742,7 +742,7 @@
 6261={ #Paragould
 	terrain="plains"
 	culture="bootheeler"
-	religion="revelationist"
+	religion="egyptology"
 	trade_goods="grain"
 	civilization_value=10
 	barbarian_power=0
@@ -755,7 +755,7 @@
 6262={ #Jonesboro
 	terrain="farmland"
 	culture="bootheeler"
-	religion="revelationist"
+	religion="egyptology"
 	trade_goods="cattle"
 	civilization_value=10
 	barbarian_power=0
