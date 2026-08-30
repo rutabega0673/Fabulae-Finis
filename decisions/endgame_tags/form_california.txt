@@ -19,11 +19,11 @@
 		highlight = {
 			scope:province = {
 				OR = {
-					province_id = 4498
-					province_id = 315
-					province_id = 4083
+					#province_id = 4498
+					#province_id = 315
+					#province_id = 4083
 					province_id = 2848
-					province_id = 9172
+					#province_id = 9172
 					province_id = 273
 					province_id = 2128
 					province_id = 4288
@@ -62,11 +62,11 @@
 			}
 			#is_monarchy = no
 			can_form_nation_trigger = yes
-			owns_or_subject_owns = 4498
-			owns_or_subject_owns = 315
-			owns_or_subject_owns = 4083
+			#owns_or_subject_owns = 4498
+			#owns_or_subject_owns = 315
+			#owns_or_subject_owns = 4083
 			owns_or_subject_owns = 2848
-			owns_or_subject_owns = 9172
+			#owns_or_subject_owns = 9172
 			owns_or_subject_owns = 273
 			owns_or_subject_owns = 2128
 			owns_or_subject_owns = 4288

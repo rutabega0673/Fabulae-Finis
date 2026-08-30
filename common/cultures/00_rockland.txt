@@ -41,6 +41,7 @@
 		coloradan = {}
 		montaneer = {}
 		snakelander = {}
+		euskal = {}
 		#mojavean = {} 
 	}
 	
