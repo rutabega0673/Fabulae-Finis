@@ -77,7 +77,7 @@
 				change_country_adjective = "MISSOURI_ADJ"
 				if = { #Promethean Flag
 					limit = { religion = promethean }
-					change_country_color =  "germania_sca_color"
+					change_country_color =  "promethean_orange"
 					change_country_flag = MISSOURI_INDUSTRIALIST_FLAG
 				}
 				else_if = { # French flag
