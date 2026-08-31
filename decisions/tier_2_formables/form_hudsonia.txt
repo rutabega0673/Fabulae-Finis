@@ -3,9 +3,8 @@
 		
 		potential = {
 			num_of_cities >= 1
-			country_culture_group = yankee
 			OR = {
-				primary_culture = hudsonian
+				country_culture_group = yankee
 				capital_scope = {
 					OR = {
 						is_in_region = hudsonia_region

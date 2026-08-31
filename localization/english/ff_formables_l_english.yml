@@ -93,6 +93,13 @@
  UPPER_MISSOURI_ADJ:0 "Missourian"
  upper_missouri_does_not_exist:0 "#Y Upper Missouri#! does not exist."
  upper_missouri_claims_tooltip:0 "#Y Upper Missouri#! will gain claims on the regions of #Y Dakotas#! and #Y Big Sky#!, and on the areas of #Y Buffalo#!, #Y Ogalla#!, #Y Creighton#!, #Y Omaha#!, #Y Fort Dodge#!, and #Y Council Bluffs#!."
+ 
+ form_missouri:0 "Form Missouri"
+ form_missouri_desc:0 "Who could not help but envy the Show Me state, with all her splendor and natural beauty? Let the good of the people be the supreme law."
+ MISSOURI_NAME:0 "Missouri"
+ MISSOURI_ADJ:0 "Missourian"
+ missouri_does_not_exist:0 "#Y Missouri#! does not exist."
+ missouri_claims_tooltip:0 "#Y Missouri#! will gain claims on the region of #Y Missouri#!."
 
  ## Formable Events ##
  ff_formable_event_1_t:0 "A New Capital?"

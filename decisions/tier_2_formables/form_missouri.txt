@@ -1,0 +1,130 @@
+﻿country_decisions = {
+	form_missouri = {
+		
+		potential = {
+			num_of_cities >= 1
+			OR = {
+				country_culture_group = midwestern
+				country_culture_group = upland
+				country_culture_group = louisianais
+				country_culture_group = deutschamerikaner
+				country_culture_group = bosniak
+				capital_scope = {
+					is_in_region = missouri_region
+				}
+			}
+			OR = {
+				is_ai = no
+				num_of_cities >= 1
+			}
+			NOR = {
+					tag = MIS
+					is_tier_2_formable_trigger = yes
+					is_endgame_tag_trigger = yes
+				}
+			}
+		
+		highlight = {
+			scope:province = {
+				OR = {
+					province_id = 4206
+					province_id = 5601
+					province_id = 8644
+					province_id = 7369
+					province_id = 5446
+					province_id = 6799
+					province_id = 1492
+					province_id = 4000
+					province_id = 4001
+					province_id = 5536
+					province_id = 9346
+					province_id = 9451
+				}
+			}
+		}
+		
+		allow = {
+			custom_tooltip = {
+				text = missouri_does_not_exist
+				NOT = {
+					any_country = {
+						tag = MIS
+					}
+				}
+			}
+			can_form_nation_trigger = yes
+			owns_or_subject_owns = 4206
+			owns_or_subject_owns = 5601
+			owns_or_subject_owns = 8644
+			owns_or_subject_owns = 7369
+			owns_or_subject_owns = 5446
+			owns_or_subject_owns = 6799
+			owns_or_subject_owns = 1492
+			owns_or_subject_owns = 4000
+			owns_or_subject_owns = 4001
+			owns_or_subject_owns = 5536
+			owns_or_subject_owns = 9346
+			owns_or_subject_owns = 9451
+		}
+		
+		
+		effect = {
+			custom_tooltip = "tier_2_formable_tooltip"
+			if = { limit = { is_tribal = yes} change_government = tribal_federation tribal_formable_government_change_effect = yes }
+			switch_government_type_event_clearup_effect = yes
+			change_country_name = "MISSOURI_NAME"
+			hidden_effect = {
+				change_country_adjective = "MISSOURI_ADJ"
+				if = { #Promethean Flag
+					limit = { religion = promethean }
+					change_country_color =  "germania_sca_color"
+					change_country_flag = MISSOURI_INDUSTRIALIST_FLAG
+				}
+				else_if = { # French flag
+					limit = { country_culture_group = louisianais }
+					change_country_color =  "missouri_dark_blue"
+					change_country_flag = MISSOURI_FLEUR_FLAG
+					change_country_adjective = "MISSOURI_FRENCH_ADJ"
+				}
+				else_if = { # Heartful/Americanist flag
+					limit = { religion = heartful }
+					change_country_color =  "missouri_dark_blue"
+					change_country_flag = MISSOURI_AMERICANIST_FLAG
+				}
+				else_if = { # Cahokian Flag
+					limit = { religion = missisippian }
+					change_country_color =  "missouri_light_green"
+					change_country_flag = MISSOURI_CAHOKIAN_FLAG
+				}
+				else_if = { # Twainist Flag
+					limit = { religion = twainist }
+					change_country_color =  "twainist_blue"
+					change_country_flag = MISSOURI_TWAINIST_FLAG
+				}
+				else_if = { # Revelationist Flag
+					limit = { religion = revelationist }
+					change_country_color =  "desaturated_green"
+					change_country_flag = MISSOURI_REVELATIONIST_FLAG
+				}
+				else = { #Fallback'll use standard Missouri Flag
+					change_country_color = "missouri_light_green"
+					change_country_flag = MISSOURI_FLAG
+				}
+				change_country_tag = MIS
+			}
+			capital_scope = {
+				capital_formable_medium_effect = yes
+				formable_capital_modifier_normal_effect = yes
+			}
+			custom_tooltip = missouri_claims_tooltip
+			hidden_effect = {
+				region:missouri_region = { formable_region_province_effect = yes }
+			}
+			add_3_free_province_investments = yes
+		}
+		
+		ai_will_do = {
+			base = 1
+		}
+	}
+}

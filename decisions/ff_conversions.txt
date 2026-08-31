@@ -2,8 +2,8 @@
 	become_cascadian_diarchy_tribal = {
 		potential = {
 			num_of_cities >= 1
+			religion = gaian
 			OR = { 
-				religion = gaian
 				government = tribal_federation
 				government = tribal_kingdom
 			}
@@ -37,6 +37,7 @@
 	become_cascadian_diarchy_monarchy = {
 		potential = {
 			num_of_cities >= 1
+			religion = gaian
 			OR = {
 				government = despotic_monarchy
 				government = aristocratic_monarchy

@@ -246,3 +246,157 @@ UPPER_MISSOURI_FLAG = {
 		instance = { position = { 0.2 0.2 } scale = { 0.65 0.65 }  }
 	}
 }
+
+MISSOURI_FLAG = {
+	pattern = "pattern_horizontal_split_02.tga"
+	color1 = rgb { 150 20 41 }
+	color2 = "ck2_blue"
+	colored_emblem = {
+		texture = "ce_bear_passant.dds"
+		color1 = "offwhite"
+		color2 = "offwhite"
+		instance = { position = { 0.5 0.6 } scale = { -0.75 0.75 }  }
+	}
+	colored_emblem = {
+		texture = "ce_crescent_04.dds"
+		color1 = "offwhite"
+		color2 = "offwhite"
+		instance = { position = { 0.5 0.2 } scale = { 0.5 0.5 }  }
+	}
+}
+
+MISSOURI_INDUSTRIALIST_FLAG = {
+	pattern = "pattern_horizontal_split_02.tga"
+	color1 = "promethean_orange"
+	color2 = "ck2_blue"
+	colored_emblem = {
+		texture = "ce_bear_passant.dds"
+		color1 = "offwhite"
+		color2 = "offwhite"
+		instance = { position = { 0.5 0.6 } scale = { -0.75 0.75 }  }
+	}
+	colored_emblem = {
+		texture = "ce_gears.dds"
+		color1 = "offwhite"
+		instance = { position = { 0.5 0.2 } scale = { 0.35 0.35 } }
+	}
+}
+
+MISSOURI_FLEUR_FLAG = {
+	pattern = "pattern_horizontal_split_02.tga"
+	color1 = rgb { 150 20 41 }
+	color2 = "missouri_dark_blue"
+	colored_emblem = {
+		texture = "ce_bear_passant.dds"
+		color1 = "offwhite"
+		color2 = "offwhite"
+		instance = { position = { 0.5 0.6 } scale = { -0.75 0.75 }  }
+	}
+	colored_emblem = {
+		texture = "ce_fleur_missouri.dds"
+		color1 = "offwhite"
+		instance = { position = { 0.5 0.2 } scale = { 0.55 0.55 }  }
+	}
+}
+
+MISSOURI_AMERICANIST_FLAG = {
+	pattern = "pattern_horizontal_split_02.tga"
+	color1 = rgb { 150 20 41 }
+	color2 = "ck2_blue"
+	colored_emblem = {
+		texture = "ce_bear_passant.dds"
+		color1 = "offwhite"
+		color2 = "offwhite"
+		instance = { position = { 0.3 0.75 } scale = { 0.5 0.5 }  }
+	}
+	colored_emblem = {
+		texture = "ce_crescent_04.dds"
+		color1 = "offwhite"
+		color2 = "offwhite"
+		instance = { position = { 0.3 0.21 } scale = { 0.5 0.5 }  }
+	}
+	colored_emblem = {
+		texture = "ce_block_02.dds"
+		color1 = "offwhite"
+		instance = { position = { 0.9 0.5 } scale = { 0.7 1.1 } }
+	}
+	colored_emblem = {
+		texture = "ce_branch.dds"
+		color1 = "ck2_green"
+		color2 = "ck2_green"
+		instance = { position = { 0.59 0.53 } scale = { -0.15 0.15 } rotation = 20  }
+	}
+	colored_emblem = {
+		texture = "ce_arrow.dds"
+		color1 = "mid_grey"
+		color2 = "mid_grey"
+		instance = { position = { 0.9 0.58 } scale = { 0.2 0.2 } rotation = 110  }
+		instance = { position = { 0.9 0.58 } scale = { 0.2 0.2 } rotation = 130  }
+		instance = { position = { 0.9 0.58 } scale = { 0.2 0.2 } rotation = 150  }
+	}
+	colored_emblem = {
+		texture = "ce_eagle_american_bald.dds"
+		color1 = "dark_rust"
+		color2 = "roman_gold"
+		color3 = "offwhite"
+		instance = { position = { 0.75 0.5 } scale = { 0.4 0.4 }  }
+	}
+}
+
+MISSOURI_CAHOKIAN_FLAG = {
+	pattern = "pattern_horizontal_split_02.tga"
+	color1 = "cahokian_orange"
+	color2 = "offwhite"
+	colored_emblem = {
+		texture = "ce_bear_passant.dds"
+		color1 = "missouri_dark_blue"
+		color2 = "missouri_dark_blue"
+		instance = { position = { 0.5 0.6 } scale = { -0.75 0.75 }  }
+	}
+	colored_emblem = {
+		texture = "ce_macedonian_sun.dds"
+		color1 = "missouri_dark_blue"
+		instance = { position = { 0.5 0.2 } scale = { 0.5 0.5 }  }
+	}
+}
+
+MISSOURI_TWAINIST_FLAG = {
+	pattern = "pattern_horizontal_split_02.tga"
+	color1 = rgb { 150 20 41 }
+	color2 = "twainist_blue"
+	colored_emblem = {
+		texture = "ce_bear_passant.dds"
+		color1 = "offwhite"
+		color2 = "offwhite"
+		instance = { position = { 0.3 0.75 } scale = { 0.5 0.5 }  }
+	}
+	colored_emblem = {
+		texture = "ce_crescent_04.dds"
+		color1 = "offwhite"
+		color2 = "offwhite"
+		instance = { position = { 0.3 0.21 } scale = { 0.5 0.5 }  }
+	}
+	colored_emblem = {
+		texture = "ce_block_02.dds"
+		color1 = "offwhite"
+		instance = { position = { 0.9 0.5 } scale = { 0.7 1.1 } }
+	}
+	colored_emblem = {
+		texture = "ce_steamboat.dds"
+		color1 = "twainist_blue"
+		color2 = "epirus_yellow"
+		instance = { scale = { 1.05 1.05 } position = { 0.75 0.44 } }
+	}
+}
+
+MISSOURI_REVELATIONIST_FLAG = {
+	pattern = "pattern_horizontal_split_02.tga"
+	color1 = rgb { 150 20 41 }
+	color2 = "desaturated_green"
+	colored_emblem = {
+		texture = "ce_snake_thracian.dds"
+		color1 = "offwhite"
+		color2 = "offwhite"
+		instance = { position = { 0.5 0.5 } scale = { -0.9 0.9 }  }
+	}
+}
