@@ -100,5 +100,9 @@ deity_manager = {
 			key = omen_beast
 			deity = deity_beast
 		}
+		1225 = {
+			key = omen_revvie_vulcan
+			deity = deity_revvie_vulcan
+		}
 	}
 }

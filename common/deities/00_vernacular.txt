@@ -5,6 +5,9 @@
 			common_deity_trigger = {
 				RELIGION = springsearcher
 			}
+			common_deity_trigger = {
+				RELIGION = missisippian
+			}
 			deity:omen_ponce_de_leon = {
 				holy_site_deity_check_trigger = yes
 			}
@@ -627,4 +630,32 @@ deity_beast = { #Mark of the Beast, 666
 	on_activate = {
         military_apotheosis_manpower_effect = yes
     }
+}
+deity_revvie_vulcan = {
+	trigger = {
+		
+		tag = ALB
+		OR = {
+			rare_deity_trigger = {
+				RELIGION = revelationist
+			}
+			deity:omen_revvie_vulcan = {
+				holy_site_deity_check_trigger = yes
+			}
+		}
+	}
+	icon = deity_tribal_wealth
+	passive_modifier = { army_maintenance_cost = deity_army_maintenance_cost_svalue }
+	omen = { fort_maintenance_cost = omen_fort_maintenance_cost_svalue } #Bonus from Omen
+	religion = revelationist
+	deity_category = economy #This Deity uses an Economy Slot
+
+	deification_trigger = {
+		can_deify_trigger = yes
+	}
+
+	on_activate = {
+		culture_apotheosis_civic_tech_effect = yes
+	}
+
 }

@@ -93,13 +93,23 @@
 	terrain="hills"
 	culture="tuskegean"
 	religion="revelationist"
-	trade_goods="horses"
-	civilization_value=10
+	trade_goods="iron"
+	civilization_value=38
 	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=1
+	province_rank="city"
+	nobles={
+		amount=5
 	}
+	citizen = {
+		amount=7
+	}
+	freemen={
+		amount=6
+	}
+	slaves={
+		amount=9
+	}
+	holy_site=omen_revvie_vulcan
 }
 
 1551={ #Alabaster

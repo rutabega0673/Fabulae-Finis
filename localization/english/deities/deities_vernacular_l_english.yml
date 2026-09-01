@@ -3,6 +3,8 @@
  deity_ponce_de_leon:0 "$omen_ponce_de_leon$"
  omen_ponce_de_leon:0 "Ponce De Leon"
  omen_ponce_de_leon_desc:0 "#Y Springsearcher God#!\nA Spanish explorer, Ponce DeLeon was sent by the King of Spain to search for the mystical Fountain of Youth. He wandered for many years, braving the wilds of Florida, before finally reaching his fabled quarry. His discovery of the Fountain ascended him to godhood, and he now diligently stands guard at the fountain, waiting for the next adventurer to find it."
+ omen_ponce_de_leon_missisippian:0 "Sun King Ponce De Leon"
+ omen_ponce_de_leon_desc_missisippian:0 "#Y Cahokian Sun King#!\nA Spanish explorer, Ponce DeLeon was sent by the King of Spain to search for the mystical Fountain of Youth. He wandered for many years, braving the wilds of Florida, before finally reaching his fabled quarry. His discovery of the Fountain earned the favor of Great Sun, and his glorious realm prospered for many years."
 
  deity_font_spirit:0 "$omen_font_spirit$"
  omen_font_spirit:0 "Font Spirit"
@@ -100,3 +102,7 @@
  deity_beast:0 "$omen_beast$"
  omen_beast:0 "The Beast"
  omen_beast_desc:0 "#Y Revelationist God#!\nHere is wisdom. Let him that hath understanding count the number of the beast: for it is the number of a man; and his number is Six hundred threescore and six."
+
+ deity_revvie_vulcan:0 "$omen_revvie_vulcan$"
+ omen_revvie_vulcan:0 "Vulcan"
+ omen_revvie_vulcan_desc:0 "#Y Revelationist God#!\nForged in the great Arched city of the West, the visage of Vulcan came to rest in Brimingham, the greatest industrial center of the south. While other cities were ravaged by the Event, Vulcan's protection has led the city to maintain some semblance of it's pre-Event facilities. Great amounts of iron and steel are forged in the factories of Birmingham, horrible bellowing beasts who spew black smoke and smog into the sky. The zealous Vulcanites of Birmingham worship their iron god with unrelenting zealotry, for good reason - the blessings of Vulcan have led Birmingham to great prosperity..."
