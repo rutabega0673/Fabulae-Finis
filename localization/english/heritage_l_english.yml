@@ -74,6 +74,8 @@
  scr_heritage_desc:0 "Perhaps the most 'legitimate' successor of the West Coast Command, the Second Californian Republic has seen her fair share of ups and downs, most recently with the revolt led by the rogue general, Kevin Le. While their main stronghold of Sacramento holds strong, many outlying regions have begun to stir, being inspired by the Californian Liberation Army's ideals."
  cla_heritage:0 "Heritage of the Underground Oath"
  cla_heritage_desc:0 "Initially tasked with quashing any rebellious activities in the southern San Joaquin Valley, Kevin Le would meet up with local rebel leaders in Fresno's Underground Garden and swear an oath of brotherhood with them. Together, they vowed to overthrow all tyrants plaguing California and give the unheard man a voice within the people's chorus, uniting their forces in the Californian Liberation Army."
+ alabama_heritage:0 "Heritage of the Red Tide"
+ alabama_heritage_desc:0 "The rise of the Sorcerer-King Nickolai Saban has been meteoric. In just a few years, the young king has expanded his petty realm from just Birmingham and her environs to encompass all of Alabama. Along with this new kingdom, arose a new cult, one venerating Vulcan as their supreme deity. Seen as heretical by many, none can doubt that Saban's fearsome Red Tide is unmatched by none."
  
  ## Culture Groups ##
  mid_atlantic_heritage:0 "Mid-Atlantic Heritage"
@@ -242,7 +244,32 @@
  montereyan_heritage_desc:0 "The land of wine, ranchos, and Spanish Missions, the California Central Coast is known for being an idyllic region. The legacy of the Missions, especially, has transformed the Montereyans into a deeply religious people."
  socaleno_heritage:0 "Socaleno Heritage"
  socaleno_heritage_desc:0 "Socaleno culture is shaped, for better or for worse, by the immense influence of Hollywood. Celebrity worship is weaved into the fabric of Socaleno society, with rulers drawing their power from their cult of personality. While a charismatic leader will thrive in Socal, another more charismatic leader can always challenge their rule."
- 
+ inlander_heritage:0 "Inlander Heritage"
+ inlander_heritage_desc:0 ""
+ jeffersonian_heritage:0 "Jeffersonian Heritage"
+ jeffersonian_heritage_desc:0 ""
+ meseteno_heritage:0 "Meseteno Heritage"
+ meseteno_heritage_desc:0 ""
+ doukhobor_heritage:0 "Doukhobor Heritage"
+ doukhobor_heritage_desc:0 ""
+ snakelander_heritage:0 "Snakelander Heritage"
+ snakelander_heritage_desc:0 ""
+ coloradan_heritage:0 "Coloradan Heritage"
+ coloradan_heritage_desc:0 ""
+ montaneer_heritage:0 "Montaneer Heritage"
+ montaneer_heritage_desc:0 ""
+ deltaic_heritage:0 "Deltaic Heritage"
+ deltaic_heritage_desc:0 "The Delta is a rich land, fed by the waters of the mighty Missisippi. Deltaics are most famous for their godly-kings, men of immense power who control nearly every aspect of Deltaic society. Thus their lands are prosperous, but perhaps not everyone enjoys the same level of prosperity."
+ dixie_heritage:0 "Dixie Heritage"
+ dixie_heritage_desc:0 "The proud sons and daughters of Dixie are instilled with the time-honored Southern traditions of chivalry and strong belief in their faith from a young age. Indeed, so important are these values that a knight who has been found to commit a sinful deed may be exiled from Dixie society entirely, forced to wander the lands as an errant knight."
+ atlantan_heritage:0 "Atlantan Heritage"
+ atlantan_heritage_desc:0 "A deeply cosmopolitan people, Atlantans oft seek the protection of their great walled cities, Atlanta of course being the most famous of these."
+ gulfard_heritage:0 "Gulfard Heritage"
+ gulfard_heritage_desc:0 "Gulfards live on the sunny and warm Gulf coast, bordered to their north by the Dixie and Tuskegeans, to their west by the Louisianais, and to their east by the Floridians. They have adopted many traditions from their neighbors, notably the famous Nolan festival of 'Mardi Gras'. Most Gulfards make a living from fishing, but other more nefarious oppourtunities may present themselves from time to time..."
+ tuskegean_heritage:0 "Tuskegean Heritage"
+ tuskegean_heritage_desc:0 "One of the most martial of all southern peoples, the Tuskegeans are renowned not only for their industrious nature, but their equitable society, and bravery in combat, which they claim was a tradition of theirs well before the Event. Some even say that their mythical ancestors had the power to tame flying beasts, which they rode into battle."
+ arkalatexan_heritage:0 "Arkalatexan Heritage"
+ arkalatexan_heritage_desc:0 "Straddling the border of Texas, Arkansas, and Louisiana, the Arkalatexans are a mixture of all of these regions. For the most part they are simple farmers, but do not let their agrarian nature decieve you, as they are as skilled with the blade, as they are the pen."
  
  
 

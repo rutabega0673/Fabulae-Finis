@@ -571,7 +571,7 @@
 }
 
 8804={ #Chiloquin
-	terrain="desert_hills"
+	terrain="dry_plains"
 	culture="klamath"
 	religion="gaian"
 	trade_goods="salt"
@@ -584,7 +584,7 @@
 }
 
 8805={ #Chemult
-	terrain="desert_hills"
+	terrain="dry_plains"
 	culture="klamath"
 	religion="gaian"
 	trade_goods="leather"

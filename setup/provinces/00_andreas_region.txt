@@ -38,7 +38,7 @@
 }
 
 289={ #Irvine
-	terrain="plains"
+	terrain="farmland"
 	culture="socaleno"
 	religion="kinemite"
 	trade_goods="horses"
@@ -51,7 +51,7 @@
 }
 
 290={ #Santa Ana
-	terrain="farmland"
+	terrain="flood_plain"
 	culture="socaleno"
 	religion="kinemite"
 	trade_goods="fruits"
@@ -77,7 +77,7 @@
 }
 
 292={ #Anaheim
-	terrain="farmland"
+	terrain="flood_plain"
 	culture="socaleno"
 	religion="kinemite"
 	trade_goods="fruits"
@@ -285,7 +285,7 @@
 }
 
 3526={ #Santa Monica
-	terrain="farmland"
+	terrain="flood_plain"
 	culture="socaleno"
 	religion="kinemite"
 	trade_goods="stone"
@@ -298,7 +298,7 @@
 }
 
 3527={ #Van Nuys
-	terrain="hills"
+	terrain="flood_plain"
 	culture="socaleno"
 	religion="kinemite"
 	trade_goods="beans"
@@ -311,7 +311,7 @@
 }
 
 3528={ #Malibu
-	terrain="farmland"
+	terrain="flood_plain"
 	culture="socaleno"
 	religion="kinemite"
 	trade_goods="stone"
@@ -324,7 +324,7 @@
 }
 
 3529={ #Long Beach
-	terrain="farmland"
+	terrain="marsh"
 	culture="socaleno"
 	religion="kinemite"
 	trade_goods="grain"
@@ -337,7 +337,7 @@
 }
 
 3530={ #Los Angeles
-	terrain="farmland"
+	terrain="flood_plain"
 	culture="socaleno"
 	religion="kinemite"
 	trade_goods="artifacts"
@@ -350,7 +350,7 @@
 }
 
 3531={ #Inglewood
-	terrain="farmland"
+	terrain="marsh"
 	culture="socaleno"
 	religion="kinemite"
 	trade_goods="grain"
@@ -363,7 +363,7 @@
 }
 
 3532={ #Ponoma
-	terrain="hills"
+	terrain="flood_plain"
 	culture="socaleno"
 	religion="kinemite"
 	trade_goods="spices"
@@ -376,7 +376,7 @@
 }
 
 3533={ #San Gabriel
-	terrain="farmland"
+	terrain="flood_plain"
 	culture="socaleno"
 	religion="kinemite"
 	trade_goods="spices"
@@ -1065,7 +1065,7 @@
 }
 
 11605={ #Pasadena
-	terrain="hills"
+	terrain="flood_plain"
 	culture="socaleno"
 	religion="kinemite"
 	trade_goods="beans"

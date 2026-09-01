@@ -976,6 +976,84 @@ montaneer_heritage = {
         primary_culture = montaneer
 	}
 }
+deltaic_heritage = {
+   	modifier = {
+        #good
+        flood_plain_combat_bonus = 0.10
+        global_population_capacity_modifier = 0.10
+      #bad
+        global_slaves_happyness = -0.04
+   }
+
+   trigger = {
+        primary_culture = deltaic
+	}
+}
+dixie_heritage = {
+   	modifier = {
+        #good
+        heavy_cavalry_discipline = 0.15
+        character_loyalty = 3
+      #bad
+        build_cost = 0.10
+   }
+
+   trigger = {
+        primary_culture = dixie
+	}
+}
+atlantan_heritage = {
+   	modifier = {
+        #good
+        fort_limit = 2
+        diplomatic_relations = 2
+      #bad
+        fort_maintenance_cost = 0.10
+   }
+
+   trigger = {
+        primary_culture = atlantean
+	}
+}
+gulfard_heritage = {
+   	modifier = {
+        #good
+        naval_unit_attrition = -0.05
+        global_population_happiness = 0.03
+      #bad
+        plains_combat_bonus = -0.10
+   }
+
+   trigger = {
+        primary_culture = gulfard
+	}
+}
+tuskegean_heritage = {
+   	modifier = {
+        #good
+        global_pop_assimilation_speed_modifier = 0.05
+        heavy_infantry_morale = 0.10
+      #bad
+        army_maintenance_cost = 0.10
+   }
+
+   trigger = {
+        primary_culture = tuskegean
+	}
+}
+arkalatexan_heritage = {
+   	modifier = {
+        #good
+        archers_forest_combat_bonus = 0.10
+        improve_relation_impact = 0.20
+      #bad
+        diplomatic_relations = -1
+   }
+
+   trigger = {
+        primary_culture = arkalatexan
+	}
+}
 #Culture Group
 midwestern_heritage = {
    	modifier = {

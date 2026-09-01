@@ -363,7 +363,7 @@
 }
 
 8732={ #Mexicali
-	terrain="dry_plains"
+	terrain="flood_plain"
 	culture="cachanchilla"
 	religion="quetzaltec"
 	trade_goods="cotton"
@@ -376,7 +376,7 @@
 }
 
 8733={ #Guadalupe Victoria
-	terrain="desert"
+	terrain="flood_plain"
 	culture="cachanchilla"
 	religion="quetzaltec"
 	trade_goods="cotton"

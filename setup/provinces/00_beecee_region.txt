@@ -415,7 +415,7 @@
 }
 
 4144={ #Vancouver
-	terrain="plains"
+	terrain="farmland"
 	culture="surreyda"
 	religion="sikhism"
 	trade_goods="earthware"

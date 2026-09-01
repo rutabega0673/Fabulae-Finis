@@ -90,7 +90,7 @@
 }
 
 1300={ #El Centro
-	terrain="desert"
+	terrain="flood_plain"
 	culture="cahuilla"
 	religion="loneranger"
 	trade_goods="beans"
@@ -331,7 +331,7 @@
 }
 
 5516={ #Cucamonga
-	terrain="dry_plains"
+	terrain="flood_plain"
 	culture="socaleno"
 	religion="kinemite"
 	trade_goods="spices"
@@ -538,7 +538,7 @@
 }
 
 5871={ #Winterhaven
-	terrain="desert"
+	terrain="flood_plain"
 	culture="cahuilla"
 	religion="loneranger"
 	trade_goods="beans"

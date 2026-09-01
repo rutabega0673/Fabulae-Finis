@@ -1053,8 +1053,8 @@ country = {
 			}
 		}
 		AUG = { # Augusta
-			government = aristocratic_republic
-			primary_culture = atlantean
+			government = stratocratic_monarchy
+			primary_culture = dixie
 			religion = revelationist
 			capital = 8701
 
@@ -1822,7 +1822,7 @@ country = {
 			government = despotic_monarchy
 			primary_culture = tuskegean
 			religion = revelationist
-			capital = 2718
+			capital = 1550
 			family = 7
 			poptype_rights = {
 				{

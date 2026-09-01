@@ -662,7 +662,7 @@
 }
 
 4870={ #Bellevue
-	terrain="farmland"
+	terrain="plains"
 	culture="cascadian"
 	religion="gaian"
 	trade_goods="honey"
@@ -688,7 +688,7 @@
 }
 
 4872={ #Everett
-	terrain="farmland"
+	terrain="plains"
 	culture="cascadian"
 	religion="gaian"
 	trade_goods="wood"
@@ -1117,7 +1117,7 @@
 }
 
 9050={ #Spanaway
-	terrain="farmland"
+	terrain="plains"
 	culture="cascadian"
 	religion="caesarist"
 	trade_goods="beer"

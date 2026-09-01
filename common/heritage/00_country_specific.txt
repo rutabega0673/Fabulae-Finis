@@ -463,3 +463,16 @@ cla_heritage = {
         tag = CLA
     }
 }
+alabama_heritage = {
+   	modifier = {
+      #good
+      heavy_infantry_offensive = 0.10
+      technology_investment = 0.05
+    #bad
+      global_nobles_happyness = -0.04
+   }
+
+   trigger = {
+      tag = ALB
+   }
+}

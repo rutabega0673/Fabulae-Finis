@@ -3,9 +3,11 @@
 		
 		potential = {
 			num_of_cities >= 1
-			country_culture_group = louisianais
 			OR = {
-				num_of_cities >= 1
+				country_culture_group = louisianais
+				capital_scope = {
+					is_in_region = lwizyan_region
+				}
 			}
 			NOR = {
 					tag = LWZ

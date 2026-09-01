@@ -77,7 +77,7 @@
 }
 
 294={ #Harper
-	terrain="desert_hills"
+	terrain="dry_plains"
 	culture="inlander"
 	religion="loneranger"
 	trade_goods="hemp"
@@ -90,7 +90,7 @@
 }
 
 295={ #Andrews
-	terrain="desert_hills"
+	terrain="dry_plains"
 	culture="inlander"
 	religion="loneranger"
 	trade_goods="hemp"
@@ -116,7 +116,7 @@
 }
 
 429={ #Warm Springs
-	terrain="dry_hills"
+	terrain="dry_plains"
 	culture="inlander"
 	religion="loneranger"
 	trade_goods="cedar"
@@ -129,7 +129,7 @@
 }
 
 430={ #Bend
-	terrain="desert_hills"
+	terrain="dry_plains"
 	culture="inlander"
 	religion="loneranger"
 	trade_goods="cattle"
@@ -142,7 +142,7 @@
 }
 
 1054={ #Colfax
-	terrain="desert"
+	terrain="dry_plains"
 	culture="inlander"
 	religion="loneranger"
 	trade_goods="cedar"
@@ -155,7 +155,7 @@
 }
 
 1055={ #Plummer
-	terrain="desert"
+	terrain="dry_hills"
 	culture="inlander"
 	religion="loneranger"
 	trade_goods="steppe_horses"
@@ -272,7 +272,7 @@
 }
 
 2240={ #Pasco
-	terrain="dry_hills"
+	terrain="dry_plains"
 	culture="meseteno"
 	religion="la_hermandad"
 	trade_goods="fur"
@@ -285,7 +285,7 @@
 }
 
 2241={ #Lacrosse
-	terrain="dry_hills"
+	terrain="dry_plains"
 	culture="inlander"
 	religion="loneranger"
 	trade_goods="hemp"
@@ -298,7 +298,7 @@
 }
 
 2242={ #Othello
-	terrain="dry_hills"
+	terrain="dry_plains"
 	culture="meseteno"
 	religion="la_hermandad"
 	trade_goods="vegetables"
@@ -467,7 +467,7 @@
 }
 
 2966={ #Antelope
-	terrain="dry_hills"
+	terrain="dry_plains"
 	culture="inlander"
 	religion="loneranger"
 	trade_goods="hemp"
@@ -493,7 +493,7 @@
 }
 
 3422={ #Silver Lake
-	terrain="desert_hills"
+	terrain="dry_plains"
 	culture="inlander"
 	religion="loneranger"
 	trade_goods="incense"
@@ -506,7 +506,7 @@
 }
 
 3423={ #Wagontire
-	terrain="desert_hills"
+	terrain="dry_plains"
 	culture="inlander"
 	religion="loneranger"
 	trade_goods="wood"
@@ -519,7 +519,7 @@
 }
 
 3424={ #La Pine
-	terrain="desert_hills"
+	terrain="dry_plains"
 	culture="inlander"
 	religion="loneranger"
 	trade_goods="steppe_horses"
@@ -532,7 +532,7 @@
 }
 
 4656={ #Moses Lake
-	terrain="desert"
+	terrain="dry_hills"
 	culture="inlander"
 	religion="loneranger"
 	trade_goods="cedar"
@@ -545,7 +545,7 @@
 }
 
 4657={ #Grand Coulee
-	terrain="desert"
+	terrain="dry_hills"
 	culture="inlander"
 	religion="loneranger"
 	trade_goods="woad"
@@ -558,7 +558,7 @@
 }
 
 4658={ #Ritzville
-	terrain="desert"
+	terrain="dry_hills"
 	culture="inlander"
 	religion="loneranger"
 	trade_goods="steppe_horses"
@@ -571,7 +571,7 @@
 }
 
 4950={ #Mattawa
-	terrain="dry_hills"
+	terrain="dry_plains"
 	culture="meseteno"
 	religion="la_hermandad"
 	trade_goods="grain"
@@ -597,7 +597,7 @@
 }
 
 5141={ #Burns
-	terrain="desert_hills"
+	terrain="dry_plains"
 	culture="inlander"
 	religion="loneranger"
 	trade_goods="woad"
@@ -610,7 +610,7 @@
 }
 
 5142={ #Crane
-	terrain="desert_hills"
+	terrain="dry_plains"
 	culture="inlander"
 	religion="loneranger"
 	trade_goods="salt"
@@ -623,7 +623,7 @@
 }
 
 5143={ #Voltage
-	terrain="desert_hills"
+	terrain="dry_plains"
 	culture="inlander"
 	religion="loneranger"
 	trade_goods="cattle"
@@ -636,7 +636,7 @@
 }
 
 5144={ #Juntura
-	terrain="desert_hills"
+	terrain="dry_plains"
 	culture="inlander"
 	religion="loneranger"
 	trade_goods="steppe_horses"
@@ -649,7 +649,7 @@
 }
 
 5423={ #Dayton
-	terrain="dry_hills"
+	terrain="dry_plains"
 	culture="umatilla"
 	religion="loneranger"
 	trade_goods="fur"
@@ -662,7 +662,7 @@
 }
 
 5424={ #Waitsburg
-	terrain="dry_hills"
+	terrain="dry_plains"
 	culture="umatilla"
 	religion="loneranger"
 	trade_goods="incense"
@@ -805,7 +805,7 @@
 }
 
 6785={ #Chelan
-	terrain="desert_hills"
+	terrain="dry_hills"
 	culture="meseteno"
 	religion="la_hermandad"
 	trade_goods="stone"
@@ -909,7 +909,7 @@
 }
 
 8422={ #Bridgeport
-	terrain="desert_hills"
+	terrain="dry_hills"
 	culture="inlander"
 	religion="gaian"
 	trade_goods="fish"
@@ -922,7 +922,7 @@
 }
 
 8516={ #Redmond
-	terrain="dry_hills"
+	terrain="dry_plains"
 	culture="inlander"
 	religion="loneranger"
 	trade_goods="woad"
@@ -948,7 +948,7 @@
 }
 
 8518={ #Seneca
-	terrain="desert_hills"
+	terrain="dry_plains"
 	culture="inlander"
 	religion="loneranger"
 	trade_goods="hemp"
@@ -961,7 +961,7 @@
 }
 
 8519={ #Brothers
-	terrain="desert_hills"
+	terrain="dry_plains"
 	culture="inlander"
 	religion="loneranger"
 	trade_goods="salt"
@@ -974,7 +974,7 @@
 }
 
 9429={ #Sprague
-	terrain="desert"
+	terrain="dry_hills"
 	culture="inlander"
 	religion="loneranger"
 	trade_goods="hemp"
@@ -987,7 +987,7 @@
 }
 
 9430={ #Spokane
-	terrain="desert"
+	terrain="dry_hills"
 	culture="inlander"
 	religion="loneranger"
 	trade_goods="vegetables"
@@ -1000,7 +1000,7 @@
 }
 
 9431={ #Airway Heights
-	terrain="desert"
+	terrain="dry_hills"
 	culture="inlander"
 	religion="loneranger"
 	trade_goods="wood"
@@ -1013,7 +1013,7 @@
 }
 
 9432={ #Rosalia
-	terrain="desert"
+	terrain="dry_hills"
 	culture="inlander"
 	religion="loneranger"
 	trade_goods="leather"

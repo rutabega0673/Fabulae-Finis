@@ -14,6 +14,23 @@ levy_southern = { #General Southern
 	heavy_cavalry = 0.3
 }
 
+levy_tuskegean = { #Tuskegean 
+	default = no
+
+	heavy_infantry = 0.35
+	light_infantry = 0.15
+	archers = 0.2
+	heavy_cavalry = 0.3
+}
+
+levy_dixie = { #Dixie
+	default = no
+
+	light_cavalry = 0.2
+	light_infantry = 0.2
+	heavy_cavalry = 0.6
+}
+
 levy_texan = { #Texan
 	default = no
 
