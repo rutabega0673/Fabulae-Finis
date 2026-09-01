@@ -400,3 +400,53 @@ MISSOURI_REVELATIONIST_FLAG = {
 		instance = { position = { 0.5 0.5 } scale = { -0.9 0.9 }  }
 	}
 }
+
+OZARKS_FLAG = {
+	pattern = "pattern_solid.tga"
+	color1 = rgb { 150 20 41 }
+	color2 = rgb { 150 20 41 }
+	colored_emblem = {
+		texture = "ce_diamond_01.dds"
+		color1 = "offwhite"
+		instance = { position = { 0.5 0.5 } scale = { 1.6 0.4 }  }
+	}
+	colored_emblem = {
+		texture = "ce_diamond_01.dds"
+		color1 = "ck2_blue"
+		color2 = "ck2_blue"
+		instance = { position = { 0.5 0.5 } scale = { 1.125 0.3 }  }
+	}
+	colored_emblem = {
+		texture = "ce_star_05.dds"
+		color1 = "offwhite"
+		color2 = "offwhite"
+		instance = { position = { 0.5 0.5 } scale = { 0.3 0.3 }  }
+		instance = { position = { 0.5 0.85 } scale = { 0.3 0.3 }  }
+		instance = { position = { 0.5 0.15 } scale = { 0.3 0.3 }  }
+	}
+}
+
+CAHOKIA_FLAG = {
+	pattern = "pattern_solid.tga"
+	color1 = "offwhite"
+	color2 = "cahokian_orange"
+	colored_emblem = {
+		texture = "ce_roundel_frame_pattern_02.dds"
+		color1 = "ck2_red"
+		color2 = "missouri_light_green"
+	}
+	colored_emblem = {
+		texture = "ce_parthia_sun_banner_02.dds"
+		color1 = "roman_gold"
+		color2 = "roman_gold"
+	}
+	colored_emblem = {
+		texture = "ce_fleur_missouri.dds"
+		color1 = "ck2_red"
+		instance = { position = { 0.1 0.1 } scale = { 0.35 0.4 } rotation = 130 }
+		instance = { position = { 0.1 0.9 } scale = { 0.35 0.4 } rotation = 45 }
+		instance = { position = { 0.9 0.1 } scale = { 0.35 0.4 } rotation = 240 }
+		instance = { position = { 0.9 0.9 } scale = { 0.35 0.4 } rotation = -45 }
+		instance = { position = { 0.5 0.5 } scale = { 0.35 0.4 } }
+	}
+}

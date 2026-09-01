@@ -101,6 +101,24 @@
  missouri_does_not_exist:0 "#Y Missouri#! does not exist."
  missouri_claims_tooltip:0 "#Y Missouri#! will gain claims on the region of #Y Missouri#!."
 
+ form_ozarks:0 "Form the Kingdom of the Ozarks"
+ form_ozarks_desc:0 "The Ozarks stand proud and indomitable, a rugged and fearsome land, stretching across the former states of  Missouri, Arkansas, Oklahoma, and Kansas. Only a mighty ruler could tame these unruly mountains..."
+ ozarks_does_not_exist:0 "#Y Ozarks#! does not exist."
+ OZARKS_FRENCH_NAME:0 "Aux-Arcs" 
+ OZARKS_FRENCH_ADJ:0 "Auxarcian"
+ OZARKS_GERMAN_NAME:0 "Ozark-Plateau"
+ OZARKS_GERMAN_ADJ:0 "Ozarker"
+ OZARKS_NAME:0 "Ozarks"
+ OZARKS_ADJ:0 "Ozark"
+ ozarks_claims_tooltip:0 "#Y Ozarks#! will get claims of the region of #Y Ozarks#!, and on the areas of #Y Joplin#!, #Y Rolla#!, #Y Bootheel#!, #Y Gateway#!, and #Y Kaycimo#!"
+
+ form_cahokia:0 "Reclaim Cahokia"
+ form_cahokia_desc:0 "Once the seat of the Great Sun Kings, Cahokia flourished for thousands of years, before being struck down by a cataclysmic event, ending the Age of Cahokia. Later rulers such as Sun King Louis and Sun King Clemens took up the mantle, somewhat restoring the city, but such attempts did not stand the tests of time. Let the navel of the world be known as 'Cahokia' once more!"
+ formable_not_cahokia_exists:0 "#Y Cahokia#! does not exist."
+ CAHOKIA_NAME:0 "Cahokia"
+ CAHOKIA_ADJ:0 "Cahokien"
+ 
+
  ## Formable Events ##
  ff_formable_event_1_t:0 "A New Capital?"
  ff_formable_event_1_desc:0 "Now that the lands of the Hudson has been brought under our control, there is talk amongst the nobles in our court of a new capital. In times of old, all of Hudsonia was ruled from the capital city of [GetProvince('(int32)6678').GetName].\n\nThere is certainly some benefits to relocating here, however our current capital could be spruced up."

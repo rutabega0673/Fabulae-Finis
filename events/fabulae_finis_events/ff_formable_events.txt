@@ -230,3 +230,26 @@ ff_formable_event.4 = { # New Californian Culture Group Event
 		add_stability = 10
     }
 }
+
+ff_formable_event.5 = { #Cahokia formable event
+	type = country_event
+	title = "ff_formable_event_5_t"
+	desc = "ff_formable_event_5_desc"
+
+	trigger = {
+		OR = {
+			religion = twainist
+			religion = missisippian
+		}
+	}
+	
+	left_portrait = current_ruler
+	
+	picture = event_cahokia
+	
+	fire_only_once = yes
+	option = {
+		name = "ff_formable_event_5.a"
+		#add_stability = 10
+	}
+}

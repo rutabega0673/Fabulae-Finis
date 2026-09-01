@@ -1,0 +1,112 @@
+﻿country_decisions = {
+	form_ozarks = {
+		
+		potential = {
+			num_of_cities >= 1
+			OR = {
+				primary_culture = ozark
+				primary_culture = paw_paw
+				primary_culture = hermanndeutsch
+			}
+			OR = {
+				is_ai = no
+				num_of_cities >= 1
+			}
+			NOT = {
+					tag = OZZ
+					is_tier_2_formable_trigger = yes
+					is_endgame_tag_trigger = yes
+				}
+			}
+		
+		highlight = {
+			scope:province = {
+				OR = {
+					province_id = 6336
+					province_id = 5600
+					province_id = 5250
+					province_id = 1492
+					province_id = 5856
+					province_id = 8975
+					province_id = 9510
+					province_id = 1920
+					province_id = 6620
+					province_id = 9346
+					province_id = 6621
+				}
+			}
+		}
+		
+		allow = {
+			custom_tooltip = {
+				text = ozarks_does_not_exist
+				NOT = {
+					any_country = {
+						tag = OZZ
+					}
+				}
+			}
+			can_form_nation_trigger = yes
+			owns_or_subject_owns = 6336
+			owns_or_subject_owns = 5600
+			owns_or_subject_owns = 5250
+			owns_or_subject_owns = 1492
+			owns_or_subject_owns = 5856
+			owns_or_subject_owns = 8975
+			owns_or_subject_owns = 9510
+			owns_or_subject_owns = 1920
+			owns_or_subject_owns = 6620
+			owns_or_subject_owns = 9346
+			owns_or_subject_owns = 6621
+		}
+		
+		
+		effect = {
+			custom_tooltip = "tier_2_formable_tooltip"
+			if = { limit = { is_tribal = yes} change_government = tribal_federation tribal_formable_government_change_effect = yes }
+			switch_government_type_event_clearup_effect = yes
+			change_country_name = "OZARKS_NAME"
+			hidden_effect = {
+				if = { #French version
+					limit = { country_culture_group = louisianais }
+					change_country_color =  "ozarks_green"
+					change_country_flag = "OZARKS_FLAG"
+					change_country_adjective = "OZARKS_FRENCH_ADJ"
+					change_country_name = "OZARKS_FRENCH_NAME"
+				}
+				else_if = { # German version
+					limit = { country_culture_group = deutschamerikaner }
+					change_country_color =  "ozarks_green"
+					change_country_adjective = "OZARKS_GERMAN_ADJ"
+					change_country_flag = "OZARKS_FLAG"
+					change_country_name = "OZARKS_GERMAN_NAME"
+				}
+				else = {
+					change_country_adjective = "OZARKS_ADJ"
+					change_country_flag = "OZARKS_FLAG"
+					change_country_color = "ozarks_green"
+					change_country_tag = OZZ
+				}
+			}
+			capital_scope = {
+				capital_formable_medium_effect = yes
+				formable_capital_modifier_normal_effect = yes
+			}
+			custom_tooltip = ozarks_claims_tooltip
+			hidden_effect = {
+				region:ozarks_region = { formable_region_province_effect = yes }
+				area:kansas_city_area = { formable_area_province_effect = yes }
+				area:ellington_area = { formable_area_province_effect = yes }
+				area:joplin_area = { formable_area_province_effect = yes }
+				area:bootheel_area = { formable_area_province_effect = yes }
+				area:saint_louis_area = { formable_area_province_effect = yes }
+				area:fredonia_area = { formable_area_province_effect = yes }
+			}
+			add_3_free_province_investments = yes
+		}
+		
+		ai_will_do = {
+			base = 1
+		}
+	}
+}

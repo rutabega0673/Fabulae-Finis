@@ -4,3 +4,9 @@ Event_praying_washington = {
 	theme = Uncategorized
 	picture = "gfx/interface/event_window/ff_praying_washington.dds"
 }
+
+## Event Pictures ##
+event_cahokia = {
+	theme = Uncategorized
+	picture = "gfx/interface/event_window/event_cahokia.dds"
+}

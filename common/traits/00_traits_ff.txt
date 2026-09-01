@@ -1,0 +1,10 @@
+﻿#Add New traits that are NOT bloodlines here
+sun_king = {
+	type = status
+	finesse = 2
+	zeal = 2
+	country = {
+		build_cost = -0.05
+		build_time = -0.10
+	}
+}

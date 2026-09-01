@@ -1,0 +1,102 @@
+﻿country_decisions = {
+	
+	# Form Haute-Louisiane
+	form_cahokia = {
+		
+		potential = {
+			num_of_cities >= 1
+			religion = missisippian
+			NOR = {
+				is_endgame_tag_trigger = yes
+				is_tier_2_formable_trigger = yes
+				tag = CK1
+			}
+		}
+		
+		#AI for now also uses this to get the list of provinces it must try to conquer.
+		highlight = {
+			scope:province = {
+				OR = {
+					province_id = 6336
+					province_id = 4206
+					province_id = 6431
+					province_id = 6432
+					province_id = 4000
+					province_id = 1012
+					province_id = 335
+					province_id = 676
+					province_id = 323
+					province_id = 4433
+					province_id = 3762
+					province_id = 8487
+					province_id = 4001
+				}
+			}
+		}
+		
+		allow = {
+			custom_tooltip = {
+				text = formable_not_cahokia_exists
+				NOT = {
+					any_country = {
+						tag = CK1
+					}
+				}
+			}
+			can_form_nation_trigger = yes
+			owns_or_subject_owns = 6336
+			owns_or_subject_owns = 4206
+			owns_or_subject_owns = 6431
+			owns_or_subject_owns = 4000
+			owns_or_subject_owns = 335
+			owns_or_subject_owns = 1012
+			owns_or_subject_owns = 676
+			owns_or_subject_owns = 323
+			owns_or_subject_owns = 4433
+			owns_or_subject_owns = 3762
+			owns_or_subject_owns = 8487
+			owns_or_subject_owns = 4001
+		}
+		
+		effect = {
+			custom_tooltip = "tier_2_formable_tooltip"
+			change_country_name = "CAHOKIA_NAME"
+			set_capital = 6431
+			p:6431 = {
+				capital_formable_medium_effect = yes
+				formable_capital_modifier_normal_effect = yes
+			}
+			change_government = cahokian_monarchy
+			switch_government_type_event_clearup_effect = yes
+			current_ruler = {
+				add_nickname = "NICKNAME_CAHOKIAN"
+				add_zeal = 2
+				add_trait = "sun_king"
+			}
+			hidden_effect = {
+				change_country_adjective = "CAHOKIA_ADJECTIVE"
+				change_country_color = "cahokian_orange"
+				change_country_tag = CK1
+				change_country_flag = CAHOKIA_FLAG
+				#trigger_event = {
+				#	id = ff_formable_event.5
+				#	days = 1
+				#}
+			}
+			custom_tooltip = "form_cahokia_claims_tooltip"
+			hidden_effect = {
+				region:missouri_region = { formable_region_province_effect = yes }
+				region:illinois_region = { formable_region_province_effect = yes }
+				area:vincennes_area = { formable_area_province_effect = yes }
+				area:evansville_area = { formable_area_province_effect = yes }
+			}
+			add_3_free_province_investments = yes
+		}
+		
+		ai_will_do = {
+			base = 1
+		}
+	}
+
+} 
+

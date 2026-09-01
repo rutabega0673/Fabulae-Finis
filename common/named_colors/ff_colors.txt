@@ -15,5 +15,6 @@
 	missouri_dark_blue = rgb { 8 37 102 }
 	promethean_orange = rgb { 188 88 18 }
 	cahokian_orange = rgb { 159 114 0 }
+	ozarks_green = rgb { 71 179 76 }
 }
 
