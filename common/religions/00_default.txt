@@ -1,4 +1,4 @@
-mayan_pantheon = { # Maya
+﻿mayan_pantheon = { # Maya
 	color = hsv { 0.05 1 0.9 }
 	modifier = { 
 		global_goods_from_slaves = -1

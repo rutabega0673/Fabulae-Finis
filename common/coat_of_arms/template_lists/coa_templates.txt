@@ -6,30 +6,6 @@ coat_of_arms_template_lists = {
 	all = {
 		
 		special_selection = {
-			trigger = { country_culture_group = "northlake" }
-			50000 = flag_type_germanic_patterns
-		}
-		special_selection = {
-			trigger = {
-				OR = {
-					# Britannic
-					primary_culture = caledonian
-					primary_culture = damnonian
-					primary_culture = taexalian
-					primary_culture = votadinian
-					# Gaelic
-#					primary_culture = hibernian
-					primary_culture = voluntian
-					primary_culture = ivernian
-					primary_culture = monapian
-					# Germanic (northern)
-					primary_culture = scandian
-					primary_culture = cimbrian
-				}
-			}
-			50000 = flag_type_viking_emblems
-		}
-		special_selection = {
 			trigger = {
 				OR = {
 					# Cultures that have unique flag borders.

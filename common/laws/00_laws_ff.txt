@@ -1,4 +1,4 @@
-steppe_horde_levy_size_laws = {
+﻿steppe_horde_levy_size_laws = {
 	potential = {
 		government = steppe_horde
 	}

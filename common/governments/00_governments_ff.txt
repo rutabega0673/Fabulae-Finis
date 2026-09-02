@@ -1,4 +1,4 @@
-federal = { #Federal Government
+﻿federal = { #Federal Government
 	military_ideas = 1
 	civic_ideas = 1
 	oratory_ideas = 1

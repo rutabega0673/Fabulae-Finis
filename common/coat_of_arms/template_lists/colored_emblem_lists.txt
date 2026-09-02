@@ -21,10 +21,10 @@ colored_emblem_texture_lists = {
 		#1 = "ce_stripes_vertical_8.dds"
 		1 = "ce_stripes_vertical_16.dds"
 		
-		special_selection = {
-			trigger = { country_culture_group = "germanic" }
-			1 = "ce_germanic_pattern_01.dds"
-		}
+		#special_selection = {
+		#	trigger = { country_culture_group = "northlake" }
+		#	1 = "ce_germanic_pattern_01.dds"
+		#}
 	}
 
 	checkers_diagonals = {
@@ -38,10 +38,10 @@ colored_emblem_texture_lists = {
 		#1 = "ce_stripes_vertical_8.dds"
 		1 = "ce_stripes_vertical_16.dds"
 		
-		special_selection = {
-			trigger = { country_culture_group = "germanic" }
-			1 = "ce_germanic_pattern_02.dds"
-		}
+		#special_selection = {
+		#	trigger = { country_culture_group = "northlake" }
+		#	1 = "ce_germanic_pattern_02.dds"
+		#}
 	}
 	
 	borders = {
@@ -69,7 +69,7 @@ colored_emblem_texture_lists = {
 		
 		special_selection = {
 			trigger = {
-				country_culture_group = "hellenic"
+				country_culture_group = "yankee"
 			}
 			4 = "ce_border_meander_01.tga"
 			4 = "ce_border_meander_02.tga"
@@ -81,34 +81,34 @@ colored_emblem_texture_lists = {
 			4 = "ce_border_meander_09.dds"
 			4 = "ce_border_meander_10.dds"
 			special_selection = {
-				trigger = { primary_culture = macedonian }
+				trigger = { primary_culture = hudsonian }
 				1 = "ce_border_stars_02.dds"
 				1 = "ce_border_stars_03.dds"
 			}
 			special_selection = {
-				trigger = { primary_culture = cretan }
+				trigger = { primary_culture = youser }
 				8 = "ce_border_meander_06.dds"
 				8 = "ce_border_meander_07.dds"
 			}
 		}
 		special_selection = {
 			trigger = {
-				primary_culture = "hebrew"
+				primary_culture = "yiddish"
 			}
 			4 = "ce_border_leaves_01.dds"
 			2 = "ce_border_leaves_02.dds"
 			1 = "ce_border_leaves_03.dds"
 		}
 		special_selection = {
-			trigger = { country_culture_group = proto_european }
+			trigger = { country_culture_group = rockland }
 			4 = "ce_border_nuragic_01.dds"
 			4 = "ce_border_iberian_01.dds"
 		}
 		special_selection = {
 			trigger = {
 				OR = {
-					primary_culture = scandian
-					primary_culture = cimbrian
+					primary_culture = yooper
+					primary_culture = fingelska
 				}
 			}
 			4 = "ce_border_runes_01.dds"
@@ -118,24 +118,7 @@ colored_emblem_texture_lists = {
 		
 		special_selection = {
 			trigger = {
-				OR = {
-					primary_culture = aquitani
-					primary_culture = vasconian
-					primary_culture = cantabrian
-					primary_culture = autrigonian
-					primary_culture = asturian
-					primary_culture = vardulian
-				}
-			}
-			10 = "ce_border_cantabrian_labaru_01.dds"
-			10 = "ce_border_cantabrian_labaru_02.dds"
-		}
-		
-		special_selection = {
-			trigger = {
-				country_culture_group = "iberia" #iberian
-				NOT = { primary_culture = aquitani }
-				NOT = { primary_culture = vasconian }
+				country_culture_group = upland
 			}
 			10 = "ce_border_checker_01.tga"
 			10 = "ce_border_meander_01.tga"
@@ -149,30 +132,30 @@ colored_emblem_texture_lists = {
 		
 		special_selection = {
 			trigger = {
-				country_culture_group = north_african 
+				country_culture_group = frontieran
 			}
 			4 = "ce_border_ancient_egyptian_pattern_01.dds"
 		}
 		special_selection = {
 			trigger = { 
 				OR = {
-					country_culture_group = south_levantine
-					country_culture_group = south_arabian
+					country_culture_group = mojavean
+					country_culture_group = arixo
 				}
 			}
 			4 = "ce_border_south_arabian_01.dds"
 		}
 		special_selection = {
-			trigger = { primary_culture = tocharian }
+			trigger = { primary_culture = coloradan }
 			4 = "ce_border_tarim_basin.dds"
 		}
 		special_selection = {
-			trigger = { country_culture_group = dacia_group }
+			trigger = { country_culture_group = northwestern }
 			2 = "ce_border_dacian_01.dds"
 			2 = "ce_border_dacian_02.dds"
 		}
 		special_selection = {
-			trigger = { country_culture_group = thrace_group }
+			trigger = { country_culture_group = interior_northwestern }
 			# Apotheosis
 			2 = "ce_border_thracian_behind_01.dds"
 			2 = "ce_border_thracian_behind_02.dds"
@@ -234,7 +217,7 @@ colored_emblem_texture_lists = {
 		}
 		
 		special_selection = {
-			trigger = { primary_culture = nuragic }
+			trigger = { primary_culture =  }
 			10 = "ce_nuragic_01.dds"
 			 1 = "ce_nuragic_02.dds"
 			10 = "ce_nuragic_03.dds"
@@ -243,13 +226,13 @@ colored_emblem_texture_lists = {
 			8 = "ce_corsian.dds"
 		}
 		special_selection = {
-			trigger = { primary_culture = scandian }
+			trigger = { primary_culture = anishinaabe }
 			2 = "ce_viking_raven_01.dds"
 			2 = "ce_knot_01.dds"
 			2 = "ce_knot_01a.dds"
 		}
 		special_selection = {
-			trigger = { primary_culture = caledonian }
+			trigger = { primary_culture = maritime_canadian }
 			10 = "ce_pict_01.dds"
 			10 = "ce_pict_02.dds"
 			10 = "ce_pict_03.dds"
@@ -264,69 +247,14 @@ colored_emblem_texture_lists = {
 			20 = "ce_boar_calydonian.dds"
 		}
 		special_selection = {
-			trigger = {
-				country_culture_group = iberia
-				NOR = { primary_culture = turdulian primary_culture = oretanian primary_culture = ilergetian }
-			}
-			5 = "ce_dolphin.dds"
-			5 = "ce_arse.dds"
-		}
-		special_selection = {
-			trigger = { primary_culture = haedui }
-			5 = "ce_aedui.dds"
-		}
-		special_selection = {
-			trigger = { country_culture_group = belgae_group }
-			1 = "ce_ambiani_belgica.dds"
-			1 = "ce_horse_eburones.dds"
-		}
-		special_selection = {
-			trigger = { primary_culture = lankan }
-			5 = "ce_anuradhapura_2.dds"
-		}
-		special_selection = {
-			trigger = { primary_culture = colchian }
-			5 = "ce_colchis.dds"
-		}
-		special_selection = {
-			trigger = { country_culture_group = fezzani }
-			1 = "ce_gindanes_greek_lotus.dds"
-			1 = "ce_crab_1.dds"
-			1 = "ce_crab_2.dds"
-			special_selection = {
-				trigger = { primary_culture = garamantic }
-				1 = "ce_garamantes.dds"
-			}
-		}
-		special_selection = {
-			trigger = { primary_culture = kalingan }
-			1 = "ce_kalinga_chakreshvari.dds"
-		}
-		special_selection = {
-			trigger = { primary_culture = liburnian_culture }
-			10 = "ce_liburnia.dds"
-		}
-		special_selection = {
-			trigger = { primary_culture = libyan }
-			1 = "ce_libyan_temehu_war_dance.dds"
-		}
-		special_selection = {
-			trigger = { primary_culture = nasamonian }
-			1 = "ce_nasamones_ammon.dds"
-		}
-		special_selection = {
-			trigger = { country_culture_group = scythia }
+			trigger = { country_culture_group = plains }
 			1 = "ce_parthia_satrapy.dds"
 			1 = "ce_parthia_sun_banner.dds"
 		}
 		special_selection = {
 			trigger = {
 				OR = {
-					primary_culture = sporic
-					primary_culture = neuric
-					primary_culture = budinian
-					primary_culture = chernolian
-					primary_culture = melanchlaenian
+					primary_culture = preiryansky
 				}
 			}
 			1 = "ce_slavia.dds"
@@ -369,11 +297,7 @@ colored_emblem_texture_lists = {
 		
 		special_selection = {
 			trigger = {
-				country_culture_group = "celt_iberia" #celtiberian
-				NOT = { primary_culture = cantabrian }
-				NOT = { primary_culture = autrigonian }
-				NOT = { primary_culture = asturian }
-				NOT = { primary_culture = vardulian }
+				country_culture_group = "upland" #celtiberian
 			}
 			5 = "ce_sword_02.dds"
 			5 = "ce_horse_06.dds"
@@ -382,37 +306,10 @@ colored_emblem_texture_lists = {
 			5 = "ce_lauburu_01.dds"
 			5 = "ce_whirl_01.dds"
 		}
-		
+			
 		special_selection = {
 			trigger = {
-				OR = {
-					primary_culture = aquitani
-					primary_culture = vasconian
-					primary_culture = cantabrian
-					primary_culture = autrigonian
-					primary_culture = asturian
-					primary_culture = vardulian
-				}
-			}
-			5 = "ce_sword_02.dds"
-			10 = "ce_horse_06.dds"
-			5 = "ce_knot_02.dds"
-			5 = "ce_knot_03.dds"
-			10 = "ce_lauburu_01.dds"
-			10 = "ce_whirl_01.dds"
-			10 = "ce_triskelion_01.dds"
-			10 = "ce_triskelion_02.dds"
-			10 = "ce_quadskelion_01.dds"
-			10 = "ce_cantabrian_labaru_01.dds"
-			10 = "ce_cantabrian_labaru_02.dds"
-			10 = "ce_cantabrian_labaru_03.dds"
-		}
-		
-		special_selection = {
-			trigger = {
-				country_culture_group = "iberia" #iberian
-				NOT = { primary_culture = aquitani }
-				NOT = { primary_culture = vasconian }
+				country_culture_group = "upland" #iberian
 			}
 			10 = "ce_bull_03.dds"
 			10 = "ce_bull_04.dds"
@@ -424,19 +321,18 @@ colored_emblem_texture_lists = {
 			1 = "ce_carmo.dds"
 		}
 		
-		special_selection = {
-			trigger = {
-				country_culture_group = "northlake"
-			}
-			10 = "ce_knot_01.dds"
-			10 = "ce_ship_01.dds"
-			10 = "ce_wheel_04.dds"
-			10 = "ce_quadskelion_01.dds"
-			10 = "ce_horse_04.dds"
-			10 = "ce_horse_05.dds"
-			10 = "ce_horse_06.dds"
-			1 = "ce_bird_chasuaria.dds"
-		}
+		#special_selection = {
+		#		country_culture_group = "northlake"
+		#	}
+		#	10 = "ce_knot_01.dds"
+		#	10 = "ce_ship_01.dds"
+		#	10 = "ce_wheel_04.dds"
+		#	10 = "ce_quadskelion_01.dds"
+		#	10 = "ce_horse_04.dds"
+		#	10 = "ce_horse_05.dds"
+		#	10 = "ce_horse_06.dds"
+		#	1 = "ce_bird_chasuaria.dds"
+		#}
 		special_selection = {
 			trigger = {
 				OR = {
@@ -464,11 +360,11 @@ colored_emblem_texture_lists = {
 			2 = "ce_boar_forepart_thracian.dds"
 			1 = "ce_boar_head.dds"
 			2 = "ce_boar_thracian.dds"
-			special_selection = {
-				trigger = { primary_culture = odrysi }
-				# Apotheosis
-				1 = "ce_bipennis_metokos.dds"
-			}
+			#special_selection = {
+			#	trigger = { primary_culture = odrysi }
+			#	# Apotheosis
+			#	1 = "ce_bipennis_metokos.dds"
+			#}
 		}
 		special_selection = {
 			trigger = {
@@ -589,7 +485,7 @@ colored_emblem_texture_lists = {
 			2 = "ce_snake.dds"
 			5 = "ce_tripod_02.dds"
 			special_selection = {
-				trigger = { primary_culture = macedonian }
+				trigger = { primary_culture = deltaic }
 				10 = "ce_star_10.dds"
 				10 = "ce_star_11.dds"
 				10 = "ce_star_12.dds"
@@ -605,27 +501,27 @@ colored_emblem_texture_lists = {
 				 5 = "ce_lion_paionia.dds"
 			}
 			special_selection = {
-				trigger = { primary_culture = cretan }
+				trigger = { primary_culture = vermonter }
 				# Apotheosis
 				10 = "ce_labyrinth.dds" 
 				10 = "ce_labyrinth_simple.dds"
 				10 = "ce_bull_head_lappa.dds"
 			}
 			special_selection = {
-				trigger = { primary_culture = epirote }
+				trigger = { primary_culture = hudsonian }
 				# Apotheosis
 				1 = "ce_aspis_molosson.dds"
 				5 = "ce_dog_molossian.dds"
 				5 = "ce_oak_dodona.dds"
 				5 = "ce_obelisk_ambrakia.dds"
 			}
+			#special_selection = {
+			#	trigger = { primary_culture = greco_indian }
+			#	# Apotheosis
+			#	10 = "ce_elephant.dds"
+			#}
 			special_selection = {
-				trigger = { primary_culture = greco_indian }
-				# Apotheosis
-				10 = "ce_elephant.dds"
-			}
-			special_selection = {
-				trigger = { primary_culture = athenian }
+				trigger = { primary_culture = upstater }
 				# Apotheosis
 				1 = "ce_marathon.dds"
 				5 = "ce_pig_eleusis.dds"
@@ -635,7 +531,7 @@ colored_emblem_texture_lists = {
 				5 = "ce_owl_athenai_02.dds"
 			}
 			special_selection = {
-				trigger = { primary_culture = bosporan }
+				trigger = { primary_culture = shieldshorer }
 				# Apotheosis
 				5 = "ce_octopus_01.dds"
 				5 = "ce_octopus_02.dds"
@@ -643,20 +539,20 @@ colored_emblem_texture_lists = {
 				5 = "ce_wheel_mesembria.dds"
 			}
 			special_selection = {
-				trigger = { primary_culture = cyrenaican }
+				trigger = { primary_culture = sofloano }
 				1 = "ce_10.dds"
 				# Apotheosis
 				2 = "ce_palm.dds"
 				2 = "ce_wreath_grain.dds"
 			}
 			special_selection = {
-				trigger = { primary_culture = boeotian }
+				trigger = { primary_culture = hellenican }
 				# Apotheosis
 				5 = "ce_shield_boeotian.dds"
 				5 = "ce_shield_boeotian_sphinx.dds"
 			}
 			special_selection = {
-				trigger = { primary_culture = peloponnesian }
+				trigger = { primary_culture = dixie }
 				# Apotheosis
 				5 = "ce_spartan_dokana.dds"
 				5 = "ce_spartan_double_wreath.dds"
@@ -673,7 +569,7 @@ colored_emblem_texture_lists = {
 				5 = "ce_spartan_twin_snakes.dds"
 			}
 			special_selection = {
-				trigger = { primary_culture = aetolian }
+				trigger = { primary_culture = atlantean }
 				# Apotheosis
 				5 = "ce_thunderbolt_01.dds"
 				5 = "ce_thunderbolt_02.dds"
@@ -682,20 +578,20 @@ colored_emblem_texture_lists = {
 				1 = "ce_torch.dds"
 			}
 			special_selection = {
-				trigger = { primary_culture = massalian }
+				trigger = { primary_culture = gulfard }
 				# Apotheosis
 				5 = "ce_trident_02.dds"
 				5 = "ce_trident_03.dds"
 				5 = "ce_trident_04.dds"
 			}
 			special_selection = {
-				trigger = { primary_culture = thessalian }
+				trigger = { primary_culture = bayfolk }
 				# Apotheosis
 				5 = "ce_cart_krannon.dds"
 				5 = "ce_cart_krannon.dds"
 			}
 			special_selection = {
-				trigger = { primary_culture = aetolian }
+				trigger = { primary_culture = gothamite }
 				# Apotheosis
 				5 = "ce_lion_lysimachus.dds"
 			}
@@ -746,7 +642,7 @@ colored_emblem_texture_lists = {
 		
 		special_selection = {
 			trigger = {
-				country_culture_group = "pleateau" # Levantine
+				country_culture_group = "plateau" # 
 			}
 			10 = "ce_flower_03.dds"
 			10 = "ce_flower_04.dds"
@@ -778,12 +674,12 @@ colored_emblem_texture_lists = {
 			10 = "ce_scorpion_01.dds"
 			10 = "ce_achaemenid_empire.dds"
 			special_selection = {
-				trigger = { primary_culture = armenian }
+				trigger = { primary_culture = heartlander }
 				# Apotheosis
 				1 = "ce_eagle_thunderbolt.dds"
 			}
 			special_selection = {
-				trigger = { primary_culture = cappadocian }
+				trigger = { primary_culture = sunshiner }
 				# Apotheosis
 				5 = "ce_lion_cappadocia_01.dds"
 				5 = "ce_lion_cappadocia_02.dds"
@@ -811,22 +707,22 @@ colored_emblem_texture_lists = {
 			1 = "ce_griffin_seated.dds"
 		}
 		
-		special_selection = {
-			trigger = {
-				OR = {
-					country_culture_group = "aryan" # Aryan
-					country_culture_group = "pracyan" # Eastern Aryan
-				}
-			}
-			10 = "ce_andhra_01.dds"
-			10 = "ce_aryan_01.dds"
-			10 = "ce_aryan_02.dds"
-			10 = "ce_aryan_03.dds"
-			# Invictus
-			1 = "ce_elephant_satavahana.dds"
-			# Apotheosis
-			1 = "ce_elephant.dds"
-		}
+		#special_selection = {
+		#	trigger = {
+		#		OR = {
+		#			country_culture_group = "aryan" # Aryan
+		#			country_culture_group = "pracyan" # Eastern Aryan
+		#		}
+		#	}
+		#	10 = "ce_andhra_01.dds"
+		#	10 = "ce_aryan_01.dds"
+		#	10 = "ce_aryan_02.dds"
+		#	10 = "ce_aryan_03.dds"
+		#	# Invictus
+		#	1 = "ce_elephant_satavahana.dds"
+		#	# Apotheosis
+		#	1 = "ce_elephant.dds"
+		#}
 		
 		special_selection = {
 			trigger = {
@@ -842,7 +738,7 @@ colored_emblem_texture_lists = {
 		
 		special_selection = {
 			trigger = {
-				country_culture_group = "indian" # Dravidian
+				country_culture_group = "centromexa"
 			}
 			10 = "ce_elephant_02.dds"
 			10 = "ce_fish_01.dds"
@@ -853,18 +749,18 @@ colored_emblem_texture_lists = {
 			1 = "ce_elephant_satavahana.dds"
 			# Apotheosis
 			1 = "ce_elephant.dds"
-			special_selection = {
-				trigger = { primary_culture = cholan }
-				5 = "ce_chola_tiger.dds"
-			}
+			#special_selection = {
+			#	trigger = { primary_culture = cholan }
+			#	5 = "ce_chola_tiger.dds"
+			#}
 		}
 		
 		special_selection = {
 			trigger = {
 				OR = {
-					country_culture_group = "north_african" # Egyptian
-					country_culture_group = "meroitic_group"
-					country_culture_group = "nilotic_group" 
+					#country_culture_group = "north_african" # Egyptian
+					#country_culture_group = "meroitic_group"
+					primary_culture = "deltaic"
 				}
 			}
 			10 = "ce_egyptian_01.dds"
@@ -879,8 +775,8 @@ colored_emblem_texture_lists = {
 		special_selection = {
 			trigger = {
 				OR = {
-					country_culture_group = "numidian"
-					country_culture_group = "fezzani"
+					country_culture_group = "normexa"
+					country_culture_group = "frontieran"
 				}
 			}
 			10 = "ce_numidian_01.dds"
@@ -891,7 +787,7 @@ colored_emblem_texture_lists = {
 		
 		special_selection = {
 			trigger = {
-				religion = "judaism"
+				religion = "yiddish"
 			}
 			40 = "ce_judea_symbol.dds"
 		}
@@ -938,7 +834,7 @@ colored_emblem_texture_lists = {
 		special_selection = {
 			trigger = {
 				OR = {
-				country_culture_group = northlake 
+				#country_culture_group = northlake 
 				country_culture_group = anishinaabe
 				country_culture_group = maritime_canadian 
 				}
@@ -947,18 +843,17 @@ colored_emblem_texture_lists = {
 			2 = "ce_celtic_knot_02.dds"
 			2 = "ce_celtic_knot_03.dds"
 		}
-		special_selection = {
-			trigger = {
-				OR = {
-					primary_culture = scandian
-					primary_culture = cimbrian
-				}
-			}
-			1 = "ce_nordic_01.dds"
-			2 = "ce_nordic_02.dds"
-			1 = "ce_viking_01.dds"
-			2 = "ce_viking_02.dds"
-		}
+		#special_selection = {
+		#	trigger = {
+		#		OR = {
+		#			primary_culture = scandian
+		#			primary_culture = cimbrian
+		#		}
+		#	}
+		##	2 = "ce_nordic_02.dds"
+		#	1 = "ce_viking_01.dds"
+		#	2 = "ce_viking_02.dds"
+		#}
 	}
 	
 	wreaths = {
@@ -985,10 +880,10 @@ colored_emblem_texture_lists = {
 			1 = "ce_hellenic_1.dds"
 			1 = "ce_hellenic_2.dds"
 		}
-		special_selection = {
-			trigger = { country_culture_group = northlake }
-			4 = "ce_border_viking_01.dds"
-		}
+		#special_selection = {
+		#	trigger = { country_culture_group = northlake }
+		#	4 = "ce_border_viking_01.dds"
+		#}
 	}
 	
 	letters = {

@@ -45,14 +45,14 @@
         }
     }
 
-    colored_emblem={
-        color1=ck2_black
-        texture="ce_block_01.dds"
-        instance={
-            position={ 0.725000 0.725000 }
-            scale={ 0.015000 0.220000 }
-        }
-    }
+    #colored_emblem={
+    #    color1=ck2_black
+    #   texture="ce_block_01.dds"
+     #   instance={
+      #      position={ 0.725000 0.725000 }
+      #      scale={ 0.015000 0.220000 }
+      #  }
+    #}
 
 	colored_emblem={
         color1=offwhite
