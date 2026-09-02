@@ -353,7 +353,7 @@
 	terrain="forest"
 	culture="sandlapper"
 	religion="episcopalian"
-	trade_goods=""
+	trade_goods="fish"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"

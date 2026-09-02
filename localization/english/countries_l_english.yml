@@ -584,7 +584,7 @@
  SLL:0 "Seattle"
  SLL_ADJ:0 "Seattlean"
  LNG:0 "Longview"
- LNG_ADJ;0 "Longviewan"
+ LNG_ADJ:0 "Longviewan"
  SWS:0 "Siuslaw"
  SWS_ADJ:0 "Siuslawan" 
  ITW:0 "Interior Willamette"

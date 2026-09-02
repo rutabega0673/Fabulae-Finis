@@ -604,7 +604,7 @@
 	terrain="forest"
 	culture="buckeye"
 	religion="promethean"
-	trade_goods="fur"
+	trade_goods="salt"
 	civilization_value=22
 	barbarian_power=0
 	province_rank="settlement"

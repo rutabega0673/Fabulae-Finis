@@ -1,0 +1,27 @@
+﻿naval_raid_target_province_trigger = {
+	has_owner = yes
+	total_population > 5
+	fort_level <= root.naval_raid_fort_limit_tooltip_svalue
+	NOT = { owner = root.unit_owner }
+	trigger_if = {
+		limit = { root.unit_owner = { is_subject = yes } }
+		NOT = { root.unit_owner.overlord = this.owner }
+	}
+	owner = {
+		NOT = { alliance_with = root.unit_owner }
+		NOT = { is_subject_of = root.unit_owner }
+		NOT = { has_truce_with = root.unit_owner }
+	}
+	is_port = yes
+}
+
+subunit_not_mercenary_unit_trigger = {
+	trigger_if = {
+        limit = {
+            exists = owning_unit.commander
+        }
+        owning_unit.commander = {
+            is_mercenary = no
+        }
+    }
+}

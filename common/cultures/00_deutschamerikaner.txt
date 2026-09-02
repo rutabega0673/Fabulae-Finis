@@ -1,7 +1,7 @@
 ﻿deutschamerikaner = {
 	color = rgb { 96 98 59 }
 
-	levy_template = levy_maya
+	levy_template = levy_thracians
 	
 	primary = light_infantry
 	second = heavy_cavalry

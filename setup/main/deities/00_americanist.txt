@@ -53,10 +53,10 @@ deity_manager = {
 			key = omen_eisenhower
 			deity = deity_eisenhower
 		}
-		313 = {
-			key = omen_glenn
-			deity = deity_glenn
-		}
+		#313 = {
+		#	key = omen_glenn
+		#	deity = deity_glenn
+		#}
 		314 = {
 			key = omen_iowa
 			deity = deity_iowa

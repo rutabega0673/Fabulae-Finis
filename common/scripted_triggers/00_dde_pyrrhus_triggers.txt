@@ -1,0 +1,389 @@
+﻿is_diadochus_trigger = {
+	OR = {
+		tag = MAC
+		tag = EGY
+		tag = PRY
+		tag = SEL
+		tag = TRE
+	}
+}
+
+pyrrhus_wife_finder_trigger = {
+	any_character = {
+		is_ruler = no
+		is_female = yes
+		can_marry = yes
+		age <= 30
+
+		from_ruler_family = yes
+		employer = root
+		is_at_location = root.capital_scope
+	}
+}
+
+pyrrhus_truce_trigger = {
+	OR = {
+		AND = {
+			tag = SEL
+			OR = {
+				has_truce_with = MAC
+				has_truce_with = PRY
+				has_truce_with = TRE
+				has_truce_with = EGY 
+			}
+		}
+		AND = {
+			tag = MAC
+			OR = {
+				has_truce_with = SEL
+				has_truce_with = PRY
+				has_truce_with = TRE
+				has_truce_with = EGY 
+			}
+		}
+		AND = {
+			tag = PRY
+			OR = {
+				has_truce_with = MAC
+				has_truce_with = SEL
+				has_truce_with = TRE
+				has_truce_with = EGY 
+			}
+		}
+		AND = {
+			tag = TRE
+			OR = {
+				has_truce_with = MAC
+				has_truce_with = PRY
+				has_truce_with = SEL
+				has_truce_with = EGY 
+			}
+		}
+		AND = {
+			tag = EGY
+			OR = {
+				has_truce_with = MAC
+				has_truce_with = PRY
+				has_truce_with = TRE
+				has_truce_with = SEL 
+			}
+		}
+	}
+}
+
+me_epi_royal_marriage_bride_trigger = {
+	is_alive = yes
+	is_ruler = no
+	is_female = yes
+	prisoner = no
+	OR = {
+		is_close_relative = root.current_ruler
+		AND = {
+			root.current_ruler = char:70
+			this = char:121
+		}
+		AND = {
+			root.current_ruler = char:118
+			OR = {
+				this = char:116
+				this = char:117
+			}
+		}
+	}
+	employer = root
+	is_adult = yes
+	age < 36
+	trigger_if = {
+		limit = {
+			is_married = yes
+			spouse = {
+				is_ruler = no
+				employer = root
+			}
+		}
+	}
+}
+
+me_epi_royal_marriage_country_trigger = {
+	has_land = yes
+    exists = current_ruler
+    is_monarchy = yes
+    opinion = { target = root value > -25 }
+    OR = {
+        AND = {
+            country_culture_group = hellenic
+            in_diplomatic_range = root
+        }
+        tag = PRY
+        tag = EGY
+        tag = TRE
+        tag = SEL
+        AND = {
+            tag = MAC
+            NOT = { 
+                root.current_ruler = { is_rival = c:MAC.current_ruler }
+            }
+        }
+    }
+    NOR = { 
+    	has_variable = me_epi_royal_wedding_rejected_flag
+    	has_variable = harbored_pyrrhos_flag
+    	tag = EPI
+    }
+}
+
+me_epi_royal_marriage_groom_trigger = {
+	is_alive = yes
+    is_female = no
+    prisoner = no
+    OR = {
+    	is_ruler = yes
+        is_child_of = employer.current_ruler
+        is_close_relative = employer.current_ruler
+    }
+    is_adult = yes
+    age <= 40
+    save_temporary_scope_as = me_epi_royal_wedding_groom_temp
+    trigger_if = {
+        limit = {
+            is_married = yes
+            spouse = {
+                is_ruler = no
+                employer = scope:me_epi_royal_wedding_groom_temp.employer
+            }
+        }
+    }
+}
+
+me_epirus_4_3_neoptolemus_eligible_trigger = {
+	char:118 = {
+		is_alive = yes
+		is_ruler = no
+		employer = root
+		prisoner = no
+	}
+}
+
+me_epirus_4_3_aeacid_pretender_trigger = {
+	NOT = { this = char:70 }
+	is_ruler = no
+	is_alive = yes
+	family = root.fam:Aiakidai
+	employer = root
+	prisoner = no
+	NOT = { has_character_modifier = foreign_citizen }
+	trigger_if = {
+		limit = {
+			employer = { 
+				OR = { 
+					has_law = agnatic_succession_law 
+					has_law = agnatic_seniority_succession_law 
+				}
+			}
+		}
+		is_female = no
+	}
+	NOT = { is_sibling_of = char:70 }
+}
+
+me_epirus_4_3_fallback_pretender_trigger = {
+	NOT = { this = char:70 }
+	is_ruler = no
+	is_alive = yes
+	NOT = { family = root.fam:Aiakidai }
+	employer = root
+	prisoner = no
+	NOT = { has_character_modifier = foreign_citizen }
+	trigger_if = {
+		limit = {
+			employer = { 
+				OR = { 
+					has_law = agnatic_succession_law 
+					has_law = agnatic_seniority_succession_law 
+				}
+			}
+		}
+		is_female = no
+	}
+}
+
+dhe_macedon_civil_war_aid_trigger = {
+	has_land = yes 
+	is_subject = no
+	NOT = { war_with = c:MAC }
+}
+
+epirus_2_magna_3_trigger = {
+	country_culture_group = latin
+	is_subject = no
+	capital_scope = {
+		OR = {
+			is_in_region = central_italy_region
+			is_in_region = magna_graecia_region 
+		}
+	}
+	num_of_cities >= 20
+	any_owned_province = { is_in_region = magna_graecia_region }
+	OR = {
+		trigger_if = {
+			limit = { war = yes }
+			any_countries_at_war_with = {
+				country_culture_group = hellenic
+				capital_scope = {
+					OR = {
+						is_in_region = central_italy_region
+						is_in_region = magna_graecia_region 
+					}
+				}
+				NOR = {
+					alliance_with = root
+					is_subject_of = root
+				}
+			}
+		}
+		OR = {
+			any_owned_province = { is_in_list = me_epi_2_3_list }
+			any_subject = {
+				any_owned_province = { is_in_list = me_epi_2_3_list }
+			}
+		}
+		
+	}
+}
+
+epirus_2_magna_3_1_allow_trigger = {
+	any_country = {
+		country_culture_group = latin
+		is_subject = no
+		capital_scope = {
+			OR = {
+				is_in_region = central_italy_region
+				is_in_region = magna_graecia_region 
+			}
+		}
+		num_of_cities >= 20
+		any_owned_province = { is_in_region = magna_graecia_region }
+		OR = {
+			any_owned_province = { is_in_list = me_epi_2_3_list }
+			any_subject = {
+				any_owned_province = { is_in_list = me_epi_2_3_list }
+			}
+		}
+	}
+}
+
+epirus_2_magna_3_2_allow_trigger = {
+	any_country = {
+		country_culture_group = latin
+		is_subject = no
+		capital_scope = {
+			OR = {
+				is_in_region = central_italy_region
+				is_in_region = magna_graecia_region 
+			}
+		}
+		num_of_cities >= 20
+		any_owned_province = { is_in_region = magna_graecia_region }
+		any_countries_at_war_with = {
+			country_culture_group = hellenic
+			capital_scope = {
+				OR = {
+					is_in_region = central_italy_region
+					is_in_region = magna_graecia_region 
+				}
+			}
+			NOR = {
+				alliance_with = root
+				is_subject_of = root
+			}
+		}
+	}
+}
+
+epirus_2_magna_5_trigger = {
+	country_culture_group = latin
+	is_subject = no
+	capital_scope = {
+		OR = {
+			is_in_region = central_italy_region
+			is_in_region = magna_graecia_region 
+		}
+	}
+	any_owned_province = { is_in_region = magna_graecia_region }
+	num_of_cities >= 20
+	NOT = { war_with = scope:me_epirus_scope }
+	save_temporary_scope_as = rom_temp_scope
+}
+
+me_epi_3_12_trigger = {
+	owns_or_subject_owns = 462
+	owns_or_subject_owns = 457
+	owns_or_subject_owns = 456
+	owns_or_subject_owns = 7803
+	owns_or_subject_owns = 463
+	owns_or_subject_owns = 459
+	owns_or_subject_owns = 461
+	trigger_if = {
+		limit = {
+			p:462 = {
+				has_owner = yes
+				owner = { is_subject_of = scope:me_epirus_scope }
+			}
+		}
+		p:462.owner = { country_culture_group = hellenic }
+	}
+	trigger_if = {
+		limit = {
+			p:457 = {
+				has_owner = yes
+				owner = { is_subject_of = scope:me_epirus_scope }
+			}
+		}
+		p:457.owner = { country_culture_group = hellenic }
+	}
+	trigger_if = {
+		limit = {
+			p:456 = {
+				has_owner = yes
+				owner = { is_subject_of = scope:me_epirus_scope }
+			}
+		}
+		p:456.owner = { country_culture_group = hellenic }
+	}
+	trigger_if = {
+		limit = {
+			p:7803 = {
+				has_owner = yes
+				owner = { is_subject_of = scope:me_epirus_scope }
+			}
+		}
+		p:7803.owner = { country_culture_group = hellenic }
+	}
+	trigger_if = {
+		limit = {
+			p:463 = {
+				has_owner = yes
+				owner = { is_subject_of = scope:me_epirus_scope }
+			}
+		}
+		p:462.owner = { country_culture_group = hellenic }
+	}
+	trigger_if = {
+		limit = {
+			p:459 = {
+				has_owner = yes
+				owner = { is_subject_of = scope:me_epirus_scope }
+			}
+		}
+		p:462.owner = { country_culture_group = hellenic }
+	}
+	trigger_if = {
+		limit = {
+			p:461 = {
+				has_owner = yes
+				owner = { is_subject_of = scope:me_epirus_scope }
+			}
+		}
+		p:462.owner = { country_culture_group = hellenic }
+	}
+}

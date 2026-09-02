@@ -174,7 +174,7 @@ desert_heritage = {
 jungle_heritage = {
 	modifier = {
 		hostile_attrition = 0.1
-		warelephant_maintenance_cost = -0.1
+		#warelephant_maintenance_cost = -0.1
 		navy_maintenance_cost = 0.1
 	}
 

@@ -5,6 +5,3 @@
 		count > 10
 	}
 }
-generic_block_trigger = {
-	
-}

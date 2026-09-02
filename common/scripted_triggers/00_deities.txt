@@ -1,0 +1,287 @@
+﻿### General Deity Checks ###
+very_common_deity_trigger = {
+	OR = {
+		religion = $RELIGION$
+		religion_pops_in_country = {
+			target = $RELIGION$
+			value >= very_common_deity_svalue
+		}
+	}
+}
+
+can_deify_trigger = {
+	root.current_ruler = {
+		popularity >= 90
+		custom_tooltip = {
+			text = prestige_deification_requirement
+			family = { prestige >= 800 }
+		}
+	}
+}
+
+common_deity_trigger = {
+	OR = {
+		religion = $RELIGION$
+		religion_pops_in_country = {
+			target = $RELIGION$
+			value >= common_deity_svalue
+		}
+	}
+}
+
+rare_deity_trigger = {
+	OR = {
+		religion = $RELIGION$
+		religion_pops_in_country = {
+			target = $RELIGION$
+			value >= rare_deity_svalue
+		}
+	}
+}
+
+very_rare_deity_trigger = {
+	OR = {
+		religion = $RELIGION$
+		religion_pops_in_country = {
+			target = $RELIGION$
+			value >= very_rare_deity_svalue
+		}
+	}
+}
+
+very_common_deity_culture_trigger = {
+	primary_culture = $CULTURE$
+	OR = {
+		religion = $RELIGION$
+		religion_pops_in_country = {
+			target = $RELIGION$
+			value >= very_common_deity_svalue
+		}
+	}
+}
+
+common_deity_culture_trigger = {
+	primary_culture = $CULTURE$
+	OR = {
+		religion = $RELIGION$
+		religion_pops_in_country = {
+			target = $RELIGION$
+			value >= common_deity_svalue
+		}
+	}
+}
+
+rare_deity_culture_trigger = {
+	primary_culture = $CULTURE$
+	OR = {
+		religion = $RELIGION$
+		religion_pops_in_country = {
+			target = $RELIGION$
+			value >= rare_deity_svalue
+		}
+	}
+}
+
+very_rare_deity_culture_trigger = {
+	primary_culture = $CULTURE$
+	OR = {
+		religion = $RELIGION$
+		religion_pops_in_country = {
+			target = $RELIGION$
+			value >= very_rare_deity_svalue
+		}
+	}
+}
+
+very_common_deity_culture_group_trigger = {
+	country_culture_group = $CULTURE_GROUP$
+	OR = {
+		religion = $RELIGION$
+		religion_pops_in_country = {
+			target = $RELIGION$
+			value >= very_common_deity_svalue
+		}
+	}
+}
+
+common_deity_culture_group_trigger = {
+	country_culture_group = $CULTURE_GROUP$
+	OR = {
+		religion = $RELIGION$
+		religion_pops_in_country = {
+			target = $RELIGION$
+			value >= common_deity_svalue
+		}
+	}
+}
+
+rare_deity_culture_group_trigger = {
+	country_culture_group = $CULTURE_GROUP$
+	OR = {
+		religion = $RELIGION$
+		religion_pops_in_country = {
+			target = $RELIGION$
+			value >= rare_deity_svalue
+		}
+	}
+}
+
+very_rare_deity_culture_group_trigger = {
+	country_culture_group = $CULTURE_GROUP$
+	OR = {
+		religion = $RELIGION$
+		religion_pops_in_country = {
+			target = $RELIGION$
+			value >= very_rare_deity_svalue
+		}
+	}
+}
+
+very_common_deity_culture_region_trigger = {
+	OR = {
+		religion = $RELIGION$
+		religion_pops_in_country = {
+			target = $RELIGION$
+			value >= very_common_deity_svalue
+		}
+	}
+	OR = {
+		primary_culture = $CULTURE$
+		any_owned_province = {
+			is_in_region = $REGION$
+		}
+	}
+}
+
+common_deity_culture_region_trigger = {
+	OR = {
+		religion = $RELIGION$
+		religion_pops_in_country = {
+			target = $RELIGION$
+			value >= common_deity_svalue
+		}
+	}
+	OR = {
+		primary_culture = $CULTURE$
+		any_owned_province = {
+			is_in_region = $REGION$
+		}
+	}
+}
+
+rare_deity_culture_region_trigger = {
+	OR = {
+		religion = $RELIGION$
+		religion_pops_in_country = {
+			target = $RELIGION$
+			value >= rare_deity_svalue
+		}
+	}
+	OR = {
+		primary_culture = $CULTURE$
+		any_owned_province = {
+			is_in_region = $REGION$
+		}
+	}
+}
+
+very_rare_deity_culture_region_trigger = {
+	OR = {
+		religion = $RELIGION$
+		religion_pops_in_country = {
+			target = $RELIGION$
+			value >= very_rare_deity_svalue
+		}
+	}
+	OR = {
+		primary_culture = $CULTURE$
+		any_owned_province = {
+			is_in_region = $REGION$
+		}
+	}
+}
+
+very_common_deity_culture_group_region_trigger = {
+	OR = {
+		religion = $RELIGION$
+		religion_pops_in_country = {
+			target = $RELIGION$
+			value >= very_common_deity_svalue
+		}
+	}
+	OR = {
+		country_culture_group = $CULTURE_GROUP$
+		any_owned_province = {
+			is_in_region = $REGION$
+		}
+	}
+}
+
+common_deity_culture_group_region_trigger = {
+	OR = {
+		religion = $RELIGION$
+		religion_pops_in_country = {
+			target = $RELIGION$
+			value >= common_deity_svalue
+		}
+	}
+	OR = {
+		country_culture_group = $CULTURE_GROUP$
+		any_owned_province = {
+			is_in_region = $REGION$
+		}
+	}
+}
+
+rare_deity_culture_group_region_trigger = {
+	OR = {
+		religion = $RELIGION$
+		religion_pops_in_country = {
+			target = $RELIGION$
+			value >= rare_deity_svalue
+		}
+	}
+	OR = {
+		country_culture_group = $CULTURE_GROUP$
+		any_owned_province = {
+			is_in_region = $REGION$
+		}
+	}
+}
+
+very_rare_deity_culture_group_region_trigger = {
+	OR = {
+		religion = $RELIGION$
+		religion_pops_in_country = {
+			target = $RELIGION$
+			value >= very_rare_deity_svalue
+		}
+	}
+	OR = {
+		country_culture_group = $CULTURE_GROUP$
+		any_owned_province = {
+			is_in_region = $REGION$
+		}
+	}
+}
+
+tag_deity_trigger = {
+	tag = $TAG$
+	OR = {
+		religion = $RELIGION$
+		religion_pops_in_country = {
+			target = $RELIGION$
+			value >= common_deity_svalue
+		}
+	}
+}
+
+### Exclusive Deity Checks ###
+
+### Other Triggers ###
+holy_site_deity_check_trigger = {
+	has_holy_site = yes
+	holy_site = {
+		owner = root
+	}
+}

@@ -1,0 +1,135 @@
+﻿###Medical and disease
+
+has_any_illness_trigger = {
+	OR = {
+		has_trait = stressed
+		has_trait = schizophrenic
+		has_trait = invalid
+		has_trait = epileptic
+		
+		has_trait = hemorrhagic_fever
+		has_trait = plague
+		
+		has_trait = mentagra
+		has_trait = arthritis
+		has_trait = dysentery
+		
+		has_trait = infection
+		has_trait = inflammation
+		has_trait = wounded
+		
+		has_trait = pneumonia
+		has_trait = gangrene
+		has_trait = leper
+		has_trait = pox
+		
+		has_trait = barren
+		has_trait = castrated
+		has_trait = blind
+		has_trait = maimed
+		has_trait = one_eyed
+		has_trait = frail
+		has_trait = brain_damaged
+	}
+}
+
+recoverable_ailments_trigger = {
+	OR = {
+		has_trait = hemorrhagic_fever
+		has_trait = plague
+		has_trait = pneumonia
+		has_trait = dysentery
+		has_trait = gangrene
+		has_trait = leper
+		has_trait = infection
+		has_trait = inflammation
+		has_trait = wounded
+		has_trait = pox
+		has_trait = arthritis
+		has_trait = mentagra
+	}
+}
+
+has_any_inherited_illness_trigger = {
+	OR = {
+		has_trait = stressed
+		has_trait = schizophrenic
+		has_trait = invalid
+		has_trait = epileptic
+	}
+}
+
+has_any_plague_trigger = {
+	OR = {
+		has_trait = hemorrhagic_fever
+		has_trait = plague
+	}
+}
+
+has_any_infection = {
+	OR = {
+		has_trait = infection
+		has_trait = inflammation
+		has_trait = wounded
+	}
+}
+
+has_any_minor_ailment_trigger = {
+	OR = {
+		has_trait = mentagra
+		has_trait = arthritis
+		has_trait = dysentery # Yeah I know.
+	}
+}
+
+has_any_fatal_ailment = {
+	OR = {
+		has_trait = pneumonia
+		has_trait = gangrene
+		has_trait = leper
+		has_trait = pox
+	}
+}
+
+has_any_ailment_result_trigger = {
+	OR = {
+		has_trait = barren
+		has_trait = castrated
+		has_trait = blind
+		has_trait = maimed
+		has_trait = one_eyed
+		has_trait = frail
+	}
+}
+
+has_any_tier_1_2_3_illness_trigger = {
+	OR = {
+		has_trait = stressed
+		has_trait = schizophrenic
+		has_trait = invalid
+		has_trait = epileptic
+		
+		has_trait = hemorrhagic_fever
+		has_trait = plague
+		
+		has_trait = mentagra
+		has_trait = arthritis
+		has_trait = dysentery
+		
+		has_trait = infection
+		has_trait = inflammation
+		has_trait = wounded
+		
+		has_trait = pneumonia
+		has_trait = gangrene
+		has_trait = leper
+		has_trait = pox
+	}
+}
+
+is_important_person_medical = {
+	OR = {
+		is_ruler = yes
+		is_primary_heir = yes
+	}
+}

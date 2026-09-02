@@ -1,7 +1,7 @@
 ﻿frontieran = {
 	color = rgb { 255 184 43 } 
 
-	levy_template = levy_maya
+	levy_template = levy_thracians
 	
 	primary = light_infantry
 	second = heavy_cavalry

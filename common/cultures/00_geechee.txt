@@ -1,7 +1,7 @@
 ﻿geechee = {
 	color = rgb { 153 102 153 }
 
-	levy_template = levy_maya
+	levy_template = levy_thracians
 	
 	primary = light_infantry
 	second = heavy_cavalry

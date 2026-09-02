@@ -1,0 +1,11 @@
+﻿generic_party_pulse_triggers = {
+	exists = party_country
+	party_country = {
+		exists = current_ruler
+		current_ruler = { party_type = $PARTY$ }
+		NOT = { has_variable = $COOLDOWN$ }
+		has_senate_approval >= 0.5
+		has_civil_war = no #Senate will stay quiet in a crisis like this
+		is_tutorial_active = no
+	}
+}

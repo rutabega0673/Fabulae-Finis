@@ -629,7 +629,7 @@
 
 4880={ #Sunnyside
 	terrain="hills"
-	culture=""
+	culture="valleyan"
 	religion="caesarist"
 	trade_goods="stone"
 	civilization_value=10

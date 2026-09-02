@@ -100,7 +100,7 @@
 	nobles={
 		amount=5
 	}
-	citizen = {
+	citizen={
 		amount=7
 	}
 	freemen={

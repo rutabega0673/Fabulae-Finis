@@ -139,9 +139,9 @@
 	}
 
 	north_african_army_path_5 = { ###North Aftica 3AA
-		modifier = { 
-			warelephant_maintenance_cost = -0.15
-		}
+		#modifier = { 
+		#	#warelephant_maintenance_cost = -0.15
+		#}
 		icon = north_african_army_path_5
 		requires = {north_african_army_path_7}
 	}

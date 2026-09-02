@@ -3,98 +3,6 @@ character_bg = {
 	type = character
 
 	text = {
-		localization_key = background_ruler_monarchy_wartent_antigonids
-		trigger = {
-			is_general = yes
-			is_ruler = yes
-			employer = c:PRY
-		}
-	}
-	text = {
-		localization_key = background_monarchy_wartent_antigonids
-		trigger = {
-			is_general = yes
-			is_ruler = no
-			employer = c:PRY
-		}
-	}
-	text = {
-		localization_key = background_ruler_republic_wartent_roman
-		trigger = {
-			is_general = yes
-			employer = c:PRI
-		}
-	}
-	text = {
-		localization_key = background_ruler_monarchy_wartent_egypt
-		trigger = {
-			is_general = yes
-			is_ruler = yes
-			employer = c:EGY
-		}
-	}
-	text = {
-		localization_key = background_monarchy_wartent_egypt
-		trigger = {
-			is_general = yes
-			is_ruler = no
-			employer = c:EGY
-		}
-	}
-	text = {
-		localization_key = background_ruler_monarchy_wartent_macedon
-		trigger = {
-			is_general = yes
-			employer = c:MAC
-		}
-	}
-	text = {
-		localization_key = background_ruler_monarchy_wartent_thrace
-		trigger = {
-			is_general = yes
-			is_ruler = yes
-			employer = c:TRE
-		}
-	}
-	text = {
-		localization_key = background_monarchy_wartent_thrace
-		trigger = {
-			is_general = yes
-			is_ruler = no
-			employer = c:TRE
-		}
-	}
-	text = {
-		localization_key = background_ruler_monarchy_wartent_seleucid
-		trigger = {
-			is_general = yes
-			employer = c:SEL
-		}
-	}
-	text = {
-		localization_key = background_ruler_monarchy_wartent_maurya
-		trigger = {
-			is_general = yes
-			employer = c:MRY
-		}
-	}
-	text = {
-		localization_key = background_ruler_republic_wartent_carthage
-		trigger = {
-			is_general = yes
-			is_ruler = yes
-			employer = c:CAR
-		}
-	}
-	text = {
-		localization_key = background_republic_wartent_carthage
-		trigger = {
-			is_general = yes
-			is_ruler = no
-			employer = c:CAR
-		}
-	}
-	text = {
 		localization_key = background_ruler_monarchy_wartent_generic
 		trigger = {
 			is_general = yes
@@ -119,31 +27,6 @@ character_bg = {
 			employer = {
 				is_republic = yes
 			}
-		}
-	}
-	text = {
-		localization_key = background_ruler_republic_rome
-		trigger = {
-			OR = {
-				has_any_office = yes
-				has_tech_office = yes
-				is_ruler = yes
-			}
-			employer = c:ROM
-			is_general = no
-			is_admiral = no
-		}
-	}
-	text = {
-		localization_key = background_ruler_monarchy_parthia
-		trigger = {
-			OR = {
-				is_ruler = yes
-				is_co_ruler = yes
-			}
-			employer = c:PAR
-			is_general = no
-			is_admiral = no
 		}
 	}
 

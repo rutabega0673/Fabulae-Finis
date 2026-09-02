@@ -1,7 +1,7 @@
 ﻿nordic = {
 	color = rgb { 15 42 77 }
 
-	levy_template = levy_thracian
+	levy_template = levy_thracians
 	
 	primary = light_infantry
 	second = heavy_cavalry

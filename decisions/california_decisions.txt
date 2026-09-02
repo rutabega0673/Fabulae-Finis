@@ -9,9 +9,9 @@
 			treasury >= 200
 		}
 		effect = {
-			hidden_effect = {
-				trigger_event = { id = california_event.1 }
-			}
+			#hidden_effect = {
+			#	trigger_event = { id = california_event.1 }
+			#}
 		}
 	}
 }

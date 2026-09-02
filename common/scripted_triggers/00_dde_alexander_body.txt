@@ -1,0 +1,85 @@
+﻿is_valid_body_repository_trigger = {
+	OR = {
+		AND = {
+			province_id = 2075 #YORKSHIRE
+			NOT = {
+				has_variable = alexander_body_location
+			}
+		}
+		AND = {
+			province_id = 6030 #STOCKHOLM
+			NOT = {
+				has_variable = alexander_body_location
+			}
+		}
+		AND = { 
+			province_id = 3 #Lavinium
+			NOT = {
+				has_variable = alexander_body_location
+			}
+			owner = {
+				tag = ROM
+			}
+		}
+		AND = {
+			province_id = 516 #Alexandria
+			NOT = {
+				has_variable = alexander_body_location
+			}
+		}
+		AND = {
+			province_id = 428 #Methone/Aegae
+			NOT = {
+				has_variable = alexander_body_location
+			}
+		}
+		AND = {
+			province_id = 918 #Babylon
+			NOT = {
+				has_variable = alexander_body_location
+			}
+		}
+		AND = {
+			province_id = 6697 #Kafir
+			NOT = {
+				has_variable = alexander_body_location
+			}
+		}
+		AND = {
+			province_id = 790 #Antigonia
+			NOT = {
+				has_variable = alexander_body_location
+			}
+		}
+		AND = {
+			province_id = 350 #Lysimacheia
+			NOT = {
+				has_variable = alexander_body_location
+			}
+		}
+		AND = {
+			province_id = 946 #Shushan
+			NOT = {
+				has_variable = alexander_body_location
+			}
+		}
+		AND = {
+			province_id = 862 #Niniveh
+			NOT = {
+				has_variable = alexander_body_location
+			}
+		}
+		AND = {
+			province_id = 416 #Athens
+			NOT = {
+				has_variable = alexander_body_location
+			}
+		}
+		AND = {
+			province_id = 266 #Rhodos
+			NOT = {
+				has_variable = alexander_body_location
+			}
+		}
+	}
+}
