@@ -16,5 +16,6 @@
 	promethean_orange = rgb { 188 88 18 }
 	cahokian_orange = rgb { 159 114 0 }
 	ozarks_green = rgb { 71 179 76 }
+	hcc_blue = rgb { 0 50 59 }
 }
 
