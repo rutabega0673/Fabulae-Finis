@@ -1,6 +1,6 @@
 ﻿410={ #De Le N
 	terrain="hills"
-	culture="socaleno"
+	culture="fronterizo"
 	religion="navegante"
 	trade_goods="horses"
 	civilization_value=10
@@ -13,7 +13,7 @@
 
 412={ #Tijuana
 	terrain="hills"
-	culture="socaleno"
+	culture="fronterizo"
 	religion="navegante"
 	trade_goods="dye"
 	civilization_value=10
@@ -26,7 +26,7 @@
 
 413={ #Francisco Zarco
 	terrain="hills"
-	culture="socaleno"
+	culture="fronterizo"
 	religion="navegante"
 	trade_goods="dye"
 	civilization_value=10

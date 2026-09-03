@@ -40,7 +40,7 @@
 1356={ #Wilbur Springs
 	terrain="hills"
 	culture="valleyan"
-	religion="la_hermandad"
+	religion="caesarist"
 	trade_goods="wood"
 	civilization_value=10
 	barbarian_power=0
@@ -53,7 +53,7 @@
 1357={ #Dunnigan
 	terrain="flood_plain"
 	culture="valleyan"
-	religion="la_hermandad"
+	religion="caesarist"
 	trade_goods="cloth"
 	civilization_value=10
 	barbarian_power=0
@@ -66,7 +66,7 @@
 1358={ #Colusa
 	terrain="flood_plain"
 	culture="valleyan"
-	religion="la_hermandad"
+	religion="caesarist"
 	trade_goods="cloth"
 	civilization_value=10
 	barbarian_power=0
@@ -79,7 +79,7 @@
 1359={ #Arbuckle
 	terrain="flood_plain"
 	culture="valleyan"
-	religion="la_hermandad"
+	religion="caesarist"
 	trade_goods="wine"
 	civilization_value=10
 	barbarian_power=0
@@ -92,7 +92,7 @@
 1588={ #Davis
 	terrain="plains"
 	culture="valleyan"
-	religion="la_hermandad"
+	religion="caesarist"
 	trade_goods="wine"
 	civilization_value=10
 	barbarian_power=0
@@ -105,7 +105,7 @@
 1589={ #Woodland
 	terrain="flood_plain"
 	culture="valleyan"
-	religion="la_hermandad"
+	religion="caesarist"
 	trade_goods="cattle"
 	civilization_value=10
 	barbarian_power=0
@@ -118,7 +118,7 @@
 1590={ #Cottonwood
 	terrain="hills"
 	culture="valleyan"
-	religion="la_hermandad"
+	religion="caesarist"
 	trade_goods="grain"
 	civilization_value=10
 	barbarian_power=0
@@ -131,7 +131,7 @@
 1617={ #Willows
 	terrain="flood_plain"
 	culture="valleyan"
-	religion="la_hermandad"
+	religion="caesarist"
 	trade_goods="bodark"
 	civilization_value=10
 	barbarian_power=0
@@ -144,7 +144,7 @@
 1618={ #Orland
 	terrain="flood_plain"
 	culture="valleyan"
-	religion="caesarist"
+	religion="colossalist"
 	trade_goods="fish"
 	civilization_value=10
 	barbarian_power=0
@@ -157,7 +157,7 @@
 1619={ #Lodoga
 	terrain="hills"
 	culture="valleyan"
-	religion="la_hermandad"
+	religion="caesarist"
 	trade_goods="cedar"
 	civilization_value=10
 	barbarian_power=0
@@ -877,7 +877,7 @@
 6040={ #Corning
 	terrain="hills"
 	culture="valleyan"
-	religion="caesarist"
+	religion="colossalist"
 	trade_goods="grain"
 	civilization_value=10
 	barbarian_power=0
@@ -890,7 +890,7 @@
 6041={ #Westend Galatin Place
 	terrain="forest"
 	culture="valleyan"
-	religion="caesarist"
+	religion="colossalist"
 	trade_goods="cedar"
 	civilization_value=10
 	barbarian_power=0
@@ -903,7 +903,7 @@
 6042={ #Red Bluff
 	terrain="hills"
 	culture="valleyan"
-	religion="caesarist"
+	religion="colossalist"
 	trade_goods="cloth"
 	civilization_value=10
 	barbarian_power=0
@@ -916,7 +916,7 @@
 6043={ #Paskenta
 	terrain="hills"
 	culture="valleyan"
-	religion="caesarist"
+	religion="colossalist"
 	trade_goods="cedar"
 	civilization_value=10
 	barbarian_power=0
@@ -1098,7 +1098,7 @@
 7803={ #Paynes Creek
 	terrain="hills"
 	culture="valleyan"
-	religion="caesarist"
+	religion="colossalist"
 	trade_goods="leather"
 	civilization_value=10
 	barbarian_power=0
@@ -1111,7 +1111,7 @@
 7804={ #Chico
 	terrain="hills"
 	culture="valleyan"
-	religion="caesarist"
+	religion="colossalist"
 	trade_goods="grain"
 	civilization_value=10
 	barbarian_power=0
@@ -1137,7 +1137,7 @@
 7806={ #Vina
 	terrain="hills"
 	culture="valleyan"
-	religion="caesarist"
+	religion="colossalist"
 	trade_goods="leather"
 	civilization_value=10
 	barbarian_power=0
@@ -1150,7 +1150,7 @@
 8301={ #Dixon
 	terrain="plains"
 	culture="valleyan"
-	religion="la_hermandad"
+	religion="caesarist"
 	trade_goods="earthware"
 	civilization_value=10
 	barbarian_power=0
