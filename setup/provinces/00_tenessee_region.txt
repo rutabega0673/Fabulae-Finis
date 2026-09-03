@@ -182,7 +182,7 @@
 
 1732={ #La Follette
 	terrain="mountain"
-	culture="riverlander"
+	culture="appalachian"
 	religion="omenteller"
 	trade_goods="gems"
 	civilization_value=10
@@ -195,7 +195,7 @@
 
 1850={ #Jasper
 	terrain="mountain"
-	culture="riverlander"
+	culture="appalachian"
 	religion="revelationist"
 	trade_goods="vegetables"
 	civilization_value=10
@@ -208,7 +208,7 @@
 
 1851={ #Chattanooga
 	terrain="mountain"
-	culture="riverlander"
+	culture="appalachian"
 	religion="revelationist"
 	trade_goods="stone"
 	civilization_value=10
@@ -221,7 +221,7 @@
 
 1852={ #Crossville
 	terrain="mountain"
-	culture="riverlander"
+	culture="appalachian"
 	religion="revelationist"
 	trade_goods="bodark"
 	civilization_value=10
@@ -260,7 +260,7 @@
 
 2074={ #Knoxville
 	terrain="mountain"
-	culture="riverlander"
+	culture="appalachian"
 	religion="omenteller"
 	trade_goods="clay"
 	civilization_value=10
@@ -299,7 +299,7 @@
 
 3251={ #Centerville
 	terrain="plains"
-	culture="riverlander"
+	culture="appalachian"
 	religion="revelationist"
 	trade_goods="horses"
 	civilization_value=10
@@ -325,7 +325,7 @@
 
 5329={ #Meridianville
 	terrain="hills"
-	culture="riverlander"
+	culture="appalachian"
 	religion="revelationist"
 	trade_goods="horses"
 	civilization_value=10
@@ -338,7 +338,7 @@
 
 5330={ #Florence
 	terrain="forest"
-	culture="riverlander"
+	culture="appalachian"
 	religion="revelationist"
 	trade_goods="clay"
 	civilization_value=10
@@ -351,7 +351,7 @@
 
 5331={ #Huntsville
 	terrain="farmland"
-	culture="riverlander"
+	culture="appalachian"
 	religion="revelationist"
 	trade_goods="vegetables"
 	civilization_value=10
@@ -364,7 +364,7 @@
 
 5332={ #Scottsboro
 	terrain="hills"
-	culture="riverlander"
+	culture="appalachian"
 	religion="revelationist"
 	trade_goods="hemp"
 	civilization_value=10
@@ -377,7 +377,7 @@
 
 5667={ #Hohenwald
 	terrain="hills"
-	culture="riverlander"
+	culture="appalachian"
 	religion="revelationist"
 	trade_goods="vegetables"
 	civilization_value=10
@@ -390,7 +390,7 @@
 
 5668={ #Savannah
 	terrain="hills"
-	culture="riverlander"
+	culture="appalachian"
 	religion="revelationist"
 	trade_goods="bodark"
 	civilization_value=10
@@ -403,7 +403,7 @@
 
 5669={ #Lawrenceburg
 	terrain="hills"
-	culture="riverlander"
+	culture="appalachian"
 	religion="revelationist"
 	trade_goods="hemp"
 	civilization_value=10
@@ -429,7 +429,7 @@
 
 5886={ #Mcminnville
 	terrain="hills"
-	culture="riverlander"
+	culture="appalachian"
 	religion="revelationist"
 	trade_goods="stone"
 	civilization_value=10
@@ -507,7 +507,7 @@
 
 7027={ #Columbia
 	terrain="plains"
-	culture="riverlander"
+	culture="appalachian"
 	religion="revelationist"
 	trade_goods="wood"
 	civilization_value=10
@@ -520,7 +520,7 @@
 
 7028={ #Pulaski
 	terrain="hills"
-	culture="riverlander"
+	culture="appalachian"
 	religion="revelationist"
 	trade_goods="stone"
 	civilization_value=10
@@ -533,7 +533,7 @@
 
 7029={ #Winchester
 	terrain="hills"
-	culture="riverlander"
+	culture="appalachian"
 	religion="revelationist"
 	trade_goods="gems"
 	civilization_value=10
@@ -546,7 +546,7 @@
 
 7030={ #Shelbyville
 	terrain="plains"
-	culture="riverlander"
+	culture="appalachian"
 	religion="revelationist"
 	trade_goods="vegetables"
 	civilization_value=10

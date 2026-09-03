@@ -50,7 +50,46 @@
 	}
 }
 
+749={ #De Allende
+	terrain="plains"
+	culture="shiwawita"
+	religion="mayan_pantheon"
+	trade_goods="grain"
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+750={ #El Tule
+	terrain="plains"
+	culture="shiwawita"
+	religion="mayan_pantheon"
+	trade_goods="grain"
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
 751={ #De Zaragoza
+	terrain="plains"
+	culture="shiwawita"
+	religion="mayan_pantheon"
+	trade_goods="grain"
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+752={ #Parral
 	terrain="plains"
 	culture="shiwawita"
 	religion="mayan_pantheon"
@@ -687,11 +726,37 @@
 	}
 }
 
+6095={ #Santa Mar A Del Oro
+	terrain="plains"
+	culture="shiwawita"
+	religion="mayan_pantheon"
+	trade_goods="hallucinogenics"
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
 6096={ #La Zarca
 	terrain="plains"
 	culture="shiwawita"
 	religion="cristero"
 	trade_goods="cacti"
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+6097={ #Ocampo
+	terrain="plains"
+	culture="shiwawita"
+	religion="mayan_pantheon"
+	trade_goods="grain"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -818,6 +883,32 @@
 }
 
 6661={ #Guachochi
+	terrain="plains"
+	culture="shiwawita"
+	religion="mayan_pantheon"
+	trade_goods="grain"
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+6675={ #Jos Mariano Jim Nez
+	terrain="plains"
+	culture="shiwawita"
+	religion="mayan_pantheon"
+	trade_goods="cacti"
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+6676={ #Las Glorias
 	terrain="plains"
 	culture="shiwawita"
 	religion="mayan_pantheon"
@@ -1028,6 +1119,45 @@
 8666={ #Santa Teresa
 	terrain="plains"
 	culture="sierreno"
+	religion="cristero"
+	trade_goods="grain"
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+9165={ #Mapim
+	terrain="plains"
+	culture="shiwawita"
+	religion="cristero"
+	trade_goods="grain"
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+9166={ #Ceballos
+	terrain="plains"
+	culture="shiwawita"
+	religion="cristero"
+	trade_goods="grain"
+	civilization_value=10
+	barbarian_power=0
+	province_rank="settlement"
+	tribesmen={
+		amount=1
+	}
+}
+
+9167={ #Tlahualilo De Zaragoza
+	terrain="plains"
+	culture="shiwawita"
 	religion="cristero"
 	trade_goods="grain"
 	civilization_value=10

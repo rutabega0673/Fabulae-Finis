@@ -13,7 +13,7 @@
 
 584={ #Greenville
 	terrain="forest"
-	culture="tuskegean"
+	culture="dixie"
 	religion="revelationist"
 	trade_goods="horses"
 	civilization_value=10
@@ -39,7 +39,7 @@
 
 819={ #Gordo
 	terrain="forest"
-	culture="tuskegean"
+	culture="dixie"
 	religion="revelationist"
 	trade_goods="wood"
 	civilization_value=10
@@ -65,7 +65,7 @@
 
 821={ #Jasper
 	terrain="forest"
-	culture="tuskegean"
+	culture="dixie"
 	religion="revelationist"
 	trade_goods="cattle"
 	civilization_value=10
@@ -78,7 +78,7 @@
 
 1549={ #Hoover
 	terrain="plains"
-	culture="tuskegean"
+	culture="dixie"
 	religion="revelationist"
 	trade_goods="bodark"
 	civilization_value=10
@@ -91,7 +91,7 @@
 
 1550={ #Birmingham
 	terrain="hills"
-	culture="tuskegean"
+	culture="dixie"
 	religion="revelationist"
 	trade_goods="iron"
 	civilization_value=38
@@ -114,7 +114,7 @@
 
 1551={ #Alabaster
 	terrain="plains"
-	culture="tuskegean"
+	culture="dixie"
 	religion="revelationist"
 	trade_goods="cattle"
 	civilization_value=10
@@ -153,7 +153,7 @@
 
 2719={ #Luverne
 	terrain="plains"
-	culture="tuskegean"
+	culture="dixie"
 	religion="revelationist"
 	trade_goods="wood"
 	civilization_value=10
@@ -166,7 +166,7 @@
 
 4495={ #Thomasville
 	terrain="forest"
-	culture="dixie"
+	culture="tuskegean"
 	religion="revelationist"
 	trade_goods="wood"
 	civilization_value=10
@@ -179,7 +179,7 @@
 
 4496={ #Demopolis
 	terrain="forest"
-	culture="dixie"
+	culture="tuskegean"
 	religion="revelationist"
 	trade_goods="wood"
 	civilization_value=10
@@ -192,7 +192,7 @@
 
 4497={ #Grove Hill
 	terrain="forest"
-	culture="dixie"
+	culture="tuskegean"
 	religion="revelationist"
 	trade_goods="wood"
 	civilization_value=10
@@ -205,7 +205,7 @@
 
 4642={ #Decatur
 	terrain="forest"
-	culture="tuskegean"
+	culture="dixie"
 	religion="revelationist"
 	trade_goods="wood"
 	civilization_value=10
@@ -218,7 +218,7 @@
 
 4643={ #Muscle Shoals
 	terrain="forest"
-	culture="tuskegean"
+	culture="dixie"
 	religion="revelationist"
 	trade_goods="cotton"
 	civilization_value=10
@@ -231,7 +231,7 @@
 
 4644={ #Haleyville
 	terrain="forest"
-	culture="tuskegean"
+	culture="dixie"
 	religion="revelationist"
 	trade_goods="wood"
 	civilization_value=10
@@ -244,7 +244,7 @@
 
 4715={ #Tuskegee
 	terrain="forest"
-	culture="dixie"
+	culture="tuskegean"
 	religion="revelationist"
 	trade_goods="wood"
 	civilization_value=10
@@ -257,7 +257,7 @@
 
 4716={ #Opelika
 	terrain="forest"
-	culture="dixie"
+	culture="tuskegean"
 	religion="revelationist"
 	trade_goods="beans"
 	civilization_value=10
@@ -283,7 +283,7 @@
 
 4953={ #Mobile
 	terrain="flood_plain"
-	culture="dixie"
+	culture="gulfard"
 	religion="springsearcher"
 	trade_goods="salt"
 	civilization_value=10
@@ -296,7 +296,7 @@
 
 4954={ #Bay Minette
 	terrain="forest"
-	culture="dixie"
+	culture="gulfard"
 	religion="springsearcher"
 	trade_goods="fish"
 	civilization_value=10
@@ -348,7 +348,7 @@
 
 5004={ #Talladega
 	terrain="farmland"
-	culture="tuskegean"
+	culture="dixie"
 	religion="revelationist"
 	trade_goods="cattle"
 	civilization_value=10
@@ -439,7 +439,7 @@
 
 6462={ #Oneonta
 	terrain="forest"
-	culture="tuskegean"
+	culture="dixie"
 	religion="revelationist"
 	trade_goods="maize"
 	civilization_value=10
@@ -452,7 +452,7 @@
 
 6463={ #Gadsden
 	terrain="hills"
-	culture="tuskegean"
+	culture="dixie"
 	religion="revelationist"
 	trade_goods="maize"
 	civilization_value=10
@@ -465,7 +465,7 @@
 
 6464={ #Guntersville
 	terrain="forest"
-	culture="tuskegean"
+	culture="dixie"
 	religion="revelationist"
 	trade_goods="cattle"
 	civilization_value=10
@@ -478,7 +478,7 @@
 
 6724={ #Fort Deposit
 	terrain="plains"
-	culture="tuskegean"
+	culture="dixie"
 	religion="revelationist"
 	trade_goods="grain"
 	civilization_value=10
@@ -491,7 +491,7 @@
 
 6725={ #Selmont West Selmont
 	terrain="forest"
-	culture="tuskegean"
+	culture="dixie"
 	religion="revelationist"
 	trade_goods="tubers"
 	civilization_value=10
@@ -504,7 +504,7 @@
 
 6726={ #Prattville
 	terrain="forest"
-	culture="tuskegean"
+	culture="dixie"
 	religion="revelationist"
 	trade_goods="cloth"
 	civilization_value=10
@@ -530,7 +530,7 @@
 
 7385={ #Rome
 	terrain="hills"
-	culture="tuskegean"
+	culture="dixie"
 	religion="revelationist"
 	trade_goods="stone"
 	civilization_value=10
@@ -543,7 +543,7 @@
 
 7386={ #Heflin
 	terrain="hills"
-	culture="tuskegean"
+	culture="dixie"
 	religion="revelationist"
 	trade_goods="fruits"
 	civilization_value=10
@@ -556,7 +556,7 @@
 
 7387={ #Anniston
 	terrain="hills"
-	culture="tuskegean"
+	culture="dixie"
 	religion="revelationist"
 	trade_goods="wood"
 	civilization_value=10
@@ -569,7 +569,7 @@
 
 7388={ #Lineville
 	terrain="forest"
-	culture="tuskegean"
+	culture="dixie"
 	religion="revelationist"
 	trade_goods="horses"
 	civilization_value=10
@@ -660,7 +660,7 @@
 
 7950={ #Clanton
 	terrain="forest"
-	culture="tuskegean"
+	culture="dixie"
 	religion="revelationist"
 	trade_goods="cotton"
 	civilization_value=10
@@ -673,7 +673,7 @@
 
 7951={ #Tuscaloosa
 	terrain="farmland"
-	culture="tuskegean"
+	culture="dixie"
 	religion="revelationist"
 	trade_goods="cattle"
 	civilization_value=10
@@ -686,7 +686,7 @@
 
 7952={ #Marion
 	terrain="forest"
-	culture="tuskegean"
+	culture="dixie"
 	religion="revelationist"
 	trade_goods="bodark"
 	civilization_value=10
@@ -699,7 +699,7 @@
 
 8348={ #Y
 	terrain="forest"
-	culture="dixie"
+	culture="tuskegean"
 	religion="revelationist"
 	trade_goods="grain"
 	civilization_value=10
@@ -712,7 +712,7 @@
 
 8365={ #Jackson
 	terrain="forest"
-	culture="dixie"
+	culture="tuskegean"
 	religion="revelationist"
 	trade_goods="cattle"
 	civilization_value=10
@@ -725,7 +725,7 @@
 
 8935={ #Columbus
 	terrain="plains"
-	culture="dixie"
+	culture="tuskegean"
 	religion="revelationist"
 	trade_goods="clay"
 	civilization_value=10
@@ -738,7 +738,7 @@
 
 8936={ #Eufaula
 	terrain="forest"
-	culture="dixie"
+	culture="tuskegean"
 	religion="revelationist"
 	trade_goods="beans"
 	civilization_value=10
@@ -751,7 +751,7 @@
 
 11627={ #Trussville
 	terrain="plains"
-	culture="tuskegean"
+	culture="dixie"
 	religion="revelationist"
 	trade_goods="wood"
 	civilization_value=10
@@ -764,7 +764,7 @@
 
 11628={ #Cullman
 	terrain="forest"
-	culture="tuskegean"
+	culture="dixie"
 	religion="revelationist"
 	trade_goods="maize"
 	civilization_value=10
@@ -777,7 +777,7 @@
 
 11629={ #Auburn
 	terrain="forest"
-	culture="dixie"
+	culture="tuskegean"
 	religion="revelationist"
 	trade_goods="wood"
 	civilization_value=10
@@ -790,7 +790,7 @@
 
 11630={ #Enterprise
 	terrain="hills"
-	culture="tuskegean"
+	culture="dixie"
 	religion="revelationist"
 	trade_goods="tubers"
 	civilization_value=10

@@ -210,7 +210,7 @@
 
 1614={ #Butler
 	terrain="forest"
-	culture="dixie"
+	culture="tuskegean"
 	religion="revelationist"
 	trade_goods="cattle"
 	civilization_value=10
@@ -223,7 +223,7 @@
 
 1615={ #Quitman
 	terrain="forest"
-	culture="dixie"
+	culture="tuskegean"
 	religion="revelationist"
 	trade_goods="leather"
 	civilization_value=10
@@ -236,7 +236,7 @@
 
 1616={ #Waynesboro
 	terrain="forest"
-	culture="dixie"
+	culture="tuskegean"
 	religion="revelationist"
 	trade_goods="fish"
 	civilization_value=10
@@ -405,7 +405,7 @@
 
 4809={ #Tupelo
 	terrain="farmland"
-	culture="dixie"
+	culture="tuskegean"
 	religion="revelationist"
 	trade_goods="wood"
 	civilization_value=10
@@ -418,7 +418,7 @@
 
 4810={ #Booneville
 	terrain="farmland"
-	culture="dixie"
+	culture="tuskegean"
 	religion="revelationist"
 	trade_goods="wood"
 	civilization_value=10
@@ -509,7 +509,7 @@
 
 5987={ #De Kalb
 	terrain="forest"
-	culture="dixie"
+	culture="tuskegean"
 	religion="revelationist"
 	trade_goods="salt"
 	civilization_value=10
@@ -522,7 +522,7 @@
 
 5988={ #Livingston
 	terrain="forest"
-	culture="dixie"
+	culture="tuskegean"
 	religion="revelationist"
 	trade_goods="earthware"
 	civilization_value=10
@@ -535,7 +535,7 @@
 
 5989={ #Meridian
 	terrain="forest"
-	culture="dixie"
+	culture="tuskegean"
 	religion="revelationist"
 	trade_goods="leather"
 	civilization_value=10
@@ -678,7 +678,7 @@
 
 7822={ #Starkville
 	terrain="forest"
-	culture="dixie"
+	culture="tuskegean"
 	religion="revelationist"
 	trade_goods="cattle"
 	civilization_value=10
@@ -691,7 +691,7 @@
 
 7823={ #Aberdeen
 	terrain="forest"
-	culture="dixie"
+	culture="tuskegean"
 	religion="revelationist"
 	trade_goods="horses"
 	civilization_value=10
@@ -704,7 +704,7 @@
 
 7824={ #West Point
 	terrain="plains"
-	culture="dixie"
+	culture="tuskegean"
 	religion="revelationist"
 	trade_goods="iron"
 	civilization_value=10

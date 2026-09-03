@@ -544,11 +544,11 @@
 	}
 }
 
-9085={ #Killarney
-	terrain="steppes"
-	culture="preiryansky"
-	religion="peyotist"
-	trade_goods="leather"
+9084={ #Jabillal
+	terrain="plains"
+	culture=""
+	religion="mayan_pantheon"
+	trade_goods=""
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
@@ -557,11 +557,11 @@
 	}
 }
 
-9086={ #Boissevain
-	terrain="hills"
-	culture="mandaree"
+9085={ #Killarney
+	terrain="steppes"
+	culture="preiryansky"
 	religion="peyotist"
-	trade_goods="stone"
+	trade_goods="leather"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"

@@ -104,7 +104,7 @@
 
 2549={ #Logan
 	terrain="forest"
-	culture="riverlander"
+	culture="appalachian"
 	religion="revelationist"
 	trade_goods="wood"
 	civilization_value=10
@@ -117,7 +117,7 @@
 
 2550={ #Charleston
 	terrain="forest"
-	culture="riverlander"
+	culture="appalachian"
 	religion="revelationist"
 	trade_goods="stone"
 	civilization_value=10
@@ -130,7 +130,7 @@
 
 2551={ #Teays Valley
 	terrain="forest"
-	culture="riverlander"
+	culture="appalachian"
 	religion="revelationist"
 	trade_goods="leather"
 	civilization_value=10
@@ -338,7 +338,7 @@
 
 6507={ #Oak Hill
 	terrain="forest"
-	culture="riverlander"
+	culture="appalachian"
 	religion="revelationist"
 	trade_goods="vegetables"
 	civilization_value=10
@@ -364,7 +364,7 @@
 
 7352={ #Big Stone Gap
 	terrain="mountain"
-	culture="riverlander"
+	culture="appalachian"
 	religion="omenteller"
 	trade_goods="clay"
 	civilization_value=10
@@ -390,7 +390,7 @@
 
 7354={ #Lee
 	terrain="mountain"
-	culture="riverlander"
+	culture="appalachian"
 	religion="omenteller"
 	trade_goods="wood"
 	civilization_value=10

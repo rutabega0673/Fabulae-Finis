@@ -91,7 +91,7 @@
 
 1723={ #Swansea
 	terrain="forest"
-	culture="tuskegean"
+	culture="sandlapper"
 	religion="episcopalian"
 	trade_goods="cotton"
 	civilization_value=10
@@ -104,7 +104,7 @@
 
 1724={ #Barnwell
 	terrain="plains"
-	culture="tuskegean"
+	culture="sandlapper"
 	religion="episcopalian"
 	trade_goods="cattle"
 	civilization_value=10
@@ -117,7 +117,7 @@
 
 1780={ #Boiling Springs
 	terrain="plains"
-	culture="tuskegean"
+	culture="sandlapper"
 	religion="episcopalian"
 	trade_goods="fish"
 	civilization_value=10
@@ -130,7 +130,7 @@
 
 1781={ #Hampton
 	terrain="forest"
-	culture="tuskegean"
+	culture="sandlapper"
 	religion="episcopalian"
 	trade_goods="earthware"
 	civilization_value=10
@@ -260,7 +260,7 @@
 
 3542={ #Hollywood
 	terrain="marsh"
-	culture="tuskegean"
+	culture="sandlapper"
 	religion="episcopalian"
 	trade_goods="fish"
 	civilization_value=10
@@ -273,7 +273,7 @@
 
 5047={ #Clemson
 	terrain="hills"
-	culture="atlantean"
+	culture="piedmontese"
 	religion="colossalist"
 	trade_goods="precious_metals"
 	civilization_value=10
@@ -286,7 +286,7 @@
 
 5453={ #Gaston
 	terrain="plains"
-	culture="tuskegean"
+	culture="piedmontese"
 	religion="episcopalian"
 	trade_goods="iron"
 	civilization_value=10
@@ -429,7 +429,7 @@
 
 7793={ #Holly Hill
 	terrain="forest"
-	culture="tuskegean"
+	culture="sandlapper"
 	religion="episcopalian"
 	trade_goods="stone"
 	civilization_value=10
@@ -442,7 +442,7 @@
 
 7794={ #Orangeburg
 	terrain="forest"
-	culture="tuskegean"
+	culture="sandlapper"
 	religion="episcopalian"
 	trade_goods="stone"
 	civilization_value=10
@@ -455,7 +455,7 @@
 
 7795={ #Walterboro
 	terrain="forest"
-	culture="tuskegean"
+	culture="sandlapper"
 	religion="episcopalian"
 	trade_goods="tobacco"
 	civilization_value=10
@@ -481,7 +481,7 @@
 
 8117={ #New Ellenton
 	terrain="plains"
-	culture="tuskegean"
+	culture="sandlapper"
 	religion="revelationist"
 	trade_goods="beans"
 	civilization_value=10
@@ -494,7 +494,7 @@
 
 8118={ #Aiken
 	terrain="forest"
-	culture="tuskegean"
+	culture="sandlapper"
 	religion="revelationist"
 	trade_goods="beans"
 	civilization_value=10
@@ -585,7 +585,7 @@
 
 8989={ #Travelers Rest
 	terrain="hills"
-	culture="appalachian"
+	culture="piedmontese"
 	religion="colossalist"
 	trade_goods="clay"
 	civilization_value=10

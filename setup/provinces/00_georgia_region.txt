@@ -130,7 +130,7 @@
 
 1835={ #Dublin
 	terrain="forest"
-	culture="dixie"
+	culture="tuskegean"
 	religion="revelationist"
 	trade_goods="cotton"
 	civilization_value=10
@@ -273,7 +273,7 @@
 
 3434={ #Jackson
 	terrain="plains"
-	culture="atlantean"
+	culture="tuskegean"
 	religion="scottish_rite"
 	trade_goods="fruits"
 	civilization_value=10
@@ -299,7 +299,7 @@
 
 3568={ #Donalsonville
 	terrain="marsh"
-	culture="tuskegean"
+	culture="dixie"
 	religion="springsearcher"
 	trade_goods="fish"
 	civilization_value=10
@@ -312,7 +312,7 @@
 
 3569={ #Newton
 	terrain="plains"
-	culture="tuskegean"
+	culture="dixie"
 	religion="springsearcher"
 	trade_goods="leather"
 	civilization_value=10
@@ -377,7 +377,7 @@
 
 3817={ #Warner Robins
 	terrain="forest"
-	culture="atlantean"
+	culture="tuskegean"
 	religion="scottish_rite"
 	trade_goods="horses"
 	civilization_value=10
@@ -403,7 +403,7 @@
 
 3819={ #Griffin
 	terrain="forest"
-	culture="atlantean"
+	culture="tuskegean"
 	religion="scottish_rite"
 	trade_goods="vegetables"
 	civilization_value=10
@@ -416,7 +416,7 @@
 
 3820={ #Macon
 	terrain="plains"
-	culture="atlantean"
+	culture="tuskegean"
 	religion="scottish_rite"
 	trade_goods="wood"
 	civilization_value=10
@@ -650,7 +650,7 @@
 
 6349={ #Blackshear
 	terrain="forest"
-	culture="dixie"
+	culture="sunshiner"
 	religion="springsearcher"
 	trade_goods="cattle"
 	civilization_value=10
@@ -728,7 +728,7 @@
 
 6499={ #Sandersville
 	terrain="forest"
-	culture="tuskegean"
+	culture="dixie"
 	religion="revelationist"
 	trade_goods="hemp"
 	civilization_value=10
@@ -819,7 +819,7 @@
 
 8351={ #Lagrange
 	terrain="plains"
-	culture="atlantean"
+	culture="tuskegean"
 	religion="revelationist"
 	trade_goods="clay"
 	civilization_value=10
@@ -832,7 +832,7 @@
 
 8700={ #Evans
 	terrain="forest"
-	culture="tuskegean"
+	culture="dixie"
 	religion="revelationist"
 	trade_goods="horses"
 	civilization_value=10
@@ -897,7 +897,7 @@
 
 8937={ #Sparta
 	terrain="forest"
-	culture="tuskegean"
+	culture="dixie"
 	religion="revelationist"
 	trade_goods="tobacco"
 	civilization_value=10
@@ -910,7 +910,7 @@
 
 8938={ #Washington
 	terrain="forest"
-	culture="tuskegean"
+	culture="dixie"
 	religion="revelationist"
 	trade_goods="bodark"
 	civilization_value=10
@@ -923,7 +923,7 @@
 
 8939={ #West Warrenton
 	terrain="forest"
-	culture="tuskegean"
+	culture="dixie"
 	religion="revelationist"
 	trade_goods="vegetables"
 	civilization_value=10
@@ -936,7 +936,7 @@
 
 8940={ #Eatonton
 	terrain="plains"
-	culture="tuskegean"
+	culture="dixie"
 	religion="revelationist"
 	trade_goods=""
 	civilization_value=10
@@ -949,7 +949,7 @@
 
 8941={ #Greensboro
 	terrain="forest"
-	culture="tuskegean"
+	culture="dixie"
 	religion="revelationist"
 	trade_goods="clay"
 	civilization_value=10
@@ -962,7 +962,7 @@
 
 9433={ #Waycross
 	terrain="plains"
-	culture="dixie"
+	culture="sunshiner"
 	religion="springsearcher"
 	trade_goods="leather"
 	civilization_value=10
@@ -975,7 +975,7 @@
 
 9434={ #Toledo
 	terrain="forest"
-	culture="dixie"
+	culture="sunshiner"
 	religion="springsearcher"
 	trade_goods="rice"
 	civilization_value=10
@@ -1001,7 +1001,7 @@
 
 9436={ #Statenville
 	terrain="plains"
-	culture="dixie"
+	culture="sunshiner"
 	religion="springsearcher"
 	trade_goods="cattle"
 	civilization_value=10

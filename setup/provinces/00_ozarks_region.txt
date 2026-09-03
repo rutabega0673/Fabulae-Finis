@@ -104,7 +104,7 @@
 
 1831={ #Hazen
 	terrain="plains"
-	culture="deltaic"
+	culture="arkalatexan"
 	religion="missisippian"
 	trade_goods="wood"
 	civilization_value=10
@@ -676,7 +676,7 @@
 
 5857={ #Searcy
 	terrain="plains"
-	culture="deltaic"
+	culture="arkalatexan"
 	religion="revelationist"
 	trade_goods="rice"
 	civilization_value=10
