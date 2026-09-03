@@ -1826,7 +1826,7 @@ country = {
 			family = 7
 			poptype_rights = {
 				{
-					culture = dixie
+					culture = tuskegean
 					type = citizen
 				}
 			}

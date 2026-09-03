@@ -11,16 +11,16 @@
 	
 
 	archers = 0.9
-	camels = 1.2
-	chariots = 1.1
+	#camels = 1.2
+	#chariots = 1.1
 	heavy_cavalry = 1.1
 	heavy_infantry = 0.9
 	horse_archers = 0.9
 	light_cavalry = 1.2
 	light_infantry = 1
 	spearmen = 1
-	warelephant = 1.1
-	axemen = 0.9
+	#warelephant = 1.1
+	#axemen = 0.9
 	horse_skirmishers = 0.9
 	pikemen = 0.9
 	slingers = 0.9

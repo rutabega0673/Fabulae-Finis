@@ -13,16 +13,16 @@
 	build_time = 45
 	
 	archers = 1.1
-	camels = 0.8
-	chariots = 1.1
+	#camels = 0.8
+	#chariots = 1.1
 	heavy_cavalry = 0.9
 	heavy_infantry = 1.1
 	horse_archers = 1.0
 	light_cavalry = 1
 	light_infantry = 1
 	spearmen = 0.8
-	warelephant = 0.5
-	axemen = 1
+	#warelephant = 0.5
+	#axemen = 1
 	horse_skirmishers = 0.9
 	pikemen = 0.8
 	slingers = 1

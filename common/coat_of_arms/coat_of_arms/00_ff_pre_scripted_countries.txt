@@ -1534,3 +1534,195 @@ NAZ = {
 		instance = { position = { 0.3 0.7 } scale = { 0.75 0.75 } rotation = 220 }
 	}
 }
+
+TXR = { #Texarkana
+	pattern="pattern_solid.tga"
+	color1=offwhite
+	color2=offwhite
+	colored_emblem={
+		color1=offwhite
+		color2=ck2_yellow
+		texture="ce_simple_roundel_frame.dds"
+	}
+
+	colored_emblem={
+		color1=ck2_yellow
+		texture="ce_circle_03.dds"
+		instance={
+			scale={ 0.140000 0.140000 }
+		}
+
+	}
+
+	colored_emblem={
+		color1=rgb { 8 34 58 }
+		color2=ck2_yellow
+		texture="ce_simple_roundel_frame.dds"
+		instance={
+			scale={ 0.800000 0.800000 }
+		}
+
+	}
+
+	colored_emblem={
+		color1=ck2_white
+		texture="ce_star_05.dds"
+		instance={
+			scale={ 0.150000 0.150000 }
+		}
+
+	}
+
+	colored_emblem={
+		color1=ck2_yellow
+		color2=rgb { 8 34 58 }
+		texture="ce_star_05_pierced.dds"
+	}
+
+	colored_emblem={
+		color1=offwhite
+		texture="ce_letter_tau.dds"
+		instance={
+			position={ 0.500000 0.520000 }
+			scale={ 0.660000 0.660000 }
+		}
+
+	}
+
+}
+
+KSS = { #Kisatchie
+	pattern="pattern_checkers_2x2.tga"
+	color1=ck2_black
+	color2=ck2_yellow
+
+	colored_emblem={
+		color1=ck2_white
+		texture="ce_bell.dds"
+		instance={
+			position={ 0.250000 0.250000 }
+			scale={ 0.333000 0.333000 }
+		}
+
+		instance={
+			position={ 0.750000 0.250000 }
+			scale={ 0.333000 0.333000 }
+		}
+
+		instance={
+			position={ 0.250000 0.750000 }
+			scale={ 0.333000 0.333000 }
+		}
+
+		instance={
+			position={ 0.750000 0.750000 }
+			scale={ 0.333000 0.333000 }
+		}
+
+	}
+
+	colored_emblem={
+		color1=ck2_black
+		color2=ck2_blue
+		texture="ce_crescent_03.dds"
+		instance={
+			position={ 0.500000 0.535000 }
+			scale={ 0.605000 -0.605000 }
+		}
+	}
+}
+
+TEN = { #Tennessee
+	pattern = "pattern_solid.tga"
+	color1 = rgb { 146 27 47 }
+	color2 = "navy_blue"
+	colored_emblem = {
+		texture = "ce_circle_03.dds"
+		color1 = "offwhite"
+		instance = { position = { 0.5 0.5 } scale = { 0.85 0.85 }  }
+	}
+	colored_emblem = {
+		texture = "ce_circle_03.dds"
+		color1 = "ck2_blue"
+		instance = { position = { 0.5 0.5 } scale = { 0.75 0.75 }  }
+	}
+	
+	colored_emblem = {
+		texture = "ce_star_05.dds"
+		color1 = "offwhite"
+		instance = { position = { 0.5 0.63 } scale = { 0.3 0.3 }   }
+		instance = { position = { 0.4 0.45 } scale = { 0.3 0.3 } rotation = 30  }
+		instance = { position = { 0.625 0.45 } scale = { 0.3 0.3 } rotation = -30  }
+	}
+}
+
+AKR = { #Arkansas
+	pattern = "pattern_horizontal_bar_01.tga"
+	color1 = "desaturated_green"
+	color2 = "desaturated_green"
+	colored_emblem = {
+		texture = "ce_waves_02.dds"
+		color1 = "ck2_black"
+		color2 = "offwhite"
+		instance = { position = { 0.5 0.2 } scale = { 1.0 0.3 }  }
+	}
+	colored_emblem = {
+		texture = "ce_waves_02.dds"
+		color1 = "ck2_black"
+		color2 = "offwhite"
+		instance = { position = { 0.5 0.55 } scale = { 1.0 0.3 }  }
+	}
+	colored_emblem = {
+		texture = "ce_waves_02.dds"
+		color1 = "ck2_black"
+		color2 = "offwhite"
+		instance = { position = { 0.5 0.86 } scale = { 1.0 0.3 }  }
+	}
+	
+	colored_emblem = {
+		texture = "ce_venetic_boat_3.dds"
+		color1 = "ck2_black"
+		instance = { position = { 0.5 0.17 } scale = { 0.7 0.33 }  }
+	}
+	colored_emblem = {
+		texture = "ce_plow.dds"
+		color1 = "ck2_black"
+		color2 = "ck2_black"
+		instance = { position = { 0.3 0.5 } scale = { 0.4 0.4 }  }
+	}
+	colored_emblem = {
+		texture = "ce_hive.dds"
+		color1 = "ck2_black"
+		instance = { position = { 0.7 0.5 } scale = { 0.4 0.4 }  }
+	}
+	colored_emblem = {
+		texture = "ce_grain_02.dds"
+		color1 = "ck2_black"
+		instance = { position = { 0.5 0.8 } scale = { 0.4 0.4 } rotation = -90 }
+	}
+}
+
+SFM = { #Springfield
+	pattern = "pattern_horizontal_bar_01.tga"
+	color1 = "light_blue"
+	color2 = "offwhite"
+	colored_emblem = {
+		texture = "ce_star_10.dds"
+		color1 = "ck2_black"
+		instance = { position = { 0.5 0.5 } scale = { 0.5 0.5 } }
+	}
+	colored_emblem = {
+		texture = "ce_crown.dds"
+		color1 = "mid_grey"
+		color2 = "garnet_red"
+		instance = { position = { 0.5 0.15 } scale = { 0.45 0.45 }  }
+	}
+	
+	colored_emblem = {
+		texture = "ce_star_12.dds"
+		color1 = "offwhite"
+		instance = { position = { 0.5 0.85 } scale = { 0.4 0.4 }   }
+		instance = { position = { 0.2 0.85 } scale = { 0.4 0.4 } }
+		instance = { position = { 0.8 0.85 } scale = { 0.4 0.4 } }
+	}
+}

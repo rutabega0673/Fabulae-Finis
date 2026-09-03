@@ -210,7 +210,7 @@ shieldshorer_heritage = {
 badgerlander_heritage = {
    	modifier = {
         #good
-        axemen_offensive = 0.10
+        light_infantry_offensive = 0.10
         global_food_capacity = 300
        #bad
         monthly_political_influence_modifier = -0.05
