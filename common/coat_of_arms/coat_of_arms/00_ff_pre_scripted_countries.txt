@@ -1726,3 +1726,82 @@ SFM = { #Springfield
 		instance = { position = { 0.8 0.85 } scale = { 0.4 0.4 } }
 	}
 }
+
+BLT = { #Chesapeake
+    pattern = "pattern_solid.tga"
+    color1 = "offwhite"
+    color2 = "offwhite"
+    
+    colored_emblem = {
+        texture = "ce_star_05.dds"
+        color1 = "phrygia_red"
+        instance = { position = { 0.23 0.25 } scale = { 0.28 0.28 } }
+        instance = { position = { 0.5 0.25 } scale = { 0.28 0.28 } }
+        instance = { position = { 0.77 0.25 } scale = { 0.28 0.28 } }
+    }
+    colored_emblem = {
+        texture = "ce_border_simple_01.tga"
+        color1 = "phrygia_red"
+        instance = { position = { 0.5 0.9 } scale = { 1 0.9 } }
+        instance = { position = { 0.5 1.1 } scale = { 1 0.9 } }
+    }    
+}
+
+ARL = {
+	pattern="pattern_solid.tga"
+	color1="epirus_yellow"
+	color2=offwhite
+	colored_emblem={
+		color1="light_blue"
+		texture="ce_fess_engrailed.dds"
+	}
+	colored_emblem={
+		color1="light_blue"
+		texture="ce_star_05.dds"
+		instance={
+			position={ 0.500000 0.205000 }
+			scale={ 0.220000 0.220000 }
+		}
+	}
+	colored_emblem={
+		color1="light_blue"
+		color2="light_blue"
+		texture="ce_crescent_03.dds"
+		instance={
+			position={ 0.500000 0.800000 }
+			scale={ 0.500000 0.500000 }
+		}
+	}
+	colored_emblem={
+		color1="light_blue"
+		texture="ce_stars_13.dds"
+		instance={
+			position={ 0.500000 0.200000 }
+			scale={ 0.380000 0.380000 }
+		}
+	}
+}
+
+HUD = { #Albany
+	pattern = "pattern_horizontal_split_01.tga"
+	color1 = "offwhite"
+	color2 = "roman_red"
+	colored_emblem = {
+		texture = "ce_grain_02.dds"
+		color1 = "epirus_yellow"
+		instance = { position = { 0.35 0.75 } scale = { 0.5 0.5 }  }
+		instance = { position = { 0.65 0.75 } scale = { 0.5 0.5 }  }
+	}
+	colored_emblem = {
+		texture = "ce_tree_spade.dds"
+		color1 = "ck2_green"
+		color2 = "rust_brown"
+		instance = { position = { 0.65 0.3 } scale = { 0.4 0.4 } }
+	}
+	colored_emblem = {
+		texture = "ce_beaver_rampant.dds"
+		color1 = "rust_brown"
+		color2 = "rust_brown"
+		instance = { position = { 0.35 0.3 } scale = { -0.3 0.3 }  }
+	}
+}
