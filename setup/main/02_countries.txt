@@ -780,7 +780,7 @@ country = {
 			}
 
 			own_control_core = {
-				4911 4912 4909 4910 3268 9145 9144 9147 9146 5366
+				4911 4912 4909 4910 3268 9145 9144 9147 9146 5366 4908
 			}
 		}
 
@@ -1074,7 +1074,7 @@ country = {
 		}
 		MAC = { # Macon
 			government = aristocratic_republic
-			primary_culture = atlantean
+			primary_culture = tuskegean
 			religion = scottish_rite
 			capital = 3820
 
@@ -1111,7 +1111,7 @@ country = {
 		}
 		SPA = { # Sparta
 			government = stratocratic_monarchy
-			primary_culture = tuskegean
+			primary_culture = dixie
 			religion = evangelical
 			capital = 8937
 
@@ -1820,7 +1820,7 @@ country = {
 		}
 		ALB = { #Alabama
 			government = despotic_monarchy
-			primary_culture = tuskegean
+			primary_culture = dixie
 			religion = revelationist
 			capital = 1550
 			family = 7
@@ -2507,7 +2507,7 @@ country = {
 		}
 		TUP = { #Tupelo
 			government = tribal_federation
-			primary_culture = dixie
+			primary_culture = tuskegean
 			religion = revelationist
 			capital = 4809
 
