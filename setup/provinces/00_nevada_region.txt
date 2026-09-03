@@ -344,7 +344,7 @@
 }
 
 5517={ #Perris
-	terrain="dry_plains"
+	terrain="flood_plain"
 	culture="socaleno"
 	religion="colossalist"
 	trade_goods="olive"
@@ -357,7 +357,7 @@
 }
 
 5518={ #Redlands
-	terrain="desert_hills"
+	terrain="flood_plain"
 	culture="socaleno"
 	religion="colossalist"
 	trade_goods="cattle"
@@ -370,7 +370,7 @@
 }
 
 5519={ #Riverside
-	terrain="dry_plains"
+	terrain="flood_plain"
 	culture="socaleno"
 	religion="colossalist"
 	trade_goods="leather"
@@ -383,7 +383,7 @@
 }
 
 5520={ #San Bernardino
-	terrain="oasis"
+	terrain="flood_plain"
 	culture="socaleno"
 	religion="colossalist"
 	trade_goods="leather"
@@ -396,7 +396,7 @@
 }
 
 5521={ #Temecula
-	terrain="dry_plains"
+	terrain="flood_plain"
 	culture="socaleno"
 	religion="caesarist"
 	trade_goods="olive"
