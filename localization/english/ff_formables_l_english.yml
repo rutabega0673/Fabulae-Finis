@@ -117,6 +117,15 @@
  formable_not_cahokia_exists:0 "#Y Cahokia#! does not exist."
  CAHOKIA_NAME:0 "Cahokia"
  CAHOKIA_ADJ:0 "Cahokien"
+
+ form_southern_empire:0 "Unite the Deep South"
+ form_southern_empire_desc:0 "The Deep South, or Southland, is one of the most culturally rich and historical regions in all of the former United States. She has long been divided amongst would-be kings, those not worthy enough to claim the title of Emperor of the South. Let our just and diligent hand unite this land of plenty."
+ formable_not_southern_empire_exists:0 "#Y Southland#! does not exist."
+ SOUTHERN_EMPIRE_NAME_FRENCH:0 "Sidtérin" #Southland in Kouri-Vini
+ SOUTHERN_EMPIRE_ADJECTIVE_FRENCH:0 "Sidtérinais"
+ SOUTHERN_EMPIRE_NAME:0 "Southland"
+ SOUTHERN_EMPIRE_ADJECTIVE:0 "Southerner"
+ form_southern_empire_claims_tooltip:0 "#Y Southland#! will gain claims on the regions of #Y Lwizyan#!, #Y Magnolia#!, #Y Alabama#!, #Y Georgia#!, and on the areas of #Y Panhandle#!, and #Y Tallahassee#!."
  
 
  ## Formable Events ##

@@ -6,16 +6,12 @@
 			OR = {
 				country_culture_group = midwestern
 				country_culture_group = upland
-				country_culture_group = louisianais
+				primary_culture = paw_paw
 				country_culture_group = deutschamerikaner
 				country_culture_group = bosniak
 				capital_scope = {
 					is_in_region = missouri_region
 				}
-			}
-			OR = {
-				is_ai = no
-				num_of_cities >= 1
 			}
 			NOR = {
 					tag = MIS

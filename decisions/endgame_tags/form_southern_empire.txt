@@ -1,0 +1,149 @@
+﻿country_decisions = {
+	
+	# Form The South
+	form_southern_empire = {
+		
+		potential = {
+			num_of_cities >= 1
+			OR = {
+				country_culture_group = deep_southern
+				country_culture_group = louisianais
+				country_culture_group = geechee
+			}
+			NOT = {
+				has_variable = formed_southern_empire 
+				primary_culture = paw_paw
+				tag = SOO
+			}
+		}
+		
+		highlight = {
+			scope:province = {
+				OR = {
+					province_id = 8216
+					province_id = 9500
+					province_id = 7231
+					province_id = 2695
+					province_id = 594
+					province_id = 9122
+					province_id = 886
+					province_id = 4953
+					province_id = 4809
+					province_id = 1550
+					province_id = 2718
+					province_id = 7205
+					province_id = 1563
+					province_id = 5004
+					province_id = 3820
+					province_id = 5797
+					province_id = 1868
+					province_id = 8701
+					province_id = 8937
+					province_id = 8487
+					province_id = 8365
+					province_id = 1668
+					province_id = 7951
+					province_id = 2010
+					province_id = 7000
+					province_id = 5206
+				}
+			}
+		}
+		
+		allow = {
+			custom_tooltip = {
+				text = formable_not_southern_empire_exists
+				NOT = {
+					any_country = {
+						tag = SOO
+					}
+				}
+			}
+			can_form_nation_trigger = yes
+			owns_or_subject_owns = 8216
+			owns_or_subject_owns = 9500
+			owns_or_subject_owns = 7231
+			owns_or_subject_owns = 2695
+			owns_or_subject_owns = 594
+			owns_or_subject_owns = 9122
+			owns_or_subject_owns = 886
+			owns_or_subject_owns = 4953
+			owns_or_subject_owns = 4809
+			owns_or_subject_owns = 1550
+			owns_or_subject_owns = 2718
+			owns_or_subject_owns = 7205
+			owns_or_subject_owns = 1563
+			owns_or_subject_owns = 5004
+			owns_or_subject_owns = 3820
+			owns_or_subject_owns= 5797
+			owns_or_subject_owns = 1868
+			owns_or_subject_owns = 8701
+			owns_or_subject_owns = 8937
+			owns_or_subject_owns = 8487
+			owns_or_subject_owns = 8365
+			owns_or_subject_owns = 1668
+			owns_or_subject_owns = 7951
+			owns_or_subject_owns = 2010
+			owns_or_subject_owns = 7000
+			owns_or_subject_owns = 5206
+		}
+		
+		
+		effect = {
+			custom_tooltip = "tier_3_formable_tooltip"
+			change_country_name = "SOUTHERN_EMPIRE_NAME"
+			if = { limit = { is_tribal = yes} change_government = imperium tribal_formable_government_change_effect = yes }
+			else_if = { limit = { is_republic = yes } change_government = grand_republic switch_government_type_event_clearup_effect = yes }
+			else_if = { limit = { is_monarchy = yes } change_government = imperium switch_government_type_event_clearup_effect = yes }
+			#current_ruler = {
+			#	add_nickname = "NICKNAME_TWAIN"
+			#}
+			capital_scope = {
+				capital_formable_large_effect = yes
+				formable_capital_modifier_large_effect = yes
+			}
+			add_country_modifier = {
+				name = formable_country_huge_modifier
+				duration = 7600
+			}
+			if = {
+				limit = { is_tribal = yes }
+				add_country_modifier = {
+					name = civilized_tribe
+					duration = 5475
+				}
+			}
+			add_5_free_province_investments = yes
+			hidden_effect = {
+				set_variable = formed_southern_empire
+				change_country_color = "hcc_blue"
+				change_country_tag = SOO
+				if = { # French version
+					limit = { country_culture_group = louisianais }
+					change_country_adjective = "SOUTHERN_EMPIRE_ADJECTIVE_FRENCH"
+					change_country_name = "SOUTHERN_EMPIRE_NAME_FRENCH"
+					change_country_flag = COLUMBIA_TWAINIST_FLAG
+				}
+				else = {
+					change_country_adjective = "SOUTHERN_EMPIRE_ADJECTIVE"
+					change_country_flag = COLUMBIA_TWAINIST_FLAG
+				}
+			}
+			custom_tooltip = "form_southern_empire_claims_tooltip"
+			hidden_effect = {
+				region:alabama_region = { formable_region_province_effect = yes }
+				region:lwizyan_region = { formable_region_province_effect = yes }
+				region:georgia_region = { formable_region_province_effect = yes }
+				region:magnolia_region = { formable_region_province_effect = yes }
+				area:panhandle_area = { formable_area_province_effect = yes }
+				area:tallahassee_area = { formable_area_province_effect = yes }
+			}
+		}
+		
+		ai_will_do = {
+			base = 1
+		}
+	}
+
+} 
+
