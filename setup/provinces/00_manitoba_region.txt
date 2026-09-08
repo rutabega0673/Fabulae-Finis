@@ -64,7 +64,7 @@
 }
 
 1493={ #Stonewall
-	terrain="forest"
+	terrain="steppes"
 	culture="metis"
 	religion="exovedate"
 	trade_goods="vegetables"
@@ -77,7 +77,7 @@
 }
 
 1494={ #La Salle
-	terrain="forest"
+	terrain="plains"
 	culture="manitobain"
 	religion="exovedate"
 	trade_goods="vegetables"
@@ -90,7 +90,7 @@
 }
 
 1495={ #Elie
-	terrain="forest"
+	terrain="steppes"
 	culture="metis"
 	religion="exovedate"
 	trade_goods="grain"
@@ -103,7 +103,7 @@
 }
 
 1496={ #Selkirk
-	terrain="forest"
+	terrain="steppes"
 	culture="metis"
 	religion="exovedate"
 	trade_goods="grain"
@@ -129,7 +129,7 @@
 }
 
 2120={ #Vita
-	terrain="forest"
+	terrain="steppes"
 	culture="metis"
 	religion="exovedate"
 	trade_goods="grain"
@@ -142,7 +142,7 @@
 }
 
 2121={ #Steinbach
-	terrain="forest"
+	terrain="plains"
 	culture="metis"
 	religion="exovedate"
 	trade_goods="amber"
@@ -155,8 +155,8 @@
 }
 
 2122={ #Grunthal
-	terrain="forest"
-	culture="metis"
+	terrain="plains"
+	culture="manitobain"
 	religion="exovedate"
 	trade_goods="beer"
 	civilization_value=10
@@ -168,7 +168,7 @@
 }
 
 2348={ #Camperville
-	terrain="forest"
+	terrain="steppes"
 	culture="preiryansky"
 	religion="loneranger"
 	trade_goods="buffalo"
@@ -194,7 +194,7 @@
 }
 
 2350={ #Weiden
-	terrain="forest"
+	terrain="steppes"
 	culture="metis"
 	religion="loneranger"
 	trade_goods="hemp"
@@ -285,7 +285,7 @@
 }
 
 3331={ #Beausejour
-	terrain="forest"
+	terrain="steppes"
 	culture="manitobain"
 	religion="exovedate"
 	trade_goods="fur"
@@ -298,7 +298,7 @@
 }
 
 3332={ #Pinawa
-	terrain="forest"
+	terrain="steppes"
 	culture="metis"
 	religion="exovedate"
 	trade_goods="hemp"
@@ -311,7 +311,7 @@
 }
 
 3333={ #Lac Du Bonnet
-	terrain="forest"
+	terrain="steppes"
 	culture="metis"
 	religion="exovedate"
 	trade_goods="rice"
@@ -324,7 +324,7 @@
 }
 
 3792={ #Portage La Prairie
-	terrain="forest"
+	terrain="plains"
 	culture="manitobain"
 	religion="exovedate"
 	trade_goods="earthware"
@@ -337,7 +337,7 @@
 }
 
 3793={ #Macgregor
-	terrain="forest"
+	terrain="steppes"
 	culture="metis"
 	religion="exovedate"
 	trade_goods="buffalo"
@@ -350,7 +350,7 @@
 }
 
 3794={ #Mccreary
-	terrain="forest"
+	terrain="steppes"
 	culture="metis"
 	religion="loneranger"
 	trade_goods="fish"
@@ -571,7 +571,7 @@
 }
 
 9281={ #Carman
-	terrain="forest"
+	terrain="steppes"
 	culture="metis"
 	religion="exovedate"
 	trade_goods="steppe_horses"
@@ -584,7 +584,7 @@
 }
 
 9282={ #Winkler
-	terrain="steppes"
+	terrain="plains"
 	culture="metis"
 	religion="exovedate"
 	trade_goods="grain"

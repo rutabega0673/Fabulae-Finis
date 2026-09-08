@@ -2919,7 +2919,6 @@
 		} #change?
 		montereyan = {}
 		joaquino = {}
-		cachanchilla = {}
 	}
 	
 	barbarian_names = { 
