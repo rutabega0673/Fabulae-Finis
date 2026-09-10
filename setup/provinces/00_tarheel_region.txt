@@ -767,7 +767,7 @@
 
 7988={ #Dunn
 	terrain="plains"
-	culture="piedmontese"
+	culture="lumbee"
 	religion="revelationist"
 	trade_goods="fish"
 	civilization_value=10
@@ -780,7 +780,7 @@
 
 7989={ #Spring Lake
 	terrain="plains"
-	culture="piedmontese"
+	culture="lumbee"
 	religion="revelationist"
 	trade_goods="cotton"
 	civilization_value=10
@@ -793,8 +793,8 @@
 
 7990={ #Fort Bragg
 	terrain="plains"
-	culture="piedmontese"
-	religion="americanist"
+	culture="lumbee"
+	religion="revelationist"
 	trade_goods="earthware"
 	civilization_value=10
 	barbarian_power=0
@@ -806,7 +806,7 @@
 
 7991={ #Eastover
 	terrain="plains"
-	culture="piedmontese"
+	culture="lumbee"
 	religion="revelationist"
 	trade_goods="tobacco"
 	civilization_value=10
@@ -819,8 +819,8 @@
 
 7992={ #Fayetteville
 	terrain="farmland"
-	culture="piedmontese"
-	religion="americanist"
+	culture="lumbee"
+	religion="revelationist"
 	trade_goods="cotton"
 	civilization_value=10
 	barbarian_power=0
@@ -832,8 +832,8 @@
 
 7993={ #Lumberton
 	terrain="plains"
-	culture="piedmontese"
-	religion="americanist"
+	culture="lumbee"
+	religion="revelationist"
 	trade_goods="cotton"
 	civilization_value=10
 	barbarian_power=0

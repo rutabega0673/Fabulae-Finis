@@ -96,8 +96,8 @@
  old_southern_heritage_desc:0 "A deeply chivalric and equestrian people, the Old Southerners are famed for their heavy cavalry, and rich urban centers."
  deep_southern_heritage:0 "Deep Southern Heritage"
  deep_southern_heritage_desc:0 "The Deep South is a divided land, split up amongst many warlords of varying faiths. Their despotic warlords reap the benefits, while the populace suffers from their rule."
- upland_heritage:0 "Upland Heritage"
- upland_heritage_desc:0 "The Uplander way of life is defined by two things: their neighbors, who are constantly trying to invade and conquer their lands, and the many rivers that permeate Uplander territories. These rivers help to facilitate trade, and the frequent raids that Uplanders are known to conduct."
+ riverlander_heritage:0 "Riverlander Heritage"
+ riverlander_heritage_desc:0 "The Riverlander way of life is defined by two things: their neighbors, who are constantly trying to invade and conquer their lands, and the many rivers that permeate the hilly territories of the Riverlanders. These rivers help to facilitate trade, and the frequent raids that they are known to conduct."
  deutschamerikaner_heritage:0 "Deutschamerikaner Heritage"
  deutschamerikaner_heritage_desc:0 "The Deutschamerikaner are descendants of the people known as 'Germans', who immigrated to the lands of America in pre-Event times. They are known for their skill in manufacturing, construction, and resourcefulness in business ventures."
  canayen_heritage:0 "Canayen Heritage"
@@ -270,6 +270,12 @@
  tuskegean_heritage_desc:0 "One of the most martial of all southern peoples, the Tuskegeans are renowned not only for their industrious nature, but their equitable society, and bravery in combat, which they claim was a tradition of theirs well before the Event. Some even say that their mythical ancestors had the power to tame flying beasts, which they rode into battle."
  arkalatexan_heritage:0 "Arkalatexan Heritage"
  arkalatexan_heritage_desc:0 "Straddling the border of Texas, Arkansas, and Louisiana, the Arkalatexans are a mixture of all of these regions. For the most part they are simple farmers, but do not let their agrarian nature decieve you, as they are as skilled with the blade, as they are the pen."
+ butternutter_heritage:0 "Butternutter Heritage"
+ butternutter_heritage_desc:0 "They are called Butternutters for their habit of using a brown dye made from the Butternut tree. Generally, they are considered to be an amalgamation of peoples - Riverlanders, Buckeyes, and even the Yankees. Such a situation has resulted in their society being relatively cosmopolitan, at least compared to their more backwater kin."
+ lumbee_heritage:0 "Heritage of the People of the Dark Water"
+ lumbee_heritage_desc:0 "The Lumbee, or People of the Dark Water are perhaps one of the last vestiges of the peoples of the Southeastern Woodlands. Indeed, they themselves claim descent from these groups, while recognzing their unique identity. They primarily reside by their namesake, the Lumber river. Lumbees are defined by their insular, self governing communities and strong ties of kinship."
+ hoocak_heritage:0 "Hoocak Heritage"
+ hoocak_heritage_desc:0 "Also referred to as Ho-Chunk or Winnebago, the Hoocak say that their language was given to them by their creator, Ma'una, the Earthmaker. A translation of their name means 'sacred voice' or 'People of the Big Voice' (referring to their language). The Hoocak have endured great hardships in the past. While they once lived across all of Wisconsin, they were forced to scatter, and to flee the land. Some of their people settled down in the distant Grangeland, while others were able to hide, staying in their ancestral land. Thus, their determined perserverance has ensured their survival."
  
  
 

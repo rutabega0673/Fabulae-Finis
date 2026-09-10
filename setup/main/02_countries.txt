@@ -1015,7 +1015,7 @@ country = {
 		GUL = { # Savannah
 			government = league_republic
 			primary_culture = gullah
-			religion = evangelical
+			religion = springsearcher
 			capital = 1868
 
 			technology={
@@ -1112,7 +1112,7 @@ country = {
 		SPA = { # Sparta
 			government = stratocratic_monarchy
 			primary_culture = dixie
-			religion = evangelical
+			religion = revelationist
 			capital = 8937
 
 			technology={
@@ -1552,7 +1552,7 @@ country = {
 		OUT = { #Outer Banks
 			government = pirate_republic
 			primary_culture = hoi_toider
-			religion = evangelical
+			religion = episcopalian
 			capital = 2064
 
 			technology={
@@ -1730,7 +1730,7 @@ country = {
 		}
 		BRN = { #Brainerd
 			government = tribal_chiefdom
-			primary_culture = northlander
+			primary_culture = ojibwe
 			religion = lakeshore
 			capital = 237
 
@@ -2601,7 +2601,7 @@ country = {
 		}
 		CHS = { #Charleston 
 			government = tribal_kingdom
-			primary_culture = riverlander
+			primary_culture = appalachian
 			religion = omenteller
 			capital = 2550
 
@@ -3153,8 +3153,8 @@ country = {
 		}
 		CPF = { # Cape Fear
 			government = despotic_monarchy
-			primary_culture = sandlapper
-			religion = evangelical
+			primary_culture = lumbee
+			religion = revelationist
 			capital = 7992
 
 			technology={

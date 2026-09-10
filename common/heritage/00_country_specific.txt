@@ -128,11 +128,11 @@ sparta_heritage = {
 savannah_heritage = {
    modifier = {
       #good
-      ship_repair_at_sea = 0.02
+      ship_repair_at_sea = 0.04
       marsh_combat_bonus = 0.10
 
       #bad
-      happiness_for_wrong_culture_modifier = -0.04
+      happiness_for_wrong_culture_group_modifier = -0.04
    }
 
    trigger = {

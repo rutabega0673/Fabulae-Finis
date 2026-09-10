@@ -153,7 +153,7 @@
  dhegihan:0 "Dhegihan"
  ioway:0 "Ioway"
  otoe_missouria:0 "Otoe-Missouria"
- hoocak:0 "Hoocąk"
+ hoocak:0 "Hoocak"
 
  ## Yankee ##
  new_englander:0 "Yankee"
@@ -290,7 +290,7 @@
  ## Bosniak ##
  bosniak:0 "Bosniak"
 
- ## Grand Ouest ##
+ ## Ouest Canayen ##
  grand_ouest:0 "Ouest Canayen"
  manitobain:0 "Manitobain"
  frankaskois:0 "Frankaskois" 
@@ -359,6 +359,27 @@
 
  ## Interior Northwestern ##
  interior_northwestern:0 "Interior Northwestern"
+
+ ## Normexa ##
+ normexa:0 "Normexa"
+ bravo:0 "Bravo"
+ choyero:0 "Choyero"
+ lagunero:0 "Lagunero"
+ shiwawita:0 "Shiawita"
+ sierreno:0 "Sierreño"
+ sonoro:0 "Sonoro"
+ fronterizo:0 "Fronterizo"
+
+ ## Centromexa ##
+ centromexa:0 "Centromexa"
+ abajeno:0 "Abajeño"
+ calentano:0 "Calentano"
+ chilango:0 "Chilango"
+ sanluisito:0 "Sanluisito"
+ tapatio:0 "Tapatio"
+
+ ## Lumbee ##
+ lumbee:0 "Lumbee"
 
  ## NAMING ##
  yankee_malename:1 "$NAME_MALE$ $REGNALNUMBER$ $NICKNAME$ $FAMILY_MALE$"
@@ -445,13 +466,13 @@
  northwestern_femalename:1 "$NAME_FEMALE$ $REGNALNUMBER$ $NICKNAME$ $FAMILY_MALE$"
  native_californian_malename:1 "$NAME_MALE$ $REGNALNUMBER$ $NICKNAME$ $FAMILY_MALE$"
  native_californian_femalename:1 "$NAME_FEMALE$ $REGNALNUMBER$ $NICKNAME$ $FAMILY_MALE$"
- michigan_nederlander_malename:1 "$NAME_MALE$ $REGNALNUMBER$ $NICKNAME$ $FAMILY_MALE$"
- michigan_nederlander_femalename:1 "$NAME_FEMALE$ $REGNALNUMBER$ $NICKNAME$ $FAMILY_MALE$"
- basque_malename:1 "$NAME_MALE$ $REGNALNUMBER$ $NICKNAME$ $FAMILY_MALE$"
- basque_femalename:1 "$NAME_FEMALE$ $REGNALNUMBER$ $NICKNAME$ $FAMILY_MALE$"
  normexa_malename:1 "$NAME_MALE$ $REGNALNUMBER$ $NICKNAME$ $FAMILY_MALE$"
  normexa_femalename:1 "$NAME_FEMALE$ $REGNALNUMBER$ $NICKNAME$ $FAMILY_MALE$"
  nordic_malename:1 "$NAME_MALE$ $REGNALNUMBER$ $NICKNAME$ $FAMILY_MALE$"
  nordic_femalename:1 "$NAME_FEMALE$ $REGNALNUMBER$ $NICKNAME$ $FAMILY_MALE$"
  interior_northwestern_malename:1 "$NAME_MALE$ $REGNALNUMBER$ $NICKNAME$ $FAMILY_MALE$"
  interior_northwestern_femalename:1 "$NAME_FEMALE$ $REGNALNUMBER$ $NICKNAME$ $FAMILY_MALE$"
+ centromexa_malename:1 "$NAME_MALE$ $REGNALNUMBER$ $NICKNAME$ $FAMILY_MALE$"
+ centromexa_femalename:1 "$NAME_FEMALE$ $REGNALNUMBER$ $NICKNAME$ $FAMILY_MALE$"
+ lumbee_malename:1 "$NAME_MALE$ $REGNALNUMBER$ $NICKNAME$ $FAMILY_MALE$"
+ lumbee_femalename:1 "$NAME_FEMALE$ $REGNALNUMBER$ $NICKNAME$ $FAMILY_MALE$"

@@ -1,0 +1,247 @@
+﻿lumbee = {
+	color = rgb { 122 103 157 }
+
+	levy_template = levy_thracians
+	
+	primary = light_infantry
+	second = heavy_cavalry
+	flank = horse_archers
+
+	primary_navy = tetrere
+	secondary_navy = octere
+	flank_navy = liburnian
+
+	male_names = {
+		Aaron Alfred Allen Alton Alvin Ancil Anthony Ashton Avery
+		Benford Benjamin Billy Bradley
+		Charles Chris Clifton Corbin
+		Dale Daniel David Dean Delany Dewey Douglas
+		Earl Ellis Everett
+		Frank
+		Gary Gaston Gene Gerald Greg
+		Hamilton Harlan Harvey Hayes Henry Horace
+		Isaac
+		Jackson James Jarrod Jimmy Johnny Joseph Joshua Julian
+		Kelvin Kent Kenwin
+		Landon Larry Lee Leroy Lonnie Lowry Luther
+		Malcolm Maxton Mike
+		Nate Neil Newman Norman
+		Patrick
+		Raymond Reginald Ricky Rod Ryan
+		Sanford Simeon
+		Terrell Terry Tommy
+		Vernon
+		Wesley William Woodrow
+		Zachariah
+	}
+	female_names = {
+		Alice Anita Ann Arlinda Ashley
+		Belinda Brittany
+		Candice Carol
+		Effie Erica
+		Grace
+		Hatty Hellen
+		Ida
+		Jana Jewel Jo_Ann Judy Julia
+		Kathy Kendra
+		Lacy Lanedra Lindsay Lisa Loretta Lorna
+		Madison Malinda Mary Mary_Beth
+		Onnette
+		Paula Peggy
+		Raisa Reena Rhoda Rhonda Rita Rosa Ruth
+		Sabrina Samantha Sandra Shania Sharon Shelley Stacey Sylvia
+		Theresa Tiffany
+		Wendy Whitney Wilma
+		Yolanda Yvonne
+	}
+	family = {
+		Adkins
+		Allison
+		Ammons
+		Anderson
+		Balfour
+		Barden
+		Barefoot
+		Barfield
+		Barnhill
+		Barton
+		Bass
+		Baxley
+		Bell
+		Bethea
+		Bibee
+		Bird
+		Black
+		Blackmon
+		Blackwell
+		Blanks
+		Blue
+		Bollinger
+		Bonnette
+		Boss
+		Branch
+		Braveboy
+		Brayboy
+		Brewer
+		Brewington
+		Britt
+		Brogden
+		Brooks
+		Brown
+		Broylin
+		Bryant
+		Buie
+		Bullard
+		Bullock
+		Burnett
+		Cain
+		Caldwell
+		Callahan
+		Campbell
+		Canady
+		Cannon
+		Carter
+		Caulder
+		Caulk
+		Chapman
+		Chavers
+		Chavis
+		Clark
+		Clearwater
+		Clewis
+		Cole
+		Coleman
+		Coler
+		Collins
+		Craddock
+		Criel
+		Cruz
+		Cryer
+		Cumbo
+		Cummings
+		Currie
+		Davenport
+		Deese
+		Dial
+		Dimery
+		Driggers
+		Dunn
+		Dyson
+		Eadens
+		Ellerby
+		Ellzey
+		Emanuel
+		Faircloth
+		Faulk
+		Fiveash
+		Flores
+		Flowers
+		Freeman
+		Furr
+		Gaddy
+		Gann
+		Gibson
+		Gilchrist
+		Glover
+		Godwin
+		Goins
+		Goolsby
+		Graham
+		Green
+		Grooms
+		Hagans
+		Hammonds
+		Hardin
+		Hargett
+		Harris
+		Haywood
+		Herring
+		Hester
+		Huggins
+		Hunt
+		Inman
+		Ivey
+		Jackson
+		Jacobs
+		Jenkins
+		Jones
+		Lamb
+		Leach
+		Leggett
+		Leviner
+		Little
+		Locklair
+		Locklear
+		Love
+		Lowery
+		Mainor
+		Maynor
+		McBryde
+		McCallum
+		McDougald
+		McEachun
+		McGirt
+		McMillan
+		McNair
+		McNeill
+		McPhatter
+		McPhaul
+		McQueen
+		McRae
+		Monroe
+		Moore
+		Murnahan
+		Nance
+		Norton
+		Odom
+		Oldham
+		Owens
+		Oxendine
+		Page
+		Parnell
+		Pate
+		Pierce
+		Prevatte
+		Purcell
+		Quick
+		Ransom
+		Revels
+		Rewis
+		Rice
+		Roberts
+		Rozier
+		Sampson
+		Sanderson
+		Santee
+		Sarvis
+		Scippio
+		Sealey
+		Seals
+		Sessoms
+		Singletary
+		Strickland
+		Stubbs
+		Sweat
+		Swett
+		Townsend
+		Tyner
+		Ward
+		Warriax
+		Wilkerson
+		Willoughby
+		Woodell
+		Woods
+	}
+	culture = {
+		lumbee = {}
+	}
+	
+	barbarian_names = { 
+		DREPSIANOI CHORASMIOI OUARNOI SKORDAI MAROUKAIOI TOCHAROI KOMOI CHOMAROI SALATARAE TAMBYZOI ZARIASPAEA
+	}
+	
+	graphical_culture = roman_gfx
+	ethnicities = {
+		10 = greek
+	}
+}

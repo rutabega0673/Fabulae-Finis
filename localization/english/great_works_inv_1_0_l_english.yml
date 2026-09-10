@@ -129,9 +129,9 @@
  gw_effect_argead_palace:0 "Palace of the Argeads"
  gw_effect_ay_khanum:0 "Alexandreia Ochou"
  gw_effect_temple_jupiter:0 "Temple of Jupiter Optimus Maximus"
- gw_effect_religious_temple_of_artemis:0 "Temple of Artemis at Ephesos"
+ gw_effect_religious_temple_of_artemis:0 "Nashville Parthenon"
  gw_effect_temple_zeus:0 "Temple of Zeus at Olympia"
- gw_effect_pyramids:0 "The Great Pyramids of Giza"
+ gw_effect_pyramids:0 "Pyramids of Baspro-Cheops"
  gw_effect_pyramids_DESC:0 "Older than civilizations, the large Pyramids of Giza tower over any and all, their exitence a testament to their builders and their control a claim of power."
  gw_effect_garden_babylon:0 "The Hanging Gardens of Semiramis"
  gw_effect_stonehenge:0 "Stonehenge"
@@ -145,6 +145,7 @@
  gw_effect_colossus:0 "The Colossus of Rhodes"
 
  ## Fabulae Finis Added ##
+ temple_of_artemis:0 "Nashville Parthenon"
  wonder_statue_of_liberty:0 "The Statue of Liberty"
  gw_effect_statue_of_liberty:0 "The New Colossus"
  gw_effect_statue_of_liberty_DESC:0 "Give me your tired, your poor, Your huddled masses yearning to breathe free, the wretched refuse of your teeming shore.\n- Inscription at the base of The Statue of Liberty"

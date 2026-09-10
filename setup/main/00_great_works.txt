@@ -5,31 +5,31 @@ provinces = {
 #	4 = { # Roma
 #		great_work=4
 #	}
-	290={ # Ephesos
+	642={ # Nashville
 		great_work=5
 	}
-	439={ # Olympia
-		great_work=8
-	}
-	536={ # Tentyris
+	#439={ # Olympia
+	#	great_work=8
+	#}
+	335={ # Memphis
 		great_work=11
 	}
-	918={ # Babylon
-		great_work=12
-	}
-	1981={
-		great_work=13
-	}
-	2012={
-		great_work=14
-	}
+	#918={ # Babylon
+	#	great_work=12
+	#}
+	#1981={
+	#	great_work=13
+	#}
+	#2012={
+	#	great_work=14
+	#}
 	
-	6978={
-		great_work=16
-	}
-	7314={
-		great_work=17
-	}	
+	#6978={
+	#	great_work=16
+	#}
+	#7314={
+	#	great_work=17
+	#}	
 }
 
 great_work_manager={	
