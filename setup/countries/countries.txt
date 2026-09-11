@@ -257,6 +257,8 @@ BEU = "setup/countries/south/beaumont.txt"
 RUS = "setup/countries/south/ruston.txt"
 ELO = "setup/countries/south/el_dorado_real.txt"
 MDL = "setup/countries/south/middle_delta.txt"
+WNS = "setup/countries/south/winston_salem.txt"
+WMM = "setup/countries/south/wilmington.txt"
 
 #West Coast
 SAC = "setup/countries/west_coast/sacramento.txt"

@@ -92,7 +92,7 @@
 1723={ #Swansea
 	terrain="forest"
 	culture="sandlapper"
-	religion="episcopalian"
+	religion="bahai"
 	trade_goods="cotton"
 	civilization_value=10
 	barbarian_power=0
@@ -105,7 +105,7 @@
 1724={ #Barnwell
 	terrain="plains"
 	culture="sandlapper"
-	religion="episcopalian"
+	religion="bahai"
 	trade_goods="cattle"
 	civilization_value=10
 	barbarian_power=0
@@ -118,7 +118,7 @@
 1780={ #Boiling Springs
 	terrain="plains"
 	culture="sandlapper"
-	religion="episcopalian"
+	religion="revelationist"
 	trade_goods="fish"
 	civilization_value=10
 	barbarian_power=0
@@ -131,7 +131,7 @@
 1781={ #Hampton
 	terrain="forest"
 	culture="sandlapper"
-	religion="episcopalian"
+	religion="springsearcher"
 	trade_goods="earthware"
 	civilization_value=10
 	barbarian_power=0
@@ -183,7 +183,7 @@
 2853={ #Marion
 	terrain="forest"
 	culture="sandlapper"
-	religion="bahai"
+	religion="revelationist"
 	trade_goods="vegetables"
 	civilization_value=10
 	barbarian_power=0
@@ -195,8 +195,8 @@
 
 2854={ #Bennettsville
 	terrain="plains"
-	culture="piedmontese"
-	religion="bahai"
+	culture="catawba"
+	religion="revelationist"
 	trade_goods="fish"
 	civilization_value=10
 	barbarian_power=0
@@ -208,8 +208,8 @@
 
 2855={ #Florence
 	terrain="plains"
-	culture="piedmontese"
-	religion="bahai"
+	culture="catawba"
+	religion="revelationist"
 	trade_goods="vegetables"
 	civilization_value=10
 	barbarian_power=0
@@ -221,8 +221,8 @@
 
 2856={ #Hartsville
 	terrain="forest"
-	culture="piedmontese"
-	religion="bahai"
+	culture="catawba"
+	religion="revelationist"
 	trade_goods="cotton"
 	civilization_value=10
 	barbarian_power=0
@@ -235,7 +235,7 @@
 3540={ #Beaufort
 	terrain="marsh"
 	culture="gullah"
-	religion="episcopalian"
+	religion="springsearcher"
 	trade_goods="rice"
 	civilization_value=10
 	barbarian_power=0
@@ -248,7 +248,7 @@
 3541={ #Hilton Head Island
 	terrain="marsh"
 	culture="gullah"
-	religion="episcopalian"
+	religion="springsearcher"
 	trade_goods="fish"
 	civilization_value=10
 	barbarian_power=0
@@ -261,7 +261,7 @@
 3542={ #Hollywood
 	terrain="marsh"
 	culture="sandlapper"
-	religion="episcopalian"
+	religion="springsearcher"
 	trade_goods="fish"
 	civilization_value=10
 	barbarian_power=0
@@ -287,7 +287,7 @@
 5453={ #Gaston
 	terrain="plains"
 	culture="piedmontese"
-	religion="episcopalian"
+	religion="bahai"
 	trade_goods="iron"
 	civilization_value=10
 	barbarian_power=0
@@ -300,7 +300,7 @@
 5454={ #Saint Andrews
 	terrain="flood_plain"
 	culture="piedmontese"
-	religion="episcopalian"
+	religion="bahai"
 	trade_goods="hemp"
 	civilization_value=10
 	barbarian_power=0
@@ -313,7 +313,7 @@
 5455={ #Lexington
 	terrain="plains"
 	culture="piedmontese"
-	religion="episcopalian"
+	religion="bahai"
 	trade_goods="cattle"
 	civilization_value=10
 	barbarian_power=0
@@ -391,7 +391,7 @@
 6672={ #Myrtle Beach
 	terrain="marsh"
 	culture="sandlapper"
-	religion="episcopalian"
+	religion="revelationist"
 	trade_goods="fish"
 	civilization_value=10
 	barbarian_power=0
@@ -404,7 +404,7 @@
 6673={ #Georgetown
 	terrain="marsh"
 	culture="sandlapper"
-	religion="bahai"
+	religion="revelationist"
 	trade_goods="rice"
 	civilization_value=10
 	barbarian_power=0
@@ -417,7 +417,7 @@
 6674={ #Conway
 	terrain="forest"
 	culture="sandlapper"
-	religion="bahai"
+	religion="revelationist"
 	trade_goods="beans"
 	civilization_value=10
 	barbarian_power=0
@@ -430,7 +430,7 @@
 7793={ #Holly Hill
 	terrain="forest"
 	culture="sandlapper"
-	religion="episcopalian"
+	religion="bahai"
 	trade_goods="stone"
 	civilization_value=10
 	barbarian_power=0
@@ -443,7 +443,7 @@
 7794={ #Orangeburg
 	terrain="forest"
 	culture="sandlapper"
-	religion="episcopalian"
+	religion="bahai"
 	trade_goods="stone"
 	civilization_value=10
 	barbarian_power=0
@@ -534,7 +534,7 @@
 8318={ #Lake City
 	terrain="forest"
 	culture="sandlapper"
-	religion="bahai"
+	religion="revelationist"
 	trade_goods="leather"
 	civilization_value=10
 	barbarian_power=0

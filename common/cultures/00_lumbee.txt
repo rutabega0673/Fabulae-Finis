@@ -1,4 +1,4 @@
-﻿lumbee = {
+﻿lumbee_group = {
 	color = rgb { 122 103 157 }
 
 	levy_template = levy_thracians
@@ -234,6 +234,7 @@
 	}
 	culture = {
 		lumbee = {}
+		catawba = {} #Catawba Tribe in SC
 	}
 	
 	barbarian_names = { 

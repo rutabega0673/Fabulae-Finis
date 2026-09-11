@@ -509,6 +509,10 @@
  ELO_ADJ:0 "El Doradan"
  MDL:0 "Delta"
  MDL_ADJ:0 "Deltaic"
+ WMM:0 "Wilmington"
+ WMM_ADJ:0 "Wilmingtonian"
+ WNS:0 "Winston-Salem"
+ WNS_ADJ:0 "Salemite"
 
  ## West Coast ##
  SAC:0 "Second Californian Republic"

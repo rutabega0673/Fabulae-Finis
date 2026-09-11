@@ -3079,7 +3079,7 @@ country = {
 			}
 
 			own_control_core = {
-				6547 3542 6545 6546 6673 6672 6674 7796 6544 2853 8318 2854 2856 2855 7795
+				6547 6546 6545 7796 7795 3542 6544 7793 7794
 			}
 		}
 		UPC = { # Upcountry
@@ -3113,7 +3113,7 @@ country = {
 			}
 
 			own_control_core = {
-				5456 5454 5455 5453 1723 7794 7793 8316 8317 1365 1092 1364 1363 1094 1724
+				5456 5454 5455 5453 1723 8316 8317 1365 1092 1364 1363 1094 1724
 			}
 		}
 		PDC = { # Piedmont Crescent
@@ -3130,7 +3130,7 @@ country = {
 			}
 
 			own_control_core = {
-				2504 2503 4609 6686 6688 6687 3861 3863 3862 1896 2502 1894 2505 4611 4610 6980 6978
+				2504 2503 4609 6686 6688 6687 3861 3863 3862 2502 2505 4611 4610 6980 6978
 			}
 		}
 		RAG = { # Raleigh
@@ -3148,7 +3148,7 @@ country = {
 			}
 
 			own_control_core = {
-				7392 2042 1897 2043 3683 3685 3684 7389 7391 7390 8890 2044 4356 1893 
+				7392 2042 1897 2043 3683 3685 3684 7389 7391 7390 8890 2044 4356 
 			}
 		}
 		CPF = { # Cape Fear
@@ -3165,7 +3165,7 @@ country = {
 			}
 
 			own_control_core = {
-				7992 7990 7989 7991 2727 2729 2726 2728 7993 7988 4357 3876 8889 6979 8888 8891 6981 1895
+				7992 7993 7990 7991 7988 7989 2727 4357
 			}
 		}
 		TON = { # Toronto
@@ -6037,6 +6037,40 @@ country = {
 
 			own_control_core = {
 				8487 5830 1829 676 8488 8486 6205 6204 675 677 2460 2461 2459 1831 1853 1854
+			}
+		}
+		WNS = { # Winston Salem
+			government = despotic_monarchy
+			primary_culture = piedmontese
+			religion = revelationist
+			capital = 1896
+
+			technology={
+				military_tech={ level=2 progress=0 }
+				civic_tech={ level=2 progress=0 }
+				religious_tech= { level=2 progress=0  }
+				oratory_tech= { level=2 progress =0 }
+			}
+
+			own_control_core = {
+				8891 1895 6981 6979 8889 8888 1893 1896 1894 
+			}
+		}
+		WMM = { # Wilmington
+			government = aristocratic_monarchy
+			primary_culture = sandlapper
+			religion = episcopalian
+			capital = 2728
+
+			technology={
+				military_tech={ level=2 progress=0 }
+				civic_tech={ level=2 progress=0 }
+				religious_tech= { level=2 progress=0  }
+				oratory_tech= { level=2 progress =0 }
+			}
+
+			own_control_core = {
+				2728 3876
 			}
 		}
 	}

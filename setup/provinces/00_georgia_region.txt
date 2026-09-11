@@ -170,7 +170,7 @@
 1869={ #Rincon
 	terrain="forest"
 	culture="dixie"
-	religion="episcopalian"
+	religion="springsearcher"
 	trade_goods="dye"
 	civilization_value=10
 	barbarian_power=0
@@ -872,7 +872,7 @@
 8763={ #Hinesville
 	terrain="forest"
 	culture="dixie"
-	religion="revelationist"
+	religion="springsearcher"
 	trade_goods="hemp"
 	civilization_value=10
 	barbarian_power=0
