@@ -87,6 +87,9 @@
  ## Afro-Diasporic Faiths ##
  vodou:0 "Vodou"
  desc_vodou:0 "Vodou originated in Haiti, and is a mixture of ancient West African beliefs and Catholicism. Vodouists are distinguished by their lack of formal organization and slightly closer relationship to mainstream Christianity. Vodouists also place less of an emphasis on communication with the dead, focusing instead on worship of the loas."
+
+ hoodoo:0 "Hoodoo"
+ desc_hoodoo:0 "Hoodoo is a collection of magical traditions and folk beliefs which combine West and Central African theology with Abrahamic elements. Often flexible, Hoodoo is extremely decentralized and subject to little in the way of orthodoxy, however the faith is unified in its reverence for John the Conqueror, a legendary hero whose namesake plant is ubiquitous within Hoodoo 'rootwork' or magic. Additionally, Hoodoo is often practiced in tandem or with heavy influences from Christianity. Ancestral spirits and their veneration is a primary element of Hoodoo practices, with the continuity and connection that the living have with their deceased forebearers playing a large role in how the faithful define themselves."
  
  ## Vernacular ## 
  revelationist:0 "Revelationist"

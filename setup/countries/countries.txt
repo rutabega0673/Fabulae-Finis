@@ -261,6 +261,9 @@ WNS = "setup/countries/south/winston_salem.txt"
 WMM = "setup/countries/south/wilmington.txt"
 MYR = "setup/countries/south/myrtle_beach.txt"
 RCC = "setup/countries/south/rock_hill.txt"
+PHP = "setup/countries/south/philadelphia.txt"
+ESC = "setup/countries/south/escambia.txt"
+PNS = "setup/countries/south/pensacola.txt"
 
 #West Coast
 SAC = "setup/countries/west_coast/sacramento.txt"

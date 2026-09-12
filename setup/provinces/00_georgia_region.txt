@@ -157,7 +157,7 @@
 1868={ #Savannah
 	terrain="marsh"
 	culture="gullah"
-	religion="springsearcher"
+	religion="hoodoo"
 	trade_goods="spices"
 	civilization_value=10
 	barbarian_power=0
@@ -170,7 +170,7 @@
 1869={ #Rincon
 	terrain="forest"
 	culture="dixie"
-	religion="springsearcher"
+	religion="hoodoo"
 	trade_goods="dye"
 	civilization_value=10
 	barbarian_power=0
@@ -300,7 +300,7 @@
 3568={ #Donalsonville
 	terrain="marsh"
 	culture="dixie"
-	religion="springsearcher"
+	religion="hoodoo"
 	trade_goods="fish"
 	civilization_value=10
 	barbarian_power=0
@@ -313,7 +313,7 @@
 3569={ #Newton
 	terrain="plains"
 	culture="dixie"
-	religion="springsearcher"
+	religion="hoodoo"
 	trade_goods="leather"
 	civilization_value=10
 	barbarian_power=0
@@ -326,7 +326,7 @@
 3570={ #Blakely
 	terrain="forest"
 	culture="tuskegean"
-	religion="revelationist"
+	religion="hoodoo"
 	trade_goods="cotton"
 	civilization_value=10
 	barbarian_power=0
@@ -391,7 +391,7 @@
 3818={ #Montezuma
 	terrain="forest"
 	culture="tuskegean"
-	religion="scottish_rite"
+	religion="evangelical"
 	trade_goods="clay"
 	civilization_value=10
 	barbarian_power=0
@@ -430,7 +430,7 @@
 4985={ #Douglas
 	terrain="forest"
 	culture="dixie"
-	religion="springsearcher"
+	religion="evangelical"
 	trade_goods="rice"
 	civilization_value=10
 	barbarian_power=0
@@ -456,7 +456,7 @@
 4987={ #Baxley
 	terrain="plains"
 	culture="dixie"
-	religion="springsearcher"
+	religion="evangelical"
 	trade_goods="clay"
 	civilization_value=10
 	barbarian_power=0
@@ -508,7 +508,7 @@
 5207={ #Albany
 	terrain="plains"
 	culture="tuskegean"
-	religion="revelationist"
+	religion="evangelical"
 	trade_goods="cotton"
 	civilization_value=10
 	barbarian_power=0
@@ -651,7 +651,7 @@
 6349={ #Blackshear
 	terrain="forest"
 	culture="sunshiner"
-	religion="springsearcher"
+	religion="hoodoo"
 	trade_goods="cattle"
 	civilization_value=10
 	barbarian_power=0
@@ -664,7 +664,7 @@
 6350={ #St Marys
 	terrain="marsh"
 	culture="gullah"
-	religion="springsearcher"
+	religion="hoodoo"
 	trade_goods="salt"
 	civilization_value=10
 	barbarian_power=0
@@ -677,7 +677,7 @@
 6351={ #Jesup
 	terrain="forest"
 	culture="dixie"
-	religion="springsearcher"
+	religion="hoodoo"
 	trade_goods="vegetables"
 	civilization_value=10
 	barbarian_power=0
@@ -690,7 +690,7 @@
 6352={ #Brunswick
 	terrain="marsh"
 	culture="gullah"
-	religion="springsearcher"
+	religion="hoodoo"
 	trade_goods="fish"
 	civilization_value=10
 	barbarian_power=0
@@ -742,7 +742,7 @@
 7114={ #Newnan
 	terrain="plains"
 	culture="atlantean"
-	religion="americanist"
+	religion="evangelical"
 	trade_goods="maize"
 	civilization_value=10
 	barbarian_power=0
@@ -755,7 +755,7 @@
 7115={ #Peachtree City
 	terrain="farmland"
 	culture="atlantean"
-	religion="americanist"
+	religion="evangelical"
 	trade_goods="fruits"
 	civilization_value=10
 	barbarian_power=0
@@ -781,7 +781,7 @@
 7206={ #Buena Vista
 	terrain="plains"
 	culture="tuskegean"
-	religion="revelationist"
+	religion="evangelical"
 	trade_goods="vegetables"
 	civilization_value=10
 	barbarian_power=0
@@ -794,7 +794,7 @@
 8349={ #West Point
 	terrain="plains"
 	culture="tuskegean"
-	religion="revelationist"
+	religion="evangelical"
 	trade_goods="clay"
 	civilization_value=10
 	barbarian_power=0
@@ -820,7 +820,7 @@
 8351={ #Lagrange
 	terrain="plains"
 	culture="tuskegean"
-	religion="revelationist"
+	religion="evangelical"
 	trade_goods="clay"
 	civilization_value=10
 	barbarian_power=0
@@ -859,7 +859,7 @@
 8762={ #Richmond Hill
 	terrain="marsh"
 	culture="gullah"
-	religion="springsearcher"
+	religion="hoodoo"
 	trade_goods="salt"
 	civilization_value=10
 	barbarian_power=0
@@ -872,7 +872,7 @@
 8763={ #Hinesville
 	terrain="forest"
 	culture="dixie"
-	religion="springsearcher"
+	religion="hoodoo"
 	trade_goods="hemp"
 	civilization_value=10
 	barbarian_power=0
@@ -885,7 +885,7 @@
 8764={ #Hinesville 
 	terrain="marsh"
 	culture="gullah"
-	religion="springsearcher"
+	religion="hoodoo"
 	trade_goods="earthware"
 	civilization_value=10
 	barbarian_power=0
@@ -963,7 +963,7 @@
 9433={ #Waycross
 	terrain="plains"
 	culture="sunshiner"
-	religion="springsearcher"
+	religion="evangelical"
 	trade_goods="leather"
 	civilization_value=10
 	barbarian_power=0
@@ -1015,7 +1015,7 @@
 9437={ #Homerville
 	terrain="forest"
 	culture="dixie"
-	religion="springsearcher"
+	religion="evangelical"
 	trade_goods="leather"
 	civilization_value=10
 	barbarian_power=0

@@ -92,7 +92,7 @@
 1723={ #Swansea
 	terrain="forest"
 	culture="piedmontese"
-	religion="bahai"
+	religion="evangelical"
 	trade_goods="cotton"
 	civilization_value=10
 	barbarian_power=0
@@ -105,7 +105,7 @@
 1724={ #Barnwell
 	terrain="plains"
 	culture="piedmontese"
-	religion="bahai"
+	religion="evangelical"
 	trade_goods="cattle"
 	civilization_value=10
 	barbarian_power=0
@@ -131,7 +131,7 @@
 1781={ #Hampton
 	terrain="forest"
 	culture="sandlapper"
-	religion="springsearcher"
+	religion="hoodoo"
 	trade_goods="earthware"
 	civilization_value=10
 	barbarian_power=0
@@ -183,7 +183,7 @@
 2853={ #Marion
 	terrain="forest"
 	culture="piedmontese"
-	religion="revelationist"
+	religion="evangelical"
 	trade_goods="vegetables"
 	civilization_value=10
 	barbarian_power=0
@@ -196,7 +196,7 @@
 2854={ #Bennettsville
 	terrain="plains"
 	culture="piedmontese"
-	religion="revelationist"
+	religion="evangelical"
 	trade_goods="fish"
 	civilization_value=10
 	barbarian_power=0
@@ -209,7 +209,7 @@
 2855={ #Florence
 	terrain="plains"
 	culture="piedmontese"
-	religion="revelationist"
+	religion="hoodoo"
 	trade_goods="vegetables"
 	civilization_value=10
 	barbarian_power=0
@@ -222,7 +222,7 @@
 2856={ #Hartsville
 	terrain="forest"
 	culture="piedmontese"
-	religion="revelationist"
+	religion="hoodoo"
 	trade_goods="cotton"
 	civilization_value=10
 	barbarian_power=0
@@ -235,7 +235,7 @@
 3540={ #Beaufort
 	terrain="marsh"
 	culture="gullah"
-	religion="springsearcher"
+	religion="hoodoo"
 	trade_goods="rice"
 	civilization_value=10
 	barbarian_power=0
@@ -248,7 +248,7 @@
 3541={ #Hilton Head Island
 	terrain="marsh"
 	culture="gullah"
-	religion="springsearcher"
+	religion="hoodoo"
 	trade_goods="fish"
 	civilization_value=10
 	barbarian_power=0
@@ -261,7 +261,7 @@
 3542={ #Hollywood
 	terrain="marsh"
 	culture="gullah"
-	religion="springsearcher"
+	religion="hoodoo"
 	trade_goods="fish"
 	civilization_value=10
 	barbarian_power=0
@@ -482,7 +482,7 @@
 8117={ #New Ellenton
 	terrain="plains"
 	culture="piedmontese"
-	religion="revelationist"
+	religion="evangelical"
 	trade_goods="beans"
 	civilization_value=10
 	barbarian_power=0
@@ -495,7 +495,7 @@
 8118={ #Aiken
 	terrain="forest"
 	culture="piedmontese"
-	religion="revelationist"
+	religion="evangelical"
 	trade_goods="beans"
 	civilization_value=10
 	barbarian_power=0

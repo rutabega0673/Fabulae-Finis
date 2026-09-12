@@ -107,7 +107,7 @@
 1078={ #New Albany
 	terrain="forest"
 	culture="deltaic"
-	religion="revelationist"
+	religion="hoodoo"
 	trade_goods="woad"
 	civilization_value=10
 	barbarian_power=0
@@ -120,7 +120,7 @@
 1079={ #Holly Springs
 	terrain="forest"
 	culture="deltaic"
-	religion="revelationist"
+	religion="hoodoo"
 	trade_goods="cotton"
 	civilization_value=10
 	barbarian_power=0
@@ -406,7 +406,7 @@
 4809={ #Tupelo
 	terrain="farmland"
 	culture="tuskegean"
-	religion="revelationist"
+	religion="hoodoo"
 	trade_goods="wood"
 	civilization_value=10
 	barbarian_power=0
@@ -419,7 +419,7 @@
 4810={ #Booneville
 	terrain="farmland"
 	culture="tuskegean"
-	religion="revelationist"
+	religion="hoodoo"
 	trade_goods="wood"
 	civilization_value=10
 	barbarian_power=0
@@ -471,7 +471,7 @@
 5859={ #Wiggins
 	terrain="plains"
 	culture="dixie"
-	religion="springsearcher"
+	religion="evangelical"
 	trade_goods="rice"
 	civilization_value=10
 	barbarian_power=0
@@ -484,7 +484,7 @@
 5860={ #Hattiesburg
 	terrain="forest"
 	culture="dixie"
-	religion="revelationist"
+	religion="evangelical"
 	trade_goods="wood"
 	civilization_value=10
 	barbarian_power=0
@@ -497,7 +497,7 @@
 5861={ #Columbia
 	terrain="plains"
 	culture="dixie"
-	religion="revelationist"
+	religion="evangelical"
 	trade_goods="salt"
 	civilization_value=10
 	barbarian_power=0
@@ -510,7 +510,7 @@
 5987={ #De Kalb
 	terrain="forest"
 	culture="tuskegean"
-	religion="revelationist"
+	religion="hoodoo"
 	trade_goods="salt"
 	civilization_value=10
 	barbarian_power=0
@@ -523,7 +523,7 @@
 5988={ #Livingston
 	terrain="forest"
 	culture="tuskegean"
-	religion="revelationist"
+	religion="hoodoo"
 	trade_goods="earthware"
 	civilization_value=10
 	barbarian_power=0
@@ -536,7 +536,7 @@
 5989={ #Meridian
 	terrain="forest"
 	culture="tuskegean"
-	religion="revelationist"
+	religion="hoodoo"
 	trade_goods="leather"
 	civilization_value=10
 	barbarian_power=0
@@ -679,7 +679,7 @@
 7822={ #Starkville
 	terrain="forest"
 	culture="tuskegean"
-	religion="revelationist"
+	religion="hoodoo"
 	trade_goods="cattle"
 	civilization_value=10
 	barbarian_power=0
@@ -692,7 +692,7 @@
 7823={ #Aberdeen
 	terrain="forest"
 	culture="tuskegean"
-	religion="revelationist"
+	religion="hoodoo"
 	trade_goods="horses"
 	civilization_value=10
 	barbarian_power=0
@@ -705,7 +705,7 @@
 7824={ #West Point
 	terrain="plains"
 	culture="tuskegean"
-	religion="revelationist"
+	religion="hoodoo"
 	trade_goods="iron"
 	civilization_value=10
 	barbarian_power=0

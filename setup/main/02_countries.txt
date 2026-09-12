@@ -1015,7 +1015,7 @@ country = {
 		GUL = { # Savannah
 			government = league_republic
 			primary_culture = gullah
-			religion = springsearcher
+			religion = hoodoo
 			capital = 1868
 
 			technology={
@@ -1837,13 +1837,13 @@ country = {
 			}
 
 			own_control_core = {
-				2718 6724 6725 6292 6291 6290 585 583 584 2719
+				2718 6724 6725 583 584 2719
 				4715 11629 4716 8936 7743 7742 7741 11630 2717
-				4952 4953 8365 4497 4495 4496 4954
+				4952 4953 8365 4497 4495 4496 
 				7469 4643 4642 7471 4644 11628 6462 6464 6463 5345
 				7952 6726 7950 1551 11627 1549 1550 821 819 7470 820 7951 
 				5001 5002 5004 7387 7388 8348 7113 7386 7385 5344 5343 5003
-				4955 1668 1669 6171 6172 6170
+				6171 6172 6170
 				1616 1614 5988
 			}
 		}
@@ -2475,10 +2475,10 @@ country = {
 			capital = 886
 
 			technology={
-				military_tech={ level=2 progress=0 }
-				civic_tech={ level=2 progress=0 }
-				religious_tech= { level=2 progress=0  }
-				oratory_tech= { level=2 progress =0 }
+				military_tech={ level=1 progress=0 }
+				civic_tech={ level=1 progress=0 }
+				religious_tech= { level=1 progress=0  }
+				oratory_tech= { level=1 progress =0 }
 			}
 
 			own_control_core = {
@@ -2499,14 +2499,14 @@ country = {
 			}
 
 			own_control_core = {
-				9122 7304 1261 1260 1262 4663 4664 9123 1176 1178 4665 5860 5861 8366 8364 5859
-				1177 1615 5989
+				9122 7304 1261 1260 1262 4663 4664 9123 4665 5860 5861 8366 8364 5859
+				1615
 			}
 		}
 		TUP = { #Tupelo
 			government = tribal_federation
 			primary_culture = tuskegean
-			religion = revelationist
+			religion = hoodoo
 			capital = 4809
 
 			technology={
@@ -6105,6 +6105,57 @@ country = {
 
 			own_control_core = {
 				1094 1093 1092
+			}
+		}
+		PNS = { #Pensacola
+			government = plutocratic_republic
+			primary_culture = gulfard
+			religion = springsearcher
+			capital = 1668
+
+			technology={
+				military_tech={ level=1 progress=0 }
+				civic_tech={ level=1 progress=0 }
+				religious_tech= { level=1 progress=0  }
+				oratory_tech= { level=1 progress =0 }
+			}
+
+			own_control_core = {
+				1668 4955 1669
+			}
+		}
+		PHP = { #Philadelphia MS
+			government = tribal_federation
+			primary_culture = choctaw
+			religion = revelationist
+			capital = 1177
+
+			technology={
+				military_tech={ level=1 progress=0 }
+				civic_tech={ level=1 progress=0 }
+				religious_tech= { level=1 progress=0  }
+				oratory_tech= { level=1 progress =0 }
+			}
+
+			own_control_core = {
+				1177 1176 1178 5989
+			}
+		}
+		ESC = { #Escambia
+			government = despotic_monarchy
+			primary_culture = muscogee
+			religion = revelationist
+			capital = 6290
+
+			technology={
+				military_tech={ level=1 progress=0 }
+				civic_tech={ level=1 progress=0 }
+				religious_tech= { level=1 progress=0  }
+				oratory_tech= { level=1 progress =0 }
+			}
+
+			own_control_core = {
+				6290 585 4954 6291 6292
 			}
 		}
 	}

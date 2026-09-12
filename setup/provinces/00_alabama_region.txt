@@ -1,7 +1,7 @@
 ﻿583={ #Camden
 	terrain="forest"
 	culture="dixie"
-	religion="revelationist"
+	religion="evangelical"
 	trade_goods="cotton"
 	civilization_value=10
 	barbarian_power=0
@@ -14,7 +14,7 @@
 584={ #Greenville
 	terrain="forest"
 	culture="dixie"
-	religion="revelationist"
+	religion="evangelical"
 	trade_goods="horses"
 	civilization_value=10
 	barbarian_power=0
@@ -40,7 +40,7 @@
 819={ #Gordo
 	terrain="forest"
 	culture="dixie"
-	religion="revelationist"
+	religion="evangelical"
 	trade_goods="wood"
 	civilization_value=10
 	barbarian_power=0
@@ -53,7 +53,7 @@
 820={ #Eutaw
 	terrain="forest"
 	culture="tuskegean"
-	religion="revelationist"
+	religion="hoodoo"
 	trade_goods="earthware"
 	civilization_value=10
 	barbarian_power=0
@@ -66,7 +66,7 @@
 821={ #Jasper
 	terrain="forest"
 	culture="dixie"
-	religion="revelationist"
+	religion="evangelical"
 	trade_goods="cattle"
 	civilization_value=10
 	barbarian_power=0
@@ -141,7 +141,7 @@
 2718={ #Montgomery
 	terrain="farmland"
 	culture="tuskegean"
-	religion="revelationist"
+	religion="evangelical"
 	trade_goods="earthware"
 	civilization_value=10
 	barbarian_power=0
@@ -154,7 +154,7 @@
 2719={ #Luverne
 	terrain="plains"
 	culture="dixie"
-	religion="revelationist"
+	religion="evangelical"
 	trade_goods="wood"
 	civilization_value=10
 	barbarian_power=0
@@ -232,7 +232,7 @@
 4644={ #Haleyville
 	terrain="forest"
 	culture="dixie"
-	religion="revelationist"
+	religion="evangelical"
 	trade_goods="wood"
 	civilization_value=10
 	barbarian_power=0
@@ -479,7 +479,7 @@
 6724={ #Fort Deposit
 	terrain="plains"
 	culture="dixie"
-	religion="revelationist"
+	religion="evangelical"
 	trade_goods="grain"
 	civilization_value=10
 	barbarian_power=0
@@ -492,7 +492,7 @@
 6725={ #Selmont West Selmont
 	terrain="forest"
 	culture="dixie"
-	religion="revelationist"
+	religion="evangelical"
 	trade_goods="tubers"
 	civilization_value=10
 	barbarian_power=0
@@ -518,7 +518,7 @@
 7113={ #Carrollton
 	terrain="forest"
 	culture="atlantean"
-	religion="revelationist"
+	religion="evangelical"
 	trade_goods="horses"
 	civilization_value=10
 	barbarian_power=0
@@ -544,7 +544,7 @@
 7386={ #Heflin
 	terrain="hills"
 	culture="dixie"
-	religion="revelationist"
+	religion="evangelical"
 	trade_goods="fruits"
 	civilization_value=10
 	barbarian_power=0
@@ -570,7 +570,7 @@
 7388={ #Lineville
 	terrain="forest"
 	culture="dixie"
-	religion="revelationist"
+	religion="evangelical"
 	trade_goods="horses"
 	civilization_value=10
 	barbarian_power=0
@@ -583,7 +583,7 @@
 7469={ #Red Bay
 	terrain="forest"
 	culture="tuskegean"
-	religion="revelationist"
+	religion="hoodoo"
 	trade_goods="maize"
 	civilization_value=10
 	barbarian_power=0
@@ -596,7 +596,7 @@
 7470={ #Columbus
 	terrain="farmland"
 	culture="tuskegean"
-	religion="revelationist"
+	religion="hoodoo"
 	trade_goods="cattle"
 	civilization_value=10
 	barbarian_power=0
@@ -609,7 +609,7 @@
 7471={ #Amory
 	terrain="forest"
 	culture="tuskegean"
-	religion="revelationist"
+	religion="hoodoo"
 	trade_goods="salt"
 	civilization_value=10
 	barbarian_power=0
@@ -700,7 +700,7 @@
 8348={ #Y
 	terrain="forest"
 	culture="tuskegean"
-	religion="revelationist"
+	religion="evangelical"
 	trade_goods="grain"
 	civilization_value=10
 	barbarian_power=0
