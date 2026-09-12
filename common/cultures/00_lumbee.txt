@@ -235,6 +235,10 @@
 	culture = {
 		lumbee = {}
 		catawba = {} #Catawba Tribe in SC
+		saponi = {} #Various Saponi tribes in NC
+		waccamaw = {}
+		meherrin = {}
+		#coharie = {}
 	}
 	
 	barbarian_names = { 

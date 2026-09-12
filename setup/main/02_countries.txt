@@ -192,7 +192,7 @@ country = {
 			}
 
 			own_control_core = {
-				5068 6955 5066 5064 5067 1608 1605 1607 1763 1606 5065 1765 1764 9582 9581 9583 9584 1766 8685 8684 1767 8683 3150 3152 8682
+				5068 6955 5064 5067 1608 1605 1607 1606 5065 1765 1764 9582 9581 9584 1766 8685 8684 1767 8683 3150 3152 8682
 			}
 		}
 		VMI = {
@@ -2171,7 +2171,7 @@ country = {
 			}
 
 			own_control_core = {
-				3365 8019 8602 2063 3367 5170 5171 5172 3366 8020 8021 
+				3365 2063 3367 5170 5171 5172 3366 8020 8021 
 			}
 		}
 		GBY = { #Green Bay
@@ -2626,7 +2626,7 @@ country = {
 		}
 		EMD = { # Emerald Kingdom
 			government = despotic_monarchy
-			primary_culture = grangelander
+			primary_culture = cornhusker
 			religion = ozymandism
 			capital = 5882
 
@@ -2678,7 +2678,7 @@ country = {
 		}
 		IWY = { # Ioway
 			government = tribal_federation
-			primary_culture = ioway
+			primary_culture = dhegihan
 			religion = catholic
 			capital = 7313
 
@@ -2962,7 +2962,7 @@ country = {
 		}
 		KAS = { # Kansas
 			government = range_tribal_kingdom
-			primary_culture = grangelander
+			primary_culture = jayhawker
 			religion = heartful
 			capital = 6896
 
@@ -3066,7 +3066,7 @@ country = {
 		LWC = { # Lowcountry
 			government = aristocratic_monarchy
 			primary_culture = sandlapper
-			religion = bahai
+			religion = episcopalian
 			capital = 6547
 
 			technology={
@@ -3148,7 +3148,7 @@ country = {
 			}
 
 			own_control_core = {
-				7392 2042 1897 2043 3683 3685 3684 7389 7391 7390 8890 2044 4356 
+				7392 2042 1897 2043 3684 7389 7391 7390 8890 2044 4356 
 			}
 		}
 		CPF = { # Cape Fear
@@ -3470,7 +3470,7 @@ country = {
 		}
 		PTL = { # Platte
 			government = range_tribal_kingdom
-			primary_culture = grangelander
+			primary_culture = cornhusker
 			religion = loneranger
 			capital = 3898
 			centralization = 20
@@ -4723,7 +4723,7 @@ country = {
 		}
 		OTO = { # Otoe-Missouria
 			government = range_tribal_kingdom
-			primary_culture = otoe_missouria
+			primary_culture = dhegihan
 			religion = peyotist
 			capital = 7575
 
@@ -5708,7 +5708,7 @@ country = {
 			}
 
 			own_control_core = {
-				5803 5063
+				5803
 			}
 		}
 		NFK = { #Norfolk
@@ -6070,7 +6070,7 @@ country = {
 			}
 
 			own_control_core = {
-				2728 3876 2727 4357 4358 3877
+				2728 3876 4357 4358 3877
 			}
 		}
 		MYR = { # Myrtle Beach
@@ -6087,7 +6087,7 @@ country = {
 			}
 
 			own_control_core = {
-				6672 6673 6674 2729 2726
+				6672 6673 6674 2726
 			}
 		}
 		RCC = { # Rock Hill

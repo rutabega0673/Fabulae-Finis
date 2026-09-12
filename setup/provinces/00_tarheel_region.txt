@@ -78,7 +78,7 @@
 
 2043={ #Roxboro
 	terrain="plains"
-	culture="piedmontese"
+	culture="saponi"
 	religion="revelationist"
 	trade_goods="grain"
 	civilization_value=10
@@ -221,7 +221,7 @@
 
 2727={ #Burgaw
 	terrain="forest"
-	culture="sandlapper"
+	culture="waccamaw"
 	religion="episcopalian"
 	trade_goods="beans"
 	civilization_value=10
@@ -247,7 +247,7 @@
 
 2729={ #Whiteville
 	terrain="forest"
-	culture="sandlapper"
+	culture="waccamaw"
 	religion="episcopalian"
 	trade_goods="tobacco"
 	civilization_value=10
@@ -299,7 +299,7 @@
 
 3683={ #Henderson
 	terrain="plains"
-	culture="southron"
+	culture="saponi"
 	religion="revelationist"
 	trade_goods="clay"
 	civilization_value=10
@@ -312,7 +312,7 @@
 
 3684={ #Rocky Mount
 	terrain="plains"
-	culture="southron"
+	culture="saponi"
 	religion="evangelical"
 	trade_goods="horses"
 	civilization_value=10
@@ -325,7 +325,7 @@
 
 3685={ #Roanoke Rapids
 	terrain="plains"
-	culture="southron"
+	culture="saponi"
 	religion="evangelical"
 	trade_goods="fish"
 	civilization_value=10
@@ -845,7 +845,7 @@
 
 8019={ #Ahoskie
 	terrain="flood_plain"
-	culture="southron"
+	culture="meherrin"
 	religion="episcopalian"
 	trade_goods="dye"
 	civilization_value=10
@@ -858,7 +858,7 @@
 
 8020={ #Scotland Neck
 	terrain="plains"
-	culture="southron"
+	culture="saponi"
 	religion="evangelical"
 	trade_goods="vegetables"
 	civilization_value=10

@@ -104,7 +104,7 @@
 
 1763={ #Amherst
 	terrain="hills"
-	culture="southron"
+	culture="monacan"
 	religion="americanist"
 	trade_goods="precious_metals"
 	civilization_value=10
@@ -312,7 +312,7 @@
 
 5063={ #Charles City
 	terrain="plains"
-	culture="southron"
+	culture="mattaponi_pamunkey"
 	religion="americanist"
 	trade_goods="bodark"
 	civilization_value=10
@@ -351,7 +351,7 @@
 
 5066={ #Mechanicsville
 	terrain="forest"
-	culture="southron"
+	culture="mattaponi_pamunkey"
 	religion="americanist"
 	trade_goods="hemp"
 	civilization_value=10
@@ -728,7 +728,7 @@
 
 9583={ #Lunenburg
 	terrain="plains"
-	culture="southron"
+	culture="saponi"
 	religion="americanist"
 	trade_goods="grain"
 	civilization_value=10

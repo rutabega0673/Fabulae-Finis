@@ -1935,3 +1935,59 @@ VMI = { # Virginia Military Institue
 		instance = { scale = { 0.35 0.35 } position = { 0.2 0.25 } }
 	}
 }
+
+LWC = { # Lowcountry
+	pattern = "pattern_vertical_split_01.tga"
+	color1 = "ck2_blue"
+	color2 = "offwhite"
+
+	colored_emblem = {
+		texture = "ce_crescent_01.dds"
+		color1 = "offwhite"
+		instance = { rotation = 90 position = { 0.3 0.5 } scale = { 0.8 0.8 } }
+	}
+	colored_emblem = {
+		texture = "ce_woman_02.dds"
+		color1 = "pink_skin"
+		color2 = "mid_grey"
+		instance = { position = { 0.75 0.5} scale = { 0.7 0.7 }  }
+	}
+	colored_emblem = {
+		texture = "ce_11.dds"
+		color1 = "mid_grey"
+		instance = { position = { 0.92 0.32 } scale = { 0.25 0.35 } rotation = 180 }
+	}
+}
+
+MDC = { # Midcountry
+	pattern = "pattern_vertical_split_01.tga"
+	color1 = "navy_blue"
+	color2 = "offwhite"
+
+	colored_emblem = {
+		texture = "ce_star_6pt.dds"
+		color1 = "offwhite"
+		instance = { rotation = 90 position = { 0.25 0.18 } scale = { 0.4 0.4 } }
+		instance = { rotation = 90 position = { 0.25 0.50 } scale = { 0.4 0.4 } }
+		instance = { rotation = 90 position = { 0.25 0.8 } scale = { 0.4 0.4 } }
+	}
+	colored_emblem = {
+		texture = "ce_crescent_03.dds"
+		color1 = rgb { 140 78 172 }
+		color2 = rgb { 140 78 172 }
+		instance = { rotation = 90 position = { 0.73 0.5 } scale = { 0.65 0.65 } rotation = -90 }
+	}
+}
+
+UPC = { # Midcountry
+	pattern = "pattern_solid.tga"
+	color1 = "light_blue"
+	color2 = "offwhite"
+
+	colored_emblem = {
+		texture = "ce_greenville_seal.dds"
+		color1 = "ck2_green"
+		color2 = "silver"
+		#instance = { rotation = 90 position = { 0.25 0.25 } scale = { 0.5 0.5 } }
+	}
+}

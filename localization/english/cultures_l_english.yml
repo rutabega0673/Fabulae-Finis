@@ -381,10 +381,20 @@
  sanluisito:0 "Sanluisito"
  tapatio:0 "Tapatio"
 
- ## Lumbee ##
- lumbee_group:0 "Carolinian"
+ ## Native Carolinian ##
+ lumbee_group:0 "Native Carolinian"
  lumbee:0 "Lumbee"
  catawba:0 "Iswa"
+ saponi:0 "Saponi"
+ waccamaw:0 "Waccamaw"
+ meherrin:0 "Meherrin"
+ coharie:0 "Coharie"
+
+ ## Native Virginian ##
+ native_virginian:0 "Native Virginian"
+ mattaponi_pamunkey:0 "Mattaponi-Pamunkey"
+ monacan:0 "Monacan"
+
 
  ## NAMING ##
  yankee_malename:1 "$NAME_MALE$ $REGNALNUMBER$ $NICKNAME$ $FAMILY_MALE$"
@@ -481,3 +491,5 @@
  centromexa_femalename:1 "$NAME_FEMALE$ $REGNALNUMBER$ $NICKNAME$ $FAMILY_MALE$"
  lumbee_group_malename:1 "$NAME_MALE$ $REGNALNUMBER$ $NICKNAME$ $FAMILY_MALE$"
  lumbee_group_femalename:1 "$NAME_FEMALE$ $REGNALNUMBER$ $NICKNAME$ $FAMILY_MALE$"
+ native_virginian_malename:1 "$NAME_MALE$ $REGNALNUMBER$ $NICKNAME$ $FAMILY_MALE$"
+ native_virginian_femalename:1 "$NAME_FEMALE$ $REGNALNUMBER$ $NICKNAME$ $FAMILY_MALE$"
