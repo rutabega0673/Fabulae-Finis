@@ -117,7 +117,7 @@
 
 1013={ #South Fulton
 	terrain="plains"
-	culture="bootheeler"
+	culture="riverlander"
 	religion="egyptology"
 	trade_goods="wood"
 	civilization_value=10
@@ -455,7 +455,7 @@
 
 6151={ #Dyersburg
 	terrain="plains"
-	culture="bootheeler"
+	culture="riverlander"
 	religion="egyptology"
 	trade_goods="cattle"
 	civilization_value=10
@@ -468,7 +468,7 @@
 
 6152={ #Brownsville
 	terrain="plains"
-	culture="deltaic"
+	culture="riverlander"
 	religion="egyptology"
 	trade_goods="grain"
 	civilization_value=10
@@ -481,7 +481,7 @@
 
 6153={ #Martin
 	terrain="plains"
-	culture="bootheeler"
+	culture="riverlander"
 	religion="egyptology"
 	trade_goods="leather"
 	civilization_value=10
@@ -494,7 +494,7 @@
 
 6154={ #Union City
 	terrain="plains"
-	culture="bootheeler"
+	culture="riverlander"
 	religion="egyptology"
 	trade_goods="cotton"
 	civilization_value=10

@@ -1,6 +1,6 @@
 ﻿937={ #Galax
 	terrain="mountain"
-	culture="appalachian"
+	culture="melungeon"
 	religion="omenteller"
 	trade_goods="wood"
 	civilization_value=10
@@ -676,7 +676,7 @@
 
 8833={ #Blacksburg
 	terrain="mountain"
-	culture="appalachian"
+	culture="melungeon"
 	religion="omenteller"
 	trade_goods="precious_metals"
 	civilization_value=10

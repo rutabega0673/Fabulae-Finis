@@ -74,6 +74,8 @@
  grangelander:0 "Grangelander"
  okie:0 "Okie" 
  driftlander:0 "Driftlander"
+ jayhawker:0 "Jayhawker" 
+ cornhusker:0 "Cornhusker"
 
  ## Laurentian ##
  laurentian:0 "Laurentian"
@@ -114,6 +116,7 @@
  butternutter:0 "Butternutter"
  riverlander:0 "Riverlander"
  bootheeler:0 "Bootheeler"
+ melungeon:0 "Melungeon"
 
  ## Missourien ##
  missourien:0 "Haute-Louisianais"
@@ -381,7 +384,7 @@
  ## Lumbee ##
  lumbee_group:0 "Carolinian"
  lumbee:0 "Lumbee"
- catawba:0 "Catawba"
+ catawba:0 "Iswa"
 
  ## NAMING ##
  yankee_malename:1 "$NAME_MALE$ $REGNALNUMBER$ $NICKNAME$ $FAMILY_MALE$"

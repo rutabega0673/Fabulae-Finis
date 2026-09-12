@@ -728,7 +728,7 @@
 
 6260={ #Walnut Ridge
 	terrain="plains"
-	culture="bootheeler"
+	culture="riverlander"
 	religion="revelationist"
 	trade_goods="wood"
 	civilization_value=10
@@ -741,7 +741,7 @@
 
 6261={ #Paragould
 	terrain="plains"
-	culture="bootheeler"
+	culture="riverlander"
 	religion="egyptology"
 	trade_goods="grain"
 	civilization_value=10
@@ -754,7 +754,7 @@
 
 6262={ #Jonesboro
 	terrain="farmland"
-	culture="bootheeler"
+	culture="riverlander"
 	religion="egyptology"
 	trade_goods="cattle"
 	civilization_value=10

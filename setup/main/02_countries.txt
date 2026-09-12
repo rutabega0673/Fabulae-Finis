@@ -479,7 +479,7 @@ country = {
 		}
 		IRN = { #Ironton
 			government = tribal_federation
-			primary_culture = bootheeler
+			primary_culture = ozark
 			religion = missisippian
 			capital = 2958
 			centralization = 30
@@ -586,7 +586,7 @@ country = {
 		}
 		BTH = { #Bootheel
 			government = tribal_kingdom
-			primary_culture = bootheeler
+			primary_culture = riverlander
 			religion = twainist
 			capital = 5536
 
@@ -1028,12 +1028,11 @@ country = {
 			own_control_core = {
 				1868 1869 8762 8763 8764 #savannah_area
 				6349 6351 6352 #st_marys_area
-				3540 3541 #charleston_sc_area
-				1781 4987
+				4987
 			}
 		}
 		COL = { # Columbus
-			government = aristocratic_republic
+			government = despotic_monarchy
 			primary_culture = tuskegean
 			religion = revelationist
 			capital = 7205
@@ -1068,8 +1067,7 @@ country = {
 			own_control_core = {
 				1253 8701 #savannah_area
 				8700 8938 8939 #sparta_area
-				8117 8118 #lexington_sc_area
-				1780 6499 2355 1252 2354
+				6499 2355 1252 2354
 			}
 		}
 		MAC = { # Macon
@@ -2173,7 +2171,7 @@ country = {
 			}
 
 			own_control_core = {
-				3365 8019 8602 2063 3367 5170 3877 5171 5172 3366 8020 8021 4358
+				3365 8019 8602 2063 3367 5170 5171 5172 3366 8020 8021 
 			}
 		}
 		GBY = { #Green Bay
@@ -2561,7 +2559,7 @@ country = {
 		}
 		BRI = { #Bristol
 			government = tribal_kingdom
-			primary_culture = appalachian
+			primary_culture = melungeon
 			religion = omenteller
 			capital = 7353
 
@@ -3079,7 +3077,7 @@ country = {
 			}
 
 			own_control_core = {
-				6547 6546 6545 7796 7795 3542 6544 7793 7794
+				6547 6546 6545 7796 7795 3542 6544 7793 1781 3541 3540
 			}
 		}
 		UPC = { # Upcountry
@@ -3096,7 +3094,7 @@ country = {
 			}
 
 			own_control_core = {
-				8986 5047 8989 8987 1093 1091 1879 1877 1878 8988
+				8986 5047 8989 8987 1878 1091 1879 1877 8988
 			}
 		}
 		MDC = { # Midcountry
@@ -3113,7 +3111,9 @@ country = {
 			}
 
 			own_control_core = {
-				5456 5454 5455 5453 1723 8316 8317 1365 1092 1364 1363 1094 1724
+				5456 5454 5455 5453 1365 1364 1363 
+				1723 7794 1724 8117 8118 8316 8317 1780
+				2856 2855 8318
 			}
 		}
 		PDC = { # Piedmont Crescent
@@ -3130,7 +3130,7 @@ country = {
 			}
 
 			own_control_core = {
-				2504 2503 4609 6686 6688 6687 3861 3863 3862 2502 2505 4611 4610 6980 6978
+				2504 2503 4609 6686 6688 6687 3861 3863 3862 2505 4611 4610
 			}
 		}
 		RAG = { # Raleigh
@@ -3165,7 +3165,7 @@ country = {
 			}
 
 			own_control_core = {
-				7992 7993 7990 7991 7988 7989 2727 4357
+				7992 7993 7990 7991 7988 7989 2854 2853 
 			}
 		}
 		TON = { # Toronto
@@ -5233,7 +5233,7 @@ country = {
 			}
 
 			own_control_core = {
-				1188 6350 1191
+				1188 6350 1191 9102 9434
 			}
 		}
 		FYT = { #Fayettville
@@ -6053,7 +6053,7 @@ country = {
 			}
 
 			own_control_core = {
-				8891 1895 6981 6979 8889 8888 1893 1896 1894 
+				8891 1895 6981 6979 8889 8888 1893 1896 1894 6978 6980 2502
 			}
 		}
 		WMM = { # Wilmington
@@ -6070,7 +6070,41 @@ country = {
 			}
 
 			own_control_core = {
-				2728 3876
+				2728 3876 2727 4357 4358 3877
+			}
+		}
+		MYR = { # Myrtle Beach
+			government = plutocratic_monarchy
+			primary_culture = sandlapper
+			religion = revelationist
+			capital = 6672
+
+			technology={
+				military_tech={ level=2 progress=0 }
+				civic_tech={ level=2 progress=0 }
+				religious_tech= { level=2 progress=0  }
+				oratory_tech= { level=2 progress =0 }
+			}
+
+			own_control_core = {
+				6672 6673 6674 2729 2726
+			}
+		}
+		RCC = { # Rock Hill
+			government = despotic_monarchy
+			primary_culture = catawba
+			religion = bahai
+			capital = 1094
+
+			technology={
+				military_tech={ level=2 progress=0 }
+				civic_tech={ level=2 progress=0 }
+				religious_tech= { level=2 progress=0  }
+				oratory_tech= { level=2 progress =0 }
+			}
+
+			own_control_core = {
+				1094 1093 1092
 			}
 		}
 	}

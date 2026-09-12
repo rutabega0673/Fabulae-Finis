@@ -425,8 +425,8 @@
  PDC_ADJ:0 "Piedmontese"
  RAG:0 "Triangle"
  RAG_ADJ:0 "Triangler"
- CPF:0 "Cape Fear"
- CPF_ADJ:0 "Fearite"
+ CPF:0 "Fayettville"
+ CPF_ADJ:0 "Fayetteviller"
  AGU:0 "First Coast"
  AGU_ADJ:0 "First Coaster"
  MOS:0 "Orlando" 
@@ -513,6 +513,10 @@
  WMM_ADJ:0 "Wilmingtonian"
  WNS:0 "Winston-Salem"
  WNS_ADJ:0 "Salemite"
+ MYR:0 "Myrtle Beach"
+ MYR_ADJ:0 "Myrtler"
+ RCC:0 "Rock Hill"
+ RCC_ADJ:0 "Rock Hill"
 
  ## West Coast ##
  SAC:0 "Second Californian Republic"

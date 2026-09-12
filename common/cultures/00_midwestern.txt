@@ -2677,6 +2677,8 @@
 			}
 		}
 		heartlander = {}
+		jayhawker = {}
+		cornhusker = {}
 		grangelander = {
 			male_names = {
 				Abednego Abraham Absalom Adam Ahad Aiden Al Albert Alexander Alfred Allen Alton Alvin American Amzi Andy Anson Anton Antonin Art Arthur Asa Ashton Austin 

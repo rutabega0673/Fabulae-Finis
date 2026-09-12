@@ -663,7 +663,7 @@
 
 6350={ #St Marys
 	terrain="marsh"
-	culture="sunshiner"
+	culture="gullah"
 	religion="springsearcher"
 	trade_goods="salt"
 	civilization_value=10

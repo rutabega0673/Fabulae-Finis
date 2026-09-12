@@ -2824,6 +2824,7 @@
 		}
 		riverlander = {}
 		bootheeler = {}
+		melungeon = {} #IRL Melungeon people - Appalachians of a ambigious race/creole people
 		susquehannan = {
 			male_names = {
 				Abram Adam Albert Alexander Alfred Anthony Armstrong

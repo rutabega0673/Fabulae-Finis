@@ -26,7 +26,7 @@
 
 585={ #Monroeville
 	terrain="forest"
-	culture="dixie"
+	culture="muscogee"
 	religion="revelationist"
 	trade_goods="hemp"
 	civilization_value=10
@@ -400,7 +400,7 @@
 
 6290={ #Brewton
 	terrain="forest"
-	culture="dixie"
+	culture="muscogee"
 	religion="revelationist"
 	trade_goods="cattle"
 	civilization_value=10
@@ -413,7 +413,7 @@
 
 6291={ #Andalusia
 	terrain="forest"
-	culture="dixie"
+	culture="muscogee"
 	religion="revelationist"
 	trade_goods="cotton"
 	civilization_value=10
@@ -426,7 +426,7 @@
 
 6292={ #Opp
 	terrain="forest"
-	culture="dixie"
+	culture="muscogee"
 	religion="revelationist"
 	trade_goods="tobacco"
 	civilization_value=10

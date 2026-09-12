@@ -117,7 +117,7 @@
 
 497={ #Arnold
 	terrain="steppes"
-	culture="grangelander"
+	culture="cornhusker"
 	religion="loneranger"
 	trade_goods="wild_game"
 	civilization_value=10
@@ -130,7 +130,7 @@
 
 586={ #Iola
 	terrain="plains"
-	culture="ozark"
+	culture="jayhawker"
 	religion="heartful"
 	trade_goods="vegetables"
 	civilization_value=10
@@ -143,7 +143,7 @@
 
 587={ #Garnett
 	terrain="plains"
-	culture="ozark"
+	culture="jayhawker"
 	religion="heartful"
 	trade_goods="wood"
 	civilization_value=10
@@ -156,7 +156,7 @@
 
 657={ #Wayne
 	terrain="steppes"
-	culture="dakota"
+	culture="cornhusker"
 	religion="peyotist"
 	trade_goods="fish"
 	civilization_value=10
@@ -169,7 +169,7 @@
 
 658={ #Hartington
 	terrain="steppes"
-	culture="dakota"
+	culture="cornhusker"
 	religion="peyotist"
 	trade_goods="wild_game"
 	civilization_value=10
@@ -182,7 +182,7 @@
 
 659={ #Norfolk
 	terrain="steppes"
-	culture="grangelander"
+	culture="cornhusker"
 	religion="ozymandism"
 	trade_goods="cattle"
 	civilization_value=10
@@ -195,7 +195,7 @@
 
 959={ #Schuyler
 	terrain="steppes"
-	culture="grangelander"
+	culture="cornhusker"
 	religion="ozymandism"
 	trade_goods="cattle"
 	civilization_value=10
@@ -208,7 +208,7 @@
 
 960={ #South Sioux City
 	terrain="plains"
-	culture="dakota"
+	culture="cornhusker"
 	religion="peyotist"
 	trade_goods="cloth"
 	civilization_value=10
@@ -234,7 +234,7 @@
 
 1458={ #O'Neill
 	terrain="steppes"
-	culture="grangelander"
+	culture="cornhusker"
 	religion="ozymandism"
 	trade_goods="bodark"
 	civilization_value=10
@@ -247,7 +247,7 @@
 
 1459={ #Neligh
 	terrain="steppes"
-	culture="grangelander"
+	culture="cornhusker"
 	religion="ozymandism"
 	trade_goods="buffalo"
 	civilization_value=10
@@ -260,7 +260,7 @@
 
 1460={ #Creighton
 	terrain="steppes"
-	culture="grangelander"
+	culture="cornhusker"
 	religion="ozymandism"
 	trade_goods="bodark"
 	civilization_value=10
@@ -286,7 +286,7 @@
 
 1516={ #Hutchinson
 	terrain="steppes"
-	culture="grangelander"
+	culture="jayhawker"
 	religion="heartful"
 	trade_goods="buffalo"
 	civilization_value=10
@@ -312,7 +312,7 @@
 
 2117={ #Concordia
 	terrain="steppes"
-	culture="grangelander"
+	culture="jayhawker"
 	religion="heartful"
 	trade_goods="tubers"
 	civilization_value=10
@@ -325,7 +325,7 @@
 
 2118={ #Belleville
 	terrain="steppes"
-	culture="grangelander"
+	culture="jayhawker"
 	religion="heartful"
 	trade_goods="cloth"
 	civilization_value=10
@@ -338,7 +338,7 @@
 
 2119={ #Beatrice
 	terrain="steppes"
-	culture="grangelander"
+	culture="jayhawker"
 	religion="heartful"
 	trade_goods="buffalo"
 	civilization_value=10
@@ -468,7 +468,7 @@
 
 3897={ #Lexington
 	terrain="steppes"
-	culture="grangelander"
+	culture="cornhusker"
 	religion="loneranger"
 	trade_goods="cattle"
 	civilization_value=10
@@ -481,7 +481,7 @@
 
 3898={ #Grand Island
 	terrain="steppes"
-	culture="grangelander"
+	culture="cornhusker"
 	religion="loneranger"
 	trade_goods="steppe_horses"
 	civilization_value=10
@@ -494,7 +494,7 @@
 
 3899={ #Hastings
 	terrain="steppes"
-	culture="grangelander"
+	culture="cornhusker"
 	religion="heartful"
 	trade_goods="vegetables"
 	civilization_value=10
@@ -598,7 +598,7 @@
 
 5146={ #Ainsworth
 	terrain="steppes"
-	culture="grangelander"
+	culture="cornhusker"
 	religion="ozymandism"
 	trade_goods="steppe_horses"
 	civilization_value=10
@@ -624,7 +624,7 @@
 
 5148={ #Brewster
 	terrain="hills"
-	culture="grangelander"
+	culture="cornhusker"
 	religion="ozymandism"
 	trade_goods="buffalo"
 	civilization_value=10
@@ -663,7 +663,7 @@
 
 5882={ #Lincoln
 	terrain="farmland"
-	culture="grangelander"
+	culture="cornhusker"
 	religion="ozymandism"
 	trade_goods="earthware"
 	civilization_value=10
@@ -702,7 +702,7 @@
 
 6358={ #Clay Center
 	terrain="forest"
-	culture="grangelander"
+	culture="jayhawker"
 	religion="heartful"
 	trade_goods="cattle"
 	civilization_value=10
@@ -715,7 +715,7 @@
 
 6359={ #Burlington
 	terrain="plains"
-	culture="grangelander"
+	culture="jayhawker"
 	religion="heartful"
 	trade_goods="vegetables"
 	civilization_value=10
@@ -728,7 +728,7 @@
 
 6360={ #Fredonia
 	terrain="forest"
-	culture="grangelander"
+	culture="jayhawker"
 	religion="catholic"
 	trade_goods="bodark"
 	civilization_value=10
@@ -741,7 +741,7 @@
 
 6636={ #Coffeyville
 	terrain="plains"
-	culture="grangelander"
+	culture="jayhawker"
 	religion="revelationist"
 	trade_goods="bodark"
 	civilization_value=10
@@ -754,7 +754,7 @@
 
 6637={ #Labette
 	terrain="plains"
-	culture="grangelander"
+	culture="jayhawker"
 	religion="revelationist"
 	trade_goods="cattle"
 	civilization_value=10
@@ -806,7 +806,7 @@
 
 6896={ #Topeka
 	terrain="farmland"
-	culture="grangelander"
+	culture="jayhawker"
 	religion="heartful"
 	trade_goods="marble"
 	civilization_value=25
@@ -840,7 +840,7 @@
 
 6897={ #Holton
 	terrain="plains"
-	culture="grangelander"
+	culture="jayhawker"
 	religion="catholic"
 	trade_goods="cloth"
 	civilization_value=10
@@ -853,7 +853,7 @@
 
 6898={ #Silver Lake
 	terrain="plains"
-	culture="grangelander"
+	culture="jayhawker"
 	religion="heartful"
 	trade_goods="buffalo"
 	civilization_value=10
@@ -866,7 +866,7 @@
 
 7049={ #El Dorado
 	terrain="forest"
-	culture="grangelander"
+	culture="jayhawker"
 	religion="heartful"
 	trade_goods="beer"
 	civilization_value=10
@@ -879,7 +879,7 @@
 
 7050={ #Emporia
 	terrain="plains"
-	culture="grangelander"
+	culture="jayhawker"
 	religion="heartful"
 	trade_goods="buffalo"
 	civilization_value=10
@@ -892,7 +892,7 @@
 
 7051={ #Hillsboro
 	terrain="steppes"
-	culture="grangelander"
+	culture="jayhawker"
 	religion="heartful"
 	trade_goods="vegetables"
 	civilization_value=10
@@ -983,7 +983,7 @@
 
 7370={ #Lawrence
 	terrain="farmland"
-	culture="heartlander"
+	culture="jayhawker"
 	religion="heartful"
 	trade_goods="horses"
 	civilization_value=10
@@ -996,7 +996,7 @@
 
 7372={ #Wyandotte
 	terrain="plains"
-	culture="heartlander"
+	culture="jayhawker"
 	religion="catholic"
 	trade_goods="maize"
 	civilization_value=10
@@ -1009,7 +1009,7 @@
 
 7410={ #Salina
 	terrain="steppes"
-	culture="grangelander"
+	culture="jayhawker"
 	religion="heartful"
 	trade_goods="grain"
 	civilization_value=20
@@ -1029,7 +1029,7 @@
 
 7411={ #Ellsworth
 	terrain="steppes"
-	culture="grangelander"
+	culture="jayhawker"
 	religion="heartful"
 	trade_goods="buffalo"
 	civilization_value=18
@@ -1052,7 +1052,7 @@
 
 7412={ #McPherson
 	terrain="steppes"
-	culture="grangelander"
+	culture="jayhawker"
 	religion="heartful"
 	trade_goods="bodark"
 	civilization_value=18
@@ -1074,7 +1074,7 @@
 
 7413={ #Great Bend
 	terrain="steppes"
-	culture="grangelander"
+	culture="jayhawker"
 	religion="heartful"
 	trade_goods="clay"
 	civilization_value=18
@@ -1096,7 +1096,7 @@
 
 7466={ #Albion
 	terrain="steppes"
-	culture="grangelander"
+	culture="cornhusker"
 	religion="ozymandism"
 	trade_goods="woad"
 	civilization_value=10
@@ -1109,7 +1109,7 @@
 
 7467={ #Greeley
 	terrain="steppes"
-	culture="grangelander"
+	culture="cornhusker"
 	religion="ozymandism"
 	trade_goods="fur"
 	civilization_value=10
@@ -1122,7 +1122,7 @@
 
 7468={ #Saint Paul
 	terrain="steppes"
-	culture="grangelander"
+	culture="cornhusker"
 	religion="ozymandism"
 	trade_goods="maize"
 	civilization_value=10
@@ -1135,7 +1135,7 @@
 
 7648={ #Geneva
 	terrain="steppes"
-	culture="grangelander"
+	culture="cornhusker"
 	religion="ozymandism"
 	trade_goods="beer"
 	civilization_value=10
@@ -1148,7 +1148,7 @@
 
 7649={ #York
 	terrain="steppes"
-	culture="grangelander"
+	culture="cornhusker"
 	religion="ozymandism"
 	trade_goods="buffalo"
 	civilization_value=10
@@ -1161,7 +1161,7 @@
 
 7650={ #Columbus
 	terrain="steppes"
-	culture="grangelander"
+	culture="cornhusker"
 	religion="ozymandism"
 	trade_goods="marble"
 	civilization_value=10
@@ -1239,7 +1239,7 @@
 
 7896={ #Herington
 	terrain="steppes"
-	culture="grangelander"
+	culture="jayhawker"
 	religion="heartful"
 	trade_goods="beer"
 	civilization_value=10
@@ -1252,7 +1252,7 @@
 
 7897={ #Grandview Plaza
 	terrain="plains"
-	culture="grangelander"
+	culture="jayhawker"
 	religion="heartful"
 	trade_goods="vegetables"
 	civilization_value=10
@@ -1265,7 +1265,7 @@
 
 7898={ #Manhattan
 	terrain="steppes"
-	culture="grangelander"
+	culture="jayhawker"
 	religion="heartful"
 	trade_goods="bodark"
 	civilization_value=10
@@ -1278,7 +1278,7 @@
 
 7899={ #Wamego
 	terrain="plains"
-	culture="grangelander"
+	culture="jayhawker"
 	religion="heartful"
 	trade_goods="maize"
 	civilization_value=10
@@ -1291,7 +1291,7 @@
 
 7900={ #Junction City
 	terrain="steppes"
-	culture="grangelander"
+	culture="jayhawker"
 	religion="heartful"
 	trade_goods="maize"
 	civilization_value=10

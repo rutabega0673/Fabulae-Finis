@@ -132,7 +132,7 @@
 
 2958={ #Ironton
 	terrain="hills"
-	culture="bootheeler"
+	culture="ozark"
 	religion="missisippian"
 	trade_goods="iron"
 	civilization_value=10
@@ -145,7 +145,7 @@
 
 2959={ #Fredericktown
 	terrain="forest"
-	culture="bootheeler"
+	culture="ozark"
 	religion="twainist"
 	trade_goods="clay"
 	civilization_value=20
@@ -346,7 +346,7 @@
 
 4001={ #Charleston
 	terrain="farmland"
-	culture="bootheeler"
+	culture="riverlander"
 	religion="egyptology"
 	trade_goods="cloth"
 	civilization_value=10
@@ -359,7 +359,7 @@
 
 4002={ #Sikeston
 	terrain="plains"
-	culture="bootheeler"
+	culture="riverlander"
 	religion="twainist"
 	trade_goods="maple"
 	civilization_value=10
@@ -600,7 +600,7 @@
 
 5536={ #Kennett
 	terrain="farmland"
-	culture="bootheeler"
+	culture="riverlander"
 	religion="egyptology"
 	trade_goods="clay"
 	civilization_value=10
@@ -613,7 +613,7 @@
 
 5537={ #Dexter
 	terrain="plains"
-	culture="bootheeler"
+	culture="riverlander"
 	religion="egyptology"
 	trade_goods="vegetables"
 	civilization_value=10
@@ -626,7 +626,7 @@
 
 5538={ #Malden
 	terrain="plains"
-	culture="bootheeler"
+	culture="riverlander"
 	religion="egyptology"
 	trade_goods="fur"
 	civilization_value=10
@@ -1037,7 +1037,7 @@
 
 8493={ #Nevada
 	terrain="plains"
-	culture="ozark"
+	culture="jayhawker"
 	religion="heartful"
 	trade_goods="cattle"
 	civilization_value=10
@@ -1050,7 +1050,7 @@
 
 8494={ #Butler
 	terrain="plains"
-	culture="ozark"
+	culture="heartlander"
 	religion="heartful"
 	trade_goods="wine"
 	civilization_value=20
@@ -1171,7 +1171,7 @@
 
 9345={ #Jasper
 	terrain="plains"
-	culture="ozark"
+	culture="jayhawker"
 	religion="revelationist"
 	trade_goods="honey"
 	civilization_value=10
@@ -1256,7 +1256,7 @@
 
 9509={ #Piedmont
 	terrain="hills"
-	culture="bootheeler"
+	culture="ozark"
 	religion="missisippian"
 	trade_goods="bodark"
 	civilization_value=10
@@ -1269,7 +1269,7 @@
 
 9510={ #Poplar Bluff
 	terrain="forest"
-	culture="bootheeler"
+	culture="ozark"
 	religion="missisippian"
 	trade_goods="wood"
 	civilization_value=10
