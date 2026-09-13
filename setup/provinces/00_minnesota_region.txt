@@ -30,7 +30,7 @@
 70={ #Kandi'oh-hi'-yu
 	terrain="plains"
 	culture="minnesotan"
-	religion="lutheran"
+	religion="ozymandism"
 	trade_goods="grain"
 	civilization_value=11
 	barbarian_power=0
@@ -139,7 +139,7 @@
 327={ #Wakute
 	terrain="plains"
 	culture="minnesotan"
-	religion="lutheran"
+	religion="ozymandism"
 	trade_goods="cloth"
 	civilization_value=22
 	barbarian_power=0
@@ -166,7 +166,7 @@
 328={ #Wapaha ša
 	terrain="hills"
 	culture="driftlander"
-	religion="lakeshore"
+	religion="ozymandism"
 	trade_goods="tubers"
 	civilization_value=22
 	barbarian_power=0
@@ -193,7 +193,7 @@
 329={ #Mazapa
 	terrain="farmland"
 	culture="minnesotan"
-	religion="lutheran"
+	religion="ozymandism"
 	trade_goods="beer"
 	civilization_value=26
 	barbarian_power=0
@@ -379,7 +379,7 @@
 1907={ #Washecha
 	terrain="plains"
 	culture="minnesotan"
-	religion="lutheran"
+	religion="ozymandism"
 	trade_goods="honey"
 	civilization_value=22
 	barbarian_power=0
@@ -406,7 +406,7 @@
 1908={ #Mankato
 	terrain="farmland"
 	culture="minnesotan"
-	religion="lutheran"
+	religion="ozymandism"
 	trade_goods="cloth"
 	civilization_value=24
 	barbarian_power=0
@@ -715,7 +715,7 @@
 7077={ #Anunka
 	terrain="plains"
 	culture="minnesotan"
-	religion="lakeshore"
+	religion="ozymandism"
 	trade_goods="wine"
 	civilization_value=20
 	barbarian_power=0
@@ -822,7 +822,7 @@
 8024={ #St. Paul
 	terrain="farmland"
 	culture="minnesotan"
-	religion="promethean"
+	religion="ozymandism"
 	trade_goods="cloth"
 	civilization_value=27
 	barbarian_power=0
@@ -857,7 +857,7 @@
 8025={ #Minneapolis
 	terrain="farmland"
 	culture="minnesotan"
-	religion="promethean"
+	religion="ozymandism"
 	trade_goods="marble"
 	civilization_value=27
 	barbarian_power=0
@@ -893,17 +893,20 @@
 8026={ #Bloomington
 	terrain="farmland"
 	culture="minnesotan"
-	religion="promethean"
+	religion="ozymandism"
 	trade_goods="earthware"
 	civilization_value=20
 	barbarian_power=0
 	province_rank="settlement"
 	citizen={
-		amount=1
+		amount=2
+	}
+	freemen={
+		amount=3
 	}
 	freemen={
 		religion="lutheran"
-		amount=3
+		amount=2
 	}
 	freemen={
 		religion="lakeshore"
@@ -934,7 +937,7 @@
 8150={ #Otsego
 	terrain="plains"
 	culture="minnesotan"
-	religion="lutheran"
+	religion="ozymandism"
 	trade_goods="beer"
 	civilization_value=20
 	barbarian_power=0
@@ -1087,7 +1090,7 @@
 8405={ #Shák'pí
 	terrain="plains"
 	culture="minnesotan"
-	religion="lutheran"
+	religion="ozymandism"
 	trade_goods="maize"
 	civilization_value=20
 	barbarian_power=0
@@ -1111,7 +1114,7 @@
 8406={ #Mahkato
 	terrain="plains"
 	culture="minnesotan"
-	religion="lutheran"
+	religion="ozymandism"
 	trade_goods="tubers"
 	civilization_value=22
 	barbarian_power=0
@@ -1130,7 +1133,7 @@
 8407={ #Chanhasen
 	terrain="plains"
 	culture="minnesotan"
-	religion="lutheran"
+	religion="ozymandism"
 	trade_goods="beer"
 	civilization_value=20
 	barbarian_power=0

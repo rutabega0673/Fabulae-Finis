@@ -23,7 +23,7 @@
 		culture_apotheosis_rel_tech_effect = yes
 	}
 }
-deity_civilization = {
+deity_civilization = { #1927 German film - Metropolis
 	trigger = {
 		
 		OR = {
@@ -62,7 +62,7 @@ deity_cosmopolitan = {
 	}
 	icon = deity_fertility
 	passive_modifier = { global_population_capacity_modifier = deity_global_population_capacity_modifier_svalue }
-	omen = { price_found_metropolis_cost_modifier = -0.25 } #Bonus from Omen
+	omen = { global_pop_assimilation_speed_modifier = omen_global_pop_assimilation_speed_modifier_svalue }
 	religion = ozymandism
 	deity_category = fertility #This Deity uses a War slot.
 	deification_trigger = {
@@ -96,5 +96,254 @@ deity_altruria = {
 
 	on_activate = {
 		economy_apotheosis_capital_citizens_effect = yes
+	}
+}
+deity_utopia = {
+	trigger = {
+		
+		OR = {
+			very_common_deity_trigger = {
+				RELIGION = ozymandism
+			}
+			deity:omen_ = {
+				holy_site_deity_check_trigger = yes
+			}
+		}
+	}
+	icon = deity_greek_culture
+	passive_modifier = { global_population_happiness = omen_global_population_happiness }
+	omen = { global_monthly_civilization = omen_global_monthly_civilization_svalue } #Bonus from Omen
+	religion = ozymandism
+	deity_category = culture
+	deification_trigger = {
+		can_deify_trigger = no
+	}
+
+	on_activate = {
+		economy_apotheosis_capital_citizens_effect = yes
+	}
+}
+deity_equality = { #Edwards Bellamy's 'Equality'
+	trigger = {
+		
+		OR = {
+			rare_deity_trigger = {
+				RELIGION = ozymandism
+			}
+			deity:omen_equality = {
+				holy_site_deity_check_trigger = yes
+			}
+		}
+	}
+	icon = deity_iberian_fertility
+	passive_modifier = { global_citizen_output = deity_global_citizen_output_svalue }
+	omen = { global_pop_promotion_speed_modifier = 0.20 }
+	religion = ozymandism
+	deity_category = fertility
+	deification_trigger = {
+		can_deify_trigger = no
+	}
+
+	on_activate = {
+		economy_apotheosis_capital_citizens_effect = yes
+	}
+}
+deity_suffrage = {
+	trigger = {
+		
+		OR = {
+			rare_deity_trigger = {
+				RELIGION = ozymandism
+			}
+			deity:omen_suffrage = {
+				holy_site_deity_check_trigger = yes
+			}
+		}
+	}
+	icon = deity_war
+	passive_modifier = { manpower_recovery_speed = deity_global_manpower_recovery_speed_svalue }
+	omen = { war_score_cost = omen_war_score_cost_svalue }
+	religion = ozymandism
+	deity_category = war
+	deification_trigger = {
+		can_deify_trigger = no
+	}
+
+	on_activate = {
+		military_apotheosis_military_experience_effect = yes
+	}
+}
+deity_pandora = {
+	trigger = {
+		
+		OR = {
+			rare_deity_trigger = {
+				RELIGION = ozymandism
+			}
+			deity:omen_pandora = {
+				holy_site_deity_check_trigger = yes
+			}
+		}
+	}
+	icon = deity_eloquence
+	passive_modifier = { global_freemen_happyness = deity_global_freemen_happyness_svalue }
+	omen = { happiness_for_same_culture_modifier = omen_happiness_for_same_culture_modifier_svalue } #Bonus from Omen
+	religion = ozymandism
+	deity_category = culture
+	deification_trigger = {
+		can_deify_trigger = no
+	}
+
+	on_activate = {
+		fertility_apotheosis_capital_effect = yes
+	}
+}
+deity_history = {
+	trigger = {
+		
+		OR = {
+			rare_deity_trigger = {
+				RELIGION = ozymandism
+			}
+			deity:omen_history = {
+				holy_site_deity_check_trigger = yes
+			}
+		}
+	}
+	icon = deity_iberian_culture
+	passive_modifier = { happiness_for_same_religion_modifier = deity_happiness_for_same_religion_modifier }
+	omen = { research_points_modifier = omen_research_points_modifier_svalue } #Bonus from Omen
+	religion = ozymandism
+	deity_category = culture
+	deification_trigger = {
+		can_deify_trigger = no
+	}
+
+	on_activate = {
+		culture_apotheosis_oratory_tech_effect = yes
+	}
+}
+deity_governor = { 
+	trigger = {
+		
+		OR = {
+			rare_deity_trigger = {
+				RELIGION = ozymandism
+			}
+			deity:omen_governor = {
+				holy_site_deity_check_trigger = yes
+			}
+		}
+	}
+	icon = deity_wealth
+	passive_modifier = { global_capital_trade_routes = deity_global_capital_trade_routes_svalue }
+	omen = { global_monthly_state_loyalty = omen_global_monthly_state_loyalty } #Bonus from Omen
+	religion = ozymandism
+	deity_category = economy
+	deification_trigger = {
+		can_deify_trigger = no
+	}
+
+	on_activate = {
+		economy_apotheosis_capital_citizens_effect = yes
+	}
+}
+deity_utopian_union = { #Various late 1800's/early 1900's Union and Labor movements
+	trigger = {
+		
+		OR = {
+			rare_deity_trigger = {
+				RELIGION = ozymandism
+			}
+			deity:omen_utopian_union = {
+				holy_site_deity_check_trigger = yes
+			}
+		}
+	}
+	icon = deity_war
+	passive_modifier = { global_defensive = omen_global_defensive_svalue }
+	omen = { manpower_recovery_speed = omen_manpower_recovery_speed }
+	religion = ozymandism
+	deity_category = war
+	deification_trigger = {
+		can_deify_trigger = no
+	}
+
+	on_activate = {
+		economy_apotheosis_capital_citizens_effect = yes
+	}
+}
+deity_greenback = {
+	trigger = {
+		
+		OR = {
+			rare_deity_trigger = {
+				RELIGION = ozymandism
+			}
+			deity:omen_greenback = {
+				holy_site_deity_check_trigger = yes
+			}
+		}
+	}
+	icon = deity_fertility
+	
+	religion = ozymandism
+	deity_category = fertility
+	deification_trigger = {
+		can_deify_trigger = no
+	}
+
+	on_activate = {
+		economy_apotheosis_capital_citizens_effect = yes
+	}
+}
+deity_arcadia = {
+	trigger = {
+		
+		OR = {
+			rare_deity_trigger = {
+				RELIGION = ozymandism
+			}
+			deity:omen_arcadia = {
+				holy_site_deity_check_trigger = yes
+			}
+		}
+	}
+	icon = deity_tribal_fertility
+	passive_modifier = { global_monthly_food_modifier = deity_global_monthly_food_modifier_svalue }
+	omen = { global_tribesmen_output = omen_global_tribesmen_output_svalue } #Bonus from Omen
+	religion = ozymandism
+	deity_category = fertility
+	deification_trigger = {
+		can_deify_trigger = no
+	}
+
+	on_activate = {
+		economy_apotheosis_province_improvement_effect = yes
+	}
+}
+deity_great_commoner = { #William Jennings Bryan, conflated with Jesus
+	trigger = {
+		
+		OR = {
+			common_deity_trigger = {
+				RELIGION = ozymandism
+			}
+			deity:omen_great_commoner = {
+				holy_site_deity_check_trigger = yes
+			}
+		}
+	}
+	icon = deity_iberian_culture
+	passive_modifier = { global_pop_conversion_speed_modifier = deity_global_pop_conversion_speed_modifier_svalue }
+	omen = { ruler_popularity_gain = omen_ruler_popularity_gain_svalue } #Bonus from Omen	
+	religion = ozymandism
+	deity_category = culture
+	deification_trigger = {
+		can_deify_trigger = no
+	}
+
+	on_activate = {
+		military_apotheosis_manpower_effect = yes
 	}
 }

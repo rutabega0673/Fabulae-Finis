@@ -16,5 +16,45 @@ deity_manager = {
 			key = omen_altruria
 			deity = deity_altruria
 		}
+		804 = {
+			key = omen_utopia
+			deity = deity_utopia
+		}
+		805 = {
+			key = omen_equality
+			deity = deity_equality
+		}
+		806 = {
+			key = omen_suffrage
+			deity = deity_suffrage
+		}
+		807 = {
+			key = omen_pandora
+			deity = deity_pandora
+		}
+		808 = {
+			key = omen_history
+			deity = deity_history
+		}
+		809 = {
+			key = omen_governor
+			deity = deity_governor
+		}
+		810 = {
+			key = omen_utopian_union
+			deity = deity_utopian_union
+		}
+		811 = {
+			key = omen_greenback
+			deity = deity_greenback
+		}
+		812 = {
+			key = omen_arcadia
+			deity = deity_arcadia
+		}
+		813 = {
+			key = omen_great_commoner
+			deity = deity_great_commoner
+		}
 	}
 }

@@ -1620,9 +1620,9 @@ country = {
 		}
 
 		MPL = { #Twin Cities
-			government = titanate
+			government = democratic_republic
 			primary_culture = minnesotan
-			religion = promethean
+			religion = ozymandism
 			capital = 8025
 			family=2
 

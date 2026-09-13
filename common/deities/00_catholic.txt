@@ -403,7 +403,7 @@ deity_saint_marie_laveau = {
 	}
 	icon = deity_tribal_eloquence
 	passive_modifier = { stability_monthly_change = deity_stability_monthly_change }
-	 omen = { ruler_popularity_gain = omen_ruler_popularity_gain_svalue } #Bonus from Omen
+	omen = { ruler_popularity_gain = omen_ruler_popularity_gain_svalue } #Bonus from Omen
 	religion = traiteurism
 	deity_category = culture #This Deity uses a War slot.
 	deification_trigger = {

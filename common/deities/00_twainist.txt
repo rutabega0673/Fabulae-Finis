@@ -387,6 +387,9 @@ deity_bellamy = { #Edward Bellamy, pseudo-socialist who wrote the utopian novel 
 			very_rare_deity_trigger = {
 				RELIGION = twainist
 			}
+			very_rare_deity_trigger = {
+				RELIGION = ozymandism
+			}
 			deity:omen_bellamy = {
 				holy_site_deity_check_trigger = yes
 			}

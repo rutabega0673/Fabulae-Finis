@@ -483,7 +483,7 @@
 3993={ #River Falls
 	terrain="hills"
 	culture="minnesotan"
-	religion="lakeshore"
+	religion="ozymandism"
 	trade_goods="limestone"
 	civilization_value=22
 	barbarian_power=0

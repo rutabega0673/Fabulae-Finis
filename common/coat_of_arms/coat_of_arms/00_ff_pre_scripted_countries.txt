@@ -1991,3 +1991,16 @@ UPC = { # Midcountry
 		#instance = { rotation = 90 position = { 0.25 0.25 } scale = { 0.5 0.5 } }
 	}
 }
+
+ESC = { # Escambia / Poarch Band of Creek (Muscogee)
+	pattern = "pattern_solid.tga"
+	color1 = rgb { 26 124 56 }
+	color2 = "offwhite"
+
+	colored_emblem = {
+		texture = "ce_poarch_flag.dds"
+		color1 = "roman_red"
+		color2 = "roman_gold"
+		instance = { position = { 0.5 0.55 } scale = { 1.5 1.5 } }
+	}
+}
