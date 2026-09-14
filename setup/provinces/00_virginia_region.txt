@@ -3,11 +3,11 @@
 	culture="melungeon"
 	religion="omenteller"
 	trade_goods="wood"
-	civilization_value=10
+	civilization_value=5
 	barbarian_power=0
 	province_rank="settlement"
 	tribesmen={
-		amount=1
+		amount=6
 	}
 }
 
@@ -16,11 +16,21 @@
 	culture="appalachian"
 	religion="americanist"
 	trade_goods="earthware"
-	civilization_value=10
+	civilization_value=28
 	barbarian_power=0
 	province_rank="settlement"
-	tribesmen={
-		amount=1
+	citizen={
+		amount=2
+	}
+	freemen={
+		amount=3
+	}
+	freemen={
+		culture="piedmontese"
+		amount=2
+	}
+	slaves={
+		amount=2
 	}
 }
 
@@ -29,11 +39,17 @@
 	culture="appalachian"
 	religion="americanist"
 	trade_goods="hallucinogenics"
-	civilization_value=10
+	civilization_value=28
 	barbarian_power=0
 	province_rank="settlement"
-	tribesmen={
-		amount=1
+	citizen={
+		amount=2
+	}
+	freemen={
+		amount=6
+	}
+	slaves={
+		amount=2
 	}
 }
 
@@ -42,11 +58,17 @@
 	culture="appalachian"
 	religion="americanist"
 	trade_goods="wild_game"
-	civilization_value=10
+	civilization_value=22
 	barbarian_power=0
 	province_rank="settlement"
-	tribesmen={
-		amount=1
+	citizen={
+		amount=2
+	}
+	freemen={
+		amount=6
+	}
+	slaves={
+		amount=2
 	}
 }
 
@@ -55,11 +77,14 @@
 	culture="southron"
 	religion="americanist"
 	trade_goods="horses"
-	civilization_value=10
+	civilization_value=23
 	barbarian_power=0
 	province_rank="settlement"
-	tribesmen={
-		amount=1
+	freemen={
+		amount=2
+	}
+	slaves={
+		amount=8
 	}
 }
 
@@ -68,11 +93,14 @@
 	culture="southron"
 	religion="americanist"
 	trade_goods="tobacco"
-	civilization_value=10
+	civilization_value=28
 	barbarian_power=0
 	province_rank="settlement"
-	tribesmen={
-		amount=1
+	freemen={
+		amount=2
+	}
+	slaves={
+		amount=8
 	}
 }
 
@@ -81,11 +109,17 @@
 	culture="southron"
 	religion="americanist"
 	trade_goods="tobacco"
-	civilization_value=10
+	civilization_value=28
 	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=1
+	province_rank="city"
+	citizen={
+		amount=5
+	}
+	freemen={
+		amount=6
+	}
+	slaves={
+		amount=8
 	}
 }
 
@@ -94,11 +128,17 @@
 	culture="southron"
 	religion="americanist"
 	trade_goods="maple"
-	civilization_value=10
+	civilization_value=26
 	barbarian_power=0
 	province_rank="settlement"
-	tribesmen={
-		amount=1
+	citizen={
+		amount=3
+	}
+	freemen={
+		amount=5
+	}
+	slaves={
+		amount=2
 	}
 }
 
@@ -107,11 +147,15 @@
 	culture="monacan"
 	religion="americanist"
 	trade_goods="precious_metals"
-	civilization_value=10
+	civilization_value=19
 	barbarian_power=0
 	province_rank="settlement"
-	tribesmen={
+	slaves={
+		culture="southron"
 		amount=1
+	}
+	tribesmen={
+		amount=5
 	}
 }
 
@@ -120,10 +164,14 @@
 	culture="southron"
 	religion="americanist"
 	trade_goods="horses"
-	civilization_value=10
+	civilization_value=25
 	barbarian_power=0
 	province_rank="settlement"
-	tribesmen={
+	freemen={
+		amount=4
+	}
+	slaves={
+		culture="monacan"
 		amount=1
 	}
 }
@@ -133,11 +181,14 @@
 	culture="southron"
 	religion="americanist"
 	trade_goods="cattle"
-	civilization_value=10
+	civilization_value=25
 	barbarian_power=0
 	province_rank="settlement"
-	tribesmen={
-		amount=1
+	freemen={
+		amount=4
+	}
+	slaves={
+		amount=2
 	}
 }
 
@@ -146,11 +197,17 @@
 	culture="southron"
 	religion="americanist"
 	trade_goods="tobacco"
-	civilization_value=10
+	civilization_value=23
 	barbarian_power=0
 	province_rank="settlement"
-	tribesmen={
-		amount=1
+	citizen={
+		amount=2
+	}
+	freemen={
+		amount=5
+	}
+	slaves={
+		amount=2
 	}
 }
 
@@ -159,11 +216,16 @@
 	culture="southron"
 	religion="americanist"
 	trade_goods="horses"
-	civilization_value=10
+	civilization_value=24
 	barbarian_power=0
 	province_rank="settlement"
+	freemen={
+		amount=3
+	}
 	tribesmen={
-		amount=1
+		culture="appalachian"
+		religion="omenteller"
+		amount=2
 	}
 }
 
@@ -172,11 +234,17 @@
 	culture="beltway"
 	religion="americanist"
 	trade_goods="tobacco"
-	civilization_value=10
+	civilization_value=27
 	barbarian_power=0
 	province_rank="settlement"
-	tribesmen={
-		amount=1
+	citizen={
+		amount=4
+	}
+	freemen={
+		amount=6
+	}
+	slaves={
+		amount=8
 	}
 }
 
@@ -185,11 +253,17 @@
 	culture="beltway"
 	religion="americanist"
 	trade_goods="wood"
-	civilization_value=10
+	civilization_value=27
 	barbarian_power=0
 	province_rank="settlement"
-	tribesmen={
-		amount=1
+	citizen={
+		amount=4
+	}
+	freemen={
+		amount=6
+	}
+	slaves={
+		amount=5
 	}
 }
 
@@ -198,11 +272,21 @@
 	culture="beltway"
 	religion="americanist"
 	trade_goods="tubers"
-	civilization_value=10
+	civilization_value=28
 	barbarian_power=0
 	province_rank="settlement"
-	tribesmen={
-		amount=1
+	citizen={
+		amount=4
+	}
+	freemen={
+		amount=6
+	}
+	slaves={
+		amount=3
+	}
+	slaves={
+		culture="southron"
+		amount=2
 	}
 }
 
@@ -211,10 +295,20 @@
 	culture="beltway"
 	religion="americanist"
 	trade_goods="clay"
-	civilization_value=10
+	civilization_value=27
 	barbarian_power=0
 	province_rank="settlement"
-	tribesmen={
+	citizen={
+		amount=3
+	}
+	freemen={
+		amount=4
+	}
+	slaves={
+		amount=3
+	}
+	slaves={
+		culture="southron"
 		amount=1
 	}
 }
@@ -224,11 +318,17 @@
 	culture="southron"
 	religion="episcopalian"
 	trade_goods="fruits"
-	civilization_value=10
+	civilization_value=28
 	barbarian_power=0
 	province_rank="settlement"
-	tribesmen={
-		amount=1
+	citizen={
+		amount=2
+	}
+	freemen={
+		amount=5
+	}
+	slaves={
+		amount=2
 	}
 }
 
@@ -237,11 +337,17 @@
 	culture="southron"
 	religion="episcopalian"
 	trade_goods="hemp"
-	civilization_value=10
+	civilization_value=28
 	barbarian_power=0
 	province_rank="settlement"
-	tribesmen={
-		amount=1
+	citizen={
+		amount=2
+	}
+	freemen={
+		amount=5
+	}
+	slaves={
+		amount=2
 	}
 }
 
@@ -250,11 +356,20 @@
 	culture="hoi_toider"
 	religion="americanist"
 	trade_goods="fruits"
-	civilization_value=10
+	civilization_value=26
 	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=1
+	province_rank="city"
+	nobles={
+		amount=4
+	}
+	citizen={
+		amount=5
+	}
+	freemen={
+		amount=9
+	}
+	slaves={
+		amount=7
 	}
 }
 
@@ -262,12 +377,21 @@
 	terrain="marsh"
 	culture="hoi_toider"
 	religion="americanist"
-	trade_goods="fish"
-	civilization_value=10
+	trade_goods="iron"
+	civilization_value=26
 	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=1
+	province_rank="city"
+	nobles={
+		amount=2
+	}
+	citizen={
+		amount=5
+	}
+	freemen={
+		amount=10
+	}
+	slaves={
+		amount=7
 	}
 }
 
@@ -276,11 +400,14 @@
 	culture="southron"
 	religion="americanist"
 	trade_goods="hemp"
-	civilization_value=10
+	civilization_value=26
 	barbarian_power=0
 	province_rank="settlement"
-	tribesmen={
-		amount=1
+	freemen={
+		amount=4
+	}
+	slaves={
+		amount=2
 	}
 }
 
@@ -289,11 +416,17 @@
 	culture="beltway"
 	religion="americanist"
 	trade_goods="horses"
-	civilization_value=10
+	civilization_value=28
 	barbarian_power=0
 	province_rank="settlement"
-	tribesmen={
-		amount=1
+	citizen={
+		amount=3
+	}
+	freemen={
+		amount=5
+	}
+	slaves={
+		amount=2
 	}
 }
 
@@ -302,11 +435,17 @@
 	culture="southron"
 	religion="americanist"
 	trade_goods="cattle"
-	civilization_value=10
+	civilization_value=26
 	barbarian_power=0
 	province_rank="settlement"
-	tribesmen={
-		amount=1
+	citizen={
+		amount=3
+	}
+	freemen={
+		amount=5
+	}
+	slaves={
+		amount=2
 	}
 }
 
@@ -315,11 +454,21 @@
 	culture="mattaponi_pamunkey"
 	religion="americanist"
 	trade_goods="bodark"
-	civilization_value=10
+	civilization_value=25
 	barbarian_power=0
 	province_rank="settlement"
-	tribesmen={
+	citizen={
+		amount=3
+	}
+	freemen={
+		amount=4
+	}
+	slaves={
 		amount=1
+	}
+	slaves={
+		culture="southron"
+		amount=2
 	}
 }
 
@@ -328,11 +477,25 @@
 	culture="southron"
 	religion="americanist"
 	trade_goods="horses"
-	civilization_value=10
+	civilization_value=27
 	barbarian_power=0
 	province_rank="settlement"
-	tribesmen={
+	citizen={
+		religion="episcopalian"
+		amount=3
+	}
+	citizen={
 		amount=1
+	}
+	freemen={
+		religion="evangelical"
+		amount=2
+	}
+	freemen={
+		amount=5
+	}
+	slaves={
+		amount=3
 	}
 }
 
@@ -341,11 +504,15 @@
 	culture="southron"
 	religion="americanist"
 	trade_goods="fruits"
-	civilization_value=10
+	civilization_value=24
 	barbarian_power=0
 	province_rank="settlement"
-	tribesmen={
-		amount=1
+	freemen={
+		amount=5
+	}
+	slaves={
+		religion="evangelical"
+		amount=3
 	}
 }
 
@@ -354,11 +521,18 @@
 	culture="mattaponi_pamunkey"
 	religion="americanist"
 	trade_goods="hemp"
-	civilization_value=10
+	civilization_value=22
 	barbarian_power=0
 	province_rank="settlement"
-	tribesmen={
+	citizen={
+		amount=2
+	}
+	freemen={
 		amount=1
+	}
+	slaves={
+		culture="southron"
+		amount=2
 	}
 }
 
@@ -367,11 +541,18 @@
 	culture="southron"
 	religion="americanist"
 	trade_goods="horses"
-	civilization_value=10
+	civilization_value=28
 	barbarian_power=0
 	province_rank="settlement"
-	tribesmen={
-		amount=1
+	citizen={
+		religion="episcopalian"
+		amount=3
+	}
+	freemen={
+		amount=8
+	}
+	slaves={
+		amount=6
 	}
 }
 
@@ -380,11 +561,41 @@
 	culture="southron"
 	religion="americanist"
 	trade_goods="cloth"
-	civilization_value=10
+	civilization_value=36
 	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=1
+	province_rank="city"
+	nobles={
+		amount=3
+	}
+	nobles={
+		religion="episcopalian"
+		amount=3
+	}
+	citizen={
+		culture="mattaponi_pamunkey"
+		religion="episcopalian"
+		amount=2
+	}
+	citizen={
+		amount=4
+	}
+	citizen={
+		religion="episcopalian"
+		amount=2
+	}
+	freemen={
+		amount=4
+	}
+	freemen={
+		religion="evangelical"
+		amount=5
+	}
+	slaves={
+		religion="evangelical"
+		amount=5
+	}
+	slaves={
+		amount=5
 	}
 }
 
@@ -393,11 +604,17 @@
 	culture="beltway"
 	religion="americanist"
 	trade_goods="leather"
-	civilization_value=10
+	civilization_value=30
 	barbarian_power=0
 	province_rank="settlement"
-	tribesmen={
-		amount=1
+	citizen={
+		amount=2
+	}
+	freemen={
+		amount=6
+	}
+	slaves={
+		amount=6
 	}
 }
 
@@ -406,11 +623,20 @@
 	culture="southron"
 	religion="americanist"
 	trade_goods="papyrus"
-	civilization_value=10
+	civilization_value=32
 	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=1
+	province_rank="city"
+	nobles={
+		amount=4
+	}
+	citizen={
+		amount=3
+	}
+	freemen={
+		amount=6
+	}
+	slaves={
+		amount=5
 	}
 }
 
@@ -419,10 +645,18 @@
 	culture="southron"
 	religion="americanist"
 	trade_goods="salt"
-	civilization_value=10
+	civilization_value=24
 	barbarian_power=0
 	province_rank="settlement"
+	freemen={
+		amount=4
+	}
+	slaves={
+		culture="hoi_toider"
+		amount=2
+	}
 	tribesmen={
+		culture="mattaponi_pamunkey"
 		amount=1
 	}
 }
@@ -432,11 +666,19 @@
 	culture="southron"
 	religion="americanist"
 	trade_goods="fish"
-	civilization_value=10
+	civilization_value=23
 	barbarian_power=0
 	province_rank="settlement"
+	freemen={
+		amount=4
+	}
+	slaves={
+		culture="hoi_toider"
+		amount=2
+	}
 	tribesmen={
-		amount=1
+		culture="mattaponi_pamunkey"
+		amount=2
 	}
 }
 
@@ -445,11 +687,24 @@
 	culture="southron"
 	religion="americanist"
 	trade_goods="papyrus"
-	civilization_value=10
+	civilization_value=28
 	barbarian_power=0
 	province_rank="settlement"
-	tribesmen={
+	nobles={
+		amount=4
+	}
+	citizen={
+		amount=3
+	}
+	freemen={
+		amount=3
+	}
+	freemen={
+		culture="mattaponi_pamunkey"
 		amount=1
+	}
+	slaves={
+		amount=4
 	}
 }
 
@@ -458,11 +713,17 @@
 	culture="southron"
 	religion="americanist"
 	trade_goods="hemp"
-	civilization_value=10
+	civilization_value=26
 	barbarian_power=0
 	province_rank="settlement"
-	tribesmen={
-		amount=1
+	citizen={
+		amount=2
+	}
+	freemen={
+		amount=4
+	}
+	slaves={
+		amount=2
 	}
 }
 
@@ -471,11 +732,17 @@
 	culture="southron"
 	religion="americanist"
 	trade_goods="tobacco"
-	civilization_value=10
+	civilization_value=25
 	barbarian_power=0
 	province_rank="settlement"
-	tribesmen={
+	citizen={
 		amount=1
+	}
+	freemen={
+		amount=4
+	}
+	slaves={
+		amount=2
 	}
 }
 
@@ -484,11 +751,17 @@
 	culture="southron"
 	religion="americanist"
 	trade_goods="cattle"
-	civilization_value=10
+	civilization_value=28
 	barbarian_power=0
 	province_rank="settlement"
-	tribesmen={
+	citizen={
 		amount=1
+	}
+	freemen={
+		amount=2
+	}
+	slaves={
+		amount=6
 	}
 }
 
@@ -497,11 +770,15 @@
 	culture="appalachian"
 	religion="americanist"
 	trade_goods="gems"
-	civilization_value=10
+	civilization_value=23
 	barbarian_power=0
 	province_rank="settlement"
+	citizen={
+		amount=2
+	}
 	tribesmen={
-		amount=1
+		religion="omenteller"
+		amount=4
 	}
 }
 
@@ -510,11 +787,22 @@
 	culture="appalachian"
 	religion="americanist"
 	trade_goods="wood"
-	civilization_value=10
+	civilization_value=23
 	barbarian_power=0
 	province_rank="settlement"
-	tribesmen={
+	citizen={
 		amount=1
+	}
+	freemen={
+		amount=2
+	}
+	freemen={
+		culture="deitsch"
+		amount=2
+	}
+	tribesmen={
+		religion="omenteller"
+		amount=4
 	}
 }
 
@@ -523,11 +811,21 @@
 	culture="appalachian"
 	religion="americanist"
 	trade_goods="precious_metals"
-	civilization_value=10
+	civilization_value=24
 	barbarian_power=0
 	province_rank="settlement"
-	tribesmen={
-		amount=1
+	citizen={
+		amount=2
+	}
+	freemen={
+		culture="deitsch"
+		amount=2
+	}
+	freemen={
+		amount=2
+	}
+	slaves={
+		amount=4
 	}
 }
 
@@ -536,11 +834,31 @@
 	culture="appalachian"
 	religion="americanist"
 	trade_goods="wild_game"
-	civilization_value=10
+	civilization_value=23
 	barbarian_power=0
 	province_rank="settlement"
-	tribesmen={
+	nobles={
+		culture="youser"
 		amount=1
+	}
+	citizen={
+		amount=1
+	}
+	citizen={
+		culture="beltway"
+		amount=1
+	}
+	citizen={
+		culture="southron"
+		amount=1
+	}
+	freemen={
+		amount=2
+	}
+	slaves={
+		culture="melungeon"
+		religion="omenteller"
+		amount=2
 	}
 }
 
@@ -549,11 +867,19 @@
 	culture="appalachian"
 	religion="americanist"
 	trade_goods="wood"
-	civilization_value=10
+	civilization_value=24
 	barbarian_power=0
 	province_rank="settlement"
-	tribesmen={
-		amount=1
+	citizen={
+		culture="deitsch"
+		amount=2
+	}
+	freemen={
+		culture="deitsch"
+		amount=2
+	}
+	slaves={
+		amount=4
 	}
 }
 
@@ -562,11 +888,20 @@
 	culture="beltway"
 	religion="americanist"
 	trade_goods="marble"
-	civilization_value=10
+	civilization_value=26
 	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=1
+	province_rank="city"
+	nobles={
+		amount=2
+	}
+	citizen={
+		amount=2
+	}
+	freemen={
+		amount=5
+	}
+	slaves={
+		amount=6
 	}
 }
 
@@ -575,11 +910,17 @@
 	culture="beltway"
 	religion="americanist"
 	trade_goods="tobacco"
-	civilization_value=10
+	civilization_value=26
 	barbarian_power=0
 	province_rank="settlement"
-	tribesmen={
+	citizen={
 		amount=1
+	}
+	freemen={
+		amount=4
+	}
+	slaves={
+		amount=8
 	}
 }
 
@@ -588,11 +929,14 @@
 	culture="beltway"
 	religion="americanist"
 	trade_goods="horses"
-	civilization_value=10
+	civilization_value=23
 	barbarian_power=0
 	province_rank="settlement"
-	tribesmen={
-		amount=1
+	freemen={
+		amount=4
+	}
+	slaves={
+		amount=2
 	}
 }
 
@@ -601,10 +945,17 @@
 	culture="southron"
 	religion="americanist"
 	trade_goods="bodark"
-	civilization_value=10
+	civilization_value=24
 	barbarian_power=0
 	province_rank="settlement"
+	freemen={
+		amount=3
+	}
+	slaves={
+		amount=2
+	}
 	tribesmen={
+		culture="mattaponi_pamunkey"
 		amount=1
 	}
 }
@@ -614,11 +965,14 @@
 	culture="appalachian"
 	religion="omenteller"
 	trade_goods="wild_game"
-	civilization_value=10
+	civilization_value=23
 	barbarian_power=0
 	province_rank="settlement"
-	tribesmen={
-		amount=1
+	freemen={
+		amount=3
+	}
+	slaves={
+		amount=6
 	}
 }
 
@@ -627,11 +981,14 @@
 	culture="appalachian"
 	religion="omenteller"
 	trade_goods="horses"
-	civilization_value=10
+	civilization_value=23
 	barbarian_power=0
 	province_rank="settlement"
-	tribesmen={
-		amount=1
+	freemen={
+		amount=3
+	}
+	slaves={
+		amount=6
 	}
 }
 
@@ -640,11 +997,14 @@
 	culture="southron"
 	religion="revelationist"
 	trade_goods="grain"
-	civilization_value=10
+	civilization_value=23
 	barbarian_power=0
 	province_rank="settlement"
-	tribesmen={
-		amount=1
+	freemen={
+		amount=3
+	}
+	slaves={
+		amount=6
 	}
 }
 
@@ -653,11 +1013,17 @@
 	culture="southron"
 	religion="americanist"
 	trade_goods="tubers"
-	civilization_value=10
+	civilization_value=25
 	barbarian_power=0
 	province_rank="settlement"
-	tribesmen={
-		amount=1
+	citizen={
+		amount=2
+	}
+	freemen={
+		amount=3
+	}
+	slaves={
+		amount=6
 	}
 }
 
@@ -666,11 +1032,14 @@
 	culture="appalachian"
 	religion="omenteller"
 	trade_goods="wood"
-	civilization_value=10
+	civilization_value=23
 	barbarian_power=0
 	province_rank="settlement"
-	tribesmen={
-		amount=1
+	freemen={
+		amount=3
+	}
+	slaves={
+		amount=6
 	}
 }
 
@@ -679,11 +1048,11 @@
 	culture="melungeon"
 	religion="omenteller"
 	trade_goods="precious_metals"
-	civilization_value=10
+	civilization_value=20
 	barbarian_power=0
 	province_rank="settlement"
 	tribesmen={
-		amount=1
+		amount=5
 	}
 }
 
@@ -692,11 +1061,11 @@
 	culture="appalachian"
 	religion="omenteller"
 	trade_goods="base_metals"
-	civilization_value=10
+	civilization_value=21
 	barbarian_power=0
 	province_rank="settlement"
 	tribesmen={
-		amount=1
+		amount=4
 	}
 }
 
@@ -705,11 +1074,17 @@
 	culture="southron"
 	religion="americanist"
 	trade_goods="tobacco"
-	civilization_value=10
+	civilization_value=26
 	barbarian_power=0
 	province_rank="settlement"
-	tribesmen={
+	citizen={
 		amount=1
+	}
+	freemen={
+		amount=2
+	}
+	slaves={
+		amount=8
 	}
 }
 
@@ -718,11 +1093,17 @@
 	culture="southron"
 	religion="americanist"
 	trade_goods="wood"
-	civilization_value=10
+	civilization_value=26
 	barbarian_power=0
 	province_rank="settlement"
-	tribesmen={
+	citizen={
 		amount=1
+	}
+	freemen={
+		amount=2
+	}
+	slaves={
+		amount=8
 	}
 }
 
@@ -731,11 +1112,17 @@
 	culture="saponi"
 	religion="americanist"
 	trade_goods="grain"
-	civilization_value=10
+	civilization_value=26
 	barbarian_power=0
 	province_rank="settlement"
-	tribesmen={
+	citizen={
 		amount=1
+	}
+	freemen={
+		amount=2
+	}
+	slaves={
+		amount=8
 	}
 }
 
@@ -744,11 +1131,17 @@
 	culture="southron"
 	religion="americanist"
 	trade_goods="wood"
-	civilization_value=10
+	civilization_value=26
 	barbarian_power=0
 	province_rank="settlement"
-	tribesmen={
+	citizen={
 		amount=1
+	}
+	freemen={
+		amount=2
+	}
+	slaves={
+		amount=8
 	}
 }
 

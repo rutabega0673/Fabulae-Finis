@@ -849,17 +849,20 @@
 	culture="beltway"
 	religion="americanist"
 	trade_goods="artifacts"
-	civilization_value=22
+	civilization_value=35
 	barbarian_power=0
-	province_rank="settlement"
+	province_rank="city"
+	nobles={
+		amount=7
+	}
 	citizen={
-		amount=2
+		amount=8
 	}
 	freemen={
-		amount=6
+		amount=10
 	}
 	slaves={
-		amount=4
+		amount=12
 	}
 }
 
@@ -868,17 +871,20 @@
 	culture="beltway"
 	religion="americanist"
 	trade_goods="leather"
-	civilization_value=22
+	civilization_value=33
 	barbarian_power=0
-	province_rank="settlement"
-	citizen={
+	province_rank="city"
+	nobles={
 		amount=2
 	}
+	citizen={
+		amount=3
+	}
 	freemen={
-		amount=6
+		amount=10
 	}
 	slaves={
-		amount=4
+		amount=12
 	}
 }
 
@@ -887,17 +893,14 @@
 	culture="beltway"
 	religion="americanist"
 	trade_goods="wine"
-	civilization_value=22
+	civilization_value=28
 	barbarian_power=0
 	province_rank="settlement"
-	citizen={
-		amount=2
-	}
 	freemen={
 		amount=6
 	}
 	slaves={
-		amount=4
+		amount=8
 	}
 }
 

@@ -57,6 +57,11 @@ VMS = "setup/countries/east_coast/williamsburg.txt"
 WDC = "setup/countries/east_coast/washington.txt"
 ARL = "setup/countries/east_coast/arlington.txt"
 VLL = "setup/countries/east_coast/villas.txt"
+ASH = "setup/countries/east_coast/ahsokie.txt"
+WAC = "setup/countries/east_coast/waccamaw.txt"
+AMH = "setup/countries/east_coast/amherst.txt"
+HPL = "setup/countries/east_coast/high_plains.txt"
+TCF	= "setup/countries/east_coast/twin_confederacy.txt"
 
 
 #Midwest

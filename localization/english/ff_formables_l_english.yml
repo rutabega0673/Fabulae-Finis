@@ -126,6 +126,15 @@
  SOUTHERN_EMPIRE_NAME:0 "Southland"
  SOUTHERN_EMPIRE_ADJECTIVE:0 "Southerner"
  form_southern_empire_claims_tooltip:0 "#Y Southland#! will gain claims on the regions of #Y Lwizyan#!, #Y Magnolia#!, #Y Alabama#!, #Y Georgia#!, and on the areas of #Y Panhandle#!, and #Y Tallahassee#!."
+
+ form_tsenacommacah:0 "Restore Tsenacommacah"
+ form_tsenacommacah_desc:0 "Tsenacommacah, also known as the Powhatan Confederacy, is the Land that was dwelt upon closely together. It was once united under Chief Powhatan, and under his reign, the land was expanded to it's greatest height. In time, it was dismantled by the English, and the peoples of Tsenacommacah were forced to flee the land, and faded away. As the last claimants to Powhatan's legacy, Tsenacommacah is ours to reclaim!"
+ tsenacommacah_does_not_exist:0 "#Y Tsenacommacah#! does not exist." 
+ TSENACOMMACAH_NAME:0 "Tsenacommacah"
+ TSENACOMMACAH_ADJ:0 "Tsenacommacah"
+ tsenacommacah_claims_tooltip:0 "#Y Tsenacommacah#! will gain claims on the region of #Y Virginia#!, and on the provinces of #Y Washington D.C.#!, and #Y Ahoskie#!."
+ powhatan_heritage:0 "Heritage of Powhatan's Legacy"
+ powhatan_heritage_desc:0 "The legendary ruler of Tsenacommacah, Powhatan was renowned for his diplomatic skill, quickly forming a powerful state out of the various Algonquian tribes in Virgina. Although his confederacy did not live on, his vision now lives on in the restored Tsenacommacah."
  
 
  ## Formable Events ##

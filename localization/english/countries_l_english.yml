@@ -114,7 +114,16 @@
  ARL_ADJ:0 "Arlingtonian"
  VLL:0 "Villas"
  VLL_ADJ:0 "Villan"
- 
+ ASH:0 "Ahoskie"
+ ASH_ADJ:0 "Ahoskian"
+ WAC:0 "Waccamaw"
+ WAC_ADJ:0 "Waccamaw" 
+ AMH:0 "Amherst"
+ AMH_ADJ:0 "Amherster"
+ HPL:0 "High Plains"
+ HPL_ADJ:0 "Saponi"
+ TCF:0 "Twin Confederacy"
+ TCF_ADJ:0 "Mattaponi-Pamunkey"
  
 
  ## Midwest ##

@@ -1,0 +1,87 @@
+country_decisions = {
+	form_tsenacommacah = {
+		
+		potential = {
+			num_of_cities >= 1
+			primary_culture = mattaponi_pamunkey
+			NOR = {
+					tag = POW
+					is_tier_2_formable_trigger = yes
+					is_endgame_tag_trigger = yes
+				}
+			}
+		
+		highlight = {
+			scope:province = {
+				OR = {
+					province_id = 5063
+					province_id = 5066
+					province_id = 5068
+					province_id = 5802
+					province_id = 2003
+					province_id = 6138
+					province_id = 5486
+					province_id = 6952
+					province_id = 5801
+					province_id = 5800 
+				}
+			}
+		}
+		
+		allow = {
+			custom_tooltip = {
+				text = tsenacommacah_does_not_exist
+				NOT = {
+					any_country = {
+						tag = POW
+					}
+				}
+			}
+			can_form_nation_trigger = yes
+			owns_or_subject_owns = 5063
+			owns_or_subject_owns = 5066
+			owns_or_subject_owns = 5068
+			owns_or_subject_owns = 5802
+			owns_or_subject_owns = 2003
+			owns_or_subject_owns = 6138
+			owns_or_subject_owns = 5486
+			owns_or_subject_owns = 6952
+			owns_or_subject_owns = 5801
+			owns_or_subject_owns = 5800
+		}
+		
+		
+		effect = {
+			custom_tooltip = "tier_2_formable_tooltip"
+			#change_government = aristocratic_monarchy
+			switch_government_type_event_clearup_effect = yes
+			change_country_name = "TSENACOMMACAH_NAME"
+			set_country_heritage = powhatan_heritage
+			capital_scope = {
+				capital_formable_medium_effect = yes
+				formable_capital_modifier_normal_effect = yes
+			}
+			current_ruler = {
+				add_nickname = "NICKNAME_POWHATAN"
+				add_trait = founder
+			}
+			hidden_effect = {
+				change_country_adjective = "TSENACOMMACAH_ADJ"
+				change_country_color = "tsenacommacah_color"
+				change_country_tag = POW
+				change_country_flag = TSENACOMMACAH_FLAG
+			}
+			custom_tooltip = tsenacommacah_claims_tooltip
+			hidden_effect = {
+				region:virginia_region = { formable_region_province_effect = yes }
+				area:washington_dc_area = { formable_area_province_effect = yes }
+				area:ahoskie_area = { formable_area_province_effect = yes }
+			}
+			add_3_free_province_investments = yes
+		}
+		
+		ai_will_do = {
+			base = 1
+		}
+	}
+}

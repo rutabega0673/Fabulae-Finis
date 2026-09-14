@@ -32,6 +32,7 @@ diplomacy = {
 	dependency = { first = CLA second = SJN subject_type = feudatory }
 
 	## Kansas
+	alliance = { first = KAS second = IDP }
 	dependency = { first = KAS second = WCH subject_type = tributary }
 
 	## St. Louis
@@ -56,6 +57,16 @@ diplomacy = {
 	dependency = { first = PRI second = DLV subject_type = feudatory }
 	dependency = { first = PRI second = TIN subject_type = feudatory }
 	dependency = { first = PRI second = BLT subject_type = feudatory }
+	dependency = { first = PRI second = HAK subject_type = feudatory }
+	dependency = { first = PRI second = NWK subject_type = feudatory }
+
+	## Old Dominion
+	dependency = { first = VIN second = TCF subject_type = tributary }
+	dependency = { first = VIN second = AMH subject_type = tributary }
+
+	## Kentucky
+	dependency = { first = KNY second = CIN subject_type = feudatory }
+	dependency = { first = KNY second = BRI subject_type = tributary }
 
 	## Oklahoman Tribes
 	defensive_league = {
@@ -75,5 +86,33 @@ diplomacy = {
 		member = ATJ
 		member = PRN
 		member = TRT
+	}
+
+	## Carolinian League
+	defensive_league = {
+		member = CPF
+		member = WAC
+		member = RCC
+		member = MYR
+	}
+
+	## Seminole League
+	defensive_league = {
+		member = SML
+		member = EVL
+	}
+
+	## Michigan League of Galvanist Unions
+	defensive_league = {
+		member = GYY
+		member = PRT
+		member = MCN
+	}
+
+	## Upper Twainists / League of Sugar Loaf
+	defensive_league = {
+		member = WNO
+		member = DBQ
+		member = GAL
 	}
 }

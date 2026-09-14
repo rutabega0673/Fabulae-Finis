@@ -17,5 +17,6 @@
 	cahokian_orange = rgb { 159 114 0 }
 	ozarks_green = rgb { 71 179 76 }
 	hcc_blue = rgb { 0 50 59 }
+	tsenacommacah_color = rgb { 37 0 77 }
 }
 

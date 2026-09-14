@@ -81,11 +81,23 @@
 	culture="saponi"
 	religion="revelationist"
 	trade_goods="grain"
-	civilization_value=10
+	civilization_value=22
 	barbarian_power=0
 	province_rank="settlement"
-	tribesmen={
+	freemen={
+		culture="piedmontese"
+		amount=2
+	}
+	freemen={
+		culture="southron"
+		amount=2
+	}
+	slaves={
+		culture="piedmontese"
 		amount=1
+	}
+	tribesmen={
+		amount=2
 	}
 }
 
@@ -94,11 +106,28 @@
 	culture="piedmontese"
 	religion="revelationist"
 	trade_goods="cloth"
-	civilization_value=10
+	civilization_value=27
 	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
+	province_rank="city"
+	nobles={
+		amount=4
+	}
+	citizen={
+		culture="saponi"
 		amount=1
+	}
+	citizen={
+		amount=4
+	}
+	freemen={
+		amount=8
+	}
+	freemen={
+		culture="southron"
+		amount=2
+	}
+	slaves={
+		amount=6
 	}
 }
 
@@ -302,11 +331,31 @@
 	culture="saponi"
 	religion="revelationist"
 	trade_goods="clay"
-	civilization_value=10
+	civilization_value=18
 	barbarian_power=0
 	province_rank="settlement"
-	tribesmen={
+	nobles={
 		amount=1
+	}
+	citizen={
+		amount=2
+	}
+	freemen={
+		culture="piedmontese"
+		amount=2
+	}
+	freemen={
+		culture="southron"
+		amount=1
+	}
+	freemen={
+		amount=1
+	}
+	slaves={
+		amount=2
+	}
+	tribesmen={
+		amount=4
 	}
 }
 
@@ -315,11 +364,19 @@
 	culture="saponi"
 	religion="evangelical"
 	trade_goods="horses"
-	civilization_value=10
+	civilization_value=22
 	barbarian_power=0
 	province_rank="settlement"
+	freemen={
+		culture="piedmontese"
+		amount=4
+	}
+	slaves={
+		culture="piedmontese"
+		amount=2
+	}
 	tribesmen={
-		amount=1
+		amount=3
 	}
 }
 
@@ -328,11 +385,28 @@
 	culture="saponi"
 	religion="evangelical"
 	trade_goods="fish"
-	civilization_value=10
+	civilization_value=16
 	barbarian_power=0
 	province_rank="settlement"
-	tribesmen={
+	citizen={
+		amount=2
+	}
+	freemen={
+		culture="piedmontese"
+		amount=2
+	}
+	freemen={
+		culture="southron"
 		amount=1
+	}
+	freemen={
+		amount=1
+	}
+	slaves={
+		amount=2
+	}
+	tribesmen={
+		amount=5
 	}
 }
 
@@ -757,11 +831,24 @@
 	culture="piedmontese"
 	religion="revelationist"
 	trade_goods="hemp"
-	civilization_value=10
+	civilization_value=29
 	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=1
+	province_rank="city"
+	nobles={
+		amount=6
+	}
+	citizen={
+		amount=5
+	}
+	freemen={
+		amount=9
+	}
+	freemen={
+		culture="southron"
+		amount=2
+	}
+	slaves={
+		amount=12
 	}
 }
 
@@ -861,9 +948,24 @@
 	culture="saponi"
 	religion="evangelical"
 	trade_goods="vegetables"
-	civilization_value=10
+	civilization_value=20
 	barbarian_power=0
 	province_rank="settlement"
+	citizen={
+		culture="southron"
+		amount=1
+	}
+	freemen={
+		culture="southron"
+		amount=2
+	}
+	freemen={
+		amount=1
+	}
+	slaves={
+		culture="hoi_toider"
+		amount=1
+	}
 	tribesmen={
 		amount=1
 	}

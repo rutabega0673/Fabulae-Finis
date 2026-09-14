@@ -476,3 +476,16 @@ alabama_heritage = {
       tag = ALB
    }
 }
+twin_confederacy_heritage = {
+   	modifier = {
+      #good
+      global_nobles_happyness = 0.08
+      global_commerce_modifier = 0.05
+    #bad
+      loyalty_to_overlord = 15
+   }
+
+   trigger = {
+      tag = TCF
+   }
+}

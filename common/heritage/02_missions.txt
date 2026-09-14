@@ -40,3 +40,17 @@ california_empire_heritage = {
        always = no
     }
 }
+powhatan_heritage = {
+   	modifier = {
+        #good
+        agressive_expansion_monthly_change = -0.04
+        happiness_for_same_culture_modifier = 0.05
+
+       #bad
+        war_score_cost = 0.05
+   }
+
+   trigger = {
+       always = no
+    }
+}

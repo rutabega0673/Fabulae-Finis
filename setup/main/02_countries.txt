@@ -6158,6 +6158,91 @@ country = {
 				6290 585 4954 6291 6292
 			}
 		}
+		ASH = { #Ahoskie
+			government = despotic_monarchy
+			primary_culture = meherrin
+			religion = episcopalian
+			capital = 8019
+
+			technology={
+				military_tech={ level=2 progress=0 }
+				civic_tech={ level=2 progress=0 }
+				religious_tech= { level=2 progress=0  }
+				oratory_tech= { level=2 progress =0 }
+			}
+
+			own_control_core = {
+				8019 8602
+			}
+		}
+		WAC = { #Waccaamaw
+			government = despotic_monarchy
+			primary_culture = waccamaw
+			religion = episcopalian
+			capital = 2729
+
+			technology={
+				military_tech={ level=2 progress=0 }
+				civic_tech={ level=2 progress=0 }
+				religious_tech= { level=2 progress=0  }
+				oratory_tech= { level=2 progress =0 }
+			}
+
+			own_control_core = {
+				2729 2727
+			}
+		}
+		AMH = { #Amherst / Monacan Nation
+			government = tribal_federation
+			primary_culture = monacan
+			religion = americanist
+			capital = 1763
+
+			technology={
+				military_tech={ level=1 progress=0 }
+				civic_tech={ level=1 progress=0 }
+				religious_tech= { level=1 progress=0  }
+				oratory_tech= { level=1 progress =0 }
+			}
+
+			own_control_core = {
+				1763
+			}
+		}
+		HPL = { #High Plains
+			government = tribal_federation
+			primary_culture = saponi
+			religion = revelationist
+			capital = 3683
+
+			technology={
+				military_tech={ level=1 progress=0 }
+				civic_tech={ level=1 progress=0 }
+				religious_tech= { level=1 progress=0  }
+				oratory_tech= { level=1 progress =0 }
+			}
+
+			own_control_core = {
+				3683 9583 3685
+			}
+		}
+		TCF = { #Twin Confederacy - Mattaponi-Pamunkey Nations
+			government = league_republic
+			primary_culture = mattaponi_pamunkey
+			religion = americanist
+			capital = 5063
+
+			technology={
+				military_tech={ level=1 progress=0 }
+				civic_tech={ level=1 progress=0 }
+				religious_tech= { level=1 progress=0  }
+				oratory_tech= { level=1 progress =0 }
+			}
+
+			own_control_core = {
+				5063 5066
+			}
+		}
 	}
 }
 
