@@ -89,22 +89,22 @@
 			Materials={
 				Material={
 					MaterialId="hills_01"
-					Value=141
+					Value=62
 				}
 
 				Material={
 					MaterialId="medi_grass_01"
-					Value=91
+					Value=155
 				}
 
 				Material={
 					MaterialId="medi_farmlands"
-					Value=21
+					Value=37
 				}
 
 				Material={
 					MaterialId="beach_02"
-					Value=2
+					Value=1
 				}
 
 			}
@@ -956,6 +956,73 @@
 				Material={
 					MaterialId="snow"
 					Value=14
+				}
+
+			}
+		}
+
+		Sample={
+			Name="Sample from 1359, 415"
+			Materials={
+				Material={
+					MaterialId="steppe_grass"
+					Value=176
+				}
+
+				Material={
+					MaterialId="northern_plains_01"
+					Value=42
+				}
+
+				Material={
+					MaterialId="hills_01"
+					Value=16
+				}
+
+				Material={
+					MaterialId="medi_grass_01"
+					Value=10
+				}
+
+				Material={
+					MaterialId="snow"
+					Value=4
+				}
+
+				Material={
+					MaterialId="mountains"
+					Value=4
+				}
+
+				Material={
+					MaterialId="medi_farmlands"
+					Value=3
+				}
+
+			}
+		}
+
+		Sample={
+			Name="Sample from 1146, 422"
+			Materials={
+				Material={
+					MaterialId="steppe_grass"
+					Value=195
+				}
+
+				Material={
+					MaterialId="northern_plains_01"
+					Value=48
+				}
+
+				Material={
+					MaterialId="snow"
+					Value=6
+				}
+
+				Material={
+					MaterialId="mountains"
+					Value=6
 				}
 
 			}
