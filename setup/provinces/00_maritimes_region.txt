@@ -79,7 +79,7 @@
 941={ #Saint Quentin
 	terrain="forest"
 	culture="acadien"
-	religion="mervivant"
+	religion="ursuline"
 	trade_goods="cattle"
 	civilization_value=10
 	barbarian_power=0
@@ -92,7 +92,7 @@
 942={ #Dalhousie
 	terrain="forest"
 	culture="acadien"
-	religion="mervivant"
+	religion="ursuline"
 	trade_goods="fish"
 	civilization_value=10
 	barbarian_power=0
@@ -105,7 +105,7 @@
 943={ #Campbellton
 	terrain="forest"
 	culture="acadien"
-	religion="mervivant"
+	religion="ursuline"
 	trade_goods="vegetables"
 	civilization_value=10
 	barbarian_power=0
@@ -118,7 +118,7 @@
 1080={ #Saint George
 	terrain="plains"
 	culture="acadien"
-	religion="mervivant"
+	religion="ursuline"
 	trade_goods="fish"
 	civilization_value=10
 	barbarian_power=0
@@ -131,7 +131,7 @@
 1081={ #Mcadam
 	terrain="plains"
 	culture="acadien"
-	religion="mervivant"
+	religion="ursuline"
 	trade_goods="vegetables"
 	civilization_value=10
 	barbarian_power=0
@@ -144,7 +144,7 @@
 1082={ #Grand Manan
 	terrain="plains"
 	culture="acadien"
-	religion="mervivant"
+	religion="ursuline"
 	trade_goods="fish"
 	civilization_value=10
 	barbarian_power=0
@@ -157,7 +157,7 @@
 1084={ #St Stephen
 	terrain="plains"
 	culture="acadien"
-	religion="mervivant"
+	religion="ursuline"
 	trade_goods="fish"
 	civilization_value=10
 	barbarian_power=0
@@ -248,7 +248,7 @@
 1719={ #Digby
 	terrain="forest"
 	culture="acadien"
-	religion="mervivant"
+	religion="ursuline"
 	trade_goods="fish"
 	civilization_value=10
 	barbarian_power=0
@@ -261,7 +261,7 @@
 1720={ #Annapolis Royal
 	terrain="plains"
 	culture="acadien"
-	religion="mervivant"
+	religion="ursuline"
 	trade_goods="precious_metals"
 	civilization_value=10
 	barbarian_power=0
@@ -274,7 +274,7 @@
 1721={ #Meteghan
 	terrain="forest"
 	culture="acadien"
-	religion="mervivant"
+	religion="ursuline"
 	trade_goods="tubers"
 	civilization_value=10
 	barbarian_power=0
@@ -287,7 +287,7 @@
 1722={ #Greenwood
 	terrain="plains"
 	culture="acadien"
-	religion="mervivant"
+	religion="ursuline"
 	trade_goods="shells"
 	civilization_value=10
 	barbarian_power=0
@@ -300,7 +300,7 @@
 1880={ #Caraquet
 	terrain="plains"
 	culture="acadien"
-	religion="mervivant"
+	religion="ursuline"
 	trade_goods="shells"
 	civilization_value=10
 	barbarian_power=0
@@ -313,7 +313,7 @@
 1881={ #Bathurst
 	terrain="forest"
 	culture="acadien"
-	religion="mervivant"
+	religion="ursuline"
 	trade_goods="salt"
 	civilization_value=10
 	barbarian_power=0
@@ -326,7 +326,7 @@
 1882={ #Tracadie Sheila
 	terrain="plains"
 	culture="acadien"
-	religion="mervivant"
+	religion="ursuline"
 	trade_goods="fish"
 	civilization_value=10
 	barbarian_power=0
@@ -456,7 +456,7 @@
 3162={ #Woodstock
 	terrain="forest"
 	culture="acadien"
-	religion="mervivant"
+	religion="ursuline"
 	trade_goods="salt"
 	civilization_value=10
 	barbarian_power=0
@@ -469,7 +469,7 @@
 3163={ #Grand Falls
 	terrain="hills"
 	culture="acadien"
-	religion="mervivant"
+	religion="ursuline"
 	trade_goods="wood"
 	civilization_value=10
 	barbarian_power=0
@@ -482,7 +482,7 @@
 3164={ #Florenceville Bristol
 	terrain="forest"
 	culture="acadien"
-	religion="mervivant"
+	religion="ursuline"
 	trade_goods="vegetables"
 	civilization_value=10
 	barbarian_power=0
@@ -495,7 +495,7 @@
 3236={ #Newcastle
 	terrain="hills"
 	culture="acadien"
-	religion="mervivant"
+	religion="ursuline"
 	trade_goods="stone"
 	civilization_value=10
 	barbarian_power=0
@@ -508,7 +508,7 @@
 3237={ #Blackville
 	terrain="forest"
 	culture="acadien"
-	religion="mervivant"
+	religion="ursuline"
 	trade_goods="fur"
 	civilization_value=10
 	barbarian_power=0
@@ -521,7 +521,7 @@
 3238={ #Neguac
 	terrain="plains"
 	culture="acadien"
-	religion="mervivant"
+	religion="ursuline"
 	trade_goods="salt"
 	civilization_value=10
 	barbarian_power=0
@@ -664,7 +664,7 @@
 6448={ #Rogersville
 	terrain="plains"
 	culture="chiac"
-	religion="mervivant"
+	religion="ursuline"
 	trade_goods="cattle"
 	civilization_value=10
 	barbarian_power=0
@@ -690,7 +690,7 @@
 6450={ #Chatham
 	terrain="plains"
 	culture="chiac"
-	religion="mervivant"
+	religion="ursuline"
 	trade_goods="maple"
 	civilization_value=10
 	barbarian_power=0
@@ -963,7 +963,7 @@
 7368={ #Saint Leonard
 	terrain="forest"
 	culture="acadien"
-	religion="mervivant"
+	religion="ursuline"
 	trade_goods="maple"
 	civilization_value=10
 	barbarian_power=0
@@ -1093,7 +1093,7 @@
 11930={ #New France
 	terrain="forest"
 	culture="acadien"
-	religion="mervivant"
+	religion="ursuline"
 	trade_goods="earthware"
 	civilization_value=10
 	barbarian_power=0

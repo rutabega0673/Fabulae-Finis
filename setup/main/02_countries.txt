@@ -1883,7 +1883,7 @@ country = {
 			}
 		}
 		QDC = { #Quad Cities
-			government = democratic_republic
+			government = despotic_monarchy
 			primary_culture = heartlander
 			religion = catholic
 			capital = 8219
@@ -2646,7 +2646,7 @@ country = {
 		DHG = { # Omaha
 			government = despotic_monarchy
 			primary_culture = dhegihan
-			religion = lutheran
+			religion = ozymandism
 			capital = 5880
 
 			technology={
@@ -3471,7 +3471,7 @@ country = {
 		PTL = { # Platte
 			government = range_tribal_kingdom
 			primary_culture = cornhusker
-			religion = loneranger
+			religion = ozymandism
 			capital = 3898
 			centralization = 20
 

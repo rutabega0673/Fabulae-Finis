@@ -118,7 +118,7 @@
 497={ #Arnold
 	terrain="steppes"
 	culture="cornhusker"
-	religion="loneranger"
+	religion="ozymandism"
 	trade_goods="wild_game"
 	civilization_value=10
 	barbarian_power=0
@@ -222,7 +222,7 @@
 961={ #Fremont
 	terrain="hills"
 	culture="dhegihan"
-	religion="lutheran"
+	religion="ozymandism"
 	trade_goods="incense"
 	civilization_value=10
 	barbarian_power=0
@@ -326,7 +326,7 @@
 2118={ #Belleville
 	terrain="steppes"
 	culture="jayhawker"
-	religion="heartful"
+	religion="ozymandism"
 	trade_goods="cloth"
 	civilization_value=10
 	barbarian_power=0
@@ -339,7 +339,7 @@
 2119={ #Beatrice
 	terrain="steppes"
 	culture="jayhawker"
-	religion="heartful"
+	religion="ozymandism"
 	trade_goods="buffalo"
 	civilization_value=10
 	barbarian_power=0
@@ -469,7 +469,7 @@
 3897={ #Lexington
 	terrain="steppes"
 	culture="cornhusker"
-	religion="loneranger"
+	religion="ozymandism"
 	trade_goods="cattle"
 	civilization_value=10
 	barbarian_power=0
@@ -482,7 +482,7 @@
 3898={ #Grand Island
 	terrain="steppes"
 	culture="cornhusker"
-	religion="loneranger"
+	religion="ozymandism"
 	trade_goods="steppe_horses"
 	civilization_value=10
 	barbarian_power=0
@@ -495,7 +495,7 @@
 3899={ #Hastings
 	terrain="steppes"
 	culture="cornhusker"
-	religion="heartful"
+	religion="ozymandism"
 	trade_goods="vegetables"
 	civilization_value=10
 	barbarian_power=0
@@ -638,7 +638,7 @@
 5880={ #Omaha
 	terrain="hills"
 	culture="dhegihan"
-	religion="lutheran"
+	religion="ozymandism"
 	trade_goods="glass"
 	civilization_value=10
 	barbarian_power=0
@@ -651,7 +651,7 @@
 5881={ #Nebraska City
 	terrain="hills"
 	culture="dhegihan"
-	religion="lutheran"
+	religion="ozymandism"
 	trade_goods="buffalo"
 	civilization_value=10
 	barbarian_power=0
@@ -677,7 +677,7 @@
 5883={ #Wahoo
 	terrain="hills"
 	culture="dhegihan"
-	religion="lutheran"
+	religion="ozymandism"
 	trade_goods="leather"
 	civilization_value=10
 	barbarian_power=0
@@ -768,7 +768,7 @@
 6778={ #McCook
 	terrain="steppes"
 	culture="grangelander"
-	religion="loneranger"
+	religion="ozymandism"
 	trade_goods="vegetables"
 	civilization_value=10
 	barbarian_power=0
@@ -781,7 +781,7 @@
 6779={ #Holdrege
 	terrain="steppes"
 	culture="grangelander"
-	religion="heartful"
+	religion="ozymandism"
 	trade_goods="leather"
 	civilization_value=10
 	barbarian_power=0

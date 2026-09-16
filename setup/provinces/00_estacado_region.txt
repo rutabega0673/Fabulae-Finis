@@ -1,5 +1,5 @@
 ﻿9={ #Big Spring
-	terrain="steppes"
+	terrain="dry_plains"
 	culture="texaner"
 	religion="petrobaron"
 	trade_goods="bodark"
@@ -25,7 +25,7 @@
 }
 
 11={ #Hobbs
-	terrain="steppes"
+	terrain="dry_plains"
 	culture="estacadan"
 	religion="petrobaron"
 	trade_goods="cattle"
@@ -38,7 +38,7 @@
 }
 
 12={ #Lamesa
-	terrain="steppes"
+	terrain="dry_plains"
 	culture="estacadan"
 	religion="petrobaron"
 	trade_goods="steppe_horses"
@@ -181,7 +181,7 @@
 }
 
 685={ #Lubbock
-	terrain="steppes"
+	terrain="dry_plains"
 	culture="estacadan"
 	religion="petrobaron"
 	trade_goods="beans"
@@ -194,7 +194,7 @@
 }
 
 686={ #Brownfield
-	terrain="steppes"
+	terrain="dry_plains"
 	culture="estacadan"
 	religion="petrobaron"
 	trade_goods="incense"
@@ -207,7 +207,7 @@
 }
 
 687={ #Levelland
-	terrain="steppes"
+	terrain="dry_plains"
 	culture="estacadan"
 	religion="petrobaron"
 	trade_goods="bodark"
@@ -259,7 +259,7 @@
 }
 
 822={ #Roswell
-	terrain="steppes"
+	terrain="dry_plains"
 	culture="arixan"
 	religion="zetanologist"
 	trade_goods="steppe_horses"
@@ -363,7 +363,7 @@
 }
 
 3727={ #Variadero
-	terrain="steppes"
+	terrain="dry_plains"
 	culture="neomexicano"
 	religion="aphite"
 	trade_goods="cacti"
@@ -376,7 +376,7 @@
 }
 
 3728={ #House
-	terrain="steppes"
+	terrain="dry_plains"
 	culture="neomexicano"
 	religion="aphite"
 	trade_goods="marijuana"
@@ -571,7 +571,7 @@
 }
 
 6992={ #Elida
-	terrain="steppes"
+	terrain="dry_plains"
 	culture="neomexicano"
 	religion="petrobaron"
 	trade_goods="incense"
@@ -584,7 +584,7 @@
 }
 
 6993={ #Clovis
-	terrain="steppes"
+	terrain="dry_plains"
 	culture="estacadan"
 	religion="petrobaron"
 	trade_goods="steppe_horses"
@@ -597,7 +597,7 @@
 }
 
 6994={ #Dora
-	terrain="steppes"
+	terrain="dry_plains"
 	culture="estacadan"
 	religion="petrobaron"
 	trade_goods="beans"
@@ -610,7 +610,7 @@
 }
 
 6995={ #Vest Wells
-	terrain="steppes"
+	terrain="dry_plains"
 	culture="arixan"
 	religion="petrobaron"
 	trade_goods="tubers"
@@ -844,7 +844,7 @@
 }
 
 8991={ #Santa Rosa
-	terrain="steppes"
+	terrain="dry_plains"
 	culture="neomexicano"
 	religion="aphite"
 	trade_goods="hemp"
@@ -857,7 +857,7 @@
 }
 
 8992={ #Mesa
-	terrain="steppes"
+	terrain="dry_plains"
 	culture="neomexicano"
 	religion="zetanologist"
 	trade_goods="cacti"

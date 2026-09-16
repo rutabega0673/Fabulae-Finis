@@ -625,7 +625,7 @@
 7326={ #
 	terrain="hills"
 	culture="terreneuvien"
-	religion="mervivant"
+	religion="ursuline"
 	trade_goods="fish"
 	civilization_value=5
 	barbarian_power=0

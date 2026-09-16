@@ -1132,6 +1132,84 @@ melungeon_heritage = {
         primary_culture = melungeon
 	}
 }
+hemlocker_heritage = {
+   	modifier = {
+        #good
+        global_tribesmen_happyness = 0.04
+        light_infantry_forest_combat_bonus = 0.10
+       #bad
+        happiness_for_wrong_religion_modifier = -0.03
+   }
+
+   trigger = {
+        primary_culture = vermonter
+	}
+}
+seltic_heritage = {
+   	modifier = {
+        #good
+        ship_cost = -0.10
+        global_citizen_output = 0.05
+       #bad
+        improve_relation_cost_modifier = 0.25
+   }
+
+   trigger = {
+        primary_culture = bayfolk
+	}
+}
+montrealais_heritage = {
+   	modifier = {
+        #good
+        global_nobles_happyness = 0.05
+        happiness_for_wrong_culture_modifier = 0.03
+       #bad
+        global_pop_assimilation_speed_modifier = -0.05
+   }
+
+   trigger = {
+        primary_culture = montrealais
+	}
+}
+quebecois_heritage = {
+   	modifier = {
+        #good
+        heavy_cavalry_defensive = 0.10
+        monthly_political_influence_modifier = 0.05
+       #bad
+        loyalty_to_overlord = -10
+   }
+
+   trigger = {
+        primary_culture = quebecois
+	}
+}
+acadien_heritage = {
+   	modifier = {
+        #good
+        archers_forest_combat_bonus = 0.10
+        global_monthly_food_modifier = 0.05
+       #bad
+        manpower_recovery_speed = -0.05
+   }
+
+   trigger = {
+        primary_culture = acadien
+	}
+}
+chiac_heritage = {
+   	modifier = {
+        #good
+        diplomatic_reputation = 2
+        happiness_for_wrong_culture_group_modifier = 0.03
+       #bad
+        navy_maintenance_cost = 0.10
+   }
+
+   trigger = {
+        primary_culture = chiac
+	}
+}
 #Culture Group
 midwestern_heritage = {
    	modifier = {

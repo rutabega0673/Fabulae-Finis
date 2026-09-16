@@ -64,7 +64,7 @@
 }
 
 1493={ #Stonewall
-	terrain="steppes"
+	terrain="plains"
 	culture="metis"
 	religion="exovedate"
 	trade_goods="vegetables"
@@ -90,7 +90,7 @@
 }
 
 1495={ #Elie
-	terrain="steppes"
+	terrain="plains"
 	culture="metis"
 	religion="exovedate"
 	trade_goods="grain"
@@ -103,7 +103,7 @@
 }
 
 1496={ #Selkirk
-	terrain="steppes"
+	terrain="flood_plain"
 	culture="metis"
 	religion="exovedate"
 	trade_goods="grain"
@@ -116,7 +116,7 @@
 }
 
 1497={ #Winnipeg
-	terrain="farmland"
+	terrain="flood_plain"
 	culture="metis"
 	religion="exovedate"
 	trade_goods="earthware"
@@ -129,7 +129,7 @@
 }
 
 2120={ #Vita
-	terrain="steppes"
+	terrain="plains"
 	culture="metis"
 	religion="exovedate"
 	trade_goods="grain"
@@ -285,7 +285,7 @@
 }
 
 3331={ #Beausejour
-	terrain="steppes"
+	terrain="plains"
 	culture="manitobain"
 	religion="exovedate"
 	trade_goods="fur"
@@ -298,7 +298,7 @@
 }
 
 3332={ #Pinawa
-	terrain="steppes"
+	terrain="plains"
 	culture="metis"
 	religion="exovedate"
 	trade_goods="hemp"
@@ -311,7 +311,7 @@
 }
 
 3333={ #Lac Du Bonnet
-	terrain="steppes"
+	terrain="plains"
 	culture="metis"
 	religion="exovedate"
 	trade_goods="rice"
@@ -337,7 +337,7 @@
 }
 
 3793={ #Macgregor
-	terrain="steppes"
+	terrain="plains"
 	culture="metis"
 	religion="exovedate"
 	trade_goods="buffalo"
@@ -350,7 +350,7 @@
 }
 
 3794={ #Mccreary
-	terrain="steppes"
+	terrain="plains"
 	culture="metis"
 	religion="loneranger"
 	trade_goods="fish"
@@ -571,7 +571,7 @@
 }
 
 9281={ #Carman
-	terrain="steppes"
+	terrain="plains"
 	culture="metis"
 	religion="exovedate"
 	trade_goods="steppe_horses"
@@ -584,7 +584,7 @@
 }
 
 9282={ #Winkler
-	terrain="plains"
+	terrain="flood_plain"
 	culture="metis"
 	religion="exovedate"
 	trade_goods="grain"

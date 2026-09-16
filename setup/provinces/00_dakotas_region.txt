@@ -971,7 +971,7 @@
 }
 
 6944={ #Grafton
-	terrain="steppes"
+	terrain="plains"
 	culture="norskamerikanere"
 	religion="lakeshore"
 	trade_goods="leather"
@@ -1008,7 +1008,7 @@
 }
 
 6946={ #Grand Forks
-	terrain="steppes"
+	terrain="flood_plain"
 	culture="norskamerikanere"
 	religion="lakeshore"
 	trade_goods="cattle"
