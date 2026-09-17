@@ -197,12 +197,21 @@
 	terrain="hills"
 	culture="texaner"
 	religion="colossalist"
-	trade_goods="vegetables"
-	civilization_value=10
+	trade_goods="wine"
+	civilization_value=29
 	barbarian_power=0
 	province_rank="settlement"
-	tribesmen={
+	nobles={
 		amount=1
+	}
+	citizen={
+		amount=2
+	}
+	freemen={
+		amount=3
+	}
+	slaves={
+		amount=4
 	}
 }
 
@@ -211,24 +220,40 @@
 	culture="texaner"
 	religion="colossalist"
 	trade_goods="beer"
-	civilization_value=10
+	civilization_value=26
 	barbarian_power=0
 	province_rank="settlement"
-	tribesmen={
-		amount=1
+	citizen={
+		amount=2
+	}
+	freemen={
+		culture="texan"
+		amount=4
+	}
+	slaves={
+		culture="texan"
+		religion="americanist"
+		amount=3
 	}
 }
 
 5024={ #Mason
 	terrain="steppes"
-	culture="tejano"
+	culture="texan"
 	religion="colossalist"
 	trade_goods="cattle"
-	civilization_value=10
+	civilization_value=27
 	barbarian_power=0
 	province_rank="settlement"
-	tribesmen={
+	citizen={
+		culture="texaner"
+		amount=2
+	}
+	freemen={
 		amount=1
+	}
+	slaves={
+		amount=4
 	}
 }
 
@@ -237,24 +262,35 @@
 	culture="texaner"
 	religion="colossalist"
 	trade_goods="stone"
-	civilization_value=10
+	civilization_value=28
 	barbarian_power=0
 	province_rank="settlement"
-	tribesmen={
-		amount=1
+	nobles={
+		amount=2
+	}
+	freemen={
+		culture="texan"
+		amount=3
+	}
+	slaves={
+		culture="texan"
+		amount=3
 	}
 }
 
 5026={ #Brady
 	terrain="steppes"
-	culture="tejano"
+	culture="texan"
 	religion="colossalist"
 	trade_goods="beer"
-	civilization_value=10
+	civilization_value=25
 	barbarian_power=0
 	province_rank="settlement"
+	freemen={
+		amount=3
+	}
 	tribesmen={
-		amount=1
+		amount=2
 	}
 }
 
@@ -263,11 +299,23 @@
 	culture="texaner"
 	religion="colossalist"
 	trade_goods="beer"
-	civilization_value=10
+	civilization_value=29
 	barbarian_power=0
 	province_rank="settlement"
-	tribesmen={
+	nobles={
+		amount=3
+	}
+	freemen={
+		culture="texan"
+		religion="americanist"
 		amount=1
+	}
+	freemen={
+		culture="tejano"
+		amount=2
+	}
+	slaves={
+		amount=3
 	}
 }
 
@@ -276,11 +324,18 @@
 	culture="texaner"
 	religion="colossalist"
 	trade_goods="wood"
-	civilization_value=10
+	civilization_value=26
 	barbarian_power=0
 	province_rank="settlement"
-	tribesmen={
+	freemen={
+		amount=5
+	}
+	freemen={
+		culture="texan"
 		amount=1
+	}
+	slaves={
+		amount=2
 	}
 }
 
@@ -302,11 +357,23 @@
 	culture="texaner"
 	religion="colossalist"
 	trade_goods="wine"
-	civilization_value=10
+	civilization_value=27
 	barbarian_power=0
 	province_rank="settlement"
-	tribesmen={
+	citizen={
+		culture="texan"
+		amount=2
+	}
+	freemen={
+		culture="texanane"
 		amount=1
+	}
+	freemen={
+		culture="texan"
+		amount=1
+	}
+	slaves={
+		amount=3
 	}
 }
 
@@ -315,10 +382,24 @@
 	culture="texaner"
 	religion="colossalist"
 	trade_goods="stone"
-	civilization_value=10
+	civilization_value=18
 	barbarian_power=0
 	province_rank="settlement"
-	tribesmen={
+	citizen={
+		culture="tejano"
+		religion="cristero"
+		amount=1
+	}
+	freemen={
+		culture="texanane"
+		amount=1
+	}
+	freemen={
+		culture="silesian"
+		amount=2
+	}
+	slaves={
+		culture="texan"
 		amount=1
 	}
 }
@@ -328,11 +409,52 @@
 	culture="texaner"
 	religion="colossalist"
 	trade_goods="precious_metals"
-	civilization_value=10
+	civilization_value=30
 	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
+	province_rank="city"
+	nobles={
+		amount=5
+	}
+	citizen={
+		amount=2
+	}
+	citizen={
+		culture="texan"
+		amount=2
+	}
+	citizen={
+		culture="texanane"
 		amount=1
+	}
+	citizen={
+		culture="silesian"
+		amount=1
+	}
+	citizen={
+		culture="tejano"
+		amount=3
+	}
+	freemen={
+		amount=4
+	}
+	freemen={
+		culture="tejano"
+		amount=3
+	}
+	freemen={
+		culture="texanane"
+		amount=2
+	}
+	slaves={
+		culture="tejano"
+		amount=2
+	}
+	slaves={
+		culture="texan"
+		amount=1
+	}
+	slaves={
+		amount=4
 	}
 }
 
@@ -341,11 +463,21 @@
 	culture="texaner"
 	religion="colossalist"
 	trade_goods="beer"
-	civilization_value=10
+	civilization_value=28
 	barbarian_power=0
 	province_rank="settlement"
-	tribesmen={
-		amount=1
+	citizen={
+		amount=2
+	}
+	freemen={
+		culture="texan"
+		religion="cristero"
+		amount=4
+	}
+	slaves={
+		culture="texan"
+		religion="americanist"
+		amount=2
 	}
 }
 
@@ -462,7 +594,7 @@
 	barbarian_power=0
 	province_rank="settlement"
 	tribesmen={
-		amount=1
+		amount=5
 	}
 }
 
@@ -471,11 +603,42 @@
 	culture="tejano"
 	religion="colossalist"
 	trade_goods="gunpowder"
-	civilization_value=10
+	civilization_value=25
 	barbarian_power=0
-	province_rank="settlement"
+	province_rank="city"
+	nobles={
+		amount=2
+	}
+	citizen={
+		culture="texan"
+		religion="americanist"
+		amount=2
+	}
+	citizen={
+		amount=3
+	}
+	freemen={
+		amount=8
+	}
+	freemen={
+		culture="texaner"
+		amount=2
+	}
+	freemen={
+		culture="texan"
+		religion="americanist"
+		amount=3
+	}
+	slaves={
+		culture="texan"
+		religion="americanist"
+		amount=4
+	}
+	slaves={
+		amount=4
+	}
 	tribesmen={
-		amount=1
+		amount=4
 	}
 }
 
@@ -484,11 +647,14 @@
 	culture="tejano"
 	religion="colossalist"
 	trade_goods="horses"
-	civilization_value=10
+	civilization_value=16
 	barbarian_power=0
 	province_rank="settlement"
+	freemen={
+		amount=3
+	}
 	tribesmen={
-		amount=1
+		amount=4
 	}
 }
 
@@ -497,10 +663,25 @@
 	culture="silesian"
 	religion="colossalist"
 	trade_goods="horses"
-	civilization_value=10
+	civilization_value=18
 	barbarian_power=0
 	province_rank="settlement"
+	nobles={
+		amount=1
+	}
+	citizen={
+		amount=2
+	}
+	freemen={
+		amount=3
+	}
 	tribesmen={
+		culture="texan"
+		religion="americanist"
+		amount=1
+	}
+	tribesmen={
+		culture="tejano"
 		amount=1
 	}
 }

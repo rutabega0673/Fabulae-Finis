@@ -95,9 +95,6 @@
 			if = { limit = { is_tribal = yes} change_government = imperium tribal_formable_government_change_effect = yes }
 			else_if = { limit = { is_republic = yes } change_government = grand_republic switch_government_type_event_clearup_effect = yes }
 			else_if = { limit = { is_monarchy = yes } change_government = imperium switch_government_type_event_clearup_effect = yes }
-			#current_ruler = {
-			#	add_nickname = "NICKNAME_TWAIN"
-			#}
 			capital_scope = {
 				capital_formable_large_effect = yes
 				formable_capital_modifier_large_effect = yes
@@ -116,7 +113,7 @@
 			add_5_free_province_investments = yes
 			hidden_effect = {
 				set_variable = formed_southern_empire
-				change_country_color = "hcc_blue"
+				change_country_color = "deep_south_color"
 				change_country_tag = SOO
 				if = { # French version
 					limit = { country_culture_group = louisianais }

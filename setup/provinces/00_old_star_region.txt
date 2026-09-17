@@ -104,27 +104,42 @@
 
 877={ #Gonzales
 	terrain="plains"
-	culture="texaner"
+	culture="texan"
 	religion="colossalist"
 	trade_goods="beer"
-	civilization_value=10
+	civilization_value=17
 	barbarian_power=0
 	province_rank="settlement"
-	tribesmen={
+	citizen={
 		amount=1
+	}
+	freemen={
+		culture="silesian"
+		amount=2
+	}
+	slaves={
+		culture="texaner"
+		amount=2
+	}
+	tribesmen={
+		amount=4
 	}
 }
 
 878={ #Cuero
 	terrain="plains"
-	culture="silesian"
+	culture="texan"
 	religion="colossalist"
 	trade_goods="beans"
-	civilization_value=10
+	civilization_value=16
 	barbarian_power=0
 	province_rank="settlement"
+	freemen={
+		culture="silesian"
+		amount=2
+	}
 	tribesmen={
-		amount=1
+		amount=4
 	}
 }
 
@@ -315,11 +330,26 @@
 	culture="texanane"
 	religion="colossalist"
 	trade_goods="beer"
-	civilization_value=10
+	civilization_value=20
 	barbarian_power=0
 	province_rank="settlement"
+	freemen={
+		culture="texan"
+		religion="americanist"
+		amount=2
+	}
+	citizen={
+		amount=2
+	}
+	freemen={
+		culture="texan"
+		amount=2
+	}
 	tribesmen={
-		amount=1
+		amount=2
+	}
+	slaves={
+		amount=2
 	}
 }
 
@@ -328,11 +358,24 @@
 	culture="texaner"
 	religion="colossalist"
 	trade_goods="beer"
-	civilization_value=10
+	civilization_value=26
 	barbarian_power=0
 	province_rank="settlement"
+	freemen={
+		culture="texan"
+		religion="americanist"
+		amount=2
+	}
+	freemen={
+		culture="texan"
+		amount=4
+	}
 	tribesmen={
-		amount=1
+		amount=2
+	}
+	slaves={
+		culture="texanane"
+		amount=2
 	}
 }
 
@@ -341,11 +384,18 @@
 	culture="texanane"
 	religion="colossalist"
 	trade_goods="beans"
-	civilization_value=10
+	civilization_value=18
 	barbarian_power=0
 	province_rank="settlement"
-	tribesmen={
+	freemen={
+		amount=2
+	}
+	freemen={
+		culture="texan"
 		amount=1
+	}
+	tribesmen={
+		amount=3
 	}
 }
 
@@ -468,14 +518,37 @@
 
 5039={ #Austin
 	terrain="steppes"
-	culture="texaner"
+	culture="texan"
 	religion="colossalist"
 	trade_goods="marble"
-	civilization_value=10
+	civilization_value=29
 	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=1
+	province_rank="city"
+	nobles={
+		culture="texaner"
+		amount=3
+	}
+	citizen={
+		culture="texanane"
+		amount=3
+	}
+	citizen={
+		amount=4
+	}
+	freemen={
+		culture="tejano"
+		religion="cristero"
+		amount=3
+	}
+	freemen={
+		religion="americanist"
+		amount=3
+	}
+	freemen={
+		amount=7
+	}
+	slaves={
+		amount=14
 	}
 }
 
@@ -484,11 +557,14 @@
 	culture="texanane"
 	religion="colossalist"
 	trade_goods="tubers"
-	civilization_value=10
+	civilization_value=19
 	barbarian_power=0
 	province_rank="settlement"
+	freemen={
+		amount=3
+	}
 	tribesmen={
-		amount=1
+		amount=2
 	}
 }
 
@@ -536,11 +612,33 @@
 	culture="texan"
 	religion="americanist"
 	trade_goods="cloth"
-	civilization_value=10
+	civilization_value=33
 	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=1
+	province_rank="city"
+	nobles={
+		amount=4
+	}
+	citizen={
+		amount=8
+	}
+	citizen={
+		culture="lway_viet"
+		religion="catholic"
+		amount=3
+	}
+	freemen={
+		culture="texaner"
+		amount=3
+	}
+	freemen={
+		amount=8
+	}
+	slaves={
+		culture="louisianais"
+		amount=4
+	}
+	slaves={
+		amount=8
 	}
 }
 
@@ -770,10 +868,20 @@
 	culture="texaner"
 	religion="colossalist"
 	trade_goods="vegetables"
-	civilization_value=10
+	civilization_value=26
 	barbarian_power=0
 	province_rank="settlement"
-	tribesmen={
+	nobles={
+		amount=1
+	}
+	freemen={
+		amount=3
+	}
+	freemen={
+		culture="texan"
+		amount=2
+	}
+	slaves={
 		amount=1
 	}
 }
@@ -809,22 +917,38 @@
 	culture="texaner"
 	religion="colossalist"
 	trade_goods="fruits"
-	civilization_value=10
+	civilization_value=24
 	barbarian_power=0
 	province_rank="settlement"
-	tribesmen={
-		amount=1
+	freemen={
+		amount=3
+	}
+	freemen={
+		culture="texan"
+		amount=2
+	}
+	slaves={
+		amount=3
 	}
 }
 
 6286={ #The Woodlands
 	terrain="forest"
 	culture="texan"
-	religion="colossalist"
+	religion="americanist"
 	trade_goods="cattle"
-	civilization_value=10
+	civilization_value=25
 	barbarian_power=0
 	province_rank="settlement"
+	citizen={
+		amount=2
+	}
+	freemen={
+		amount=3
+	}
+	slaves={
+		amount=3
+	}
 	tribesmen={
 		amount=1
 	}
@@ -833,11 +957,20 @@
 6287={ #Atascocita
 	terrain="forest"
 	culture="texan"
-	religion="loneranger"
+	religion="americanist"
 	trade_goods="cattle"
-	civilization_value=10
+	civilization_value=26
 	barbarian_power=0
 	province_rank="settlement"
+	citizen={
+		amount=2
+	}
+	freemen={
+		amount=3
+	}
+	slaves={
+		amount=3
+	}
 	tribesmen={
 		amount=1
 	}
@@ -939,11 +1072,28 @@
 	culture="texanane"
 	religion="colossalist"
 	trade_goods="earthware"
-	civilization_value=10
+	civilization_value=21
 	barbarian_power=0
 	province_rank="settlement"
-	tribesmen={
+	nobles={
+		amount=2
+	}
+	citizen={
 		amount=1
+	}
+	freemen={
+		amount=3
+	}
+	freemen={
+		culture="texaner"
+		amount=2
+	}
+	slaves={
+		culture="texan"
+		amount=2
+	}
+	tribesmen={
+		amount=4
 	}
 }
 
@@ -952,11 +1102,18 @@
 	culture="texaner"
 	religion="colossalist"
 	trade_goods="fruits"
-	civilization_value=10
+	civilization_value=26
 	barbarian_power=0
 	province_rank="settlement"
-	tribesmen={
-		amount=1
+	freemen={
+		amount=2
+	}
+	freemen={
+		culture="texan"
+		amount=4
+	}
+	slaves={
+		amount=2
 	}
 }
 
@@ -965,10 +1122,21 @@
 	culture="texan"
 	religion="colossalist"
 	trade_goods="earthware"
-	civilization_value=10
+	civilization_value=25
 	barbarian_power=0
 	province_rank="settlement"
-	tribesmen={
+	freemen={
+		amount=2
+	}
+	freemen={
+		culture="texaner"
+		amount=2
+	}
+	slaves={
+		culture="texanane"
+		amount=2
+	}
+	slaves={
 		amount=1
 	}
 }
@@ -978,10 +1146,17 @@
 	culture="texaner"
 	religion="colossalist"
 	trade_goods="grain"
-	civilization_value=10
+	civilization_value=25
 	barbarian_power=0
 	province_rank="settlement"
-	tribesmen={
+	freemen={
+		amount=2
+	}
+	freemen={
+		culture="texan"
+		amount=4
+	}
+	slaves={
 		amount=1
 	}
 }
@@ -1199,11 +1374,24 @@
 	culture="lway_viet"
 	religion="traiteurism"
 	trade_goods="leather"
-	civilization_value=10
+	civilization_value=25
 	barbarian_power=0
 	province_rank="settlement"
-	tribesmen={
-		amount=1
+	freemen={
+		amount=3
+	}
+	freemen={
+		culture="louisianais"
+		religion="traiteurism"
+		amount=2
+	}
+	freemen={
+		culture="lway_viet"
+		religion="traiteurism"
+		amount=2
+	}
+	slaves={
+		amount=2
 	}
 }
 
@@ -1212,24 +1400,40 @@
 	culture="texan"
 	religion="loneranger"
 	trade_goods="wood"
-	civilization_value=10
+	civilization_value=24
 	barbarian_power=0
 	province_rank="settlement"
-	tribesmen={
-		amount=1
+	freemen={
+		amount=9
 	}
 }
 
 9220={ #Winnie
 	terrain="plains"
-	culture="lway_viet"
+	culture="texan"
 	religion="americanist"
 	trade_goods="earthware"
 	civilization_value=10
 	barbarian_power=0
 	province_rank="settlement"
-	tribesmen={
-		amount=1
+	citizen={
+		amount=3
+	}
+	freemen={
+		amount=2
+	}
+	freemen={
+		culture="louisianais"
+		religion="traiteurism"
+		amount=2
+	}
+	freemen={
+		culture="lway_viet"
+		religion="traiteurism"
+		amount=2
+	}
+	slaves={
+		amount=4
 	}
 }
 
@@ -1238,11 +1442,24 @@
 	culture="texan"
 	religion="americanist"
 	trade_goods="earthware"
-	civilization_value=10
+	civilization_value=26
 	barbarian_power=0
 	province_rank="settlement"
-	tribesmen={
-		amount=1
+	freemen={
+		amount=5
+	}
+	freemen={
+		culture="louisianais"
+		religion="traiteurism"
+		amount=2
+	}
+	freemen={
+		culture="lway_viet"
+		religion="traiteurism"
+		amount=2
+	}
+	slaves={
+		amount=4
 	}
 }
 
@@ -1339,14 +1556,18 @@
 
 9615={ #Gainesville
 	terrain="steppes"
-	culture="texaner"
+	culture="texan"
 	religion="loneranger"
 	trade_goods="fish"
-	civilization_value=10
+	civilization_value=18
 	barbarian_power=0
 	province_rank="settlement"
+	freemen={
+		amount=4
+	}
 	tribesmen={
-		amount=1
+		culture="texaner"
+		amount=3
 	}
 }
 

@@ -312,13 +312,24 @@
 
 8669={ #Bowie
 	terrain="steppes"
-	culture="texaner"
+	culture="texan"
 	religion="loneranger"
 	trade_goods="vegetables"
-	civilization_value=10
+	civilization_value=17
 	barbarian_power=0
 	province_rank="settlement"
+	citizen={
+		amount=1
+	}
+	freemen={
+		culture="texaner"
+		amount=1
+	}
 	tribesmen={
+		amount=3
+	}
+	tribesmen={
+		culture="texaner"
 		amount=1
 	}
 }
