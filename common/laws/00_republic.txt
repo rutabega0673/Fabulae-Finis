@@ -228,12 +228,13 @@ corruption_laws = { # Endorse Legislative Body
 	republic_corruption_3 = {
 		modifier = {
 			fabricate_claim_cost_modifier = -0.5
+			war_exhaustion = -0.02
 		}
 	}
 	
 	republic_corruption_1 = {
 		modifier = {
-			monthly_tyranny = -0.02
+			monthly_tyranny = -0.03
 		}
 		on_enact = {
 			custom_tooltip = "enables_curiate_assembly_tt"
@@ -305,7 +306,8 @@ republican_mediterranean_laws = { # Maritime Laws
 			num_of_ports >= 1
 		}
 		modifier = {
-			global_import_commerce_modifier = 0.25
+			global_import_commerce_modifier = 0.2
+			global_capital_trade_routes = 1
 		}
 	}
 	
@@ -314,7 +316,8 @@ republican_mediterranean_laws = { # Maritime Laws
 			num_of_ports >= 1
 		}
 		modifier = {
-			global_export_commerce_modifier = 0.25
+			global_export_commerce_modifier = 0.2
+			global_tax_modifier = 0.05
 		}
 		on_enact = {
 			if = {
@@ -464,7 +467,7 @@ republican_religious_laws = { # Religious Laws
 			civic_tech >= 3
 		}
 		modifier = {
-			stability_cost_modifier = -0.33
+			stability_cost_modifier = -0.35
 		}
 	}
 	
@@ -518,6 +521,7 @@ republic_integration_laws = { # Integration Laws
 	republican_integration_1 = {
 		modifier = {
 			global_freemen_happyness = happiness_small_svalue
+			global_freemen_output = output_small_svalue
 		}
 	}
 	republican_integration_2 = {
@@ -525,7 +529,7 @@ republic_integration_laws = { # Integration Laws
 			civic_tech >= 6
 		}
 		modifier = {
-			global_nobles_happyness = 0.02
+			global_nobles_happyness = 0.04
 			global_pop_demotion_speed = 6
 		}
 	}
@@ -604,6 +608,7 @@ republic_citizen_laws = { # Citizenship Laws
 		}
 		modifier = {
 			global_slaves_city_desired_pop_ratio = 0.15
+			global_slaves_happyness = 0.04
 		}
 	}
 	republican_citizen_3 = {
@@ -613,6 +618,7 @@ republic_citizen_laws = { # Citizenship Laws
 		}
 		modifier = {
 			global_citizen_city_desired_pop_ratio = 0.1
+			global_pop_assimilation_speed_modifier = 0.05
 		}
 	}
 	republican_citizen_4 = {
@@ -622,6 +628,7 @@ republic_citizen_laws = { # Citizenship Laws
 		}
 		modifier = {
 			global_freemen_city_desired_pop_ratio = 0.1
+			global_freemen_happyness = 0.04
 		}
 	}
 }

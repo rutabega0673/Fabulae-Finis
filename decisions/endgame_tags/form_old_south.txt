@@ -1,0 +1,131 @@
+﻿country_decisions = {
+	
+	# Form The Old South
+	form_old_south = {
+		
+		potential = {
+			num_of_cities >= 1
+			OR = {
+				country_culture_group = old_southern
+				country_culture_group = lumbee_group
+				country_culture_group = native_virginian
+			}
+			NOT = {
+				has_variable = formed_old_south
+				tag = OLD
+				tag = VIN
+			}
+		}
+		
+		highlight = {
+			scope:province = {
+				OR = {
+					province_id = 5485
+					province_id = 5486
+					province_id = 6952
+					province_id = 5068
+					province_id = 2090
+					province_id = 5800
+					province_id = 2003
+					province_id = 2004
+					province_id = 3365
+					province_id = 7392
+					province_id = 2044
+					province_id = 9584
+					province_id = 1896
+					province_id = 1893
+					province_id = 2504
+					province_id = 7992
+					province_id = 7990
+					province_id = 2728
+					province_id = 6672
+					province_id = 5456
+					province_id = 8986
+					province_id = 6547
+					province_id = 7794 
+				}
+			}
+		}
+		
+		allow = {
+			custom_tooltip = {
+				text = formable_not_southern_empire_exists
+				NOT = {
+					any_country = {
+						tag = OLD
+					}
+				}
+			}
+			can_form_nation_trigger = yes
+			owns_or_subject_owns = 5485
+			owns_or_subject_owns = 5486
+			owns_or_subject_owns = 6952
+			owns_or_subject_owns = 5068
+			owns_or_subject_owns = 2090
+			owns_or_subject_owns = 5800
+			owns_or_subject_owns = 2003
+			owns_or_subject_owns = 2004
+			owns_or_subject_owns = 3365
+			owns_or_subject_owns = 7392
+			owns_or_subject_owns = 2044
+			owns_or_subject_owns = 9584
+			owns_or_subject_owns = 1896
+			owns_or_subject_owns = 1893
+			owns_or_subject_owns = 2504
+			owns_or_subject_owns = 7992
+			owns_or_subject_owns = 7990
+			owns_or_subject_owns = 2728
+			owns_or_subject_owns = 6672
+			owns_or_subject_owns = 5456
+			owns_or_subject_owns = 8986
+			owns_or_subject_owns = 6547
+			owns_or_subject_owns = 7794 
+		}
+		
+		
+		effect = {
+			custom_tooltip = "tier_3_formable_tooltip"
+			change_country_name = "OLD_SOUTH_NAME"
+			if = { limit = { is_tribal = yes} change_government = imperium tribal_formable_government_change_effect = yes }
+			else_if = { limit = { is_republic = yes } change_government = grand_republic switch_government_type_event_clearup_effect = yes }
+			else_if = { limit = { is_monarchy = yes } change_government = imperium switch_government_type_event_clearup_effect = yes }
+			capital_scope = {
+				capital_formable_large_effect = yes
+				formable_capital_modifier_large_effect = yes
+			}
+			add_country_modifier = {
+				name = formable_country_huge_modifier
+				duration = 7600
+			}
+			if = {
+				limit = { is_tribal = yes }
+				add_country_modifier = {
+					name = civilized_tribe
+					duration = 5475
+				}
+			}
+			add_5_free_province_investments = yes
+			hidden_effect = {
+				set_variable = formed_old_south
+				change_country_color = "old_south_color"
+				change_country_tag = OLD
+				change_country_adjective = "OLD_SOUTH_ADJECTIVE"
+				change_country_flag = OLD_SOUTH_FLAG
+			}
+			custom_tooltip = "form_southern_empire_claims_tooltip"
+			hidden_effect = {
+				region:virginia_region = { formable_region_province_effect = yes }
+				region:palmetto_region = { formable_region_province_effect = yes }
+				region:tarheel_region = { formable_region_province_effect = yes }
+				area:panhandle_area = { formable_area_province_effect = yes }
+				area:tallahassee_area = { formable_area_province_effect = yes }
+			}
+		}
+		
+		ai_will_do = {
+			base = 1
+		}
+	}
+
+} 
+

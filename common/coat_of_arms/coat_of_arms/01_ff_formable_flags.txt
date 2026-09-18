@@ -467,3 +467,38 @@ TSENACOMMACAH_FLAG = {
 		instance = { scale = { 0.9 0.9 }}
 	}
 }
+
+OLD_SOUTH_FLAG = {
+	pattern = "pattern_solid.tga"
+	color1 = "navy_blue"
+	color2 = "offwhite"
+	colored_emblem = {
+		texture = "ce_border_rug_03.dds"
+		color1 = "roman_gold"
+		color2 = "navy_blue"
+		instance = {}
+		instance = { rotation = 180 }
+	}
+	colored_emblem = {
+		texture = "ce_crescent_ck3.dds"
+		color1 = "offwhite"
+		instance = { scale = { 0.6 0.6 } position = { 0.2 0.4 } rotation = 45 }
+	}
+	colored_emblem = {
+		texture = "ce_palm_tree_haiti.dds"
+		color1 = rgb { 59 103 12 }
+		color2 = "rust_brown"
+		instance = { scale = { 0.6 0.6 } position = { 0.7 0.5 }}
+	}
+}
+
+DEEP_SOUTH_FLAG = {
+	pattern = "pattern_horizontal_bar_01.tga"
+	color1 = "roman_red"
+	color2 = "offwhite"
+	colored_emblem = {
+		texture = "ce_star_05.dds"
+		color1 = "navy_blue"
+		instance = { scale = { 0.9 0.9 }}
+	}
+}

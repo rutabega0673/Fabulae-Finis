@@ -134,7 +134,14 @@
  TSENACOMMACAH_ADJ:0 "Tsenacommacah"
  tsenacommacah_claims_tooltip:0 "#Y Tsenacommacah#! will gain claims on the region of #Y Virginia#!, and on the provinces of #Y Washington D.C.#!, and #Y Ahoskie#!."
  powhatan_heritage:0 "Heritage of Powhatan's Legacy"
- powhatan_heritage_desc:0 "The legendary ruler of Tsenacommacah, Powhatan was renowned for his diplomatic skill, quickly forming a powerful state out of the various Algonquian tribes in Virgina. Although his confederacy did not live on, his vision now lives on in the restored Tsenacommacah."
+ powhatan_heritage_desc:0 "The legendary ruler of Tsenacommacah, Powhatan was renowned for his diplomatic skill, quickly forming a powerful state out of the various Algonquian tribes in Virgina. Although his confederacy did not stand the test of time, his vision now lives on in the restored Tsenacommacah."
+
+ form_old_south:0 "Unite the Old Southerners"
+ form_old_south_desc:0 "The venerable Old South, with all her prestige and glory, has always stood apart. Therefore, a great union of our peoples should be made, a union of brotherhood and kinship."
+ formable_not_old_south_exists:0 "#Y Old South#! does not exist."
+ OLD_SOUTH_NAME:0 "Old South"
+ OLD_SOUTH_ADJECTIVE:0 "Old Southern"
+ form_southern_empire_claims_tooltip:0 "#Y Old South#! will get claims on the regions of #Y Old Dominion#!, #Y Tarheel#!, and #Y Palmetto#!."
  
 
  ## Formable Events ##

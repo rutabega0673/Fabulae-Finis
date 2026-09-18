@@ -119,11 +119,11 @@
 					limit = { country_culture_group = louisianais }
 					change_country_adjective = "SOUTHERN_EMPIRE_ADJECTIVE_FRENCH"
 					change_country_name = "SOUTHERN_EMPIRE_NAME_FRENCH"
-					change_country_flag = COLUMBIA_TWAINIST_FLAG
+					change_country_flag = DEEP_SOUTH_FLAG
 				}
 				else = {
 					change_country_adjective = "SOUTHERN_EMPIRE_ADJECTIVE"
-					change_country_flag = COLUMBIA_TWAINIST_FLAG
+					change_country_flag = DEEP_SOUTH_FLAG
 				}
 			}
 			custom_tooltip = "form_southern_empire_claims_tooltip"
