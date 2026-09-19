@@ -28,8 +28,11 @@
 			}
 		} 
 		walloon = {}
-		hollander = {}
+		hollander = {
+			levy_template = levy_steelfolk
+		}
 		wolgadeutsche = { #North Dakota Russian Germans
+			levy_template = levy_midwestern
 			male_names = { #Plautsdeutsch names from CK3
                 Aaron Abram Alan Albert Alfred Andreas Armin Arno Arnold Art
                 Bart Benjamin Benno Bernhard Bodo Brad Bryan Byron
@@ -1218,6 +1221,6 @@
 	
 	graphical_culture = thracian_gfx
 	ethnicities = {
-		10 = greek
+		10 = germanic
 	}
 }

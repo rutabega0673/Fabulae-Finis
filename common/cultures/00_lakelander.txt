@@ -2780,6 +2780,8 @@
 	
 	graphical_culture = thracian_gfx
 	ethnicities = {
-		10 = illyrian
+		8 = germanic
+		2 = central_african
+		2 = roman
 	}
 }

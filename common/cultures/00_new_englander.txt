@@ -3515,6 +3515,8 @@
 	
 	graphical_culture = roman_gfx
 	ethnicities = {
-		10 = greek
+		10 = britannic
+		2 = celtic
+		2 = roman
 	}
 }

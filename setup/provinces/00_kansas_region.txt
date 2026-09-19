@@ -944,8 +944,8 @@
 
 7311={ #Tecumseh
 	terrain="plains"
-	culture="ioway"
-	religion="catholic"
+	culture="dhegihan"
+	religion="ozymandism"
 	trade_goods="cattle"
 	civilization_value=10
 	barbarian_power=0
@@ -957,8 +957,8 @@
 
 7312={ #Falls City
 	terrain="plains"
-	culture="ioway"
-	religion="lutheran"
+	culture="dhegihan"
+	religion="ozymandism"
 	trade_goods="fish"
 	civilization_value=10
 	barbarian_power=0
@@ -970,7 +970,7 @@
 
 7313={ #Atchinson
 	terrain="plains"
-	culture="ioway"
+	culture="dhegihan"
 	religion="catholic"
 	trade_goods="hallucinogenics"
 	civilization_value=10

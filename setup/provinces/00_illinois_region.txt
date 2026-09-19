@@ -174,7 +174,7 @@
 2735={ #Jacksonville
 	terrain="plains"
 	culture="gatewayan"
-	religion="catholic"
+	religion="twainist"
 	trade_goods="cloth"
 	civilization_value=20
 	barbarian_power=0

@@ -4650,7 +4650,9 @@
 	
 	graphical_culture = persian_gfx
 	ethnicities = {
-		10 = bactrian
+		8 = bactrian
+		2 = central_african
+		2 = ethiopian
 		2 = greek
 		2 = anatolian
 	}

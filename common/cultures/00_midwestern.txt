@@ -2677,8 +2677,109 @@
 			}
 		}
 		heartlander = {}
-		jayhawker = {}
-		cornhusker = {}
+		jayhawker = {
+			levy_template = levy_jayhawker
+			male_names = {
+				Abednego Abraham Absalom Adam Ahad Aiden Al Albert Alexander Alfred Allen Alton Alvin American Amzi Andy Anson Anton Antonin Art Arthur Asa Ashton Austin 
+				Barnum Bartholomew Bedrich Ben Billy Blaine Blake Bob Bohumil Boris Byrne 
+				Calvin Carl Chester Chris Clark Clifton Cody Colton Coop 
+				Dakota Dale Dan Daniel Darrell David Dell Dennis Donald Douglas Dwight Dylan 
+				Ebeneezer Edgar Edmund Edward Egon Elijah Elliot Ellis Elmer Emerson Emmett Erik Ethan Eustace Everett Ev_z_crn_en Ezra Ezekiel 
+				Febold Floyd Frank Franklin Fred Frederick 
+				Gabe Gage Garber Garret Gene George Gerald Gideon Glen 
+				Hank Harold Henrik Herbie Herman Hezekiah Hibbard Holcomb Holt Horace Hugo Hunter 
+				Ignace Isaac Israel 
+				Jace Jake Jan Jaromir Jaroslav Jay Jeconiah Jeroboam Jerome Jim Joe Joel John Josh Josef Josiah Judah 
+				Keith Ken Kenneth Karel Kaspar 
+				Ladislav Landon Lavon Len Leonard Leroy Leslie Lewis Lubomir Ludvik Lucas Lyman 
+				Manasseh Mark Martin Marty Marvin Mason Matthew Melville Merriweather Meyer Micah Michael Mikulas Milo Miloslav Miroslav Mishach Mojmir Morris Moses Myatt 
+				Nathan Ned Nehemiah Norbert 
+				Obadiah Obnard Oldrich Oliver Ondrew Oscar Osvald Othman Othniel Otis 
+				Patrick Paul Pedaiah Pelham Pentecost Peter Phil Phineas Pomeroy Poynter 
+				Ralph Randall Raymond Red Rehoboam Richard Robert Rockwell Roman Ronald Roscoe Rudolf Russ 
+				Salathiel Sam Sander Saul Seth Shadrach Sheldon Silas Simon Slavek Solomon Sterling Stepan 
+				Tanner Teddy Thaddeus Theodor Theophile Tim Tomas Tom Toto
+				Uriah 
+				Vaclav Valentin Vance Vanessa Vernon Victor Vladimir Vladislav Vojtech 
+				Walter Warren Wesley Wheeler Whelan Wilbur Willis Wilson Wyatt 
+				Zach Zebediah Zedekiah Zechariah Zerubbabel
+			}
+			female_names = {
+				Abigail Ada Alexis Alica Albina Allison Almira Alyssa Amelia Ana Angelika Anna April Arduenna Ashe Ava 
+				Barbara Bastinda Becca Berniece Bertha Betsy Billina Blanche Blythe Brittney Brooke 
+				Caley Caroline Cheyenne Clarina Colleen Cora 
+				Daisy Danica Daniela Daria Deborah Denise Destiny Diana Dominika Donna Dora Doreen Dorothy 
+				Elena Elizabeth Ella Elphaba Emma Erika Esther Evanora Eva 
+				Faith Flora Flower 
+				Gail Georgia Gisela Gladys Glinda Glycine Grace 
+				Hannah Helen Henrietta Hermione 
+				Ilona Irena Isabella Isobel Ivana 
+				Jacquelyn Jasmine Jeannie Jellia Jen Jenny Jana Janica Jarmila Jessica Joan Joetta Jolene Joyce Judith Julia Juniper 
+				Karolina Kathleen Kathy Kay Kimberly 
+				Lana Laura Leah Lena Liana Livia Lizzie Locasta Lois Lucia Lucy Ludmila Lurline Lydia 
+				Mabel Maddy Magdalena Marceline Margaret Maria Marilyn Marissa Martha Martina Mary Matilda Maxine Melena Melina Mila Milena Mildred Mira Miriam Monika Muriel 
+				Nadia Natalie Natasha Nevaeh Nichole Nicole Nina 
+				Olga Olivia Ozma 
+				Pamela Pastoria Paulina 
+				Rachel Rebecca Regina Renata Romana Rosa Rowena Ruth 
+				Sabina Sally Samantha Sarah Savannah Sierra Sophie Stefania Summer Susana Susan Susette Sydney 
+				Tamara Tatiana Theodora Trinity Trisha 
+				Valeria Vanessa Vera Victoria Virginia 
+				Waunita Wilma 
+				Zoe
+			}
+		}
+		cornhusker = {
+			male_names = {
+				Abednego Abraham Absalom Adam Ahad Aiden Al Albert Alexander Alfred Allen Alton Alvin American Amzi Andy Anson Anton Antonin Art Arthur Asa Ashton Austin 
+				Barnum Bartholomew Bedrich Ben Billy Blaine Blake Bob Bohumil Boris Byrne 
+				Calvin Carl Chester Chris Clark Clifton Cody Colton Coop 
+				Dakota Dale Dan Daniel Darrell David Dell Dennis Donald Douglas Dwight Dylan 
+				Ebeneezer Edgar Edmund Edward Egon Elijah Elliot Ellis Elmer Emerson Emmett Erik Ethan Eustace Everett Ev_z_crn_en Ezra Ezekiel 
+				Febold Floyd Frank Franklin Fred Frederick 
+				Gabe Gage Garber Garret Gene George Gerald Gideon Glen 
+				Hank Harold Henrik Herbie Herman Hezekiah Hibbard Holcomb Holt Horace Hugo Hunter 
+				Ignace Isaac Israel 
+				Jace Jake Jan Jaromir Jaroslav Jay Jeconiah Jeroboam Jerome Jim Joe Joel John Josh Josef Josiah Judah 
+				Keith Ken Kenneth Karel Kaspar 
+				Ladislav Landon Lavon Len Leonard Leroy Leslie Lewis Lubomir Ludvik Lucas Lyman 
+				Manasseh Mark Martin Marty Marvin Mason Matthew Melville Merriweather Meyer Micah Michael Mikulas Milo Miloslav Miroslav Mishach Mojmir Morris Moses Myatt 
+				Nathan Ned Nehemiah Norbert 
+				Obadiah Obnard Oldrich Oliver Ondrew Oscar Osvald Othman Othniel Otis 
+				Patrick Paul Pedaiah Pelham Pentecost Peter Phil Phineas Pomeroy Poynter 
+				Ralph Randall Raymond Red Rehoboam Richard Robert Rockwell Roman Ronald Roscoe Rudolf Russ 
+				Salathiel Sam Sander Saul Seth Shadrach Sheldon Silas Simon Slavek Solomon Sterling Stepan 
+				Tanner Teddy Thaddeus Theodor Theophile Tim Tomas Tom Toto
+				Uriah 
+				Vaclav Valentin Vance Vanessa Vernon Victor Vladimir Vladislav Vojtech 
+				Walter Warren Wesley Wheeler Whelan Wilbur Willis Wilson Wyatt 
+				Zach Zebediah Zedekiah Zechariah Zerubbabel
+					}
+			female_names = {
+				Abigail Ada Alexis Alica Albina Allison Almira Alyssa Amelia Ana Angelika Anna April Arduenna Ashe Ava 
+				Barbara Bastinda Becca Berniece Bertha Betsy Billina Blanche Blythe Brittney Brooke 
+				Caley Caroline Cheyenne Clarina Colleen Cora 
+				Daisy Danica Daniela Daria Deborah Denise Destiny Diana Dominika Donna Dora Doreen Dorothy 
+				Elena Elizabeth Ella Elphaba Emma Erika Esther Evanora Eva 
+				Faith Flora Flower 
+				Gail Georgia Gisela Gladys Glinda Glycine Grace 
+				Hannah Helen Henrietta Hermione 
+				Ilona Irena Isabella Isobel Ivana 
+				Jacquelyn Jasmine Jeannie Jellia Jen Jenny Jana Janica Jarmila Jessica Joan Joetta Jolene Joyce Judith Julia Juniper 
+				Karolina Kathleen Kathy Kay Kimberly 
+				Lana Laura Leah Lena Liana Livia Lizzie Locasta Lois Lucia Lucy Ludmila Lurline Lydia 
+				Mabel Maddy Magdalena Marceline Margaret Maria Marilyn Marissa Martha Martina Mary Matilda Maxine Melena Melina Mila Milena Mildred Mira Miriam Monika Muriel 
+				Nadia Natalie Natasha Nevaeh Nichole Nicole Nina 
+				Olga Olivia Ozma 
+				Pamela Pastoria Paulina 
+				Rachel Rebecca Regina Renata Romana Rosa Rowena Ruth 
+				Sabina Sally Samantha Sarah Savannah Sierra Sophie Stefania Summer Susana Susan Susette Sydney 
+				Tamara Tatiana Theodora Trinity Trisha 
+				Valeria Vanessa Vera Victoria Virginia 
+				Waunita Wilma 
+				Zoe
+			}
+		}
 		grangelander = {
 			male_names = {
 				Abednego Abraham Absalom Adam Ahad Aiden Al Albert Alexander Alfred Allen Alton Alvin American Amzi Andy Anson Anton Antonin Art Arthur Asa Ashton Austin 
@@ -2790,6 +2891,8 @@
 	
 	graphical_culture = thracian_gfx
 	ethnicities = {
-		10 = greek
+		10 = germanic
+		2 = celtic
+		2 = central_african
 	}
 }

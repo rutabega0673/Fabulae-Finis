@@ -1,7 +1,7 @@
 ﻿sioux = {
 	color = rgb { 229 229 247 }
 
-	levy_template = levy_central_asia
+	levy_template = levy_dakota
 	
 	primary = light_infantry
 	second = heavy_cavalry
@@ -350,6 +350,7 @@
 			}
 		} 
 		dhegihan = {
+			levy_template = levy_dhegihan
 			male_names = {
 				Abeytzi Akecheta Allegawaho
 				Carter Cetanwakuwa Chayton Claremore Clarence Clyde
@@ -392,8 +393,6 @@
 				Zazette Zitkalasa Zonta
 			}
 		}
-		ioway = {}
-		otoe_missouria = {}
 		hoocak = {} #Ho-chunk
 	}
 	
@@ -403,6 +402,7 @@
 	
 	graphical_culture = scythian_gfx
 	ethnicities = {
-		10 = greek
+		10 = scythian
+		2 = germanic
 	}
 }

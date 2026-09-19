@@ -391,7 +391,7 @@
 3407={ #Nįį'uic
 	terrain="hills"
 	culture="driftlander"
-	religion="lutheran"
+	religion="twainist"
 	trade_goods="stone"
 	civilization_value=8
 	barbarian_power=0
@@ -404,7 +404,7 @@
 3408={ #Hinųkwas
 	terrain="hills"
 	culture="driftlander"
-	religion="lutheran"
+	religion="twainist"
 	trade_goods="fish"
 	civilization_value=8
 	barbarian_power=0
@@ -417,7 +417,7 @@
 3409={ #Platteville
 	terrain="hills"
 	culture="driftlander"
-	religion="lutheran"
+	religion="twainist"
 	trade_goods="clay"
 	civilization_value=8
 	barbarian_power=0

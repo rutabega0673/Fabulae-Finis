@@ -2001,6 +2001,9 @@
 	
 	graphical_culture = carthaginian_gfx
 	ethnicities = {
-		10 = bactrian
+		8 = central_african
+		2 = anatolian
+		2 = bactrian
+		2 = greek
 	}
 }

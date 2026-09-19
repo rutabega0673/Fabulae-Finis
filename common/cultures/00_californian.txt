@@ -2927,6 +2927,6 @@
 	
 	graphical_culture = anatolian_gfx
 	ethnicities = {
-		10 = greek
+		10 = anatolian
 	}
 }

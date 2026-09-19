@@ -143,7 +143,7 @@
 
 7572={ #Cherokee
 	terrain="steppes"
-	culture="okie"
+	culture="dhegihan"
 	religion="heartful"
 	trade_goods="maize"
 	civilization_value=10
@@ -182,7 +182,7 @@
 
 7575={ #Enid
 	terrain="steppes"
-	culture="otoe_missouria"
+	culture="dhegihan"
 	religion="peyotist"
 	trade_goods="tobacco"
 	civilization_value=10

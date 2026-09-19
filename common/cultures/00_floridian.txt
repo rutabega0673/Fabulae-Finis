@@ -3519,6 +3519,7 @@
 	
 	graphical_culture = carthaginian_gfx
 	ethnicities = {
-		10 = greek
+		10 = bactrian
+		2 = greek
 	}
 }

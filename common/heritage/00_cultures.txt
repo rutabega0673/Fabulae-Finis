@@ -1210,6 +1210,58 @@ chiac_heritage = {
         primary_culture = chiac
 	}
 }
+dakota_heritage = {
+   	modifier = {
+        #good
+        horse_archers_morale = 0.10
+        global_commerce_modifier = 0.05
+       #bad
+        global_defensive = -0.05 
+   }
+
+   trigger = {
+        primary_culture = dakota
+	}
+}
+lakota_heritage = {
+   	modifier = {
+        #good
+        horse_archers_discipline = 0.10
+        war_score_cost = -0.05
+       #bad
+        global_manpower_modifier = -0.05
+   }
+
+   trigger = {
+        primary_culture = lakota
+	}
+}
+dhegihan_heritage = {
+   	modifier = {
+        #good
+        horse_skirmishers_morale = 0.10
+        global_capital_trade_routes = 1
+       #bad
+        army_maintenance_cost = 0.10  
+   }
+
+   trigger = {
+        primary_culture = dhegihan
+	}
+}
+nakota_heritage = {
+   	modifier = {
+        #good
+        horse_archers_steppes_combat_bonus = 0.10
+        diplomatic_relations = 1
+       #bad
+        global_slaves_output = -0.05
+   }
+
+   trigger = {
+        primary_culture = nakota
+	}
+}
 #Culture Group
 midwestern_heritage = {
    	modifier = {

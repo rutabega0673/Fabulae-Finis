@@ -529,6 +529,7 @@
 	
 	graphical_culture = thracian_gfx
 	ethnicities = {
-		10 = greek
+		8 = germanic
+		2 = central_african
 	}
 }
