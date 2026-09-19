@@ -195,7 +195,7 @@
 
 2649={ #Alzada
 	terrain="hills"
-	culture="badlander"
+	culture="cheyenne"
 	religion="peyotist"
 	trade_goods="buffalo"
 	civilization_value=10
@@ -299,7 +299,7 @@
 
 3838={ #Baker
 	terrain="steppes"
-	culture="badlander"
+	culture="cheyenne"
 	religion="peyotist"
 	trade_goods="stone"
 	civilization_value=10
@@ -325,7 +325,7 @@
 
 3840={ #Terry
 	terrain="steppes"
-	culture="badlander"
+	culture="cheyenne"
 	religion="peyotist"
 	trade_goods="steppe_horses"
 	civilization_value=10

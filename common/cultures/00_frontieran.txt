@@ -2068,6 +2068,7 @@
 	
 	graphical_culture = numidian_gfx
 	ethnicities = {
-		10 = greek
+		10 = persian
+		2 = arab
 	}
 }

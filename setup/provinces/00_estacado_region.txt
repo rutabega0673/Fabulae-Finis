@@ -663,7 +663,7 @@
 
 7134={ #Des Moines
 	terrain="steppes"
-	culture="neomexicano"
+	culture="grangelander"
 	religion="loneranger"
 	trade_goods="earthware"
 	civilization_value=10

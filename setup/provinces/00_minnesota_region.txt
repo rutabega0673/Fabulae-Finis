@@ -1089,7 +1089,7 @@
 
 8405={ #Shák'pí
 	terrain="plains"
-	culture="minnesotan"
+	culture="dakota"
 	religion="ozymandism"
 	trade_goods="maize"
 	civilization_value=20

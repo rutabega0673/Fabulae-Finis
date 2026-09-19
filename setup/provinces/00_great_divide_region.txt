@@ -286,7 +286,7 @@
 
 3777={ #Elkhart
 	terrain="steppes"
-	culture="coloradan"
+	culture="grangelander"
 	religion="loneranger"
 	trade_goods="buffalo"
 	civilization_value=10
@@ -299,7 +299,7 @@
 
 3778={ #Pritchett
 	terrain="steppes"
-	culture="coloradan"
+	culture="grangelander"
 	religion="loneranger"
 	trade_goods="steppe_horses"
 	civilization_value=10
@@ -572,7 +572,7 @@
 
 5941={ #Cheyenne Wells
 	terrain="steppes"
-	culture="coloradan"
+	culture="grangelander"
 	religion="loneranger"
 	trade_goods="steppe_horses"
 	civilization_value=10
@@ -585,7 +585,7 @@
 
 5942={ #Lamar
 	terrain="steppes"
-	culture="coloradan"
+	culture="grangelander"
 	religion="loneranger"
 	trade_goods="tubers"
 	civilization_value=10
@@ -637,7 +637,7 @@
 
 6197={ #Burlington
 	terrain="steppes"
-	culture="coloradan"
+	culture="grangelander"
 	religion="loneranger"
 	trade_goods="wild_game"
 	civilization_value=10
@@ -650,7 +650,7 @@
 
 6198={ #Kit Carson
 	terrain="steppes"
-	culture="coloradan"
+	culture="grangelander"
 	religion="loneranger"
 	trade_goods="wild_game"
 	civilization_value=10
@@ -663,7 +663,7 @@
 
 6199={ #Limon
 	terrain="steppes"
-	culture="coloradan"
+	culture="grangelander"
 	religion="loneranger"
 	trade_goods="earthware"
 	civilization_value=10
@@ -975,7 +975,7 @@
 
 7715={ #Ordway
 	terrain="steppes"
-	culture="coloradan"
+	culture="grangelander"
 	religion="shambhalaism"
 	trade_goods="cattle"
 	civilization_value=10
@@ -1001,7 +1001,7 @@
 
 7717={ #La Junta
 	terrain="steppes"
-	culture="coloradan"
+	culture="grangelander"
 	religion="shambhalaism"
 	trade_goods="tubers"
 	civilization_value=10
@@ -1027,7 +1027,7 @@
 
 7747={ #Fort Morgan
 	terrain="steppes"
-	culture="coloradan"
+	culture="grangelander"
 	religion="loneranger"
 	trade_goods="buffalo"
 	civilization_value=10
@@ -1040,7 +1040,7 @@
 
 7814={ #Aguilar
 	terrain="steppes"
-	culture="coloradan"
+	culture="grangelander"
 	religion="shambhalaism"
 	trade_goods="bodark"
 	civilization_value=10
