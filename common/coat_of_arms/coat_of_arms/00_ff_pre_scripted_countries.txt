@@ -2004,3 +2004,79 @@ ESC = { # Escambia / Poarch Band of Creek (Muscogee)
 		instance = { position = { 0.5 0.55 } scale = { 1.5 1.5 } }
 	}
 }
+
+SBM = { # San Bernardo- flag of the Canary Islands
+	pattern = "pattern_tricolor_vertical_01.tga"
+	color1 = "offwhite"
+	color2 = rgb { 13 129 163 }
+	color3 = "epirus_yellow"
+
+	colored_emblem = {
+		texture = "ce_crown.dds"
+		color1 = "silver"
+		color2 = "roman_red"
+		instance = { scale = { 0.35 0.35 } position = { 0.5 0.5 } }
+	}
+}
+
+BEU = { # Beaumont, TX
+	pattern = "pattern_solid.tga"
+	color1 = rgb { 23 108 62 }
+	color2 = rgb { 13 129 163 }
+
+	colored_emblem = {
+		texture = "ce_aegis_01.dds"
+		color1 = "epirus_yellow"
+		color2 = "ck2_blue"
+		instance = { scale = { 0.6 0.6 } position = { 0.5 0.3 } }
+	}
+	colored_emblem = {
+		texture = "ce_block_02.dds"
+		color1 = "ck2_blue"
+		instance = { scale = { 1 0.5 } position = { 0.5 0.8 } }
+	}
+	colored_emblem = {
+		texture = "ce_tree_spade.dds"
+		color1 = "offwhite"
+		color2 = "offwhite"
+		instance = { scale = { 0.3 0.3 } position = { 0.5 0.8 } }
+		instance = { scale = { 0.3 0.3 } position = { 0.2 0.8 } }
+		instance = { scale = { 0.3 0.3 } position = { 0.8 0.8 } }
+	}
+}
+
+HOS = { # Houston
+	pattern = "pattern_solid.tga"
+	color1 = "ck2_blue"
+	color3 = "epirus_yellow"
+
+	colored_emblem = {
+		texture = "ce_flat_star.dds"
+		color1 = "offwhite"
+		color2 = "ck2_blue"
+		instance = { position = { 0.5 0.5 } }
+	}
+	colored_emblem = {
+		texture = "ce_plow.dds"
+		color1 = "roman_gold"
+		color2 = "roman_gold"
+		instance = { scale = { 0.4 0.4 } position = { 0.5 0.5 } }
+	}
+}
+
+RUS = { # Ruston
+	pattern = "pattern_vertical_split_01.tga"
+	color1 = "roman_gold"
+	color2 = "offwhite"
+
+	colored_emblem = {
+		texture = "ce_gears.dds"
+		color1 = "navy_blue"
+		instance = { position = { 0.5 0.5 } }
+	}
+	colored_emblem = {
+		texture = "ce_fleur.dds"
+		color1 = "navy_blue"
+		instance = { scale = { 0.4 0.4 } position = { 0.5 0.5 } }
+	}
+}

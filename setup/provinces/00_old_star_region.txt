@@ -522,7 +522,7 @@
 	}
 	freemen={
 		culture="lway_viet"
-		religion="traiteurism"
+		religion="cao_dai"
 		amount=2
 	}
 	slaves={
@@ -663,7 +663,7 @@
 	}
 	citizen={
 		culture="lway_viet"
-		religion="catholic"
+		religion="cao_dai"
 		amount=3
 	}
 	freemen={
@@ -964,7 +964,7 @@
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
-		amount=8s
+		amount=8
 	}
 }
 
@@ -1048,7 +1048,7 @@
 7195={ #Lumberton
 	terrain="forest"
 	culture="louisianais"
-	religion="traiteurism"
+	religion="cao_dai"
 	trade_goods="vegetables"
 	civilization_value=10
 	barbarian_power=0
@@ -1061,26 +1061,41 @@
 7196={ #Beaumont
 	terrain="plains"
 	culture="lway_viet"
-	religion="traiteurism"
+	religion="cao_dai"
 	trade_goods="fish"
-	civilization_value=10
+	civilization_value=11
 	barbarian_power=0
 	province_rank="settlement"
+	freemen={
+		culture="louisianais"
+		religion="traiteurism"
+		amount=2
+	}
+	freemen={
+		amount=3
+	}
+	slaves={
+		amount=3
+	}
 	tribesmen={
-		amount=1
+		amount=4
 	}
 }
 
 7197={ #Orange
 	terrain="plains"
 	culture="louisianais"
-	religion="traiteurism"
+	religion="cao_dai"
 	trade_goods="hemp"
-	civilization_value=10
+	civilization_value=8
 	barbarian_power=0
 	province_rank="settlement"
+	freemen={
+		culture="lway_viet"
+		amount=3
+	}
 	tribesmen={
-		amount=1
+		amount=3
 	}
 }
 
@@ -1089,11 +1104,14 @@
 	culture="texan"
 	religion="americanist"
 	trade_goods="fish"
-	civilization_value=10
+	civilization_value=24
 	barbarian_power=0
 	province_rank="settlement"
-	tribesmen={
-		amount=1
+	freemen={
+		amount=3
+	}
+	slaves={
+		amount=7
 	}
 }
 
@@ -1102,11 +1120,14 @@
 	culture="texan"
 	religion="americanist"
 	trade_goods="fruits"
-	civilization_value=10
+	civilization_value=25
 	barbarian_power=0
 	province_rank="settlement"
-	tribesmen={
-		amount=1
+	freemen={
+		amount=3
+	}
+	slaves={
+		amount=7
 	}
 }
 
@@ -1436,7 +1457,7 @@
 9218={ #Sour Lake
 	terrain="forest"
 	culture="lway_viet"
-	religion="traiteurism"
+	religion="cao_dai"
 	trade_goods="leather"
 	civilization_value=25
 	barbarian_power=0
@@ -1450,8 +1471,6 @@
 		amount=2
 	}
 	freemen={
-		culture="lway_viet"
-		religion="traiteurism"
 		amount=2
 	}
 	slaves={
@@ -1462,7 +1481,7 @@
 9219={ #Cleveland
 	terrain="forest"
 	culture="texan"
-	religion="loneranger"
+	religion="cao_dai"
 	trade_goods="wood"
 	civilization_value=24
 	barbarian_power=0
@@ -1493,8 +1512,8 @@
 	}
 	freemen={
 		culture="lway_viet"
-		religion="traiteurism"
-		amount=2
+		religion="cao_dai"
+		amount=4
 	}
 	slaves={
 		amount=4
@@ -1522,7 +1541,7 @@
 	}
 	freemen={
 		culture="lway_viet"
-		religion="traiteurism"
+		religion="cao_dai"
 		amount=2
 	}
 	slaves={
@@ -1693,7 +1712,7 @@
 	}
 	freemen={
 		culture="lway_viet"
-		religion="traiteurism"
+		religion="cao_dai"
 		amount=2
 	}
 	slaves={

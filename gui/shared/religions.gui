@@ -221,6 +221,10 @@ types religions {
 			texture = "gfx/interface/icons/religions/cahokian_new.dds"
 			visible = "[EqualTo_string(Religion.GetNameWithNoTooltip, Localize('missisippian'))]"
 		}
+		religion_icon = {
+			texture = "gfx/interface/icons/religions/cao_dai.dds"
+			visible = "[EqualTo_string(Religion.GetNameWithNoTooltip, Localize('cao_dai'))]"
+		}
 	}
 }
 #catholic +

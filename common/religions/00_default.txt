@@ -488,15 +488,6 @@ egyptology = { #Egyptology
 	sacrifice_icon = sacrifice_incense
 	sacrifice_sound = "event:/SFX/UI/Religion/sfx_ui_religion_generic_sacrifice"
 }
-ozymandism = { #Ozymandism
-	color = rgb { 20 92 30 }
-	modifier = { 
-		happiness_for_same_culture_modifier = 0.03
-		global_freemen_output = 0.05
-		global_nobles_desired_pop_ratio = -0.10
-	}
-	religion_category = pantheon
-}
 theosophy = { #Theosophy
 	color = rgb { 137 38 112 }
 	modifier = {
@@ -847,6 +838,15 @@ missisippian = { # Cahokian
 	sacrifice_icon = sacrifice_incense
 	sacrifice_sound = "event:/SFX/UI/Religion/sfx_ui_religion_generic_sacrifice"
 }
+ozymandism = { # Bellamyite
+	color = rgb { 20 92 30 }
+	modifier = { 
+		happiness_for_same_culture_modifier = 0.03
+		global_freemen_output = 0.05
+		global_nobles_desired_pop_ratio = -0.10
+	}
+	religion_category = pantheon
+}
 #viking = { # Tall Tales
 #	color = rgb { 100 41 144 }
 #	modifier = { 
@@ -1006,7 +1006,18 @@ haredi = { # Haredi
 		omen_power = -0.10
 	}
 	religion_category = pantheon
-	is_monotheistic = yes
+	sacrifice_icon = sacrifice_incense
+	sacrifice_sound = "event:/SFX/UI/Religion/sfx_ui_religion_generic_sacrifice"
+}
+## Cao Dai ##
+cao_dai = { # Cao Dai
+	color = rgb { 0 168 107 }
+	modifier = { #Placeholder
+		global_citizen_output = 0.10
+		omen_power = 0.05 
+		war_score_cost = 0.05
+	}
+	religion_category = pantheon
 	sacrifice_icon = sacrifice_incense
 	sacrifice_sound = "event:/SFX/UI/Religion/sfx_ui_religion_generic_sacrifice"
 }

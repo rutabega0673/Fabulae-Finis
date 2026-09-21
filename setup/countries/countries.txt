@@ -269,6 +269,7 @@ RCC = "setup/countries/south/rock_hill.txt"
 PHP = "setup/countries/south/philadelphia.txt"
 ESC = "setup/countries/south/escambia.txt"
 PNS = "setup/countries/south/pensacola.txt"
+SBM = "setup/countries/south/san_bernardo.txt"
 
 #West Coast
 SAC = "setup/countries/west_coast/sacramento.txt"

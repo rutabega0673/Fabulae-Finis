@@ -285,6 +285,10 @@
  shambhalaism:0 "Shambhalaism"
  desc_shambhalaism:0 ""Brought down from the astral plane of Shambhala to the mountains of Tibet, then across oceans to the Americas, the ancient tradition of Shambhalaism has found purchase in the Rocky Mountains. Members of the sect await the imminent return of the Maitreya from Shambhala, who will triumph over the Asuras to usher in a new age of peace. The most important preparation is of the soul, primarily done through mediations which affirm the innate goodness of all human beings. In addition, the faithful attempt to create an enlightened and powerful society, one composed entirely of "spirit-warriors". Until the coming of the Maitreya, humans will be unable to reach their ultimate form as Dharmapalas, though those that are strong enough will ascend to Shambhala in order to join the armies of the Maitreya instead of reincarnating. However, while on Earth, followers are encouraged to not pursue violence, rather be ready to stand strong against it in whatever form it may take."
 
+ ## Cao Dai ##
+ cao_dai:0 "Cao Dai"
+ desc_cao_dai:0 "Originating from across the Pacific, the Heavenly Court of Cao Đài grew out of the myriad of traditions found across East Asia which have since intermingled with those found throughout California. Upon the separation of believers from the Ancestral Holy See after The Great Struggle, those living in the region consolidated within the Court of Heavenly Reason. Influenced by one of the founder's disciples, a woman named Bách Điều Hòa, female clergy members form the heart of the faith across the West Coast, where they make it their mission to not only teach the revelation of Cao Đài, but also to redeem the masses in the example of their shining Lord."
+
  ## New Pantheon Categories ##
  religion_category_founders:0 "Founder"
  religion_category_saints:0 "Saint"

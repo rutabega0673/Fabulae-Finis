@@ -406,7 +406,7 @@
  INR_ADJ:0 "Bankesian"
  GAS:0 "Galveston"
  GAS_ADJ:0 "Galvestonian"
- HOS:0 "Greater Houston"
+ HOS:0 "Houston"
  HOS_ADJ:0 "Houstonian"
  OUA:0 "Ouachita"
  OUA_ADj:0 "Ouachitan"
@@ -532,6 +532,8 @@
  ESC_ADJ:0 "Escambian"
  PNS:0 "Pensacola"
  PNS_ADJ:0 "Pensacolan"
+ SBM:0 "San Bernardo"
+ SBM_ADJ:0 "San Bernardino"
 
  ## West Coast ##
  SAC:0 "Second Californian Republic"
