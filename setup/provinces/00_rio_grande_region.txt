@@ -391,16 +391,12 @@
 		amount=1
 	}
 	freemen={
-		culture="texanane"
-		amount=1
-	}
-	freemen={
 		culture="silesian"
-		amount=2
+		amount=3
 	}
 	slaves={
 		culture="texan"
-		amount=1
+		amount=2
 	}
 }
 

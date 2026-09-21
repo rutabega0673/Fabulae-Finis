@@ -67,7 +67,7 @@
 		amount=4
 	}
 	freemen={
-		amount=5
+		amount=10
 	}
 	freemen={
 		religion="catholic"
@@ -90,7 +90,7 @@
 		amount=4
 	}
 	freemen={
-		amount=5
+		amount=10
 	}
 	freemen={
 		religion="catholic"
@@ -570,9 +570,9 @@
 	culture="youser"
 	religion="catholic"
 	trade_goods="honey"
-	civilization_value=22
+	civilization_value=31
 	barbarian_power=0
-	province_rank="settlement"
+	province_rank="city"
 	citizen={
 		amount=2
 	}
@@ -672,14 +672,14 @@
 		amount=3
 	}
 	freemen={
-		amount=5
+		amount=8
 	}
 	freemen={
 		religion="catholic"
 		amount=5
 	}
 	slaves={
-		amount=3
+		amount=10
 	}
 }
 
@@ -691,11 +691,14 @@
 	civilization_value=30
 	barbarian_power=0
 	province_rank="city"
+	nobles={
+		amount=2
+	}
 	citizen={
-		amount=3
+		amount=7
 	}
 	freemen={
-		amount=3
+		amount=5
 	}
 	freemen={
 		religion="catholic"
@@ -712,7 +715,7 @@
 		amount=1
 	}
 	slaves={
-		amount=3
+		amount=5
 	}
 }
 
@@ -735,7 +738,7 @@
 		amount=3
 	}
 	slaves={
-		amount=1
+		amount=5
 	}
 	slaves={
 		culture="aybidi"
