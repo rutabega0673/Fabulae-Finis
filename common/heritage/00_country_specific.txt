@@ -489,3 +489,16 @@ twin_confederacy_heritage = {
       tag = TCF
    }
 }
+cincinatti_heritage = {
+   	modifier = {
+      #good
+      global_freemen_output = 0.05
+      monthly_tyranny = -0.04
+    #bad
+      loyalty_to_overlord = 10
+   }
+
+   trigger = {
+      tag = CIN
+   }
+}

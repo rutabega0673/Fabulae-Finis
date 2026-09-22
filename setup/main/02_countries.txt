@@ -1204,7 +1204,7 @@ country = {
 			}
 		}
 		CIN = { # Cincinatti
-			government = stratocratic_monarchy
+			government = aristocratic_republic
 			primary_culture = butternutter
 			religion = americanist
 			capital = 416
