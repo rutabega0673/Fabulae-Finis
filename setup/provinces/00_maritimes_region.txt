@@ -208,7 +208,7 @@
 
 1145={ #Tatamagouche
 	terrain="hills"
-	culture="gaidheal"
+	culture="maritimer"
 	religion="veteranic"
 	trade_goods="stone"
 	civilization_value=10
@@ -221,7 +221,7 @@
 
 1146={ #Pictou
 	terrain="plains"
-	culture="gaidheal"
+	culture="maritimer"
 	religion="veteranic"
 	trade_goods="shells"
 	civilization_value=10

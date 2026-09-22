@@ -1,7 +1,7 @@
 ﻿447={ #Wilberforce
 	terrain="plains"
 	culture="shieldshorer"
-	religion="midewiwin"
+	religion="veteranic"
 	trade_goods="tubers"
 	civilization_value=10
 	barbarian_power=0
@@ -42,11 +42,25 @@
 	culture="sixer"
 	religion="promethean"
 	trade_goods="iron"
-	civilization_value=10
+	civilization_value=27
 	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
+	province_rank="city"
+	nobles={
+		amount=6
+	}
+	citizen={
+		amount=5
+	}
+	freemen={
+		amount=10
+	}
+	freemen={
+		culture="francontarien"
+		religion="ursuline"
 		amount=1
+	}
+	slaves={
+		amount=8
 	}
 }
 
@@ -55,11 +69,17 @@
 	culture="sixer"
 	religion="promethean"
 	trade_goods="wood"
-	civilization_value=10
+	civilization_value=25
 	barbarian_power=0
 	province_rank="settlement"
-	tribesmen={
-		amount=1
+	citizen={
+		amount=2
+	}
+	freemen={
+		amount=2
+	}
+	slaves={
+		amount=6
 	}
 }
 
@@ -120,11 +140,25 @@
 	culture="ontarian"
 	religion="united_church"
 	trade_goods="precious_metals"
-	civilization_value=10
+	civilization_value=26
 	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=1
+	province_rank="city"
+	nobles={
+		amount=5
+	}
+	citizen={
+		amount=5
+	}
+	freemen={
+		amount=8
+	}
+	freemen={
+		culture="francontarien"
+		religion="ursuline"
+		amount=2
+	}
+	slaves={
+		amount=8
 	}
 }
 
@@ -133,20 +167,7 @@
 	culture="ontarian"
 	religion="united_church"
 	trade_goods="limestone"
-	civilization_value=10
-	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=1
-	}
-}
-
-1106={ #Strathroy
-	terrain="plains"
-	culture="ontarian"
-	religion="united_church"
-	trade_goods="wood"
-	civilization_value=22
+	civilization_value=23
 	barbarian_power=0
 	province_rank="settlement"
 	citizen={
@@ -156,7 +177,30 @@
 		amount=2
 	}
 	slaves={
-		amount=3
+		amount=2
+	}
+	slaves={
+		religion="veteranic"
+		amount=2
+	}
+}
+
+1106={ #Strathroy
+	terrain="plains"
+	culture="ontarian"
+	religion="united_church"
+	trade_goods="wood"
+	civilization_value=21
+	barbarian_power=0
+	province_rank="settlement"
+	citizen={
+		amount=1
+	}
+	freemen={
+		amount=2
+	}
+	slaves={
+		amount=5
 	}
 }
 
@@ -175,7 +219,7 @@
 		amount=2
 	}
 	tribesmen={
-		amount=1
+		amount=3
 	}
 }
 
@@ -377,13 +421,24 @@
 2931={ #Stratford
 	terrain="plains"
 	culture="deitsch"
-	religion="old_order"
+	religion="united_church"
 	trade_goods="wood"
-	civilization_value=10
+	civilization_value=28
 	barbarian_power=0
 	province_rank="settlement"
-	tribesmen={
-		amount=1
+	nobles={
+		culture="ontarian"
+		amount=2
+	}
+	citizen={
+		amount=2
+	}
+	freemen={
+		culture="ontarian"
+		amount=4
+	}
+	slaves={
+		amount=3
 	}
 }
 
@@ -392,11 +447,21 @@
 	culture="deitsch"
 	religion="old_order"
 	trade_goods="maize"
-	civilization_value=10
+	civilization_value=20
 	barbarian_power=0
 	province_rank="settlement"
-	tribesmen={
-		amount=1
+	citizen={
+		amount=2
+	}
+	freemen={
+		amount=2
+	}
+	freemen={
+		culture="ontarian"
+		amount=2
+	}
+	slaves={
+		amount=3
 	}
 }
 
@@ -405,11 +470,14 @@
 	culture="ontarian"
 	religion="united_church"
 	trade_goods="clay"
-	civilization_value=10
+	civilization_value=22
 	barbarian_power=0
 	province_rank="settlement"
-	tribesmen={
-		amount=1
+	freemen={
+		amount=2
+	}
+	slaves={
+		amount=3
 	}
 }
 
@@ -455,7 +523,7 @@
 3496={ #Stonecliffe
 	terrain="forest"
 	culture="francontarien"
-	religion="lakeshore"
+	religion="veteranic"
 	trade_goods="cattle"
 	civilization_value=10
 	barbarian_power=0
@@ -613,11 +681,33 @@
 	culture="sixer"
 	religion="united_church"
 	trade_goods="iron"
-	civilization_value=10
+	civilization_value=31
 	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=1
+	province_rank="city"
+	nobles={
+		amount=6
+	}
+	citizen={
+		amount=5
+	}
+	citizen={
+		culture="francontarien"
+		amount=2
+	}
+	freemen={
+		religion="veteranic"
+		amount=6
+	}
+	freemen={
+		amount=3
+	}
+	freemen={
+		culture="francontarien"
+		religion="ursuline"
+		amount=4
+	}
+	slaves={
+		amount=10
 	}
 }
 
@@ -626,11 +716,25 @@
 	culture="sixer"
 	religion="united_church"
 	trade_goods="horses"
-	civilization_value=10
+	civilization_value=26
 	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=1
+	province_rank="city"
+	nobles={
+		amount=5
+	}
+	citizen={
+		amount=5
+	}
+	freemen={
+		amount=8
+	}
+	freemen={
+		culture="francontarien"
+		religion="ursuline"
+		amount=2
+	}
+	slaves={
+		amount=8
 	}
 }
 
@@ -649,7 +753,7 @@
 
 6302={ #Notre Dame Du Lac
 	terrain="hills"
-	culture="algonquin"
+	culture="francontarien"
 	religion="ursuline"
 	trade_goods="precious_metals"
 	civilization_value=10
@@ -665,11 +769,23 @@
 	culture="haudenosaunee"
 	religion="gaiwiio"
 	trade_goods="cattle"
-	civilization_value=10
+	civilization_value=25
 	barbarian_power=0
 	province_rank="settlement"
-	tribesmen={
-		amount=1
+	citizen={
+		amount=2
+	}
+	freemen={
+		culture="sixer"
+		amount=2
+	}
+	slaves={
+		amount=2
+	}
+	slaves={
+		culture="sixer"
+		religion="veteranic"
+		amount=2
 	}
 }
 
@@ -678,11 +794,22 @@
 	culture="haudenosaunee"
 	religion="promethean"
 	trade_goods="maize"
-	civilization_value=10
+	civilization_value=20
 	barbarian_power=0
 	province_rank="settlement"
-	tribesmen={
+	citizen={
 		amount=1
+	}
+	freemen={
+		amount=2
+	}
+	slaves={
+		amount=2
+	}
+	slaves={
+		culture="ontarian"
+		religion="veteranic"
+		amount=2
 	}
 }
 
@@ -706,6 +833,11 @@
 		culture="haudenosaunee"
 		amount=2
 	}
+	freemen={
+		culture="sixer"
+		religion="united_church"
+		amount=4
+	}
 	slaves={
 		amount=4
 	}
@@ -720,22 +852,27 @@
 
 7374={ #Leamington
 	terrain="farmland"
-	culture="ontarian"
+	culture="michiganais"
 	religion="promethean"
 	trade_goods="cloth"
-	civilization_value=25
+	civilization_value=26
 	barbarian_power=0
 	province_rank="settlement"
 	citizen={
 		amount=2
 	}
-	freemen={
+	citizen={
+		culture="ontarian"
 		amount=2
 	}
 	freemen={
-		culture="michiganais"
-		religion="ahl_al_qibla"
-		amount=2
+		religion="conclavian"
+		amount=3
+	}
+	freemen={
+		culture="ontarian"
+		religion="conclavian"
+		amount=4
 	}
 	slaves={
 		amount=3
@@ -825,13 +962,43 @@
 7701={ #Ottawa
 	terrain="farmland"
 	culture="ontarian"
-	religion="catholic"
+	religion="veteranic"
 	trade_goods="marble"
-	civilization_value=10
+	civilization_value=30
 	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=1
+	province_rank="city"
+	nobles={
+		amount=6
+	}
+	citizen={
+		amount=5
+	}
+	citizen={
+		culture="francontarien"
+		amount=2
+	}
+	citizen={
+		culture="gaidheal"
+		amount=2
+	}
+	freemen={
+		religion="united_church"
+		amount=6
+	}
+	freemen={
+		amount=3
+	}
+	freemen={
+		culture="francontarien"
+		religion="ursuline"
+		amount=4
+	}
+	freemen={
+		culture="gaidheal"
+		amount=2
+	}
+	slaves={
+		amount=8
 	}
 }
 
@@ -840,44 +1007,70 @@
 	culture="ontarian"
 	religion="veteranic"
 	trade_goods="stone"
-	civilization_value=10
+	civilization_value=26
 	barbarian_power=0
 	province_rank="settlement"
-	tribesmen={
-		amount=1
+	citizen={
+		culture="francontarien"
+		religion="ursuline"
+		amount=2
+	}
+	freemen={
+		amount=6
+	}
+	slaves={
+		amount=4
 	}
 }
 
 7703={ #Fallingbrook
 	terrain="plains"
-	culture="ontarian"
+	culture="francontarien"
 	religion="ursuline"
 	trade_goods="fish"
-	civilization_value=10
+	civilization_value=24
 	barbarian_power=0
 	province_rank="settlement"
-	tribesmen={
-		amount=1
+	citizen={
+		culture="ontarian"
+		religion="veteranic"
+		amount=3
+	}
+	freemen={
+		amount=6
+	}
+	slaves={
+		amount=5
 	}
 }
 
 7704={ #Almonte
 	terrain="plains"
 	culture="ontarian"
-	religion="catholic"
+	religion="veteranic"
 	trade_goods="fish"
-	civilization_value=10
+	civilization_value=24
 	barbarian_power=0
 	province_rank="settlement"
-	tribesmen={
-		amount=1
+	citizen={
+		amount=3
+	}
+	freemen={
+		culture="francontarien"
+		amount=2
+	}
+	freemen={
+		amount=2
+	}
+	slaves={
+		amount=5
 	}
 }
 
 7780={ #Alfred
 	terrain="plains"
-	culture="francontarien"
-	religion="ursuline"
+	culture="gaidheal"
+	religion="veteranic"
 	trade_goods="fish"
 	civilization_value=10
 	barbarian_power=0
@@ -889,8 +1082,8 @@
 
 7781={ #Hawkesbury
 	terrain="plains"
-	culture="francontarien"
-	religion="ursuline"
+	culture="gaidheal"
+	religion="veteranic"
 	trade_goods="cloth"
 	civilization_value=10
 	barbarian_power=0
@@ -903,7 +1096,7 @@
 7782={ #Clarence Rockland
 	terrain="plains"
 	culture="francontarien"
-	religion="ursuline"
+	religion="veteranic"
 	trade_goods="tubers"
 	civilization_value=10
 	barbarian_power=0
@@ -918,11 +1111,22 @@
 	culture="sixer"
 	religion="united_church"
 	trade_goods="cloth"
-	civilization_value=10
+	civilization_value=24
 	barbarian_power=0
 	province_rank="settlement"
-	tribesmen={
-		amount=1
+	citizen={
+		amount=3
+	}
+	freemen={
+		amount=2
+	}
+	slaves={
+		amount=2
+	}
+	slaves={
+		culture="ontarian"
+		religion="veteranic"
+		amount=2
 	}
 }
 
@@ -983,11 +1187,17 @@
 	culture="sixer"
 	religion="gaiwiio"
 	trade_goods="spices"
-	civilization_value=10
+	civilization_value=28
 	barbarian_power=0
 	province_rank="settlement"
-	tribesmen={
-		amount=1
+	citizen={
+		amount=2
+	}
+	freemen={
+		amount=2
+	}
+	slaves={
+		amount=6
 	}
 }
 
@@ -996,11 +1206,17 @@
 	culture="sixer"
 	religion="promethean"
 	trade_goods="stone"
-	civilization_value=10
+	civilization_value=25
 	barbarian_power=0
 	province_rank="settlement"
-	tribesmen={
-		amount=1
+	citizen={
+		amount=2
+	}
+	freemen={
+		amount=2
+	}
+	slaves={
+		amount=6
 	}
 }
 
@@ -1009,11 +1225,14 @@
 	culture="shieldshorer"
 	religion="veteranic"
 	trade_goods="wood"
-	civilization_value=10
+	civilization_value=22
 	barbarian_power=0
 	province_rank="settlement"
-	tribesmen={
-		amount=1
+	freemen={
+		amount=2
+	}
+	slaves={
+		amount=6
 	}
 }
 
@@ -1022,18 +1241,26 @@
 	culture="shieldshorer"
 	religion="veteranic"
 	trade_goods="fruits"
-	civilization_value=10
+	civilization_value=23
 	barbarian_power=0
 	province_rank="settlement"
+	freemen={
+		amount=2
+	}
 	tribesmen={
-		amount=1
+		culture="algonquin"
+		religion="united_church"
+		amount=2
+	}
+	slaves={
+		amount=6
 	}
 }
 
 7955={ #Haliburton Village
 	terrain="forest"
 	culture="shieldshorer"
-	religion="midewiwin"
+	religion="veteranic"
 	trade_goods="vegetables"
 	civilization_value=10
 	barbarian_power=0
@@ -1084,47 +1311,91 @@
 
 8378={ #Cornwall
 	terrain="plains"
-	culture="montrealais"
+	culture="gaidheal"
 	religion="united_church"
 	trade_goods="earthware"
-	civilization_value=10
+	civilization_value=25
 	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=1
+	province_rank="city"
+	nobles={
+		amount=3
+	}
+	citizen={
+		amount=2
+	}
+	citizen={
+		culture="francontarien"
+		religion="ursuline"
+		amount=2
+	}
+	freemen={
+		culture="ontarian"
+		religion="veteranic"
+		amount=2
+	}
+	freemen={
+		culture="ontarian"
+		amount=2
+	}
+	freemen={
+		culture="francontarien"
+		amount=2
+	}
+	freemen={
+		amount=3
+	}
+	slaves={
+		amount=4
 	}
 }
 
 8379={ #Alexandria
 	terrain="plains"
-	culture="montrealais"
-	religion="ursuline"
+	culture="francontarien"
+	religion="veteranic"
 	trade_goods="vegetables"
-	civilization_value=10
+	civilization_value=20
 	barbarian_power=0
 	province_rank="settlement"
-	tribesmen={
-		amount=1
+	freemen={
+		culture="gaidheal"
+		amount=3
+	}
+	freemen={
+		amount=4
+	}
+	slaves={
+		amount=2
 	}
 }
 
 8380={ #Morrisburg
 	terrain="plains"
-	culture="ontarian"
+	culture="francontarien"
 	religion="united_church"
 	trade_goods="maple"
-	civilization_value=10
+	civilization_value=20
 	barbarian_power=0
 	province_rank="settlement"
+	citizen={
+		amount=2
+	}
+	freemen={
+		culture="ontarian"
+		amount=3
+	}
+	slaves={
+		amount=2
+	}
 	tribesmen={
-		amount=1
+		amount=2
 	}
 }
 
 8503={ #Barry S Bay
 	terrain="marsh"
 	culture="ontarian"
-	religion="lakeshore"
+	religion="veteranic"
 	trade_goods="vegetables"
 	civilization_value=10
 	barbarian_power=0
@@ -1137,7 +1408,7 @@
 8504={ #Arnprior
 	terrain="plains"
 	culture="ontarian"
-	religion="lakeshore"
+	religion="veteranic"
 	trade_goods="wood"
 	civilization_value=10
 	barbarian_power=0
@@ -1150,7 +1421,7 @@
 8505={ #Pembroke
 	terrain="forest"
 	culture="ontarian"
-	religion="lakeshore"
+	religion="veteranic"
 	trade_goods="earthware"
 	civilization_value=10
 	barbarian_power=0
@@ -1191,11 +1462,18 @@
 	culture="ontarian"
 	religion="united_church"
 	trade_goods="grain"
-	civilization_value=10
+	civilization_value=25
 	barbarian_power=0
 	province_rank="settlement"
-	tribesmen={
-		amount=1
+	freemen={
+		amount=3
+	}
+	slaves={
+		amount=2
+	}
+	slaves={
+		religion="veteranic"
+		amount=2
 	}
 }
 
@@ -1243,11 +1521,25 @@
 	culture="abecede"
 	religion="sikhism"
 	trade_goods="cloth"
-	civilization_value=10
+	civilization_value=28
 	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
+	province_rank="city"
+	nobles={
+		amount=6
+	}
+	citizen={
+		amount=5
+	}
+	freemen={
+		amount=10
+	}
+	freemen={
+		culture="francontarien"
+		religion="ursuline"
 		amount=1
+	}
+	slaves={
+		amount=8
 	}
 }
 
@@ -1256,11 +1548,39 @@
 	culture="abecede"
 	religion="ahl_al_qibla"
 	trade_goods="earthware"
-	civilization_value=10
+	civilization_value=29
 	barbarian_power=0
 	province_rank="settlement"
-	tribesmen={
+	nobles={
+		amount=4
+	}
+	citizen={
+		amount=3
+	}
+	citizen={
+		culture="francontarien"
+		religion="veteranic"
 		amount=1
+	}
+	citizen={
+		culture="ontarian"
+		religion="veteranic"
+		amount=2
+	}
+	freemen={
+		amount=8
+	}
+	freemen={
+		culture="francontarien"
+		religion="ursuline"
+		amount=2
+	}
+	freemen={
+		religion="united_church"
+		amount=2
+	}
+	slaves={
+		amount=8
 	}
 }
 
@@ -1388,14 +1708,31 @@
 
 11608={ #Kitchener
 	terrain="plains"
-	culture="sixer"
+	culture="deitsch"
 	religion="united_church"
 	trade_goods="clay"
-	civilization_value=10
+	civilization_value=28
 	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=1
+	province_rank="city"
+	nobles={
+		amount=3
+	}
+	citizen={
+		culture="sixer"
+		amount=3
+	}
+	citizen={
+		amount=3
+	}
+	freemen={
+		culture="sixer"
+		amount=4
+	}
+	freemen={
+		amount=2
+	}
+	slaves={
+		amount=4
 	}
 }
 
@@ -1404,11 +1741,22 @@
 	culture="haudenosaunee"
 	religion="gaiwiio"
 	trade_goods="maize"
-	civilization_value=10
+	civilization_value=24
 	barbarian_power=0
 	province_rank="settlement"
-	tribesmen={
+	citizen={
 		amount=1
+	}
+	freemen={
+		amount=2
+	}
+	slaves={
+		amount=2
+	}
+	slaves={
+		culture="ontarian"
+		religion="veteranic"
+		amount=2
 	}
 }
 
@@ -1417,11 +1765,21 @@
 	culture="sixer"
 	religion="gaiwiio"
 	trade_goods="fruits"
-	civilization_value=10
+	civilization_value=24
 	barbarian_power=0
 	province_rank="settlement"
-	tribesmen={
+	citizen={
 		amount=1
+	}
+	freemen={
+		amount=2
+	}
+	slaves={
+		amount=2
+	}
+	slaves={
+		religion="veteranic"
+		amount=2
 	}
 }
 

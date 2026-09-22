@@ -66,7 +66,7 @@
 640={ #Sault Ste Marie
 	terrain="forest"
 	culture="francontarien"
-	religion="promethean"
+	religion="ursuline"
 	trade_goods="earthware"
 	civilization_value=24
 	barbarian_power=0
@@ -883,7 +883,7 @@
 6288={ #Sault Sainte Marie
 	terrain="forest"
 	culture="yooper"
-	religion="lakeshore"
+	religion="ursuline"
 	trade_goods="earthware"
 	civilization_value=24
 	barbarian_power=0

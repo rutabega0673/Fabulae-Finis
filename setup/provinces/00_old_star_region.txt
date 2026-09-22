@@ -1050,11 +1050,11 @@
 	culture="louisianais"
 	religion="cao_dai"
 	trade_goods="vegetables"
-	civilization_value=10
+	civilization_value=22
 	barbarian_power=0
 	province_rank="settlement"
 	tribesmen={
-		amount=1
+		amount=6
 	}
 }
 
@@ -1496,7 +1496,7 @@
 	culture="texan"
 	religion="americanist"
 	trade_goods="earthware"
-	civilization_value=10
+	civilization_value=26
 	barbarian_power=0
 	province_rank="settlement"
 	citizen={

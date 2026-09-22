@@ -913,11 +913,42 @@
 	culture="bayfolk"
 	religion="gothic"
 	trade_goods="papyrus"
-	civilization_value=10
+	civilization_value=23
 	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
+	province_rank="city"
+	nobles={
+		amount=3
+	}
+	citizen={
+		religion="americanist"
+		amount=3
+	}
+	freemen={
+		religion="conclavian"
+		culture="gaidheal"
+		amount=3
+	}
+	freemen={
+		religion="americanist"
 		amount=1
+	}
+	freemen={
+		amount=4
+	}
+	tribesmen={
+		amount=4
+	}
+	tribesmen={
+		culture="nouvelle_angleterrais"
+		amount=2
+	}
+	slaves={
+		religion="americanist"
+		amount=6
+	}
+	tribesmen={
+		religion="conclavian"
+		amount=3
 	}
 }
 

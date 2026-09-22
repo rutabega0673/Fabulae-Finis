@@ -756,6 +756,12 @@
  ELG_ADJ:0 "Elginer"
  MDN:0 "Manidoowaaning"
  MDN_ADJ:0 "Odawa"
+ GLN:0 "Glengarry"
+ GLN_ADJ:0 "Glenarryer"
+ HAT:0 "Haute-Ottawa"
+ HAT_ADJ:0 "Haute-Ottawais"
+ MAD:0 "Madawaska"
+ MAD_ADJ:0 "Madawaskan"
 
 # West Canada #
  WNP:0 "Winnipeg"

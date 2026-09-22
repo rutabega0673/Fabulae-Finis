@@ -208,7 +208,7 @@
 
 1931={ #Lac Simon
 	terrain="plains"
-	culture="francontarien"
+	culture="montrealais"
 	religion="ursuline"
 	trade_goods="tubers"
 	civilization_value=10
@@ -221,7 +221,7 @@
 
 1932={ #Saint Andr Avellin
 	terrain="plains"
-	culture="francontarien"
+	culture="montrealais"
 	religion="ursuline"
 	trade_goods="glass"
 	civilization_value=10
@@ -638,7 +638,7 @@
 7281={ #Sheen Esher Aberdeen Et Malakoff
 	terrain="forest"
 	culture="algonquin"
-	religion="lakeshore"
+	religion="veteranic"
 	trade_goods="vegetables"
 	civilization_value=10
 	barbarian_power=0
