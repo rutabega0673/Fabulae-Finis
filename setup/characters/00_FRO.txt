@@ -1,0 +1,24 @@
+﻿"FRO"={
+	country="FRO"
+	33={ 
+		first_name="Adelberth"
+		family = c:FRO.fam:Bourbon
+		birth_date=2285.1.12
+		culture="francontarien"
+		religion="ursuline"
+		no_stats=yes
+		add_martial=5
+		add_charisma=3
+		add_finesse=4
+		add_zeal=10
+		no_traits=yes
+		add_trait="generous"
+		add_trait="secure"
+		add_trait="patient"
+		add_gold=200
+		add_popularity=60
+		c:FRO={
+			set_as_ruler=char:33
+		}
+	}
+}

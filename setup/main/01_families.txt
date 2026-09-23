@@ -100,5 +100,12 @@ family={
 			prestige=250
 			color = 2
 		}
+		14 = {
+			key = "Bourbon"
+			owner=ADS
+			culture=francontarien
+			prestige=300
+			color = 5
+		}
 	}
 }

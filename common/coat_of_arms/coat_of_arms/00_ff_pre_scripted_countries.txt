@@ -2141,3 +2141,141 @@ MTC = { #Montreal
         instance = { position = { 0.8 0.8 } scale = { 0.4 0.4 }  }
     }
 }
+TON = { #Toronto
+	pattern = "pattern_solid.tga"
+	color1 = "ck2_yellow"
+	color2 = "ck2_yellow"
+	colored_emblem = {
+		texture = "ce_block_02.dds"
+		color1="ck2_blue"
+		instance = { position = { 0.5 0.15 } scale = { 1.0 0.3 }  }
+		instance = { position = { 0.5 0.5 } scale = { 0.3 1.0 }  }
+	}
+}
+WIN = { #Windsor
+	pattern = "pattern_vertical_stripes_02.tga"
+	color1 = "ck2_yellow"
+	color2 = "ck2_red"	
+	colored_emblem = {
+		texture = "ce_waves_03.dds"
+		color1 = "light_blue"
+		color2 = "light_blue"
+		instance = { position = { 0.5 0.1 } scale = { 1.0 1.5 } rotation = -45}
+	}
+	colored_emblem = {
+		texture = "ce_qc_fleur.dds"
+		color1 = "ck2_yellow"
+		instance = { position = { 0.5 0.3 } scale = { 0.4 0.4 }  }
+	}
+	colored_emblem = {
+		texture = "ce_gears.dds"
+		color1 = "ck2_red"
+		color2 = "ck2_green"
+		instance = { position = { 0.18 0.3 } scale = { 0.3 0.3 }  }
+		instance = { position = { 0.81 0.3 } scale = { 0.3 0.3 }  }
+	}
+	colored_emblem = {
+		texture = "ce_gears.dds"
+		color1 = "ck2_red"
+		color2 = "ck2_green"
+		instance = { position = { 0.5 0.65 } scale = { 0.3 0.3 }  }
+	}
+}
+LON = { #London
+	pattern = "pattern_solid.tga"
+	color1 = "offwhite"
+	color2 = "offwhite"
+	colored_emblem = {
+		texture = "ce_per_saltire.dds"
+		color1 = "ck2_blue"
+		color2 = "roman_red"
+		instance = { position = { 0.5 0.32 } scale = { 1.0 1.0 }  }
+	}	
+	colored_emblem = {
+		texture = "ce_block_02.dds"
+		color1 = "roman_red"
+		instance = { position = { 0.5 0.18 } scale = { 1.0 0.5 }  }
+	}
+	colored_emblem = {
+		texture = "ce_block_02.dds"
+		color1 = "ck2_blue"
+		instance = { position = { 0.5 0.9 } scale = { 1.0 0.2 }  }
+	}
+	colored_emblem = {
+		texture = "ce_chevron_in_chief.dds"
+		color1 = "offwhite"
+		instance = { position = { 0.5 0.7 } scale = { 1.0 1.0 }  }
+	}
+	colored_emblem = {
+		texture = "ce_grain.dds"
+		color1 = "ck2_yellow"
+		instance = { position = { 0.2 0.25 } scale = { 0.35 0.35 }  }
+		instance = { position = { 0.8 0.25 } scale = { 0.35 0.35 }  }
+	}
+	colored_emblem = {
+		texture = "ce_beaver.dds"
+		color1 = "rust_brown"
+		color2 = "rust_brown"
+		instance = { position = { 0.5 0.8 } scale = { 0.7 0.7 }  }
+	}
+}
+SRT = { #Stratford
+	pattern = "pattern_vertical_split_01.tga"
+	color1 = "epirus_yellow"
+	color2 = "ck2_green"
+	colored_emblem = {
+		texture = "ce_qc_fleur.dds"
+		color1 = "ck2_black"
+		instance = { position = { 0.25 0.50 } scale = { 0.5 0.5 }  }
+	}	
+	colored_emblem = {
+		texture = "ce_tree_spade.dds"
+		color1 = "offwhite"
+		color2 = "offwhite"
+		instance = { position = { 0.75 0.50 } scale = { 0.45 0.45 }  }
+	}
+}
+BRT = {
+	pattern = "pattern_chief.dds"
+	color1 = "navy_blue"
+	color2 = "offwhite"
+	colored_emblem = {
+		texture = "ce_waves_03.dds"
+		color1="offwhite"
+		color2="navy_blue"
+		instance = { position = { 0.49 0.5 }}
+		instance = { position = { 0.21 0.5 } }
+		instance = { position = { 0.77 0.5 } }
+	}
+	colored_emblem = {
+		texture = "ce_acinippo.dds"
+		color1="offwhite"
+		color2="sun_yellow"
+		instance = { position = { 0.5 0.3 } scale = { 0.6 0.6 }}
+	}
+}
+
+HAM = {
+	pattern="pattern_solid.tga"
+	color1=ck2_yellow
+	color2=ck2_yellow
+
+	colored_emblem={
+		color1=ck2_blue
+		texture="ce_circle_03.dds"
+	}
+
+	colored_emblem={
+		color1=ck2_yellow
+		texture="ce_gears.dds"
+		instance={
+			scale={ 0.600000 0.600000 }
+		}
+	}
+
+	colored_emblem={
+		texture="ce_hellenistic_frame_04.dds"
+		color1=ck2_blue
+	}
+
+}

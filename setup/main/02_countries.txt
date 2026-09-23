@@ -995,6 +995,7 @@ country = {
 			primary_culture = francontarien
 			religion = ursuline
 			capital = 640
+			family=14
 
 			technology={
 				military_tech={ level=2 progress=0 }
@@ -3782,7 +3783,7 @@ country = {
 		PTP = { # Port au Port
 			government = tribal_kingdom
 			primary_culture = terreneuvien
-			religion = mervivant
+			religion = ursuline
 			capital = 7326
 
 			technology={

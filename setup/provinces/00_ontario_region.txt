@@ -3,11 +3,15 @@
 	culture="shieldshorer"
 	religion="veteranic"
 	trade_goods="tubers"
-	civilization_value=10
+	civilization_value=21
 	barbarian_power=0
 	province_rank="settlement"
+	freemen={
+		amount=6
+	}
 	tribesmen={
-		amount=1
+		culture="algonquin"
+		amount=2
 	}
 }
 
@@ -16,11 +20,18 @@
 	culture="algonquin"
 	religion="midewiwin"
 	trade_goods="wood"
-	civilization_value=10
+	civilization_value=19
 	barbarian_power=0
 	province_rank="settlement"
-	tribesmen={
+	freemen={
+		amount=3
+	}
+	freemen={
+		culture="ontarian"
 		amount=1
+	}
+	tribesmen={
+		amount=2
 	}
 }
 
@@ -29,11 +40,15 @@
 	culture="shieldshorer"
 	religion="veteranic"
 	trade_goods="fruits"
-	civilization_value=10
+	civilization_value=19
 	barbarian_power=0
 	province_rank="settlement"
+	slaves={
+		culture="ontarian"
+		amount=2
+	}
 	tribesmen={
-		amount=1
+		amount=3
 	}
 }
 
@@ -88,11 +103,16 @@
 	culture="shieldshorer"
 	religion="veteranic"
 	trade_goods="vegetables"
-	civilization_value=10
+	civilization_value=22
 	barbarian_power=0
 	province_rank="settlement"
-	tribesmen={
-		amount=1
+	citizen={
+		culture="francontarien"
+		religion="promethean"
+		amount=2
+	}
+	freemen={
+		amount=4
 	}
 }
 
@@ -101,11 +121,19 @@
 	culture="shieldshorer"
 	religion="veteranic"
 	trade_goods="base_metals"
-	civilization_value=10
+	civilization_value=22
 	barbarian_power=0
 	province_rank="settlement"
-	tribesmen={
-		amount=1
+	citizen={
+		culture="francontarien"
+		religion="promethean"
+		amount=2
+	}
+	slaves={
+		amount=3
+	}
+	freemen={
+		amount=4
 	}
 }
 
@@ -114,11 +142,18 @@
 	culture="francontarien"
 	religion="veteranic"
 	trade_goods="iron"
-	civilization_value=10
+	civilization_value=21
 	barbarian_power=0
 	province_rank="settlement"
-	tribesmen={
-		amount=1
+	freemen={
+		culture="shieldshorer"
+		amount=2
+	}
+	freemen={
+		amount=4
+	}
+	slaves={
+		amount=2
 	}
 }
 
@@ -127,11 +162,18 @@
 	culture="shieldshorer"
 	religion="veteranic"
 	trade_goods="fur"
-	civilization_value=10
+	civilization_value=22
 	barbarian_power=0
 	province_rank="settlement"
-	tribesmen={
+	freemen={
+		culture="francontarien"
 		amount=1
+	}
+	freemen={
+		amount=4
+	}
+	slaves={
+		amount=2
 	}
 }
 
@@ -228,11 +270,22 @@
 	culture="algonquin"
 	religion="midewiwin"
 	trade_goods="fur"
-	civilization_value=10
+	civilization_value=17
 	barbarian_power=0
 	province_rank="settlement"
-	tribesmen={
+	citizen={
 		amount=1
+	}
+	freemen={
+		culture="ontarian"
+		religion="united_church"
+		amount=1
+	}
+	freemen={
+		amount=3
+	}
+	slaves={
+		amount=4
 	}
 }
 
@@ -241,11 +294,22 @@
 	culture="algonquin"
 	religion="veteranic"
 	trade_goods="precious_metals"
-	civilization_value=10
+	civilization_value=16
 	barbarian_power=0
 	province_rank="settlement"
-	tribesmen={
+	citizen={
 		amount=1
+	}
+	freemen={
+		culture="ontarian"
+		religion="united_church"
+		amount=1
+	}
+	freemen={
+		amount=3
+	}
+	slaves={
+		amount=5
 	}
 }
 
@@ -254,11 +318,22 @@
 	culture="algonquin"
 	religion="midewiwin"
 	trade_goods="base_metals"
-	civilization_value=10
+	civilization_value=19
 	barbarian_power=0
 	province_rank="settlement"
-	tribesmen={
+	citizen={
+		amount=3
+	}
+	freemen={
+		culture="ontarian"
+		religion="united_church"
 		amount=1
+	}
+	freemen={
+		amount=3
+	}
+	slaves={
+		amount=5
 	}
 }
 
@@ -267,11 +342,27 @@
 	culture="ontarian"
 	religion="united_church"
 	trade_goods="horses"
-	civilization_value=10
+	civilization_value=25
 	barbarian_power=0
 	province_rank="settlement"
-	tribesmen={
+	citizen={
+		religion="veteranic"
+		amount=2
+	}
+	freemen={
+		amount=4
+	}
+	freemen={
+		culture="haudenosaunee"
+		religion="gaiwiio"
 		amount=1
+	}
+	freemen={
+		culture="francontarien"
+		amount=2
+	}
+	slaves={
+		amount=6
 	}
 }
 
@@ -280,11 +371,22 @@
 	culture="ontarian"
 	religion="united_church"
 	trade_goods="rice"
-	civilization_value=10
+	civilization_value=25
 	barbarian_power=0
 	province_rank="settlement"
-	tribesmen={
-		amount=1
+	citizen={
+		religion="veteranic"
+		amount=2
+	}
+	freemen={
+		amount=4
+	}
+	freemen={
+		culture="francontarien"
+		amount=2
+	}
+	slaves={
+		amount=6
 	}
 }
 
@@ -293,11 +395,18 @@
 	culture="ontarian"
 	religion="united_church"
 	trade_goods="cattle"
-	civilization_value=10
+	civilization_value=20
 	barbarian_power=0
 	province_rank="settlement"
-	tribesmen={
+	citizen={
+		religion="veteranic"
 		amount=1
+	}
+	freemen={
+		amount=4
+	}
+	slaves={
+		amount=6
 	}
 }
 
@@ -306,11 +415,23 @@
 	culture="sixer"
 	religion="gaiwiio"
 	trade_goods="horses"
-	civilization_value=10
+	civilization_value=23
 	barbarian_power=0
 	province_rank="settlement"
-	tribesmen={
+	citizen={
 		amount=1
+	}
+	freemen={
+		culture="francontarien"
+		religion="ursuline"
+		amount=1
+	}
+	freemen={
+		amount=2
+	}
+	tribesmen={
+		culture="haudenosaunee"
+		amount=2
 	}
 }
 
@@ -319,11 +440,24 @@
 	culture="sixer"
 	religion="united_church"
 	trade_goods="woad"
-	civilization_value=10
+	civilization_value=25
 	barbarian_power=0
 	province_rank="settlement"
+	citizen={
+		amount=3
+	}
+	freemen={
+		culture="francontarien"
+		religion="ursuline"
+		amount=2
+	}
+	freemen={
+		amount=4
+	}
 	tribesmen={
-		amount=1
+		culture="deitsch"
+		religion="old_order"
+		amount=2
 	}
 }
 
@@ -332,11 +466,22 @@
 	culture="sixer"
 	religion="united_church"
 	trade_goods="horses"
-	civilization_value=10
+	civilization_value=23
 	barbarian_power=0
 	province_rank="settlement"
-	tribesmen={
-		amount=1
+	citizen={
+		amount=3
+	}
+	freemen={
+		culture="francontarien"
+		religion="ursuline"
+		amount=2
+	}
+	freemen={
+		amount=4
+	}
+	slaves={
+		amount=3
 	}
 }
 
@@ -345,11 +490,17 @@
 	culture="ontarian"
 	religion="united_church"
 	trade_goods="stone"
-	civilization_value=10
+	civilization_value=23
 	barbarian_power=0
 	province_rank="settlement"
-	tribesmen={
-		amount=1
+	citizen={
+		amount=2
+	}
+	freemen={
+		amount=4
+	}
+	slaves={
+		amount=6
 	}
 }
 
@@ -358,11 +509,17 @@
 	culture="haudenosaunee"
 	religion="gaiwiio"
 	trade_goods="rice"
-	civilization_value=10
+	civilization_value=22
 	barbarian_power=0
 	province_rank="settlement"
-	tribesmen={
-		amount=1
+	citizen={
+		amount=2
+	}
+	freemen={
+		amount=3
+	}
+	slaves={
+		amount=4
 	}
 }
 
@@ -371,11 +528,15 @@
 	culture="ontarian"
 	religion="united_church"
 	trade_goods="stone"
-	civilization_value=10
+	civilization_value=23
 	barbarian_power=0
 	province_rank="settlement"
-	tribesmen={
-		amount=1
+	freemen={
+		amount=5
+	}
+	slaves={
+		culture="sixer"
+		amount=3
 	}
 }
 
@@ -384,11 +545,18 @@
 	culture="ontarian"
 	religion="united_church"
 	trade_goods="cattle"
-	civilization_value=10
+	civilization_value=21
 	barbarian_power=0
 	province_rank="settlement"
-	tribesmen={
+	citizen={
+		religion="veteranic"
 		amount=1
+	}
+	freemen={
+		amount=4
+	}
+	slaves={
+		amount=4
 	}
 }
 
@@ -397,11 +565,18 @@
 	culture="ontarian"
 	religion="united_church"
 	trade_goods="fur"
-	civilization_value=10
+	civilization_value=24
 	barbarian_power=0
 	province_rank="settlement"
-	tribesmen={
-		amount=1
+	citizen={
+		religion="veteranic"
+		amount=2
+	}
+	freemen={
+		amount=4
+	}
+	slaves={
+		amount=6
 	}
 }
 
@@ -410,11 +585,11 @@
 	culture="ontarian"
 	religion="united_church"
 	trade_goods="maple"
-	civilization_value=10
+	civilization_value=24
 	barbarian_power=0
 	province_rank="settlement"
-	tribesmen={
-		amount=1
+	freemen={
+		amount=6
 	}
 }
 
@@ -486,11 +661,14 @@
 	culture="ontarian"
 	religion="united_church"
 	trade_goods="rice"
-	civilization_value=10
+	civilization_value=20
 	barbarian_power=0
 	province_rank="settlement"
-	tribesmen={
-		amount=1
+	freemen={
+		amount=4
+	}
+	slaves={
+		amount=6
 	}
 }
 
@@ -499,11 +677,14 @@
 	culture="ontarian"
 	religion="united_church"
 	trade_goods="tubers"
-	civilization_value=10
+	civilization_value=19
 	barbarian_power=0
 	province_rank="settlement"
-	tribesmen={
-		amount=1
+	freemen={
+		amount=4
+	}
+	slaves={
+		amount=6
 	}
 }
 
@@ -512,11 +693,14 @@
 	culture="ontarian"
 	religion="united_church"
 	trade_goods="vegetables"
-	civilization_value=10
+	civilization_value=19
 	barbarian_power=0
 	province_rank="settlement"
-	tribesmen={
-		amount=1
+	freemen={
+		amount=4
+	}
+	slaves={
+		amount=6
 	}
 }
 
@@ -525,11 +709,18 @@
 	culture="francontarien"
 	religion="veteranic"
 	trade_goods="cattle"
-	civilization_value=10
+	civilization_value=17
 	barbarian_power=0
 	province_rank="settlement"
-	tribesmen={
-		amount=1
+	freemen={
+		amount=4
+	}
+	slaves={
+		amount=2
+	}
+	freemen={
+		culture="ontarian"
+		amount=3
 	}
 }
 
@@ -538,11 +729,15 @@
 	culture="francontarien"
 	religion="ursuline"
 	trade_goods="iron"
-	civilization_value=10
+	civilization_value=16
 	barbarian_power=0
 	province_rank="settlement"
-	tribesmen={
-		amount=1
+	freemen={
+		amount=4
+	}
+	freemen={
+		culture="ontarian"
+		amount=3
 	}
 }
 
@@ -551,11 +746,15 @@
 	culture="francontarien"
 	religion="ursuline"
 	trade_goods="cattle"
-	civilization_value=10
+	civilization_value=16
 	barbarian_power=0
 	province_rank="settlement"
-	tribesmen={
-		amount=1
+	freemen={
+		amount=4
+	}
+	freemen={
+		culture="ontarian"
+		amount=3
 	}
 }
 
@@ -564,11 +763,17 @@
 	culture="shieldshorer"
 	religion="lakeshore"
 	trade_goods="fish"
-	civilization_value=10
+	civilization_value=23
 	barbarian_power=0
 	province_rank="settlement"
-	tribesmen={
+	citizen={
+		amount=3
+	}
+	slaves={
 		amount=1
+	}
+	tribesmen={
+		amount=2
 	}
 }
 
@@ -577,11 +782,17 @@
 	culture="shieldshorer"
 	religion="veteranic"
 	trade_goods="base_metals"
-	civilization_value=10
+	civilization_value=18
 	barbarian_power=0
 	province_rank="settlement"
-	tribesmen={
+	freemen={
+		amount=3
+	}
+	slaves={
 		amount=1
+	}
+	tribesmen={
+		amount=2
 	}
 }
 
@@ -590,11 +801,17 @@
 	culture="shieldshorer"
 	religion="veteranic"
 	trade_goods="tubers"
-	civilization_value=10
+	civilization_value=19
 	barbarian_power=0
 	province_rank="settlement"
-	tribesmen={
+	freemen={
+		amount=3
+	}
+	slaves={
 		amount=1
+	}
+	tribesmen={
+		amount=2
 	}
 }
 
@@ -603,11 +820,17 @@
 	culture="ontarian"
 	religion="veteranic"
 	trade_goods="tubers"
-	civilization_value=10
+	civilization_value=25
 	barbarian_power=0
 	province_rank="settlement"
-	tribesmen={
-		amount=1
+	citizen={
+		amount=3
+	}
+	freemen={
+		amount=2
+	}
+	slaves={
+		amount=6
 	}
 }
 
@@ -616,11 +839,14 @@
 	culture="ontarian"
 	religion="veteranic"
 	trade_goods="vegetables"
-	civilization_value=10
+	civilization_value=20
 	barbarian_power=0
 	province_rank="settlement"
-	tribesmen={
-		amount=1
+	freemen={
+		amount=3
+	}
+	slaves={
+		amount=6
 	}
 }
 
@@ -629,11 +855,17 @@
 	culture="ontarian"
 	religion="veteranic"
 	trade_goods="leather"
-	civilization_value=10
+	civilization_value=24
 	barbarian_power=0
 	province_rank="settlement"
-	tribesmen={
-		amount=1
+	citizen={
+		amount=4
+	}
+	freemen={
+		amount=2
+	}
+	slaves={
+		amount=6
 	}
 }
 
@@ -642,11 +874,18 @@
 	culture="sixer"
 	religion="united_church"
 	trade_goods="cattle"
-	civilization_value=10
+	civilization_value=25
 	barbarian_power=0
 	province_rank="settlement"
-	tribesmen={
-		amount=1
+	citizen={
+		amount=3
+	}
+	freemen={
+		culture="sixer"
+		amount=2
+	}
+	slaves={
+		amount=6
 	}
 }
 
@@ -655,11 +894,14 @@
 	culture="ontarian"
 	religion="lakeshore"
 	trade_goods="cattle"
-	civilization_value=10
+	civilization_value=21
 	barbarian_power=0
 	province_rank="settlement"
-	tribesmen={
-		amount=1
+	freemen={
+		amount=2
+	}
+	slaves={
+		amount=6
 	}
 }
 
@@ -668,11 +910,14 @@
 	culture="ontarian"
 	religion="lakeshore"
 	trade_goods="leather"
-	civilization_value=10
+	civilization_value=22
 	barbarian_power=0
 	province_rank="settlement"
-	tribesmen={
-		amount=1
+	freemen={
+		amount=2
+	}
+	slaves={
+		amount=6
 	}
 }
 
@@ -743,11 +988,14 @@
 	culture="sixer"
 	religion="united_church"
 	trade_goods="leather"
-	civilization_value=10
+	civilization_value=22
 	barbarian_power=0
 	province_rank="settlement"
-	tribesmen={
-		amount=1
+	freemen={
+		amount=2
+	}
+	slaves={
+		amount=6
 	}
 }
 
@@ -756,9 +1004,12 @@
 	culture="francontarien"
 	religion="ursuline"
 	trade_goods="precious_metals"
-	civilization_value=10
+	civilization_value=16
 	barbarian_power=0
 	province_rank="settlement"
+	freemen={
+		amount=4
+	}
 	tribesmen={
 		amount=1
 	}
@@ -1072,11 +1323,18 @@
 	culture="gaidheal"
 	religion="veteranic"
 	trade_goods="fish"
-	civilization_value=10
+	civilization_value=19
 	barbarian_power=0
 	province_rank="settlement"
-	tribesmen={
-		amount=1
+	citizen={
+		amount=2
+	}
+	freemen={
+		amount=4
+	}
+	slaves={
+		culture="francontarien"
+		amount=2
 	}
 }
 
@@ -1085,11 +1343,15 @@
 	culture="gaidheal"
 	religion="veteranic"
 	trade_goods="cloth"
-	civilization_value=10
+	civilization_value=20
 	barbarian_power=0
 	province_rank="settlement"
-	tribesmen={
-		amount=1
+	freemen={
+		amount=4
+	}
+	slaves={
+		culture="francontarien"
+		amount=2
 	}
 }
 
@@ -1098,11 +1360,18 @@
 	culture="francontarien"
 	religion="veteranic"
 	trade_goods="tubers"
-	civilization_value=10
+	civilization_value=21
 	barbarian_power=0
 	province_rank="settlement"
-	tribesmen={
-		amount=1
+	freemen={
+		amount=4
+	}
+	freemen={
+		culture="ontarian"
+	}
+	slaves={
+		culture="gaidheal"
+		amount=2
 	}
 }
 
@@ -1135,11 +1404,17 @@
 	culture="sixer"
 	religion="united_church"
 	trade_goods="cattle"
-	civilization_value=10
+	civilization_value=24
 	barbarian_power=0
 	province_rank="settlement"
-	tribesmen={
-		amount=1
+	citizen={
+		amount=2
+	}
+	freemen={
+		amount=4
+	}
+	slaves={
+		amount=6
 	}
 }
 
@@ -1148,11 +1423,17 @@
 	culture="sixer"
 	religion="united_church"
 	trade_goods="horses"
-	civilization_value=10
+	civilization_value=25
 	barbarian_power=0
 	province_rank="settlement"
-	tribesmen={
-		amount=1
+	citizen={
+		amount=2
+	}
+	freemen={
+		amount=4
+	}
+	slaves={
+		amount=6
 	}
 }
 
@@ -1161,11 +1442,14 @@
 	culture="francontarien"
 	religion="ursuline"
 	trade_goods="base_metals"
-	civilization_value=10
+	civilization_value=16
 	barbarian_power=0
 	province_rank="settlement"
+	slaves={
+		amount=2
+	}
 	tribesmen={
-		amount=1
+		amount=3
 	}
 }
 
@@ -1174,11 +1458,11 @@
 	culture="francontarien"
 	religion="ursuline"
 	trade_goods="cattle"
-	civilization_value=10
+	civilization_value=18
 	barbarian_power=0
 	province_rank="settlement"
-	tribesmen={
-		amount=1
+	freemen={
+		amount=5
 	}
 }
 
@@ -1262,10 +1546,17 @@
 	culture="shieldshorer"
 	religion="veteranic"
 	trade_goods="vegetables"
-	civilization_value=10
+	civilization_value=22
 	barbarian_power=0
 	province_rank="settlement"
+	freemen={
+		amount=5
+	}
+	slaves={
+		amount=1
+	}
 	tribesmen={
+		culture="algonquin"
 		amount=1
 	}
 }
@@ -1275,11 +1566,18 @@
 	culture="sixer"
 	religion="united_church"
 	trade_goods="fur"
-	civilization_value=10
+	civilization_value=23
 	barbarian_power=0
 	province_rank="settlement"
-	tribesmen={
-		amount=1
+	citizen={
+		culture="ontarian"
+		amount=2
+	}
+	freemen={
+		amount=5
+	}
+	slaves={
+		amount=3
 	}
 }
 
@@ -1288,11 +1586,17 @@
 	culture="ontarian"
 	religion="united_church"
 	trade_goods="maple"
-	civilization_value=10
+	civilization_value=23
 	barbarian_power=0
 	province_rank="settlement"
-	tribesmen={
-		amount=1
+	citizen={
+		amount=2
+	}
+	freemen={
+		amount=5
+	}
+	slaves={
+		amount=3
 	}
 }
 
@@ -1301,11 +1605,17 @@
 	culture="sixer"
 	religion="united_church"
 	trade_goods="wood"
-	civilization_value=10
+	civilization_value=24
 	barbarian_power=0
 	province_rank="settlement"
-	tribesmen={
-		amount=1
+	citizen={
+		amount=3
+	}
+	freemen={
+		amount=5
+	}
+	slaves={
+		amount=5
 	}
 }
 
@@ -1397,10 +1707,19 @@
 	culture="ontarian"
 	religion="veteranic"
 	trade_goods="vegetables"
-	civilization_value=10
+	civilization_value=17
 	barbarian_power=0
 	province_rank="settlement"
-	tribesmen={
+	citizen={
+		culture="algonquin"
+		religion="midewiwin"
+		amount=2
+	}
+	freemen={
+		amount=3
+	}
+	slaves={
+		culture="francontarien"
 		amount=1
 	}
 }
@@ -1410,11 +1729,15 @@
 	culture="ontarian"
 	religion="veteranic"
 	trade_goods="wood"
-	civilization_value=10
+	civilization_value=23
 	barbarian_power=0
 	province_rank="settlement"
-	tribesmen={
-		amount=1
+	freemen={
+		amount=5
+	}
+	slaves={
+		culture="francontarien"
+		amount=2
 	}
 }
 
@@ -1423,11 +1746,27 @@
 	culture="ontarian"
 	religion="veteranic"
 	trade_goods="earthware"
-	civilization_value=10
+	civilization_value=21
 	barbarian_power=0
 	province_rank="settlement"
-	tribesmen={
-		amount=1
+	nobles={
+		culture="francontarien"
+		religion="ursuline"
+		amount=3
+	}
+	citizen={
+		culture="francontarien"
+		religion="ursuline"
+		amount=2
+	}
+	citizen={
+		amount=2
+	}
+	freemen={
+		amount=5
+	}
+	slaves={
+		amount=5
 	}
 }
 
@@ -1436,11 +1775,17 @@
 	culture="ontarian"
 	religion="united_church"
 	trade_goods="wood"
-	civilization_value=10
+	civilization_value=23
 	barbarian_power=0
 	province_rank="settlement"
-	tribesmen={
-		amount=1
+	citizen={
+		amount=2
+	}
+	freemen={
+		amount=2
+	}
+	slaves={
+		amount=5
 	}
 }
 
@@ -1449,10 +1794,18 @@
 	culture="ontarian"
 	religion="united_church"
 	trade_goods="grain"
-	civilization_value=10
+	civilization_value=25
 	barbarian_power=0
 	province_rank="settlement"
+	freemen={
+		amount=4
+	}
+	slaves={
+		religion="lakeshore"
+		amount=2
+	}
 	tribesmen={
+		religion="lakeshore"
 		amount=1
 	}
 }
@@ -1482,11 +1835,22 @@
 	culture="odawa"
 	religion="midewiwin"
 	trade_goods="cattle"
-	civilization_value=10
+	civilization_value=20
 	barbarian_power=0
 	province_rank="settlement"
+	freemen={
+		culture="shieldshorer"
+		religion="lakeshore"
+		amount=2
+	}
+	freemen={
+		amount=2
+	}
+	slaves={
+		amount=2
+	}
 	tribesmen={
-		amount=1
+		amount=5
 	}
 }
 
@@ -1495,11 +1859,11 @@
 	culture="odawa"
 	religion="midewiwin"
 	trade_goods="earthware"
-	civilization_value=10
+	civilization_value=16
 	barbarian_power=0
 	province_rank="settlement"
 	tribesmen={
-		amount=1
+		amount=5
 	}
 }
 
@@ -1508,11 +1872,14 @@
 	culture="odawa"
 	religion="midewiwin"
 	trade_goods="fish"
-	civilization_value=10
+	civilization_value=16
 	barbarian_power=0
 	province_rank="settlement"
+	freemen={
+		amount=2
+	}
 	tribesmen={
-		amount=1
+		amount=3
 	}
 }
 
@@ -1633,10 +2000,17 @@
 	culture="ontarian"
 	religion="veteranic"
 	trade_goods="cattle"
-	civilization_value=10
+	civilization_value=22
 	barbarian_power=0
 	province_rank="settlement"
+	citizen={
+		amount=2
+	}
+	freemen={
+		amount=3
+	}
 	tribesmen={
+		culture="odawa"
 		amount=1
 	}
 }
@@ -1646,11 +2020,16 @@
 	culture="ontarian"
 	religion="veteranic"
 	trade_goods="leather"
-	civilization_value=10
+	civilization_value=22
 	barbarian_power=0
 	province_rank="settlement"
-	tribesmen={
-		amount=1
+	freemen={
+		amount=5
+	}
+	slaves={
+		culture="shieldshorer"
+		religion="lakeshore"
+		amount=2
 	}
 }
 
@@ -1659,11 +2038,16 @@
 	culture="ontarian"
 	religion="veteranic"
 	trade_goods="earthware"
-	civilization_value=10
+	civilization_value=15
 	barbarian_power=0
 	province_rank="settlement"
 	tribesmen={
-		amount=1
+		culture="odawa"
+		religion="midewiwin"
+		amount=2
+	}
+	tribesmen={
+		amount=3
 	}
 }
 
@@ -1672,11 +2056,19 @@
 	culture="haudenosaunee"
 	religion="gaiwiio"
 	trade_goods="woad"
-	civilization_value=10
+	civilization_value=22
 	barbarian_power=0
 	province_rank="settlement"
-	tribesmen={
-		amount=1
+	citizen={
+		amount=3
+	}
+	freemen={
+		amount=3
+	}
+	slaves={
+		culture="ontarian"
+		religion="veteranic"
+		amount=2
 	}
 }
 
@@ -1685,11 +2077,17 @@
 	culture="ontarian"
 	religion="veteranic"
 	trade_goods="leather"
-	civilization_value=10
+	civilization_value=23
 	barbarian_power=0
 	province_rank="settlement"
-	tribesmen={
-		amount=1
+	citizen={
+		amount=2
+	}
+	freemen={
+		amount=4
+	}
+	slaves={
+		amount=6
 	}
 }
 
@@ -1698,11 +2096,18 @@
 	culture="ontarian"
 	religion="united_church"
 	trade_goods="fur"
-	civilization_value=10
+	civilization_value=26
 	barbarian_power=0
 	province_rank="settlement"
-	tribesmen={
-		amount=1
+	citizen={
+		religion="veteranic"
+		amount=2
+	}
+	freemen={
+		amount=4
+	}
+	slaves={
+		amount=6
 	}
 }
 

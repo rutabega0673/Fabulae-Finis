@@ -135,6 +135,6 @@ diplomacy = {
 		member = PAK
 		member = HAM
 		member = LON
-		member = TRT
+		member = SRT
 	}
 }
