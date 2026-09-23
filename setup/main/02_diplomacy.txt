@@ -68,6 +68,18 @@ diplomacy = {
 	dependency = { first = KNY second = CIN subject_type = feudatory }
 	dependency = { first = KNY second = BRI subject_type = tributary }
 
+	## Detroit
+	dependency = { first = MIC second = MCB subject_type = feudatory }
+	dependency = { first = MIC second = MNR subject_type = feudatory }
+
+	## Ontario
+	dependency = { first = ONT second = GLN subject_type = feudatory }
+	dependency = { first = ONT second = HAT subject_type = feudatory }
+	dependency = { first = ONT second = KTK subject_type = tributary }
+	dependency = { first = ONT second = MAD subject_type = feudatory }
+	dependency = { first = ONT second = GAT subject_type = feudatory }
+	dependency = { first = ONT second = ELG subject_type = vassal_tribe }
+
 	## Oklahoman Tribes
 	defensive_league = {
 		member = TLS
@@ -114,5 +126,15 @@ diplomacy = {
 		member = WNO
 		member = DBQ
 		member = GAL
+	}
+
+	## League of Free Ontarians
+	defensive_league = {
+		member = TON
+		member = SIK
+		member = PAK
+		member = HAM
+		member = LON
+		member = TRT
 	}
 }

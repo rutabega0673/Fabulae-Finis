@@ -1316,7 +1316,7 @@ country = {
 			}
 
 			own_control_core = {
-				6678 6539 3469 3470 5713 5712 3471 6538 6680 204 2697 6537 999
+				6678 6539 3469 3470 5713 3471 6538 6680 204 2697 6537 999
 			}
 		}
 
@@ -1435,7 +1435,7 @@ country = {
 		}
 
 		TIN = { # Ticonderoga
-			government = aristocratic_republic
+			government = stratocratic_monarchy
 			primary_culture = hudsonian
 			religion = americanist
 			capital = 1099
@@ -1451,7 +1451,7 @@ country = {
 			}
 
 			own_control_core = {
-				1099
+				1099 5712
 			}
 		}
 
@@ -3669,18 +3669,11 @@ country = {
 				1406 1408 1 2 1407 3 4 5633 5636 5268
 			}
 		}
-		FVV = { #Frenchville/Dubois
-			government = aristocratic_monarchy
+		FVV = { #Dubois
+			government = tribal_kingdom
 			primary_culture = yinzic
 			religion = sustainablist
 			capital = 4984
-
-			technology={
-				military_tech={ level=1 progress=0 }
-				civic_tech={ level=1 progress=0 }
-				religious_tech= { level=1 progress=0  }
-				oratory_tech= { level=1 progress =0 }
-			}
 
 			own_control_core = {
 				4984 5460 5461 5912 
@@ -3701,10 +3694,9 @@ country = {
 
 			own_control_core = {
 				1084 1082 1080 176 2760 2758 177 174 175 1130 2757 2761 2759
-				7367 7368 941 943 942 1881
-				1128 7292 6448 6450 6449 6451 7291 1129 7290
+				1128 7292 6448 1129 7290
 				7288 6696 7287 7289 6698 2133 7286 2135 2134 2136
-				6391 7142 4859 4860 4861 11929 6394 6392 6393 11928 7141 7140
+				6391 7142 4859 6392 6393 11928 7141 7140
 				8069 8068 8067 3703 3702 3704 674
 				3163 3236 3164 3237 3238 1882 1880 
 				1721 1719 11930 8934 8932 8933 8931 1720 1722 6697
@@ -5572,7 +5564,7 @@ country = {
 		NMB = { #Northumberland
 			government = tribal_kingdom
 			primary_culture = susquehannan
-			religion = sustainablist
+			religion = fissionist
 			capital = 9331
 
 			technology={
@@ -6311,6 +6303,40 @@ country = {
 
 			own_control_core = {
 				7781 7780 7782 8379 8378
+			} 
+		}
+		IVN = { # Iverness
+			government = despotic_monarchy
+			primary_culture = gaidheal
+			religion = veteranic
+			capital = 11929
+
+			technology={
+				military_tech={ level=2 progress=0 }
+				civic_tech={ level=2 progress=0 }
+				religious_tech= { level=2 progress=0  }
+				oratory_tech= { level=2 progress =0 }
+			}
+
+			own_control_core = {
+				11929 6394 4860 4861
+			} 
+		}
+		BCT = { # Bouctouche
+			government = despotic_monarchy
+			primary_culture = chiac
+			religion = veteranic
+			capital = 6451
+
+			technology={
+				military_tech={ level=2 progress=0 }
+				civic_tech={ level=2 progress=0 }
+				religious_tech= { level=2 progress=0  }
+				oratory_tech= { level=2 progress =0 }
+			}
+
+			own_control_core = {
+				645
 			} 
 		}
 	}

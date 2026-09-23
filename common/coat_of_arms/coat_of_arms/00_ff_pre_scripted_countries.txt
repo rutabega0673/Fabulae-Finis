@@ -7,14 +7,14 @@ NYC = { #New York
 	colored_emblem = {
 		texture = "ce_beaver.dds"
 		color1 = rgb { 28 94 164 }
-		instance = { position = { 0.5 0.225 } scale = { 0.3 0.3 }  }
-		instance = { position = { 0.5 0.775 } scale = { 0.3 0.3 }  }
+		instance = { position = { 0.5 0.15 } scale = { 0.35 0.35 }  }
+		instance = { position = { 0.5 0.85 } scale = { 0.35 0.35 }  }
 	}
 	colored_emblem = {
 		texture = "ce_barrel.dds"
 		color1 = rgb { 28 94 164 }
-		instance = { position = { 0.225 0.5 } scale = { 0.2 0.2 }  }
-		instance = { position = { 0.775 0.5 } scale = { 0.2 0.2 }  }
+		instance = { position = { 0.15 0.5 } scale = { 0.25 0.25 }  }
+		instance = { position = { 0.85 0.5 } scale = { 0.25 0.25 }  }
 	}
 	colored_emblem = {
 		texture = "ce_ordinary_saltire_5.dds"
@@ -2036,5 +2036,24 @@ ONT = { # Ontario
 			scale={ 1 0.35 }
 			rotation = 90
 		}
+	}
+}
+
+TIN = { # Ticonderoga
+	pattern = "pattern_solid.tga"
+	color1 = "roman_red"
+	color2 = "navy_blue"
+
+	colored_emblem = {
+		texture = "ce_cannon.dds"
+		color1 = "navy_blue"
+		color2 = "silver"
+		instance = { position = { 0.5 0.5 } scale = { 0.8 0.8 } }
+	}
+	colored_emblem = {
+		texture = "ce_block_04.dds"
+		color1 = "offwhite"
+		instance = { position = { 0.5 0.8 } }
+		instance = { position = { 0.5 0.2 } }
 	}
 }

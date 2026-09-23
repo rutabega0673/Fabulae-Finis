@@ -1,12 +1,26 @@
 ﻿1062={ #Hagerstown
 	terrain="hills"
 	culture="beltway"
-	religion="sustainablist"
+	religion="americanist"
 	trade_goods="cattle"
-	civilization_value=10
+	civilization_value=28
 	barbarian_power=0
 	province_rank="settlement"
+	nobles={
+		amount=2
+	}
+	citizen={
+		amount=4
+	}
+	freemen={
+		amount=5
+	}
+	slaves={
+		amount=5
+	}
 	tribesmen={
+		culture="deitsch"
+		religion="old_order"
 		amount=1
 	}
 }
@@ -16,11 +30,21 @@
 	culture="yinzic"
 	religion="sustainablist"
 	trade_goods="grain"
-	civilization_value=10
+	civilization_value=23
 	barbarian_power=0
 	province_rank="settlement"
-	tribesmen={
+	citizen={
+		culture="susquehannan"
+		religion="fissionist"
 		amount=1
+	}
+	freemen={
+		amount=3
+	}
+	tribesmen={
+		culture="deitsch"
+		religion="old_order"
+		amount=3
 	}
 }
 
@@ -56,11 +80,20 @@
 	culture="susquehannan"
 	religion="sustainablist"
 	trade_goods="papyrus"
-	civilization_value=10
+	civilization_value=22
 	barbarian_power=0
 	province_rank="settlement"
-	tribesmen={
+	citizen={
+		religion="fissionist"
 		amount=1
+	}
+	freemen={
+		amount=3
+	}
+	tribesmen={
+		culture="deitsch"
+		religion="old_order"
+		amount=3
 	}
 }
 
@@ -69,11 +102,11 @@
 	culture="susquehannan"
 	religion="sustainablist"
 	trade_goods="tobacco"
-	civilization_value=10
+	civilization_value=2
 	barbarian_power=0
 	province_rank="settlement"
 	tribesmen={
-		amount=1
+		amount=5
 	}
 }
 
@@ -82,11 +115,15 @@
 	culture="deitsch"
 	religion="old_order"
 	trade_goods="wood"
-	civilization_value=10
+	civilization_value=15
 	barbarian_power=0
 	province_rank="settlement"
+	freemen={
+		religion="americanist"
+		amount=2
+	}
 	tribesmen={
-		amount=1
+		amount=5
 	}
 }
 
@@ -95,11 +132,11 @@
 	culture="deitsch"
 	religion="old_order"
 	trade_goods="wine"
-	civilization_value=10
+	civilization_value=13
 	barbarian_power=0
 	province_rank="settlement"
 	tribesmen={
-		amount=1
+		amount=4
 	}
 }
 
@@ -150,11 +187,14 @@
 	culture="deitsch"
 	religion="old_order"
 	trade_goods="tobacco"
-	civilization_value=10
+	civilization_value=14
 	barbarian_power=0
 	province_rank="settlement"
+	freemen={
+		amount=4
+	}
 	tribesmen={
-		amount=1
+		amount=4
 	}
 }
 
@@ -163,11 +203,18 @@
 	culture="deitsch"
 	religion="old_order"
 	trade_goods="wine"
-	civilization_value=10
+	civilization_value=13
 	barbarian_power=0
 	province_rank="settlement"
+	citizen={
+		culture="susquehannan"
+		amount=2
+	}
+	freemen={
+		amount=4
+	}
 	tribesmen={
-		amount=1
+		amount=4
 	}
 }
 
@@ -176,11 +223,14 @@
 	culture="susquehannan"
 	religion="old_order"
 	trade_goods="vegetables"
-	civilization_value=10
+	civilization_value=13
 	barbarian_power=0
 	province_rank="settlement"
 	tribesmen={
-		amount=1
+		amount=4
+	}
+	slaves={
+		amount=2
 	}
 }
 
@@ -189,11 +239,14 @@
 	culture="upstater"
 	religion="catholic"
 	trade_goods="clay"
-	civilization_value=10
+	civilization_value=12
 	barbarian_power=0
 	province_rank="settlement"
 	tribesmen={
-		amount=1
+		amount=4
+	}
+	slaves={
+		amount=2
 	}
 }
 
@@ -202,11 +255,16 @@
 	culture="deitsch"
 	religion="old_order"
 	trade_goods="grain"
-	civilization_value=10
+	civilization_value=31
 	barbarian_power=0
 	province_rank="settlement"
+	freemen={
+		culture="beltway"
+		religion="americanist"
+		amount=3
+	}
 	tribesmen={
-		amount=1
+		amount=5
 	}
 }
 
@@ -215,11 +273,16 @@
 	culture="deitsch"
 	religion="old_order"
 	trade_goods="clay"
-	civilization_value=10
+	civilization_value=29
 	barbarian_power=0
 	province_rank="settlement"
+	freemen={
+		culture="beltway"
+		religion="americanist"
+		amount=3
+	}
 	tribesmen={
-		amount=1
+		amount=5
 	}
 }
 
@@ -228,11 +291,15 @@
 	culture="susquehannan"
 	religion="catholic"
 	trade_goods="clay"
-	civilization_value=10
+	civilization_value=11
 	barbarian_power=0
 	province_rank="settlement"
-	tribesmen={
+	freemen={
+		religion="quaker"
 		amount=1
+	}
+	tribesmen={
+		amount=5
 	}
 }
 
@@ -241,11 +308,15 @@
 	culture="susquehannan"
 	religion="americanist"
 	trade_goods="fish"
-	civilization_value=10
+	civilization_value=11
 	barbarian_power=0
 	province_rank="settlement"
-	tribesmen={
+	freemen={
+		religion="quaker"
 		amount=1
+	}
+	tribesmen={
+		amount=5
 	}
 }
 
@@ -254,11 +325,14 @@
 	culture="beltway"
 	religion="americanist"
 	trade_goods="fur"
-	civilization_value=10
+	civilization_value=28
 	barbarian_power=0
 	province_rank="settlement"
-	tribesmen={
-		amount=1
+	citizen={
+		amount=2
+	}
+	freemen={
+		amount=5
 	}
 }
 
@@ -267,10 +341,13 @@
 	culture="susquehannan"
 	religion="catholic"
 	trade_goods="maple"
-	civilization_value=10
+	civilization_value=13
 	barbarian_power=0
 	province_rank="settlement"
 	tribesmen={
+		amount=4
+	}
+	slaves={
 		amount=1
 	}
 }
@@ -280,11 +357,11 @@
 	culture="susquehannan"
 	religion="quaker"
 	trade_goods="wild_game"
-	civilization_value=10
+	civilization_value=13
 	barbarian_power=0
 	province_rank="settlement"
 	tribesmen={
-		amount=1
+		amount=6
 	}
 }
 
@@ -293,11 +370,17 @@
 	culture="susquehannan"
 	religion="catholic"
 	trade_goods="cattle"
-	civilization_value=10
+	civilization_value=12
 	barbarian_power=0
 	province_rank="settlement"
+	freemen={
+		amount=2
+	}
 	tribesmen={
-		amount=1
+		amount=3
+	}
+	slaves={
+		amount=3
 	}
 }
 
@@ -306,11 +389,18 @@
 	culture="susquehannan"
 	religion="catholic"
 	trade_goods="bodark"
-	civilization_value=10
+	civilization_value=12
 	barbarian_power=0
 	province_rank="settlement"
+	freemen={
+		religion="quaker"
+		amount=2
+	}
 	tribesmen={
-		amount=1
+		amount=3
+	}
+	slaves={
+		amount=3
 	}
 }
 
@@ -319,11 +409,11 @@
 	culture="susquehannan"
 	religion="catholic"
 	trade_goods="tobacco"
-	civilization_value=10
+	civilization_value=14
 	barbarian_power=0
 	province_rank="settlement"
 	tribesmen={
-		amount=1
+		amount=7
 	}
 }
 
@@ -332,11 +422,14 @@
 	culture="susquehannan"
 	religion="quaker"
 	trade_goods="leather"
-	civilization_value=10
+	civilization_value=14
 	barbarian_power=0
 	province_rank="settlement"
 	tribesmen={
-		amount=1
+		amount=4
+	}
+	slaves={
+		amount=2
 	}
 }
 
@@ -375,11 +468,11 @@
 	culture="susquehannan"
 	religion="quaker"
 	trade_goods="clay"
-	civilization_value=10
+	civilization_value=13
 	barbarian_power=0
 	province_rank="settlement"
 	tribesmen={
-		amount=1
+		amount=6
 	}
 }
 
@@ -388,11 +481,16 @@
 	culture="deitsch"
 	religion="old_order"
 	trade_goods="wood"
-	civilization_value=10
+	civilization_value=23
 	barbarian_power=0
 	province_rank="settlement"
+	freemen={
+		culture="susquehannan"
+		religion="fissionist"
+		amount=2
+	}
 	tribesmen={
-		amount=1
+		amount=4
 	}
 }
 
@@ -401,11 +499,16 @@
 	culture="deitsch"
 	religion="old_order"
 	trade_goods="honey"
-	civilization_value=10
+	civilization_value=24
 	barbarian_power=0
 	province_rank="settlement"
+	freemen={
+		culture="susquehannan"
+		religion="fissionist"
+		amount=2
+	}
 	tribesmen={
-		amount=1
+		amount=4
 	}
 }
 
@@ -441,11 +544,11 @@
 	culture="beltway"
 	religion="americanist"
 	trade_goods="cattle"
-	civilization_value=10
+	civilization_value=27
 	barbarian_power=0
 	province_rank="settlement"
-	tribesmen={
-		amount=1
+	freemen={
+		amount=9
 	}
 }
 
@@ -454,11 +557,11 @@
 	culture="beltway"
 	religion="americanist"
 	trade_goods="maple"
-	civilization_value=10
+	civilization_value=27
 	barbarian_power=0
 	province_rank="settlement"
-	tribesmen={
-		amount=1
+	freemen={
+		amount=9
 	}
 }
 
@@ -467,11 +570,14 @@
 	culture="deitsch"
 	religion="old_order"
 	trade_goods="wood"
-	civilization_value=10
+	civilization_value=13
 	barbarian_power=0
 	province_rank="settlement"
+	freemen={
+		amount=4
+	}
 	tribesmen={
-		amount=1
+		amount=5
 	}
 }
 
@@ -537,11 +643,11 @@
 	culture="susquehannan"
 	religion="fissionist"
 	trade_goods="cloth"
-	civilization_value=10
+	civilization_value=8
 	barbarian_power=0
 	province_rank="settlement"
 	tribesmen={
-		amount=1
+		amount=10
 	}
 }
 
@@ -550,11 +656,20 @@
 	culture="susquehannan"
 	religion="catholic"
 	trade_goods="grain"
-	civilization_value=10
+	civilization_value=16
 	barbarian_power=0
 	province_rank="settlement"
+	citizen={
+		amount=2
+	}
+	freemen={
+		amount=2
+	}
 	tribesmen={
-		amount=1
+		amount=5
+	}
+	slaves={
+		amount=3
 	}
 }
 
@@ -563,11 +678,11 @@
 	culture="susquehannan"
 	religion="fissionist"
 	trade_goods="horses"
-	civilization_value=10
+	civilization_value=2
 	barbarian_power=0
 	province_rank="settlement"
 	tribesmen={
-		amount=1
+		amount=4
 	}
 }
 
@@ -576,11 +691,11 @@
 	culture="susquehannan"
 	religion="americanist"
 	trade_goods="cattle"
-	civilization_value=10
+	civilization_value=12
 	barbarian_power=0
 	province_rank="settlement"
 	tribesmen={
-		amount=1
+		amount=7
 	}
 }
 
@@ -589,11 +704,24 @@
 	culture="youser"
 	religion="americanist"
 	trade_goods="clay"
-	civilization_value=10
+	civilization_value=30
 	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=1
+	province_rank="city"
+	nobles={
+		amount=2
+	}
+	citizen={
+		amount=4
+	}
+	freemen={
+		culture="deitsch"
+		amount=4
+	}
+	freemen={
+		amount=5
+	}
+	slaves={
+		amount=6
 	}
 }
 
@@ -602,11 +730,11 @@
 	culture="susquehannan"
 	religion="americanist"
 	trade_goods="cattle"
-	civilization_value=10
+	civilization_value=14
 	barbarian_power=0
 	province_rank="settlement"
 	tribesmen={
-		amount=1
+		amount=4
 	}
 }
 

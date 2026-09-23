@@ -1,0 +1,26 @@
+﻿"TIN"={
+	country="TIN"
+	32={
+		first_name="Thurso"
+		family_name="St. Clair"
+		nickname="NICKNAME_MAJOR_GENERAL"
+		birth_date=2290.3.23
+		culture="gaidheal"
+		religion="americanist"
+		no_stats=yes
+		add_martial=10
+		add_charisma=5
+		add_finesse=4
+		add_zeal=6
+		no_traits=yes
+		add_trait = "steadfast"
+		add_trait="cautious"	
+		add_trait="scholar"
+		add_gold=150
+		add_popularity=65
+		c:TIN={
+			set_as_ruler=char:32
+		}
+		dna="jpWOlbN4s3jIx8jHAosCiwKXApcChQKFAnwCfAJ4AngCgAKAAncCdwKLAosCjgKOAnICcgFjAWMCjgKOADoAOgJ7AnsCjQKNAmkCaQJzAnMCgAKAAoQChAKGAoYCfQJ9AnsCewKPAo8CawJrAokCiQJ5AnkClAKUAmYCZgJ1AnUCkgKSA68DrwJtAm0CjgKOACIAIgJ/An8CewJ7ApQClAJ3AncCgAKAAU4BTgJyAnICagJqApICkgJ4AngCgQKBAnoCegJuAm4CgwKDAooCigJ4AngCggKCAoUChQKPAo8DmQOZAoYChgKPAo8AOQA5AQABAAB1AHUBKwErAUIBQgA8ADwAlACUAT4BPgAtAC0CYgJiAIoAigB/AH8AhACEAWEBYQEGAQYACAAIAPAA8AAbABsA6ADoAB4AHgB/AH8AqwCrAIEAgQCxALEBSAFIATYBNgCmAKYAKgAqAQEBAQDEAMQAJgAmAIQAhAM0AzQC6QLpAH8AfwCaAJoFMwUzAKsAqwW4BdwqywLLAvgC+AAAAAAAAAAAAAAAAA=="
+	}
+}
