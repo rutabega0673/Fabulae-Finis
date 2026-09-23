@@ -762,6 +762,12 @@
  HAT_ADJ:0 "Haute-Ottawais"
  MAD:0 "Madawaska"
  MAD_ADJ:0 "Madawaskan"
+ IVN:0 "Iverness"
+ IVN_ADJ:0 "Ivernesser"
+ BCT:0 "Bouctouche"
+ BCT_ADJ:0 "Bouctoucher"
+ RSG:0 "Restigouche"
+ RSG_ADJ:0 "Restigouchais"
 
 # West Canada #
  WNP:0 "Winnipeg"

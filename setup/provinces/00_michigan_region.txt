@@ -1300,7 +1300,7 @@
 }
 
 7779={ #Lansing
-	terrain="plains"
+	terrain="farmland"
 	culture="michigander"
 	religion="promethean"
 	trade_goods="iron"

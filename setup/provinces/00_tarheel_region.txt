@@ -262,7 +262,7 @@
 }
 
 2728={ #Wilmington
-	terrain="marsh"
+	terrain="flood_plain"
 	culture="sandlapper"
 	religion="episcopalian"
 	trade_goods="salt"

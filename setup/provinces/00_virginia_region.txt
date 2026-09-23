@@ -124,7 +124,7 @@
 }
 
 1608={ #Powhatan
-	terrain="forest"
+	terrain="plains"
 	culture="southron"
 	religion="americanist"
 	trade_goods="maple"
@@ -500,7 +500,7 @@
 }
 
 5065={ #Amelia
-	terrain="forest"
+	terrain="plains"
 	culture="southron"
 	religion="americanist"
 	trade_goods="fruits"

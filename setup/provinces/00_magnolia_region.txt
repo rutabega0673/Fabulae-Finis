@@ -131,7 +131,7 @@
 }
 
 1176={ #Forest
-	terrain="forest"
+	terrain="plains"
 	culture="choctaw"
 	religion="revelationist"
 	trade_goods="cotton"
@@ -144,7 +144,7 @@
 }
 
 1177={ #Philadelphia
-	terrain="forest"
+	terrain="plains"
 	culture="choctaw"
 	religion="revelationist"
 	trade_goods="wood"
@@ -209,7 +209,7 @@
 }
 
 1614={ #Butler
-	terrain="forest"
+	terrain="plains"
 	culture="tuskegean"
 	religion="revelationist"
 	trade_goods="cattle"
@@ -508,7 +508,7 @@
 }
 
 5987={ #De Kalb
-	terrain="forest"
+	terrain="plains"
 	culture="tuskegean"
 	religion="hoodoo"
 	trade_goods="salt"
@@ -521,7 +521,7 @@
 }
 
 5988={ #Livingston
-	terrain="forest"
+	terrain="plains"
 	culture="tuskegean"
 	religion="hoodoo"
 	trade_goods="earthware"
@@ -690,7 +690,7 @@
 }
 
 7823={ #Aberdeen
-	terrain="forest"
+	terrain="plains"
 	culture="tuskegean"
 	religion="hoodoo"
 	trade_goods="horses"
@@ -807,7 +807,7 @@
 }
 
 9122={ #Jackson
-	terrain="flood_plain"
+	terrain="plains"
 	culture="dixie"
 	religion="missisippian"
 	trade_goods="cotton"

@@ -196,7 +196,7 @@
 }
 
 2129={ #Madisonville
-	terrain="forest"
+	terrain="plains"
 	culture="texan"
 	religion="colossalist"
 	trade_goods="beans"
@@ -209,7 +209,7 @@
 }
 
 2130={ #Navasota
-	terrain="forest"
+	terrain="plains"
 	culture="texanane"
 	religion="colossalist"
 	trade_goods="tubers"
@@ -229,7 +229,7 @@
 }
 
 2131={ #Shepherd
-	terrain="forest"
+	terrain="plains"
 	culture="texan"
 	religion="loneranger"
 	trade_goods="hemp"
@@ -242,7 +242,7 @@
 }
 
 2132={ #Huntsville
-	terrain="forest"
+	terrain="plains"
 	culture="texan"
 	religion="colossalist"
 	trade_goods="wood"
@@ -989,7 +989,7 @@
 }
 
 6286={ #The Woodlands
-	terrain="forest"
+	terrain="plains"
 	culture="texan"
 	religion="americanist"
 	trade_goods="cattle"
@@ -1011,7 +1011,7 @@
 }
 
 6287={ #Atascocita
-	terrain="forest"
+	terrain="plains"
 	culture="texan"
 	religion="americanist"
 	trade_goods="cattle"
@@ -1455,7 +1455,7 @@
 }
 
 9218={ #Sour Lake
-	terrain="forest"
+	terrain="plains"
 	culture="lway_viet"
 	religion="cao_dai"
 	trade_goods="leather"
@@ -1479,7 +1479,7 @@
 }
 
 9219={ #Cleveland
-	terrain="forest"
+	terrain="plains"
 	culture="texan"
 	religion="cao_dai"
 	trade_goods="wood"
@@ -1521,7 +1521,7 @@
 }
 
 9221={ #Mont Belvieu
-	terrain="forest"
+	terrain="plains"
 	culture="texan"
 	religion="americanist"
 	trade_goods="earthware"

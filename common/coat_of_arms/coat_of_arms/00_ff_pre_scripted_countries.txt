@@ -2057,3 +2057,87 @@ TIN = { # Ticonderoga
 		instance = { position = { 0.5 0.2 } }
 	}
 }
+
+RSG = { # Restigouche
+	pattern = "pattern_solid.tga"
+	color1 = "navy_blue"
+	color2 = "navy_blue"
+
+	colored_emblem = {
+		texture = "ce_waves_02.dds"
+		color1 = "navy_blue"
+		color2 = "silver"
+	}
+	colored_emblem = {
+		texture = "ce_flat_star.dds"
+		color1 = "roman_gold"
+		instance = { position = { 0.2 0.2 } scale = { 0.4 0.4}}
+	}
+}
+
+MRI = { #Maritimes
+	pattern = "pattern_solid.tga"
+	color1 = "offwhite"
+	color2 = "offwhite"
+	
+	colored_emblem = {
+		texture = "ce_ordinary_saltire_5.dds"
+		color1 = "navy_blue"
+		instance = { position = { 0.5 0.5 } scale = { 1.0 1.0 }  }
+	}
+	colored_emblem = {
+		texture = "ce_block_02.dds"
+		color1 = "roman_red"
+		instance = { position = { 0.5 0.5 } scale = { 0.2 0.2 } rotation = 45  }
+	}
+	colored_emblem = {
+		texture = "ce_crown.dds"
+		color1 = "ck2_yellow"
+		color2 = "ck2_yellow"
+		instance = { position = { 0.5 0.5 } scale = { 0.2 0.2 }  }
+	}
+	colored_emblem = {
+		texture = "ce_leopard_passant_guardant.dds"
+		color1 = "ck2_yellow"
+		color2 = "roman_red"
+		instance = { position = { 0.25 0.25 } scale = { -0.6 0.5 } rotation = 45  }
+		instance = { position = { 0.75 0.25 } scale = { 0.6 0.5 } rotation = -45  }
+		instance = { position = { 0.25 0.75 } scale = { -0.6 0.5 } rotation = -45  }
+		instance = { position = { 0.75 0.75 } scale = { 0.6 0.5 } rotation = 45  }
+	}
+}
+
+MTC = { #Montreal
+	pattern = "pattern_cross_circle.dds"
+	color1 = "offwhite"
+	color2 = "roman_red"
+     colored_emblem = {
+        texture = "ce_pine.dds"
+        color1 = "ck2_yellow"
+	    color2 = "ck2_yellow"
+		instance = { position = { 0.50 0.50 } scale = { 0.4 0.4 }  }
+    }
+	colored_emblem = {
+		texture = "ce_qc_fleur.dds"
+		color1 = "ck2_blue"
+        instance = { position = { 0.2 0.2 } scale = { 0.4 0.4 }  }
+	}
+    colored_emblem = {
+    texture = "ce_english_rose.dds"
+	color1 = "ck2_green"
+	color2 = "roman_red"
+     instance = { position = { 0.8 0.21 } scale = { 0.4 0.4 }  }
+    }
+    colored_emblem = {
+    texture = "ce_thistle.dds"
+	color1 = "ck2_green"
+	color2 = "ck2_purple"
+	 instance = { position = { 0.2 0.8 } scale = { 0.4 0.4 }  }
+    }
+    colored_emblem = {
+        texture = "ce_shamrock.dds"
+		color1 = "ck2_green"
+		color2 = "ck2_green"
+        instance = { position = { 0.8 0.8 } scale = { 0.4 0.4 }  }
+    }
+}

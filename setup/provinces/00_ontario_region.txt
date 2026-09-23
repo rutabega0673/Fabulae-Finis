@@ -419,7 +419,7 @@
 }
 
 2931={ #Stratford
-	terrain="plains"
+	terrain="farmland"
 	culture="deitsch"
 	religion="united_church"
 	trade_goods="wood"
@@ -443,7 +443,7 @@
 }
 
 2932={ #Woodstock
-	terrain="plains"
+	terrain="farmland"
 	culture="deitsch"
 	religion="old_order"
 	trade_goods="maize"
@@ -1310,7 +1310,7 @@
 }
 
 8378={ #Cornwall
-	terrain="plains"
+	terrain="farmland"
 	culture="gaidheal"
 	religion="united_church"
 	trade_goods="earthware"
@@ -1707,7 +1707,7 @@
 }
 
 11608={ #Kitchener
-	terrain="plains"
+	terrain="farmland"
 	culture="deitsch"
 	religion="united_church"
 	trade_goods="clay"

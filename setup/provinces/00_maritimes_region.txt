@@ -65,7 +65,7 @@
 
 674={ #
 	terrain="forest"
-	culture="mikmaw"
+	culture="acadien"
 	religion="ursuline"
 	trade_goods="fish"
 	civilization_value=10
@@ -117,7 +117,7 @@
 
 1080={ #Saint George
 	terrain="plains"
-	culture="acadien"
+	culture="maritimer"
 	religion="ursuline"
 	trade_goods="fish"
 	civilization_value=10
@@ -260,8 +260,8 @@
 
 1720={ #Annapolis Royal
 	terrain="plains"
-	culture="acadien"
-	religion="ursuline"
+	culture="maritimer"
+	religion="veteranic"
 	trade_goods="precious_metals"
 	civilization_value=10
 	barbarian_power=0
@@ -286,8 +286,8 @@
 
 1722={ #Greenwood
 	terrain="plains"
-	culture="acadien"
-	religion="ursuline"
+	culture="maritimer"
+	religion="veteranic"
 	trade_goods="shells"
 	civilization_value=10
 	barbarian_power=0
@@ -325,8 +325,8 @@
 
 1882={ #Tracadie Sheila
 	terrain="plains"
-	culture="acadien"
-	religion="ursuline"
+	culture="maritimer"
+	religion="veteranic"
 	trade_goods="fish"
 	civilization_value=10
 	barbarian_power=0
@@ -455,8 +455,8 @@
 
 3162={ #Woodstock
 	terrain="forest"
-	culture="acadien"
-	religion="ursuline"
+	culture="maritimer"
+	religion="veteranic"
 	trade_goods="salt"
 	civilization_value=10
 	barbarian_power=0
@@ -468,8 +468,8 @@
 
 3163={ #Grand Falls
 	terrain="hills"
-	culture="acadien"
-	religion="ursuline"
+	culture="maritimer"
+	religion="veteranic"
 	trade_goods="wood"
 	civilization_value=10
 	barbarian_power=0
@@ -481,8 +481,8 @@
 
 3164={ #Florenceville Bristol
 	terrain="forest"
-	culture="acadien"
-	religion="ursuline"
+	culture="maritimer"
+	religion="veteranic"
 	trade_goods="vegetables"
 	civilization_value=10
 	barbarian_power=0
@@ -494,8 +494,8 @@
 
 3236={ #Newcastle
 	terrain="hills"
-	culture="acadien"
-	religion="ursuline"
+	culture="maritimer"
+	religion="veteranic"
 	trade_goods="stone"
 	civilization_value=10
 	barbarian_power=0
@@ -507,8 +507,8 @@
 
 3237={ #Blackville
 	terrain="forest"
-	culture="acadien"
-	religion="ursuline"
+	culture="maritimer"
+	religion="veteranic"
 	trade_goods="fur"
 	civilization_value=10
 	barbarian_power=0
@@ -520,8 +520,8 @@
 
 3238={ #Neguac
 	terrain="plains"
-	culture="acadien"
-	religion="ursuline"
+	culture="maritimer"
+	religion="veteranic"
 	trade_goods="salt"
 	civilization_value=10
 	barbarian_power=0
@@ -611,7 +611,7 @@
 
 6391={ #Baddeck
 	terrain="hills"
-	culture="maritimer"
+	culture="acadien"
 	religion="ursuline"
 	trade_goods="vegetables"
 	civilization_value=10
@@ -637,7 +637,7 @@
 
 6393={ #Cheticamp
 	terrain="hills"
-	culture="maritimer"
+	culture="acadien"
 	religion="ursuline"
 	trade_goods="fur"
 	civilization_value=10
@@ -663,8 +663,8 @@
 
 6448={ #Rogersville
 	terrain="plains"
-	culture="chiac"
-	religion="ursuline"
+	culture="maritimer"
+	religion="veteranic"
 	trade_goods="cattle"
 	civilization_value=10
 	barbarian_power=0
@@ -910,7 +910,7 @@
 
 7290={ #Sackville
 	terrain="plains"
-	culture="chiac"
+	culture="maritimer"
 	religion="veteranic"
 	trade_goods="vegetables"
 	civilization_value=10
@@ -988,8 +988,8 @@
 
 8068={ #Summerside
 	terrain="plains"
-	culture="maritimer"
-	religion="veteranic"
+	culture="chiac"
+	religion="ursuline"
 	trade_goods="grain"
 	civilization_value=10
 	barbarian_power=0
@@ -1001,8 +1001,8 @@
 
 8069={ #Alberton
 	terrain="forest"
-	culture="maritimer"
-	religion="veteranic"
+	culture="chiac"
+	religion="ursuline"
 	trade_goods="fish"
 	civilization_value=10
 	barbarian_power=0
@@ -1027,8 +1027,8 @@
 
 8932={ #Barrington
 	terrain="forest"
-	culture="maritimer"
-	religion="veteranic"
+	culture="acadien"
+	religion="ursuline"
 	trade_goods="leather"
 	civilization_value=10
 	barbarian_power=0
@@ -1053,8 +1053,8 @@
 
 8934={ #Yarmouth
 	terrain="forest"
-	culture="maritimer"
-	religion="veteranic"
+	culture="acadien"
+	religion="ursuline"
 	trade_goods="fish"
 	civilization_value=10
 	barbarian_power=0
@@ -1066,7 +1066,7 @@
 
 11928={ #Ingonish
 	terrain="hills"
-	culture="maritimer"
+	culture="acadien"
 	religion="ursuline"
 	trade_goods="fish"
 	civilization_value=10

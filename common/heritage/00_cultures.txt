@@ -1262,6 +1262,45 @@ nakota_heritage = {
         primary_culture = nakota
 	}
 }
+maritimer_heritage = {
+   	modifier = {
+        #good
+         global_commerce_modifier = 0.05
+         naval_morale_modifier = 0.10 
+       #bad
+        character_loyalty = -3
+   }
+
+   trigger = {
+        primary_culture = maritimer
+	}
+}
+gaidheal_heritage = {
+   	modifier = {
+        #good
+        land_morale_recovery = 0.05
+        global_monthly_state_loyalty = 0.03
+       #bad
+        tribute_income_modifier = -0.10
+   }
+
+   trigger = {
+        primary_culture = gaidheal
+	}
+}
+newfie_heritage = {
+   	modifier = {
+        #good
+        clan_chief_loyalty = 3
+        light_infantry_forest_combat_bonus = 0.10
+       #bad
+        agressive_expansion_impact = 0.05
+   }
+
+   trigger = {
+        primary_culture = newfie
+	}
+}
 #Culture Group
 midwestern_heritage = {
    	modifier = {

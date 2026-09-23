@@ -427,7 +427,7 @@
 }
 
 7495={ #Vermillion on the Lake
-	terrain="farmland"
+	terrain="plains"
 	culture="buckeye"
 	religion="promethean"
 	trade_goods="fish"
@@ -443,7 +443,7 @@
 }
 
 7496={ #Lorain
-	terrain="farmland"
+	terrain="plains"
 	culture="buckeye"
 	religion="promethean"
 	trade_goods="salt"

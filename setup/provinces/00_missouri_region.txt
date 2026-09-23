@@ -317,7 +317,7 @@
 
 4000={ #Cape Giradeau
 	terrain="farmland"
-	culture="paw_paw"
+	culture="ozark"
 	religion="twainist"
 	trade_goods="tobacco"
 	civilization_value=25
@@ -330,12 +330,12 @@
 		amount=2
 	}
 	freemen={
-		culture="bootheeler"
+		culture="gatewayan"
 		religion="lutheran"
 		amount=3
 	}
 	freemen={
-		culture="bootheeler"
+		culture="paw_paw"
 		religion="catholic"
 		amount=3
 	}

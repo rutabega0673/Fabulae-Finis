@@ -924,8 +924,8 @@
 		amount=3
 	}
 	freemen={
-		religion="conclavian"
 		culture="gaidheal"
+		religion="conclavian"
 		amount=3
 	}
 	freemen={

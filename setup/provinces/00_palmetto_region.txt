@@ -376,7 +376,7 @@
 }
 
 6547={ #Charleston
-	terrain="marsh"
+	terrain="flood_plain"
 	culture="sandlapper"
 	religion="episcopalian"
 	trade_goods="dye"
@@ -389,7 +389,7 @@
 }
 
 6672={ #Myrtle Beach
-	terrain="marsh"
+	terrain="flood_plain"
 	culture="sandlapper"
 	religion="revelationist"
 	trade_goods="fish"

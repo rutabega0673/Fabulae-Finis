@@ -51,7 +51,7 @@
 }
 
 820={ #Eutaw
-	terrain="forest"
+	terrain="plains"
 	culture="tuskegean"
 	religion="hoodoo"
 	trade_goods="earthware"
@@ -191,7 +191,7 @@
 }
 
 4497={ #Grove Hill
-	terrain="forest"
+	terrain="flood_plain"
 	culture="tuskegean"
 	religion="revelationist"
 	trade_goods="wood"
@@ -607,7 +607,7 @@
 }
 
 7471={ #Amory
-	terrain="forest"
+	terrain="plains"
 	culture="tuskegean"
 	religion="hoodoo"
 	trade_goods="salt"

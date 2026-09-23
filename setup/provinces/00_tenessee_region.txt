@@ -16,11 +16,29 @@
 	culture="deltaic"
 	religion="egyptology"
 	trade_goods="wood"
-	civilization_value=10
+	civilization_value=35
 	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=1
+	province_rank="city"
+	nobles={
+		amount=6
+	}
+	citizen={
+		amount=2
+		religion="twainist"
+	}
+	citizen={
+		amount=2
+		religion="cahokian"
+	}
+	freemen={
+		amount=10
+	}
+	slaves={
+		amount=3
+	}
+	slaves={
+		religion="revelationist"
+		amount=5
 	}
 }
 

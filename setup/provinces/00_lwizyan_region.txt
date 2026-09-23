@@ -179,7 +179,7 @@
 }
 
 3291={ #Alexandria
-	terrain="forest"
+	terrain="plains"
 	culture="arkalatexan"
 	religion="traiteurism"
 	trade_goods="hemp"
@@ -578,7 +578,7 @@
 }
 
 5954={ #Ville Platte
-	terrain="forest"
+	terrain="plains"
 	culture="louisianais"
 	religion="traiteurism"
 	trade_goods="sugar"
@@ -613,7 +613,7 @@
 }
 
 5956={ #Marksville
-	terrain="forest"
+	terrain="plains"
 	culture="louisianais"
 	religion="traiteurism"
 	trade_goods="tubers"
@@ -913,7 +913,7 @@
 }
 
 7718={ #Crowley
-	terrain="forest"
+	terrain="plains"
 	culture="louisianais"
 	religion="traiteurism"
 	trade_goods="cattle"
@@ -1193,7 +1193,7 @@
 }
 
 9499={ #Breax Bridge
-	terrain="flood_plain"
+	terrain="farmland"
 	culture="louisianais"
 	religion="traiteurism"
 	trade_goods="tubers"

@@ -387,6 +387,9 @@ MDN = "setup/countries/east_canada/manidoowaaning.txt"
 GLN = "setup/countries/east_canada/glengarry.txt"
 HAT = "setup/countries/east_canada/haute_ottawa.txt"
 MAD = "setup/countries/east_canada/madawaska.txt"
+IVN = "setup/countries/east_canada/iverness.txt"
+BCT = "setup/countries/east_canada/bouctouche.txt"
+RSG = "setup/countries/east_canada/restigouche.txt"
 
 #West Canada
 WNP = "setup/countries/west_canada/winnipeg.txt"

@@ -155,7 +155,7 @@
 }
 
 1868={ #Savannah
-	terrain="marsh"
+	terrain="flood_plain"
 	culture="gullah"
 	religion="hoodoo"
 	trade_goods="spices"
