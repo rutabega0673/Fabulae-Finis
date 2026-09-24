@@ -221,7 +221,7 @@
 
 1146={ #Pictou
 	terrain="plains"
-	culture="maritimer"
+	culture="gaidheal"
 	religion="veteranic"
 	trade_goods="shells"
 	civilization_value=10
@@ -260,7 +260,7 @@
 
 1720={ #Annapolis Royal
 	terrain="plains"
-	culture="maritimer"
+	culture="acadien"
 	religion="veteranic"
 	trade_goods="precious_metals"
 	civilization_value=10
@@ -455,7 +455,7 @@
 
 3162={ #Woodstock
 	terrain="forest"
-	culture="maritimer"
+	culture="acadien"
 	religion="veteranic"
 	trade_goods="salt"
 	civilization_value=10
@@ -468,7 +468,7 @@
 
 3163={ #Grand Falls
 	terrain="hills"
-	culture="maritimer"
+	culture="acadien"
 	religion="veteranic"
 	trade_goods="wood"
 	civilization_value=10
@@ -481,7 +481,7 @@
 
 3164={ #Florenceville Bristol
 	terrain="forest"
-	culture="maritimer"
+	culture="acadien"
 	religion="veteranic"
 	trade_goods="vegetables"
 	civilization_value=10
@@ -533,7 +533,7 @@
 
 3702={ #Stratford
 	terrain="plains"
-	culture="maritimer"
+	culture="gaidheal"
 	religion="veteranic"
 	trade_goods="vegetables"
 	civilization_value=10
@@ -546,7 +546,7 @@
 
 3703={ #Charlottetown
 	terrain="farmland"
-	culture="maritimer"
+	culture="gaidheal"
 	religion="veteranic"
 	trade_goods="cloth"
 	civilization_value=10
@@ -559,7 +559,7 @@
 
 3704={ #Montague
 	terrain="forest"
-	culture="maritimer"
+	culture="gaidheal"
 	religion="veteranic"
 	trade_goods="salt"
 	civilization_value=10
@@ -611,7 +611,7 @@
 
 6391={ #Baddeck
 	terrain="hills"
-	culture="acadien"
+	culture="mikmaw"
 	religion="ursuline"
 	trade_goods="vegetables"
 	civilization_value=10
@@ -624,7 +624,7 @@
 
 6392={ #Whycocomagh
 	terrain="forest"
-	culture="maritimer"
+	culture="mikmaw"
 	religion="ursuline"
 	trade_goods="marble"
 	civilization_value=10
@@ -637,7 +637,7 @@
 
 6393={ #Cheticamp
 	terrain="hills"
-	culture="acadien"
+	culture="mikmaw"
 	religion="ursuline"
 	trade_goods="fur"
 	civilization_value=10
@@ -650,7 +650,7 @@
 
 6394={ #Port Hawkesbury
 	terrain="forest"
-	culture="gaidheal"
+	culture="mikmaw"
 	religion="veteranic"
 	trade_goods="salt"
 	civilization_value=10
@@ -663,7 +663,7 @@
 
 6448={ #Rogersville
 	terrain="plains"
-	culture="maritimer"
+	culture="acadien"
 	religion="veteranic"
 	trade_goods="cattle"
 	civilization_value=10
@@ -676,7 +676,7 @@
 
 6449={ #Baie Ste Anne
 	terrain="plains"
-	culture="chiac"
+	culture="acadien"
 	religion="veteranic"
 	trade_goods="fish"
 	civilization_value=10
@@ -689,7 +689,7 @@
 
 6450={ #Chatham
 	terrain="plains"
-	culture="chiac"
+	culture="acadien"
 	religion="ursuline"
 	trade_goods="maple"
 	civilization_value=10
@@ -754,7 +754,7 @@
 
 6670={ #Truro
 	terrain="plains"
-	culture="maritimer"
+	culture="gaidheal"
 	religion="veteranic"
 	trade_goods="salt"
 	civilization_value=10
@@ -910,7 +910,7 @@
 
 7290={ #Sackville
 	terrain="plains"
-	culture="maritimer"
+	culture="chiac"
 	religion="veteranic"
 	trade_goods="vegetables"
 	civilization_value=10
@@ -936,7 +936,7 @@
 
 7292={ #Salisbury
 	terrain="plains"
-	culture="maritimer"
+	culture="chiac"
 	religion="veteranic"
 	trade_goods="fur"
 	civilization_value=10
@@ -988,7 +988,7 @@
 
 8068={ #Summerside
 	terrain="plains"
-	culture="chiac"
+	culture="maritimer"
 	religion="ursuline"
 	trade_goods="grain"
 	civilization_value=10
@@ -1027,7 +1027,7 @@
 
 8932={ #Barrington
 	terrain="forest"
-	culture="acadien"
+	culture="maritimer"
 	religion="ursuline"
 	trade_goods="leather"
 	civilization_value=10
@@ -1066,7 +1066,7 @@
 
 11928={ #Ingonish
 	terrain="hills"
-	culture="acadien"
+	culture="mikmaw"
 	religion="ursuline"
 	trade_goods="fish"
 	civilization_value=10
@@ -1079,7 +1079,7 @@
 
 11929={ #Inverness
 	terrain="forest"
-	culture="maritimer"
+	culture="mikmaw"
 	religion="ursuline"
 	trade_goods="shells"
 	civilization_value=10

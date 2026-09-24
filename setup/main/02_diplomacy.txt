@@ -78,7 +78,9 @@ diplomacy = {
 	dependency = { first = ONT second = KTK subject_type = tributary }
 	dependency = { first = ONT second = MAD subject_type = feudatory }
 	dependency = { first = ONT second = GAT subject_type = feudatory }
+	dependency = { first = ONT second = MTC subject_type = feudatory }
 	dependency = { first = ONT second = ELG subject_type = vassal_tribe }
+	dependency = { first = ONT second = MNW subject_type = vassal_tribe }
 
 	## Oklahoman Tribes
 	defensive_league = {

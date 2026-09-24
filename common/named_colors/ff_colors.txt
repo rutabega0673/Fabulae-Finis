@@ -20,5 +20,6 @@
 	tsenacommacah_color = rgb { 37 0 77 }
 	deep_south_color = hsv { 0.07 1.0 1.0 }
 	old_south_color = rgb { 227 148 109 }
+	ontario_green = rgb { 19 109 57 }
 }
 

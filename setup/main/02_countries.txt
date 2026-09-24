@@ -1395,7 +1395,7 @@ country = {
 
 		UTC = { #Utica
 			government = despotic_monarchy
-			primary_culture = upstater
+			primary_culture = hudsonian
 			religion = clairvoyant
 			capital = 1762
 			family=1
@@ -1437,7 +1437,7 @@ country = {
 
 		TIN = { # Ticonderoga
 			government = stratocratic_monarchy
-			primary_culture = hudsonian
+			primary_culture = vermonter
 			religion = americanist
 			capital = 1099
 			treasures = {
@@ -2018,7 +2018,7 @@ country = {
 			}
 
 			own_control_core = {
-				2256 2255 2254 3601 3600 1769 3599
+				3601 3600 1769 
 			}
 		}
 		WHR = { #Wheelersburg
@@ -2749,9 +2749,13 @@ country = {
 				3707 2873 2872 3705 2871 3706
 				8504 
 				4669 8061 9405 4671 4670 3562 3563 3564 2149 
-				1405 1403 1404 8380 
+				1405 1403 1404
 				7701 7704 7702 7703
 				958 955 956
+				7782 7780 7781 1967
+				476 477 475 7654 7656 7655 1743 1746 1745 1742 1744 1932
+				477 7510 7512 7513 7346 2226 
+				2253 1927 1928 1930 3677 3675 3676 1929 2256 2254 7347
 			}
 		}
 		MTC = { # Montreal
@@ -2768,25 +2772,17 @@ country = {
 			}
 
 			own_control_core = {
-				4376 4375 1966 7654 7655 7656 475 1743 1746 1745 1742 1967
-				1744 477 476
+				4376 2255 3599 1966 4375
 			}
 		}
 		MTG = { # Monteregie
-			government = aristocratic_monarchy
-			primary_culture = montrealais
-			religion = ursuline
-			capital = 2253
-
-			technology={
-				military_tech={ level=2 progress=0 }
-				civic_tech={ level=2 progress=0 }
-				religious_tech= { level=2 progress=0  }
-				oratory_tech= { level=2 progress =0 }
-			}
+			government = tribal_chiefdom
+			primary_culture = eeyou
+			religion = midewiwin
+			capital = 1718
 
 			own_control_core = { 
-				2253 1927 1928 1930 3677 3675 3676 1929
+				1718 8529 1716 1717 9242 9244 9243
 			}
 		}
 		QBC = { # Quebec City
@@ -2915,14 +2911,15 @@ country = {
 			}
 
 			own_control_core = {
-				6322 6320 6321
+				6322 6320 6321 7511
 			}
 		}
 		GSP = { # Gaspésie
 			government = despotic_monarchy
-			primary_culture = quebecois
+			primary_culture = acadien
 			religion = ursuline
 			capital = 2421
+			family = 15
 
 			technology={
 				military_tech={ level=2 progress=0 }
@@ -3012,7 +3009,7 @@ country = {
 			}
 
 			own_control_core = {
-				8303 8305 8304 9507 6472 9506
+				8303 8305 8304 9507 6472 9506 2228 2227 
 			}
 		}
 		STW = { #St. Lawrence
@@ -3034,7 +3031,7 @@ country = {
 		}
 		ADI = { #Adirondack
 			government = tribal_kingdom
-			primary_culture = upstater
+			primary_culture = hudsonian
 			religion = transcendentalist
 			capital = 1770
 
@@ -3050,16 +3047,16 @@ country = {
 			}
 		}
 		CMP = { #Champlain
-			government = despotic_monarchy
-			primary_culture = hudsonian
+			government = tribal_kingdom
+			primary_culture = vermonter
 			religion = ursuline
 			capital = 7826
 
 			technology={
-				military_tech={ level=2 progress=0 }
-				civic_tech={ level=2 progress=0 }
-				religious_tech= { level=2 progress=0  }
-				oratory_tech= { level=2 progress =0 }
+				military_tech={ level=1 progress=0 }
+				civic_tech={ level=1 progress=0 }
+				religious_tech= { level=1 progress=0  }
+				oratory_tech= { level=1 progress =0 }
 			}
 
 			own_control_core = {
@@ -3552,20 +3549,14 @@ country = {
 			}
 		}
 		MCI = { # Mauricie
-			government = aristocratic_monarchy
-			primary_culture = montrealais
+			government = tribal_kingdom
+			primary_culture = algonquin
 			religion = ursuline
-			capital = 2227
+			capital = 601
 
-			technology={
-				military_tech={ level=2 progress=0 }
-				civic_tech={ level=2 progress=0 }
-				religious_tech= { level=2 progress=0  }
-				oratory_tech= { level=2 progress =0 }
-			}
 
 			own_control_core = {
-				2227 2226 2228 7512 7511 7513 7510 7346 7347
+				601 284 282 6303 6304 283 602 599 5935 600
 			}
 		}
 		PRS = { # Presque Isle
@@ -3695,13 +3686,13 @@ country = {
 
 			own_control_core = {
 				1084 1082 1080 176 2760 2758 177 174 175 1130 2757 2761 2759
-				1128 7292 6448 1129 7290
+				1128 6448 1129 
 				7288 6696 7287 7289 6698 2133 7286 2135 2134 2136
-				6391 7142 4859 6392 6393 11928 7141 7140
+				6391 7142 6392 6393 11928 7141 7140
 				8069 8068 8067 3703 3702 3704 674
 				3163 3236 3164 3237 3238 1882 1880 
 				1721 1719 11930 8934 8932 8933 8931 1720 1722 6697
-				6582 6581 6580 1145 6670 1146 6671 1147
+				6582 6581 6580 1145 6670 6671 6450
 			}
 		}
 		WNP = { # Winnipeg
@@ -5474,7 +5465,7 @@ country = {
 			}
 
 			own_control_core = {
-				1136 1933 1931 1932 7345 1135 7282
+				1136 1933 1931 7345 1135 7282
 			}
 		}
 		ELG = { #Elgin
@@ -5547,7 +5538,7 @@ country = {
 		}
 		TRT = { #Trenton
 			government = aristocratic_republic
-			primary_culture = youser
+			primary_culture = gothamite
 			religion = catholic
 			capital = 1845
 
@@ -6303,7 +6294,7 @@ country = {
 			}
 
 			own_control_core = {
-				7781 7780 7782 8379 8378
+				8378 8379 8380
 			} 
 		}
 		IVN = { # Iverness
@@ -6320,7 +6311,7 @@ country = {
 			}
 
 			own_control_core = {
-				11929 6394 4860 4861
+				11929 6394 4860 4861 1147 4859 1146
 			} 
 		}
 		BCT = { # Bouctouche
@@ -6337,7 +6328,7 @@ country = {
 			}
 
 			own_control_core = {
-				6451 6449 6450 7291
+				6451 6449 7291 7290 7292
 			} 
 		}
 		RSG = { # Restigouche

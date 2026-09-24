@@ -390,7 +390,7 @@
 
 5396={ #Francois
 	terrain="forest"
-	culture="newfie"
+	culture="mikmaw"
 	religion="fogsong"
 	trade_goods="fish"
 	civilization_value=10

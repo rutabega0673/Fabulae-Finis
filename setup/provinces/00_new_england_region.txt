@@ -1,6 +1,6 @@
 ﻿1={ #Skowhegan
 	terrain="hills"
-	culture="bayfolk"
+	culture="vermonter"
 	religion="gothic"
 	trade_goods="maple"
 	civilization_value=10
@@ -13,7 +13,7 @@
 
 2={ #Dover Foxcroft
 	terrain="hills"
-	culture="bayfolk"
+	culture="vermonter"
 	religion="gothic"
 	trade_goods="woad"
 	civilization_value=10
@@ -195,7 +195,7 @@
 
 1073={ #Amherst
 	terrain="forest"
-	culture="bayfolk"
+	culture="vermonter"
 	religion="gothic"
 	trade_goods="cattle"
 	civilization_value=10
@@ -221,7 +221,7 @@
 
 1407={ #Rangeley
 	terrain="hills"
-	culture="bayfolk"
+	culture="vermonter"
 	religion="gothic"
 	trade_goods="fur"
 	civilization_value=10
@@ -234,7 +234,7 @@
 
 1408={ #Rumford
 	terrain="hills"
-	culture="bayfolk"
+	culture="vermonter"
 	religion="gothic"
 	trade_goods="maple"
 	civilization_value=10
@@ -312,7 +312,7 @@
 
 2041={ #Houlton
 	terrain="hills"
-	culture="wolastoqiyik"
+	culture="passamaquoddy"
 	religion="ursuline"
 	trade_goods="maple"
 	civilization_value=10
@@ -326,7 +326,7 @@
 2169={ #New Bedford
 	terrain="farmland"
 	culture="bayfolk"
-	religion="americanist"
+	religion="gothic"
 	trade_goods="cloth"
 	civilization_value=10
 	barbarian_power=0
@@ -339,7 +339,7 @@
 2170={ #Taunton
 	terrain="plains"
 	culture="bayfolk"
-	religion="americanist"
+	religion="gothic"
 	trade_goods="maize"
 	civilization_value=10
 	barbarian_power=0
@@ -352,7 +352,7 @@
 2171={ #Plymouth Rock
 	terrain="farmland"
 	culture="bayfolk"
-	religion="americanist"
+	religion="gothic"
 	trade_goods="shells"
 	civilization_value=10
 	barbarian_power=0
@@ -416,7 +416,7 @@
 
 2740={ #Augusta
 	terrain="forest"
-	culture="bayfolk"
+	culture="vermonter"
 	religion="gothic"
 	trade_goods="tubers"
 	civilization_value=10
@@ -442,7 +442,7 @@
 
 2742={ #Lisbon
 	terrain="plains"
-	culture="bayfolk"
+	culture="vermonter"
 	religion="gothic"
 	trade_goods="leather"
 	civilization_value=10
@@ -494,7 +494,7 @@
 
 2905={ #Springfield
 	terrain="farmland"
-	culture="bayfolk"
+	culture="vermonter"
 	religion="gothic"
 	trade_goods="cattle"
 	civilization_value=10
@@ -585,7 +585,7 @@
 
 3485={ #Palmer
 	terrain="forest"
-	culture="bayfolk"
+	culture="vermonter"
 	religion="gothic"
 	trade_goods="grain"
 	civilization_value=10
@@ -598,7 +598,7 @@
 
 3486={ #Gardner
 	terrain="forest"
-	culture="bayfolk"
+	culture="vermonter"
 	religion="gothic"
 	trade_goods="maize"
 	civilization_value=10
@@ -676,7 +676,7 @@
 
 4296={ #Lewiston
 	terrain="hills"
-	culture="bayfolk"
+	culture="vermonter"
 	religion="gothic"
 	trade_goods="cattle"
 	civilization_value=10
@@ -690,7 +690,7 @@
 4627={ #Plainfield
 	terrain="farmland"
 	culture="bayfolk"
-	religion="americanist"
+	religion="gothic"
 	trade_goods="grain"
 	civilization_value=10
 	barbarian_power=0
@@ -794,7 +794,7 @@
 6112={ #Norwich
 	terrain="plains"
 	culture="bayfolk"
-	religion="americanist"
+	religion="gothic"
 	trade_goods="wine"
 	civilization_value=10
 	barbarian_power=0
@@ -807,7 +807,7 @@
 6114={ #New London
 	terrain="farmland"
 	culture="bayfolk"
-	religion="americanist"
+	religion="gothic"
 	trade_goods="glass"
 	civilization_value=10
 	barbarian_power=0
@@ -846,7 +846,7 @@
 6222={ #Coventry
 	terrain="farmland"
 	culture="bayfolk"
-	religion="americanist"
+	religion="gothic"
 	trade_goods="fish"
 	civilization_value=10
 	barbarian_power=0
@@ -859,7 +859,7 @@
 6223={ #Attleboro
 	terrain="plains"
 	culture="bayfolk"
-	religion="americanist"
+	religion="gothic"
 	trade_goods="fruits"
 	civilization_value=10
 	barbarian_power=0
@@ -872,7 +872,7 @@
 6224={ #Providence
 	terrain="farmland"
 	culture="bayfolk"
-	religion="americanist"
+	religion="gothic"
 	trade_goods="fish"
 	civilization_value=10
 	barbarian_power=0
@@ -885,7 +885,7 @@
 6225={ #Newport
 	terrain="farmland"
 	culture="bayfolk"
-	religion="americanist"
+	religion="gothic"
 	trade_goods="fish"
 	civilization_value=10
 	barbarian_power=0
@@ -1084,7 +1084,7 @@
 
 7764={ #Peterborough
 	terrain="forest"
-	culture="bayfolk"
+	culture="vermonter"
 	religion="gothic"
 	trade_goods="bodark"
 	civilization_value=10
@@ -1123,7 +1123,7 @@
 
 7767={ #Concord
 	terrain="forest"
-	culture="bayfolk"
+	culture="vermonter"
 	religion="gothic"
 	trade_goods="wine"
 	civilization_value=10
@@ -1188,7 +1188,7 @@
 
 9567={ #Bangor
 	terrain="hills"
-	culture="penobscot"
+	culture="vermonter"
 	religion="gothic"
 	trade_goods="cattle"
 	civilization_value=10
@@ -1201,7 +1201,7 @@
 
 9568={ #Holden
 	terrain="forest"
-	culture="penobscot"
+	culture="vermonter"
 	religion="gothic"
 	trade_goods="tubers"
 	civilization_value=10
@@ -1214,7 +1214,7 @@
 
 9569={ #Millinocket
 	terrain="hills"
-	culture="penobscot"
+	culture="passamaquoddy"
 	religion="gothic"
 	trade_goods="fur"
 	civilization_value=10

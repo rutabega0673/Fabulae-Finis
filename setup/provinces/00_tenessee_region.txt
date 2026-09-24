@@ -23,12 +23,12 @@
 		amount=6
 	}
 	citizen={
-		amount=2
 		religion="twainist"
+		amount=2
 	}
 	citizen={
-		amount=2
 		religion="cahokian"
+		amount=2
 	}
 	freemen={
 		amount=10

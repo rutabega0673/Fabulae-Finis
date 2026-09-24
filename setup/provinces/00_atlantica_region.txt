@@ -119,8 +119,8 @@
 
 312={ #Brookhaven
 	terrain="forest"
-	culture="bayfolk"
-	religion="gothic"
+	culture="gothamite"
+	religion="americanist"
 	trade_goods="tubers"
 	civilization_value=20
 	barbarian_power=0
@@ -135,8 +135,8 @@
 
 313={ #Southhampton
 	terrain="plains"
-	culture="bayfolk"
-	religion="gothic"
+	culture="gothamite"
+	religion="americanist"
 	trade_goods="fish"
 	civilization_value=20
 	barbarian_power=0
@@ -155,8 +155,8 @@
 
 314={ #Riverhead
 	terrain="plains"
-	culture="bayfolk"
-	religion="gothic"
+	culture="gothamite"
+	religion="americanist"
 	trade_goods="fish"
 	civilization_value=20
 	barbarian_power=0
@@ -567,7 +567,7 @@
 
 1845={ #Trenton
 	terrain="farmland"
-	culture="youser"
+	culture="gothamite"
 	religion="catholic"
 	trade_goods="honey"
 	civilization_value=31
@@ -909,8 +909,8 @@
 
 3425={ #New Milford
 	terrain="forest"
-	culture="vermonter"
-	religion="americanist"
+	culture="bayfolk"
+	religion="gothic"
 	trade_goods="grain"
 	civilization_value=22
 	barbarian_power=0
@@ -928,8 +928,8 @@
 
 3426={ #West Torrington
 	terrain="forest"
-	culture="vermonter"
-	religion="americanist"
+	culture="bayfolk"
+	religion="gothic"
 	trade_goods="cattle"
 	civilization_value=22
 	barbarian_power=0
@@ -948,7 +948,7 @@
 3505={ #Guilford
 	terrain="forest"
 	culture="bayfolk"
-	religion="americanist"
+	religion="gothic"
 	trade_goods="horses"
 	civilization_value=22
 	barbarian_power=0
@@ -1245,7 +1245,7 @@
 4628={ #Mansfield
 	terrain="plains"
 	culture="bayfolk"
-	religion="americanist"
+	religion="gothic"
 	trade_goods="tobacco"
 	civilization_value=22
 	barbarian_power=0
@@ -1264,7 +1264,7 @@
 5237={ #New Britain
 	terrain="plains"
 	culture="bayfolk"
-	religion="americanist"
+	religion="gothic"
 	trade_goods="cloth"
 	civilization_value=22
 	barbarian_power=0
@@ -1283,7 +1283,7 @@
 5238={ #Manchester
 	terrain="plains"
 	culture="bayfolk"
-	religion="americanist"
+	religion="gothic"
 	trade_goods="wine"
 	civilization_value=22
 	barbarian_power=0
@@ -1301,8 +1301,8 @@
 
 5239={ #Hartford
 	terrain="farmland"
-	culture="vermonter"
-	religion="americanist"
+	culture="bayfolk"
+	religion="gothic"
 	trade_goods="clay"
 	civilization_value=22
 	barbarian_power=0
@@ -1320,8 +1320,8 @@
 
 5240={ #Bristol
 	terrain="plains"
-	culture="vermonter"
-	religion="americanist"
+	culture="bayfolk"
+	religion="gothic"
 	trade_goods="cattle"
 	civilization_value=22
 	barbarian_power=0
@@ -1597,7 +1597,7 @@
 
 5961={ #Freehold
 	terrain="plains"
-	culture="youser"
+	culture="gothamite"
 	religion="catholic"
 	trade_goods="honey"
 	civilization_value=22
@@ -1617,7 +1617,7 @@
 6113={ #Willimantic
 	terrain="forest"
 	culture="bayfolk"
-	religion="americanist"
+	religion="gothic"
 	trade_goods="grain"
 	civilization_value=22
 	barbarian_power=0
@@ -1635,7 +1635,7 @@
 
 6167={ #Sparta
 	terrain="hills"
-	culture="youser"
+	culture="gothamite"
 	religion="americanist"
 	trade_goods="wood"
 	civilization_value=22
@@ -1654,7 +1654,7 @@
 
 6168={ #Dover
 	terrain="plains"
-	culture="youser"
+	culture="gothamite"
 	religion="americanist"
 	trade_goods="wood"
 	civilization_value=22
@@ -1711,7 +1711,7 @@
 
 7760={ #Bridgewater
 	terrain="plains"
-	culture="youser"
+	culture="gothamite"
 	religion="catholic"
 	trade_goods="leather"
 	civilization_value=22

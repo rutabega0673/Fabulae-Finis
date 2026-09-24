@@ -140,11 +140,28 @@
 	culture="hudsonian"
 	religion="americanist"
 	trade_goods="gunpowder"
-	civilization_value=10
+	civilization_value=25
 	barbarian_power=0
 	province_rank="settlement"
-	tribesmen={
+	citizen={
 		amount=1
+	}
+	citizen={
+		culture="youser"
+	}
+	citizen={
+		culture="gothamite"
+	}
+	citizen={
+		culture="bayfolk"
+	}
+	freemen={
+		amount=4
+	}
+	slaves={
+		culture="vermonter"
+		religion="gothic"
+		amount=3
 	}
 }
 
@@ -153,9 +170,15 @@
 	culture="upstater"
 	religion="ursuline"
 	trade_goods="vegetables"
-	civilization_value=10
+	civilization_value=16
 	barbarian_power=0
 	province_rank="settlement"
+	freemen={
+		amount=1
+	}
+	slaves={
+		amount=2
+	}
 	tribesmen={
 		amount=1
 	}
@@ -166,11 +189,11 @@
 	culture="hudsonian"
 	religion="ursuline"
 	trade_goods="grain"
-	civilization_value=10
+	civilization_value=19
 	barbarian_power=0
 	province_rank="settlement"
-	tribesmen={
-		amount=1
+	freemen={
+		amount=5
 	}
 }
 

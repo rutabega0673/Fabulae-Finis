@@ -1,7 +1,7 @@
 ﻿475={ #Lachute
 	terrain="plains"
 	culture="montrealais"
-	religion="ursuline"
+	religion="veteranic"
 	trade_goods="rice"
 	civilization_value=10
 	barbarian_power=0
@@ -14,7 +14,7 @@
 476={ #Calumet
 	terrain="plains"
 	culture="montrealais"
-	religion="ursuline"
+	religion="veteranic"
 	trade_goods="marble"
 	civilization_value=10
 	barbarian_power=0
@@ -27,7 +27,7 @@
 477={ #Saint Jerome
 	terrain="plains"
 	culture="montrealais"
-	religion="ursuline"
+	religion="veteranic"
 	trade_goods="cloth"
 	civilization_value=10
 	barbarian_power=0
@@ -92,7 +92,7 @@
 1742={ #Lavaltrie
 	terrain="farmland"
 	culture="montrealais"
-	religion="ursuline"
+	religion="veteranic"
 	trade_goods="grain"
 	civilization_value=10
 	barbarian_power=0
@@ -118,7 +118,7 @@
 1744={ #Saint Gabriel
 	terrain="farmland"
 	culture="montrealais"
-	religion="ursuline"
+	religion="veteranic"
 	trade_goods="fruits"
 	civilization_value=10
 	barbarian_power=0
@@ -131,7 +131,7 @@
 1745={ #Joliette
 	terrain="plains"
 	culture="montrealais"
-	religion="ursuline"
+	religion="veteranic"
 	trade_goods="vegetables"
 	civilization_value=10
 	barbarian_power=0
@@ -157,7 +157,7 @@
 1927={ #Sorel Tracy
 	terrain="farmland"
 	culture="montrealais"
-	religion="ursuline"
+	religion="veteranic"
 	trade_goods="cattle"
 	civilization_value=10
 	barbarian_power=0
@@ -170,7 +170,7 @@
 1928={ #Saint Hyacinthe
 	terrain="plains"
 	culture="montrealais"
-	religion="ursuline"
+	religion="veteranic"
 	trade_goods="fish"
 	civilization_value=10
 	barbarian_power=0
@@ -196,7 +196,7 @@
 1930={ #Mont Saint Hilaire
 	terrain="plains"
 	culture="montrealais"
-	religion="ursuline"
+	religion="veteranic"
 	trade_goods="grain"
 	civilization_value=10
 	barbarian_power=0
@@ -222,7 +222,7 @@
 1932={ #Saint Andr Avellin
 	terrain="plains"
 	culture="montrealais"
-	religion="ursuline"
+	religion="veteranic"
 	trade_goods="glass"
 	civilization_value=10
 	barbarian_power=0
@@ -313,7 +313,7 @@
 2253={ #Longueuil
 	terrain="farmland"
 	culture="montrealais"
-	religion="ursuline"
+	religion="veteranic"
 	trade_goods="grain"
 	civilization_value=10
 	barbarian_power=0
@@ -325,7 +325,7 @@
 
 2254={ #Napierville
 	terrain="farmland"
-	culture="haudenosaunee"
+	culture="montrealais"
 	religion="gaiwiio"
 	trade_goods="fur"
 	civilization_value=10
@@ -338,7 +338,7 @@
 
 2255={ #Chateauguay
 	terrain="farmland"
-	culture="haudenosaunee"
+	culture="montrealais"
 	religion="ursuline"
 	trade_goods="cloth"
 	civilization_value=10
@@ -351,7 +351,7 @@
 
 2256={ #Saint-Jean-sur-Richelieu
 	terrain="farmland"
-	culture="haudenosaunee"
+	culture="montrealais"
 	religion="ursuline"
 	trade_goods="salt"
 	civilization_value=10
@@ -430,7 +430,7 @@
 3677={ #Farnham
 	terrain="plains"
 	culture="montrealais"
-	religion="ursuline"
+	religion="veteranic"
 	trade_goods="maple"
 	civilization_value=10
 	barbarian_power=0
@@ -781,7 +781,7 @@
 7656={ #Blainville
 	terrain="plains"
 	culture="montrealais"
-	religion="ursuline"
+	religion="veteranic"
 	trade_goods="vegetables"
 	civilization_value=10
 	barbarian_power=0
@@ -832,7 +832,7 @@
 
 8913={ #Windsor
 	terrain="forest"
-	culture="montrealais"
+	culture="quebecois"
 	religion="ursuline"
 	trade_goods="woad"
 	civilization_value=10
@@ -936,7 +936,7 @@
 
 9505={ #Drummondville
 	terrain="plains"
-	culture="montrealais"
+	culture="abenaki"
 	religion="ursuline"
 	trade_goods="horses"
 	civilization_value=10
@@ -949,7 +949,7 @@
 
 9506={ #Pierreville
 	terrain="farmland"
-	culture="montrealais"
+	culture="abenaki"
 	religion="ursuline"
 	trade_goods="fish"
 	civilization_value=10
@@ -962,7 +962,7 @@
 
 9507={ #Nicolet
 	terrain="farmland"
-	culture="montrealais"
+	culture="abenaki"
 	religion="ursuline"
 	trade_goods="salt"
 	civilization_value=10

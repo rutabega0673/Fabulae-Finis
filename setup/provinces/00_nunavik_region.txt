@@ -13,7 +13,7 @@
 
 283={ #Amos
 	terrain="forest"
-	culture="eeyou"
+	culture="francontarien"
 	religion="midewiwin"
 	trade_goods="wood"
 	civilization_value=10
@@ -26,7 +26,7 @@
 
 284={ #Rouyn Noranda
 	terrain="forest"
-	culture="algonquin"
+	culture="francontarien"
 	religion="midewiwin"
 	trade_goods="vegetables"
 	civilization_value=10
@@ -78,7 +78,7 @@
 
 599={ #Senneterre
 	terrain="taiga"
-	culture="eeyou"
+	culture="algonquin"
 	religion="midewiwin"
 	trade_goods="tubers"
 	civilization_value=10
@@ -117,7 +117,7 @@
 
 602={ #Barraute
 	terrain="marsh"
-	culture="eeyou"
+	culture="algonquin"
 	religion="midewiwin"
 	trade_goods="iron"
 	civilization_value=10
@@ -325,7 +325,7 @@
 
 5935={ #Matagami
 	terrain="taiga"
-	culture="eeyou"
+	culture="francontarien"
 	religion="midewiwin"
 	trade_goods="base_metals"
 	civilization_value=10

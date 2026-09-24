@@ -635,7 +635,7 @@
 
 2910={ #The Depot
 	terrain="forest"
-	culture="francontarien"
+	culture="shieldshorer"
 	religion="veteranic"
 	trade_goods="cattle"
 	civilization_value=10
@@ -700,7 +700,7 @@
 
 5109={ #Pineal Lake
 	terrain="forest"
-	culture="francontarien"
+	culture="ojibwe"
 	religion="midewiwin"
 	trade_goods="wood"
 	civilization_value=10
@@ -713,7 +713,7 @@
 
 5110={ #Gogama
 	terrain="forest"
-	culture="francontarien"
+	culture="ojibwe"
 	religion="ursuline"
 	trade_goods="vegetables"
 	civilization_value=10
@@ -726,7 +726,7 @@
 
 5111={ #Chapleau
 	terrain="forest"
-	culture="francontarien"
+	culture="ojibwe"
 	religion="midewiwin"
 	trade_goods="hemp"
 	civilization_value=10
@@ -804,7 +804,7 @@
 
 6109={ #Island Falls
 	terrain="forest"
-	culture="eeyou"
+	culture="francontarien"
 	religion="ursuline"
 	trade_goods="base_metals"
 	civilization_value=10
@@ -830,7 +830,7 @@
 
 6111={ #Iroquois Falls
 	terrain="forest"
-	culture="algonquin"
+	culture="francontarien"
 	religion="ursuline"
 	trade_goods="base_metals"
 	civilization_value=10

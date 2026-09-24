@@ -156,7 +156,7 @@
 
 1431={ #Lamadera
 	terrain="desert_hills"
-	culture="keres"
+	culture="neomexicano"
 	religion="shambhalaism"
 	trade_goods="earthware"
 	civilization_value=10
@@ -403,7 +403,7 @@
 
 4363={ #Gunnison
 	terrain="mountain"
-	culture="hualapai"
+	culture="coloradan"
 	religion="atomicist"
 	trade_goods="wood"
 	civilization_value=10
@@ -754,7 +754,7 @@
 
 6847={ #Center
 	terrain="mountain"
-	culture="hualapai"
+	culture="coloradan"
 	religion="shambhalaism"
 	trade_goods="precious_metals"
 	civilization_value=10
@@ -767,7 +767,7 @@
 
 6848={ #Questa
 	terrain="mountain"
-	culture="keres"
+	culture="neomexicano"
 	religion="shambhalaism"
 	trade_goods="stone"
 	civilization_value=10
@@ -780,7 +780,7 @@
 
 6849={ #Alamosa
 	terrain="mountain"
-	culture="keres"
+	culture="neomexicano"
 	religion="shambhalaism"
 	trade_goods="beans"
 	civilization_value=10
@@ -1040,7 +1040,7 @@
 
 7814={ #Aguilar
 	terrain="steppes"
-	culture="grangelander"
+	culture="neomexicano"
 	religion="shambhalaism"
 	trade_goods="bodark"
 	civilization_value=10

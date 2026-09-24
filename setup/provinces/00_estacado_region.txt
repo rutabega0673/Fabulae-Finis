@@ -299,7 +299,7 @@
 
 1384={ #Mountainair
 	terrain="desert"
-	culture="neomexicano"
+	culture="arixan"
 	religion="aphite"
 	trade_goods="horses"
 	civilization_value=10
@@ -325,7 +325,7 @@
 
 1386={ #Edgewood
 	terrain="desert"
-	culture="zuni"
+	culture="keres"
 	religion="aphite"
 	trade_goods="cattle"
 	civilization_value=10
@@ -338,7 +338,7 @@
 
 1430={ #Chimayo
 	terrain="desert_hills"
-	culture="keres"
+	culture="apache"
 	religion="aphite"
 	trade_goods="limestone"
 	civilization_value=10
@@ -351,7 +351,7 @@
 
 1432={ #Taos
 	terrain="desert_hills"
-	culture="keres"
+	culture="neomexicano"
 	religion="aphite"
 	trade_goods="cattle"
 	civilization_value=10
@@ -390,7 +390,7 @@
 
 3729={ #Tucumcari
 	terrain="steppes"
-	culture="estacadan"
+	culture="neomexicano"
 	religion="aphite"
 	trade_goods="tubers"
 	civilization_value=10
@@ -429,7 +429,7 @@
 
 3991={ #Dalhart
 	terrain="steppes"
-	culture="estacadan"
+	culture="neomexicano"
 	religion="loneranger"
 	trade_goods="bodark"
 	civilization_value=10
@@ -468,7 +468,7 @@
 
 4566={ #Lea
 	terrain="dry_plains"
-	culture="estacadan"
+	culture="arixan"
 	religion="petrobaron"
 	trade_goods="buffalo"
 	civilization_value=10
@@ -481,7 +481,7 @@
 
 4956={ #Los Lunas
 	terrain="desert"
-	culture="neomexicano"
+	culture="keres"
 	religion="aphite"
 	trade_goods="vegetables"
 	civilization_value=10
@@ -494,7 +494,7 @@
 
 4957={ #Albuquerque
 	terrain="desert"
-	culture="zuni"
+	culture="keres"
 	religion="aphite"
 	trade_goods="artifacts"
 	civilization_value=10
@@ -507,7 +507,7 @@
 
 5866={ #Val Verde
 	terrain="desert"
-	culture="neomexicano"
+	culture="arixan"
 	religion="aphite"
 	trade_goods="clay"
 	civilization_value=10
@@ -520,7 +520,7 @@
 
 5867={ #Tokay
 	terrain="desert"
-	culture="neomexicano"
+	culture="arixan"
 	religion="aphite"
 	trade_goods="vegetables"
 	civilization_value=10
@@ -572,7 +572,7 @@
 
 6992={ #Elida
 	terrain="dry_plains"
-	culture="neomexicano"
+	culture="arixan"
 	religion="petrobaron"
 	trade_goods="incense"
 	civilization_value=10
@@ -663,7 +663,7 @@
 
 7134={ #Des Moines
 	terrain="steppes"
-	culture="grangelander"
+	culture="neomexicano"
 	religion="loneranger"
 	trade_goods="earthware"
 	civilization_value=10
@@ -676,7 +676,7 @@
 
 7260={ #La Cienega
 	terrain="desert"
-	culture="zuni"
+	culture="apache"
 	religion="aphite"
 	trade_goods="clay"
 	civilization_value=10
@@ -702,7 +702,7 @@
 
 8146={ #Clayton
 	terrain="steppes"
-	culture="okie"
+	culture="neomexicano"
 	religion="loneranger"
 	trade_goods="cattle"
 	civilization_value=10
@@ -741,7 +741,7 @@
 
 8489={ #Ruidoso
 	terrain="desert"
-	culture="neomexicano"
+	culture="arixan"
 	religion="zetanologist"
 	trade_goods="cacti"
 	civilization_value=10
@@ -832,7 +832,7 @@
 
 8990={ #Ruidoso Downs
 	terrain="desert"
-	culture="neomexicano"
+	culture="arixan"
 	religion="zetanologist"
 	trade_goods="cattle"
 	civilization_value=10
@@ -858,7 +858,7 @@
 
 8992={ #Mesa
 	terrain="dry_plains"
-	culture="neomexicano"
+	culture="arixan"
 	religion="zetanologist"
 	trade_goods="cacti"
 	civilization_value=10

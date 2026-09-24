@@ -139,7 +139,7 @@
 
 957={ #Whitestone
 	terrain="forest"
-	culture="francontarien"
+	culture="shieldshorer"
 	religion="veteranic"
 	trade_goods="iron"
 	civilization_value=21
@@ -1368,6 +1368,7 @@
 	}
 	freemen={
 		culture="ontarian"
+		amount=3
 	}
 	slaves={
 		culture="gaidheal"
@@ -1661,7 +1662,7 @@
 
 8379={ #Alexandria
 	terrain="plains"
-	culture="francontarien"
+	culture="gaidheal"
 	religion="veteranic"
 	trade_goods="vegetables"
 	civilization_value=20
@@ -1681,7 +1682,7 @@
 
 8380={ #Morrisburg
 	terrain="plains"
-	culture="francontarien"
+	culture="gaidheal"
 	religion="united_church"
 	trade_goods="maple"
 	civilization_value=20
@@ -1704,7 +1705,7 @@
 
 8503={ #Barry S Bay
 	terrain="marsh"
-	culture="ontarian"
+	culture="algonquin"
 	religion="veteranic"
 	trade_goods="vegetables"
 	civilization_value=17

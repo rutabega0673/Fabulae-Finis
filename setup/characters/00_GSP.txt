@@ -1,0 +1,27 @@
+﻿"GSP"={
+	country="GSP"
+	34={ #Reference to Jacques Cartier and William the Conqueror
+		first_name="Jacques"
+		nickname="NICKNAME_LE_BATARD"
+		family = c:GSP.fam:Maillard
+		birth_date=2292.9.9
+		culture="acadien"
+		religion="ursuline"
+		no_stats=yes
+		add_martial=10
+		add_charisma=7
+		add_finesse=6
+		add_zeal=6
+		no_traits=yes
+		add_trait="rash"
+		add_trait="ambitious"
+		add_trait="arrogant"
+		add_trait="explorer"
+		add_gold=200
+		add_popularity=50
+		dna="oayhrHZhdmH/0f/RAnICcgKVApUCdAJ0AosCiwJ7AnsCeQJ5AmcCZwJnAmcDrQOtApUClQKNAo0CiQKJAm8CbwJpAmkCdAJ0An4CfgS4BLgCbAJsAo4CjgKHAocChgKGAm4CbgJyAnICfgJ+ApMCkwKXApcDqQOpAo0CjQJzAnMCbQJtAoICggKYApgCawJrAoECgQTZBNkCkAKQApcClwKMAowCkAKQAowCjAKAAoAChgKGAm8CbwJ4AngDngOeAoICggJ1AnUClwKXAoYChgJxAnEClgKWAoYChgJmAmYCdwJ3ApYClgJxAnEAjQCNAEcARwD6APoBAAEAAo8CjwAcABwAiwCLAFIAUgE+AT4AigCKAv0C/QB/AH8BfwF/AK8ArwL2AvYAzQDNALkAuQEKAQoAAwADAAAAAAB/AH8BGgEaACUAJQDrAOsAAQABAsYCxgMhAyEBdAF0AJkAmQK1ArUE3ATcAwsDCwFgAWACoAKgAH8AfwSBBIEH/QfpAGMAYwTiBKgGaAZoCTkePwAAAAAAAAAAAAAAAA=="
+		c:GSP={
+			set_as_ruler=char:34
+		}
+	}
+}

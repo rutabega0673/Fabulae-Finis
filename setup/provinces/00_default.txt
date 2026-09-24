@@ -88894,7 +88894,7 @@
 
 11250={ #
 	terrain="impassable_terrain"
-	culture="eeyou"
+	culture="francontarien"
 	religion="midewiwin"
 	trade_goods=""
 	civilization_value=10

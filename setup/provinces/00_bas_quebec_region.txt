@@ -65,7 +65,7 @@
 
 845={ #Mann
 	terrain="forest"
-	culture="acadien"
+	culture="mikmaw"
 	religion="ursuline"
 	trade_goods="maple"
 	civilization_value=10
@@ -78,7 +78,7 @@
 
 846={ #New Richmond
 	terrain="forest"
-	culture="acadien"
+	culture="mikmaw"
 	religion="ursuline"
 	trade_goods="earthware"
 	civilization_value=10
@@ -91,7 +91,7 @@
 
 847={ #Carleton Sur Mer
 	terrain="forest"
-	culture="acadien"
+	culture="mikmaw"
 	religion="ursuline"
 	trade_goods=""
 	civilization_value=10
@@ -182,7 +182,7 @@
 
 2421={ #Gasp
 	terrain="hills"
-	culture="quebecois"
+	culture="acadien"
 	religion="ursuline"
 	trade_goods="cloth"
 	civilization_value=10
@@ -403,7 +403,7 @@
 
 4266={ #Murdochville
 	terrain="hills"
-	culture="quebecois"
+	culture="acadien"
 	religion="ursuline"
 	trade_goods="fish"
 	civilization_value=10

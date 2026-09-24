@@ -91,7 +91,7 @@
 
 1154={ #Los Alamos
 	terrain="desert_hills"
-	culture="keres"
+	culture="apache"
 	religion="aphite"
 	trade_goods="artifacts"
 	civilization_value=10
@@ -104,7 +104,7 @@
 
 1155={ #Santa Teresa
 	terrain="desert_hills"
-	culture="keres"
+	culture="apache"
 	religion="aphite"
 	trade_goods="limestone"
 	civilization_value=10
@@ -143,7 +143,7 @@
 
 1413={ #Meadview
 	terrain="desert_hills"
-	culture="arixan"
+	culture="hualapai"
 	religion="atomicist"
 	trade_goods="clay"
 	civilization_value=10
@@ -156,7 +156,7 @@
 
 1414={ #Seligman
 	terrain="desert"
-	culture="arixan"
+	culture="hualapai"
 	religion="aphite"
 	trade_goods="marijuana"
 	civilization_value=10
@@ -169,7 +169,7 @@
 
 1415={ #Wikieup
 	terrain="desert_hills"
-	culture="arixan"
+	culture="hualapai"
 	religion="atomicist"
 	trade_goods="hemp"
 	civilization_value=10
@@ -273,7 +273,7 @@
 
 2204={ #Aztec
 	terrain="desert_hills"
-	culture="navajo"
+	culture="ute"
 	religion="aphite"
 	trade_goods="earthware"
 	civilization_value=10
@@ -286,7 +286,7 @@
 
 2205={ #Bayfield
 	terrain="mountain"
-	culture="hualapai"
+	culture="ute"
 	religion="aphite"
 	trade_goods="wild_game"
 	civilization_value=10
@@ -299,7 +299,7 @@
 
 2206={ #Durango
 	terrain="mountain"
-	culture="navajo"
+	culture="ute"
 	religion="aphite"
 	trade_goods="stone"
 	civilization_value=10
@@ -338,7 +338,7 @@
 
 2644={ #Show Low
 	terrain="desert"
-	culture="arixan"
+	culture="apache"
 	religion="atomicist"
 	trade_goods="marijuana"
 	civilization_value=10
@@ -351,7 +351,7 @@
 
 2645={ #Winslow
 	terrain="desert"
-	culture="arixan"
+	culture="apache"
 	religion="atomicist"
 	trade_goods="hemp"
 	civilization_value=10
@@ -377,7 +377,7 @@
 
 2647={ #Joseph City
 	terrain="desert"
-	culture="apache"
+	culture="navajo"
 	religion="peyotist"
 	trade_goods="vegetables"
 	civilization_value=10
@@ -468,7 +468,7 @@
 
 2912={ #Dulce
 	terrain="desert_hills"
-	culture="hualapai"
+	culture="ute"
 	religion="aphite"
 	trade_goods="precious_metals"
 	civilization_value=10
@@ -481,7 +481,7 @@
 
 2913={ #Cuba
 	terrain="desert_hills"
-	culture="navajo"
+	culture="ute"
 	religion="aphite"
 	trade_goods="marijuana"
 	civilization_value=10
@@ -715,7 +715,7 @@
 
 3537={ #Zuni
 	terrain="desert"
-	culture="apache"
+	culture="zuni"
 	religion="peyotist"
 	trade_goods="steppe_horses"
 	civilization_value=10
@@ -728,7 +728,7 @@
 
 3538={ #Quemado
 	terrain="desert"
-	culture="apache"
+	culture="zuni"
 	religion="peyotist"
 	trade_goods="hallucinogenics"
 	civilization_value=10
@@ -741,7 +741,7 @@
 
 3539={ #Black Rock
 	terrain="desert"
-	culture="apache"
+	culture="zuni"
 	religion="peyotist"
 	trade_goods="vegetables"
 	civilization_value=10
@@ -793,7 +793,7 @@
 
 4338={ #Rough Rock
 	terrain="desert_hills"
-	culture="navajo"
+	culture="hopi"
 	religion="peyotist"
 	trade_goods="earthware"
 	civilization_value=10
@@ -819,7 +819,7 @@
 
 4411={ #Scenic
 	terrain="desert_hills"
-	culture="arixan"
+	culture="utahn"
 	religion="atomicist"
 	trade_goods="spices"
 	civilization_value=10
@@ -845,7 +845,7 @@
 
 4527={ #Lukachukai
 	terrain="desert_hills"
-	culture="navajo"
+	culture="hopi"
 	religion="peyotist"
 	trade_goods="cattle"
 	civilization_value=10
@@ -858,7 +858,7 @@
 
 4645={ #Alamo
 	terrain="desert"
-	culture="apache"
+	culture="keres"
 	religion="aphite"
 	trade_goods="cacti"
 	civilization_value=10
@@ -871,7 +871,7 @@
 
 4646={ #Laguna
 	terrain="desert_hills"
-	culture="navajo"
+	culture="keres"
 	religion="aphite"
 	trade_goods="beer"
 	civilization_value=10
@@ -884,7 +884,7 @@
 
 4647={ #Grants
 	terrain="desert_hills"
-	culture="hopi"
+	culture="keres"
 	religion="peyotist"
 	trade_goods="limestone"
 	civilization_value=10
@@ -897,7 +897,7 @@
 
 4648={ #Heber Overgaard
 	terrain="desert"
-	culture="arixan"
+	culture="apache"
 	religion="atomicist"
 	trade_goods="leather"
 	civilization_value=10
@@ -936,7 +936,7 @@
 
 4651={ #Pinetop Lakeside
 	terrain="desert_hills"
-	culture="arixan"
+	culture="apache"
 	religion="atomicist"
 	trade_goods="horses"
 	civilization_value=10
@@ -949,7 +949,7 @@
 
 4766={ #Socorro
 	terrain="desert"
-	culture="neomexicano"
+	culture="arixan"
 	religion="aphite"
 	trade_goods="marijuana"
 	civilization_value=10
@@ -962,7 +962,7 @@
 
 4767={ #Magdalena
 	terrain="desert"
-	culture="apache"
+	culture="arixan"
 	religion="aphite"
 	trade_goods="steppe_horses"
 	civilization_value=10
@@ -1066,7 +1066,7 @@
 
 7259={ #Enchanted Hills
 	terrain="plains"
-	culture="zuni"
+	culture="apache"
 	religion="aphite"
 	trade_goods="leather"
 	civilization_value=10
@@ -1079,7 +1079,7 @@
 
 7261={ #Jemez
 	terrain="desert_hills"
-	culture="navajo"
+	culture="apache"
 	religion="aphite"
 	trade_goods="earthware"
 	civilization_value=10
@@ -1287,7 +1287,7 @@
 
 8440={ #Eagar
 	terrain="desert"
-	culture="apache"
+	culture="arixan"
 	religion="aphite"
 	trade_goods="fruits"
 	civilization_value=10

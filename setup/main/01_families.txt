@@ -102,10 +102,17 @@ family={
 		}
 		14 = {
 			key = "Bourbon"
-			owner=ADS
+			owner=FRO
 			culture=francontarien
 			prestige=300
 			color = 5
+		}
+		15 = {
+			key = "Maillard"
+			owner=GSP
+			culture=acadien
+			prestige=100
+			color = 1
 		}
 	}
 }
