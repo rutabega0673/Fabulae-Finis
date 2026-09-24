@@ -137,7 +137,7 @@
 
 1099={ #Ticonderoga
 	terrain="hills"
-	culture="hudsonian"
+	culture="vermonter"
 	religion="americanist"
 	trade_goods="gunpowder"
 	civilization_value=25
@@ -148,12 +148,15 @@
 	}
 	citizen={
 		culture="youser"
+		amount=3
 	}
 	citizen={
 		culture="gothamite"
+		amount=3
 	}
 	citizen={
 		culture="bayfolk"
+		amount=3
 	}
 	freemen={
 		amount=4
@@ -167,7 +170,7 @@
 
 1100={ #North Elba
 	terrain="mountain"
-	culture="upstater"
+	culture="vermonter"
 	religion="ursuline"
 	trade_goods="vegetables"
 	civilization_value=16
@@ -186,7 +189,7 @@
 
 1101={ #Moriah
 	terrain="hills"
-	culture="hudsonian"
+	culture="vermonter"
 	religion="ursuline"
 	trade_goods="grain"
 	civilization_value=19
@@ -279,7 +282,7 @@
 
 1760={ #Marcy
 	terrain="plains"
-	culture="upstater"
+	culture="hudsonian"
 	religion="clairvoyant"
 	trade_goods="vegetables"
 	civilization_value=25
@@ -299,7 +302,7 @@
 
 1761={ #German Flatts
 	terrain="marsh"
-	culture="upstater"
+	culture="hudsonian"
 	religion="clairvoyant"
 	trade_goods="vegetables"
 	civilization_value=22
@@ -316,7 +319,7 @@
 
 1762={ #Utica
 	terrain="farmland"
-	culture="upstater"
+	culture="hudsonian"
 	religion="clairvoyant"
 	trade_goods="earthware"
 	civilization_value=30
@@ -832,7 +835,7 @@
 
 5712={ #Queensbury
 	terrain="forest"
-	culture="hudsonian"
+	culture="vermonter"
 	religion="catholic"
 	trade_goods="beer"
 	civilization_value=10
@@ -1391,7 +1394,7 @@
 
 7825={ #Dannemora
 	terrain="hills"
-	culture="upstater"
+	culture="vermonter"
 	religion="ursuline"
 	trade_goods="wild_game"
 	civilization_value=10
@@ -1404,7 +1407,7 @@
 
 7826={ #Plattsburgh
 	terrain="hills"
-	culture="hudsonian"
+	culture="vermonter"
 	religion="ursuline"
 	trade_goods="cloth"
 	civilization_value=10

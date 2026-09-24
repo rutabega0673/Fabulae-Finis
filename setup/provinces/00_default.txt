@@ -92794,7 +92794,7 @@
 
 11550={ #
 	terrain="impassable_terrain"
-	culture="hudsonian"
+	culture="vermonter"
 	religion="ursuline"
 	trade_goods=""
 	civilization_value=10
