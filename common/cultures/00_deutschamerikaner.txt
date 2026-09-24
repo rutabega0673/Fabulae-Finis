@@ -1166,49 +1166,98 @@
 		} 
 		wisconsindeutsch = { #Wisconsin Germans - Rostmann names from Fan Fork
 			male_names = {
-				Abraham_Abraham Adalbert_Albert Armstrong Alfraed_Alfred Amalrick_Amalric Adalfuns_Alphonse Adam_Adam Aripert Anthony_Anthony Adalrost Aleksandar_Alexander
-				Berick Benjamin_Benjamin Burrill Bentley Benzene Bessemer Boris
-				Christian_Christian Christoph_Christohper Casimir
-				Daniel_Daniel David_David Dean Dodge Dexter Durant Dorrich Dominik_Dominic
-				Erik_Eric Etzel Eurich Edward_Edward Edmund Eugene_Eugene Erwin Elwood Edgar_Edgar Eisenwulf Eisenrich Eisenslaus
-				Frederich_Frederick Filadelph Florent Ferdinand_Ferdinand Franjo_Francis Filip_Philip
-				Gilberht_Gilbert Georg_George Gottfrid_Godfrey Gerolt_Gerald Gordon Gelbin
-				Hugo_Hugh Hammo Henrich_Henry Hudson Harley
-				Isaac_Isaac
-				Johannes_John Jakob_Jacob Justin_Justin Julian Jerome Jagiel
-				Karles_Charles Keifer Kasimir_Casimir
-				Lawrenz_Lawrence Ludewis_Louis Lumen Leonard_Leonard Ladislaus
-				Michael_Michael Morits_Maurice Martin_Martin Marklin Miles Maynard Marshall Marko_Mark
-				Nicholaus_Nicholas Nathan_Nathan
-				Otto_Otto Oliver_Oliver Orvil_Orville
-				Paul_Paul Peter_Peter Preston Payton
-				Rostwin Rohardt Roger Raymund Richardt_Richard Rainalt_Ronald Rustin
-				Steppen_Stephen Sidmund Stahlrich Stahlgar Stanislaus
-				Thomm_Thomas Theodor_Theodore Todrich
-				Vincentz_Vincent Viktor_Victor Virgil Velibor
-				Willelm_William Weyland Wayne Walther_Walter Woodward Wilbur Wernher_Werner Woitke
-				Zachary_Zachary Zwentibold
+				Abraham Adalbert Albert Armstrong Alfraed Alfred Amalrick Amalric Adalfuns Alphonse Adam Adam Aripert Anthony Anthony Adalrost Aleksandar Alexander
+				Berick Benjamin Benjamin Burrill Bentley Benzene Bessemer Boris
+				Christian Christoph Christohper Casimir
+				Daniel David Dean Dodge Dexter Durant Dorrich Dominik Dominic
+				Erik Eric Etzel Eurich Edward Edward Edmund Eugene Erwin Elwood Edgar Eisenwulf Eisenrich Eisenslaus
+				Frederich Frederick Filadelph Florent Ferdinand Franjo Francis Filip Philip
+				Gilberht Gilbert Georg George Gottfrid Godfrey Gerolt Gerald Gordon Gelbin
+				Hugo Hugh Hammo Henrich Henry Hudson Harley
+				Isaac
+				Johannes John Jakob Jacob Justin Julian Jerome Jagiel
+				Karles Charles Keifer Kasimir Casimir
+				Lawrenz Lawrence Ludewis Louis Lumen Leonard Leonard Ladislaus
+				Michael Michael Morits Maurice Martin Martin Marklin Miles Maynard Marshall Marko Mark
+				Nicholaus Nicholas Nathan
+				Otto Oliver Orvil Orville
+				Paul Peter Preston Payton
+				Rostwin Rohardt Roger Raymund Richardt Richard Rainalt Ronald Rustin
+				Steppen Stephen Sidmund Stahlrich Stahlgar Stanislaus
+				Thomm Thomas Theodor Theodore Todrich
+				Vincentz Vincent Viktor Victor Virgil Velibor
+				Willelm William Weyland Wayne Walther Walter Woodward Wilbur Wernher Werner Woitke
+				Zachary Zwentibold
 			}
 
 			female_names = {
-				Adela_Adele Annelise Angelica Ann_Anne Amanda Antonia_Antonia Aurora_Aurora Alyssa Adina Aleksandra_Alexandra
+				Adela Adele Annelise Angelica Ann Anne Amanda Antonia Aurora Alyssa Adina Aleksandra Alexandra
 				Brunhilde Belaire
-				Corvette Courtney Chelsea Celia_Cecilia Cheryl
-				Daniela_Danielle Dawn Diane_Diana Deborah Dominika
-				Eleanor Erica Emma Ellen Eisenhilda Eisentrude Ester_Esther
-				Grimhilt Gladys Gabriella_Gabriele Georgeanna Gertrude
-				Hailey Helene_Helen Heather Hedwig
-				Isebella_Isabelle Idebelle Ivanna
-				Kathryn_Catherine Kristina_Christina Katerina_Catherine
-				Jennifer Julia_Julia Josefina_Josephine Jessa Janette
+				Corvette Courtney Chelsea Celia Cecilia Cheryl
+				Daniela Danielle Dawn Diane Diana Deborah Dominika
+				Eleanor Erica Emma Ellen Eisenhilda Eisentrude Ester Esther
+				Grimhilt Gladys Gabriella Gabriele Georgeanna Gertrude
+				Hailey Helene Helen Heather Hedwig
+				Isebella Isabelle Idebelle Ivanna
+				Kathryn Catherine Kristina Christina Katerina Catherine
+				Jennifer Julia Josefina Josephine Jessa Janette
 				Lorelei Lenore
-				Mary_Mary Martha Margaret_Margaret Melissa Michelle Maxine
-				Nichole_Nicole Nannis Natalie
+				Mary Martha Margaret Melissa Michelle Maxine
+				Nichole Nicole Nannis Natalie
 				Paula
-				Rosa_Rose Rachel Rebecca_Rebecca Rita Regina Roxy_Roxanne
-				Sara_Sarah Susan_Susan Steffi_Stephanie Stahlhilda Sofia_Sophia
+				Rosa Rose Rachel RebeccaRita Regina Roxy Roxanne
+				Sara Sarah Susan Steffi Stephanie Stahlhilda Sofia Sophia
 				Todhilda Tamara
-				Violet Virginia Viktoria_Victoria
+				Violet Virginia Viktoria Victoria
+				Willa
+				Yvette
+			}
+		}
+		rostmann = { #Rostmann formable culture 
+			male_names = {
+				Abraham Adalbert Albert Armstrong Alfraed Alfred Amalrick Amalric Adalfuns Alphonse Adam Adam Aripert Anthony Anthony Adalrost Aleksandar Alexander
+				Berick Benjamin Benjamin Burrill Bentley Benzene Bessemer Boris
+				Christian Christoph Christohper Casimir
+				Daniel David Dean Dodge Dexter Durant Dorrich Dominik Dominic
+				Erik Eric Etzel Eurich Edward Edward Edmund Eugene Erwin Elwood Edgar Eisenwulf Eisenrich Eisenslaus
+				Frederich Frederick Filadelph Florent Ferdinand Franjo Francis Filip Philip
+				Gilberht Gilbert Georg George Gottfrid Godfrey Gerolt Gerald Gordon Gelbin
+				Hugo Hugh Hammo Henrich Henry Hudson Harley
+				Isaac
+				Johannes John Jakob Jacob Justin Julian Jerome Jagiel
+				Karles Charles Keifer Kasimir Casimir
+				Lawrenz Lawrence Ludewis Louis Lumen Leonard Leonard Ladislaus
+				Michael Michael Morits Maurice Martin Martin Marklin Miles Maynard Marshall Marko Mark
+				Nicholaus Nicholas Nathan
+				Otto Oliver Orvil Orville
+				Paul Peter Preston Payton
+				Rostwin Rohardt Roger Raymund Richardt Richard Rainalt Ronald Rustin
+				Steppen Stephen Sidmund Stahlrich Stahlgar Stanislaus
+				Thomm Thomas Theodor Theodore Todrich
+				Vincentz Vincent Viktor Victor Virgil Velibor
+				Willelm William Weyland Wayne Walther Walter Woodward Wilbur Wernher Werner Woitke
+				Zachary Zwentibold
+			}
+
+			female_names = {
+				Adela Adele Annelise Angelica Ann Anne Amanda Antonia Aurora Alyssa Adina Aleksandra Alexandra
+				Brunhilde Belaire
+				Corvette Courtney Chelsea Celia Cecilia Cheryl
+				Daniela Danielle Dawn Diane Diana Deborah Dominika
+				Eleanor Erica Emma Ellen Eisenhilda Eisentrude Ester Esther
+				Grimhilt Gladys Gabriella Gabriele Georgeanna Gertrude
+				Hailey Helene Helen Heather Hedwig
+				Isebella Isabelle Idebelle Ivanna
+				Kathryn Catherine Kristina Christina Katerina Catherine
+				Jennifer Julia Josefina Josephine Jessa Janette
+				Lorelei Lenore
+				Mary Martha Margaret Melissa Michelle Maxine
+				Nichole Nicole Nannis Natalie
+				Paula
+				Rosa Rose Rachel RebeccaRita Regina Roxy Roxanne
+				Sara Sarah Susan Steffi Stephanie Stahlhilda Sofia Sophia
+				Todhilda Tamara
+				Violet Virginia Viktoria Victoria
 				Willa
 				Yvette
 			}

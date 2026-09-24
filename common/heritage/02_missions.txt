@@ -54,3 +54,17 @@ powhatan_heritage = {
        always = no
     }
 }
+rostmann_heritage = {
+   	modifier = {
+        #good
+        heavy_infantry_offensive = 0.10
+        global_pop_assimilation_speed_modifier = 0.10
+
+       #bad
+        build_cost = 0.10
+   }
+
+   trigger = {
+       always = no
+    }
+}

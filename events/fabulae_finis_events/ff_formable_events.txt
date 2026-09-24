@@ -253,3 +253,47 @@ ff_formable_event.5 = { #Cahokia formable event
 		#add_stability = 10
 	}
 }
+
+ff_formable_event.6 = { # Rostmann Culture Event
+	type = country_event
+	title = ff_formable_event_6_title
+    desc = ff_formable_event_6_desc
+    picture = Event_roman_triumph
+
+    option = {
+    	name = ff_formable_event_6.a
+    	custom_tooltip = steel_belt_assimilation_effect_tt
+		set_country_heritage = rostmann_heritage
+		hidden_effect = {
+			every_owned_province = {
+				every_pops_in_province = {
+					limit = {
+						OR = {
+							pop_culture = yinzic
+							pop_culture = chicagoan
+							pop_culture = motowner
+							pop_culture = buckeye
+							pop_culture = hoosier
+							pop_culture = gatewayan
+							pop_culture = butternutter
+						}
+					}
+					random_list = {
+						85 = { }
+						10 = { set_pop_culture = rostmann }
+					}
+				}
+			}
+		}
+		set_primary_culture_cleanup_effect = {
+	  		NEW_PRIMARY_CULTURE = rostmann
+  			MAKE_OLD_CULTURE_INTEGRATED = yes
+		}
+    }
+
+    option = {
+    	name = ff_formable_event_6.b
+    	custom_tooltip = dont_change_culture_group_tt
+		add_stability = 10
+    }
+}

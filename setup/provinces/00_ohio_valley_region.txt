@@ -149,6 +149,11 @@
 		amount=2
 	}
 	freemen={
+		culture="rostmann"
+		religion="promethean"
+		amount=2
+	}
+	freemen={
 		amount=4
 	}
 	freemen={

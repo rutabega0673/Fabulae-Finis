@@ -1,0 +1,176 @@
+﻿country_decisions = {
+	
+	# Form Steel Belt
+	form_steel_belt = {
+		
+		potential = {
+			NOT = { has_variable = formed_steel_belt }
+			num_of_cities >= 1
+			NOT = {
+				tag = SL1
+			}
+			OR = {
+				country_culture_group = lakelander
+				primary_culture = wisconsindeutsch
+				primary_culture = hollander
+				primary_culture = michiganais
+				primary_culture = hermanndeutsch
+				primary_culture = butternutter
+				primary_culture = potowatomi
+				primary_culture = gatewayan
+			}
+		}
+		
+		highlight = {
+			scope:province = {
+				OR = {
+					province_id = 1125
+					province_id = 2513
+					province_id = 7317
+					province_id = 8806
+					province_id = 4206
+					province_id = 6431
+					province_id = 4682
+					province_id = 4048
+					province_id = 9204
+					province_id = 6035
+					province_id = 432
+					province_id = 7749
+					province_id = 2233
+					province_id = 3762
+					province_id = 3349
+					province_id = 416
+					province_id = 4276
+					province_id = 5310
+					province_id = 9549
+					province_id = 6585
+					province_id = 1522
+					province_id = 5272
+					province_id = 7498
+					province_id = 5271
+					province_id = 3464
+					province_id = 2005
+					province_id = 9035
+					province_id = 3773
+					province_id = 8592
+					province_id = 8952
+					province_id = 5991
+					province_id = 962
+					province_id = 571
+					province_id = 8743
+					province_id = 4299
+				}
+			}
+		}
+		
+		allow = {
+			custom_tooltip = {
+				text = formable_not_steel_belt_exists
+				NOT = {
+					any_country = {
+						tag = SL1
+					}
+				}
+			}
+			owns_or_subject_owns = 1125
+			owns_or_subject_owns = 2513
+			owns_or_subject_owns = 7317
+			owns_or_subject_owns = 8806
+			owns_or_subject_owns = 4206
+			owns_or_subject_owns = 6431
+			owns_or_subject_owns = 4682
+			owns_or_subject_owns = 4048
+			owns_or_subject_owns = 9204
+			owns_or_subject_owns = 6035
+			owns_or_subject_owns = 432
+			owns_or_subject_owns = 7749
+			owns_or_subject_owns = 2233
+			owns_or_subject_owns = 3762
+			owns_or_subject_owns = 3349
+			owns_or_subject_owns = 416
+			owns_or_subject_owns = 4276
+			owns_or_subject_owns = 5310
+			owns_or_subject_owns = 9549
+			owns_or_subject_owns = 6585
+			owns_or_subject_owns = 1522
+			owns_or_subject_owns = 5272
+			owns_or_subject_owns = 7498
+			owns_or_subject_owns = 5271
+			owns_or_subject_owns = 3464
+			owns_or_subject_owns = 2005
+			owns_or_subject_owns = 9035
+			owns_or_subject_owns = 3773
+			owns_or_subject_owns = 8592
+			owns_or_subject_owns = 8952
+			owns_or_subject_owns = 5991
+			owns_or_subject_owns = 962
+			owns_or_subject_owns = 571
+			owns_or_subject_owns = 8743
+			owns_or_subject_owns = 4299
+		}
+		
+		
+		effect = {
+			custom_tooltip = "tier_3_formable_tooltip"
+			change_country_name = "STEELBELT_NAME"
+			#if = { limit = { is_tribal = yes} change_government = imperium tribal_formable_government_change_effect = yes }
+			if = { limit = { is_republic = yes } change_government = grand_republic switch_government_type_event_clearup_effect = yes }
+			else_if = { limit = { is_monarchy = yes } change_government = imperium switch_government_type_event_clearup_effect = yes }
+			monarchy_republic_into_imperium_formable_effect = yes
+			set_capital = 7317
+			p:7317 = {
+				capital_formable_large_effect = yes
+				formable_capital_modifier_large_effect = yes
+			}
+			add_country_modifier = {
+				name = formable_country_huge_modifier
+				duration = 7600
+			}
+			custom_tooltip = "steelbelt_claims_tt"
+			if = {
+				limit = { country_culture_group = deutschamerikaner }
+				custom_tooltip = "steelbelt_rostmann_culture_tt"
+			}
+			current_ruler = {
+				add_trait = founder
+				add_finesse=4
+				add_nickname = "NICKNAME_CAPTAIN_OF_INDUSTRY"
+			}
+			if = {
+				limit = { is_tribal = yes }
+				add_country_modifier = {
+					name = civilized_tribe
+					duration = 5475
+				}
+			}
+			add_5_free_province_investments = yes
+			if = {
+				limit = { country_culture_group = deutschamerikaner }
+				trigger_event = { id = ff_formable_event.6 }
+			}
+			hidden_effect = {
+				set_variable = formed_steel_belt
+				change_country_color = "steel_belt_color"
+				change_country_adjective = "STEELBELT_ADJECTIVE"
+				change_country_flag = STEELBELT_FLAG
+				change_country_tag = SL1
+			}
+			hidden_effect = {
+				region:michigan_region = { formable_region_province_effect = yes }
+				region:chicagoland_region = { formable_region_province_effect = yes }
+				region:illinois_region = { formable_region_province_effect = yes }
+				region:ohio_valley_region = { formable_region_province_effect = yes }
+				region:alleghenia_region = { formable_region_province_effect = yes }
+				area:buffalo_area = { formable_area_province_effect = yes }
+				area:saint_louis_area = { formable_area_province_effect = yes }
+				#area:milwaukee_area = { formable_area_province_effect = yes }
+			}
+		}
+		
+		ai_will_do = {
+			base = 1
+		}
+	}
+
+} 
+

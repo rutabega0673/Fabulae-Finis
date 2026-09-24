@@ -142,6 +142,17 @@
  OLD_SOUTH_NAME:0 "Old South"
  OLD_SOUTH_ADJECTIVE:0 "Old Southern"
  form_southern_empire_claims_tooltip:0 "#Y Old South#! will get claims on the regions of #Y Old Dominion#!, #Y Tarheel#!, and #Y Palmetto#!."
+
+ form_steel_belt:0 "Form the Steel Belt" 
+ form_steel_belt_desc:0 "Once the industrial and manufacturing capital of the old world, the Steel Belt's venerable cities fell into decay, as Industry abandoned the cities of brick and iron. Now we stand in the shadows of giants, their rusting carcasses still visible, if one knows where to look. With the guiding hand of Industry, the Rust Belt can be reforged, and a new age of Steel can begin."
+ NICKNAME_CAPTAIN_OF_INDUSTRY:0 " 'the Captain of Industry' "
+ formable_not_steel_belt_exists:0 "#Y Steel Belt#! does not exist."
+ STEELBELT_NAME:0 "Steelbelt"
+ STEELBELT_ADJECTIVE:0 "Steelbelter"
+ steelbelt_claims_tt:0 "#Y Steelbelt#! will gain claims on the regions of #Y Chicagoland#!, #Y Michigan#!, #Y Greater Reserve#!, #Y Alleghenia#!, #Y Ohio Valley#!, and on the provinces of #Y Gateway#!, #Y Buffalo#!, and #Y Milwaukee#!."  
+ steelbelt_rostmann_culture_tt:0 "On account of our #Y Deutschamerikaner#! heritage, we will have the option to adopt a new culture."
+ rostmann_heritage:0 "Rostmann Heritage"
+ rostmann_heritage_desc:0 "A synthesis of the Deutshcamerikaner and Steelfolk peoples, the Rostmann are proud of their heritage, calling upon the pre-rusted days of yore, when their ancestors lived in the splendid metroplises of old. They are now intent on restoring this vanished world, if Industry blesses them."
  
 
  ## Formable Events ##
@@ -163,4 +174,10 @@
  twainist_columbia_tt:0 "We will take on the task of restoring #Y America#!."
  ff_formable_event_3.a:0 "The age of America has passed."
  ff_formable_event_3.b:0 "The age of America has passed, but Columbia's time has just begun!"
+
+ ff_formable_event_6_title:0 "Emergence of the Rostmann Culture"
+ ff_formable_event_6_desc:0 "Stories tell of the prevalence of our ancestors among the peoples of the Steel Belt. Indeed, this is true, due to many shared customs and traditions. Although it seems our cousins forked apart from us, a new culture is emerging, formed from [GetCultureGroup('deutschamerikaner').GetName|Y] and [GetCultureGroup('lakelander').GetName|Y], blending elements of our language and culture with theirs. Perhaps we should fan the fires of this new movement, proclaiming [GetCulture('rostmann').GetName] to be the new imperial culture of [ROOT.GetCountry.GetName]!"
+ ff_formable_event_6.a:0 "Like the Rust turned into Steel, so shall our two peoples be forged together."
+ ff_formable_event_6.b:0 "It seems better to keep our old ways."
+ steel_belt_assimilation_effect_tt:0 "Up to #Y 15%#! of our pops in the #E Steelfolk#! culture group, along with the #Y Gatewayan#!, and #Y Butternutter#! cultures will be #E assimilated#! into our new #E Rostmann#! culture."
  ## Extra ##

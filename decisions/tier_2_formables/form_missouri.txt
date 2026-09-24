@@ -7,7 +7,7 @@
 				country_culture_group = midwestern
 				country_culture_group = upland
 				primary_culture = paw_paw
-				country_culture_group = deutschamerikaner
+				primary_culture = hermanndeutsch
 				country_culture_group = bosniak
 				capital_scope = {
 					is_in_region = missouri_region
