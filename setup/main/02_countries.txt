@@ -3561,7 +3561,7 @@ country = {
 		}
 		PRS = { # Presque Isle
 			government = tribal_kingdom
-			primary_culture = nouvelle_angleterrais
+			primary_culture = brayon
 			religion = ursuline
 			capital = 2227
 
@@ -3578,7 +3578,7 @@ country = {
 		}
 		HOL = { # Holton
 			government = tribal_federation
-			primary_culture = wolastoqiyik
+			primary_culture = passamaquoddy
 			religion = ursuline
 			capital = 2041
 
@@ -3595,7 +3595,7 @@ country = {
 		}
 		PNB = { # Penobscot
 			government = tribal_federation
-			primary_culture = penobscot
+			primary_culture = passamaquoddy
 			religion = gothic
 			capital = 9569
 

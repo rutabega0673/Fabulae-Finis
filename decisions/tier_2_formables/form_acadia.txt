@@ -1,0 +1,89 @@
+﻿country_decisions = {
+	form_acadia = {
+		
+		potential = {
+			num_of_cities >= 1
+			OR = {
+				primary_culture = acadien
+				primary_culture = chiac
+				primary_culture = brayon
+			}
+			NOR = {
+					tag = AC1
+					is_tier_2_formable_trigger = yes
+					is_endgame_tag_trigger = yes
+				}
+			}
+		
+		highlight = {
+			scope:province = {
+				OR = {
+					province_id = 2421
+					province_id = 845
+					province_id = 943
+					province_id = 7368
+					province_id = 2761
+					province_id = 6451
+					province_id = 1720
+					province_id = 1128
+					province_id = 3703
+					province_id = 2133
+					province_id = 1147
+					province_id = 674
+				}
+			}
+		}
+		
+		allow = {
+			custom_tooltip = {
+				text = acadia_does_not_exist
+				NOT = {
+					any_country = {
+						tag = AC1
+					}
+				}
+			}
+			can_form_nation_trigger = yes
+			owns_or_subject_owns = 2421
+			owns_or_subject_owns = 845
+			owns_or_subject_owns = 943
+			owns_or_subject_owns = 7368
+			owns_or_subject_owns = 2761
+			owns_or_subject_owns = 6451
+			owns_or_subject_owns = 1720
+			owns_or_subject_owns = 1128
+			owns_or_subject_owns = 3703
+			owns_or_subject_owns = 2133
+			owns_or_subject_owns = 1147
+			owns_or_subject_owns = 674
+		}
+		
+		
+		effect = {
+			custom_tooltip = "tier_2_formable_tooltip"
+			switch_government_type_event_clearup_effect = yes
+			change_country_name = "ACADIA_NAME"
+			hidden_effect = {
+				change_country_adjective = "ACADIA_ADJECTIVE"
+				change_country_color = "acadia_blue"
+				change_country_tag = AC1
+				change_country_flag = ACADIA_FLAG
+			}
+			capital_scope = {
+				capital_formable_medium_effect = yes
+				formable_capital_modifier_normal_effect = yes
+			}
+			custom_tooltip = acadia_claims_tooltip
+			hidden_effect = {
+				region:maritimes_region = { formable_region_province_effect = yes }
+				area:gaspesie_area = { formable_area_province_effect = yes }
+				area:ellsworth_area = { formable_area_province_effect = yes }
+			}
+			add_3_free_province_investments = yes
+		}
+		
+		ai_will_do = {
+			base = 1
+		}
+	}
+}

@@ -52,7 +52,7 @@
 
 49={ #Ashland
 	terrain="hills"
-	culture="nouvelle_angleterrais"
+	culture="brayon"
 	religion="ursuline"
 	trade_goods="maple"
 	civilization_value=10
@@ -65,7 +65,7 @@
 
 50={ #Presque Isle
 	terrain="forest"
-	culture="nouvelle_angleterrais"
+	culture="brayon"
 	religion="ursuline"
 	trade_goods="limestone"
 	civilization_value=10
@@ -208,27 +208,39 @@
 
 1406={ #Farmington
 	terrain="hills"
-	culture="nouvelle_angleterrais"
+	culture="vermonter"
 	religion="gothic"
 	trade_goods="vegetables"
-	civilization_value=10
+	civilization_value=5
 	barbarian_power=0
 	province_rank="settlement"
-	tribesmen={
+	freemen={
+		culture="nouvelle_angleterrais"
 		amount=1
+	}
+	tribesmen={
+		culture="nouvelle_angleterrais"
+		amount=2
+	}
+	tribesmen={
+		amount=4
 	}
 }
 
 1407={ #Rangeley
 	terrain="hills"
-	culture="vermonter"
+	culture="nouvelle_angleterrais"
 	religion="gothic"
 	trade_goods="fur"
-	civilization_value=10
+	civilization_value=5
 	barbarian_power=0
 	province_rank="settlement"
 	tribesmen={
-		amount=1
+		culture="vermonter"
+		amount=2
+	}
+	tribesmen={
+		amount=4
 	}
 }
 
@@ -237,11 +249,15 @@
 	culture="vermonter"
 	religion="gothic"
 	trade_goods="maple"
-	civilization_value=10
+	civilization_value=5
 	barbarian_power=0
 	province_rank="settlement"
 	tribesmen={
-		amount=1
+		culture="nouvelle_angleterrais"
+		amount=2
+	}
+	tribesmen={
+		amount=4
 	}
 }
 
@@ -289,17 +305,24 @@
 	culture="bayfolk"
 	religion="gothic"
 	trade_goods="wood"
-	civilization_value=10
+	civilization_value=12
 	barbarian_power=0
 	province_rank="settlement"
+	freemen={
+		amount=2
+	}
 	tribesmen={
+		amount=2
+	}
+	tribesmen={
+		culture="nouvelle_angleterrais"
 		amount=1
 	}
 }
 
 2040={ #Patten
 	terrain="hills"
-	culture="nouvelle_angleterrais"
+	culture="brayon"
 	religion="gothic"
 	trade_goods="wood"
 	civilization_value=10
@@ -419,11 +442,18 @@
 	culture="vermonter"
 	religion="gothic"
 	trade_goods="tubers"
-	civilization_value=10
+	civilization_value=14
 	barbarian_power=0
 	province_rank="settlement"
 	tribesmen={
-		amount=1
+		culture="nouvelle_angleterrais"
+		amount=3
+	}
+	tribesmen={
+		amount=4
+	}
+	slaves={
+		amount=2
 	}
 }
 
@@ -432,11 +462,15 @@
 	culture="bayfolk"
 	religion="gothic"
 	trade_goods="precious_metals"
-	civilization_value=10
+	civilization_value=12
 	barbarian_power=0
 	province_rank="settlement"
 	tribesmen={
-		amount=1
+		culture="nouvelle_angleterrais"
+		amount=2
+	}
+	tribesmen={
+		amount=4
 	}
 }
 
@@ -445,11 +479,15 @@
 	culture="vermonter"
 	religion="gothic"
 	trade_goods="leather"
-	civilization_value=10
+	civilization_value=13
 	barbarian_power=0
 	province_rank="settlement"
 	tribesmen={
-		amount=1
+		culture="nouvelle_angleterrais"
+		amount=2
+	}
+	tribesmen={
+		amount=4
 	}
 }
 
@@ -796,11 +834,25 @@
 	culture="bayfolk"
 	religion="gothic"
 	trade_goods="wine"
-	civilization_value=10
+	civilization_value=20
 	barbarian_power=0
 	province_rank="settlement"
+	citizen={
+		religion="americanist"
+		amount=2
+	}
+	freemen={
+		amount=4
+	}
+	freemen={
+		religion="americanist"
+		amount=2
+	}
+	slaves={
+		amount=4
+	}
 	tribesmen={
-		amount=1
+		amount=2
 	}
 }
 
@@ -809,11 +861,22 @@
 	culture="bayfolk"
 	religion="gothic"
 	trade_goods="glass"
-	civilization_value=10
+	civilization_value=22
 	barbarian_power=0
 	province_rank="settlement"
+	citizen={
+		religion="americanist"
+		amount=2
+	}
+	freemen={
+		religion="americanist"
+		amount=2
+	}
+	slaves={
+		amount=4
+	}
 	tribesmen={
-		amount=1
+		amount=2
 	}
 }
 
@@ -848,11 +911,14 @@
 	culture="bayfolk"
 	religion="gothic"
 	trade_goods="fish"
-	civilization_value=10
+	civilization_value=15
 	barbarian_power=0
 	province_rank="settlement"
+	freemen={
+		amount=2
+	}
 	tribesmen={
-		amount=1
+		amount=4
 	}
 }
 
@@ -861,11 +927,18 @@
 	culture="bayfolk"
 	religion="gothic"
 	trade_goods="fruits"
-	civilization_value=10
+	civilization_value=15
 	barbarian_power=0
 	province_rank="settlement"
+	citizen={
+		amount=2
+	}
+	freemen={
+		religion="americanist"
+		amount=2
+	}
 	tribesmen={
-		amount=1
+		amount=6
 	}
 }
 
@@ -873,12 +946,26 @@
 	terrain="farmland"
 	culture="bayfolk"
 	religion="gothic"
-	trade_goods="fish"
-	civilization_value=10
+	trade_goods="glass"
+	civilization_value=21
 	barbarian_power=0
-	province_rank="settlement"
+	province_rank="city"
+	nobles={
+		religion="americanist"
+		amount=2
+	}
+	freemen={
+		amount=4
+	}
+	slaves={
+		amount=2
+		religion="gothic"
+	}
+	slaves={
+		amount=2
+	}
 	tribesmen={
-		amount=1
+		amount=5
 	}
 }
 
@@ -887,11 +974,19 @@
 	culture="bayfolk"
 	religion="gothic"
 	trade_goods="fish"
-	civilization_value=10
+	civilization_value=19
 	barbarian_power=0
 	province_rank="settlement"
+	citizen={
+		religion="conclavian"
+		amount=2
+	}
+	freemen={
+		religion="americanist"
+		amount=2
+	}
 	tribesmen={
-		amount=1
+		amount=6
 	}
 }
 
@@ -1178,10 +1273,17 @@
 	culture="bayfolk"
 	religion="gothic"
 	trade_goods="fish"
-	civilization_value=10
+	civilization_value=11
 	barbarian_power=0
 	province_rank="settlement"
+	freemen={
+		amount=2
+	}
 	tribesmen={
+		amount=2
+	}
+	tribesmen={
+		culture="nouvelle_angleterrais"
 		amount=1
 	}
 }

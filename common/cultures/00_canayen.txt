@@ -3278,6 +3278,285 @@
 				Voyer
 			}
 		}
+		brayon = { #Francophones in Madawaska county, NB, and northern Maine
+			male_names = {
+				Abel Ad_e_act_lard Alb_e_act_ric Albert Alcide Ald_e_act_ric Alden Alexandre Alexis Alfred Alph_e_act_e Alphonse Amable Amand Ambroise Am_e_act_d_e_act_e Andr_e_act_ Annibal Anselm Antoine Antonin Archange Arthur Aubin-Edmond Augustin Augustule Azor
+				Baptiste Barth_e_act_lemy Baudouin Benjamin Beno_i_hat_t Benoni Bernard Bertrand Boh_e_act_mond
+				Calixte Camille Castin Charles C_e_act_drick Claude Cl_e_act_ment Cl_e_act_ophas Clive Clovis Cyprien Cyril
+				Dagobert Damase Daniel David Denis Dominic Donald Donatien
+				Edm_e_act_ Edmond E_act_douard Elvy E_act_mery E_act_mile E_act_ric E_act_tienne Elz_e_act_ar Euclide Eudore Eug_e_grv_ne Eustache Eymard
+				F_e_act_lix Fabien Fernand Firmin Fortunat Fr_e_act_d_e_act_ric Fran_c_ced_ois Fran_c_ced_ois-Xavier Fulgence
+				Ga_e_uml_l Gabriel Gaspard Gaurhept G_e_act_d_e_act_on Georges G_e_act_rald G_e_act_rard Germain Gervais Gilbert Gildard Gilles Godefroi Gontran Gr_e_act_goire Guilmond
+				Hector H_e_act_dard H_e_act_liodore Henry Hercule Heribert Hermel Herm_e_act_n_e_act_gilde Hidulphe Hilaire Hippolyte Honor_e_act_ Horace Hubert
+				Ignace Ir_e_act_n_e_act_e Isa_i_uml_e Isidore
+				J_e_act_r_e_act_mie Jacques Jean Jean-Alfred Jean-Baptiste Jean-Claude Jean-Eudes Jean-Fran_c_ced_ois Jean-Guy Jean-Louis Jean-Marc Jean-Marie Jean-Paul Jean-Pierre Jean-Robert Jean-Vallier Joseph Joseph-Antoine Joseph-Aur_e_grv_le Joseph-Marie Joseph-Nicolas Joseph-Octave
+				Ladislas Laurent L_e_act_o L_e_act_onard L_e_act_onide L_e_act_opold L_e_act_vite Louis Louis-Hippolyte Louis-Joseph Louis-Philippe Louis-Prudent Lucien
+				Macaire Majorique Marc Marcel Martin Mathieu Mathurin Maurice Maxime Maximin M_e_act_dard Mervin Michel Michel-Ange Modeste
+				Napol_e_act_on Narcisse Nathana_e_uml_l Nazaire Neil Nicolas No_e_uml_l Norbert Norman
+				Octave Odilon Olivier Omer Onil Ozias
+				Pascal Patrice Paul Paul-E_act_mile P_e_act_pin Philias Philibert Philippe Pierre Pierre-Amand Pierre-Philippe Pius Prosper
+				R_e_act_nald Rapha_e_uml_l Raymond R_e_act_mi Ren_e_act_ R_e_act_ginald R_e_act_gis R_e_act_jean Raoul Rh_e_act_al Richard Robert Roberval Roch Rodolphe Rodrigue Roger Roland Rom_e_act_o Rom_e_act_o-Adrien Romuald Ronald Rosaire
+				S_e_act_bastien S_e_act_verin Samuel Saturnin Serge Sifroid Simon Simon-Pierre St_e_act_phane Sylvain
+				Tancr_e_grv_de T_e_act_l_e_act_maque T_e_act_lesphore Thadd_e_act_e Th_e_act_odore Th_e_act_odule Th_e_act_ophile Th_e_act_otime Thadd_e_act_e Thomas Toussaint Tranquille Treffl_e_act_
+				Ubald Ulric Ulysse Urbain Urgel
+				Valentin Valmont Vernon Victor Victorien Vital
+				Walter Wilfrid William
+				Xavier
+				Yannick Yvon
+				Z_e_act_phyrin Zacharie Zo_e_uml_l
+			}
+			female_names = {
+				Acadie Ad_e_act_la_i_uml_de Ad_e_grv_le Agn_e_grv_s Alice Ald_e_act_a Ald_e_act_oda Alma Anabelle Andrea Ang_e_act_lique Ang_e_grv_le Anne Anne-Marie Anne-Ren_e_act_e Anne-Sophie Antoinette Antonine Arth_e_act_mise Az_e_act_lie
+				B_e_act_atrix Basilisse Bernadette Blanche Brigitte
+				C_e_act_leste Catherine C_e_act_line Charlotte Christianne Christine Cl_e_act_mence Claire Claudette Claudine Clotilde Constance Corinne
+				Denise Diane Dominique Domitilde
+				Edesse Edm_e_act_e E_act_dith Elaine E_act_l_e_act_onore E_act_lisabeth E_act_milie E_act_milienne Elmire Ernestine Esther Eug_e_act_nie Eulalie Euph_e_act_mie Euphrosie Evangeline Ev_e_act_e Ex_e_act_line
+				F_e_act_bronie F_e_act_licit_e_act_ Flavie Flore Florence France Fran_c_ced_oise
+				Gabrielle Genevi_e_grv_ve Germaine Gertrude Ginette Gis_e_grv_le Glorieuse Gracia
+				Hedwige H_e_act_l_e_grv_ne H_e_act_lo_i_uml_se Hermine
+				Ir_e_grv_ne Isabelle
+				Jeanne Jeanne-d_pst_Arc Jeannine Jeannette Jos_e_act_phine Josianne Jovette Judith Julie Julienne Juliette Justine
+				L_e_act_a L_e_act_da L_e_act_ocadie L_e_act_ona L_e_act_ontine L_e_act_opoldine Laurette Lor_e_act_ne Lorette Louise Lucie Lyse
+				Madeleine Manon Marcelle Marcelline Maude Marguerite Marie Marie-Ang_e_act_lique Marie-Anne Marie-Claire Marie-Claude Marie-Christine Marie-Colombe Marie-Fran_c_ced_oise Marie-Genevi_e_grv_ve Marie-Jeanne Marie-Jos_e_act_e Marie-Louise Marie-Marthe Marthe Martine Mathilde Michelle Millicent Moire Monique
+				Natasha Nathalie No_e_uml_lle Normande
+				Ob_e_act_line Octavie Odette Olive Olympe Or_e_act_lie Osithe
+				P_e_act_lagie P_e_act_tronille Patricia Pauline Perp_e_act_tue Philom_e_act_ne Phoebe Pierrette Priscille
+				R_e_act_jeanne Radegonde Ren_e_act_e Rosalie Rose
+				S_e_act_raphine S_e_act_verine Scholastique Sidonie Simone Solange Sonia Sophie St_e_act_phanie Suzanne Sylvie
+				Tharzile Th_e_act_odora Th_e_act_odose Th_e_act_otiste Th_e_act_r_e_grv_se Th_e_grv_cle
+				Ursule
+				V_e_act_n_e_act_rande V_e_act_ra V_e_act_rane V_e_act_ronique Val_e_act_rie Victoire Vincianne Viola Virginie
+				Yolande Yvette Yvonne
+				Zo_e_act_
+			}
+			family = {
+				Amirault
+				Anglehart
+				Arbeau
+				Arsenault
+				Aucoin
+				Audet
+				Babineau
+				Baccardax
+				Barrieau
+				Bartibogue
+				Basque
+				Bastarache
+				Beaubrun
+				Beaulieu
+				Beausoleil
+				Bellefleur
+				Belliveau
+				Belzile
+				Bertin
+				Bezeau
+				Blais
+				Blanchard
+				Blanchette
+				Boisclaire
+				Bonenfant
+				Bordage
+				Boss_e_act_
+				Boucher
+				Boudroit
+				Bourdon
+				Bourque
+				Bourgeois
+				Boutilier
+				Boutot
+				Breau
+				Brideau
+				Bujold
+				Buote
+				C_o_hat_t_e_act_
+				Caissie
+				Catalogne
+				Cayouette
+				Chaussegros
+				Chiasson
+				Clavette
+				Comeau
+				Collette
+				Corbin
+				Cormier
+				Corriveau
+				Coulombe
+				Couturier
+				Cyr
+				D_pst_Amours
+				D_pst_Entremont
+				Daigle
+				Dancause
+				Decelles
+				Degr_a_hat_ce
+				Delagarde
+				Demerchant
+				Desch_e_hat_nes
+				Desjardins
+				Despres
+				Desroches
+				Devost
+				Diotte
+				Doiron
+				Donelle
+				Doucette
+				Drapeau
+				Drisdelle
+				Dub_e_act_
+				Ducas
+				Duclos
+				Duguay
+				Dumaresque
+				Dup_e_act_r_e_act_
+				Dupr_e_act_e
+				Durelle
+				Durepos
+				Durette
+				Duverg_e_act_
+				Fallu
+				Ferron
+				Fongemie
+				Fontaine
+				Foug_e_grv_re
+				Fournier
+				Fr_e_act_chet
+				Francoeur
+				Frenette
+				Frigault
+				Friolet
+				Furlotte
+				Furneaux
+				Gagn_e_act_
+				Gallant
+				Gaudet
+				Gautreau
+				Gauvin
+				Geneau
+				Giboire
+				Girouard
+				Godin
+				Goguen
+				Goupil
+				Grivois
+				Grondin
+				Gu_e_act_rette
+				Guay
+				Guedry
+				Guignard
+				Guit_e_act_
+				Guitard
+				Hach_e_act_
+				Harang
+				Harbec
+				H_e_act_bert
+				Hertel
+				Huard
+				Jaillet
+				Jeanson
+				L_e_act_ger
+				L_e_act_vesque
+				L_pst_Italien
+				Labrie
+				Laforest
+				Laforge
+				Lagac_e_act_
+				Landry
+				Langlais
+				Lanteigne
+				Lapierre
+				Laplante
+				Larocque
+				Lavigne
+				Laviolette
+				Lavoie
+				LeBlanc
+				LeBlond
+				Lebouthillier
+				Lebreton
+				Leclair
+				Legresley
+				Lejeune
+				LeLoutre
+				Letourneau
+				Lirette
+				Lordon
+				Losier
+				Lovely
+				Madore
+				Maillet
+				Malenfant
+				Mallais
+				Maltais
+				Marmen
+				Mazerolle
+				Melanson
+				Mercier
+				Mercure
+				Mersereau
+				Michaud
+				Michon
+				Migneault
+				Milliard
+				Mombourquette
+				Montreuil
+				Morais
+				Morency
+				Morneault
+				Mourant
+				Nadeau
+				Ouellette
+				Pitre
+				Paulin
+				Pellerin
+				Petitpas
+				Picot
+				Plourde
+				Poirier
+				Poitras
+				Pothier
+				Pottier
+				Quimpere
+				Ra_i_hat_che
+				Ringuette
+				Rioux
+				Roberge
+				Robichaud
+				Robidoux
+				Rossignol
+				Rouleau
+				Roussel
+				Roy
+				Ruest
+				Saulnier
+				Savoie
+				Serr_e_act_
+				Sirois
+				Sivret
+				Soucie
+				St-Amand
+				St-Coeur
+				St-Onge
+				St-Pierre
+				Surette
+				Th_e_act_riault
+				Thibault
+				Thibodeau
+				Tousquet
+				Trahan
+				Turgeon
+				Valcourt
+				Vauquelin
+				Vautour
+				Veilleux
+				Veniot
+				Verret
+				Vicq
+				Vienneau
+				Violette
+				Voisine
+				Voyer
+			}
+		}
 	}
 	
 	barbarian_names = { 

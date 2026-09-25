@@ -1,6 +1,6 @@
 ﻿48={ #Saint L Onard
 	terrain="hills"
-	culture="acadien"
+	culture="brayon"
 	religion="ursuline"
 	trade_goods="stone"
 	civilization_value=10
@@ -949,7 +949,7 @@
 
 7367={ #Edmundston
 	terrain="hills"
-	culture="acadien"
+	culture="brayon"
 	religion="ursuline"
 	trade_goods="wood"
 	civilization_value=10

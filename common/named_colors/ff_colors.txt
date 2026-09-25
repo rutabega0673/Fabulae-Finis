@@ -22,5 +22,6 @@
 	old_south_color = rgb { 227 148 109 }
 	ontario_green = rgb { 19 109 57 }
 	steel_belt_color = rgb { 128 128 128 }
+	acadia_blue = rgb { 49 70 133 }
 }
 

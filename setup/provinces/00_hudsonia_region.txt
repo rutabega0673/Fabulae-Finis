@@ -148,21 +148,20 @@
 	}
 	citizen={
 		culture="youser"
-		amount=3
+		amount=1
 	}
 	citizen={
 		culture="gothamite"
-		amount=3
+		amount=1
 	}
 	citizen={
 		culture="bayfolk"
-		amount=3
+		amount=1
 	}
 	freemen={
-		amount=4
+		amount=2
 	}
 	slaves={
-		culture="vermonter"
 		religion="gothic"
 		amount=3
 	}

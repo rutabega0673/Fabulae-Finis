@@ -153,6 +153,13 @@
  steelbelt_rostmann_culture_tt:0 "On account of our #Y Deutschamerikaner#! heritage, we will have the option to adopt a new culture."
  rostmann_heritage:0 "Rostmann Heritage"
  rostmann_heritage_desc:0 "A synthesis of the Deutshcamerikaner and Steelfolk peoples, the Rostmann are proud of their heritage, calling upon the pre-rusted days of yore, when their ancestors lived in the splendid metroplises of old. They are now intent on restoring this vanished world, if Industry blesses them."
+
+ form_acadia:0 "Unite the Acadiens"
+ form_acadia_desc:0 "Acadie, the rugged land of the Acadiens was populated long ago, and while our people have endured great hardship, such as Le Grand Dérangement, in which many thousands of Acadiens were forced out, with a large number settling in Louisiana. Despite the troubles of the past, the Acadiens have endured."
+ ACADIA_NAME:0 "Acadie"
+ ACADIA_ADJECTIVE:0 "Acadien"
+ acadia_does_not_exist:0 "#Y Acadie#! does not exist."
+ acadia_claims_tooltip:0 "#Y Acadie#! will gain claims on the region of #Y Maritimes#!, and on the provinces of #Y Gaspesie#! and #Y Ellsworth#!.."
  
 
  ## Formable Events ##

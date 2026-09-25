@@ -274,13 +274,14 @@ ff_formable_event.6 = { # Rostmann Culture Event
 							pop_culture = motowner
 							pop_culture = buckeye
 							pop_culture = hoosier
+							pop_culture = michigander
 							pop_culture = gatewayan
 							pop_culture = butternutter
 						}
 					}
 					random_list = {
 						85 = { }
-						10 = { set_pop_culture = rostmann }
+						15 = { set_pop_culture = rostmann }
 					}
 				}
 			}
