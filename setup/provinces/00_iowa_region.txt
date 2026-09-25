@@ -3,11 +3,14 @@
 	culture="heartlander"
 	religion="lutheran"
 	trade_goods="cattle"
-	civilization_value=10
+	civilization_value=18
 	barbarian_power=0
 	province_rank="settlement"
+	freemen={
+		amount=3
+	}
 	tribesmen={
-		amount=1
+		amount=2
 	}
 }
 
@@ -29,11 +32,11 @@
 	culture="heartlander"
 	religion="lutheran"
 	trade_goods="maize"
-	civilization_value=10
+	civilization_value=3
 	barbarian_power=0
 	province_rank="settlement"
 	tribesmen={
-		amount=1
+		amount=5
 	}
 }
 
@@ -68,9 +71,12 @@
 	culture="driftlander"
 	religion="lutheran"
 	trade_goods="maize"
-	civilization_value=10
+	civilization_value=17
 	barbarian_power=0
 	province_rank="settlement"
+	freemen={
+		amount=4
+	}
 	tribesmen={
 		amount=1
 	}
@@ -81,11 +87,17 @@
 	culture="heartlander"
 	religion="lutheran"
 	trade_goods="beer"
-	civilization_value=10
+	civilization_value=19
 	barbarian_power=0
 	province_rank="settlement"
-	tribesmen={
-		amount=1
+	citizen={
+		amount=2
+	}
+	freemen={
+		amount=4
+	}
+	slaves={
+		amount=4
 	}
 }
 
@@ -94,11 +106,17 @@
 	culture="heartlander"
 	religion="lutheran"
 	trade_goods="horses"
-	civilization_value=10
+	civilization_value=20
 	barbarian_power=0
 	province_rank="settlement"
-	tribesmen={
-		amount=1
+	citizen={
+		amount=2
+	}
+	freemen={
+		amount=2
+	}
+	slaves={
+		amount=3
 	}
 }
 
@@ -136,11 +154,17 @@
 	culture="heartlander"
 	religion="lutheran"
 	trade_goods="grain"
-	civilization_value=10
+	civilization_value=19
 	barbarian_power=0
 	province_rank="settlement"
-	tribesmen={
+	citizen={
 		amount=1
+	}
+	freemen={
+		amount=3
+	}
+	slaves={
+		amount=3
 	}
 }
 
@@ -149,9 +173,15 @@
 	culture="heartlander"
 	religion="lutheran"
 	trade_goods="maize"
-	civilization_value=10
+	civilization_value=17
 	barbarian_power=0
 	province_rank="settlement"
+	freemen={
+		amount=1
+	}
+	slaves={
+		amount=3
+	}
 	tribesmen={
 		amount=1
 	}
@@ -162,9 +192,15 @@
 	culture="heartlander"
 	religion="lutheran"
 	trade_goods="grain"
-	civilization_value=10
+	civilization_value=18
 	barbarian_power=0
 	province_rank="settlement"
+	freemen={
+		amount=2
+	}
+	slaves={
+		amount=3
+	}
 	tribesmen={
 		amount=1
 	}
@@ -175,11 +211,14 @@
 	culture="heartlander"
 	religion="lutheran"
 	trade_goods="grain"
-	civilization_value=10
+	civilization_value=20
 	barbarian_power=0
 	province_rank="settlement"
-	tribesmen={
-		amount=1
+	freemen={
+		amount=4
+	}
+	slaves={
+		amount=3
 	}
 }
 
@@ -188,11 +227,17 @@
 	culture="driftlander"
 	religion="lutheran"
 	trade_goods="buffalo"
-	civilization_value=10
+	civilization_value=18
 	barbarian_power=0
 	province_rank="settlement"
-	tribesmen={
-		amount=1
+	citizen={
+		amount=2
+	}
+	freemen={
+		amount=3
+	}
+	slaves={
+		amount=2
 	}
 }
 
@@ -201,11 +246,17 @@
 	culture="heartlander"
 	religion="lutheran"
 	trade_goods="grain"
-	civilization_value=10
+	civilization_value=18
 	barbarian_power=0
 	province_rank="settlement"
-	tribesmen={
-		amount=1
+	citizen={
+		amount=2
+	}
+	freemen={
+		amount=3
+	}
+	slaves={
+		amount=2
 	}
 }
 
@@ -214,11 +265,11 @@
 	culture="heartlander"
 	religion="lutheran"
 	trade_goods="cattle"
-	civilization_value=10
+	civilization_value=15
 	barbarian_power=0
 	province_rank="settlement"
-	tribesmen={
-		amount=1
+	freemen={
+		amount=5
 	}
 }
 
@@ -227,11 +278,14 @@
 	culture="heartlander"
 	religion="lutheran"
 	trade_goods="iron"
-	civilization_value=10
+	civilization_value=19
 	barbarian_power=0
 	province_rank="settlement"
-	tribesmen={
-		amount=1
+	freemen={
+		amount=4
+	}
+	slaves={
+		amount=3
 	}
 }
 
@@ -240,11 +294,14 @@
 	culture="heartlander"
 	religion="lutheran"
 	trade_goods="beer"
-	civilization_value=10
+	civilization_value=17
 	barbarian_power=0
 	province_rank="settlement"
-	tribesmen={
-		amount=1
+	freemen={
+		amount=4
+	}
+	slaves={
+		amount=3
 	}
 }
 
@@ -253,11 +310,14 @@
 	culture="dakota"
 	religion="peyotist"
 	trade_goods="tubers"
-	civilization_value=10
+	civilization_value=16
 	barbarian_power=0
 	province_rank="settlement"
-	tribesmen={
-		amount=1
+	freemen={
+		amount=4
+	}
+	slaves={
+		amount=3
 	}
 }
 
@@ -318,24 +378,34 @@
 	culture="driftlander"
 	religion="twainist"
 	trade_goods="stone"
-	civilization_value=10
+	civilization_value=17
 	barbarian_power=0
 	province_rank="settlement"
-	tribesmen={
-		amount=1
+	freemen={
+		amount=4
+	}
+	slaves={
+		amount=3
 	}
 }
 
 6428={ #Decorah
 	terrain="hills"
 	culture="driftlander"
-	religion="twainist"
+	religion="lutheran"
 	trade_goods="maple"
-	civilization_value=10
+	civilization_value=18
 	barbarian_power=0
 	province_rank="settlement"
+	freemen={
+		amount=2
+	}
+	slaves={
+		amount=2
+	}
 	tribesmen={
-		amount=1
+		religion="twainist"
+		amount=3
 	}
 }
 
@@ -378,11 +448,15 @@
 	culture="heartlander"
 	religion="lutheran"
 	trade_goods="cattle"
-	civilization_value=10
+	civilization_value=18
 	barbarian_power=0
 	province_rank="settlement"
-	tribesmen={
+	freemen={
+		religion="twainist"
 		amount=1
+	}
+	freemen={
+		amount=3
 	}
 }
 
@@ -391,24 +465,33 @@
 	culture="heartlander"
 	religion="twainist"
 	trade_goods="iron"
-	civilization_value=10
+	civilization_value=19
 	barbarian_power=0
 	province_rank="settlement"
-	tribesmen={
-		amount=1
+	freemen={
+		amount=7
 	}
 }
 
 8165={ #Wapsipinicon
-	terrain="plains"
+	terrain="farmland"
 	culture="heartlander"
 	religion="lutheran"
 	trade_goods="wood"
-	civilization_value=10
+	civilization_value=22
 	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
-		amount=1
+	province_rank="city"
+	nobles={
+		amount=2
+	}
+	citizen={
+		amount=4
+	}
+	freemen={
+		amount=4
+	}
+	slaves={
+		amount=4
 	}
 }
 
@@ -417,11 +500,20 @@
 	culture="heartlander"
 	religion="lutheran"
 	trade_goods="beer"
-	civilization_value=10
+	civilization_value=22
 	barbarian_power=0
-	province_rank="settlement"
-	tribesmen={
+	province_rank="city"
+	nobles={
 		amount=1
+	}
+	citizen={
+		amount=2
+	}
+	freemen={
+		amount=3
+	}
+	slaves={
+		amount=4
 	}
 }
 
@@ -464,11 +556,14 @@
 	culture="heartlander"
 	religion="lutheran"
 	trade_goods="clay"
-	civilization_value=10
+	civilization_value=16
 	barbarian_power=0
 	province_rank="settlement"
+	freemen={
+		amount=2
+	}
 	tribesmen={
-		amount=1
+		amount=3
 	}
 }
 
@@ -477,11 +572,14 @@
 	culture="heartlander"
 	religion="lutheran"
 	trade_goods="horses"
-	civilization_value=10
+	civilization_value=16
 	barbarian_power=0
 	province_rank="settlement"
+	freemen={
+		amount=2
+	}
 	tribesmen={
-		amount=1
+		amount=2
 	}
 }
 
@@ -490,11 +588,14 @@
 	culture="heartlander"
 	religion="lutheran"
 	trade_goods="fur"
-	civilization_value=10
+	civilization_value=16
 	barbarian_power=0
 	province_rank="settlement"
-	tribesmen={
-		amount=1
+	freemen={
+		amount=2
+	}
+	slaves={
+		amount=3
 	}
 }
 
@@ -604,11 +705,14 @@
 	culture="heartlander"
 	religion="lutheran"
 	trade_goods="tubers"
-	civilization_value=10
+	civilization_value=16
 	barbarian_power=0
 	province_rank="settlement"
+	freemen={
+		amount=2
+	}
 	tribesmen={
-		amount=1
+		amount=2
 	}
 }
 
@@ -656,11 +760,11 @@
 	culture="heartlander"
 	religion="lutheran"
 	trade_goods="wood"
-	civilization_value=10
+	civilization_value=17
 	barbarian_power=0
 	province_rank="settlement"
-	tribesmen={
-		amount=1
+	freemen={
+		amount=5
 	}
 }
 
@@ -669,11 +773,11 @@
 	culture="minnesotan"
 	religion="lutheran"
 	trade_goods="tubers"
-	civilization_value=10
+	civilization_value=16
 	barbarian_power=0
 	province_rank="settlement"
-	tribesmen={
-		amount=1
+	freemen={
+		amount=5
 	}
 }
 
@@ -682,11 +786,14 @@
 	culture="heartlander"
 	religion="lutheran"
 	trade_goods="maize"
-	civilization_value=10
+	civilization_value=16
 	barbarian_power=0
 	province_rank="settlement"
-	tribesmen={
+	slaves={
 		amount=1
+	}
+	freemen={
+		amount=5
 	}
 }
 
@@ -695,11 +802,17 @@
 	culture="heartlander"
 	religion="lutheran"
 	trade_goods="buffalo"
-	civilization_value=10
+	civilization_value=18
 	barbarian_power=0
 	province_rank="settlement"
-	tribesmen={
-		amount=1
+	citizen={
+		amount=2
+	}
+	freemen={
+		amount=3
+	}
+	slaves={
+		amount=2
 	}
 }
 
@@ -708,11 +821,17 @@
 	culture="heartlander"
 	religion="lutheran"
 	trade_goods="bodark"
-	civilization_value=10
+	civilization_value=18
 	barbarian_power=0
 	province_rank="settlement"
-	tribesmen={
-		amount=1
+	citizen={
+		amount=2
+	}
+	freemen={
+		amount=3
+	}
+	slaves={
+		amount=2
 	}
 }
 
@@ -721,11 +840,17 @@
 	culture="heartlander"
 	religion="lutheran"
 	trade_goods="beer"
-	civilization_value=10
+	civilization_value=17
 	barbarian_power=0
 	province_rank="settlement"
-	tribesmen={
-		amount=1
+	citizen={
+		amount=2
+	}
+	freemen={
+		amount=3
+	}
+	slaves={
+		amount=2
 	}
 }
 
