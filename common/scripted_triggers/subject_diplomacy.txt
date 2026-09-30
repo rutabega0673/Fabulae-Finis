@@ -1,0 +1,7 @@
+subjects_that_can_declare_war = {
+	OR = { # Add subject types that can declare war
+		is_subject_type = tributary
+		is_subject_type = vassal_tribe
+		is_subject_type = subject_colony
+	}
+}
