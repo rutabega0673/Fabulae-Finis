@@ -355,7 +355,7 @@
 5493={ #Noxen
 	terrain="hills"
 	culture="susquehannan"
-	religion="quaker"
+	religion="catholic"
 	trade_goods="wild_game"
 	civilization_value=13
 	barbarian_power=0
@@ -420,7 +420,7 @@
 6213={ #Wilkes Barre
 	terrain="hills"
 	culture="susquehannan"
-	religion="quaker"
+	religion="catholic"
 	trade_goods="leather"
 	civilization_value=14
 	barbarian_power=0
@@ -436,7 +436,7 @@
 6214={ #Scranton
 	terrain="hills"
 	culture="susquehannan"
-	religion="quaker"
+	religion="catholic"
 	trade_goods="wood"
 	civilization_value=18
 	barbarian_power=0
@@ -466,7 +466,7 @@
 6215={ #Back Mountain
 	terrain="hills"
 	culture="susquehannan"
-	religion="quaker"
+	religion="catholic"
 	trade_goods="clay"
 	civilization_value=13
 	barbarian_power=0

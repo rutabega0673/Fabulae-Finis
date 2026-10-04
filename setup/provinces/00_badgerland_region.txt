@@ -95,7 +95,7 @@
 1124={ #Racine
 	terrain="plains"
 	culture="cheesehead"
-	religion="catholic"
+	religion="promethean"
 	trade_goods="grain"
 	civilization_value=19
 	barbarian_power=0
@@ -115,7 +115,7 @@
 1125={ #Maenaewah
 	terrain="farmland"
 	culture="cheesehead"
-	religion="catholic"
+	religion="promethean"
 	trade_goods="glass"
 	civilization_value=24
 	barbarian_power=0
@@ -155,7 +155,7 @@
 1126={ #Oconomowoc
 	terrain="plains"
 	culture="cheesehead"
-	religion="lakeshore"
+	religion="promethean"
 	trade_goods="cattle"
 	civilization_value=19
 	barbarian_power=0
@@ -175,7 +175,7 @@
 1127={ #Wākohsaeh
 	terrain="plains"
 	culture="cheesehead"
-	religion="catholic"
+	religion="promethean"
 	trade_goods="beer"
 	civilization_value=19
 	barbarian_power=0

@@ -26,7 +26,6 @@ country = {
 				4077 1708 3710 3709 9588 8639 3708 1706 8638 1704 1707 7136 7135 1705 
 				3183 3670 4490
 				9524 4491 9525 9523 6168 6167 482
-				82 84 3506 3507 3505 5237 
 				3668 3669
 			}
 		}
@@ -45,7 +44,7 @@ country = {
 			}
 
 			own_control_core = {
-				4381 2440 2441 2622 2442 95 94 93 312 314 313 83
+				4381 2440 2441 2622 2442 95 94 93 312 314 313 83 
 			}
 		}
 
@@ -276,12 +275,8 @@ country = {
 
 			own_control_core = {
 				6535 1467 6536 6534 1465 1466 7224 5186
-				2171 2170 2169 2178 2179 8883 1904
-				7222 7223
-				5185 5184 5296 5293 5295 4295 4294 5294 4296 2742
-				7763 7766 7765 2383
-				4627 6223 6224 6225
-				4628
+				2171 2170 2169 2178 2179
+				5185 5184 5296 5293 5295 4295 4294 4296 2742
 				9629 9628 9627 2741 2740
 			 	8772
 			}
@@ -1262,7 +1257,7 @@ country = {
 		NWL = { #New London
 			government = democratic_republic
 			primary_culture = bayfolk
-			religion = americanist
+			religion = gothic
 			capital = 6114 
 
 			technology={
@@ -1273,7 +1268,7 @@ country = {
 			}
 
 			own_control_core = {
-				6114 6113 6112 6222
+				6114
 			}
 		}
 
@@ -1317,7 +1312,7 @@ country = {
 			}
 
 			own_control_core = {
-				6678 6539 3469 3470 5713 3471 6538 6680 204 2697 6537 999
+				6678 6539 3469 3470 5713 3471 6538 6680 204 2697 6537
 			}
 		}
 
@@ -1358,10 +1353,10 @@ country = {
 		}
 
 		HFT = { #Hartford
-			government = despotic_monarchy
-			primary_culture = vermonter
+			government = stratocratic_monarchy
+			primary_culture = bayfolk
 			religion = americanist
-			capital = 5239
+			capital = 3507
 
 			technology={
 				military_tech={ level=2 progress=0 }
@@ -1371,14 +1366,14 @@ country = {
 			}
 
 			own_control_core = {
-				5239 5240 3425 3426 5238 7031 
+				3507 3506 3505 84 82
 			}
 		}
 
 		PCN = { #Poconia
 			government = tribal_federation
 			primary_culture = susquehannan
-			religion = quaker
+			religion = catholic
 			capital = 8565
 
 			technology={
@@ -1659,9 +1654,9 @@ country = {
 		}
 
 		MIW = { #Milwaukee
-			government = despotic_monarchy
+			government = titanate
 			primary_culture = cheesehead
-			religion = catholic
+			religion = promethean
 			capital = 1125
 
 			technology={
@@ -2597,13 +2592,13 @@ country = {
 			}
 		}
 		VMT = { # Vermont
-			government = tribal_kingdom
+			government = democratic_republic
 			primary_culture = vermonter
 			religion = gothic
 			capital = 4179
 
 			own_control_core = {
-				4179 4178 997 1010 6540 1011
+				4179 4178 997 1010 6540 1011 999 998 2780 4180
 			}
 		}
 		NHM = { # New Hampshire
@@ -2817,7 +2812,7 @@ country = {
 			capital = 1052
 
 			own_control_core = {
-				1052 1051 1053 2782 5269 5270 5267
+				1052 1051 5269 5270 5267
 			}
 		}
 		SPS = { # Sept-Rivieres
@@ -3061,7 +3056,7 @@ country = {
 			}
 
 			own_control_core = {
-				7826 7825 1101 1100 2781 2780 998
+				7826 7825 1101 1100 2781
 			}
 		}
 		CRT = { # Hudson Valley
@@ -3078,7 +3073,7 @@ country = {
 			}
 
 			own_control_core = {
-				4922 7970 7968 7971 4921 4923 7969 2698 2699
+				4922 7970 7968 7971 4921 4923 7969 2698 2699 7031
 			}
 		}
 		LWC = { # Lowcountry
@@ -3634,15 +3629,8 @@ country = {
 			religion = ursuline
 			capital = 985
 
-			technology={
-				military_tech={ level=1 progress=0 }
-				civic_tech={ level=1 progress=0 }
-				religious_tech= { level=1 progress=0  }
-				oratory_tech= { level=1 progress =0 }
-			}
-
 			own_control_core = {
-				985 986 4180 2384 3377 3378
+				985 986 2384 3377 3378 1053 2782
 			}
 		}
 		MNN = { # Maine
@@ -3650,13 +3638,6 @@ country = {
 			primary_culture = nouvelle_angleterrais
 			religion = gothic
 			capital = 1406
-
-			technology={
-				military_tech={ level=1 progress=0 }
-				civic_tech={ level=1 progress=0 }
-				religious_tech= { level=1 progress=0  }
-				oratory_tech= { level=1 progress =0 }
-			}
 
 			own_control_core = {
 				1406 1408 1 2 1407 3 4 5633 5636 5268

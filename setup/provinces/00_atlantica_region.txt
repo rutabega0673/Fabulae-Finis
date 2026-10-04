@@ -411,13 +411,21 @@
 	barbarian_power=0
 	province_rank="city"
 	nobles={
-		amount=2
+		amount=3
+	}
+	citizen={
+		religion="americanist"
+		amount=3
 	}
 	citizen={
 		amount=2
 	}
 	freemen={
 		amount=7
+	}
+	freemen={
+		religion="americanist"
+		amount=3
 	}
 	slaves={
 		amount=4
@@ -1037,7 +1045,7 @@
 3708={ #Lansdale
 	terrain="plains"
 	culture="youser"
-	religion="quaker"
+	religion="americanist"
 	trade_goods="tubers"
 	civilization_value=22
 	barbarian_power=0
@@ -1245,7 +1253,7 @@
 4628={ #Mansfield
 	terrain="plains"
 	culture="bayfolk"
-	religion="gothic"
+	religion="bostonian"
 	trade_goods="tobacco"
 	civilization_value=22
 	barbarian_power=0
@@ -1264,7 +1272,7 @@
 5237={ #New Britain
 	terrain="plains"
 	culture="bayfolk"
-	religion="gothic"
+	religion="bostonian"
 	trade_goods="cloth"
 	civilization_value=22
 	barbarian_power=0
@@ -1283,7 +1291,7 @@
 5238={ #Manchester
 	terrain="plains"
 	culture="bayfolk"
-	religion="gothic"
+	religion="bostonian"
 	trade_goods="wine"
 	civilization_value=22
 	barbarian_power=0
@@ -1302,7 +1310,7 @@
 5239={ #Hartford
 	terrain="farmland"
 	culture="bayfolk"
-	religion="gothic"
+	religion="bostonian"
 	trade_goods="clay"
 	civilization_value=22
 	barbarian_power=0
@@ -1321,7 +1329,7 @@
 5240={ #Bristol
 	terrain="plains"
 	culture="bayfolk"
-	religion="gothic"
+	religion="bostonian"
 	trade_goods="cattle"
 	civilization_value=22
 	barbarian_power=0
@@ -1617,7 +1625,7 @@
 6113={ #Willimantic
 	terrain="forest"
 	culture="bayfolk"
-	religion="gothic"
+	religion="bostonian"
 	trade_goods="grain"
 	civilization_value=22
 	barbarian_power=0

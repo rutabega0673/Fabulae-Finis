@@ -44,8 +44,8 @@
  ursuline:0 "Ursuline"
  desc_ursuline:0 "The Ursuline Church originated as an antediluvian religious order patronized by Saint Ursula. After the Deluge, most French-Canadian Catholics turned to the Ursuline Order for guidance in acknowledgment of the charitable works the Order. The Ursuline Order itself, loosely tied to the larger Catholic complex of the Americas, attended the Ecumenical Council of The Americas in the mid 22nd century. Their stance during and after the Council is that the office of the Pope, and therefore all offices appointed by the Pope, are empty until contact is restored with Rome. The Ursulines uphold the position that none of the Christian bishops currently operating in the Americas have proper apostolic succession, making them invalid. However, members of sanctioned religious orders can serve as de facto clergy until contact with the true Papacy is re-established."
 
- bostonian:0 "Bostonian"
- desc_bostonian:0 "Splitting from the Conclavian Catholic Church shortly after the Ecumenical Council of The Americas in the mid 22nd century, a new council was held in Boston, and these Bostonians opted for a more decentrlaized system; autocephpaly, or bishops who do not answer to a higher authority, akin to the Eastern Orthodox church of the old world. These 'Bostonians' thus founded the American Free Catholic Church of Boston. Many Catholics dislike the Bostonian's amicability with the Americanists, accusing them of being nothing more than their puppet. These accusations are of course, unfounded."
+ bostonian:0 "Covenantal"
+ desc_bostonian:0 ""
 
  traiteurism:0 "Traiteurist"
  desc_traiteurism:0 "Surviving for centuries despite oppression and adversity, Traiteurists believe that the tribulations delivered upon mankind, be it through pestilence or desolation, purify the souls of the faithful and bring them closer to their Lord through His grace. In reward for their endurance, God grants believers the natural bounties of the Earth as a refuge. Named after their method for treating and cleansing the souls of the suffering with prayer and local herbs called "traitement", traiteurs and traiteuses fulfill the spiritual needs of their community. These skilled healers administer the seven sacraments and absolve the sins of the sick through traitement so that they may go directly to Heaven. Additionally, many folk beliefs have been integrated into the faith's canon, such as Jesus being born in Acadia and the veneration of the Archangel Gabriel Lajeunesse."
@@ -246,8 +246,8 @@
  bahai:0 "Baha'i"
  desc_bahai:0 "The Deluge did not spare the Baha'i community, and the already spread out religion was cut off from its homeland in the far east. Despite this, there has been very little deviation from the Tablets of Bahá'u'lláh, which preach for a world united in peace and justice. The Baha'i believe that this unity has been dealt out piecemeal by God, who revealed it to various prophets and divine teachers over the centuries. As a result, the Baha'i abhor religious violence and promote a tolerant, pacifistic lifestyle that continues to persist into the 27th century."
  ## Reawakened ##
- rosicrucian:0 "Rosicrucian"
- desc_rosicrucian:0 "The Rosicrucian Orders are a collection of secretive organizations claiming lineage from an eclectic and esoteric sect of Old Europe's Christendom, which in turn claimed lineage from alchemical mystics from the time of Jesus and even before. Theologically the Rosicrucians all believe that the material world is an emanation from a divine being called the Absolute, who is incomprehensible to mortal minds. The goal of life is to achieve spiritual evolution along the Seven Worlds Within God, until eventually reuniting with God as the Emanation of the Absolute. Rosicrucians believe this can be achieved through spiritual awakening, which is the result of attaining mystical knowledge and training. Today the sect as a whole exists at the outskirts of Christianity in general, with some various outposts of fellowships remaining in some storied lodges across the Americas."
+ rosicrucian:0 "Revivalist"
+ desc_rosicrucian:0 ""
 
  ## Plains ##
  sun_dance:0 "Sun Dance"

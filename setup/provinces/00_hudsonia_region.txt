@@ -1,7 +1,7 @@
 ﻿203={ #Cobleskill
 	terrain="plains"
 	culture="hudsonian"
-	religion="clairvoyant"
+	religion="americanist"
 	trade_goods="wild_game"
 	civilization_value=10
 	barbarian_power=0
@@ -215,7 +215,7 @@
 1691={ #Walton
 	terrain="mountain"
 	culture="yiddish"
-	religion="haredi"
+	religion="americanist"
 	trade_goods="wild_game"
 	civilization_value=10
 	barbarian_power=0
@@ -228,7 +228,7 @@
 1692={ #Thompson
 	terrain="mountain"
 	culture="yiddish"
-	religion="haredi"
+	religion="americanist"
 	trade_goods="bodark"
 	civilization_value=10
 	barbarian_power=0
@@ -258,7 +258,7 @@
 1759={ #Rome
 	terrain="plains"
 	culture="upstater"
-	religion="clairvoyant"
+	religion="rosicrucian"
 	trade_goods="marble"
 	civilization_value=23
 	barbarian_power=0
@@ -271,7 +271,6 @@
 		amount=1
 	}
 	freemen={
-		religion="bostonian"
 		amount=2
 	}
 	slaves={
@@ -518,14 +517,13 @@
 3103={ #Lysander
 	terrain="farmland"
 	culture="upstater"
-	religion="fissionist"
+	religion="rosicrucian"
 	trade_goods="earthware"
-	civilization_value=25
+	civilization_value=26
 	barbarian_power=0
 	province_rank="settlement"
 	citizen={
-		religion="americanist"
-		amount=2
+		amount=3
 	}
 	citizen={
 		religion="clairvoyant"
@@ -536,11 +534,7 @@
 		amount=1
 	}
 	freemen={
-		amount=1
-	}
-	freemen={
-		religion="bostonian"
-		amount=2
+		amount=4
 	}
 	slaves={
 		religion="clairvoyant"
@@ -557,18 +551,13 @@
 	barbarian_power=0
 	province_rank="settlement"
 	citizen={
-		amount=2
-	}
-	citizen={
-		religion="clairvoyant"
-		amount=1
+		amount=4
 	}
 	freemen={
 		religion="americanist"
 		amount=1
 	}
 	freemen={
-		religion="bostonian"
 		amount=1
 	}
 	freemen={
@@ -597,8 +586,7 @@
 		amount=1
 	}
 	freemen={
-		religion="bostonian"
-		amount=1
+		amount=3
 	}
 	slaves={
 		religion="clairvoyant"
@@ -687,7 +675,7 @@
 4922={ #Cortlandt
 	terrain="farmland"
 	culture="hudsonian"
-	religion="fissionist"
+	religion="americanist"
 	trade_goods="tubers"
 	civilization_value=10
 	barbarian_power=0
@@ -923,7 +911,7 @@
 6054={ #Bath
 	terrain="hills"
 	culture="upstater"
-	religion="catholic"
+	religion="rosicrucian"
 	trade_goods="wood"
 	civilization_value=18
 	barbarian_power=0
@@ -947,7 +935,7 @@
 6055={ #Hornell
 	terrain="hills"
 	culture="upstater"
-	religion="catholic"
+	religion="rosicrucian"
 	trade_goods="tubers"
 	civilization_value=20
 	barbarian_power=0
@@ -973,7 +961,7 @@
 6056={ #Corning
 	terrain="forest"
 	culture="upstater"
-	religion="catholic"
+	religion="rosicrucian"
 	trade_goods="vegetables"
 	civilization_value=18
 	barbarian_power=0
@@ -1154,7 +1142,7 @@
 6681={ #Catskill
 	terrain="hills"
 	culture="hudsonian"
-	religion="clairvoyant"
+	religion="americanist"
 	trade_goods="leather"
 	civilization_value=10
 	barbarian_power=0
@@ -1222,7 +1210,7 @@
 6852={ #Sullivan
 	terrain="marsh"
 	culture="upstater"
-	religion="clairvoyant"
+	religion="rosicrucian"
 	trade_goods="maple"
 	civilization_value=25
 	barbarian_power=0
@@ -1235,7 +1223,6 @@
 		amount=1
 	}
 	freemen={
-		religion="bostonian"
 		amount=2
 	}
 	slaves={
@@ -1256,7 +1243,7 @@
 		amount=3
 	}
 	citizen={
-		amount=2
+		amount=4
 	}
 	citizen={
 		religion="bostonian"
@@ -1272,18 +1259,16 @@
 	}
 	freemen={
 		religion="clairvoyant"
-		amount=3
+		amount=1
 	}
 	freemen={
 		religion="americanist"
 		amount=2
 	}
 	freemen={
-		religion="bostonian"
 		amount=2
 	}
 	slaves={
-		religion="bostonian"
 		amount=2
 	}
 	slaves={
@@ -1308,7 +1293,7 @@
 7052={ #North Dansville
 	terrain="hills"
 	culture="upstater"
-	religion="promethean"
+	religion="rosicrucian"
 	trade_goods="maize"
 	civilization_value=18
 	barbarian_power=0
@@ -1364,7 +1349,7 @@
 7054={ #Geneso
 	terrain="hills"
 	culture="upstater"
-	religion="quaker"
+	religion="rosicrucian"
 	trade_goods="tubers"
 	civilization_value=18
 	barbarian_power=0
@@ -1550,7 +1535,7 @@
 9421={ #Shandaken
 	terrain="hills"
 	culture="yiddish"
-	religion="haredi"
+	religion="americanist"
 	trade_goods="base_metals"
 	civilization_value=10
 	barbarian_power=0

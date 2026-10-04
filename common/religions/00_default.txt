@@ -177,8 +177,8 @@ ursuline = { # Ursuline
 	sacrifice_icon = sacrifice_communion
 	sacrifice_sound = "event:/SFX/UI/Religion/sfx_ui_religion_generic_sacrifice"
 }
-bostonian = { # Bostonian Catholic 
-	color = rgb { 107 47 56 }
+bostonian = { # United Church of Christ / Congregationalist
+	color = rgb { 129 62 156 }
 	modifier = {
 		monthly_political_influence_modifier = 0.05
 		happiness_for_wrong_culture_modifier = 0.05
@@ -913,9 +913,9 @@ bahai = { # Baha'i
 rosicrucian = { # Rosicrucian
 	color = rgb { 120 6 5 }
 	modifier = {
-		global_nobles_output = 0.10
-		religious_tech_investment = 0.10
-		global_pop_conversion_speed_modifier = -0.10
+		global_freemen_happyness = 0.04
+		global_pop_conversion_speed_modifier = 0.15
+		omen_power = -0.05
 	}
 	religion_category = pantheon
 	sacrifice_icon = sacrifice_rosicrucian

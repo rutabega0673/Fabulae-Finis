@@ -2630,3 +2630,162 @@ ATJ = { #South Jersey
 		}
 	}
 }
+
+VMT = { #Green Mountains
+	pattern="pattern_canton_01.tga"
+	color1=ck2_green
+	color2=ck2_blue
+	colored_emblem={
+		color1=offwhite
+		texture="ce_star_05.dds"
+		instance={
+			position={ 0.120000 0.320000 }
+			scale={ 0.095000 0.095000 }
+			rotation=6
+		}
+
+		instance={
+			position={ 0.155000 0.425000 }
+			scale={ 0.105000 0.105000 }
+			rotation=11
+		}
+
+		instance={
+			position={ 0.210000 0.360000 }
+			scale={ 0.090000 0.090000 }
+			rotation=15
+		}
+
+		instance={
+			position={ 0.295000 0.415000 }
+			scale={ 0.125000 0.125000 }
+			rotation=15
+		}
+
+		instance={
+			position={ 0.170000 0.235000 }
+			scale={ 0.095000 0.095000 }
+			rotation=12
+		}
+
+		instance={
+			position={ 0.435000 0.425000 }
+			scale={ 0.090000 0.090000 }
+			rotation=14
+		}
+
+		instance={
+			position={ 0.260000 0.280000 }
+			scale={ 0.120000 0.120000 }
+			rotation=35
+		}
+
+		instance={
+			position={ 0.390000 0.330000 }
+			scale={ 0.120000 0.120000 }
+			rotation=19
+		}
+
+		instance={
+			position={ 0.370000 0.215000 }
+			scale={ 0.110000 0.110000 }
+			rotation=23
+		}
+
+		instance={
+			position={ 0.265000 0.180000 }
+			scale={ 0.070000 0.070000 }
+			rotation=5
+		}
+
+		instance={
+			position={ 0.420000 0.110000 }
+			scale={ 0.130000 0.130000 }
+			rotation=38
+		}
+
+		instance={
+			position={ 0.285000 0.100000 }
+			scale={ 0.110000 0.110000 }
+			rotation=4
+		}
+
+		instance={
+			position={ 0.145000 0.120000 }
+			scale={ 0.130000 0.130000 }
+			rotation=19
+		}
+	}
+}
+
+GBY = {
+	pattern = "pattern_solid.tga"
+	color1 = "offwhite"
+	color2 = "offwhite"
+	colored_emblem = {
+		texture = "ce_ordinary_pile_02.dds"
+		color1 = "ck2_green"
+		instance = { position = { 0.5 0.5 } scale = { 1.0 1.0 }  }
+	}
+	colored_emblem = {
+		texture = "ce_pine.dds"
+		color1 = "ck2_green"
+		color2 = "ck2_red"
+		instance = { position = { 0.5 0.75 } scale = { 0.4 0.4 }  }
+		instance = { position = { 0.25 0.5 } scale = { 0.4 0.4 }  }
+		instance = { position = { 0.75 0.5 } scale = { 0.4 0.4 }  }
+	}
+	colored_emblem = {
+		texture = "ce_pillar_liege.dds"
+		color1 = "silver"
+		instance = { position = { 0.5 0.23 } scale = { 0.45 0.45 }  }
+	}
+}
+
+HFT = { #New Haven
+	pattern="pattern_solid.tga"
+	color1=navy_blue
+	color2=offwhite
+	
+	colored_emblem={
+		color1=offwhite
+		texture="ce_motto_banner.dds"
+		instance={
+			position={ 0.500000 0.445000 }
+			scale={ 0.8 -0.830000 }
+		}
+
+		instance={
+			position={ 0.500000 0.640000 }
+			scale={ 0.9 -0.90000 }
+		}
+
+	}
+
+	colored_emblem={
+		color1=offwhite
+		texture="ce_motto_banner.dds"
+		instance={
+			position={ 0.500000 0.680000 }
+			scale={ -0.500000 -0.9000 }
+		}
+	}
+	colored_emblem={
+		color1=roman_gold
+		texture="ce_book_open.dds"
+		instance={
+			scale={ 0.80000 1.000000 }
+		}
+
+	}
+
+	colored_emblem={
+		color1=offwhite
+		texture="ce_book_open.dds"
+		instance={
+			position={ 0.500000 0.460000 }
+			scale={ 0.70000 1.000000 }
+		}
+
+	}
+}
