@@ -473,6 +473,7 @@ clothes = {
 					has_culture_group = old_southern
 					has_culture_group = lumbee_group
 					has_culture_group = native_virginian
+					has_culture_group = longhouse
 				}
 				NOR = { 		
 					is_general = yes

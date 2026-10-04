@@ -1,12 +1,12 @@
 ﻿"MPL"={
 	country="MPL"
-	4={
+	4={ #Me
 		first_name="Ramona"
 		family_name="Red-Hand"
-		birth_date=2310.9.9
+		birth_date=2309.9.9
 		female=yes
 		culture="svenskamerikaner"
-		religion="heartful"
+		religion="twainist"
 		no_stats=yes
 		add_martial=7
 		add_charisma=4

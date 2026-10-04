@@ -27,7 +27,7 @@
 612={ #Arcadia
 	terrain="plains"
 	culture="upstater"
-	religion="gaiwiio"
+	religion="rosicrucian"
 	trade_goods="wood"
 	civilization_value=20
 	barbarian_power=0
@@ -102,7 +102,7 @@
 615={ #Geneva
 	terrain="forest"
 	culture="upstater"
-	religion="gaiwiio"
+	religion="rosicrucian"
 	trade_goods="cattle"
 	civilization_value=20
 	barbarian_power=0
@@ -427,7 +427,7 @@
 2480={ #Rochester
 	terrain="farmland"
 	culture="upstater"
-	religion="gaiwiio"
+	religion="rosicrucian"
 	trade_goods="fur"
 	civilization_value=25
 	barbarian_power=0
@@ -597,7 +597,7 @@
 3372={ #Union
 	terrain="forest"
 	culture="upstater"
-	religion="catholic"
+	religion="rosicrucian"
 	trade_goods="grain"
 	civilization_value=10
 	barbarian_power=0
@@ -610,7 +610,7 @@
 3373={ #Owego
 	terrain="forest"
 	culture="upstater"
-	religion="catholic"
+	religion="rosicrucian"
 	trade_goods="vegetables"
 	civilization_value=10
 	barbarian_power=0
@@ -849,7 +849,7 @@
 5776={ #Seneca Falls
 	terrain="hills"
 	culture="upstater"
-	religion="gaiwiio"
+	religion="rosicrucian"
 	trade_goods="horses"
 	civilization_value=18
 	barbarian_power=0
@@ -987,7 +987,7 @@
 6057={ #Elmira
 	terrain="forest"
 	culture="upstater"
-	religion="catholic"
+	religion="rosicrucian"
 	trade_goods="fruits"
 	civilization_value=18
 	barbarian_power=0
@@ -1323,7 +1323,7 @@
 7053={ #Victor
 	terrain="hills"
 	culture="upstater"
-	religion="gaiwiio"
+	religion="rosicrucian"
 	trade_goods="maple"
 	civilization_value=18
 	barbarian_power=0
@@ -1367,7 +1367,6 @@
 		amount=1
 	}
 	slaves={
-		religion="bostonian"
 		amount=2
 	}
 	tribesmen={

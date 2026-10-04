@@ -2789,3 +2789,104 @@ HFT = { #New Haven
 
 	}
 }
+
+ROC = { #Burned See
+	pattern="pattern_solid.tga"
+	color1=rgb { 120 6 5 }
+	color2= rgb { 255 181 44 }
+	colored_emblem={
+		color1= rgb { 255 181 44 }
+		texture="ce_block_02.dds"
+		instance={
+			position={ 0.500000 0.520000 }
+			scale={ 1.000000 0.220000 }
+		}
+	}
+
+	colored_emblem={
+		color1=rgb { 255 181 44 }
+		color2=rgb { 255 181 44 }
+		texture="ce_crescent_03.dds"
+		instance={
+			position={ 0.500000 0.80000 }
+			scale={ 0.35 0.35 }
+		}
+		instance={
+			position={ 0.20000 0.250000 }
+			scale={ 0.350 0.35 }
+		}
+		instance={
+			position={ 0.780000 0.250000 }
+			scale={ 0.35 0.35 }
+		}
+
+	}
+
+	colored_emblem={
+		color1= rgb { 120 6 5 }
+		color2 = "roman_gold"
+		texture="ce_torch_02.dds"
+		instance={
+			position={ 0.750000 0.530000 }
+			scale={ 0.24000 0.24000 }
+		}
+		instance={
+			position={ 0.250000 0.530000 }
+			scale={ 0.24000 0.24000 }
+		}
+		instance={
+			position={ 0.500000 0.530000 }
+			scale={ 0.24000 0.24000 }
+		}
+	}
+}
+
+BUF = { #Buffalo
+	pattern="pattern_solid.tga"
+	color1="ck2_blue"
+	color2= rgb { 255 242 101 }
+	colored_emblem={
+		color1= { 255 242 101 }
+		texture="ce_thunderbolt_02.dds"
+		instance = {
+			scale = { 0.8 0.8 }
+			rotation = 45
+		}
+		instance = {
+			scale = { 0.8 0.8 }
+			rotation = -45
+		}
+	}
+	colored_emblem={
+		color1= offwhite
+		texture="ce_stars_13.dds"
+		instance = { scale = { 1.1 1.1 } }
+	}
+	colored_emblem={
+		color1= offwhite
+		color2= offwhite
+		texture="ce_ship_caravel.dds"
+		instance = { scale = { 0.7 0.7 } }
+	}
+}
+
+YNK = { #Steuben
+	pattern="pattern_solid.tga"
+	color1=rgb { 88 152 159 }
+	color2= rgb { 255 242 101 }
+	colored_emblem={
+		color1= epirus_yellow
+		color2= "ck2_green"
+		texture="ce_grain_triple.dds"
+	}
+	colored_emblem={
+		color1= garnet_red
+		texture="ce_motto_banner.dds"
+		instance = { position = { 0.5 0.8 } scale = { 0.9 0.9} }
+	}
+	colored_emblem={
+		color1= epirus_yellow
+		texture="ce_flat_star.dds"
+		instance = { scale = { 0.1 0.1 } position = { 0.5 0.74 }}
+	}
+}

@@ -149,7 +149,7 @@
 3745={ #Olean
 	terrain="forest"
 	culture="upstater"
-	religion="sustainablist"
+	religion="rosicrucian"
 	trade_goods="cattle"
 	civilization_value=22
 	barbarian_power=0
@@ -203,7 +203,7 @@
 3774={ #Corry
 	terrain="forest"
 	culture="buckeye"
-	religion="promethean"
+	religion="rosicrucian"
 	trade_goods="fruits"
 	civilization_value=22
 	barbarian_power=0
@@ -235,7 +235,7 @@
 3776={ #Jamestown
 	terrain="forest"
 	culture="upstater"
-	religion="promethean"
+	religion="rosicrucian"
 	trade_goods="fruits"
 	civilization_value=22
 	barbarian_power=0
@@ -363,7 +363,7 @@
 5462={ #Coudersport
 	terrain="hills"
 	culture="susquehannan"
-	religion="catholic"
+	religion="rosicrucian"
 	trade_goods="cattle"
 	civilization_value=22
 	barbarian_power=0
@@ -379,7 +379,7 @@
 5463={ #Emporium
 	terrain="forest"
 	culture="susquehannan"
-	religion="catholic"
+	religion="rosicrucian"
 	trade_goods="leather"
 	civilization_value=22
 	barbarian_power=0
@@ -427,7 +427,7 @@
 6593={ #Pomfret
 	terrain="plains"
 	culture="upstater"
-	religion="promethean"
+	religion="rosicrucian"
 	trade_goods="leather"
 	civilization_value=22
 	barbarian_power=0
@@ -443,7 +443,7 @@
 6594={ #Gowanda
 	terrain="plains"
 	culture="upstater"
-	religion="promethean"
+	religion="rosicrucian"
 	trade_goods="maple"
 	civilization_value=22
 	barbarian_power=0
@@ -693,7 +693,7 @@
 11644={ #Salamanca
 	terrain="forest"
 	culture="upstater"
-	religion="sustainablist"
+	religion="rosicrucian"
 	trade_goods="beer"
 	civilization_value=22
 	barbarian_power=0

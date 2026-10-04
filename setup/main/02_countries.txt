@@ -372,7 +372,7 @@ country = {
 				9038 9035 9037 4011 11648 8771 8769 8770 9036 2007 11664 795
 				3776 3774 3773 3775 4013 4012 8967 8968 794
 				11652 11644 11646 4983 3746 3745
-				6593 6594 2791 6595 8592 8590 2790
+				6593 6594 2791 6595
 			}
 		}
 		STL = { #St. Louis
@@ -1273,10 +1273,10 @@ country = {
 		}
 
 		HAD = { #Haudenosaunee
-			government = haudenosaunee_republic
+			government = aristocratic_republic
 			primary_culture = haudenosaunee
 			religion = gaiwiio
-			capital = 2480
+			capital = 6850
 
 			technology={
 				military_tech={ level=2 progress=0 }
@@ -1293,8 +1293,7 @@ country = {
 			}
 
 			own_control_core = {
-				612 2480 613 615 7053 5776 614 5777 2477 2479 2478
-				3373 9489 3372 7874 8593 8591 6851 6850
+				6850 6851 614 5777 9489 5776 7053
 			}
 		}
 
@@ -1373,7 +1372,7 @@ country = {
 		PCN = { #Poconia
 			government = tribal_federation
 			primary_culture = susquehannan
-			religion = catholic
+			religion = rosicrucian
 			capital = 8565
 
 			technology={
@@ -1384,7 +1383,7 @@ country = {
 			}
 
 			own_control_core = {
-				6214 5495 3371 5496 6213 9589 9587 3796 3795
+				6214 5495 5496 6213 9589 9587 3796 3795
 			}
 		}
 
@@ -1501,7 +1500,7 @@ country = {
 			}
 
 			own_control_core = {
-				739 740 7875
+				739 740 7875 7874
 			}
 		}
 
@@ -3267,16 +3266,16 @@ country = {
 			}
 		}
 		KTK = { # Kenhtè:ke
-			government = aristocratic_republic
+			government = tribal_federation
 			primary_culture = haudenosaunee
 			religion = gaiwiio
 			capital = 9493
 
 			technology={
-				military_tech={ level=2 progress=0 }
-				civic_tech={ level=2 progress=0 }
-				religious_tech= { level=2 progress=0  }
-				oratory_tech= { level=2 progress =0 }
+				military_tech={ level=1 progress=0 }
+				civic_tech={ level=1 progress=0 }
+				religious_tech= { level=1 progress=0  }
+				oratory_tech= { level=1 progress =0 }
 			}
 
 			own_control_core = {
@@ -5562,7 +5561,7 @@ country = {
 		WMP = { #Williamsport
 			government = tribal_federation
 			primary_culture = susquehannan
-			religion = catholic
+			religion = rosicrucian
 			capital = 9332
 
 			technology={
@@ -6336,6 +6335,57 @@ country = {
 			own_control_core = {
 				943 941 942 1881 7368 7367
 			} 
+		}
+		ROC = { #Burned See
+			government = theocratic_monarchy
+			primary_culture = upstater
+			religion = rosicrucian
+			capital = 2480
+
+			technology = {
+				military_tech={ level=2 progress=0 }
+				civic_tech={ level=2 progress=0 }
+				religious_tech= { level=2 progress=0  }
+				oratory_tech= { level=2 progress =0 }
+			}
+
+			own_control_core = {
+				2480 612 615 613
+			}
+		}
+		TPI = { #Triple Cities
+			government = despotic_monarchy
+			primary_culture = upstater
+			religion = rosicrucian
+			capital = 3371
+
+			technology = {
+				military_tech={ level=2 progress=0 }
+				civic_tech={ level=2 progress=0 }
+				religious_tech= { level=2 progress=0  }
+				oratory_tech= { level=2 progress =0 }
+			}
+
+			own_control_core = {
+				3371 3373 3372
+			}
+		}
+		BUF = { #Buffalo
+			government = despotic_monarchy
+			primary_culture = upstater
+			religion = rosicrucian
+			capital = 8592
+
+			technology = {
+				military_tech={ level=2 progress=0 }
+				civic_tech={ level=2 progress=0 }
+				religious_tech= { level=2 progress=0  }
+				oratory_tech= { level=2 progress =0 }
+			}
+
+			own_control_core = {
+				8592 8590 2790 2479 2477 2478 8591 8593
+			}
 		}
 	}
 }

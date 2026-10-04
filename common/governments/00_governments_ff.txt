@@ -111,7 +111,7 @@ haudenosaunee_republic = { #Haudenosaunee Confederacy
 	election_delay = 10
 	ruler_term = 1
 	
-	color = rgb { 85 50 150 }
+	color = rgb { 49 149 112 }
 	
 	can_deify_ruler = yes
 }

@@ -72,8 +72,8 @@
  CMP_ADJ:0 "Champlainer"
  CRT:0 "Hudson Valley"
  CRT_ADJ:0 "Hudsonian"
- YNK:0 "Yankee"
- YNK_ADJ:0 "Yankee"
+ YNK:0 "Steuben"
+ YNK_ADJ:0 "Upstater"
  SNH:0 "Frostburg"
  SNH_ADJ:0 "Frostburger"
  PRS:0 "Presque Isle"
@@ -124,6 +124,12 @@
  HPL_ADJ:0 "Saponi"
  TCF:0 "Twin Confederacy"
  TCF_ADJ:0 "Mattaponi-Pamunkey"
+ ROC:0 "Burned See"
+ ROC_ADJ:0 "Upstater"
+ BUF:0 "Buffalo"
+ BUF_ADJ:0 "Buffalonian"
+ TPI:0 "Triple Cities"
+ TPI_ADJ:0 "Upstater"
  
 
  ## Midwest ##

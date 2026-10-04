@@ -221,7 +221,7 @@
 3287={ #Bloomsburg
 	terrain="hills"
 	culture="susquehannan"
-	religion="old_order"
+	religion="rosicrucian"
 	trade_goods="vegetables"
 	civilization_value=13
 	barbarian_power=0
@@ -237,7 +237,7 @@
 3371={ #Binghampton
 	terrain="forest"
 	culture="upstater"
-	religion="catholic"
+	religion="rosicrucian"
 	trade_goods="clay"
 	civilization_value=12
 	barbarian_power=0
@@ -289,7 +289,7 @@
 3795={ #Honesdale
 	terrain="mountain"
 	culture="susquehannan"
-	religion="catholic"
+	religion="rosicrucian"
 	trade_goods="clay"
 	civilization_value=11
 	barbarian_power=0
@@ -306,7 +306,7 @@
 3796={ #Port Jervis
 	terrain="hills"
 	culture="susquehannan"
-	religion="americanist"
+	religion="rosicrucian"
 	trade_goods="fish"
 	civilization_value=11
 	barbarian_power=0
@@ -339,7 +339,7 @@
 5459={ #Mansfield
 	terrain="hills"
 	culture="susquehannan"
-	religion="catholic"
+	religion="rosicrucian"
 	trade_goods="maple"
 	civilization_value=13
 	barbarian_power=0
@@ -355,7 +355,7 @@
 5493={ #Noxen
 	terrain="hills"
 	culture="susquehannan"
-	religion="catholic"
+	religion="rosicrucian"
 	trade_goods="wild_game"
 	civilization_value=13
 	barbarian_power=0
@@ -368,7 +368,7 @@
 5494={ #Sayre
 	terrain="hills"
 	culture="susquehannan"
-	religion="catholic"
+	religion="rosicrucian"
 	trade_goods="cattle"
 	civilization_value=12
 	barbarian_power=0
@@ -387,7 +387,7 @@
 5495={ #Tunkhannock
 	terrain="hills"
 	culture="susquehannan"
-	religion="catholic"
+	religion="rosicrucian"
 	trade_goods="bodark"
 	civilization_value=12
 	barbarian_power=0
@@ -407,7 +407,7 @@
 5496={ #Susquehanna
 	terrain="hills"
 	culture="susquehannan"
-	religion="catholic"
+	religion="rosicrucian"
 	trade_goods="tobacco"
 	civilization_value=14
 	barbarian_power=0
@@ -420,7 +420,7 @@
 6213={ #Wilkes Barre
 	terrain="hills"
 	culture="susquehannan"
-	religion="catholic"
+	religion="rosicrucian"
 	trade_goods="leather"
 	civilization_value=14
 	barbarian_power=0
@@ -436,7 +436,7 @@
 6214={ #Scranton
 	terrain="hills"
 	culture="susquehannan"
-	religion="catholic"
+	religion="rosicrucian"
 	trade_goods="wood"
 	civilization_value=18
 	barbarian_power=0
@@ -466,7 +466,7 @@
 6215={ #Back Mountain
 	terrain="hills"
 	culture="susquehannan"
-	religion="catholic"
+	religion="rosicrucian"
 	trade_goods="clay"
 	civilization_value=13
 	barbarian_power=0
@@ -654,7 +654,7 @@
 9332={ #Williamsport
 	terrain="hills"
 	culture="susquehannan"
-	religion="catholic"
+	religion="rosicrucian"
 	trade_goods="grain"
 	civilization_value=16
 	barbarian_power=0
@@ -689,7 +689,7 @@
 9587={ #Slatington
 	terrain="hills"
 	culture="susquehannan"
-	religion="americanist"
+	religion="rosicrucian"
 	trade_goods="cattle"
 	civilization_value=12
 	barbarian_power=0
@@ -728,7 +728,7 @@
 9589={ #East Stroudsburg
 	terrain="hills"
 	culture="susquehannan"
-	religion="americanist"
+	religion="rosicrucian"
 	trade_goods="cattle"
 	civilization_value=14
 	barbarian_power=0

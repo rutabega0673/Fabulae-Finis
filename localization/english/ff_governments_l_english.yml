@@ -76,6 +76,9 @@
  tribal_kingdom_ruler_longhouse:0 "Royaner"
  tribal_federation_ruler_longhouse:0 "Royaner"
  tribal_chiefdom_ruler_longhouse:0 "Royaner"
+ aristocratic_republic_ruler_longhouse:0 "Head Royaner"
+ aristocratic_republic_co_ruler_longhouse:0 "Royaner"
+ democratic_republic_longhouse:0 "Royaner"
  
  range_tribal_kingdom:0 "Range"
  range_tribal_kingdom_desc:0 "A collection of many semi-nomadic tribes, sedentary townships, and the odd proper city or two, a Range is ruled by an elected Sheriff and his Deputy, who are appointed by representatives of these settlements."
