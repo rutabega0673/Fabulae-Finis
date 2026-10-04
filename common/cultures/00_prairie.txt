@@ -41,6 +41,9 @@
 		badlander = {}
 		preiryansky = {} 
 		sztyeppefuto = {} #Hungarians
+		bandarikjamenn = {} #Icelandic Americans
+		svenskamerikaner = {} #Swedish Americans (Rutabega larpfest)
+		norskamerikanere = {} #Norwegian Americans
 	}
 	
 	barbarian_names = { 

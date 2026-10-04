@@ -22,15 +22,6 @@
 			country_culture_group = anishinaabe
 		}
 		trigger_else_if = {
-			limit = {
-				country_culture_group = nordic
-			}
-			custom_tooltip = {
-				text = "began_with_tradition_group"
-			}
-			country_culture_group = nordic
-		}
-		trigger_else_if = {
 			limit = { primary_culture = wisconsindeutsch }
 			custom_tooltip = {
 				text = "began_with_tradition_group"

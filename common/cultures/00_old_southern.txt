@@ -88,8 +88,9 @@
 		DREPSIANOI CHORASMIOI OUARNOI SKORDAI MAROUKAIOI TOCHAROI KOMOI CHOMAROI SALATARAE TAMBYZOI ZARIASPAEA
 	}
 	
-	graphical_culture = persian_gfx
+	graphical_culture = roman_gfx
 	ethnicities = {
-		10 = bactrian
+		8 = roman
+		2 = bactrian
 	}
 }

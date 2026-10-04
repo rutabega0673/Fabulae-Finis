@@ -216,7 +216,7 @@ clothes = {
 				OR = {
 					has_culture_group = midwestern
 					has_culture_group = northlake
-					has_culture_group = nordic
+					#has_culture_group = nordic
 				}
 				OR = { 		
 					is_general = yes
@@ -468,7 +468,12 @@ clothes = {
 			
 			modifier = {
 				add = 50 
-				has_culture_group = yankee
+				OR = {
+					has_culture_group = yankee
+					has_culture_group = old_southern
+					has_culture_group = lumbee_group
+					has_culture_group = native_virginian
+				}
 				NOR = { 		
 					is_general = yes
 					is_admiral = yes
@@ -477,7 +482,135 @@ clothes = {
 			}
 		}
 	}
-	
+
+	###GREEK###	
+	greek_clothing_replace = {
+		dna_modifiers = {
+			accessory = {
+				mode = replace_template				
+				gene = clothes
+				template = greek_clothes
+			}	
+			accessory = {
+				mode = replace_template				
+				gene = clothes_layer2
+				template = greek_top_layer
+			}				
+		}
+		weight = {
+			base = 0	
+			
+			modifier = {
+				add = 50 
+				OR = {
+					has_culture_group = lakelander
+				}
+				NOR = { 		
+					is_general = yes
+					is_admiral = yes
+					has_trait = gladiator
+				}
+			}
+		}
+	}
+
+	###CELTIC###	
+	celtic_clothing_replace = {
+		dna_modifiers = {
+			accessory = {
+				mode = replace_template				
+				gene = clothes
+				template = celtic_clothes
+			}	
+			accessory = {
+				mode = replace_template				
+				gene = clothes_layer2
+				template = celtic_top_layer
+			}				
+		}
+		weight = {
+			base = 0	
+			
+			modifier = {
+				add = 50 
+				OR = {
+					has_culture_group = maritime_canadian
+					has_culture_group = new_englander
+					has_culture_group = canayen
+					has_culture_group = laurentian
+					has_culture_group = wabanaki
+				}
+				NOR = { 		
+					is_general = yes
+					is_admiral = yes
+					has_trait = gladiator
+				}
+			}
+		}
+	}
+
+	###CARTHAGINIAN###	
+	carthaginian_clothing_replace = {
+		dna_modifiers = {
+			accessory = {
+				mode = replace_template				
+				gene = clothes
+				template = carthaginian_clothes
+			}	
+			accessory = {
+				mode = replace_template				
+				gene = clothes_layer2
+				template = carthaginian_top_layer
+			}				
+		}
+		weight = {
+			base = 0	
+			
+			modifier = {
+				add = 50 
+				OR = {
+					has_culture_group = louisianais
+					has_culture_group = floridian
+					has_culture_group = seminole
+				}
+				NOR = { 		
+					is_general = yes
+					is_admiral = yes
+					has_trait = gladiator
+				}
+			}
+		}
+	}
+
+	###BACTRIAN###	
+	bactrian_clothing_replace = {
+		dna_modifiers = {
+			accessory = {
+				mode = replace_template				
+				gene = clothes
+				template = bactrian_clothes
+			}	
+			accessory = {
+				mode = replace_template				
+				gene = clothes_layer2
+				template = bactrian_top_layer
+			}				
+		}
+		weight = {
+			base = 0	
+			
+			modifier = {
+				add = 50 
+				has_culture_group = deep_southern
+				NOR = { 		
+					is_general = yes
+					is_admiral = yes
+					has_trait = gladiator
+				}
+			}
+		}
+	}
+
 	#Pureon
 	egyptian_male_ruler_modifier = {
 		dna_modifiers = {

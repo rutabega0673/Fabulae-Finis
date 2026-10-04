@@ -37,9 +37,6 @@
 		Aynian.Aynian.Aynian.Aynian
 	}
 	culture = {
-		bandarikjamenn = {} #Icelandic Americans
-		svenskamerikaner = {} #Swedish Americans (Rutabega larpfest)
-		norskamerikanere = {} #Norwegian Americans
 		fingelska = {#Finnish Americans
 			male_names = { Aaron Albert Alvar Alvin Ander Anton Arthur Arvo Bill Bob Bruno Chuck Clint Dave Dick Don Doug Earl Ed Eino Elmer Emil Erik Erwin Frank Fred Gary Glenn Gus Harald Heikki Helge Heimo Herman Iisakki Ike James Jay Jerry Jesse Jim Joe Jon Kaleva Karl Ken Lars Leo Lyman Martin Marvin Matt Mertz Mikko Moses Oli Orin Oskar Otto Ove Paavo Pete Ragnar Rambert Reijo Remnar Reuben Ron Roy Steve Theo Toivo Tom Troy Walter }
 			female_names = { Ada Alana Amanda Anna Aurora Beth Brita Dagmar Doris Edna Elisa Erika Esther Eva Freda Gladys Greta Heidi Imogen Irene Joan Jane June Karen Karenza Karla Kathleen Laura Leena Lynn Mary Nora Pam Renee Sonia Tara Verna Viola }

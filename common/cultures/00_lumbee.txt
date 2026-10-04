@@ -247,6 +247,9 @@
 	
 	graphical_culture = roman_gfx
 	ethnicities = {
-		10 = greek
+		6 = west_african
+		2 = bactrian
+		2 = greek
+		2 = anatolian
 	}
 }

@@ -47,6 +47,7 @@
 	
 	graphical_culture = roman_gfx
 	ethnicities = {
-		10 = greek
+		8 = scythian
+		2 = bactrian
 	}
 }
