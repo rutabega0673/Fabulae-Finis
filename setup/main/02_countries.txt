@@ -2137,7 +2137,7 @@ country = {
 		}
 		PER = { #Peoria
 			government = despotic_monarchy
-			primary_culture = gatewayan
+			primary_culture = heartlander
 			religion = catholic
 			capital = 2798
 

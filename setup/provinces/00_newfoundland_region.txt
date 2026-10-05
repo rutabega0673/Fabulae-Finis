@@ -104,7 +104,7 @@
 
 2185={ #
 	terrain="hills"
-	culture="mikmaw"
+	culture="gaidheal"
 	religion="fogsong"
 	trade_goods="wood"
 	civilization_value=10

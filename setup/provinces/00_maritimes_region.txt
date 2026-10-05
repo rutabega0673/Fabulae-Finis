@@ -611,7 +611,7 @@
 
 6391={ #Baddeck
 	terrain="hills"
-	culture="mikmaw"
+	culture="gaidheal"
 	religion="ursuline"
 	trade_goods="vegetables"
 	civilization_value=10
@@ -624,7 +624,7 @@
 
 6392={ #Whycocomagh
 	terrain="forest"
-	culture="mikmaw"
+	culture="gaidheal"
 	religion="ursuline"
 	trade_goods="marble"
 	civilization_value=10
@@ -650,7 +650,7 @@
 
 6394={ #Port Hawkesbury
 	terrain="forest"
-	culture="mikmaw"
+	culture="gaidheal"
 	religion="fogsong"
 	trade_goods="salt"
 	civilization_value=10
