@@ -71,12 +71,12 @@
 
  haudenosaunee_republic:0 "Seven Nations Confederacy"
  haudenosaunee_republic_desc:0 "The Seven Nations or Haudenosaunee Confederacy is one of the few governments that has a legitmate, rightful claim of a Pre-Event government, said to have been founded by the Great Peacemaker in ancient times. Central to their government is the Great Council, an assembly of 50 hereditary chiefs (Royaner), who each represent the different nations in the Confederacy, making decisions on their behalf. There is no specific leader of the Confederacy, although a Head Royaner is elected to a ceremonial position yearly."
- haudenosaunee_republic_ruler:0 "Head Royaner"
- haudenosaunee_republic_ruler_female:0 "Head Royaner"
+ haudenosaunee_republic_ruler:0 "Thadodá·hoʼ"
+ haudenosaunee_republic_ruler_female:0 "Thadodá·hoʼ"
  tribal_kingdom_ruler_longhouse:0 "Royaner"
  tribal_federation_ruler_longhouse:0 "Royaner"
  tribal_chiefdom_ruler_longhouse:0 "Royaner"
- aristocratic_republic_ruler_longhouse:0 "Head Royaner"
+ aristocratic_republic_ruler_longhouse:0 "Royaner"
  aristocratic_republic_co_ruler_longhouse:0 "Royaner"
  democratic_republic_longhouse:0 "Royaner"
  
@@ -97,6 +97,8 @@
  league_republic_ruler_female_longhouse:0 "Royaner"
  league_republic_ruler_gothamite:0 "Hizzoner"
  league_republic_ruler_female_gothamite:0 "Herzzoner"
+ league_republic_ruler_floridian:0 "Floridiarch"
+ league_republic_ruler_female_floridian:0 "Floridiarch"
 
  cascadian_diarchy:0 "Cascadian Diarchy"
  cascadian_diarchy_desc:0 "A theocratical diarchy, this government is headed by the Captain, a Cascadian military and political leader, and a Dryad, a powerful religious leader. The matriarchal societies favor the rule of women, a practice seen as strange and foreign to some of their neighbors."

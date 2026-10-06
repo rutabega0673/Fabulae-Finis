@@ -642,3 +642,13 @@
  office_republic_physician_deep_southern:0 "Doc"
  office_praetor_deep_southern:0 "Inspector General"
  office_tribune_of_the_treasury_deep_southern:0 "Treasurer"
+
+ #Longhouse Republic Offices
+ office_augur_longhouse:0 "Firekeeper"
+ office_plebeian_aedile_longhouse:0 ""
+ office_censor_longhouse:0 ""
+ office_tribune_of_the_soldiers_longhouse:0 "Doorkeeper"
+ office_pontifex_longhouse:0 ""
+ office_republic_physician_longhouse:0 "Doctor"
+ office_praetor_longhouse:0 ""
+ office_tribune_of_the_treasury_longhouse:0 "Treasurer"
