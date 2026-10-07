@@ -298,3 +298,87 @@ ff_formable_event.6 = { # Rostmann Culture Event
 		add_stability = 10
     }
 }
+
+ff_formable_event.7 = {
+	type = country_event
+	title = "ff_formable_event_7_t"
+	desc = "ff_formable_event_7_desc"
+	
+	left_portrait = current_ruler
+	
+	picture = interesting_histories_italic_hilltop
+	
+	fire_only_once = yes
+	
+	option = { #Don't move capital
+		name = "ff_formable_event_7.a"
+		add_stability_effect = yes
+		capital_scope = {
+			capital_formable_large_effect = yes
+			formable_capital_modifier_large_effect = yes
+		}
+	}
+	option = { #Philadelphia
+		name = "ff_formable_event_7.b"
+		if = {
+			limit = {
+				p:4077 = { is_capital = no }
+			}
+			set_capital = 4077
+			hidden_effect = {
+				p:4077.state = {
+					set_state_capital = 4077
+				}
+			}
+			capital_scope = {
+				establish_city_effect = yes
+			}
+		}
+		p:4077 = {
+			capital_formable_large_effect = yes
+			formable_capital_modifier_large_effect = yes
+		}
+	}
+	option = { #Harrisburg
+		name = "ff_formable_event_7.c"
+		if = {
+			limit = {
+				p:7723 = { is_capital = no }
+			}
+			set_capital = 7723
+			hidden_effect = {
+				p:7723.state = {
+					set_state_capital = 7723
+				}
+			}
+			capital_scope = {
+				establish_city_effect = yes
+			}
+		}
+		p:7723 = {
+			capital_formable_large_effect = yes
+			formable_capital_modifier_large_effect = yes
+		}
+	} 
+	option = { #Pittsburgh
+		name = "ff_formable_event_7.d"
+		if = {
+			limit = {
+				p:9035 = { is_capital = no }
+			}
+			set_capital = 9035
+			hidden_effect = {
+				p:9035.state = {
+					set_state_capital = 9035
+				}
+			}
+			capital_scope = {
+				establish_city_effect = yes
+			}
+		}
+		p:9035 = {
+			capital_formable_large_effect = yes
+			formable_capital_modifier_large_effect = yes
+		}
+	}
+}

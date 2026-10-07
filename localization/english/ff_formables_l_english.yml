@@ -160,6 +160,28 @@
  ACADIA_ADJECTIVE:0 "Acadien"
  acadia_does_not_exist:0 "#Y Acadie#! does not exist."
  acadia_claims_tooltip:0 "#Y Acadie#! will gain claims on the region of #Y Maritimes#!, and on the provinces of #Y Gaspesie#! and #Y Ellsworth#!.."
+
+ form_michigan:0 "Form Michigan"
+ form_michigan_desc:0 "One of the more urbanized area of what was once America, Michigan was a great hub for migration, attracting people to come and settle from all parts of the world. The ferocious Wolverine State ought to be unified once more..."
+ MICHIGAN_NAME:0 "Michigan"
+ MICHIGAN_ADJ:0 "Michigander"
+ MICHIGAN_FRENCH_ADJ:0 "Michiganaise"
+ michigan_claims_tooltip:0 "#Y Michigan#! will gain claims on the region of #Y Michigan#!."
+ michigan_does_not_exist:0 "#Y Michigan#! does not exist."
+
+ form_keystone:0 "Restore the Keystone State"
+ form_keystone_desc:0 "Established by William Penn, Keystone was one of America's 13 colonies, participating valiantly in her revolution. Although the chaos of the event has torn Keystone asunder, it can be renewed by a just and wise hand."
+ KEYSTONE_NAME:0 "Keystone"
+ KEYSTONE_ADJ:0 "Pennamite"
+ keystone_claims_tooltip:0 "#Y Keystone#! will recieve claims on the historical state of #Y Pennsylvania#!."
+ keystone_capital_tooltip:0 "We will be able to select a new #G capital#!."
+ keystone_does_not_exist:0 "#Y Keystone#! does not exist."
+
+ form_gotham:0 "Form Gotham"
+ form_gotham_desc:0 "Gotham is the land of sprawling metroplises, where a glimpse of what the splendor of the old world may have looked like. Such a rich and valuable region would be the jewel of any ruler.."
+ formable_not_gotham_exists:0 "#Y Gotham#! does not exist."
+ GOTHAM_NAME:0 "Gotham"
+ GOTHAM_ADJECTIVE:0 "Gothamite"
  
 
  ## Formable Events ##
@@ -187,4 +209,11 @@
  ff_formable_event_6.a:0 "Like the Rust turned into Steel, so shall our two peoples be forged together."
  ff_formable_event_6.b:0 "It seems better to keep our old ways."
  steel_belt_assimilation_effect_tt:0 "Up to #Y 15%#! of our pops in the #E Steelfolk#! culture group, along with the #Y Gatewayan#!, and #Y Butternutter#! cultures will be #E assimilated#! into our new #E Rostmann#! culture."
+
+ ff_formable_event_7_t:0 "A Keystone Capital"
+ ff_formable_event_7_desc:0 "At last, the peoples of [ROOT.GetCountry.GetName] have been united under one flag. Representatives from cities all over [ROOT.GetCountry.GetName] have been clamoring to have a new administrative capital established. It seems our newly-born nation has already been caught up in patriotic fervor. While our current capital of [ROOT.GetCountry.GetCapital.GetName] has served us well, there could be some benefits to relocating it."
+ ff_formable_event_7.a:0 "Our current capital is already suitable."
+ ff_formable_event_7.b:0 "Philadelphia, where the revolution was born."
+ ff_formable_event_7.c:0 "Harrisburg, the capital of pre-event governors."
+ ff_formable_event_7.d:0 "Pittsburgh, where Titan Margarac forged Pittsburgh Steel."
  ## Extra ##

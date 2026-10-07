@@ -76,7 +76,7 @@ MODERN_VIRGINIA_FLAG = {
 	}
 }
 
-MICHIGAN_RUSTCULT = { #Michigan Promethean flag
+MICHIGAN_RUST_CULT_FLAG = { #Michigan Promethean flag
 	pattern = "pattern_solid.tga"
 	color1 = rgb { 65 110 156 }
 	color2 = rgb { 65 110 156 }

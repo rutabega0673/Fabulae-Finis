@@ -132,7 +132,7 @@
 1036={ #Missanabie
 	terrain="forest"
 	culture="ojibwe"
-	religion="midewiwin"
+	religion="united_church"
 	trade_goods="vegetables"
 	civilization_value=10
 	barbarian_power=0
@@ -158,7 +158,7 @@
 1038={ #White River
 	terrain="forest"
 	culture="ojibwe"
-	religion="midewiwin"
+	religion="united_church"
 	trade_goods="hemp"
 	civilization_value=10
 	barbarian_power=0
@@ -662,7 +662,7 @@
 3030={ #Hornepayne
 	terrain="forest"
 	culture="francontarien"
-	religion="midewiwin"
+	religion="united_church"
 	trade_goods="woad"
 	civilization_value=10
 	barbarian_power=0
@@ -688,7 +688,7 @@
 3032={ #Oba
 	terrain="forest"
 	culture="francontarien"
-	religion="midewiwin"
+	religion="united_church"
 	trade_goods="wood"
 	civilization_value=10
 	barbarian_power=0
@@ -701,7 +701,7 @@
 5109={ #Pineal Lake
 	terrain="forest"
 	culture="ojibwe"
-	religion="midewiwin"
+	religion="united_church"
 	trade_goods="wood"
 	civilization_value=10
 	barbarian_power=0
@@ -727,7 +727,7 @@
 5111={ #Chapleau
 	terrain="forest"
 	culture="ojibwe"
-	religion="midewiwin"
+	religion="united_church"
 	trade_goods="hemp"
 	civilization_value=10
 	barbarian_power=0
@@ -779,7 +779,7 @@
 5907={ #Mud River
 	terrain="marsh"
 	culture="ojibwe"
-	religion="midewiwin"
+	religion="united_church"
 	trade_goods="woad"
 	civilization_value=10
 	barbarian_power=0
@@ -844,7 +844,7 @@
 6115={ #Manitouwadge
 	terrain="forest"
 	culture="ojibwe"
-	religion="midewiwin"
+	religion="united_church"
 	trade_goods="amber"
 	civilization_value=10
 	barbarian_power=0
@@ -1012,7 +1012,7 @@
 6647={ #Aubrey
 	terrain="forest"
 	culture="ojibwe"
-	religion="midewiwin"
+	religion="lakeshore"
 	trade_goods="leather"
 	civilization_value=10
 	barbarian_power=0
@@ -1025,7 +1025,7 @@
 6648={ #Ranger Lake
 	terrain="forest"
 	culture="ojibwe"
-	religion="midewiwin"
+	religion="lakeshore"
 	trade_goods="fur"
 	civilization_value=10
 	barbarian_power=0
@@ -1038,7 +1038,7 @@
 6649={ #Montreal River
 	terrain="forest"
 	culture="ojibwe"
-	religion="midewiwin"
+	religion="lakeshore"
 	trade_goods="fish"
 	civilization_value=10
 	barbarian_power=0
@@ -1051,7 +1051,7 @@
 6727={ #Greenstone
 	terrain="marsh"
 	culture="ojibwe"
-	religion="midewiwin"
+	religion="united_church"
 	trade_goods="fur"
 	civilization_value=10
 	barbarian_power=0
@@ -1064,7 +1064,7 @@
 6728={ #Tashota
 	terrain="marsh"
 	culture="ojibwe"
-	religion="midewiwin"
+	religion="united_church"
 	trade_goods="rice"
 	civilization_value=10
 	barbarian_power=0
@@ -1077,7 +1077,7 @@
 6729={ #Savoff
 	terrain="forest"
 	culture="francontarien"
-	religion="midewiwin"
+	religion="united_church"
 	trade_goods="stone"
 	civilization_value=10
 	barbarian_power=0
@@ -1090,7 +1090,7 @@
 6730={ #Longlac
 	terrain="forest"
 	culture="ojibwe"
-	religion="midewiwin"
+	religion="united_church"
 	trade_goods="wood"
 	civilization_value=10
 	barbarian_power=0

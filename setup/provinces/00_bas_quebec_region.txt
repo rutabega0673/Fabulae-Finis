@@ -248,7 +248,7 @@
 3051={ #La Romaine
 	terrain="taiga"
 	culture="innu"
-	religion="ursuline"
+	religion="fogsong"
 	trade_goods="salt"
 	civilization_value=10
 	barbarian_power=0
@@ -261,7 +261,7 @@
 3052={ #Kegaska
 	terrain="taiga"
 	culture="innu"
-	religion="ursuline"
+	religion="fogsong"
 	trade_goods="fish"
 	civilization_value=10
 	barbarian_power=0
@@ -729,7 +729,7 @@
 7817={ #Natashquan
 	terrain="taiga"
 	culture="innu"
-	religion="ursuline"
+	religion="fogsong"
 	trade_goods="earthware"
 	civilization_value=10
 	barbarian_power=0

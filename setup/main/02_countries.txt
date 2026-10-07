@@ -3268,7 +3268,7 @@ country = {
 		KTK = { # Kenhtè:ke
 			government = tribal_federation
 			primary_culture = haudenosaunee
-			religion = gaiwiio
+			religion = united_church
 			capital = 9493
 
 			technology={
@@ -6254,7 +6254,7 @@ country = {
 		MAD = { # Madawaska
 			government = despotic_monarchy
 			primary_culture = algonquin
-			religion = midewiwin
+			religion = united_church
 			capital = 1274
 
 			technology={

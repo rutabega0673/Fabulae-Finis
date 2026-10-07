@@ -18,7 +18,7 @@
 448={ #The Ridge
 	terrain="plains"
 	culture="algonquin"
-	religion="midewiwin"
+	religion="united_church"
 	trade_goods="wood"
 	civilization_value=19
 	barbarian_power=0
@@ -268,7 +268,7 @@
 1272={ #Bancroft
 	terrain="hills"
 	culture="algonquin"
-	religion="midewiwin"
+	religion="united_church"
 	trade_goods="fur"
 	civilization_value=17
 	barbarian_power=0
@@ -292,7 +292,7 @@
 1273={ #Wingle
 	terrain="marsh"
 	culture="algonquin"
-	religion="veteranic"
+	religion="united_church"
 	trade_goods="precious_metals"
 	civilization_value=16
 	barbarian_power=0
@@ -316,7 +316,7 @@
 1274={ #Madawaska
 	terrain="hills"
 	culture="algonquin"
-	religion="midewiwin"
+	religion="united_church"
 	trade_goods="base_metals"
 	civilization_value=19
 	barbarian_power=0
@@ -507,7 +507,7 @@
 2564={ #Prince Edward
 	terrain="plains"
 	culture="haudenosaunee"
-	religion="gaiwiio"
+	religion="united_church"
 	trade_goods="rice"
 	civilization_value=22
 	barbarian_power=0
@@ -1706,7 +1706,7 @@
 8503={ #Barry S Bay
 	terrain="marsh"
 	culture="algonquin"
-	religion="veteranic"
+	religion="united_church"
 	trade_goods="vegetables"
 	civilization_value=17
 	barbarian_power=0
@@ -2055,7 +2055,7 @@
 9493={ #Belleville
 	terrain="plains"
 	culture="haudenosaunee"
-	religion="gaiwiio"
+	religion="united_church"
 	trade_goods="woad"
 	civilization_value=22
 	barbarian_power=0

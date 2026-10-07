@@ -27,7 +27,7 @@
 516={ #Schefferville
 	terrain="taiga"
 	culture="innu"
-	religion="midewiwin"
+	religion="fogsong"
 	trade_goods="wood"
 	civilization_value=10
 	barbarian_power=0
@@ -313,7 +313,7 @@
 4414={ #Labrador City
 	terrain="taiga"
 	culture="innu"
-	religion="midewiwin"
+	religion="fogsong"
 	trade_goods="stone"
 	civilization_value=10
 	barbarian_power=0
@@ -326,7 +326,7 @@
 4415={ #Harlands Landing
 	terrain="marsh"
 	culture="innu"
-	religion="midewiwin"
+	religion="fogsong"
 	trade_goods="cattle"
 	civilization_value=10
 	barbarian_power=0
@@ -671,7 +671,7 @@
 9301={ #Fermont
 	terrain="marsh"
 	culture="innu"
-	religion="midewiwin"
+	religion="fogsong"
 	trade_goods="iron"
 	civilization_value=10
 	barbarian_power=0

@@ -1,0 +1,109 @@
+country_decisions = {
+	form_michigan = {
+		
+		potential = {
+			num_of_cities >= 1
+			OR = {
+				primary_culture = michigander
+				primary_culture = hollander
+				primary_culture = michiganais
+				primary_culture = potowatomi
+				primary_culture = motowner
+				primary_culture = upnorther
+				capital_scope = {
+					is_in_region = michigan_region
+				}
+			}
+			NOR = {
+					tag = MSH
+					is_tier_2_formable_trigger = yes
+					is_endgame_tag_trigger = yes
+				}
+			}
+		
+		highlight = {
+			scope:province = {
+				OR = {
+					province_id = 571
+					province_id = 4299
+					province_id = 6797
+					province_id = 6263
+					province_id = 560
+					province_id = 7779
+					province_id = 5991
+					province_id = 563
+					province_id = 902
+					province_id = 962
+					province_id = 3072
+					province_id = 1564
+					province_id = 8953
+				}
+			}
+		}
+		
+		allow = {
+			custom_tooltip = {
+				text = michigan_does_not_exist
+				NOT = {
+					any_country = {
+						tag = MSH
+					}
+				}
+			}
+			can_form_nation_trigger = yes
+			owns_or_subject_owns = 571
+			owns_or_subject_owns = 4299
+			owns_or_subject_owns = 6797
+			owns_or_subject_owns = 6263
+			owns_or_subject_owns = 560
+			owns_or_subject_owns = 7779
+			owns_or_subject_owns = 5991
+			owns_or_subject_owns = 563
+			owns_or_subject_owns = 902
+			owns_or_subject_owns = 962
+			owns_or_subject_owns = 3072
+			owns_or_subject_owns = 1564
+			owns_or_subject_owns = 8953
+		}
+		
+		
+		effect = {
+			custom_tooltip = "tier_2_formable_tooltip"
+			if = { limit = { is_tribal = yes} change_government = tribal_federation tribal_formable_government_change_effect = yes }
+			switch_government_type_event_clearup_effect = yes
+			change_country_name = "MICHIGAN_NAME"
+			hidden_effect = {
+				change_country_adjective = "MICHIGAN_ADJ"
+				if = { #Promethean Flag
+					limit = { religion = promethean }
+					change_country_color =  "michigan_blue"
+					change_country_flag = MICHIGAN_RUST_CULT_FLAG
+				}
+				else_if = { # French flag
+					limit = { primary_culture = michiganais }
+					change_country_color =  "michigan_blue"
+					change_country_flag = MICHIGAN_FLEUR_FLAG
+					change_country_adjective = "MICHIGAN_FRENCH_ADJ"
+			}
+				else = { #Fallback'll use standard Missouri Flag
+					change_country_color =  "michigan_blue"
+					change_country_flag = MICHIGAN_FLAG
+				}
+				change_country_tag = MSH
+			}
+			capital_scope = {
+				capital_formable_medium_effect = yes
+				formable_capital_modifier_normal_effect = yes
+			}
+			custom_tooltip = michigan_claims_tooltip
+			hidden_effect = {
+				region:michigan_region = { formable_region_province_effect = yes }
+			}
+			add_3_free_province_investments = yes
+		}
+		
+		ai_will_do = {
+			base = 1
+		}
+	}
+}

@@ -1,0 +1,58 @@
+﻿country_decisions = {
+
+	#Form Gotham
+	form_gotham = {
+	potential = {
+		num_of_cities >= 1
+		primary_culture = gothamite
+		NOR = {
+			is_tier_1_formable_trigger = yes
+			is_tier_2_formable_trigger = yes
+			is_endgame_tag_trigger = yes
+			has_variable = has_formed_gotham
+		}
+	}
+	highlight = {
+		scope:province = {
+			OR = {
+				is_in_area = new_york_area
+				is_in_area = north_jersey_area
+				province_id = 7969
+			}
+		}
+	}
+	allow = {
+		custom_tooltip = {
+			text = "formable_not_gotham_exists"
+			NOT = {
+				any_country = {
+					tag = GH1
+				}
+			}
+		}
+		can_form_nation_trigger = yes
+		owns_or_subject_owns_area = new_york_area
+		owns_or_subject_owns_area = north_jersey_area
+		owns_or_subject_owns = 7969
+	}
+	effect = {
+		custom_tooltip = "tier_1_formable_tooltip"
+		change_country_name = GOTHAM_NAME
+		add_2_free_province_investments = yes
+		hidden_effect = {
+			change_country_adjective = GOTHAM_ADJECTIVE
+			change_country_color = gotham_dark_teal
+			change_country_tag = GH1
+			change_country_flag = "GOTHAM_FLAG"
+			set_variable = has_formed_gotham
+		}
+		capital_scope = {
+			capital_formable_small_effect = yes
+			formable_capital_modifier_normal_effect = yes
+		}
+	}
+		ai_will_do = {
+			base = 1
+		}
+	}
+}

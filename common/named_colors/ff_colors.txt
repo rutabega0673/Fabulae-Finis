@@ -23,5 +23,8 @@
 	ontario_green = rgb { 19 109 57 }
 	steel_belt_color = rgb { 128 128 128 }
 	acadia_blue = rgb { 49 70 133 }
+	michigan_blue = rgb { 32 68 99 }
+	keystone_purple = rgb { 69 25 80 }
+	gotham_dark_teal = rgb { 39 111 108 }
 }
 
