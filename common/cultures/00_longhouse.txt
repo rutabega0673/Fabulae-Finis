@@ -1,7 +1,7 @@
 ﻿longhouse = {
 	color = rgb { 168 140 229 }
 
-	levy_template = levy_central_asia
+	levy_template = levy_mid_atlantic
 	
 	primary = light_infantry
 	second = heavy_cavalry

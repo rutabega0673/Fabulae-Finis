@@ -124,11 +124,7 @@
  theocratic_monarchy_ruler_clairvoyant:0 "High Medium"
  theocratic_monarchy_ruler_female_clairvoyant:0 "High Medium"
 
- despotic_monarchy_ruler_rosicrucian:0 "Imperator"
- aristocratic_monarchy_ruler_rosicrucian:0 "Imperator"
- plutocratic_monarchy_ruler_rosicrucian:0 "Imperator"
- stratocratic_monarchy_ruler_rosicrucian:0 "Imperator"
- theocratic_monarchy_ruler_rosicrucian:0 "Imperator"
+ theocratic_monarchy_ruler_rosicrucian:0 "High Prophet"
  
  despotic_monarchy_ruler_americanist:0 "Colonel"
  aristocratic_monarchy_ruler_americanist:0 "Major"

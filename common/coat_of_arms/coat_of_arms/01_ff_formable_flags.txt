@@ -797,3 +797,15 @@ GOTHAM_FLAG = {
 		instance = { position = { 0.5 0.45 } scale = { 0.575 0.6 }  }
 	}
 }
+
+HAUDENOSAUNEE_FLAG = { # Haudenosaunee
+	pattern = "pattern_solid.tga"
+	color1 = rgb { 85 50 150 }
+	color2 = "offwhite"
+	colored_emblem = {
+		texture = "ce_haudenosaunee.dds"
+		color1 = "offwhite"
+		color2 = "ck2_red"
+		instance = { scale = { 1.0 1.0 } }
+	}
+}

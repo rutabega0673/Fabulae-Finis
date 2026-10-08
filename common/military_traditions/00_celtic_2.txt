@@ -18,11 +18,67 @@
 			country_culture_group = maritime_canadian
 		}
 		trigger_else_if = {
+			limit = { country_culture_group = laurentian }
+			custom_tooltip = {
+				text = "began_with_tradition_group"
+			}
+			country_culture_group = laurentian
+		}
+		trigger_else_if = {
 			limit = { country_culture_group = new_englander }
 			custom_tooltip = {
 				text = "began_with_tradition_group"
 			}
 			country_culture_group = new_englander
+		}
+		trigger_else_if = {
+			limit = { country_culture_group = wabanaki }
+			custom_tooltip = {
+				text = "began_with_tradition_group"
+			}
+			country_culture_group = wabanaki
+		}
+		trigger_else_if = {
+			limit = { country_culture_group = east_cree }
+			custom_tooltip = {
+				text = "began_with_tradition_group"
+			}
+			country_culture_group = east_cree
+		}
+		trigger_else_if = {
+			limit = { country_culture_group = arctic }
+			custom_tooltip = {
+				text = "began_with_tradition_group"
+			}
+			country_culture_group = arctic
+		}
+		trigger_else_if = {
+			limit = { primary_culture = haudenosaunee }
+			custom_tooltip = {
+				text = "began_with_tradition_group"
+			}
+			primary_culture = haudenosaunee
+		}
+		trigger_else_if = {
+			limit = { primary_culture = algonquin }
+			custom_tooltip = {
+				text = "began_with_tradition_group"
+			}
+			primary_culture = algonquin
+		}
+		trigger_else_if = {
+			limit = { primary_culture = odawa }
+			custom_tooltip = {
+				text = "began_with_tradition_group"
+			}
+			primary_culture = odawa
+		}
+		trigger_else_if = {
+			limit = { primary_culture = ojibwe }
+			custom_tooltip = {
+				text = "began_with_tradition_group"
+			}
+			primary_culture = ojibwe
 		}
 		trigger_else = {
 			custom_tooltip = {
@@ -94,7 +150,7 @@
 	celtic_britannic_path_6 = { ###Celtic 1B
 		modifier = { 
 			light_cavalry_morale = 0.1
-			chariots_morale = 0.15
+			heavy_cavalry_morale = 0.15
 		}
 		icon = celtic_britannic_path_6
 		requires = { celtic_germanic_path_4 }
@@ -115,7 +171,7 @@
 
 	celtic_philosophy_start_bonus = {
 		modifier = { 
-			chariots_defensive = 0.25
+			heavy_cavalry_defensive = 0.2
 		}
 		icon = celtic_philosophy_start_bonus
 		requires = {  }
@@ -123,7 +179,7 @@
 
 	celtic_britannic_path_1 = { ###Celtic 2BA
 		modifier = { 
-			chariots_offensive = 0.25
+			light_cavalry_defensive = 0.2
 		}
 		icon = celtic_britannic_path_1
 		requires = { celtic_britannic_path_5 }
@@ -131,7 +187,7 @@
 
 	celtic_britannic_path_5 = { ###Celtic 2BB
 		modifier = { 
-			chariots_discipline = 0.15
+			heavy_cavalry_offensive = 0.15
 		}
 		icon = celtic_britannic_path_5
 		requires = { celtic_philosophy_start_bonus }
@@ -139,7 +195,9 @@
 
 	celtic_germanic_path_2 = { ###Celtic 3B
 		modifier = { 
-			global_tribesmen_output = 0.1
+			global_freemen_output = 0.05
+			spearmen_morale = 0.10
+			pikemen_morale = 0.10
 		}
 		icon = celtic_germanic_path_2
 		requires = { celtic_britannic_path_3 }
@@ -194,7 +252,8 @@
 
 	celtic_north_african_enable = { ###Celtic 4BB
 		modifier = { 
-			light_cavalry_defensive = 0.1 
+			spearmen_defensive = 0.10
+			pikemen_defensive = 0.10
 			land_morale_modifier = 0.025
 		}
 		icon = north_african_tribal_path_3

@@ -2,7 +2,7 @@
  ######
  #####Celtic
  ######
- celtic_philosophy:1 "Celtic Traditions"
+ celtic_philosophy:1 "Maritime Traditions"
  celtic_philosophydesc:3 "The Barbarian Traditions encompass the fighting styles of the peoples of Hispania, Gaul, Britannia, and Germania, among others. They mostly relied on large formations of lightly armored infantry equipped with spears or swords, supported by nimble chariot formations or light cavalry, and made extensive use of ambush tactics, especially in forests.\n\nCan unlock the '#Y Raise Levies#!' Ability\nCan unlock the '#Y Hit and Run#!' Tactic\n\n#G Tradition Focuses#!\nStrong #Y Light Infantry#!\nGood #Y Archers#!, #Y Chariots#!"
  celtic_philosophy_start_bonus:0 "Chariot Culture"
  celtic_philosophy_start_bonus_desc:0 "The use of chariots in warfare stems back many thousands of years, and holds strong affiliations with nobility and class; chariot inhumations speak to the honor that can be won through battle. Chariots themselves were commonly used as mobile platforms with two to three occupants, from which javelins or other thrown weapons were used to break the ranks of their opponents."
@@ -454,7 +454,7 @@
  persian_levantine_enable:1 "Embrace Perso-Levantine Influence"
  persian_levantine_enable_desc:0 ""
  latin_philosophy_2:0 "Steelfolk Traditions"
- celtic_philosophy_2:0 "Britannic Traditions"
+ celtic_philosophy_2:0 "Laurentian Traditions"
  levantine_philosophy_2:0 "Levantine Maritime Traditions"
  mauryan_philosophy_2:0 "Indian Tribe Traditions"
  north_african_philosophy_2:0 "Numidian Traditions"

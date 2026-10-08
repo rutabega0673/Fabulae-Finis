@@ -995,14 +995,13 @@ NEU = { #New Ulm
 	}
 }
 
-HAD = { # Seven Nations
+HAD = { # Onondaga
 	pattern = "pattern_solid.tga"
-	color1 = rgb { 85 50 150 }
+	color1 = rgb { 196 147 106 }
 	color2 = "offwhite"
 	colored_emblem = {
 		texture = "ce_haudenosaunee.dds"
-		color1 = "offwhite"
-		color2 = "ck2_red"
+		color1 = "ck2_yellow"
 		instance = { scale = { 1.0 1.0 } }
 	}
 }

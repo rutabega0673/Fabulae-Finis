@@ -1,7 +1,7 @@
 ﻿laurentian = {
 	color = rgb { 168 10 22 }
 
-	levy_template = levy_central_asia
+	levy_template = levy_ontarian
 	
 	primary = light_infantry
 	second = heavy_cavalry
@@ -1509,6 +1509,7 @@
 	}
 	culture = {
 		sixer = {
+			levy_template = levy_sixer
 			male_names = {
 				Abdullah Abdur Abhishek Abiodun Adam Adel Aditya Adrian Aeneas Afonso Ahmed Aidan Akash Akhil Akhtar Alamgir Albert Alessandro Alexander Alfred Ali Allan Alonzo Alvin Amar Ambrose Amedeo Ameer Amrik Anderson Andrew Andrzej Angelo Angus Anson Anthony Anwar Archibald Arif Arjun Arshad Arthur Arvind Asaf Ashok Ashwin Atwood Avard
 				Babatunde Bahadur Bahram Baldwin Balwinder Banting Baqir Barclay Bashir Bassem Benjamin Bennett Bernard Blair Bogdan Boris Bradley Branko Brendan Brian Brock Brody Bruce Bruno Buckam Burton Butler Byron
@@ -1566,6 +1567,7 @@
 			}
 		}
 		shieldshorer = {
+			levy_template = levy_shieldshorer
 			male_names = {
 				Aarne Ab Aino Aku Albin Alex Alf Allan Alvin Andy Angelo Angus Art
 				Barclay Bennett Bentley Bernard Bertram Bertrand Bill Brendan Brian Bruce Bruno

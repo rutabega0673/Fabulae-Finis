@@ -1,7 +1,7 @@
 ﻿canayen = {
 	color = rgb { 25 25 127 }
 
-	levy_template = levy_central_asia
+	levy_template = levy_quebecois
 	
 	primary = light_infantry
 	second = heavy_cavalry
@@ -1300,7 +1300,9 @@
 		Ziad_e_act_
 	}
 	culture = {
-		montrealais = {}
+		montrealais = {
+			levy_template = levy_montrealais
+		}
 		pierrais = {
 			male_names = {
 				Abou Abilio Adrien Alban Alain Albert Aleksandar Alexandre Alphonse Andr_e_act_ Andr_e_act_e Andre Andrei Anthony Antoine Arnaud Arrossam Audric 
@@ -1562,6 +1564,7 @@
 			}
 		}
 		acadien = {
+			levy_template = levy_acadien
 			male_names = {
 				Abel Ad_e_act_lard Alb_e_act_ric Albert Alcide Ald_e_act_ric Alden Alexandre Alexis Alfred Alph_e_act_e Alphonse Amable Amand Ambroise Am_e_act_d_e_act_e Andr_e_act_ Annibal Anselm Antoine Antonin Archange Arthur Aubin-Edmond Augustin Augustule Azor
 				Baptiste Barth_e_act_lemy Baudouin Benjamin Beno_i_hat_t Benoni Bernard Bertrand Boh_e_act_mond
@@ -2162,6 +2165,7 @@
 		}
 		quebecois = {}
 		chiac = {
+			levy_template = levy_acadien
 			male_names = {
 				Abel Ad_e_act_lard Alb_e_act_ric Albert Alcide Ald_e_act_ric Alden Alexandre Alexis Alfred Alph_e_act_e Alphonse Allain Amable Amand Ambroise Am_e_act_d_e_act_e Andrew Andr_e_act_ Annibal Anselm Antoine Antonin Archange Arthur Aubin-Edmond Augustin Augustule Azor
 				Baptiste Barth_e_act_lemy Baudouin Benjamin Beno_i_hat_t Benoni Bernard Bertrand Boh_e_act_mond Bradley Brian Byron
@@ -2571,7 +2575,8 @@
 			}
 		}
 		michiganais = {} #Muskrat French
-		nouvelle_angleterrais = { #Kermasseaiss
+		nouvelle_angleterrais = { #Gallic
+			levy_template = levy_acadien
 			male_names = { #Acadien Namelist + some additions
 				Abel Ad_e_act_lard Alb_e_act_ric Albert Alcide Ald_e_act_ric Alden Alexandre Alexis Alfred Alph_e_act_e Alphonse Amable Amand Ambroise Am_e_act_d_e_act_e Andr_e_act_ Annibal Anselm Antoine Antonin Archange Arthur Aubin-Edmond Augustin Augustule Azor
 				Baptiste Barth_e_act_lemy Baudouin Benjamin Beno_i_hat_t Benoni Bernard Bertrand Boh_e_act_mond
@@ -3279,6 +3284,7 @@
 			}
 		}
 		brayon = { #Francophones in Madawaska county, NB, and northern Maine
+			levy_template = levy_acadien
 			male_names = {
 				Abel Ad_e_act_lard Alb_e_act_ric Albert Alcide Ald_e_act_ric Alden Alexandre Alexis Alfred Alph_e_act_e Alphonse Amable Amand Ambroise Am_e_act_d_e_act_e Andr_e_act_ Annibal Anselm Antoine Antonin Archange Arthur Aubin-Edmond Augustin Augustule Azor
 				Baptiste Barth_e_act_lemy Baudouin Benjamin Beno_i_hat_t Benoni Bernard Bertrand Boh_e_act_mond

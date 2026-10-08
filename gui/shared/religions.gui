@@ -58,7 +58,7 @@ types religions {
 			visible = "[EqualTo_string(Religion.GetNameWithNoTooltip, Localize('egyptology'))]"
 		}
 		religion_icon = {
-			texture = "gfx/interface/icons/religions/rosicrucian.dds"
+			texture = "gfx/interface/icons/religions/revivalist.dds"
 			visible = "[EqualTo_string(Religion.GetNameWithNoTooltip, Localize('rosicrucian'))]"
 		}
 		religion_icon = {

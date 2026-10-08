@@ -26,6 +26,13 @@
 			country_culture_group = new_englander 
 		}
 		trigger_else_if = {
+			limit = { country_culture_group = longhouse }
+			custom_tooltip = {
+				text = "began_with_tradition_group"
+			}
+			country_culture_group = longhouse
+		}
+		trigger_else_if = {
 			limit = { primary_culture = southron }
 			custom_tooltip = {
 				text = "began_with_tradition_group"
