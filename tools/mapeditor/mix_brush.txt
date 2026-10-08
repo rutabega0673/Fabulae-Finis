@@ -1028,6 +1028,104 @@
 			}
 		}
 
+		Sample={
+			Name="Sample from 1087, 1166"
+			Materials={
+				Material={
+					MaterialId="farmland_01"
+					Value=146
+				}
+
+				Material={
+					MaterialId="plains_01_rough"
+					Value=47
+				}
+
+				Material={
+					MaterialId="medi_grass_01"
+					Value=39
+				}
+
+				Material={
+					MaterialId="drylands_01"
+					Value=18
+				}
+
+				Material={
+					MaterialId="mountains"
+					Value=5
+				}
+
+			}
+		}
+
+		Sample={
+			Name="Sample from 1087, 1166"
+			Materials={
+				Material={
+					MaterialId="farmland_01"
+					Value=96
+				}
+
+				Material={
+					MaterialId="plains_01_rough"
+					Value=98
+				}
+
+				Material={
+					MaterialId="medi_grass_01"
+					Value=36
+				}
+
+				Material={
+					MaterialId="drylands_01"
+					Value=18
+				}
+
+				Material={
+					MaterialId="mountains"
+					Value=7
+				}
+
+			}
+		}
+
+		Sample={
+			Name="Sample from 1090, 1306"
+			Materials={
+				Material={
+					MaterialId="plains_01_rough"
+					Value=49
+				}
+
+				Material={
+					MaterialId="farmland_01"
+					Value=72
+				}
+
+				Material={
+					MaterialId="forest_pine_01"
+					Value=84
+				}
+
+				Material={
+					MaterialId="medi_grass_01"
+					Value=29
+				}
+
+				Material={
+					MaterialId="drylands_01"
+					Value=15
+				}
+
+				Material={
+					MaterialId="mountains"
+					Value=6
+				}
+
+			}
+		}
+
 	}
 }
 

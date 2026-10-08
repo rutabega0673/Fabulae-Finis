@@ -16,7 +16,7 @@
 	religion = gaiwiio
 	deity_category = culture 
 	deification_trigger = {
-		can_deify_trigger = no
+		can_deify_trigger = yes
 	}
 
 	on_activate = {
@@ -35,11 +35,11 @@ deity_skanatalihyo = { #Handsome Lake
 			}
 		}
 	}
-	icon = deity_tribal_wealth
+	icon = deity_tribal_eloquence
 	passive_modifier = { global_pop_conversion_speed_modifier = omen_global_pop_conversion_speed_modifier_svalue }
 	omen = { global_population_happiness = omen_global_population_happiness } #Bonus from Omen
 	religion = gaiwiio
-	deity_category = economy
+	deity_category = culture
 	deification_trigger = {
 		can_deify_trigger = yes
 	}
@@ -66,7 +66,7 @@ deity_four_messengers = {
 	religion = gaiwiio
 	deity_category = fertility #This Deity uses a War slot.
 	deification_trigger = {
-		can_deify_trigger = no
+		can_deify_trigger = yes
 	}
 
 	on_activate = {
@@ -91,7 +91,7 @@ deity_cornplanter = {
 	religion = gaiwiio
 	deity_category = war #This Deity uses a War slot.
 	deification_trigger = {
-		can_deify_trigger = no
+		can_deify_trigger = yes
 	}
 
 	on_activate = {
@@ -116,10 +116,111 @@ deity_he_no = {
 	religion = gaiwiio
 	deity_category = war #This Deity uses a War slot.
 	deification_trigger = {
-		can_deify_trigger = no
+		can_deify_trigger = yes
 	}
 
 	on_activate = {
 		military_apotheosis_defensive_effect = yes
+	}
+}
+deity_sky_woman = {
+	trigger = {
+		
+		OR = {
+			common_deity_trigger = {
+				RELIGION = gaiwiio
+			}
+			deity:omen_sky_woman = {
+				holy_site_deity_check_trigger = yes
+			}
+		}
+	}
+	icon = deity_sky_woman
+	passive_modifier = { global_monthly_food_modifier = deity_global_monthly_food_modifier_svalue }
+	omen = { global_monthly_civilization = omen_global_monthly_civilization_svalue } #Bonus from Omen
+	religion = gaiwiio
+	deity_category = fertility
+	deification_trigger = {
+		can_deify_trigger = yes
+	}
+
+	on_activate = {
+		fertility_apotheosis_food_effect = yes
+	}
+}
+deity_hiawatha = {
+	trigger = {
+		
+		OR = {
+			common_deity_trigger = {
+				RELIGION = gaiwiio
+			}
+			deity:omen_hiawatha = {
+				holy_site_deity_check_trigger = yes
+			}
+		}
+	}
+	icon = deity_hiawatha
+	passive_modifier = { enact_law_cost_modifier = -0.15 }
+	omen = { happiness_for_same_culture_modifier = omen_happiness_for_same_culture_modifier_svalue } #Bonus from Omen
+	religion = gaiwiio
+	deity_category = culture
+	deification_trigger = {
+		can_deify_trigger = yes
+	}
+
+	on_activate = {
+		military_apotheosis_capital_freemen_effect = yes
+	}
+}
+deity_great_peacemaker = {
+	trigger = {
+		
+		OR = {
+			is_republic = yes
+			common_deity_trigger = {
+				RELIGION = gaiwiio
+			}
+			deity:omen_great_peacemaker = {
+				holy_site_deity_check_trigger = yes
+			}
+		}
+	}
+	icon = deity_tribal_eloquence
+	passive_modifier = { character_loyalty = 3 }
+	omen = { monthly_party_approval = 0.05 } #Bonus from Omen
+	religion = gaiwiio
+	deity_category = culture
+	deification_trigger = {
+		can_deify_trigger = yes
+	}
+
+	on_activate = {
+		culture_apotheosis_capital_effect = yes
+	}
+}
+deity_jigonhsasee = {
+	trigger = {
+		
+		OR = {
+			rare_deity_trigger = {
+				RELIGION = gaiwiio
+			}
+			deity:omen_jigonhsasee = {
+				holy_site_deity_check_trigger = yes
+			}
+		}
+	}
+	icon = deity_tribal_wealth
+	passive_modifier = { global_tax_modifier = deity_global_tax_modifier_svalue }
+	omen = { manpower_recovery_speed = omen_manpower_recovery_speed } #Bonus from Omen
+	religion = gaiwiio
+	deity_category = economy
+	deification_trigger = {
+		can_deify_trigger = yes
+	}
+
+	on_activate = {
+		culture_apotheosis_civic_tech_effect = yes
 	}
 }

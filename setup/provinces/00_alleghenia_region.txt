@@ -522,7 +522,7 @@
 
 8593={ #Niagra Falls
 	terrain="hills"
-	culture="haudenosaunee"
+	culture="upstater"
 	religion="rosicrucian"
 	trade_goods="stone"
 	civilization_value=22

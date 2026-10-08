@@ -1030,6 +1030,9 @@
 		culture="sixer"
 		amount=2
 	}
+	tribesmen={
+		amount=3
+	}
 	slaves={
 		amount=2
 	}

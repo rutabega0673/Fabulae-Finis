@@ -71,14 +71,8 @@
 
  haudenosaunee_republic:0 "Seven Nations Confederacy"
  haudenosaunee_republic_desc:0 "The Seven Nations or Haudenosaunee Confederacy is one of the few governments that has a legitmate, rightful claim of a Pre-Event government, said to have been founded by the Great Peacemaker in ancient times. Central to their government is the Great Council, an assembly of 50 hereditary chiefs (Royaner), who each represent the different nations in the Confederacy, making decisions on their behalf. There is no specific leader of the Confederacy, although a Head Royaner is elected to a ceremonial position yearly."
- haudenosaunee_republic_ruler:0 "Thadodá·hoʼ"
- haudenosaunee_republic_ruler_female:0 "Thadodá·hoʼ"
- tribal_kingdom_ruler_longhouse:0 "Royaner"
- tribal_federation_ruler_longhouse:0 "Royaner"
- tribal_chiefdom_ruler_longhouse:0 "Royaner"
- aristocratic_republic_ruler_longhouse:0 "Royaner"
- aristocratic_republic_co_ruler_longhouse:0 "Royaner"
- democratic_republic_longhouse:0 "Royaner"
+ haudenosaunee_republic_ruler:0 "Thadodá·ho'"
+ haudenosaunee_republic_ruler_female:0 "Thadodá·ho'"
  
  range_tribal_kingdom:0 "Range"
  range_tribal_kingdom_desc:0 "A collection of many semi-nomadic tribes, sedentary townships, and the odd proper city or two, a Range is ruled by an elected Sheriff and his Deputy, who are appointed by representatives of these settlements."

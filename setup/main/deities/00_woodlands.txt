@@ -20,5 +20,21 @@ deity_manager = {
 			key = omen_cornplanter
 			deity = deity_cornplanter
 		}
+		905 = {
+			key = omen_sky_woman
+			deity = deity_sky_woman
+		}
+		906 = {
+			key = omen_hiawatha
+			deity = deity_hiawatha
+		}
+		907 = {
+			key = omen_great_peacemaker
+			deity = deity_great_peacemaker
+		}
+		908 = {
+			key = omen_jigonhsasee
+			deity = deity_jigonhsasee
+		}
 	}
 }

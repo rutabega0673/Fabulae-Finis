@@ -38,11 +38,11 @@
  aristocratic_republic_co_ruler_:0 ""
  aristocratic_republic_co_ruler_female_:0 ""
  oligarchic_republic_ruler_:0 ""
- oligarchic_republic_ruler_female_:0 "I"
+ oligarchic_republic_ruler_female_:0 ""
  oligarchic_republic_co_ruler_:0 ""
  oligarchic_republic_co_ruler_female_:0 ""
  democratic_republic_ruler_:0 ""
- democratic_republic_ruler_female_:0 "I"
+ democratic_republic_ruler_female_:0 ""
  democratic_republic_co_ruler_:0 ""
  democratic_republic_co_ruler_female_:0 ""
  theocratic_republic_ruler_:0 ""
@@ -643,12 +643,20 @@
  office_praetor_deep_southern:0 "Inspector General"
  office_tribune_of_the_treasury_deep_southern:0 "Treasurer"
 
+
+ #Longhouse Republic Titles
+ aristocratic_republic_ruler_longhouse:0 "Royaner"
+ aristocratic_republic_co_ruler_longhouse:0 "co-Royaner"
+ democratic_republic_ruler_longhouse:0 "Royaner"
+ oligarchic_republic_ruler_longhouse:0 "Royaner"
+ plutocratic_republic_ruler_longhouse:0 "Royaner"
+
  #Longhouse Republic Offices
  office_augur_longhouse:0 "Firekeeper"
- office_plebeian_aedile_longhouse:0 ""
- office_censor_longhouse:0 ""
+ office_plebeian_aedile_longhouse:0 "Judge"
+ office_censor_longhouse:0 "Censor"
  office_tribune_of_the_soldiers_longhouse:0 "Doorkeeper"
  office_pontifex_longhouse:0 "Faithkeeper"
  office_republic_physician_longhouse:0 "Doctor"
- office_praetor_longhouse:0 ""
+ office_praetor_longhouse:0 "War Chief"
  office_tribune_of_the_treasury_longhouse:0 "Treasurer"

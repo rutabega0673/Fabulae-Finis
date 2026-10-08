@@ -184,7 +184,7 @@
 		DREPSIANOI CHORASMIOI OUARNOI SKORDAI MAROUKAIOI TOCHAROI KOMOI CHOMAROI SALATARAE TAMBYZOI ZARIASPAEA
 	}
 	
-	graphical_culture = thracian_gfx
+	graphical_culture = roman_gfx
 	ethnicities = {
 		6 = roman
 		2 = illyrian

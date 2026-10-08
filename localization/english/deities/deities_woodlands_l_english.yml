@@ -20,6 +20,22 @@
  omen_cornplanter:0 "Cornplanter"
  omen_cornplanter_desc:0 "#Y Gai'wiio Deity#! \nThe half-brother of Handsome Lake, Cornplanter, or Kaiiontwa'kon in the Seneca tongue, was a mighty chief of his people. He fought frequently with the Americans, and was equally skilled in warfare and diplomacy. His adoption and endorsement of Handsome Lake's Code helped to cement the faith in it's infancy."
 
+ deity_sky_woman:0 "$omen_sky_woman$"
+ omen_sky_woman:0 "Sky Woman"
+ omen_sky_woman_desc:0 "#Y Gai'wiio Deity#!\nAlso known as Atahensic, Sky Woman is worshipped by the Wendat and Haudenosaunee. During the time of creation, Sky Woman lived in the Upper World, and was digging up a tree, when she discovered a hole that led to a great sky under water. Falling through the hole, birds carried her down, when she was rescued by a giant turtle. She then gave birth to two twins, Skyholder and Flint. Skyholder was birthed fine, but Flint was a wicked child, bursting out of her side, killing Sky Woman. From her body, corn, beans, squash, sunflowers, strawberries, and tobacco grew."
+
+ deity_hiawatha:0 "$omen_hiawatha$"
+ omen_hiawatha:0 "Hiawatha"
+ omen_hiawatha_desc:0 "#Y Gai'wiio Hero#!\nHiawatha was one of the followers of the Great Peacemaker, and one of the three founders of the Haudenosaunee Confederacy. Great Peacemaker met Hiawatha, and at this time he was living an unrighteous life, as a cannibal. Great Peacemaker persuaded him to abandon such ways, and he accepted the Great Law of Peace. He convinced the wicked sorcerer Atotarho to give up his malicious ways. Together with the Great Peacemaker, they composed the laws of the Great Peace, and the Peace Hymn. Hiawatha was known for his oratory ability, and ability to make peace between quarreling chiefs."
+
+ deity_great_peacemaker:0 "$omen_great_peacemaker$"
+ omen_great_peacemaker:0 "Great Peacemaker"
+ omen_great_peacemaker_desc:0 "#Y Gai'wiio Hero#!\nThe most influential figure to the Haudenosaunee, Great Peacemaker formulated the laws of the Great Peace, established the Haudenosaune system of governance, and put an end to the conflicts that the five brothers were engaged in between each other. Central to his Great Peace was the promotion of Good Mind, Good Health, and Righteousness. At Onondaga Lake, where Atotarho was freed from his demons, representatives of the Five nations, Mohawk, Oneida, Onodaga, Cayuga, and Seneca planted a tree, and buried their weapons beneath it, thus establishing Onondaga as the capital of the Haudenosaunee."
+
+ deity_jigonhsasee:0 "$omen_jigonhsasee$"
+ omen_jigonhsasee:0 "Jigonhsasee"
+ omen_jigonhsasee_desc:0 "#Y Gai'wiio Hero#!\nThe third founder of the Haudenosaunee Confederacy, Jigonhsasee was an advisor to the Great Peacemaker. She was noted for her hospitality, and ability to make peace. It was Jigonhasee who assigned the first Royantiheson of the Haudenosaunee Confederacy, becoming the first Clan Mother. For this, she was known as the Mother of Nations."
+
  deity_:0 "$omen_$"
  omen_:0 ""
  omen__desc:0 ""

@@ -1162,7 +1162,7 @@
 	barbarian_power=0
 	province_rank="settlement"
 	nobles={
-		amount=1
+		amount=2
 	}
 	citizen={
 		amount=3
@@ -1185,6 +1185,7 @@
 	tribesmen={
 		amount=2
 	}
+	holy_site=omen_great_peacemaker
 }
 
 6851={ #Camillus
@@ -1282,6 +1283,7 @@
 		culture="upstater"
 		amount=2
 	}
+	holy_site=omen_hiawatha
 }
 
 7031={ #Great Barrington

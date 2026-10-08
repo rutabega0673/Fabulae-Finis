@@ -1280,6 +1280,13 @@ country = {
 			republic_election_reforms = republican_election_4
 			family = 17
 
+			pantheon = {
+				{ deity = 904 } #Cornplanter
+				{ deity = 908 } #Jigonhasee
+				{ deity = 901 } #Handsome Lake
+				{ deity = 905 } #Sky Woman
+			}
+
 			technology={
 				military_tech={ level=2 progress=0 }
 				civic_tech={ level=2 progress=0 }
