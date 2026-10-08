@@ -121,5 +121,12 @@ family={
 			prestige=300
 			color = 4
 		}
+		17 = {
+			key = "Honoñwiyéhdih"
+			owner=HAD
+			culture=haudenosaunee
+			prestige=150
+			color = 1
+		}
 	}
 }

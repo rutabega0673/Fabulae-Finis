@@ -51,9 +51,9 @@
 613={ #Hannibal
 	terrain="plains"
 	culture="upstater"
-	religion="gaiwiio"
+	religion="rosicrucian"
 	trade_goods="fish"
-	civilization_value=20
+	civilization_value=22
 	barbarian_power=0
 	province_rank="settlement"
 	citizen={
@@ -64,10 +64,11 @@
 		amount=2
 	}
 	slaves={
-		religion="bostonian"
+		religion="catholic"
 		amount=2
 	}
 	tribesmen={
+		culture="haudenosaunee"
 		amount=2
 	}
 }
@@ -1233,8 +1234,8 @@
 
 6853={ #Syracuse
 	terrain="farmland"
-	culture="upstater"
-	religion="rosicrucian"
+	culture="haudenosaunee"
+	religion="gaiwiio"
 	trade_goods="silk"
 	civilization_value=33
 	barbarian_power=0
@@ -1246,23 +1247,28 @@
 		amount=4
 	}
 	citizen={
-		religion="bostonian"
+		religion="conclavian"
+		culture="upstater"
 		amount=1
 	}
 	citizen={
 		religion="clairvoyant"
+		culture="upstater"
 		amount=3
 	}
 	citizen={
 		religion="fissionist"
+		culture="upstater"
 		amount=1
 	}
 	freemen={
 		religion="clairvoyant"
+		culture="upstater"
 		amount=1
 	}
 	freemen={
 		religion="americanist"
+		culture="upstater"
 		amount=2
 	}
 	freemen={
@@ -1273,6 +1279,7 @@
 	}
 	slaves={
 		religion="americanist"
+		culture="upstater"
 		amount=2
 	}
 }

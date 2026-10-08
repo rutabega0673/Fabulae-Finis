@@ -1001,7 +1001,7 @@ HAD = { # Onondaga
 	color2 = "offwhite"
 	colored_emblem = {
 		texture = "ce_haudenosaunee.dds"
-		color1 = "ck2_yellow"
+		color1 = "silver"
 		instance = { scale = { 1.0 1.0 } }
 	}
 }

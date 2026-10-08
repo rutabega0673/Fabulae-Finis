@@ -29,19 +29,6 @@ kentucky_heritage = {
 }
 
 #East Coast
-seven_nations_heritage = {
-   	modifier = {
-        #good
-       global_commerce_modifier = 0.10
-       diplomatic_relations = 2
-       #bad
-        enact_law_cost_modifier = 0.15
-   }
-
-   trigger = {
-          tag = HAD
-     }
-}
 mohawk_heritage = {
    modifier = {
       #good
@@ -54,6 +41,19 @@ mohawk_heritage = {
    trigger = {
           tag = WMS
      }
+}
+onondaga_heritage = {
+   modifier = {
+      #good
+      hills_combat_bonus = 0.10
+      country_civilization_value = 5
+      #bad
+      agressive_expansion_impact = 0.05
+   }
+
+   trigger = {
+      tag = HAD
+   }
 }
 three_mile_heritage = {
    	modifier = {

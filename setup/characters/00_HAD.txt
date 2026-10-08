@@ -1,0 +1,26 @@
+﻿"HAD"={
+	country="HAD"
+	37={ 
+		first_name="Sam"
+		nickname="NICKNAME_GREAT_WOLF"
+		family = c:HAD.fam:Honoñwiyéhdih
+		birth_date=2285.1.1
+		culture="haudenosaunee"
+		religion="gaiwiio"
+		no_stats=yes
+		add_martial=8
+		add_charisma=10
+		add_finesse=7
+		add_zeal=4
+		no_traits=yes
+		add_trait="orator"
+		add_trait="brave"
+		add_trait="robust"
+		add_trait="coastal_raider"
+		add_gold=100
+		add_popularity=40
+		c:HAD={
+			set_as_ruler=char:37
+		}
+	}
+}

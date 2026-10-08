@@ -1273,10 +1273,12 @@ country = {
 		}
 
 		HAD = { #Haudenosaunee
-			government = aristocratic_republic
+			government = oligarchic_republic
 			primary_culture = haudenosaunee
 			religion = gaiwiio
-			capital = 6850
+			capital = 6853
+			republic_election_reforms = republican_election_4
+			family = 17
 
 			technology={
 				military_tech={ level=2 progress=0 }
@@ -1284,16 +1286,9 @@ country = {
 				religious_tech= { level=2 progress=0  }
 				oratory_tech= { level=2 progress =0 }
 			}
-
-			poptype_rights = {
-					{
-					culture = upstater
-					type = citizen
-				}
-			}
-
+			
 			own_control_core = {
-				6850 6851 614 5777 9489 5776 7053
+				6850 6851 614 5777 9489 5776 6853
 			}
 		}
 
@@ -1315,21 +1310,21 @@ country = {
 			}
 		}
 
-		SRY = { #Syracuse
-			government = stratocratic_monarchy
-			primary_culture = upstater
-			religion = rosicrucian
-			capital = 6853
+		SRY = { #Rhode Island
+			government = despotic_monarchy
+			primary_culture = bayfolk
+			religion = gothic
+			capital = 6224
 
 			technology = {
-				military_tech={ level=2 progress=0 }
-				civic_tech={ level=2 progress=0 }
-				religious_tech= { level=2 progress=0  }
-				oratory_tech= { level=2 progress =0 }
+				military_tech={ level=1 progress=0 }
+				civic_tech={ level=1 progress=0 }
+				religious_tech= { level=1 progress=0  }
+				oratory_tech= { level=1 progress =0 }
 			}
 
 			own_control_core = {
-				6853 3104 3105 1759 6852 3103 5618 5191 5193
+				6224 6223 6222 6225
 			}
 		}
 		
@@ -1407,7 +1402,7 @@ country = {
 			}
 
 			own_control_core = {
-				1762 1760 1758 1761
+				1762 1760 1758 1761 1759 6852
 			}
 		}
 
@@ -3028,7 +3023,7 @@ country = {
 			}
 
 			own_control_core = {
-				9362 9361 9360 5619 5620 5192
+				9362 9361 9360 5619 5620 5192 5618 5193 5191
 			}
 		}
 		ADI = { #Adirondack
@@ -6350,7 +6345,7 @@ country = {
 			}
 
 			own_control_core = {
-				2480 612 615 613
+				2480 612 615 613 3103 3104 3105 7053
 			}
 		}
 		TPI = { #Triple Cities
