@@ -70,6 +70,7 @@ LNI = "setup/countries/east_coast/long_island.txt"
 LEO = "setup/countries/east_coast/leominster.txt"
 HTF = "setup/countries/east_coast/hartford_real.txt"
 MAN = "setup/countries/east_coast/manchester.txt"
+RNG = "setup/countries/east_coast/ringwood.txt"
 
 
 #Midwest

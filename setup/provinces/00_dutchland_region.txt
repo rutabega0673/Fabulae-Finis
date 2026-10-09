@@ -223,7 +223,7 @@
 	culture="susquehannan"
 	religion="rosicrucian"
 	trade_goods="vegetables"
-	civilization_value=13
+	civilization_value=6
 	barbarian_power=0
 	province_rank="settlement"
 	tribesmen={
@@ -239,13 +239,20 @@
 	culture="upstater"
 	religion="rosicrucian"
 	trade_goods="clay"
-	civilization_value=12
+	civilization_value=17
 	barbarian_power=0
-	province_rank="settlement"
+	province_rank="city"
+	citizen={
+		amount=2
+	}
+	freemen={
+		amount=4
+	}
 	tribesmen={
 		amount=4
 	}
 	slaves={
+		religion="americanist"
 		amount=2
 	}
 }
@@ -341,7 +348,7 @@
 	culture="susquehannan"
 	religion="rosicrucian"
 	trade_goods="maple"
-	civilization_value=13
+	civilization_value=7
 	barbarian_power=0
 	province_rank="settlement"
 	tribesmen={
@@ -357,9 +364,12 @@
 	culture="susquehannan"
 	religion="rosicrucian"
 	trade_goods="wild_game"
-	civilization_value=13
+	civilization_value=6
 	barbarian_power=0
 	province_rank="settlement"
+	freemen={
+		amount=2
+	}
 	tribesmen={
 		amount=6
 	}
@@ -370,7 +380,7 @@
 	culture="susquehannan"
 	religion="rosicrucian"
 	trade_goods="cattle"
-	civilization_value=12
+	civilization_value=9
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
@@ -468,11 +478,16 @@
 	culture="susquehannan"
 	religion="rosicrucian"
 	trade_goods="clay"
-	civilization_value=13
+	civilization_value=5
 	barbarian_power=0
 	province_rank="settlement"
 	tribesmen={
 		amount=6
+	}
+	slaves={
+		culture="deitsch"
+		religion="old_order"
+		amount=1
 	}
 }
 
@@ -656,7 +671,7 @@
 	culture="susquehannan"
 	religion="rosicrucian"
 	trade_goods="grain"
-	civilization_value=16
+	civilization_value=9
 	barbarian_power=0
 	province_rank="settlement"
 	citizen={

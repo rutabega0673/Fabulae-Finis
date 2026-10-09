@@ -20,11 +20,6 @@ lakes = RANGE { 10153 10182 }
 lakes = RANGE { 10184 10245 }
 lakes = LIST { 9797 9997 }
 
-river_provinces = RANGE { 10246 10279 }
-river_provinces = RANGE { 10281 10372 }
-river_provinces = RANGE { 10374 10597 }
-river_provinces = LIST { 10059 }
-
 wasteland = RANGE { 11599 11604 }
 
 impassable_terrain = RANGE { 10598 10939 }
@@ -32,3 +27,12 @@ impassable_terrain = RANGE { 10941 11456 }
 impassable_terrain = RANGE { 11908 11926 }
 impassable_terrain = LIST { 11480 6404 11606 11099 11173 11606 11537 11460 11590 11461 11574 11472 11508 11541 11466 11578 11465 11543 }
 impassable_terrain = LIST { 11540 11505 11521 11552 11492 11594 11473 11532 2410 11478 11567 11559 11579 11464 11569 11592 11575 11491 11565 }
+
+#Rivers
+#river_provinces = LIST { 10378 10473 } # Delaware
+#river_provinces = LIST { 10426 10262 10545 } # Susquehanna
+#river_provinces = LIST { 10248 10429 10588 10354 10291 10495 10382 } # Hudson
+river_provinces = RANGE { 10246 10279 }
+river_provinces = RANGE { 10281 10372 }
+river_provinces = RANGE { 10374 10597 }
+river_provinces = LIST { 10059 }

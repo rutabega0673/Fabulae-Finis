@@ -22,17 +22,26 @@
 	culture="gothamite"
 	religion="americanist"
 	trade_goods="hemp"
-	civilization_value=25
+	civilization_value=31
 	barbarian_power=0
-	province_rank="settlement"
+	province_rank="city"
 	citizen={
-		amount=1
+		amount=4
+	}
+	freemen={
+		culture="lungano"
+		amount=3
 	}
 	freemen={
 		amount=4
 	}
 	slaves={
-		amount=1
+		culture="bayfolk"
+		religion="gothic"
+		amount=4
+	}
+	slaves={
+		amount=4
 	}
 }
 
@@ -40,15 +49,29 @@
 	terrain="farmland"
 	culture="gothamite"
 	religion="americanist"
-	trade_goods="grain"
-	civilization_value=22
+	trade_goods="glass"
+	civilization_value=29
 	barbarian_power=0
-	province_rank="settlement"
-	citizen={
+	province_rank="city"
+	nobles={
+		culture="bayfolk"
 		amount=2
 	}
+	citizen={
+		amount=4
+	}
 	freemen={
-		amount=6
+		culture="lungano"
+		religion="catholic"
+		amount=3
+	}
+	freemen={
+		amount=4
+	}
+	slaves={
+		culture="bayfolk"
+		religion="gothic"
+		amount=4
 	}
 	slaves={
 		amount=4
@@ -102,6 +125,11 @@
 	}
 	freemen={
 		amount=10
+	}
+	freemen={
+		culture="lungano"
+		religion="catholic"
+		amount=5
 	}
 	freemen={
 		religion="catholic"
@@ -213,6 +241,11 @@
 		amount=3
 	}
 	freemen={
+		culture="lungano"
+		religion="catholic"
+		amount=5
+	}
+	freemen={
 		culture="aybidi"
 		religion="hindu"
 		amount=3
@@ -308,7 +341,7 @@
 482={ #Ringwood
 	terrain="plains"
 	culture="aybidi"
-	religion="americanist"
+	religion="hindu"
 	trade_goods="wood"
 	civilization_value=25
 	barbarian_power=0
@@ -405,10 +438,15 @@
 	culture="yiddish"
 	religion="catholic"
 	trade_goods="fish"
-	civilization_value=22
+	civilization_value=24
 	barbarian_power=0
 	province_rank="settlement"
 	citizen={
+		amount=2
+	}
+	citizen={
+		culture="yiddish"
+		religion="haredi"
 		amount=2
 	}
 	freemen={
@@ -424,7 +462,7 @@
 	culture="youser"
 	religion="catholic"
 	trade_goods="marble"
-	civilization_value=25
+	civilization_value=31
 	barbarian_power=0
 	province_rank="city"
 	nobles={
@@ -441,6 +479,15 @@
 		amount=7
 	}
 	freemen={
+		culture="yiddish"
+		religion="haredi"
+		amount=3
+	}
+	freemen={
+		culture="lungano"
+		amount=3
+	}
+	freemen={
 		religion="americanist"
 		amount=3
 	}
@@ -454,7 +501,7 @@
 	culture="youser"
 	religion="catholic"
 	trade_goods="shells"
-	civilization_value=22
+	civilization_value=25
 	barbarian_power=0
 	province_rank="settlement"
 	citizen={
@@ -463,7 +510,17 @@
 	freemen={
 		amount=6
 	}
+	freemen={
+		culture="yiddish"
+		religion="haredi"
+		amount=3
+	}
+	freemen={
+		culture="lungano"
+		amount=3
+	}
 	slaves={
+		religion="americanist"
 		amount=4
 	}
 }
@@ -473,14 +530,27 @@
 	culture="youser"
 	religion="catholic"
 	trade_goods="glass"
-	civilization_value=22
+	civilization_value=24
 	barbarian_power=0
 	province_rank="settlement"
 	citizen={
 		amount=2
 	}
 	freemen={
-		amount=6
+		religion="americanist"
+		amount=4
+	}
+	freemen={
+		amount=2
+	}
+	freemen={
+		culture="yiddish"
+		religion="haredi"
+		amount=3
+	}
+	freemen={
+		culture="lungano"
+		amount=2
 	}
 	slaves={
 		amount=4
@@ -492,10 +562,15 @@
 	culture="youser"
 	religion="americanist"
 	trade_goods="leather"
-	civilization_value=22
+	civilization_value=25
 	barbarian_power=0
 	province_rank="settlement"
 	citizen={
+		amount=2
+	}
+	freemen={
+		culture="lungano"
+		religion="catholic"
 		amount=2
 	}
 	freemen={
@@ -598,13 +673,26 @@
 	civilization_value=31
 	barbarian_power=0
 	province_rank="city"
+	nobles={
+		amount=3
+	}
 	citizen={
 		amount=2
+	}
+	freemen={
+		culture="yiddish"
+		religion="haredi"
+		amount=1
+	}
+	freemen={
+		culture="lungano"
+		amount=3
 	}
 	freemen={
 		amount=6
 	}
 	slaves={
+		religion="americanist"
 		amount=4
 	}
 }
@@ -652,16 +740,21 @@
 	culture="youser"
 	religion="catholic"
 	trade_goods="leather"
-	civilization_value=22
+	civilization_value=27
 	barbarian_power=0
-	province_rank="settlement"
+	province_rank="city"
 	citizen={
-		amount=2
+		amount=4
+	}
+	freemen={
+		culture="lungano"
+		amount=3
 	}
 	freemen={
 		amount=6
 	}
 	slaves={
+		religion="americanist"
 		amount=4
 	}
 }
@@ -671,16 +764,18 @@
 	culture="youser"
 	religion="catholic"
 	trade_goods="wood"
-	civilization_value=22
+	civilization_value=19
 	barbarian_power=0
 	province_rank="settlement"
-	citizen={
-		amount=2
-	}
 	freemen={
 		amount=6
 	}
+	tribesmen={
+		culture="lungano"
+		amount=2
+	}
 	slaves={
+		religion="americanist"
 		amount=4
 	}
 }
@@ -690,18 +785,24 @@
 	culture="gothamite"
 	religion="americanist"
 	trade_goods="cloth"
-	civilization_value=30
+	civilization_value=32
 	barbarian_power=0
 	province_rank="city"
 	citizen={
-		amount=3
+		amount=5
 	}
 	freemen={
 		amount=8
 	}
 	freemen={
+		culture="lungano"
 		religion="catholic"
 		amount=5
+	}
+	slaves={
+		culture="yiddish"
+		religion="haredi"
+		amount=2
 	}
 	slaves={
 		amount=10
@@ -1024,15 +1125,27 @@
 	terrain="farmland"
 	culture="bayfolk"
 	religion="americanist"
-	trade_goods="cattle"
-	civilization_value=22
+	trade_goods="iron"
+	civilization_value=32
 	barbarian_power=0
-	province_rank="settlement"
-	citizen={
+	province_rank="city"
+	nobles={
 		amount=2
 	}
+	citizen={
+		amount=4
+	}
 	freemen={
-		amount=6
+		culture="lungano"
+		religion="catholic"
+		amount=3
+	}
+	freemen={
+		amount=4
+	}
+	slaves={
+		culture="gothamite"
+		amount=4
 	}
 	slaves={
 		amount=4
@@ -1136,7 +1249,7 @@
 	culture="youser"
 	religion="americanist"
 	trade_goods="marble"
-	civilization_value=40
+	civilization_value=41
 	barbarian_power=0
 	province_rank="city"
 	nobles={
@@ -1145,6 +1258,11 @@
 	citizen={
 		religion="quaker"
 		amount=3
+	}
+	citizen={
+		culture="lungano"
+		religion="catholic"
+		amount=4
 	}
 	citizen={
 		amount=6
@@ -1188,18 +1306,37 @@
 		amount=10
 	}
 	nobles={
+		culture="lungano"
 		religion="catholic"
 		amount=3
 	}
 	citizen={
+		culture="lungano"
 		religion="catholic"
 		amount=3
 	}
 	citizen={
 		amount=10
 	}
+	citizen={
+		religion="clairvoyant"
+		amount=1
+	}
 	freemen={
-		amount=15
+		amount=10
+	}
+	freemen={
+		religion="cao_dai"
+		amount=1
+	}
+	freemen={
+		religion="episcopalian"
+		amount=1
+	}
+	freemen={
+		culture="yiddish"
+		religion="haredi"
+		amount=6
 	}
 	freemen={
 		religion="ahl_al_qibla"
@@ -1214,6 +1351,15 @@
 		amount=4
 	}
 	slaves={
+		religion="rosicrucian"
+		amount=2
+	}
+	slaves={
+		culture="haudenosaunee"
+		religion="gaiwiio"
+		amount=1
+	}
+	slaves={
 		amount=15
 	}
 	holy_site=omen_lady_liberty
@@ -1224,7 +1370,7 @@
 	culture="youser"
 	religion="americanist"
 	trade_goods="fruits"
-	civilization_value=25
+	civilization_value=33
 	barbarian_power=0
 	province_rank="city"
 	nobles={
@@ -1233,11 +1379,15 @@
 	citizen={
 		amount=2
 	}
+	citizen={
+		culture="lungano"
+		amount=2
+	}
 	freemen={
-		amount=7
+		amount=10
 	}
 	slaves={
-		amount=4
+		amount=6
 	}
 }
 
@@ -1246,10 +1396,15 @@
 	culture="youser"
 	religion="americanist"
 	trade_goods="fruits"
-	civilization_value=22
+	civilization_value=32
 	barbarian_power=0
 	province_rank="settlement"
 	citizen={
+		amount=2
+	}
+	freemen={
+		culture="lungano"
+		religion="catholic"
 		amount=2
 	}
 	freemen={
@@ -1265,7 +1420,7 @@
 	culture="youser"
 	religion="catholic"
 	trade_goods="wood"
-	civilization_value=22
+	civilization_value=20
 	barbarian_power=0
 	province_rank="settlement"
 	citizen={
@@ -1618,10 +1773,15 @@
 	culture="yiddish"
 	religion="haredi"
 	trade_goods="dye"
-	civilization_value=22
+	civilization_value=25
 	barbarian_power=0
 	province_rank="settlement"
 	citizen={
+		amount=2
+	}
+	freemen={
+		culture="gothamite"
+		religion="americanist"
 		amount=2
 	}
 	freemen={
@@ -1673,7 +1833,7 @@
 6167={ #Sparta
 	terrain="hills"
 	culture="aybidi"
-	religion="americanist"
+	religion="hindu"
 	trade_goods="wood"
 	civilization_value=22
 	barbarian_power=0
@@ -1692,7 +1852,7 @@
 6168={ #Dover
 	terrain="plains"
 	culture="aybidi"
-	religion="americanist"
+	religion="hindu"
 	trade_goods="wood"
 	civilization_value=22
 	barbarian_power=0
@@ -1769,8 +1929,8 @@
 	terrain="farmland"
 	culture="gothamite"
 	religion="catholic"
-	trade_goods="salt"
-	civilization_value=25
+	trade_goods="papyrus"
+	civilization_value=30
 	barbarian_power=0
 	province_rank="city"
 	nobles={
@@ -1786,6 +1946,11 @@
 		culture="aybidi"
 		religion="ahl_al_qibla"
 		amount=2
+	}
+	freemen={
+		culture="lungano"
+		religion="catholic"
+		amount=5
 	}
 	freemen={
 		culture="aybidi"

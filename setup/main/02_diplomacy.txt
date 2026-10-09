@@ -102,6 +102,7 @@ diplomacy = {
 		member = PRN
 		member = TRT
 		member = VLL
+		member = RNG
 	}
 
 	## Carolinian League

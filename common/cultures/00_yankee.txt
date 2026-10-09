@@ -2271,7 +2271,9 @@
 	
 	graphical_culture = roman_gfx
 	ethnicities = {
-		10 = roman
+		8 = roman
+		4 = west_african
 		2 = greek
+		2 = chinese
 	}
 }

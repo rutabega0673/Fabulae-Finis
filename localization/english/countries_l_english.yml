@@ -24,8 +24,8 @@
  PRN_ADJ:0 "Princetonian"
  NWK:0 "Newark"
  NWK_ADJ:0 "Newarkite"
- HAK:0 "Hackensack"
- HAK_ADJ:0 "Hackensian"
+ HAK:0 "Bergen"
+ HAK_ADJ:0 "Bergensian"
  PAT:0 "Catskills"
  PAT_ADJ:0 "Catskillite"
  VIN:0 "Old Dominion"
@@ -140,6 +140,8 @@
  HTF_ADJ:0 "Hartfordian"
  MAN:0 "Manchester"
  MAN_ADJ:0 "Manchesterite"
+ RNG:0 "Ringwood"
+ RNG_ADJ:0 "Ringwooder"
  
 
  ## Midwest ##

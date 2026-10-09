@@ -15,6 +15,13 @@ country = {
 				7 8 10
 			}
 
+			poptype_rights = {
+				{
+					culture = beltway
+					type = citizen
+				}
+			}
+
 			technology={
 				military_tech={ level=2 progress=0 }
 				civic_tech={ level=2 progress=0 }
@@ -25,8 +32,9 @@ country = {
 			own_control_core = {
 				4077 1708 3710 3709 9588 8639 3708 1706 8638 1704 1707 7136 7135 1705 
 				3183 3670 4490
-				9524 4491 9525 9523 6168 6167 482
+				9524 4491 9525 9523
 				3668 3669
+				3186 8449 8450 5280 5279 8448 3185 5766 5485 5484 5765 5767 5483
 			}
 		}
 
@@ -156,7 +164,7 @@ country = {
 			}
 
 			own_control_core = {
-				481 479 7969
+				481 479 7969 7970
 			}
 		}
 		PAT = { #Catskills
@@ -173,7 +181,7 @@ country = {
 			}
 
 			own_control_core = {
-				9421 1691 9420 1692  7971
+				9421 1691 9420 1692 7968 7971
 			}
 		}
 		VIN = { #Old Dominion
@@ -1196,7 +1204,7 @@ country = {
 			}
 
 			own_control_core = {
-				4201 4202 3275 11946 5352 3274 
+				4201 4202 3275 11946 5352 3274 5453 3140 11945 6613 3141 9491 
 			}
 		}
 		CIN = { # Cincinatti
@@ -3074,7 +3082,7 @@ country = {
 			}
 
 			own_control_core = {
-				4922 7970 7968 4921 4923 2698 2699 7031
+				4922 4921 4923 2698 2699 7031
 			}
 		}
 		LWC = { # Lowcountry
@@ -5574,7 +5582,7 @@ country = {
 			}
 
 			own_control_core = {
-				3184 3186 8449 3185 5766 5767 8450 8448 5765 5280 5279 5483 5485 5484
+				3184
 			}
 		}
 		FDG = { #Fredericksburg
@@ -6481,6 +6489,23 @@ country = {
 
 			own_control_core = {
 				5239 2907 5237 5240 3426 2906
+			}
+		}
+		RNG = { #Ringwood
+			government = oligarchic_republic
+			primary_culture = aybidi
+			religion = hindu
+			capital = 482
+
+			technology={
+				military_tech={ level=2 progress=0 }
+				civic_tech={ level=2 progress=0 }
+				religious_tech= { level=2 progress=0  }
+				oratory_tech= { level=2 progress =0 }
+			}
+
+			own_control_core = {
+				482 6167 6168
 			}
 		}
 	}

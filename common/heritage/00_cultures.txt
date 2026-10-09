@@ -1138,7 +1138,7 @@ hemlocker_heritage = {
         global_tribesmen_happyness = 0.04
         light_infantry_forest_combat_bonus = 0.10
        #bad
-        happiness_for_wrong_religion_modifier = -0.03
+        diplomatic_reputation = -2
    }
 
    trigger = {
@@ -1299,6 +1299,32 @@ newfie_heritage = {
 
    trigger = {
         primary_culture = newfie
+	}
+}
+lungano_heritage = {
+   	modifier = {
+      #good
+       global_commerce_modifier = 0.10
+       hold_triumph_cost_modifier = -0.35
+       #bad
+       global_nobles_output = -0.05
+   }
+
+   trigger = {
+        primary_culture = lungano
+	}
+}
+wampanoag_heritage = {
+   	modifier = {
+      #good
+       global_monthly_food_modifier = 0.05
+       ruler_popularity_gain = 0.05
+       #bad
+       global_population_growth = -0.03
+   }
+
+   trigger = {
+        primary_culture = wampanoag
 	}
 }
 #Culture Group

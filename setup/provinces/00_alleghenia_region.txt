@@ -317,7 +317,7 @@
 	culture="yinzic"
 	religion="sustainablist"
 	trade_goods="cloth"
-	civilization_value=22
+	civilization_value=4
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
@@ -333,7 +333,7 @@
 	culture="susquehannan"
 	religion="sustainablist"
 	trade_goods="maple"
-	civilization_value=22
+	civilization_value=2
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
@@ -349,7 +349,7 @@
 	culture="susquehannan"
 	religion="sustainablist"
 	trade_goods="cattle"
-	civilization_value=22
+	civilization_value=1
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
@@ -365,7 +365,7 @@
 	culture="susquehannan"
 	religion="rosicrucian"
 	trade_goods="cattle"
-	civilization_value=22
+	civilization_value=6
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
@@ -381,7 +381,7 @@
 	culture="susquehannan"
 	religion="rosicrucian"
 	trade_goods="leather"
-	civilization_value=22
+	civilization_value=6
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
@@ -397,7 +397,7 @@
 	culture="yinzic"
 	religion="sustainablist"
 	trade_goods="vegetables"
-	civilization_value=22
+	civilization_value=1
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
