@@ -156,14 +156,14 @@ country = {
 			}
 
 			own_control_core = {
-				481 479
+				481 479 7969
 			}
 		}
 		PAT = { #Catskills
-			government = democratic_republic
-			primary_culture = hudsonian
-			religion = americanist
-			capital = 6681
+			government = despotic_monarchy
+			primary_culture = yiddish
+			religion = haredi
+			capital = 7971
 
 			technology={
 				military_tech={ level=2 progress=0 }
@@ -173,7 +173,7 @@ country = {
 			}
 
 			own_control_core = {
-				6681 6679 203 9421 1691 9420 1692 
+				9421 1691 9420 1692  7971
 			}
 		}
 		VIN = { #Old Dominion
@@ -278,7 +278,7 @@ country = {
 				2171 2170 2169
 				5185 5184 5296 5293 5295 4295 4294 4296 2742
 				9629 9628 9627 2741 2740
-			 	8772
+			 	8772 7766 7763 8774
 			}
 		}
 		MIC = { #Detroit
@@ -1313,7 +1313,7 @@ country = {
 			}
 
 			own_control_core = {
-				6678 6539 3469 3470 5713 3471 6538 6680 204 2697 6537
+				6678 6539 3469 3470 5713 3471 6538 6680 204 2697 6537 6679 6681 203
 			}
 		}
 
@@ -1336,7 +1336,7 @@ country = {
 		}
 		
 		OTG = { #Otsego
-			government = despotic_monarchy
+			government = tribal_federation
 			primary_culture = hudsonian
 			religion = clairvoyant
 			capital = 8565
@@ -1367,7 +1367,7 @@ country = {
 			}
 
 			own_control_core = {
-				3507 3506 3505 84 82
+				3507 3506 3505 84 82 3425
 			}
 		}
 
@@ -1416,7 +1416,7 @@ country = {
 		MSM = { #Massachusets
 			government = tribal_kingdom
 			primary_culture = vermonter
-			religion = gothic
+			religion = unitarian_universialism
 			capital = 2905
 
 			technology={
@@ -1427,7 +1427,7 @@ country = {
 			}
 
 			own_control_core = {
-				2905 1072 1071 2906 1073 2907 3485 3486 7032
+				2905 1073 1072 1071 7032
 			}
 		}
 
@@ -2573,7 +2573,7 @@ country = {
 			}
 		}
 		BRI = { #Bristol
-			government = tribal_kingdom
+			government = tribal_chiefdom
 			primary_culture = melungeon
 			religion = omenteller
 			capital = 7353
@@ -2609,7 +2609,7 @@ country = {
 			capital = 7767
 
 			own_control_core = {
-				7767 6125 6124 3446 3447 7764
+				7767 6125 6124 3446 3447 7764 2383 7765 5294
 			}
 		}
 		CHS = { #Charleston 
@@ -3074,7 +3074,7 @@ country = {
 			}
 
 			own_control_core = {
-				4922 7970 7968 7971 4921 4923 7969 2698 2699 7031
+				4922 7970 7968 4921 4923 2698 2699 7031
 			}
 		}
 		LWC = { # Lowcountry
@@ -3252,9 +3252,16 @@ country = {
 		}
 		SRT = { # Sratford
 			government = league_republic
-			primary_culture = ontarian
+			primary_culture = deitsch
 			religion = united_church
 			capital = 2931
+
+			poptype_rights = {
+				{
+					culture = ontarian
+					type = citizen
+				}
+			}
 
 			technology={
 				military_tech={ level=2 progress=0 }
@@ -3326,7 +3333,7 @@ country = {
 			}
 		}
 		SNH = { #Shenandoah
-			government = tribal_kingdom
+			government = tribal_chiefdom
 			primary_culture = appalachian
 			religion = sustainablist
 			capital = 834
@@ -3557,75 +3564,47 @@ country = {
 			}
 		}
 		PRS = { # Presque Isle
-			government = tribal_kingdom
+			government = tribal_chiefdom
 			primary_culture = brayon
 			religion = ursuline
 			capital = 2227
-
-			technology={
-				military_tech={ level=1 progress=0 }
-				civic_tech={ level=1 progress=0 }
-				religious_tech= { level=1 progress=0  }
-				oratory_tech= { level=1 progress =0 }
-			}
 
 			own_control_core = {
 				48 49 50 2040
 			}
 		}
 		HOL = { # Holton
-			government = tribal_federation
+			government = tribal_chiefdom
 			primary_culture = passamaquoddy
 			religion = ursuline
 			capital = 2041
-
-			technology={
-				military_tech={ level=1 progress=0 }
-				civic_tech={ level=1 progress=0 }
-				religious_tech= { level=1 progress=0  }
-				oratory_tech= { level=1 progress =0 }
-			}
 
 			own_control_core = {
 				2041 3162 1081
 			}
 		}
 		PNB = { # Penobscot
-			government = tribal_federation
+			government = tribal_chiefdom
 			primary_culture = passamaquoddy
 			religion = gothic
 			capital = 9569
-
-			technology={
-				military_tech={ level=1 progress=0 }
-				civic_tech={ level=1 progress=0 }
-				religious_tech= { level=1 progress=0  }
-				oratory_tech= { level=1 progress =0 }
-			}
 
 			own_control_core = {
 				9569 9567 9568 
 			}
 		}
 		PSM = { # Passamquoddy
-			government = tribal_federation
+			government = tribal_kingdom
 			primary_culture = passamaquoddy
 			religion = gothic
 			capital = 7161
 
-			technology={
-				military_tech={ level=1 progress=0 }
-				civic_tech={ level=1 progress=0 }
-				religious_tech= { level=1 progress=0  }
-				oratory_tech= { level=1 progress =0 }
-			}
-
 			own_control_core = {
-				7161 7162 7163 8773 8774 9570
+				7161 7162 7163 8773 9570
 			}
 		}
 		STJ = { # Saint-Johnsbury
-			government = tribal_federation
+			government = tribal_kingdom
 			primary_culture = nouvelle_angleterrais
 			religion = ursuline
 			capital = 985
@@ -3635,7 +3614,7 @@ country = {
 			}
 		}
 		MNN = { # Maine
-			government = tribal_kingdom
+			government = tribal_chiefdom
 			primary_culture = nouvelle_angleterrais
 			religion = gothic
 			capital = 1406
@@ -3775,7 +3754,7 @@ country = {
 			}
 
 			own_control_core = {
-				7326
+				7326 2185 2186
 			}
 		}
 		AVA = { # Avalon
@@ -5561,7 +5540,7 @@ country = {
 			}
 		}
 		WMP = { #Williamsport
-			government = tribal_federation
+			government = tribal_kingdom
 			primary_culture = susquehannan
 			religion = rosicrucian
 			capital = 9332
@@ -6287,21 +6266,21 @@ country = {
 				8378 8379 8380
 			} 
 		}
-		IVN = { # Iverness
+		IVN = { # Cape Breton
 			government = despotic_monarchy
 			primary_culture = gaidheal
-			religion = veteranic
+			religion = fogsong
 			capital = 11929
 
 			technology={
-				military_tech={ level=2 progress=0 }
-				civic_tech={ level=2 progress=0 }
-				religious_tech= { level=2 progress=0  }
-				oratory_tech= { level=2 progress =0 }
+				military_tech={ level=1 progress=0 }
+				civic_tech={ level=1 progress=0 }
+				religious_tech= { level=1 progress=0  }
+				oratory_tech= { level=1 progress =0 }
 			}
 
 			own_control_core = {
-				11929 6394 4860 4861 1147 4859 1146 7142 7141 7140
+				11929 6394 4860 4861 1147 4859 1146 7142 7141 7140 6392
 			} 
 		}
 		BCT = { # Bouctouche
@@ -6356,16 +6335,16 @@ country = {
 			}
 		}
 		TPI = { #Triple Cities
-			government = despotic_monarchy
+			government = tribal_federation
 			primary_culture = upstater
 			religion = rosicrucian
 			capital = 3371
 
 			technology = {
-				military_tech={ level=2 progress=0 }
-				civic_tech={ level=2 progress=0 }
-				religious_tech= { level=2 progress=0  }
-				oratory_tech= { level=2 progress =0 }
+				military_tech={ level=1 progress=0 }
+				civic_tech={ level=1 progress=0 }
+				religious_tech= { level=1 progress=0  }
+				oratory_tech= { level=1 progress =0 }
 			}
 
 			own_control_core = {
@@ -6414,6 +6393,94 @@ country = {
 
 			own_control_core = {
 				93 95 312 314 313
+			}
+		}
+		MQQ = { #Mik'maw
+			government = theocratic_monarchy
+			primary_culture = mikmaw
+			religion = ursuline
+			capital = 9516
+
+			technology = {
+				military_tech={ level=1 progress=0 }
+				civic_tech={ level=1 progress=0 }
+				religious_tech= { level=1 progress=0  }
+				oratory_tech= { level=1 progress =0 }
+			}
+
+			own_control_core = {
+				9516 6393 6391 11928 3522 5397 5395 3520 5396
+			}
+		}
+		LNR = { # Long Range
+			government = tribal_chiefdom
+			primary_culture = newfie
+			religion = fogsong
+			capital = 7036
+
+			own_control_core = {
+				7036 7033 7034 3034 3035 7035 2188 5717
+			}
+		}
+		NTD = { # Notre Dame Bay
+			government = tribal_kingdom
+			primary_culture = newfie
+			religion = fogsong
+			capital = 3336
+
+			own_control_core = {
+				3336 3335 7037 6868 6869 6867
+			}
+		}
+		LEO = { #Leominster
+			government = oligarchic_republic
+			primary_culture = bayfolk
+			religion = unitarian_universialism
+			capital = 7223
+
+			technology={
+				military_tech={ level=1 progress=0 }
+				civic_tech={ level=1 progress=0 }
+				religious_tech= { level=1 progress=0  }
+				oratory_tech= { level=1 progress =0 }
+			}
+
+			own_control_core = {
+				7223 7222 3485 3486
+			}
+		}
+		MAN = { #Manchester
+			government = oligarchic_republic
+			primary_culture = bayfolk
+			religion = gothic
+			capital = 5238
+
+			technology={
+				military_tech={ level=1 progress=0 }
+				civic_tech={ level=1 progress=0 }
+				religious_tech= { level=1 progress=0  }
+				oratory_tech= { level=1 progress =0 }
+			}
+
+			own_control_core = {
+				5238 6113 4628 4627
+			}
+		}
+		HTF = { #Hartford
+			government = despotic_monarchy
+			primary_culture = bayfolk
+			religion = gothic
+			capital = 5239
+
+			technology={
+				military_tech={ level=1 progress=0 }
+				civic_tech={ level=1 progress=0 }
+				religious_tech= { level=1 progress=0  }
+				oratory_tech= { level=1 progress =0 }
+			}
+
+			own_control_core = {
+				5239 2907 5237 5240 3426 2906
 			}
 		}
 	}

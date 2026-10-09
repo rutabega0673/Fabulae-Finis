@@ -605,7 +605,13 @@
 		culture="ontarian"
 		amount=2
 	}
+	nobles={
+		amount=1
+	}
 	citizen={
+		amount=2
+	}
+	freemen={
 		amount=2
 	}
 	freemen={

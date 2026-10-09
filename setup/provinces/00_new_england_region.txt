@@ -170,7 +170,7 @@
 1071={ #Hatfield
 	terrain="forest"
 	culture="vermonter"
-	religion="unitarian_universialism"
+	religion="gothic"
 	trade_goods="precious_metals"
 	civilization_value=10
 	barbarian_power=0
@@ -183,7 +183,7 @@
 1072={ #Greenfield
 	terrain="hills"
 	culture="vermonter"
-	religion="unitarian_universialism"
+	religion="gothic"
 	trade_goods="wood"
 	civilization_value=10
 	barbarian_power=0
@@ -647,7 +647,7 @@
 3447={ #Keene
 	terrain="forest"
 	culture="vermonter"
-	religion="unitarian_universialism"
+	religion="gothic"
 	trade_goods="maple"
 	civilization_value=10
 	barbarian_power=0
@@ -1154,7 +1154,7 @@
 7161={ #Lubec
 	terrain="forest"
 	culture="passamaquoddy"
-	religion="bostonian"
+	religion="gothic"
 	trade_goods="rice"
 	civilization_value=10
 	barbarian_power=0
@@ -1167,7 +1167,7 @@
 7162={ #Baileyville
 	terrain="hills"
 	culture="passamaquoddy"
-	religion="bostonian"
+	religion="gothic"
 	trade_goods="fur"
 	civilization_value=10
 	barbarian_power=0
@@ -1180,7 +1180,7 @@
 7163={ #Machias
 	terrain="forest"
 	culture="passamaquoddy"
-	religion="bostonian"
+	religion="gothic"
 	trade_goods="fish"
 	civilization_value=10
 	barbarian_power=0
@@ -1297,7 +1297,7 @@
 8772={ #Ellsworth
 	terrain="forest"
 	culture="bayfolk"
-	religion="bostonian"
+	religion="gothic"
 	trade_goods="fish"
 	civilization_value=10
 	barbarian_power=0
@@ -1310,7 +1310,7 @@
 8773={ #Carroll
 	terrain="hills"
 	culture="passamaquoddy"
-	religion="bostonian"
+	religion="gothic"
 	trade_goods="maple"
 	civilization_value=10
 	barbarian_power=0
@@ -1323,7 +1323,7 @@
 8774={ #Hancock
 	terrain="forest"
 	culture="bayfolk"
-	religion="bostonian"
+	religion="gothic"
 	trade_goods="rice"
 	civilization_value=10
 	barbarian_power=0

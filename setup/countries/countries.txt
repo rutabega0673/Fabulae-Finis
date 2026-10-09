@@ -67,6 +67,9 @@ BUF = "setup/countries/east_coast/buffalo.txt"
 TPI = "setup/countries/east_coast/triple_cities.txt"
 CHP = "setup/countries/east_coast/cape_cod.txt"
 LNI = "setup/countries/east_coast/long_island.txt"
+LEO = "setup/countries/east_coast/leominster.txt"
+HTF = "setup/countries/east_coast/hartford_real.txt"
+MAN = "setup/countries/east_coast/manchester.txt"
 
 
 #Midwest
@@ -395,6 +398,9 @@ MAD = "setup/countries/east_canada/madawaska.txt"
 IVN = "setup/countries/east_canada/iverness.txt"
 BCT = "setup/countries/east_canada/bouctouche.txt"
 RSG = "setup/countries/east_canada/restigouche.txt"
+MQQ = "setup/countries/east_canada/mikmaw.txt"
+LNR = "setup/countries/east_canada/long_range.txt"
+NTD = "setup/countries/east_canada/notre_dame_bay.txt"
 
 #West Canada
 WNP = "setup/countries/west_canada/winnipeg.txt"

@@ -726,8 +726,8 @@
 		amount=8
 	}
 	freemen={
-		religion="catholic"
 		culture="lungano"
+		religion="catholic"
 		amount=3
 	}
 	freemen={
@@ -741,8 +741,8 @@
 		amount=1
 	}
 	slaves={
-		religion="catholic"
 		culture="lungano"
+		religion="catholic"
 		amount=3
 	}
 	slaves={
@@ -778,8 +778,8 @@
 		amount=1
 	}
 	slaves={
-		religion="catholic"
 		culture="lungano"
+		religion="catholic"
 		amount=3
 	}
 	freemen={

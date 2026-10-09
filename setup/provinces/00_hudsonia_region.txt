@@ -215,7 +215,7 @@
 
 1691={ #Walton
 	terrain="mountain"
-	culture="yiddish"
+	culture="hudsonian"
 	religion="americanist"
 	trade_goods="wild_game"
 	civilization_value=10
@@ -229,7 +229,7 @@
 1692={ #Thompson
 	terrain="mountain"
 	culture="yiddish"
-	religion="americanist"
+	religion="haredi"
 	trade_goods="bodark"
 	civilization_value=10
 	barbarian_power=0
@@ -1412,8 +1412,8 @@
 
 7968={ #Wallkill
 	terrain="hills"
-	culture="hudsonian"
-	religion="americanist"
+	culture="yiddish"
+	religion="haredi"
 	trade_goods="grain"
 	civilization_value=10
 	barbarian_power=0
@@ -1451,8 +1451,8 @@
 
 7971={ #New Paltz
 	terrain="plains"
-	culture="hudsonian"
-	religion="americanist"
+	culture="yiddish"
+	religion="haredi"
 	trade_goods="grain"
 	civilization_value=10
 	barbarian_power=0
@@ -1529,8 +1529,8 @@
 
 9420={ #Kingston
 	terrain="hills"
-	culture="hudsonian"
-	religion="americanist"
+	culture="yiddish"
+	religion="haredi"
 	trade_goods="wood"
 	civilization_value=10
 	barbarian_power=0
@@ -1542,7 +1542,7 @@
 
 9421={ #Shandaken
 	terrain="hills"
-	culture="yiddish"
+	culture="hudsonian"
 	religion="americanist"
 	trade_goods="base_metals"
 	civilization_value=10
