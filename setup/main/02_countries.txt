@@ -44,7 +44,7 @@ country = {
 			}
 
 			own_control_core = {
-				4381 2440 2441 2622 2442 95 94 93 312 314 313 83 
+				4381 2440 2441 2622 2442 94 83 
 			}
 		}
 
@@ -275,7 +275,7 @@ country = {
 
 			own_control_core = {
 				6535 1467 6536 6534 1465 1466 7224 5186
-				2171 2170 2169 2178 2179
+				2171 2170 2169
 				5185 5184 5296 5293 5295 4295 4294 4296 2742
 				9629 9628 9627 2741 2740
 			 	8772
@@ -1268,7 +1268,7 @@ country = {
 			}
 
 			own_control_core = {
-				6114
+				6114 6112
 			}
 		}
 
@@ -6387,6 +6387,33 @@ country = {
 
 			own_control_core = {
 				8592 8590 2790 2479 2477 2478 8591 8593
+			}
+		}
+		CHP = { # Cape Cod
+			government = tribal_kingdom
+			primary_culture = wampanoag
+			religion = gothic
+			capital = 2178
+
+			own_control_core = {
+				2178 1904 8883 2179
+			}
+		}
+		LNI = { #Long Island
+			government = aristocratic_republic
+			primary_culture = lungano
+			religion = americanist
+			capital = 93
+
+			technology={
+				military_tech={ level=2 progress=0 }
+				civic_tech={ level=2 progress=0 }
+				religious_tech= { level=2 progress=0  }
+				oratory_tech= { level=2 progress =0 }
+			}
+
+			own_control_core = {
+				93 95 312 314 313
 			}
 		}
 	}

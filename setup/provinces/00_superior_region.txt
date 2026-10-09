@@ -306,7 +306,7 @@
 
 1739={ #Houghton
 	terrain="hills"
-	culture="fingelska"
+	culture="copperhead"
 	religion="lakeshore"
 	trade_goods="iron"
 	civilization_value=3
@@ -323,7 +323,7 @@
 
 1740={ #Ontonagon
 	terrain="hills"
-	culture="fingelska"
+	culture="copperhead"
 	religion="lakeshore"
 	trade_goods="fur"
 	civilization_value=1
@@ -340,7 +340,7 @@
 
 1741={ #Baraga
 	terrain="hills"
-	culture="fingelska"
+	culture="yooper"
 	religion="lakeshore"
 	trade_goods="fish"
 	civilization_value=2
@@ -474,7 +474,7 @@
 
 2457={ #Ironwood
 	terrain="hills"
-	culture="fingelska"
+	culture="copperhead"
 	religion="lakeshore"
 	trade_goods="rice"
 	civilization_value=3
@@ -1102,7 +1102,7 @@
 
 7451={ #Sanborn
 	terrain="forest"
-	culture="fingelska"
+	culture="copperhead"
 	religion="lakeshore"
 	trade_goods="rice"
 	civilization_value=3
@@ -1224,7 +1224,7 @@
 
 8060={ #Ishpeming
 	terrain="hills"
-	culture="fingelska"
+	culture="yooper"
 	religion="lakeshore"
 	trade_goods="base_metals"
 	civilization_value=1
@@ -1375,7 +1375,7 @@
 
 9391={ #Isle Royale
 	terrain="forest"
-	culture="northlander"
+	culture="copperhead"
 	religion="lakeshore"
 	trade_goods="amber"
 	civilization_value=10

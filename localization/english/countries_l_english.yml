@@ -130,6 +130,10 @@
  BUF_ADJ:0 "Buffalonian"
  TPI:0 "Triple Cities"
  TPI_ADJ:0 "Upstater"
+ CHP:0 "Cape Cod"
+ CHP_ADJ:0 "Caper"
+ LNI:0 "Long Island"
+ LNI_ADJ:0 "Lungano"
  
 
  ## Midwest ##

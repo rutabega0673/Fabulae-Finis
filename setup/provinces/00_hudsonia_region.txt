@@ -1248,28 +1248,28 @@
 		amount=4
 	}
 	citizen={
-		religion="conclavian"
 		culture="upstater"
+		religion="conclavian"
 		amount=1
 	}
 	citizen={
-		religion="clairvoyant"
 		culture="upstater"
+		religion="clairvoyant"
 		amount=3
 	}
 	citizen={
+		culture="upstater"
 		religion="fissionist"
-		culture="upstater"
 		amount=1
 	}
 	freemen={
+		culture="upstater"
 		religion="clairvoyant"
-		culture="upstater"
 		amount=1
 	}
 	freemen={
-		religion="americanist"
 		culture="upstater"
+		religion="americanist"
 		amount=2
 	}
 	freemen={
@@ -1279,8 +1279,8 @@
 		amount=2
 	}
 	slaves={
-		religion="americanist"
 		culture="upstater"
+		religion="americanist"
 		amount=2
 	}
 	holy_site=omen_hiawatha

@@ -34,6 +34,7 @@
  hudsonian:0 "Hudsonian"
  beltway:0 "Beltway"
  pocono:0 "Pocono"
+ lungano:0 "Lungano"
  
  ## Deep Southern ##
  deep_southern:0 "Deep Southern"
@@ -396,7 +397,10 @@
  native_virginian:0 "Native Virginian"
  mattaponi_pamunkey:0 "Powhatan"
  monacan:0 "Monacan"
-
+ 
+ ## Northeastern Woodlands ##
+ northeastern_woodlands:0 "Northeastern Woodlands"
+ wampanoag:0 "Wampanoag"
 
  ## NAMING ##
  yankee_malename:1 "$NAME_MALE$ $REGNALNUMBER$ $NICKNAME$ $FAMILY_MALE$"
@@ -495,3 +499,5 @@
  lumbee_group_femalename:1 "$NAME_FEMALE$ $REGNALNUMBER$ $NICKNAME$ $FAMILY_MALE$"
  native_virginian_malename:1 "$NAME_MALE$ $REGNALNUMBER$ $NICKNAME$ $FAMILY_MALE$"
  native_virginian_femalename:1 "$NAME_FEMALE$ $REGNALNUMBER$ $NICKNAME$ $FAMILY_MALE$"
+ northeastern_woodlands_malename:1 "$NAME_MALE$ $REGNALNUMBER$ $NICKNAME$ $FAMILY_MALE$"
+ northeastern_woodlands_femalename:1 "$NAME_FEMALE$ $REGNALNUMBER$ $NICKNAME$ $FAMILY_MALE$"

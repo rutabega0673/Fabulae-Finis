@@ -1,7 +1,7 @@
 ﻿110={ #Allegan
 	terrain="plains"
 	culture="chicagoan"
-	religion="promethean"
+	religion="lakeshore"
 	trade_goods="fruits"
 	civilization_value=23
 	barbarian_power=0
@@ -21,7 +21,7 @@
 112={ #Dowagiac
 	terrain="plains"
 	culture="chicagoan"
-	religion="promethean"
+	religion="lakeshore"
 	trade_goods="silk"
 	civilization_value=23
 	barbarian_power=0
@@ -562,7 +562,7 @@
 1565={ #Cadillac
 	terrain="forest"
 	culture="upnorther"
-	religion="promethean"
+	religion="lakeshore"
 	trade_goods="tubers"
 	civilization_value=23
 	barbarian_power=0
@@ -838,7 +838,7 @@
 4614={ #Bay City
 	terrain="farmland"
 	culture="michigander"
-	religion="promethean"
+	religion="lakeshore"
 	trade_goods="tubers"
 	civilization_value=23
 	barbarian_power=0
@@ -1011,7 +1011,7 @@
 5992={ #Walker
 	terrain="plains"
 	culture="hollander"
-	religion="promethean"
+	religion="lakeshore"
 	trade_goods="wild_game"
 	civilization_value=23
 	barbarian_power=0
@@ -1353,7 +1353,7 @@
 8953={ #Muskegon
 	terrain="farmland"
 	culture="hollander"
-	religion="promethean"
+	religion="lakeshore"
 	trade_goods="fish"
 	civilization_value=23
 	barbarian_power=0

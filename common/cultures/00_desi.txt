@@ -144,9 +144,9 @@
 	}
 	
 	culture = {
-		abecede = {} #East Canada
+		#abecede = {} #East Canada
 		surreyda = {} #West Canada
-		aybidi = {} #East United States
+		#aybidi = {} #East United States
 		desistani = {} #Texas
 		fremontwala = {} #West United States
 	}

@@ -64,7 +64,9 @@ HPL = "setup/countries/east_coast/high_plains.txt"
 TCF	= "setup/countries/east_coast/twin_confederacy.txt"
 ROC = "setup/countries/east_coast/rochester.txt"
 BUF = "setup/countries/east_coast/buffalo.txt"
-TPI	= "setup/countries/east_coast/triple_cities.txt"
+TPI = "setup/countries/east_coast/triple_cities.txt"
+CHP = "setup/countries/east_coast/cape_cod.txt"
+LNI = "setup/countries/east_coast/long_island.txt"
 
 
 #Midwest

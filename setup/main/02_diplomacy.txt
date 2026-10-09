@@ -55,6 +55,7 @@ diplomacy = {
 	dependency = { first = PRI second = BLT subject_type = feudatory }
 	dependency = { first = PRI second = HAK subject_type = feudatory }
 	dependency = { first = PRI second = NWK subject_type = feudatory }
+	dependency = { first = PRI second = HFT subject_type = feudatory }
 
 	## Old Dominion
 	dependency = { first = VIN second = TCF subject_type = tributary }
@@ -79,6 +80,9 @@ diplomacy = {
 	dependency = { first = ONT second = ELG subject_type = vassal_tribe }
 	dependency = { first = ONT second = MNW subject_type = vassal_tribe }
 
+	## New York ##
+	dependency = { first = NYC second = LNI subject_type = feudatory }
+
 	## Oklahoman Tribes
 	defensive_league = {
 		member = TLS
@@ -97,6 +101,7 @@ diplomacy = {
 		member = ATJ
 		member = PRN
 		member = TRT
+		member = VLL
 	}
 
 	## Carolinian League

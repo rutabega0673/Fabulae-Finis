@@ -170,7 +170,7 @@
 1071={ #Hatfield
 	terrain="forest"
 	culture="vermonter"
-	religion="gothic"
+	religion="unitarian_universialism"
 	trade_goods="precious_metals"
 	civilization_value=10
 	barbarian_power=0
@@ -183,7 +183,7 @@
 1072={ #Greenfield
 	terrain="hills"
 	culture="vermonter"
-	religion="gothic"
+	religion="unitarian_universialism"
 	trade_goods="wood"
 	civilization_value=10
 	barbarian_power=0
@@ -196,7 +196,7 @@
 1073={ #Amherst
 	terrain="forest"
 	culture="vermonter"
-	religion="gothic"
+	religion="unitarian_universialism"
 	trade_goods="cattle"
 	civilization_value=10
 	barbarian_power=0
@@ -338,7 +338,7 @@
 
 1904={ #Oak Bluffs
 	terrain="plains"
-	culture="bayfolk"
+	culture="wampanoag"
 	religion="gothic"
 	trade_goods="wood"
 	civilization_value=12
@@ -385,7 +385,7 @@
 2169={ #New Bedford
 	terrain="farmland"
 	culture="bayfolk"
-	religion="bostonian"
+	religion="gothic"
 	trade_goods="cloth"
 	civilization_value=10
 	barbarian_power=0
@@ -398,7 +398,7 @@
 2170={ #Taunton
 	terrain="plains"
 	culture="bayfolk"
-	religion="bostonian"
+	religion="gothic"
 	trade_goods="maize"
 	civilization_value=10
 	barbarian_power=0
@@ -411,7 +411,7 @@
 2171={ #Plymouth Rock
 	terrain="farmland"
 	culture="bayfolk"
-	religion="bostonian"
+	religion="gothic"
 	trade_goods="shells"
 	civilization_value=10
 	barbarian_power=0
@@ -423,7 +423,7 @@
 
 2178={ #Barnstable Town
 	terrain="plains"
-	culture="bayfolk"
+	culture="wampanoag"
 	religion="gothic"
 	trade_goods="fish"
 	civilization_value=10
@@ -569,7 +569,7 @@
 2905={ #Springfield
 	terrain="farmland"
 	culture="vermonter"
-	religion="bostonian"
+	religion="unitarian_universialism"
 	trade_goods="cattle"
 	civilization_value=10
 	barbarian_power=0
@@ -582,7 +582,7 @@
 2906={ #Huntington
 	terrain="forest"
 	culture="vermonter"
-	religion="bostonian"
+	religion="gothic"
 	trade_goods="horses"
 	civilization_value=10
 	barbarian_power=0
@@ -595,7 +595,7 @@
 2907={ #Chicopee
 	terrain="forest"
 	culture="vermonter"
-	religion="bostonian"
+	religion="gothic"
 	trade_goods="maize"
 	civilization_value=10
 	barbarian_power=0
@@ -647,7 +647,7 @@
 3447={ #Keene
 	terrain="forest"
 	culture="vermonter"
-	religion="gothic"
+	religion="unitarian_universialism"
 	trade_goods="maple"
 	civilization_value=10
 	barbarian_power=0
@@ -660,7 +660,7 @@
 3485={ #Palmer
 	terrain="forest"
 	culture="vermonter"
-	religion="bostonian"
+	religion="unitarian_universialism"
 	trade_goods="grain"
 	civilization_value=10
 	barbarian_power=0
@@ -673,7 +673,7 @@
 3486={ #Gardner
 	terrain="forest"
 	culture="vermonter"
-	religion="gothic"
+	religion="unitarian_universialism"
 	trade_goods="maize"
 	civilization_value=10
 	barbarian_power=0
@@ -764,7 +764,7 @@
 4627={ #Plainfield
 	terrain="farmland"
 	culture="bayfolk"
-	religion="bostonian"
+	religion="unitarian_universialism"
 	trade_goods="grain"
 	civilization_value=16
 	barbarian_power=0
@@ -1193,7 +1193,7 @@
 7222={ #Worcester
 	terrain="plains"
 	culture="bayfolk"
-	religion="bostonian"
+	religion="unitarian_universialism"
 	trade_goods="honey"
 	civilization_value=10
 	barbarian_power=0
@@ -1206,7 +1206,7 @@
 7223={ #Leominster
 	terrain="forest"
 	culture="bayfolk"
-	religion="bostonian"
+	religion="unitarian_universialism"
 	trade_goods="grain"
 	civilization_value=10
 	barbarian_power=0

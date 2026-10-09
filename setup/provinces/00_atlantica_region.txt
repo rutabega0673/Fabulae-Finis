@@ -57,21 +57,32 @@
 
 93={ #Islip
 	terrain="plains"
-	culture="gothamite"
+	culture="lungano"
 	religion="americanist"
 	trade_goods="shells"
 	civilization_value=30
 	barbarian_power=0
 	province_rank="city"
+	nobles={
+		amount=2
+	}
 	citizen={
+		culture="gothamite"
 		amount=4
+	}
+	freemen={
+		culture="gothamite"
+		amount=5
 	}
 	freemen={
 		amount=10
 	}
 	freemen={
 		religion="catholic"
-		amount=1
+		amount=3
+	}
+	slaves={
+		amount=5
 	}
 	slaves={
 		amount=3
@@ -94,7 +105,7 @@
 	}
 	freemen={
 		religion="catholic"
-		amount=1
+		amount=3
 	}
 	slaves={
 		amount=3
@@ -103,14 +114,17 @@
 
 95={ #Oyster Bay
 	terrain="farmland"
-	culture="gothamite"
+	culture="lungano"
 	religion="americanist"
 	trade_goods="grain"
-	civilization_value=20
+	civilization_value=23
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
-		amount=3
+		amount=6
+	}
+	slaves={
+		amount=6
 	}
 	tribesmen={
 		amount=1
@@ -119,14 +133,17 @@
 
 312={ #Brookhaven
 	terrain="forest"
-	culture="gothamite"
+	culture="lungano"
 	religion="americanist"
 	trade_goods="tubers"
 	civilization_value=20
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
-		amount=4
+		amount=6
+	}
+	slaves={
+		amount=5
 	}
 	tribesmen={
 		amount=1
@@ -135,7 +152,7 @@
 
 313={ #Southhampton
 	terrain="plains"
-	culture="gothamite"
+	culture="lungano"
 	religion="americanist"
 	trade_goods="fish"
 	civilization_value=20
@@ -143,26 +160,26 @@
 	province_rank="settlement"
 	citizen={
 		culture="gothamite"
-		amount=1
+		amount=2
 	}
 	freemen={
-		amount=4
+		amount=8
 	}
 	slaves={
-		amount=1
+		amount=2
 	}
 }
 
 314={ #Riverhead
 	terrain="plains"
-	culture="gothamite"
+	culture="lungano"
 	religion="americanist"
 	trade_goods="fish"
 	civilization_value=20
 	barbarian_power=0
 	province_rank="settlement"
 	freemen={
-		amount=2
+		amount=6
 	}
 	slaves={
 		amount=5
@@ -188,17 +205,17 @@
 		amount=2
 	}
 	freemen={
-		amount=6
+		amount=10
 	}
 	freemen={
 		culture="aybidi"
 		religion="ahl_al_qibla"
-		amount=2
+		amount=3
 	}
 	freemen={
 		culture="aybidi"
 		religion="hindu"
-		amount=2
+		amount=3
 	}
 	slaves={
 		amount=7
@@ -214,13 +231,13 @@
 	barbarian_power=0
 	province_rank="city"
 	nobles={
-		amount=2
+		amount=4
 	}
 	citizen={
 		amount=5
 	}
 	freemen={
-		amount=5
+		amount=8
 	}
 	freemen={
 		culture="aybidi"
@@ -249,7 +266,7 @@
 		amount=2
 	}
 	freemen={
-		amount=6
+		amount=8
 	}
 	slaves={
 		amount=4
@@ -271,7 +288,7 @@
 		amount=5
 	}
 	freemen={
-		amount=7
+		amount=10
 	}
 	freemen={
 		culture="aybidi"
@@ -290,7 +307,7 @@
 
 482={ #Ringwood
 	terrain="plains"
-	culture="gothamite"
+	culture="aybidi"
 	religion="americanist"
 	trade_goods="wood"
 	civilization_value=25
@@ -695,21 +712,22 @@
 	terrain="farmland"
 	culture="gothamite"
 	religion="americanist"
-	trade_goods="artifacts"
-	civilization_value=30
+	trade_goods="wootz_steel"
+	civilization_value=31
 	barbarian_power=0
 	province_rank="city"
 	nobles={
-		amount=2
+		amount=4
 	}
 	citizen={
 		amount=7
 	}
 	freemen={
-		amount=5
+		amount=8
 	}
 	freemen={
 		religion="catholic"
+		culture="lungano"
 		amount=3
 	}
 	freemen={
@@ -721,6 +739,11 @@
 		culture="aybidi"
 		religion="hindu"
 		amount=1
+	}
+	slaves={
+		religion="catholic"
+		culture="lungano"
+		amount=3
 	}
 	slaves={
 		amount=5
@@ -736,12 +759,13 @@
 	barbarian_power=0
 	province_rank="city"
 	citizen={
-		amount=3
+		amount=6
 	}
 	freemen={
 		amount=5
 	}
 	freemen={
+		culture="lungano"
 		religion="catholic"
 		amount=3
 	}
@@ -752,6 +776,11 @@
 		culture="aybidi"
 		religion="ahl_al_qibla"
 		amount=1
+	}
+	slaves={
+		religion="catholic"
+		culture="lungano"
+		amount=3
 	}
 	freemen={
 		culture="aybidi"
@@ -772,10 +801,10 @@
 		amount=2
 	}
 	freemen={
-		amount=4
+		amount=7
 	}
 	slaves={
-		amount=1
+		amount=3
 	}
 }
 
@@ -1253,7 +1282,7 @@
 4628={ #Mansfield
 	terrain="plains"
 	culture="bayfolk"
-	religion="bostonian"
+	religion="unitarian_universialism"
 	trade_goods="tobacco"
 	civilization_value=22
 	barbarian_power=0
@@ -1272,7 +1301,7 @@
 5237={ #New Britain
 	terrain="plains"
 	culture="bayfolk"
-	religion="bostonian"
+	religion="gothic"
 	trade_goods="cloth"
 	civilization_value=22
 	barbarian_power=0
@@ -1291,7 +1320,7 @@
 5238={ #Manchester
 	terrain="plains"
 	culture="bayfolk"
-	religion="bostonian"
+	religion="gothic"
 	trade_goods="wine"
 	civilization_value=22
 	barbarian_power=0
@@ -1310,7 +1339,7 @@
 5239={ #Hartford
 	terrain="farmland"
 	culture="bayfolk"
-	religion="bostonian"
+	religion="gothic"
 	trade_goods="clay"
 	civilization_value=22
 	barbarian_power=0
@@ -1329,7 +1358,7 @@
 5240={ #Bristol
 	terrain="plains"
 	culture="bayfolk"
-	religion="bostonian"
+	religion="gothic"
 	trade_goods="cattle"
 	civilization_value=22
 	barbarian_power=0
@@ -1625,7 +1654,7 @@
 6113={ #Willimantic
 	terrain="forest"
 	culture="bayfolk"
-	religion="bostonian"
+	religion="gothic"
 	trade_goods="grain"
 	civilization_value=22
 	barbarian_power=0
@@ -1643,7 +1672,7 @@
 
 6167={ #Sparta
 	terrain="hills"
-	culture="gothamite"
+	culture="aybidi"
 	religion="americanist"
 	trade_goods="wood"
 	civilization_value=22
@@ -1662,7 +1691,7 @@
 
 6168={ #Dover
 	terrain="plains"
-	culture="gothamite"
+	culture="aybidi"
 	religion="americanist"
 	trade_goods="wood"
 	civilization_value=22

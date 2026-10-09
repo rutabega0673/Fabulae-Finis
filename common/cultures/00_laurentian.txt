@@ -1617,6 +1617,139 @@
 			}
 		}
 		ontarian = {}
+		abecede = {
+			male_names = {
+			Aamir Aarav Aaryan Abid Adil Aditya Adnan Ahmed Akash Akbar
+			Ali Aman Amir Anand Anik Anil Arham Arif Arjun Aryan Asad
+			Ashwin Bilal Danish Darshan Deepak Dev Dhruv Ehsan Eshan
+			Faizan Farhan Faisal Faris Gautam Hamza Haris Haroon Hasan
+			Hassan Ibrahim Imran Irfan Ishaan Ishan Jahan Jai Jay
+			Kabir Karan Karthik Khalid Krish Krishna Kunal Laksh
+			Mahir Manav Mihir Nabeel Nadeem Naveed Neil Nikhil
+			Omar Owais Parth Pranav Rafiq Rahul Raj Rajan Rayan
+			Rehan Rishi Rizwan Rohail Rohan Ronak Saad Sahil Salman
+			Sameer Samar Shahid Shaan Shayan Sohail Subash Taha
+			Tanveer Tariq Umer Usman Varun Veer Vikram Viraj Vivek
+			Yash Yusuf Zaid Zain Zayan Zubair
+			Ari Kavi Rian Zayn Niam Arin Kiran Reyan Tavir
+			Azan Kairan Navin Ishan Kaviq Rayan Viren Zahir
+			Amritpal Angad Arjan Avtar Baldev Baljit Bikramjit
+			Charanjit Daljit Darshan Deepinder Gagandeep
+			Gurdeep Gurinder Gurjit Gurbaz Gurbir Gurpreet
+			Gursharan Gurtej Harbhajan Hardeep Harjit
+			Harmandeep Harpreet Inderjit Jagdeep Jagjit
+			Jarnail Jasdeep Jaspreet Jaswant Jatinder
+			Jujhar Kanwarpal Kuldeep Kulwant Maninder
+			Mandeep Navdeep Parminder Pritpal Rajinder
+			Ranbir Ranjit Satinder Sukhdeep Sukhdev
+			Sukhjit Surinder Tejinder Trilochan
+			Simran Harleen Jasleen
+			Gurleen Navneet Nimrat
+			Rupinder Jaspreet Harpreet
+		}
+		female_names = {
+			Aaliyah Aisha Alina Alisha Amara Amna Anaya Anika Anjali
+			Ayesha Diya Esha Fatima Haniya Hana Hira Iman Inaya
+			Isha Jiya Jyoti Kavya Khadija Kiara Leela Mahira
+			Maya Meera Nadia Naima Natasha Navya Neha Noor
+			Pari Priya Rani Rhea Riya Saanvi Saba Safiya Sana
+			Sarah Shreya Simran Sonia Suhana Tara Urvashi
+			Vidya Yasmin Zara Zoya Zainab Aditi Ananya Avani
+			Charvi Deepa Divya Lakshmi Malika Nandini Nisha
+			Pooja Radha Rukhsar Saira Samira Tanvi Vaishnavi
+			Asha Mira Noor Rhea Zara Anya Maya Liyana
+			Aria Suri Nira Amina Samira Zoya Kira Meera
+			Amrit Anmol Baljeet Charanjeet Daljeet
+			Gurleen Gurpreet Gursimran Gurneet Harleen
+			Harnoor Harpreet Inderpreet Jasleen
+			Jasmeet Jaspreet Jasnoor Kamalpreet
+			Kirandeep Maninder Manmeet Navjot
+			Navneet Nimrat Noorpreet Parminder
+			Rajinder Ravneet Rupinder Simran
+			Sukhdeep Sukhleen Sukhpreet Tejinder
+			Simran Harleen Jasleen
+			Gurleen Navneet Nimrat
+			Rupinder Jaspreet Harpreet
+		}
+		family = {
+			Patel.Patel.Pateliya.Pateli
+			Shah.Shah.Shahiya.Shahi
+			Singh.Kaur.Singhiya.Singhi
+			Khan.Khan.Khaniya.Khani
+			Ahmed.Ahmeda.Ahmediya.Ahmedi
+			Hussain.Hussaina.Hussainiya.Hussaini
+			Ali.Alia.Aliya.Ali
+			Naqvi.Naqvia.Naqviya.Naqvi
+			Syed.Syeda.Sayyidiya.Sayyidi
+			Chaudhry.Chaudhrya.Chaudhriya.Chaudhri
+			Malik.Malika.Malikiya.Maliki
+			Sheikh.Sheikha.Sheikhiya.Sheikhi
+			Iqbal.Iqbala.Iqbaliya.Iqbali
+			Rahman.Rahmana.Rahmaniya.Rahmani
+			Das.Dasa.Dasiya.Dasi
+			Bose.Bosa.Bosiya.Bosi
+			Roy.Roya.Royiya.Royi
+			Ghosh.Ghosha.Ghoshiya.Ghoshi
+			Reddy.Reddya.Reddiya.Reddi
+			Rao.Rani.Raoiya.Raoi
+			Iyer.Iyera.Iyeriya.Iyeri
+			Menon.Menona.Menoniya.Menoni
+			Nair.Naira.Nairiya.Nairi
+			Pillai.Pillaia.Pillaiya.Pillai
+			Gupta.Gupta.Guptiya.Gupta
+			Sharma.Sharma.Sharmiya.Sharmic
+			Verma.Verma.Vermiya.Vermi
+			Mehta.Mehta.Mehtiya.Mehti
+			Desai.Desaia.Desaiya.Desai
+			Joshi.Joshi.Joshiya.Joshi
+			Kapoor.Kapoora.Kapooriya.Kapoori
+			Bhatia.Bhatia.Bhatiya.Bhati
+			Arora.Arora.Aroriya.Arori
+			Malhotra.Malhotra.Malhotriya.Malhotri
+			Khanna.Khanna.Khanniya.Khanni
+			Anand.Ananda.Anandiya.Anandi
+			Chandra.Chandra.Chandriya.Chandri
+			Mukherjee.Mukherjee.Mukherjiya.Mukherji
+			Banerjee.Banerjee.Banerjiya.Banerji
+			Chakrabarti.Chakrabarti.Chakrabartiya.Chakrabarti
+			Sen.Sena.Seniya.Seni
+			Dutta.Dutta.Duttiya.Dutti
+			Bhattacharya.Bhattacharya.Bhattacharyiya.Bhattacharya
+			Pandey.Pandeya.Pandeyiya.Pandeyan
+			Tiwari.Tiwaria.Tiwariya.Tiwari
+			Mishra.Mishra.Mishriya.Mishri
+			Yadav.Yadava.Yadaviya.Yadavi
+			Jha.Jhaa.Jhaiya.Jhai
+			Sinha.Sinha.Sinhiya.Sinhi
+			Rana.Rana.Raniya.Rani
+			Thapa.Thapa.Thapiya.Thapi
+			Gurung.Gurunga.Gurungiya.Gurungi
+			Karki.Karki.Karkiya.Karki
+			Adhikari.Adhikaria.Adhikariya.Adhikari
+			Perera.Perera.Pereriya.Pereri
+			Fernando.Fernanda.Fernandiya.Fernandi
+			Jayasinghe.Jayasingha.Jayasinghiya.Jayasinghi
+			Wickramasinghe.Wickramasingha.Wickramasinghiya.Wickramasinghi
+			Sandhu.Sandhu.Sandhuya.Sandhuwal
+			Dhillon.Dhillon.Dhilloniya.Dhilloni
+			Gill.Gill.Gilliya.Gilli
+			Brar.Brar.Brariya.Brari
+			Sidhu.Sidhu.Sidhuya.Sidhuwal
+			Randhawa.Randhawa.Randhawiya.Randhawi
+			Cheema.Cheema.Cheemiya.Cheemi
+			Bajwa.Bajwa.Bajwiya.Bajwi
+			Virk.Virk.Virkiya.Virki
+			Mann.Mann.Manniya.Manni
+			Deol.Deol.Deoliya.Deoli
+			Grewal.Grewal.Grewaliya.Grewali
+			Pannu.Pannu.Pannuya.Pannuwal
+			Bains.Bains.Bainsiya.Bainsi
+			Sekhon.Sekhon.Sekhoniya.Sekhoni
+			Johal.Johal.Johaliya.Johali
+			Toor.Toor.Tooriya.Toori
+			Sangha.Sangha.Sanghiya.Sanghi
+			}
+		} 
 	}
 	
 	barbarian_names = { 
