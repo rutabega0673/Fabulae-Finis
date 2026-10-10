@@ -1546,7 +1546,7 @@
 
 7969={ #Ramapo
 	terrain="plains"
-	culture="gothamite"
+	culture="lenape"
 	religion="americanist"
 	trade_goods="fish"
 	civilization_value=23
@@ -1576,7 +1576,7 @@
 
 7970={ #Monroe
 	terrain="plains"
-	culture="hudsonian"
+	culture="lenape"
 	religion="americanist"
 	trade_goods="honey"
 	civilization_value=26

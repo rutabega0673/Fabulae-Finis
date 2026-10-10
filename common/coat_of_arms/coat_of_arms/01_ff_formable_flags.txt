@@ -809,3 +809,28 @@ HAUDENOSAUNEE_FLAG = { # Haudenosaunee
 		instance = { scale = { 1.0 1.0 } }
 	}
 }
+
+NEW_JERSEY_FLAG = {
+	pattern = "pattern_solid.tga"
+	color1 = new_jersey_color
+	color2 = new_jersey_color
+	colored_emblem = {
+		texture = "ce_block_02.dds"
+		color1 = "ck2_blue"
+		instance = { position = { 0.5 0.5 } }
+	}
+	colored_emblem = {
+		texture = "ce_plow.dds"
+		color1 = "ck2_yellow"
+		color2 = "offwhite"
+		instance = { position = { 0.5 0.25 } scale = { 0.5 0.4 }  }
+		instance = { position = { 0.5 0.45 } scale = { 0.45 0.4 }  }
+		instance = { position = { 0.5 0.65 } scale = { 0.4 0.4 }  }
+	}
+	colored_emblem = {
+		texture = "ce_border_shield.dds"
+		color1 = new_jersey_color
+		color2 = new_jersey_color
+		instance = { position = { 0.5 0.5 } scale = { 1.0 1.0 }  }
+	}
+}

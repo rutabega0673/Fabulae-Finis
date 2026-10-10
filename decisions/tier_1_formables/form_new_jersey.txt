@@ -1,0 +1,63 @@
+﻿country_decisions = {
+
+	#Form New Jersey
+	form_new_jersey = {
+	potential = {
+		num_of_cities >= 1
+		OR = {
+			primary_culture = gothamite
+			primary_culture = youser
+			primary_culture = aybidi
+			primary_culture = lungano
+			primary_culture = yiddish
+		}
+		NOR = {
+			is_tier_1_formable_trigger = yes
+			is_tier_2_formable_trigger = yes
+			is_endgame_tag_trigger = yes
+			has_variable = has_formed_new_jersey
+			tag = PRI
+		}
+	}
+	highlight = {
+		scope:province = {
+			OR = {
+				is_in_area = south_jersey_area
+				is_in_area = north_jersey_area
+			}
+		}
+	}
+	allow = {
+		custom_tooltip = {
+			text = "formable_not_new_jersey_exists"
+			NOT = {
+				any_country = {
+					tag = JH1
+				}
+			}
+		}
+		can_form_nation_trigger = yes
+		owns_or_subject_owns_area = south_jersey_area
+		owns_or_subject_owns_area = north_jersey_area
+	}
+	effect = {
+		custom_tooltip = "tier_1_formable_tooltip"
+		change_country_name = NEW_JERSEY_NAME
+		add_2_free_province_investments = yes
+		hidden_effect = {
+			change_country_adjective = NEW_JERSEY_ADJECTIVE
+			change_country_color = new_jersey_color
+			change_country_flag = "NEW_JERSEY_FLAG"
+			set_variable = has_formed_new_jersey
+			change_country_tag = JH1
+		}
+		capital_scope = {
+			capital_formable_small_effect = yes
+			formable_capital_modifier_normal_effect = yes
+		}
+	}
+		ai_will_do = {
+			base = 1
+		}
+	}
+}

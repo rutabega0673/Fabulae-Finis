@@ -5,7 +5,8 @@
 			num_of_cities >= 1
 			OR = {
 				country_culture_group = midwestern
-				country_culture_group = upland
+				primary_culture = ozark
+				primary_culture = riverlander
 				primary_culture = paw_paw
 				primary_culture = hermanndeutsch
 				country_culture_group = bosniak

@@ -26,5 +26,6 @@
 	michigan_blue = rgb { 32 68 99 }
 	keystone_purple = rgb { 69 25 80 }
 	gotham_dark_teal = rgb { 39 111 108 }
+	new_jersey_color = rgb { 181 160 95 }
 }
 

@@ -38,6 +38,7 @@
 	}
 	culture = {
 		wampanoag = {}
+		lenape = {} #Delaware Lenape, Jersey + Philly Lenape Groups
 	}
 	
 	barbarian_names = { 
@@ -46,7 +47,8 @@
 	
 	graphical_culture = celtic_gfx
 	ethnicities = {
-		8 = celtic
+		6 = celtic
+		2 = west_african
 		2 = scythian
 	}
 }

@@ -182,6 +182,17 @@
  formable_not_gotham_exists:0 "#Y Gotham#! does not exist."
  GOTHAM_NAME:0 "Gotham"
  GOTHAM_ADJECTIVE:0 "Gothamite"
+
+ form_new_jersey:0 "Reunite the Garden State"
+ form_new_jersey_desc:0 "The jewel of the Mid-Atlantic, the Garden State, has always been divied up between greater powers. New Jersey should be united by one of it's own."
+ NEW_JERSEY_NAME:0 "New Jersey"
+ NEW_JERSEY_ADJECTIVE:0 "Jerseyan"
+ formable_not_new_jersey_exists:0 "#Y New Jersey#! does not exist."
+
+ form_pennsyltucky:0 "Form Pennsyltucky"
+ form_pennsyltucky_desc:0 "Pennsyltucky is the rugged landscape of our home, the interior of Keystone."
+ PENNSYLTUCKY_NAME:0 "Pennsyltucky"
+ PENNSYLTUCKY_ADJECTIVE:0 "Pennsyltuckian"
  
 
  ## Formable Events ##

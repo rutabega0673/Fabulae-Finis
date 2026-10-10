@@ -3118,3 +3118,142 @@ LNI = { #Long Island
 		color2 = "offwhite"
 	}
 }
+
+BCC = { #Beauce
+	pattern = "pattern_solid.tga"
+	color1 = rgb { 164 45 33 }
+	color2 = "navy_blue"
+	colored_emblem = {
+		texture = "ce_circle_03.dds"
+		color1 = "offwhite"
+		color2 = "offwhite"
+		instance = { position = { 0.25 0.3 } scale = { 0.6 0.6 }  }
+		instance = { position = { 0.75 0.3 } scale = { 0.6 0.6 }  }
+		instance = { position = { 0.5 0.75 } scale = { 0.6 0.6 }  }
+	}
+	colored_emblem = {
+		texture = "ce_qc_fleur.dds"
+		color1 = "navy_blue"
+		instance = { position = { 0.25 0.3 } scale = { 0.35 0.35 }  }
+		instance = { position = { 0.75 0.3 } scale = { 0.35 0.35 }  }
+		instance = { position = { 0.5 0.75 } scale = { 0.35 0.35 }  }
+	}
+}
+
+STJ = { #Caledonia
+	pattern = "pattern_solid.tga"
+	color1 = "offwhite"
+	color2 = "offwhite"
+	
+	colored_emblem = {
+		texture = "ce_ordinary_saltire_flat.dds"
+		color1 = "navy_blue"
+		instance = { position = { 0.5 0.5 } scale = { 1.0 1.0 }  }
+	}
+	colored_emblem = {
+		texture = "ce_block_02.dds"
+		color1 = "roman_red"
+		instance = { position = { 0.5 0.5 } scale = { 0.2 0.2 } rotation = 45  }
+	}
+	colored_emblem = {
+		texture = "ce_qc_fleur.dds"
+		color1 = "ck2_yellow"
+		instance = { position = { 0.5 0.5 } scale = { 0.2 0.2 }  }
+	}
+}
+
+HAK = {
+	pattern = "pattern_horizontal_split_01.tga"
+	color1 = "ck2_blue"
+	color2 = "ck2_blue"
+	colored_emblem = {
+		texture = "ce_waves_01.dds"
+		color1 = "ck2_blue"
+		color2 = "ck2_yellow"
+		instance = { position = { 0.5 0.75 } scale = { 1.0 0.5 }  }
+	}
+	colored_emblem = {
+		texture = "ce_lion_rampant.dds"
+		color1 = "ck2_yellow"
+		color2 = "roman_red"
+		instance = { position = { 0.5 0.5 } scale = { 0.6 0.6 }  }
+	}
+	colored_emblem = {
+		texture = "ce_border_shield.dds"
+		color1 = "offwhite"
+		color2 = "offwhite"
+		instance = { position = { 0.5 0.5 } scale = { 0.9 0.9 }  }
+	}
+	colored_emblem = {
+		texture = "ce_border_shield.dds"
+		color1 = "roman_red"
+		instance = { position = { 0.5 0.5 } scale = { 1.1 1.1 }  }
+	}
+}
+
+NWK = {
+	pattern = "pattern_solid.tga"
+	color1 = "mid_grey"
+	color2 = "ck2_blue"
+	colored_emblem = {
+		texture = "ce_lion_rampant.dds"
+		color1 = "ck2_yellow"
+		color2 = "ck2_yellow"
+		instance = { scale = { 0.7 0.7 }  }
+	}
+	colored_emblem = {
+		texture = "ce_star_05.dds"
+		color1 = "ck2_yellow"
+		instance = { position = { 0.15 0.5 } scale = { 0.3 0.3 }  }
+		instance = { position = { 0.85 0.5 } scale = { 0.3 0.3 }  }
+	}
+}
+
+PRN = {
+	pattern = "pattern_solid.tga"
+	color1 = "offwhite"
+	color2 = rgb { 186 115 27 }
+	
+	colored_emblem = {
+		texture = "ce_block_02.dds"
+		color1 = rgb { 186 115 27 }
+		instance = { position = { 0.5 0.5} }
+	}
+	colored_emblem = {
+		texture = "ce_ordinary_chevron_5.dds"
+		color1 = "ck2_black"
+		instance = { position = { 0.5 0.65 } }
+	}
+	colored_emblem = {
+		texture = "ce_block_02.dds"
+		color1 = "ck2_black"
+		instance = { position = { 0.5 -0.15}}
+	}
+	colored_emblem = {
+		texture = "ce_book_open.dds"
+		color1 = "offwhite"
+		color2 = "offwhite"
+		instance = { position = { 0.5 0.23 } scale = { 0.4 0.3 }  }
+	}
+	colored_emblem = {
+		texture = "ce_border_shield.dds"
+		color1 = "offwhite"
+	}
+}
+
+TRT = { #Trenton
+	pattern = "pattern_horizontal_split_01.tga"
+	color1 = "offwhite"
+	color2 = "ck2_yellow"
+	colored_emblem = {
+		texture = "ce_eagle_thunderbolt.dds"
+		color1 = "rust_brown"
+		color2 = "ck2_blue"
+		instance = { position = { 0.5 0.45 } scale = { 0.6 0.6 }  }
+	}
+	colored_emblem = {
+		texture = "ce_border_shield.dds"
+		color1 = "ck2_blue"
+		instance = { position = { 0.5 0.5 } scale = { 1.0 1.0 }  }
+	}
+}

@@ -401,6 +401,7 @@
  ## Northeastern Woodlands ##
  northeastern_woodlands:0 "Northeastern Woodlands"
  wampanoag:0 "Wampanoag"
+ lenape:0 "Lenape"
 
  ## NAMING ##
  yankee_malename:1 "$NAME_MALE$ $REGNALNUMBER$ $NICKNAME$ $FAMILY_MALE$"
