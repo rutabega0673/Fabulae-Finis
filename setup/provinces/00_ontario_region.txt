@@ -1089,11 +1089,21 @@
 		culture="haudenosaunee"
 		amount=2
 	}
-	freemen={
-		culture="haudenosaunee"
+	citizen={
+		culture="lenape"
 		amount=2
 	}
 	freemen={
+		culture="haudenosaunee"
+		religion="united_church"
+		amount=2
+	}
+	freemen={
+		culture="sixer"
+		religion="united_church"
+		amount=4
+	}
+	slaves={
 		culture="sixer"
 		religion="united_church"
 		amount=4

@@ -118,7 +118,7 @@
 1780={ #Boiling Springs
 	terrain="plains"
 	culture="piedmontese"
-	religion="revelationist"
+	religion="hoodoo"
 	trade_goods="fish"
 	civilization_value=10
 	barbarian_power=0
@@ -339,7 +339,7 @@
 6544={ #Summerville
 	terrain="forest"
 	culture="sandlapper"
-	religion="episcopalian"
+	religion="hoodoo"
 	trade_goods="vegetables"
 	civilization_value=10
 	barbarian_power=0
@@ -352,7 +352,7 @@
 6545={ #Goose Creek
 	terrain="forest"
 	culture="sandlapper"
-	religion="episcopalian"
+	religion="hoodoo"
 	trade_goods="fish"
 	civilization_value=10
 	barbarian_power=0
@@ -365,7 +365,7 @@
 6546={ #Awendaw
 	terrain="marsh"
 	culture="sandlapper"
-	religion="episcopalian"
+	religion="hoodoo"
 	trade_goods="salt"
 	civilization_value=10
 	barbarian_power=0
@@ -378,7 +378,7 @@
 6547={ #Charleston
 	terrain="flood_plain"
 	culture="sandlapper"
-	religion="episcopalian"
+	religion="hoodoo"
 	trade_goods="dye"
 	civilization_value=10
 	barbarian_power=0
@@ -430,7 +430,7 @@
 7793={ #Holly Hill
 	terrain="forest"
 	culture="sandlapper"
-	religion="bahai"
+	religion="hoodoo"
 	trade_goods="stone"
 	civilization_value=10
 	barbarian_power=0
@@ -456,7 +456,7 @@
 7795={ #Walterboro
 	terrain="forest"
 	culture="sandlapper"
-	religion="episcopalian"
+	religion="hoodoo"
 	trade_goods="tobacco"
 	civilization_value=10
 	barbarian_power=0
@@ -469,7 +469,7 @@
 7796={ #Ridgeville
 	terrain="forest"
 	culture="sandlapper"
-	religion="episcopalian"
+	religion="hoodoo"
 	trade_goods="vegetables"
 	civilization_value=10
 	barbarian_power=0

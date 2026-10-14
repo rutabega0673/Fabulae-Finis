@@ -11,3 +11,4 @@
 # Spiritualist 1000 - 1099
 # Reawakened 1100 - 1199
 # Vernacular 1200 - 1299
+# Afro-Diasporic 1300 - 1399

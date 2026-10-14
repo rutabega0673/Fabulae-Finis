@@ -271,7 +271,7 @@
 4952={ #Tillmans Corner
 	terrain="marsh"
 	culture="gulfard"
-	religion="springsearcher"
+	religion="hoodoo"
 	trade_goods="fish"
 	civilization_value=10
 	barbarian_power=0

@@ -1,7 +1,7 @@
 ﻿lumbee_group = {
 	color = rgb { 122 103 157 }
 
-	levy_template = levy_thracians
+	levy_template = levy_old_southern
 	
 	primary = light_infantry
 	second = heavy_cavalry

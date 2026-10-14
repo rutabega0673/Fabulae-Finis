@@ -2194,7 +2194,7 @@ country = {
 			}
 
 			own_control_core = {
-				3365 2063 3367 5170 5171 5172 3366 8020 8021 
+				3365 2063 3367 5170 5171 5172 3366 8020
 			}
 		}
 		GBY = { #Green Bay
@@ -2494,7 +2494,7 @@ country = {
 		BXS = { #Biloxi
 			government = plutocratic_republic
 			primary_culture = gulfard
-			religion = springsearcher
+			religion = hoodoo
 			capital = 886
 
 			technology={
@@ -3086,9 +3086,9 @@ country = {
 			}
 		}
 		LWC = { # Lowcountry
-			government = aristocratic_monarchy
+			government = aristocratic_republic
 			primary_culture = sandlapper
-			religion = episcopalian
+			religion = hoodoo
 			capital = 6547
 
 			technology={
@@ -6152,7 +6152,7 @@ country = {
 			}
 
 			own_control_core = {
-				8019 8602
+				8019 8602 8021
 			}
 		}
 		WAC = { #Waccaamaw

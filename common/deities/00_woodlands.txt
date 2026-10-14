@@ -177,7 +177,7 @@ deity_great_peacemaker = {
 	trigger = {
 		
 		OR = {
-			is_republic = yes
+			#is_republic = yes
 			common_deity_trigger = {
 				RELIGION = gaiwiio
 			}

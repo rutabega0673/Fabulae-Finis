@@ -620,11 +620,11 @@ deity_great_sun = {
 			}
 		}
 	}
-	icon = deity_tribal_eloquence
+	icon = deity_tribal_love
 	passive_modifier = { global_population_happiness = omen_global_population_happiness }
 	omen = { global_population_growth = omen_global_population_growth }
 	religion = missisippian
-	deity_category = culture
+	deity_category = fertility
 	deification_trigger = {
 		can_deify_trigger = yes
 	}

@@ -1,0 +1,48 @@
+deity_manager = {
+    deities_database = { ### KEYS 900 - 999 ###
+		1300 = {
+			key = omen_john_the_conquerer
+			deity = deity_john_the_conquerer
+		}
+		1301 = {
+			key = omen_black_herman #Benjamin Rucker, african american stage magician
+			deity = deity_black_herman
+		}
+		1302 = {
+			key = omen_hoodoo_moses #Moses as a magician/doctor
+			deity = deity_hoodoo_moses
+		}
+		1303 = {
+			key = omen_simbi #Hoodoo water spirits
+			deity = deity_simbi
+		}
+		1304 = {
+			key = omen_boo_hags
+			deity = deity_boo_hags
+		}
+		1305 = {
+			key = omen_nat_turner
+			deity = deity_nat_turner
+		}
+		1306 = {
+			key = omen_gullah_jack
+			deity = deity_gullah_jack
+		}
+		1307 = {
+			key = omen_the_crossroads
+			deity = deity_the_crossroads
+		}
+		1308 = {
+			key = omen_robert_johnson
+			deity = deity_robert_johnson
+		}
+		1309 = {
+			key = omen_telemaque #Denmark Vesey, slave revolt leader 
+			deity = deity_telemaque 
+		}
+		1310 = {
+			key = omen_john_henry
+			deity = deity_john_henry 
+		}
+	}
+}

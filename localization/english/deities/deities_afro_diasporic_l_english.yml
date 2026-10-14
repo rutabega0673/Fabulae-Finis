@@ -1,0 +1,47 @@
+﻿l_english:
+ ## Afro-Diasporic ##
+
+ #Hoodoo
+ deity_john_the_conquerer:0 "$omen_john_the_conquerer$"
+ omen_john_the_conquerer:0 "High John De Conquer"
+ omen_john_the_conquerer_desc:0 "#Y Hoodoo Deity#!\nHigh John de Conquer, or High John the Conquerer was a mighty king of old. He waits to return when his people shall call him again ... High John de Conquer went back to Africa, but he left his power here, and placed his American dwelling in the root of a certain plant. Only possess that root, and he can be summoned at any time."
+
+ deity_black_herman:0 "$omen_black_herman$"
+ omen_black_herman:0 "Black Herman"
+ omen_black_herman_desc:0 "#Y Hoodoo Deity#!\nA great trickster and doctor, Black Herman traveled all over the country, performing his tricks. His most famous act was one were he would kill himself, be buried, and come back alive three days later."
+
+ deity_hoodoo_moses:0 "$omen_hoodoo_moses$"
+ omen_hoodoo_moses:0 "Moses"
+ omen_hoodoo_moses_desc:0 "#Y Hoodoo Deity#!\nThe finest Hoodoo man in the world, Moses used his magic powers to free the enslaved Hebrews from the wicked Egyptians. He also authored the Sixth and Seventh Books of Moses, a collection of spells and incantations."
+
+ deity_simbi:0 "$omen_simbi$"
+ omen_simbi:0 "Simbi"
+ omen_simbi_desc:0 "#Y Hoodoo Spirits#!\nWater spirits associated with rocks, gullies, streams  and pools, Simbi are powerful beings who can influence the fertility and health of those living nearby."
+
+ deity_boo_hags:0 "$omen_boo_hags$"
+ omen_boo_hags:0 "Boo Hags"
+ omen_boo_hags_desc:0 "#Y Hoodoo Spirits#!\nBoo-Hags are night-riding spirits who prey on sleepers, steal breath, and haunt the fearful hours before daw"
+
+ deity_nat_turner:0 "$omen_nat_turner$"
+ omen_nat_turner:0 "Nat Turner"
+ omen_nat_turner_desc:0 "#Y Hoodoo Deity#!\nA spiritual leader, Nat Turner recieved messages from God, telling him to lead a rebellion against his people's oppressors. Although his rebellion was thwarted, his bravery and faithfulness live on."
+
+ deity_gullah_jack:0 "$omen_gullah_jack$"
+ omen_gullah_jack:0 "Gullah Jack"
+ omen_gullah_jack_desc:0 "#Y Hoodoo Deity#!\nA co-conspirator of Telemaque, Gullah Jack used his spiritual powers to create charms that would protect his soldiers from the Buckra, who held them in servitude."
+
+ deity_the_crossroads:0 "$omen_the_crossroads$"
+ omen_the_crossroads:0 "The Crossroads"
+ omen_the_crossroads_desc:0 "#Y Hoodoo Deity#!\nThe Crossroads are a place where the supernatural and natural world meet. Many have gone here, seeking a boon from the spirits."
+ 
+ deity_robert_johnson:0 "$omen_robert_johnson$"
+ omen_robert_johnson:0 "Robert Johnson"
+ omen_robert_johnson_desc:0 "#Y Hoodoo Deity#!\nSeeking fortune and fame, Robert Johnson made a deal with the Devil at the Crossroads, selling his soul for musical talent. Despite his skill, he died young."
+
+ deity_telemaque:0 "$omen_telemaque$"
+ omen_telemaque:0 "Telemaque"
+ omen_telemaque_desc:0 "#Y Hoodoo Deity#!\nA freedman, Telemaque sought to free his kin in Charleston. The planned day of his revolt was Bastille Day, the day on when the French of old cast down their oppressors. His plan was foiled, but he remains a popular figure among the lower classes, especially in Charleston."
+
+ deity_john_henry:0 "$omen_john_henry$"
+ omen_john_henry:0 "John Henry"
+ omen_john_henry_desc:0 "#Y Hoodoo Deity#!\nJohn Henry was a steel drivin' man Oh, he went down. Yes, he went down John Henry left his hammer layin' side the road Layin' side the road John Henry left his hammer all painted in red All painted in red. You just take this hammer and carry it to my captain, Oh, tell him I'm gone Won't you tell him I'm gone?" #Missisippi John Hurt version 

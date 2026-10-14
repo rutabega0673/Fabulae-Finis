@@ -1,7 +1,7 @@
 ﻿geechee = {
 	color = rgb { 153 102 153 }
 
-	levy_template = levy_thracians
+	levy_template = levy_old_southern
 	
 	primary = light_infantry
 	second = heavy_cavalry
@@ -12,29 +12,247 @@
 	flank_navy = liburnian
 
 	male_names = {
-		Tarxun Ramch Axak Maxak Uxuchan Shaow Wanxanak Awekat Baxuman Chukshek Ratsh Ramtish Ayus Katch Arxata Exak Sheshch Oxyartes Spitamenes Artaxerxes Burz Orzek Samtish Bexak Arzun Shaw Entysh Anxach Wius Bharzun Bharxuman 
+		Aba Abraham Aburika Adamu Adanko Ade Adebisi Adebiyi Adekule Adeniyi Adewale Adosu Adu Aduwa Adyako Aganju Agbaja Akaba Akawo Akiti Alabo Alade Alafia Alawo Alfloyd Ali Allen Aluwa Ambrose Amir Andrew Arthur Asante Ayuba
+		Bala Bankole Baraka Bealy Belali Benjermun Bigyai Boma Buri Bryan
+		Caesar Cato Charlie Charlton Choolay Clark Clarence Clay Cleveland Cooper Cooter Cudjo
+		Daniel Dave Dembo Denmark Dirisu Do-um Dorsey Dosar Dred
+		Edward Eldzier Eli Elijah Emmerson Emory Esau Eulis
+		Franklin Fulbe
+		Gaspar George Gibril Griffin Gussie Guy
+		Harbert Haruna Hubbard
+		Ibibio Ijesa Imale
+		Jack Jah Jamal Jasper Jenkins Jihmi John Jonathan Joseph Julien Jumare Jupiter
+		Kafiri Keta King Kwora
+		Lee Lenard Lomboi Lorenzo Lycurgus
+		Marcellus Michael Mohomet Mose Muzumbu Myers
+		Nago Ndapi
+		Oduduwa Ogbomoshos Ogboni Okuta Ola Olubiyi Olugbodi Oluwa Omar Osman Otunwa Oxford
+		Pat Peter Philip Pinckney Pompey Poro
+		Quentin
+		Ray Richard Riley Rival Robert Roger Ron Ross
+		Saitan Salifu Sam Sango Sanie Silas Simon Smith Sorie Sunday
+		Tahro Takyi Tamba Thomas Titus Totela
+		Ursell Uzebu
+		Way Walter Washington Wheeler Wida Wiley Williams Willis Wilson Woli
+		Yao Yeye
 	}
 	female_names = {
-		Roxana Rayun Roshanak Baxunash Roshan Saryash Zunesh Mayara Koshana Hephta Hashchana Ixeni Oniya Wyara Awxa Oshan Riyun 
+		Adebisi Adelaide Addie Ajowa Akaraje Alada Altamae Althea Amanda Amy Anice Anita Ann Ayisa Ayisata
+		Bentoo Betsy Bimbi
+		Caroline Chaalut Clara Cornelia Cotto Crissy Cynthia
+		Dafa Dawn Della Denise Doris Dorothy
+		Eden Edith Eleanor Eliza Eloise Ernestine Esther Ethel Eula Eulonia Eva
+		Faith Fatima Fatimata Fatu Fitina Fulani
+		Georgia Glenda
+		Hadijata Hagar Haha Hattie Helena Hestuh Hettie
+		Inez Iona Isata
+		Jane Jeannette Jilo Joyce Julia
+		Kadiatu Kareema Katie Kay Keniya Klema Kuta
+		Laila Lana Laraba Latoya Lennis Leola Lottie Lucy Lydia
+		Mable Madaline Madina Mae Magret Marcella Marece Mariama Marquetta Martha Mary Medina Mella Michelle Minerva Minna Monique Mulma Muriel
+		Nakia Nancy Natalga Nell Norma
+		Oluwa Onawumi Ophelia
+		Patricia Pearlie Peggy Phoebe Priscilla
+		Quiana
+		Ramona Roberta Ronnie Rosa
+		Sabinya Sabra Saida Sande Sarah Septima Shirley Sue Sula Sylvia
+		Tamie Tempy Thelma Tildy Tometro Trula
+		Vera Vermelle Veronica Vertamae Viola Virginia Vynee
+		Wannah Winee
+		Yaa Yaruba
 	}
 	family = {
-		Tarixanian.Tarixanian.Tarixanian.Tarixanian
-		Arzakanian.Arzakanian.Arzakanian.Arzakanian
-		Axumenian.Axumenian.Axumenian.Axumenian
-		Wanxanian.Wanxanian.Wanxanian.Wanxanian
-		Rachnian.Rachnian.Rachnian.Rachnian
-		Burzen.Burzen.Burzen.Burzenid
-		Semshan.Semshan.Semshan.Semshanian
-		Orzan.Orzan.Orzan.Orzan
-		Bharzunian.Bharzunian.Bharzunian.Bharzunian
-		Wyaran.Wyaran.Wyaran.Wyaran
-		Oxian.Oxian.Oxian.Oxian
-		Arxatan.Arxatan.Arxatan.Arxatan
-		Spitamenian.Spitamenian.Spitamenian.Spitamenian
-		Artaxian.Artaxian.Artaxian.Artaxian
-		Orxenian.Orxenian.Orxenian.Orxenian
-		Arzunian.Arzunian.Arzunian.Arzunian
-		Aynian.Aynian.Aynian.Aynian
+		Adams
+		Allen
+		Alston
+		Atkins
+		Bailey
+		Baker
+		Barkus
+		Baxter
+		Betbeze
+		Bohicket
+		Boles
+		Boson
+		Bowens
+		Boxley
+		Brennon
+		Brown
+		Bruner
+		Bryant
+		Buttimer
+		Caldwell
+		Campbell
+		Carney
+		Carr
+		Chaneyfield
+		Chavis
+		Chisholm
+		Clary
+		Coakley
+		Cofer
+		Colcock
+		Cole
+		Coltham
+		Cooler
+		Corlette
+		Cortor
+		Crankshaw
+		Cranman
+		Cromwell
+		Cullier
+		Cuthberts
+		Dabbs
+		Daise
+		Dash
+		Dasher
+		Daufuskie
+		Davis
+		Dawley
+		Day
+		Deleston
+		Doar
+		Doe
+		Dorroh
+		Dowse
+		Doyle
+		Drayton
+		Drury
+		Eaddy
+		Edenfield
+		Ellerbe
+		Everette
+		Ewaldsen
+		Factor
+		Famble
+		Ferrebee
+		Fields
+		Ford
+		Foreman
+		Frazier
+		Fullwood
+		Gadson
+		Gaillard
+		Gibbs
+		Glaze
+		Golphin
+		Goodbread
+		Goodwine
+		Grate
+		Green
+		Groover
+		Grosvenor
+		Grovner
+		Gunn
+		Habersham
+		Hankerson
+		Harris
+		Hill
+		Hillery
+		Hodges
+		Horlbeck
+		Hoskins
+		Hunter
+		Jack
+		Jamerson
+		Jemison
+		Jenkins
+		Johnson
+		Joint
+		Jones
+		Joyner
+		Kicklighter
+		King
+		Kinlaw
+		Lee
+		Legree
+		Lewis
+		Littles
+		Lotson
+		Mack
+		Major
+		Malool
+		Manigault
+		Maxwell
+		McCree
+		McKiver
+		Mention
+		Middleton
+		Milton
+		Mingledorff
+		Mixson
+		Moore
+		Moran
+		Moultrie
+		Mustipher
+		Ossabaw
+		Outler
+		Palmer
+		Parker
+		Parler
+		Parrish
+		Peazant
+		Pickney
+		Pinchback
+		Pinckney
+		Poinsette
+		Polite
+		Porcher
+		Prather
+		Puckett
+		Quall
+		Quarterman
+		Quimby
+		Rainey
+		Rivers
+		Roberts
+		Ross
+		Roundtree
+		Royce
+		Rozier
+		Sadgwar
+		Sallins
+		Sams
+		Screven
+		Seabrooke
+		Sengstacke
+		Settles
+		Shearouse
+		Shinault
+		Simmons
+		Singleton
+		Skipper
+		Small
+		Smalls
+		Smart
+		Snipes
+		Sparrer
+		Spaulding
+		Stepney
+		Stoddard
+		Sumpter
+		Surrency
+		Swinton
+		Tarrypin
+		Temple
+		Thomas
+		Towne
+		Trip
+		Turner
+		Vangiller
+		Varnedoe
+		Venning
+		Vesey
+		Westberry
+		Whaley
+		White
+		Wigfall
+		Williams
+		Winskey
+		Witthoft
+		Wylly
+		Young
+		Zittrouer
 	}
 	culture = {
 		gullah = {}
@@ -46,7 +264,8 @@
 	
 	graphical_culture = roman_gfx
 	ethnicities = {
-		8 = west_african
+		6 = west_african
+		2 = bactrian
 		2 = ethiopian
 	}
 }

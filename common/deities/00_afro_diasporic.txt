@@ -1,0 +1,297 @@
+﻿deity_john_the_conquerer = { #High John de Conquerer
+	trigger = {
+		
+		OR = {
+			common_deity_trigger = {
+				RELIGION = hoodoo
+			}
+			rare_deity_trigger = {
+				RELIGION = missisippian
+			}
+			deity:omen_john_the_conquerer = {
+				holy_site_deity_check_trigger = yes
+			}
+		}
+	}
+	icon = deity_tribal_war
+	passive_modifier = { global_population_growth = deity_global_population_growth_svalue }
+	omen = { discipline = omen_discipline_svalue } #Bonus from Omen
+	religion = hoodoo
+	deity_category = war
+	deification_trigger = {
+		can_deify_trigger = yes
+	}
+
+	on_activate = {
+		fertility_apotheosis_capital_slaves_effect = yes
+	}
+}
+
+deity_black_herman = { #Benjamin Rucker, african american stage magician, associated with Hoodoo practices
+	trigger = {
+		
+		OR = {
+			common_deity_trigger = {
+				RELIGION = hoodoo
+			}
+			deity:omen_black_herman = {
+				holy_site_deity_check_trigger = yes
+			}
+		}
+	}
+	icon = deity_tribal_eloquence
+	passive_modifier = { global_pop_conversion_speed_modifier = deity_global_pop_conversion_speed_modifier_svalue }
+	omen = { global_population_happiness = omen_global_population_happiness }
+	religion = hoodoo
+	deity_category = culture
+	deification_trigger = {
+		can_deify_trigger = yes
+	}
+
+	on_activate = {
+		culture_apotheosis_assimilate_effect = yes
+	}
+}
+
+deity_hoodoo_moses = { #
+	trigger = {
+		
+		OR = {
+			common_deity_trigger = {
+				RELIGION = hoodoo
+			}
+			deity:omen_hoodoo_moses = {
+				holy_site_deity_check_trigger = yes
+			}
+		}
+	}
+	icon = deity_tribal_love
+	passive_modifier = { global_slaves_happyness = deity_global_slaves_happiness_svalue }
+	omen = { agressive_expansion_monthly_change = omen_aggressive_expansion_monthly_change_svalue } #Bonus from Omen
+	religion = hoodoo
+	deity_category = fertility
+	deification_trigger = {
+		can_deify_trigger = yes
+	}
+
+	on_activate = {
+		culture_apotheosis_rel_tech_effect = yes
+	}
+}
+
+deity_simbi = { #
+	trigger = {
+		
+		OR = {
+			common_deity_trigger = {
+				RELIGION = hoodoo
+			}
+			deity:omen_simbi = {
+				holy_site_deity_check_trigger = yes
+			}
+		}
+	}
+	icon = deity_tribal_love
+	passive_modifier = { global_population_capacity_modifier = deity_global_population_capacity_modifier_svalue }
+    omen = { global_monthly_food_modifier = omen_global_monthly_food_modifier } #Bonus from Omen
+	religion = hoodoo
+	deity_category = fertility
+	deification_trigger = {
+		can_deify_trigger = yes
+	}
+
+	on_activate = {
+        fertility_apotheosis_capital_slaves_effect = yes
+    }
+}
+
+deity_boo_hags = { #
+	trigger = {
+		
+		OR = {
+			common_deity_trigger = {
+				RELIGION = hoodoo
+			}
+			deity:omen_boo_hags = {
+				holy_site_deity_check_trigger = yes
+			}
+		}
+	}
+	icon = deity_tribal_wealth
+	passive_modifier = { enact_holy_site_cost_modifier = -0.2 }
+	omen = { global_tax_modifier = omen_global_tax_modifier_svalue } #Bonus from Omen
+	religion = hoodoo
+	deity_category = economy
+	deification_trigger = {
+		can_deify_trigger = yes
+	}
+
+	on_activate = {
+		culture_apotheosis_rel_tech_effect = yes
+	}
+}
+
+deity_nat_turner = { #
+	trigger = {
+		
+		OR = {
+			common_deity_trigger = {
+				RELIGION = hoodoo
+			}
+			deity:omen_nat_turner = {
+				holy_site_deity_check_trigger = yes
+			}
+		}
+	}
+	icon = deity_tribal_war
+	passive_modifier = { land_morale_modifier = deity_land_morale_modifier_svalue }
+	omen = { religious_tech_investment = omen_religious_tech_investment_svalue } #Bonus from Omen
+	religion = hoodoo
+	deity_category = war
+	deification_trigger = {
+		can_deify_trigger = yes
+	}
+
+	on_activate = {
+		culture_apotheosis_rel_tech_effect = yes
+	}
+}
+
+deity_gullah_jack = { #
+	trigger = {
+		
+		OR = {
+			common_deity_trigger = {
+				RELIGION = hoodoo
+			}
+			deity:omen_gullah_jack = {
+				holy_site_deity_check_trigger = yes
+			}
+		}
+	}
+	icon = deity_tribal_war
+	passive_modifier = { diplomatic_relations = deity_diplomatic_relations_svalue }
+	omen = { global_defensive = omen_global_defensive_svalue }
+	religion = hoodoo
+	deity_category = war
+	deification_trigger = {
+		can_deify_trigger = yes
+	}
+
+	on_activate = {
+		culture_apotheosis_rel_tech_effect = yes
+	}
+}
+
+deity_the_crossroads = { #
+	trigger = {
+		
+		OR = {
+			common_deity_trigger = {
+				RELIGION = hoodoo
+			}
+			rare_deity_trigger = {
+				RELIGION = missisippian
+			}
+			deity:omen_the_crossroads = {
+				holy_site_deity_check_trigger = yes
+			}
+		}
+	}
+	icon = deity_tribal_wealth
+	passive_modifier = { global_commerce_modifier = deity_global_commerce_modifier_svalue }
+	omen = { global_citizen_output = omen_global_citizen_output_svalue } #Bonus from Omen
+	religion = hoodoo
+	deity_category = economy
+	deification_trigger = {
+		can_deify_trigger = yes
+	}
+
+	on_activate = {
+		economy_apotheosis_capital_citizens_effect = yes
+	}
+}
+
+deity_robert_johnson = { #
+	trigger = {
+		
+		OR = {
+			rare_deity_trigger = {
+				RELIGION = hoodoo
+			}
+			rare_deity_trigger = {
+				RELIGION = missisippian
+			}
+			deity:omen_robert_johnson = {
+				holy_site_deity_check_trigger = yes
+			}
+		}
+	}
+	icon = deity_tribal_wealth
+	passive_modifier = { global_monthly_civilization = omen_global_monthly_civilization_svalue }
+	omen = { happiness_for_same_culture_modifier = omen_happiness_for_same_culture_modifier_svalue } #Bonus from Omen
+	religion = hoodoo
+	deity_category = economy
+	deification_trigger = {
+		can_deify_trigger = yes
+	}
+
+	on_activate = {
+		culture_apotheosis_rel_tech_effect = yes
+	}
+}
+
+deity_telemaque = { #Denmark Vesey, slave revolt leader
+	trigger = {
+		
+		OR = {
+			rare_deity_trigger = {
+				RELIGION = hoodoo
+			}
+			deity:omen_telemaque = {
+				holy_site_deity_check_trigger = yes
+			}
+		}
+	}
+	icon = deity_tribal_eloquence
+	passive_modifier = { monthly_political_influence_modifier = deity_monthly_political_influence_modifier_svalue }
+	omen = { general_loyalty = 3 }
+	religion = hoodoo
+	deity_category = culture
+	deification_trigger = {
+		can_deify_trigger = yes
+	}
+
+	on_activate = {
+		culture_apotheosis_assimilate_effect = yes
+	}
+}
+
+deity_john_henry = { #John Henry
+	trigger = {
+		
+		OR = {
+			common_deity_trigger = {
+				RELIGION = hoodoo
+			}
+			rare_deity_trigger = {
+				RELIGION = missisippian
+			}
+			deity:omen_john_henry = {
+				holy_site_deity_check_trigger = yes
+			}
+		}
+	}
+	icon = deity_tribal_wealth
+	passive_modifier = { build_cost = deity_build_cost_svalue }
+	omen = { build_time = -0.08 } #Bonus from Omen
+	religion = hoodoo
+	deity_category = economy
+	deification_trigger = {
+		can_deify_trigger = yes
+	}
+
+	on_activate = {
+		economy_apotheosis_province_improvement_effect = yes
+	}
+}
