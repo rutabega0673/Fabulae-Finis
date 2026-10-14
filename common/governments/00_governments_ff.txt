@@ -179,7 +179,8 @@ cahokian_monarchy = {
 	
 	use_regnal_numbers = yes
 	
-	ruler_consort_benefits = yes
+	has_co_ruler = yes
+	#ruler_consort_benefits = yes
 
 	color = rgb { 159 114 0 }
 }

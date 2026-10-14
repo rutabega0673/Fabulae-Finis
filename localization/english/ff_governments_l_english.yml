@@ -106,6 +106,8 @@
  cahokian_monarchy_desc:0 "Ruled by a divine Sun King, a Solar Kingdom is seen as the penultimate form of governance among the Cahokians. Emulating their namesake, Great Sun King Cahokia, Solar Kingdoms are notable for the construction of great mounds, and unwavering zealotry for their gods."
  cahokian_monarchy_ruler:0 "Great Sun King"
  cahokian_monarchy_ruler_female:0 "Great Sun Queen"
+ cahokian_monarchy_co_ruler:0 "Tatooed Serpent"
+ cahokian_monarchy_co_ruler_female:0 "Tatooed Serpent"
  cahokian_monarchy_consort:0 "Great Sun King"
  cahokian_monarchy_consort_female:0 "Great Sun Queen"
  cahokian_monarchy_ruler_louisianais:0 "Grande Rwa Sóley"

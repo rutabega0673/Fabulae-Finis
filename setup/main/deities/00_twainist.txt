@@ -101,5 +101,13 @@ deity_manager = {
 			key = omen_sun_king_faulkner
 			deity = deity_sun_king_faulkner
 		}
+		725 = {
+			key = omen_sun_king_pontiac
+			deity = deity_sun_king_pontiac
+		}
+		726 = {
+			key = omen_serpent_huey
+			deity = deity_serpent_huey
+		}
 	}
 }

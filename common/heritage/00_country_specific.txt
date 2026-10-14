@@ -515,3 +515,42 @@ ticonderoga_heritage = {
       tag = TIN
    }
 }
+winona_heritage = {
+   	modifier = {
+      #good
+      global_citizen_output = 0.05
+      civic_tech_investment = 0.10
+    #bad
+      agressive_expansion_monthly_change = 0.03
+   }
+
+   trigger = {
+      tag = WNO
+   }
+}
+pope_heritage = {
+   	modifier = {
+      #good
+      happiness_for_same_religion_modifier = 0.06   
+      diplomatic_relations = 2
+    #bad
+      war_score_cost = 0.10
+   }
+
+   trigger = {
+      tag = PAP
+   }
+}
+maritime_kingdom_heritage = {
+   	modifier = {
+      #good
+      global_freemen_happyness = 0.08  
+      governor_loyalty = 3
+    #bad
+      mercenary_land_maintenance_cost = 0.1
+   }
+
+   trigger = {
+      tag = MRI
+   }
+}

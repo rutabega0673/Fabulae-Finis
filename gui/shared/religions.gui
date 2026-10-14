@@ -218,12 +218,28 @@ types religions {
 			visible = "[EqualTo_string(Religion.GetNameWithNoTooltip, Localize('caesarist'))]"
 		}
 		religion_icon = {
-			texture = "gfx/interface/icons/religions/cahokian_new.dds"
+			texture = "gfx/interface/icons/religions/cahokian_new_new.dds"
 			visible = "[EqualTo_string(Religion.GetNameWithNoTooltip, Localize('missisippian'))]"
 		}
 		religion_icon = {
 			texture = "gfx/interface/icons/religions/cao_dai.dds"
 			visible = "[EqualTo_string(Religion.GetNameWithNoTooltip, Localize('cao_dai'))]"
+		}
+		religion_icon = {
+			texture = "gfx/interface/icons/religions/haredi.dds"
+			visible = "[EqualTo_string(Religion.GetNameWithNoTooltip, Localize('haredi'))]"
+		}
+		religion_icon = {
+			texture = "gfx/interface/icons/religions/hoodoo.dds"
+			visible = "[EqualTo_string(Religion.GetNameWithNoTooltip, Localize('hoodoo'))]"
+		}
+		religion_icon = {
+			texture = "gfx/interface/icons/religions/sustainibilist.dds"
+			visible = "[EqualTo_string(Religion.GetNameWithNoTooltip, Localize('sustainablist'))]"
+		}
+		religion_icon = {
+			texture = "gfx/interface/icons/religions/unitarian.dds"
+			visible = "[EqualTo_string(Religion.GetNameWithNoTooltip, Localize('unitarian_universialism'))]"
 		}
 	}
 }

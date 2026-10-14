@@ -1,50 +1,54 @@
 ﻿country_decisions = {
 
-	#Form Gotham
-	form_gotham = {
+	#Form Pennsyltucky
+	form_pennsyltucky = {
 	potential = {
 		num_of_cities >= 1
-		primary_culture = gothamite
+		primary_culture = susquehannan
 		NOR = {
 			is_tier_1_formable_trigger = yes
 			is_tier_2_formable_trigger = yes
 			is_endgame_tag_trigger = yes
-			has_variable = has_formed_gotham
+			has_variable = has_formed_pennsyltucky
 		}
 	}
 	highlight = {
 		scope:province = {
 			OR = {
-				is_in_area = new_york_area
-				is_in_area = north_jersey_area
-				province_id = 7969
+				province_id = 7723
+				province_id = 9332
+				province_id = 3241
+				province_id = 6214
+				province_id = 2095
 			}
 		}
 	}
 	allow = {
 		custom_tooltip = {
-			text = "formable_not_gotham_exists"
+			text = "formable_not_pennsyltucky_exists"
 			NOT = {
 				any_country = {
-					tag = GH1
+					tag = PN1
 				}
 			}
 		}
 		can_form_nation_trigger = yes
-		owns_or_subject_owns_area = new_york_area
-		owns_or_subject_owns_area = north_jersey_area
-		owns_or_subject_owns = 7969
+		owns_or_subject_owns = 7723
+		owns_or_subject_owns = 9332
+		owns_or_subject_owns = 3241
+		owns_or_subject_owns = 6214
+		owns_or_subject_owns = 2095
 	}
 	effect = {
 		custom_tooltip = "tier_1_formable_tooltip"
-		change_country_name = GOTHAM_NAME
+		change_country_name = PENNSYLTUCKY_NAME
 		add_2_free_province_investments = yes
 		hidden_effect = {
-			change_country_adjective = GOTHAM_ADJECTIVE
-			change_country_color = gotham_dark_teal
-			change_country_tag = GH1
-			change_country_flag = "GOTHAM_FLAG"
-			set_variable = has_formed_gotham
+			change_country_adjective = PENNSYLTUCKY_ADJECTIVE
+			change_country_color = dark_green
+			change_country_tag = PN1
+			#change_country_flag = "PENNSYLTUCKY_FLAG"
+			set_variable =  has_formed_pennsyltucky
 		}
 		capital_scope = {
 			capital_formable_small_effect = yes

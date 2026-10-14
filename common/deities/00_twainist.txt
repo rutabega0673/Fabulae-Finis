@@ -659,3 +659,53 @@ deity_sun_king_faulkner = { #William Faulkner / As I Lay Dying
 		#deadly_apotheosis_effect = yes
 	}
 }
+deity_sun_king_pontiac = {
+	trigger = {
+		
+		OR = {
+			rare_deity_trigger = {
+				RELIGION = missisippian
+			}
+			deity:omen_sun_king_pontiac = {
+				holy_site_deity_check_trigger = yes
+			}
+		}
+	}
+	icon = deity_tribal_war
+	passive_modifier = { siege_ability = 0.05 }
+	omen = { hostile_attrition = omen_hostile_attrition_svalue } #Bonus from Omen
+	religion = missisippian
+	deity_category = war
+	deification_trigger = {
+		can_deify_trigger = yes
+	}
+
+	on_activate = {
+		military_apotheosis_capital_freemen_effect = yes
+	}
+}
+deity_serpent_huey = {
+	trigger = {
+		
+		OR = {
+			common_deity_trigger = {
+				RELIGION = missisippian
+			}
+			deity:omen_serpent_huey = {
+				holy_site_deity_check_trigger = yes
+			}
+		}
+	}
+	icon = deity_tribal_war
+	passive_modifier = { fabricate_claim_speed = deity_fabricate_claim_speed_svalue }
+	omen = { enslavement_efficiency = 0.05 } #Bonus from Omen
+	religion = missisippian
+	deity_category = war
+	deification_trigger = {
+		can_deify_trigger = yes
+	}
+
+	on_activate = {
+		military_apotheosis_defensive_effect = yes
+	}
+}

@@ -83,6 +83,13 @@
  deity_sun_king_faulkner:0 "$omen_sun_king_faulkner$"
  omen_sun_king_faulkner:0 "Sun King Faulkner"
  omen_sun_king_faulkner_desc:0 "#Y Cahokian Sun King#!\nMostly associated with death and funerary rites, Sun King Faulkner was known for carrying a coffin containing his mother, to her burial mound in Yoknapatawpha, chronicled in the tale 'As-I-Lay-Dying'. Under his rule, Magnolia flourished, becoming one of the mighty kingdoms of pre-Event times."
+ deity_sun_king_pontiac:0 "$omen_sun_king_pontiac$"
+ omen_sun_king_pontiac:0 "Sun King Pontiac"
+ omen_sun_king_pontiac_desc:0 "#Y Cahokian Sun King#!\nA mighty king in the far away land of Laurentia, Pontiac was able to unite his peoples against a great invading force, nearly driving them out. He was stalled by disease and the harsh embrace of father winter, forcing him to retreat to Cahokia. In his exile, he was murdered by his opponents."
+  deity_serpent_huey:0 "$omen_serpent_huey$"
+ omen_serpent_huey:0 "Tatooed Serpent"
+ omen_serpent_huey_desc:0 "#Y Cahokian Sun King#!\nWhile his brother Great Sun concerned his rule with internal affairs, Great Serpent dealt with military and diplomatic issues. His body is adorned with an ornate serpent tatoo, which wraps around his whole torso."
+ 
  
 
 
