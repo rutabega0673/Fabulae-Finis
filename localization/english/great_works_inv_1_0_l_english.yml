@@ -149,3 +149,6 @@
  wonder_statue_of_liberty:0 "The Statue of Liberty"
  gw_effect_statue_of_liberty:0 "The New Colossus"
  gw_effect_statue_of_liberty_DESC:0 "Give me your tired, your poor, Your huddled masses yearning to breathe free, the wretched refuse of your teeming shore.\n- Inscription at the base of The Statue of Liberty"
+ wonder_cahokia:0 "Cahokia"
+ gw_effect_cahokia:0 "Cahokian Mounds"
+ gw_effect_cahokia_DESC:0 "Long before the establishment of cities such as New York, Mexico City, Sacramento and others, Cahokia was the mightiest and grandest city in all of North America. Ruled by the venerable Great Sun King Cahokia, the city flourished for a millenia, before being mysteriously destroyed."

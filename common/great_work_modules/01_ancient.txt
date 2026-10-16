@@ -116,3 +116,9 @@ wonder_statue_of_liberty={
 	great_work_category="gw_category_ancient"
 	great_work_category_slot=0
 }
+
+wonder_cahokia={
+	entity_name={"kurgan_mounds_03_entity"}
+	great_work_category="gw_category_ancient"
+	great_work_category_slot=0
+}

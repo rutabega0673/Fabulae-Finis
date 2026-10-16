@@ -5,6 +5,8 @@
  deity_john_the_conquerer:0 "$omen_john_the_conquerer$"
  omen_john_the_conquerer:0 "High John De Conquer"
  omen_john_the_conquerer_desc:0 "#Y Hoodoo Deity#!\nHigh John de Conquer, or High John the Conquerer was a mighty king of old. He waits to return when his people shall call him again ... High John de Conquer went back to Africa, but he left his power here, and placed his American dwelling in the root of a certain plant. Only possess that root, and he can be summoned at any time."
+ omen_john_the_conquerer_missisippian:0 "Sun King John the Conquerer"
+ omen_john_the_conquerer_desc_missisippian:0 "#Y Cahokian Sun King#!\nSun King John the Conquerer fell in love with the Devil's Daughter. In order to win her hand, the Devil said he must clear what is now Chicago, sow it with corn, and reap in all in one day. Aided by a magical axe given by the Devil's Daughter, he completed all these tasks, but was forced to flee, as the Devil was going to kill him anyways."
 
  deity_black_herman:0 "$omen_black_herman$"
  omen_black_herman:0 "Black Herman"
@@ -37,6 +39,8 @@
  deity_robert_johnson:0 "$omen_robert_johnson$"
  omen_robert_johnson:0 "Robert Johnson"
  omen_robert_johnson_desc:0 "#Y Hoodoo Deity#!\nSeeking fortune and fame, Robert Johnson made a deal with the Devil at the Crossroads, selling his soul for musical talent. Despite his skill, he died young."
+ omen_robert_johnson_missisippian:0 "Sun King Johnson"
+ omen_robert_johnson_desc_missisippian:0 "#Y Cahokian Sun King#!\nSeeking fortune and fame, Sun King Johnson made a deal with the Devil at the Crossroads, becoming the King of the Blues."
 
  deity_telemaque:0 "$omen_telemaque$"
  omen_telemaque:0 "Telemaque"
@@ -44,4 +48,6 @@
 
  deity_john_henry:0 "$omen_john_henry$"
  omen_john_henry:0 "John Henry"
- omen_john_henry_desc:0 "#Y Hoodoo Deity#!\nJohn Henry was a steel drivin' man Oh, he went down. Yes, he went down John Henry left his hammer layin' side the road Layin' side the road John Henry left his hammer all painted in red All painted in red. You just take this hammer and carry it to my captain, Oh, tell him I'm gone Won't you tell him I'm gone?" #Missisippi John Hurt version 
+ omen_john_henry_desc:0 "#Y Hoodoo Deity#!\nJohn Henry was a steel drivin' man Oh, he went down\nYes, he went down\nJohn Henry left his hammer layin' side the road\nLayin' side the road\nJohn Henry left his hammer all painted in red\nAll painted in red\nYou just take this hammer and carry it to my captain, Oh, tell him I'm gone\nWon't you tell him I'm gone?" #Missisippi John Hurt version 
+ omen_john_henry_missisippian:0 "Sun King Henry"
+ omen_john_henry_desc_missisippian:0 "#Y Sun King Henry#!\nSun King Henry was in a race with a fearsome machine of iron, in a competetion to see who could bore a hole through a mountain the quickest. Being of immense strength, Henry beat the machine, winning favor and being granted the favor of the Great River."

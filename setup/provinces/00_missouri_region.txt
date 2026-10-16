@@ -422,8 +422,12 @@
 		amount=4
 	}
 	slaves={
+		religion="missisippian"
+		amount=3
+	}
+	slaves={
 		culture="hermanndeutsch"
-		religion="lutheran"
+		religion="missisippian"
 		amount=2
 	}
 	slaves={
@@ -433,7 +437,7 @@
 	}
 	slaves={
 		religion="twainist"
-		amount=2
+		amount=4
 	}
 	slaves={
 		religion="heartful"

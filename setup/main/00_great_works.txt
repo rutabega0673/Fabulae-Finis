@@ -29,7 +29,10 @@ provinces = {
 	#}
 	#7314={
 	#	great_work=17
-	#}	
+	#}
+	6431={ #Cahokia
+		great_work=18
+	}		
 }
 
 great_work_manager={	
@@ -252,6 +255,28 @@ great_work_manager={
 			great_work_effect_selections={
 				{
 					great_work_effect="gw_effect_religious_science_doctrine"
+					great_work_effect_tier = "gw_effect_tier_4"
+				}
+			}
+		}
+		18={ #Cahokia
+			ancient_wonder = yes
+			key="kurgan_mounds"
+			great_work_state=great_work_state_completed
+			finished_date=1050.1.1
+			great_work_category="building"
+
+			great_work_name={
+				name="wonder_cahokia"
+			}
+			great_work_components={
+				{
+					great_work_module="wonder_cahokia"
+				}
+			}
+			great_work_effect_selections={
+				{
+					great_work_effect="gw_effect_cahokia"
 					great_work_effect_tier = "gw_effect_tier_4"
 				}
 			}

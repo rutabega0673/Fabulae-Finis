@@ -652,17 +652,19 @@
 6431={ #Belleville
 	terrain="farmland"
 	culture="gatewayan"
-	religion="twainist"
+	religion="missisippian"
 	trade_goods="clay"
 	civilization_value=28
 	barbarian_power=0
 	province_rank="city"
+	nobles={
+		amount=1
+	}
 	citizen={
 		religion="promethean"
 		amount=4
 	}
 	citizen={
-		religion="lutheran"
 		amount=2
 	}
 	freemen={
@@ -678,13 +680,17 @@
 		amount=1
 	}
 	slaves={
+		religion="lutheran"
+		amount=2
+	}
+	slaves={
 		religion="catholic"
 		amount=2
 	}
 	slaves={
-		religion="lutheran"
 		amount=3
 	}
+	holy_site=omen_cahokia
 }
 
 6432={ #Pinckneyville
