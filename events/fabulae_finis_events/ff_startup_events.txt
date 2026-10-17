@@ -107,3 +107,258 @@ ff_startup_event.1 = { #Caesarist Startup Event
 		}
 	}  
 }
+
+ff_startup_event.2 = {
+
+	type = country_event
+	title = "ff_startup_event.2.t"
+	desc = "ff_startup_event.2.desc"
+	picture = Event_roman_triumph
+	goto_location = root.capital_scope
+	left_portrait = current_ruler
+	left_portrait = c:BRT.current_ruler
+	#left_portrait = current_co_ruler
+	right_portrait = c:ROC.current_ruler
+	right_portrait = c:UTC.current_ruler
+	right_portrait = c:ONT.current_ruler
+
+	trigger = {
+		tag = HAD
+	}
+
+	#immediate = {
+		#set_variable = {
+		#	name = hellenic_7_flag
+		#}
+	#	if = {
+	#		limit = { is_ai = yes }
+	#		add_military_experience = 100
+	#	}
+	#}
+
+	option = {
+		name = ff_startup_event.2.a
+		custom_tooltip = make_history_tt
+		custom_tooltip = ff_startup_event.2.tt
+		hidden_effect = {
+			add_truce = {
+				target = c:ROC
+				duration = 580
+			}
+			add_truce = {
+				target = c:UTC
+				duration = 20
+			}		
+		}
+	}
+
+}
+
+ff_startup_event.3 = {
+
+	type = country_event
+	title = "ff_startup_event.3.t"
+    desc = {
+    	desc = ff_startup_event.3.desc
+		   	first_valid = {
+	    		triggered_desc = {
+	    			trigger = { 
+						is_monarchy = yes
+	    			}
+	    			desc = ff_startup_event.3.desc_monarchy
+	    		}
+	    		triggered_desc = {
+	    			trigger = { 
+						is_republic = yes
+	    			}
+	    			desc = ff_startup_event.3.desc_republic
+	    		}
+	    		triggered_desc = {
+	    			trigger = { always = yes }
+	    			desc = ff_startup_event.3.desc_generic
+	    		}
+	    	}
+    	}
+
+	picture = successors
+	goto_location = root.capital_scope
+	left_portrait = char:19
+	left_portrait = char:20
+	left_portrait = char:22
+	right_portrait = c:BOS.current_ruler
+	right_portrait = char:10
+	right_portrait = c:NYC.current_ruler
+
+	trigger = {
+		# NOR = {
+		# 	tag = SEL
+		# 	tag = HCP
+		# 	tag = SPA
+		# 	tag = AZA
+		# 	tag = BOE
+		# 	tag = CAP
+		# }
+		capital_scope = {
+			OR = {
+				is_in_region = atlantica_region
+				is_in_region = new_england_region
+				is_in_region = virginia_region
+			}
+		}
+	}
+
+	option = {
+		name = startup_events.1.a
+		#custom_tooltip = startup_events.1.at		
+		#if = {
+		#    limit = {
+		#		tag = PRY
+		 #   }
+		#	trigger_event = {
+		#		id = diadochi_flavor.10
+		#		days = { 5 10 }
+		#	}
+		#}
+		#hidden_effect = {
+		#	if = {
+		#	    limit = {
+	# 				OR = {
+	# 					tag = EGY
+	# 					tag = MAC
+	# 					tag = SEL
+	# 					tag = TRE
+	# 				}
+	# 		    }
+	# 			every_country = {
+	# 				limit = {
+	# 					OR = {
+	# 						tag = EGY
+	# 						tag = MAC
+	# 						tag = SEL
+	# 						tag = TRE
+	# 					}
+	# 					NOT = {
+	# 						THIS = ROOT
+	# 					}
+	# 				}
+	# 				add_opinion = { target = ROOT modifier = diadochi_coalition_opinion }
+	# 			}	
+	# 		}
+	# 		if = {
+	# 		    limit = {
+	# 				tag = EGY
+	# 		    }
+	# 			random_navy = {
+    #                 if = {
+    #                     limit = { exists = commander }
+    #                     commander = { remove_command = yes }
+    #                     set_as_commander = char:253
+    #                 }
+    #                 else = {
+    #                     set_as_commander = char:253
+    #                 }
+    #             }
+	# 	        c:EGY = {
+	# 	            add_opinion = { target = c:SEL modifier = supported_seleukus_opinion }
+	# 				#trigger_event = {#Keraunos Event
+	# 				#	id = epigoni.1
+	# 				#	days = { 3650 9125 }
+	# 				#}
+	# 	        }
+	# 	        c:SEL = {
+	# 	            add_opinion = { target = c:EGY modifier = supported_seleukus_opinion }
+	# 				every_country = {
+	# 					limit = {
+	# 						OR = {
+	# 							tag = EGY
+	# 							tag = MAC
+	# 							tag = TRE
+	# 						}
+	# 					}
+	# 					add_opinion = { target = c:SEL modifier = diadochi_coalition_opinion }
+	# 				}
+	# 	        }
+	# 		}
+	# 		if = {
+	# 			limit = { tag = SEL }
+	# 			every_character = {
+	# 				limit = {
+	# 					family = c:SEL.fam:Frataraka
+	# 					NOT = {
+	# 						has_religion = zoroaster
+	# 					}					
+	# 				}
+	# 				set_character_religion = zoroaster
+	# 			}
+	# 		}
+	# 	}
+	# 	if = {
+	# 	    limit = {
+	# 			tag = TRE
+	# 			is_ai = yes
+	# 	    }
+	# 		random_country_culture = {
+	# 			limit = { this.culture = culture:odrysi }
+	# 			save_scope_as = odrysi_culture_scope
+	# 			hidden_effect = {
+	# 				ROOT = { integrate_country_culture = PREV }
+	# 			}
+	# 			add_country_culture_modifier = {
+	# 				name = tre_land_of_the_thracians_culture_mod
+	# 				duration = 10950 # 30 years
+	# 			}
+	# 		}
+	# 		p:350 = {
+	# 			add_province_modifier = {
+	# 				name = thracian_capital_defence_cheat
+	# 				duration = 7300 # 20 years
+	# 			}
+	# 		}
+	# 		trigger_event = me_thrace_2_paper_kingdom.25
+	# 	}
+	# }
+	}
+}
+
+ff_startup_event.4 = {
+
+	type = country_event
+	title = "ff_startup_event.4.t"
+	desc = "ff_startup_event.4.desc"
+	picture = interesting_histories_hellenic_dock
+	goto_location = root.capital_scope
+	left_portrait = current_ruler
+	left_portrait = c:HAB.current_ruler
+	left_portrait = c:IWA.current_ruler
+	right_portrait = c:MMP.current_ruler
+	right_portrait = c:MDL.current_ruler
+	right_portrait = c:CMO.current_ruler
+
+	trigger = {
+		tag = MMP
+		tag = MDL
+		capital_scope = {
+			OR = {
+				is_in_region = missouri_region
+				is_in_region = ozarks_region
+				is_in_region = iowa_region
+				is_in_region = illinois_region
+			}
+		}
+	}
+
+	#immediate = {
+		#set_variable = {
+		#	name = hellenic_7_flag
+		#}
+	#	if = {
+	#		limit = { is_ai = yes }
+	#		add_military_experience = 100
+	#	}
+	#}
+
+	option = {
+		name = ff_startup_event.4.a
+		custom_tooltip = make_history_tt
+	}
+}

@@ -9,7 +9,10 @@
 
 	events = {
 		###FF Startup Events
-		ff_startup_event.1
+		ff_startup_event.1 #Caesarist change conversion 
+		ff_startup_event.2 #Onondaga startup
+		ff_startup_event.3 #East Coast startup
+		ff_startup_event.4 #St Louis event
 
 		###Birth Order Traits
 		firstborn_traits.1
