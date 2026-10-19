@@ -1,0 +1,260 @@
+﻿onondaga_missions_1 = {
+    icon = rome_1
+	header = mission_image_rome
+	
+	repeatable = no
+
+    chance = {
+		factor = 3
+	}
+
+    potential = {
+        tag = HAD
+        NOT = { has_variable = mission_cooldown_var }
+    }
+
+    abort = {}
+    on_start = {
+        start_mission_ai_effect = yes
+    }
+    on_abort = {
+        custom_tooltip = general_mission_cooldown_tt
+        set_variable = {
+            name = mission_cooldown_var
+            days = 7300
+        }
+    }
+    on_completion = {}
+    onondaga_missions_1_task_1 = {
+        icon = "task_economical"
+
+        highlight = {
+		    scope:province = {
+			    province_id = 6853
+		    }
+	    }
+
+        allow = {
+            treasury >= 50
+            invention = global_defensive_inv_1 
+        }
+        on_completion = {
+            trigger_event = {
+                id = onondaga_missions_event.1
+            }
+            show_as_tooltip = {
+                p:6853 = {
+                    add_permanent_province_modifier = {
+                        name = syracuse_citadel_mod
+                    }
+                    add_building_level = fortress_building
+                    create_2_freemen_effect = yes
+                }
+            }
+        }
+    }
+    onondaga_missions_1_task_2 = {
+        requires = { onondaga_missions_1_task_1 }
+        icon = "task_political"
+
+        allow = {}
+        on_completion = {
+            trigger_event = onondaga_missions_event.2
+            show_as_tooltip = {
+
+            }
+        }
+    }
+    onondaga_missions_1_task_3 = {
+        requires = { onondaga_missions_1_task_1 }
+        icon = "task_political"
+        allow = {}
+        on_completion = {
+            trigger_event = onondaga_missions_event.3
+            show_as_tooltip = {
+
+            }
+        }
+    }
+    onondaga_missions_1_task_4 = {
+        requires = { onondaga_missions_1_task_2 }
+        icon = "task_political"
+        allow = {}
+        on_completion = {
+            trigger_event = onondaga_missions_event.4
+            show_as_tooltip = {
+
+            }
+        }
+    }
+    onondaga_missions_1_task_5 = {
+        requires = { onondaga_missions_1_task_2 }
+        icon = "task_political"
+        allow = {}
+        on_completion = {
+            trigger_event = onondaga_missions_event.5
+            show_as_tooltip = {
+
+            }
+        }
+    }
+    onondaga_missions_1_task_6 = {
+        requires = { onondaga_missions_1_task_3 }
+        icon = "task_political"
+        allow = {}
+        on_completion = {
+            trigger_event = onondaga_missions_event.6
+            show_as_tooltip = {
+
+            }
+        }
+    }
+    onondaga_missions_1_task_7 = {
+        requires = { onondaga_missions_1_task_3 }
+        icon = "task_political"
+        allow = {}
+        on_completion = {
+            trigger_event = onondaga_missions_event.7
+            show_as_tooltip = {
+
+            }
+        }
+    }
+    onondaga_missions_1_task_8 = {
+        requires = { onondaga_missions_1_task_3 }
+        icon = "task_political"
+        allow = {}
+        on_completion = {
+            trigger_event = onondaga_missions_event.8
+            show_as_tooltip = {
+
+            }
+        } 
+    }
+    onondaga_missions_1_task_9 = {
+        requires = { onondaga_missions_1_task_2 }
+        icon = "task_political"
+        allow = {}
+        on_completion = {
+            trigger_event = onondaga_missions_event.9
+            show_as_tooltip = {
+
+            }
+        }
+    }
+    onondaga_missions_1_task_10 = {
+        requires = { onondaga_missions_1_task_8 }
+        icon = "task_political"
+        allow = {}
+        on_completion = {
+            trigger_event = onondaga_missions_event.10
+            show_as_tooltip = {
+
+            }
+        }
+    }
+    onondaga_missions_1_task_11 = {
+        requires = { onondaga_missions_1_task_6 onondaga_missions_1_task_7 }
+        icon = "task_political"
+        allow = {}
+        on_completion = {
+            trigger_event = onondaga_missions_event.11
+            show_as_tooltip = {
+
+            }
+        }
+    }
+    onondaga_missions_1_task_12 = {
+        requires = { onondaga_missions_1_task_4 onondaga_missions_1_task_5 }
+        icon = "task_political"
+        allow = {}
+        on_completion = {
+            trigger_event = onondaga_missions_event.12
+            show_as_tooltip = {
+
+            }
+        }
+    }
+    onondaga_missions_1_task_13 = {
+        requires = { onondaga_missions_1_task_12 onondaga_missions_1_task_11 }
+        icon = "task_political"
+        allow = {}
+        on_completion = {
+            trigger_event = onondaga_missions_event.13
+            show_as_tooltip = {
+
+            }
+        }
+    }
+    onondaga_missions_1_task_14 = {
+        requires = { onondaga_missions_1_task_13 }
+        icon = "task_political"
+        allow = {}
+        on_completion = {
+            trigger_event = onondaga_missions_event.14
+            show_as_tooltip = {
+
+            }
+        }
+    }
+    onondaga_missions_1_task_15 = {
+        icon = "task_political"
+        allow = {}
+        on_completion = {
+            trigger_event = onondaga_missions_event.15
+            show_as_tooltip = {
+
+            }
+        }
+    }
+    onondaga_missions_1_task_16 = {
+        icon = "task_political"
+        allow = {}
+        on_completion = {
+            trigger_event = onondaga_missions_event.16
+            show_as_tooltip = {
+
+            }
+        }
+    }
+    onondaga_missions_1_task_17 = {
+        icon = "task_political"
+        allow = {}
+        on_completion = {
+            trigger_event = onondaga_missions_event.17
+            show_as_tooltip = {
+
+            }
+        }
+    }
+    onondaga_missions_1_task_18 = {
+        icon = "task_political"
+        allow = {}
+        on_completion = {
+            trigger_event = onondaga_missions_event.18
+            show_as_tooltip = {
+
+            }
+        }
+    }
+    onondaga_missions_1_task_19 = {
+        icon = "task_political"
+        allow = {}
+        on_completion = {
+            trigger_event = onondaga_missions_event.19
+            show_as_tooltip = {
+
+            }
+        }
+    }
+    onondaga_missions_1_task_20 = {
+        icon = "task_political"
+        allow = {}
+        on_completion = {
+            trigger_event = onondaga_missions_event.20
+            show_as_tooltip = {
+
+            }
+        }
+    }
+}

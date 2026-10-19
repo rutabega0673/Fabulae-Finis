@@ -1,0 +1,179 @@
+﻿l_english:
+
+onondaga_missions_1:0 "Keepers of the Fire"
+onondaga_missions_1_DESCRIPTION:0 "From the inception of the Haudenosaunee Confederacy long ago, the #Y Onondaga#! have enjoyed a special role in the confederacy, hosting the capital of the league in Onondaga, and being the Firekeepers on the council, sitting in the center. For many centuries, the [GetCulture('haudenosaunee').GetName] have fought tooth and nail against foreign invaders. While the Grand Council was not able to survive the Event, the ideals of $omen_great_peacemaker$ live on. Successive wars in recent years, along the emergence of the Revialist religious movement have spurred our leaders to seek a militaristic policy.\n\nIt is up to us, the Keepers of the Fire, to bring back what once was. "
+onondaga_missions_1_CRITERIA_DESCRIPTION:0 "This mission will be completed when the #Y Onondaga#! have restored the traditional borders of the Five Nations, and  the #Y Haudenosaunee Confederacy#!."
+onondaga_missions_1_BUTTON_TOOLTIP:0 ""
+
+#Missions
+
+onondaga_missions_1_task_1:0 "Fortifying Syracuse"
+onondaga_missions_1_task_1_DESC:0 "While just recently becoming a possesion of ours, Syracuse is the largest city in our nation. With foes so close to our borders, we must make haste to turn Syracuse into an impregnable fortress."
+
+onondaga_missions_1_task_2:0 "Towards Rochester"
+onondaga_missions_1_task_DESC:0 ""
+
+onondaga_missions_1_task_3:0 "Towards Utica"
+onondaga_missions_1_task_DESC:0 ""
+
+onondaga_missions_1_task_4:0 "Birthplace of Handsome Lake"
+onondaga_missions_1_task_DESC:0 ""
+
+onondaga_missions_1_task_5:0 "City of the Buffalo"
+onondaga_missions_1_task_DESC:0 ""
+
+onondaga_missions_1_task_6:0 "Utican Administration"
+onondaga_missions_1_task_DESC:0 ""
+
+onondaga_missions_1_task_7:0 "On the Upper St. Lawrence"
+onondaga_missions_1_task_DESC:0 ""
+
+onondaga_missions_1_task_8:0 "Trade on the Mohawk River"
+onondaga_missions_1_task_DESC:0 ""
+
+onondaga_missions_1_task_9:0 "Across Ontario"
+onondaga_missions_1_task_DESC:0 ""
+
+onondaga_missions_1_task_10:0 "Delegation to Albany"
+onondaga_missions_1_task_DESC:0 ""
+
+onondaga_missions_1_task_11:0 "Controlling Upstate"
+onondaga_missions_1_task_DESC:0 ""
+
+onondaga_missions_1_task_12:0 "Controlling the Finger Lakes"
+onondaga_missions_1_task_DESC:0 ""
+
+onondaga_missions_1_task_13:0 "Reuniting the Five Brothers"
+onondaga_missions_1_task_DESC:0 ""
+
+onondaga_missions_1_task_14:0 "Restore the Confederacy"
+onondaga_missions_1_task_DESC:0 ""
+
+onondaga_missions_1_task_15:0 ""
+onondaga_missions_1_task_DESC:0 ""
+
+onondaga_missions_1_task_16:0 ""
+onondaga_missions_1_task_DESC:0 ""
+
+onondaga_missions_1_task_17:0 ""
+onondaga_missions_1_task_DESC:0 ""
+
+onondaga_missions_1_task_18:0 ""
+onondaga_missions_1_task_DESC:0 ""
+
+onondaga_missions_1_task_19:0 ""
+onondaga_missions_1_task_DESC:0 ""
+
+onondaga_missions_1_task_20:0 ""
+onondaga_missions_1_task_DESC:0 ""
+
+
+#Tooltips
+
+
+
+#Modifiers
+syracuse_citadel_mod:0 "Citadel of Syracuse"
+MODIFIER_STATE_FORT_LIMIT: "Local Fort Limit"
+
+
+#Events
+onondaga_missions_event_1_title:0 "$onondaga_missions_1_task_1$"
+onondaga_missions_event_1_desc:0 "[GetProvince('(int32)6853').GetName], formerly a #Y Onondaga#! possesion in time of old has returned to us. [GetCharacter('(int32)37').GetName], in his wisdom, has elected to renovate the old palace of [GetCharacter('(int32)1').GetName], turning it into a proper fortress, along with expanding the palisade already present on the outskirts of the city.\n\nI would like to see those Uticans try to lay siege to [GetProvince('(int32)6853').GetName]'s now mighty walls!"
+onondaga_missions_event_1.a:0 "Ours once more."
+onondaga_missions_event_1_tooltip:0 "The mission task '#Y $onondaga_missions_1_task_1$#!' has now been #G Completed#!!"
+
+onondaga_missions_event_2_title:0 "$onondaga_missions_1_task_2$"
+onondaga_missions_event_2_desc:0 ""
+onondaga_missions_event_2.a:0 ""
+onondaga_missions_event_2_tooltip:0 "The mission task '#Y $onondaga_missions_1_task_2$#!' has now been #G Completed#!!"
+
+onondaga_missions_event_3_title:0 "$onondaga_missions_1_task_3$"
+onondaga_missions_event_3_desc:0 ""
+onondaga_missions_event_3.a:0 ""
+onondaga_missions_event_3_tooltip:0 "The mission task '#Y $onondaga_missions_1_task_3$#!' has now been #G Completed#!!"
+
+onondaga_missions_event_4_title:0 "$onondaga_missions_1_task_4$"
+onondaga_missions_event_4_desc:0 ""
+onondaga_missions_event_4.a:0 ""
+onondaga_missions_event_4_tooltip:0 "The mission task '#Y $onondaga_missions_1_task_4$#!' has now been #G Completed#!!"
+
+onondaga_missions_event_5_title:0 "$onondaga_missions_1_task_5$"
+onondaga_missions_event_5_desc:0 ""
+onondaga_missions_event_5.a:0 ""
+onondaga_missions_event_5_tooltip:0 "The mission task '#Y $onondaga_missions_1_task_5$#!' has now been #G Completed#!!"
+
+onondaga_missions_event_6_title:0 "$onondaga_missions_1_task_6$"
+onondaga_missions_event_6_desc:0 ""
+onondaga_missions_event_6.a:0 ""
+onondaga_missions_event_6_tooltip:0 "The mission task '#Y $onondaga_missions_1_task_6$#!' has now been #G Completed#!!"
+
+onondaga_missions_event_7_title:0 "$onondaga_missions_1_task_7$"
+onondaga_missions_event_7_desc:0 ""
+onondaga_missions_event_7.a:0 ""
+onondaga_missions_event_7_tooltip:0 "The mission task '#Y $onondaga_missions_1_task_7$#!' has now been #G Completed#!!"
+
+onondaga_missions_event_8_title:0 "$onondaga_missions_1_task_8$"
+onondaga_missions_event_8_desc:0 ""
+onondaga_missions_event_8.a:0 ""
+onondaga_missions_event_8_tooltip:0 "The mission task '#Y $onondaga_missions_1_task_8$#!' has now been #G Completed#!!"
+
+onondaga_missions_event_9_title:0 "$onondaga_missions_1_task_9$"
+onondaga_missions_event_9_desc:0 ""
+onondaga_missions_event_9.a:0 ""
+onondaga_missions_event_9_tooltip:0 "The mission task '#Y $onondaga_missions_1_task_9$#!' has now been #G Completed#!!"
+
+onondaga_missions_event_10_title:0 "$onondaga_missions_1_task_10$"
+onondaga_missions_event_10_desc:0 ""
+onondaga_missions_event_10.a:0 ""
+onondaga_missions_event_10_tooltip:0 "The mission task '#Y $onondaga_missions_1_task_10$#!' has now been #G Completed#!!"
+
+onondaga_missions_event_11_title:0 "$onondaga_missions_1_task_11$"
+onondaga_missions_event_11_desc:0 ""
+onondaga_missions_event_11.a:0 ""
+onondaga_missions_event_11_tooltip:0 "The mission task '#Y $onondaga_missions_1_task_11$#!' has now been #G Completed#!!"
+
+onondaga_missions_event_12_title:0 "$onondaga_missions_1_task_12$"
+onondaga_missions_event_12_desc:0 ""
+onondaga_missions_event_12.a:0 ""
+onondaga_missions_event_12_tooltip:0 "The mission task '#Y $onondaga_missions_1_task_12$#!' has now been #G Completed#!!"
+
+onondaga_missions_event_13_title:0 "$onondaga_missions_1_task_13$"
+onondaga_missions_event_13_desc:0 ""
+onondaga_missions_event_13.a:0 ""
+onondaga_missions_event_13_tooltip:0 "The mission task '#Y $onondaga_missions_1_task_13$#!' has now been #G Completed#!!"
+
+onondaga_missions_event_14_title:0 "$onondaga_missions_1_task_14$"
+onondaga_missions_event_14_desc:0 ""
+onondaga_missions_event_14.a:0 ""
+onondaga_missions_event_14_tooltip:0 "The mission task '#Y $onondaga_missions_1_task_14$#!' has now been #G Completed#!!"
+
+onondaga_missions_event_15_title:0 "$onondaga_missions_1_task_15$"
+onondaga_missions_event_15_desc:0 ""
+onondaga_missions_event_15.a:0 ""
+onondaga_missions_event_15_tooltip:0 "The mission task '#Y $onondaga_missions_1_task_15$#!' has now been #G Completed#!!"
+
+onondaga_missions_event_16_title:0 "$onondaga_missions_1_task_16$"
+onondaga_missions_event_16_desc:0 ""
+onondaga_missions_event_16.a:0 ""
+onondaga_missions_event_16_tooltip:0 "The mission task '#Y $onondaga_missions_1_task_16$#!' has now been #G Completed#!!"
+
+onondaga_missions_event_17_title:0 "$onondaga_missions_1_task_17$"
+onondaga_missions_event_17_desc:0 ""
+onondaga_missions_event_17.a:0 ""
+onondaga_missions_event_17_tooltip:0 "The mission task '#Y $onondaga_missions_1_task_17$#!' has now been #G Completed#!!"
+
+onondaga_missions_event_18_title:0 "$onondaga_missions_1_task_18$"
+onondaga_missions_event_18_desc:0 ""
+onondaga_missions_event_18.a:0 ""
+onondaga_missions_event_18_tooltip:0 "The mission task '#Y $onondaga_missions_1_task_18$#!' has now been #G Completed#!!"
+
+onondaga_missions_event_19_title:0 "$onondaga_missions_1_task_19$"
+onondaga_missions_event_19_desc:0 ""
+onondaga_missions_event_19.a:0 ""
+onondaga_missions_event_19_tooltip:0 "The mission task '#Y $onondaga_missions_1_task_19$#!' has now been #G Completed#!!"
+
+onondaga_missions_event_20_title:0 "$onondaga_missions_1_task_20$"
+onondaga_missions_event_20_desc:0 ""
+onondaga_missions_event_20.a:0 ""
+onondaga_missions_event_20_tooltip:0 "The mission task '#Y $onondaga_missions_1_task_20$#!' has now been #G Completed#!!"

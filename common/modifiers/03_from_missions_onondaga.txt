@@ -1,0 +1,5 @@
+﻿
+syracuse_citadel_mod = {
+	local_fort_limit = 1
+	local_defensive = 0.10
+}

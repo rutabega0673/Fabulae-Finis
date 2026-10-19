@@ -325,7 +325,7 @@ ff_startup_event.4 = {
 	type = country_event
 	title = "ff_startup_event.4.t"
 	desc = "ff_startup_event.4.desc"
-	picture = interesting_histories_hellenic_dock
+	picture = event_cahokia
 	goto_location = root.capital_scope
 	left_portrait = current_ruler
 	left_portrait = c:HAB.current_ruler
@@ -335,8 +335,6 @@ ff_startup_event.4 = {
 	right_portrait = c:CMO.current_ruler
 
 	trigger = {
-		tag = MMP
-		tag = MDL
 		capital_scope = {
 			OR = {
 				is_in_region = missouri_region

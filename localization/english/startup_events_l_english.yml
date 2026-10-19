@@ -24,6 +24,6 @@
 
  ff_startup_event.4.t:1 "The Center of the Universe"
  ff_startup_event.4.desc:2 "Known to the #Y Twainists#! and #Y Cahokians#! as the center of the universe and navel of the world, [GetProvince('(int32)4206').GetName] has remained as one of the most important cities along the Mississippi. With all her gilded splendor, it is no wonder that the city has changed hands so many times after the Deluge. First held by the semi-mythical Republic of the Mississippi, the city was then a stronghold of the Cahokian Sun Kings, and thereafter it has been ruled by the Busch Dynasty for more than a generation.\n\nDespite the great wealth and power of [GetCharacter('(int32)0').GetName], the fate of the Gateway to the West lay on a knife's edge. Recent developments have spurred the many factions in the city into action..."
- ff_startup_event.4.a:0 "Who will rule the Paris of the West?"
+ ff_startup_event.4.a:0 "Who will rule Mound City?"
 
  CURRENT_DATE_TOOLTIP:2 "#T Current Date#!\nThe game counts using the Gregorian calendar, which was commonly used by the great empires before The Event.\n\n#TF Pythagoras, when he was asked what time was, answered that it was the soul of this world.#!"
